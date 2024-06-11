@@ -48,7 +48,8 @@ tb_trials <-
   )
 
 # Step 4: Define list of high-income countries
-# Note: Misspellings of country and city name noted on manual inspection also added to list (e.g Korea, Republic of) 
+# Note: Misspellings of country and city names noted on manual inspection are also added to the list 
+# (e.g., "Korea, Republic of")
 high_income_countries <- c(
   "American Samoa", "Germany", "Oman", "Andorra", "Gibraltar", "Panama", "Antigua and Barbuda",
   "Greece", "Poland", "Aruba", "Greenland", "Portugal", "Australia", "Guam", "Puerto Rico",
@@ -76,6 +77,7 @@ print(table(tb_trials$region))
 # Step 6: Select random 100 trials (two-thirds from LIC region)
 source(here::here("R", "random_trials_selector.R"))
 tb_trials <- random_trials_selector(tb_trials, 67, 33)
+write.csv(tb_trials,here::here("data", "clinical-trial-registry", "tuberculosis-trials.csv"))
 
 # Step 7: Determine how many trials have derived publications
 ctgov_references <- readRDS(here::here("data", "clinical-trial-registry", "tuberculosis-trials", "processed", "ctgov-references.rds"))
