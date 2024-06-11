@@ -21,11 +21,38 @@ tb_trials_raw <- read.csv(here::here("data", "clinical-trial-registry",  "tuberc
 
 # Step 1: Read processed tables
 
-# Read the processed table containing study information
+# Read the table containing study information
 tb_studies_raw <- readRDS(here::here("data", "clinical-trial-registry", "tuberculosis-trials", "processed", "ctgov-studies.rds"))
 
-# Read the processed table containing facility affiliations
-tb_facility <- readRDS(here::here("data", "clinical-trial-registry", "tuberculosis-trials", "processed", "ctgov-facility-affiliations.rds"))
+# Read and process the table containing facility affiliations
+tb_facility_raw <- readRDS(here::here("data", "clinical-trial-registry", "tuberculosis-trials", "processed", "ctgov-facility-affiliations.rds"))
+
+# Calculate summary statistics and categorize
+tb_facility_summary <- 
+  tb_facility_raw |>
+  group_by(nct_id) |>
+  summarise(
+    facility_count = n(),
+    country_count = n_distinct(country)
+  ) %>%
+  mutate(
+    category = case_when(
+      facility_count == 1 ~ "Monocentric",
+      facility_count > 1 & country_count == 1 ~ "Multicentric Local",
+      facility_count > 1 & country_count > 1 ~ "Multicentric International",
+      TRUE ~ NA_character_  # Handle any other cases as NA
+    )
+  )
+
+# Merge the category column back into the original data and filter
+tb_facility <- 
+  tb_facility_raw |>
+  left_join(tb_facility_summary |>
+              select(nct_id, category), by = "nct_id") |>
+  filter(category %in% c("Monocentric", "Multicentric Local")) |>
+  select(nct_id, category, country) |>
+  distinct()
+
 
 # Step 2: Convert date columns to Date type
 tb_studies_raw <- tb_studies_raw |>
@@ -33,19 +60,25 @@ tb_studies_raw <- tb_studies_raw |>
     start_date = as.Date(start_date),
     completion_date = as.Date(completion_date),
     primary_completion_date = as.Date(primary_completion_date)
-  )
+  ) 
+
 
 # Step 3: Join the facility address and apply the prodigy clinical trial registry filter
 tb_trials <- 
   tb_studies_raw |>
   left_join(tb_facility, by = "nct_id") |>
+  mutate(
+    category = ifelse(is.na(category), "No location", category)
+  ) |>
   filter(
     !is.na(primary_completion_date),
     !is.na(start_date),
     start_date >= as.Date("2008-01-01"), 
-    primary_completion_date <= as.Date("2019-03-31"),
-    is_multicentric == FALSE
+    completion_date <= as.Date("2019-03-31"),
+    category != "No location"
   )
+
+
 
 # Step 4: Define list of high-income countries
 # Note: Misspellings of country and city names noted on manual inspection are also added to the list 
@@ -75,9 +108,9 @@ tb_trials <-
 print(table(tb_trials$region))
 
 # Step 6: Select random 100 trials (two-thirds from LIC region)
-source(here::here("R", "random_trials_selector.R"))
+source(here::here("R", "random-trials-selector.R"))
 tb_trials <- random_trials_selector(tb_trials, 67, 33)
-write.csv(tb_trials,here::here("data", "clinical-trial-registry", "tuberculosis-trials.csv"))
+write.csv(tb_trials,here::here("data", "clinical-trial-registry", "11-6-2024-tuberculosis-trials.csv"))
 
 # Step 7: Determine how many trials have derived publications
 ctgov_references <- readRDS(here::here("data", "clinical-trial-registry", "tuberculosis-trials", "processed", "ctgov-references.rds"))
