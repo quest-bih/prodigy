@@ -8,7 +8,7 @@ library(here)
 # Step 1: Fetch clinical trials for postpartum depression --------------------------
 
 # Load raw data
-postpartum_depression_trials_raw <- read.csv(here::here("data", "clinical-trial-registry","maternal-health-condition-trials" ,"13-4-2024-postpartum-depression-CT.csv"))
+ppd_trials_raw <- read.csv(here::here("data", "clinical-trial-registry","maternal-health-condition-trials" ,"13-4-2024-postpartum-depression-CT.csv"))
 
 # Download and process AACT table (comment out for now)
 #aactr::download_aact(
@@ -21,11 +21,39 @@ postpartum_depression_trials_raw <- read.csv(here::here("data", "clinical-trial-
 
 
 # Read processed data
-postpartum_depression_studies <- read_rds(here::here("data", "clinical-trial-registry","maternal-health-condition-trials","ppd_processed", "ctgov-studies.rds"))
-postpartum_depression_facility <- read_rds(here::here("data", "clinical-trial-registry", "maternal-health-condition-trials", "ppd_processed", "ctgov-facility-affiliations.rds"))
+ppd_studies_raw <- readRDS(here::here("data", "clinical-trial-registry","maternal-health-condition-trials","ppd_processed", "ctgov-studies.rds"))
+ppd_facility_raw <- readRDS(here::here("data", "clinical-trial-registry", "maternal-health-condition-trials", "ppd_processed", "ctgov-facility-affiliations.rds"))
+
+# Calculate summary statistics and categorize
+ppd_facility_summary <- 
+  ppd_facility_raw |>
+  group_by(nct_id) |>
+  summarise(
+    facility_count = n(),
+    country_count = n_distinct(country)
+  ) |>
+  mutate(
+    category = case_when(
+      facility_count == 1 ~ "Monocentric",
+      facility_count > 1 & country_count == 1 ~ "Multicentric Local",
+      facility_count > 1 & country_count > 1 ~ "Multicentric International",
+      TRUE ~ NA_character_  # Handle any other cases as NA
+    )
+  )
+
+# Merge the category column back into the original data and filter
+ppd_facility <- 
+  ppd_facility_raw |>
+  left_join(ppd_facility_summary |>
+              select(nct_id, category), by = "nct_id") |>
+  filter(category %in% c("Monocentric", "Multicentric Local")) |>
+  select(nct_id, category, country) |>
+  distinct()
+
+
 
 # Convert date columns to Date type
-postpartum_depression_studies <- postpartum_depression_studies |>
+ppd_studies <- ppd_studies_raw |>
   mutate(
     start_date = as.Date(start_date),
     completion_date = as.Date(completion_date),
@@ -33,15 +61,15 @@ postpartum_depression_studies <- postpartum_depression_studies |>
   )
 
 # Join facility address and apply filters
-postpartum_depression_trials <- 
-  postpartum_depression_studies |>
-  left_join(postpartum_depression_facility, by = "nct_id") |>
+ppd_trials <- 
+  ppd_studies |>
+  left_join(ppd_facility, by = "nct_id") |>
   filter(
     !is.na(primary_completion_date),
     !is.na(start_date),
     start_date >= as.Date("2008-01-01"), 
-    primary_completion_date <= as.Date("2019-03-31"),
-    is_multicentric == FALSE
+    completion_date <= as.Date("2019-03-31"),
+    category != "No location"
   )
 
 # Create a new column 'region' based on the country classification
@@ -63,9 +91,11 @@ high_income_countries <- c(
   "Virgin Islands (U.S.)", "Guyana", "Norway"
 )
 
-postpartum_depression_trials <- 
-  postpartum_depression_trials |>
+ppd_trials <- 
+  ppd_trials |>
   mutate(region = ifelse(country %in% high_income_countries, "HIC", "LMIC"))
+
+table(ppd_trials$region)
 
 # Step 2: Fetch clinical trials for maternal sepsis --------------------------
 
@@ -86,16 +116,40 @@ maternal_sepsis_trials_raw <-
 #)
 #aactr::process_aact(dir_in = here::here("data","clinical-trial-registry", "maternal-health-condition-trials", "sepsis_raw"), dir_out = here::here("data","clinical-trial-registry","maternal-health-condition-trials", "sepsis_processed"))
 
-# Read processed table
-ms_studies_raw <- readRDS(here::here("data", "clinical-trial-registry","maternal-health-condition-trials","sepsis_processed", "ctgov-studies.rds"))
-ms_facility <- readRDS(here::here("data", "clinical-trial-registry", "maternal-health-condition-trials", "sepsis_processed", "ctgov-facility-affiliations.rds"))
-
 # Read processed data
 maternal_sepsis_studies_raw <- readRDS(here::here("data", "clinical-trial-registry","maternal-health-condition-trials","sepsis_processed", "ctgov-studies.rds"))
-maternal_sepsis_facility <- readRDS(here::here("data", "clinical-trial-registry", "maternal-health-condition-trials", "sepsis_processed", "ctgov-facility-affiliations.rds"))
+maternal_sepsis_facility_raw <- readRDS(here::here("data", "clinical-trial-registry", "maternal-health-condition-trials", "sepsis_processed", "ctgov-facility-affiliations.rds"))
+
+# Calculate summary statistics and categorize
+maternal_sepsis_facility_summary <- 
+  maternal_sepsis_facility_raw |>
+  group_by(nct_id) |>
+  summarise(
+    facility_count = n(),
+    country_count = n_distinct(country)
+  ) |>
+  mutate(
+    category = case_when(
+      facility_count == 1 ~ "Monocentric",
+      facility_count > 1 & country_count == 1 ~ "Multicentric Local",
+      facility_count > 1 & country_count > 1 ~ "Multicentric International",
+      TRUE ~ NA_character_  # Handle any other cases as NA
+    )
+  )
+
+# Merge the category column back into the original data and filter
+maternal_sepsis_facility <- 
+  maternal_sepsis_facility_raw |>
+  left_join(maternal_sepsis_facility_summary |>
+              select(nct_id, category), by = "nct_id") |>
+  filter(category %in% c("Monocentric", "Multicentric Local")) |>
+  select(nct_id, category, country) |>
+  distinct()
+
+
 
 # Convert date columns to Date type
-maternal_sepsis_studies_raw <- maternal_sepsis_studies_raw |>
+maternal_sepsis_studies <- maternal_sepsis_studies_raw |>
   mutate(
     start_date = as.Date(start_date),
     completion_date = as.Date(completion_date),
@@ -104,20 +158,22 @@ maternal_sepsis_studies_raw <- maternal_sepsis_studies_raw |>
 
 # Join facility address and apply filters
 maternal_sepsis_trials <- 
-  maternal_sepsis_studies_raw |>
+  maternal_sepsis_studies |>
   left_join(maternal_sepsis_facility, by = "nct_id") |>
   filter(
     !is.na(primary_completion_date),
     !is.na(start_date),
     start_date >= as.Date("2008-01-01"), 
-    primary_completion_date <= as.Date("2019-03-31"),
-    is_multicentric == FALSE
+    completion_date <= as.Date("2019-03-31"),
+    category != "No location"
   )
 
 # Create a new column 'region' based on the country classification
 maternal_sepsis_trials <- 
   maternal_sepsis_trials |>
   mutate(region = ifelse(country %in% high_income_countries, "HIC", "LMIC"))
+
+table(maternal_sepsis_trials$region)
 
 # Step 3: Fetch clinical trials for anemia-------------------
 
@@ -134,9 +190,34 @@ anemia_trials_raw <- read.csv(here::here("data", "clinical-trial-registry","mate
 
 
 # Read AACT table
-anemia_studies_raw <- read_rds(here::here("data", "clinical-trial-registry","maternal-health-condition-trials","anemia_processed", "ctgov-studies.rds"))
-anemia_facility <- read_rds(here::here("data", "clinical-trial-registry", "maternal-health-condition-trials", "anemia_processed", "ctgov-facility-affiliations.rds"))
+anemia_studies_raw <- readRDS(here::here("data", "clinical-trial-registry","maternal-health-condition-trials","anemia_processed", "ctgov-studies.rds"))
+anemia_facility_raw <- readRDS(here::here("data", "clinical-trial-registry", "maternal-health-condition-trials", "anemia_processed", "ctgov-facility-affiliations.rds"))
 
+# Calculate summary statistics and categorize
+anemia_facility_summary <- 
+  anemia_facility_raw |>
+  group_by(nct_id) |>
+  summarise(
+    facility_count = n(),
+    country_count = n_distinct(country)
+  ) |>
+  mutate(
+    category = case_when(
+      facility_count == 1 ~ "Monocentric",
+      facility_count > 1 & country_count == 1 ~ "Multicentric Local",
+      facility_count > 1 & country_count > 1 ~ "Multicentric International",
+      TRUE ~ NA_character_  # Handle any other cases as NA
+    )
+  )
+
+# Merge the category column back into the original data and filter
+anemia_facility <- 
+  anemia_facility_raw |>
+  left_join(anemia_facility_summary |>
+              select(nct_id, category), by = "nct_id") |>
+  filter(category %in% c("Monocentric", "Multicentric Local")) |>
+  select(nct_id, category, country) |>
+  distinct()
 
 # Convert date columns to Date type
 anemia_studies_raw <- anemia_studies_raw |>
@@ -154,8 +235,8 @@ anemia_trials <-
     !is.na(primary_completion_date),
     !is.na(start_date),
     start_date >= as.Date("2008-01-01"), 
-    primary_completion_date <= as.Date("2019-03-31"),
-    is_multicentric == FALSE
+    completion_date <= as.Date("2019-03-31"),
+    category != "No location"
   )
 
 
@@ -164,18 +245,19 @@ anemia_trials <-
   anemia_trials |>
   mutate(region = ifelse(country %in% high_income_countries, "HIC", "LMIC"))
 
+table(anemia_trials$region)
 
 # Step 4: Add all trials for maternal health condition of  postpartum depression ,anemia and sepsis----------
 
 # Add all trial condition to get maternal health trials
-maternal_health_trials <- rbind(postpartum_depression_trials, maternal_sepsis_trials, anemia_trials)
+maternal_health_trials <- rbind(ppd_trials, maternal_sepsis_trials, anemia_trials)
 
 # source function to select random trials
-source(here::here("R", "random_trials_selector.R"))
+source(here::here("R", "random-trials-selector.R"))
 maternal_health_trials <-  random_trials_selector(maternal_health_trials, 67, 33)
 
 # save the maternal health condition dataset
-write.csv(maternal_health_trials,here::here("data", "clinical-trial-registry", "maternal-health-trials.csv"))
+write.csv(maternal_health_trials,here::here("data", "clinical-trial-registry", "11-6-2024-maternal-health-trials.csv"))
 
 # Step 5: Analyze publications derived from clinical trials -------------------------
 
