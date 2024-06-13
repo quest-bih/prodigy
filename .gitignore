@@ -1,0 +1,31 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+
+# Data
+data/*
+
+# Folder
+PDF_folder/*
+pdfRetrieve/*
+output_folder/*
+
+
+
+# Script
+R/extra/*
+
+# quarto
+quarto/images/
+
+
+# Cache
+cache/*
+
+# Queries
+queries.log
+
+# config file
+config.ini
