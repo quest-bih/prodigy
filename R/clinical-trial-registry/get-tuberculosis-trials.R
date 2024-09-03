@@ -75,7 +75,10 @@ tb_trials <-
     !is.na(start_date),
     start_date >= as.Date("2008-01-01"), 
     completion_date <= as.Date("2019-03-31"),
-    category != "No location"
+    category != "No location",
+    recruitment_status != "Withdrawn",
+    study_type != "Observational"
+    
   )
 
 
@@ -110,7 +113,7 @@ print(table(tb_trials$region))
 # Step 6: Select random 100 trials (two-thirds from LIC region)
 source(here::here("R", "random-trials-selector.R"))
 tb_trials <- random_trials_selector(tb_trials, 67, 33)
-write.csv(tb_trials,here::here("data", "clinical-trial-registry", "11-6-2024-tuberculosis-trials.csv"))
+write.csv(tb_trials,here::here("data", "clinical-trial-registry", "17-6-2024-tuberculosis-trials.csv"))
 
 # Step 7: Determine how many trials have derived publications
 ctgov_references <- readRDS(here::here("data", "clinical-trial-registry", "tuberculosis-trials", "processed", "ctgov-references.rds"))

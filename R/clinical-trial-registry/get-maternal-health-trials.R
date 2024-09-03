@@ -69,7 +69,9 @@ ppd_trials <-
     !is.na(start_date),
     start_date >= as.Date("2008-01-01"), 
     completion_date <= as.Date("2019-03-31"),
-    category != "No location"
+    category != "No location",
+    recruitment_status != "Withdrawn",
+    study_type != "Observational"
   )
 
 # Create a new column 'region' based on the country classification
@@ -165,7 +167,9 @@ maternal_sepsis_trials <-
     !is.na(start_date),
     start_date >= as.Date("2008-01-01"), 
     completion_date <= as.Date("2019-03-31"),
-    category != "No location"
+    category != "No location",
+    recruitment_status != "Withdrawn",
+    study_type != "Observational"
   )
 
 # Create a new column 'region' based on the country classification
@@ -236,7 +240,9 @@ anemia_trials <-
     !is.na(start_date),
     start_date >= as.Date("2008-01-01"), 
     completion_date <= as.Date("2019-03-31"),
-    category != "No location"
+    category != "No location",
+    recruitment_status != "Withdrawn",
+    study_type != "Observational"
   )
 
 
@@ -257,7 +263,7 @@ source(here::here("R", "random-trials-selector.R"))
 maternal_health_trials <-  random_trials_selector(maternal_health_trials, 67, 33)
 
 # save the maternal health condition dataset
-write.csv(maternal_health_trials,here::here("data", "clinical-trial-registry", "11-6-2024-maternal-health-trials.csv"))
+#write.csv(maternal_health_trials,here::here("data", "clinical-trial-registry", "17-6-2024-maternal-health-trials.csv"))
 
 # Step 5: Analyze publications derived from clinical trials -------------------------
 
