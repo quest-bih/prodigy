@@ -33,7 +33,7 @@ table(global_health_articles$`Sub: Study type`)
 #dois <- global_health_articles$DOI
 
 # Define the email and folder for saving PDFs
-#email <- "samruddhi2815@gmail.com"
+#email <- "my-email"
 #save_folder <- "./PDF_folder"
 
 # Retrieve PDFs using pdf_retrieve
