@@ -1,4 +1,5 @@
-# This script assesses clinical trial publication in global health journals
+# PRODIGY: An exploratory analysis of transparency and stakeholder engagement in Global Health Research
+# This script assesses sample of trial result publications from selected global health journals (see supplementary file: https://osf.io/pxj52)
 
 library(unpaywallR)
 library(oddpub)
@@ -34,7 +35,7 @@ dois <- global_health_articles$DOI
 
 # Define the email and folder for saving PDFs
 email <- "my-email"
-save_folder <- "./PDF_folder"
+save_folder <- "./data/global-health-journal/PDF_folder"
 
 # Retrieve PDFs using pdf_retrieve
 # Note: Ensure pdf_retrieve can handle a vector of DOIs
@@ -45,8 +46,8 @@ pdfRetrieve::pdf_retrieve(
 )
 
 # Converts PDFs contained in one folder to txt-files and saves them into the output folder.
-output_folder <- "C:/Users/hp/Documents/GitHub/prodigy/Output_folder/"
-oddpub::pdf_convert(here::here("PDF_folder"), output_folder)
+output_folder <- "C:/Users/hp/Documents/GitHub/prodigy/data/global-health-journal/Output_folder/"
+oddpub::pdf_convert(here::here("data/global-health-journal/PDF_folder"), output_folder)
 
 # Loads all text files from given folder.
 PDF_text_sentences <- oddpub::pdf_load(output_folder)

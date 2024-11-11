@@ -1,6 +1,6 @@
-# PRODIGY: An exploratory analysis of transparency and patient engagement in Global Health Research
+# PRODIGY: An exploratory analysis of transparency and stakeholder engagement in Global Health Research
 
-# This script prepares final clinical trial registry sample for analysis
+# This script analyses final clinical trial registry sample for analysis
 # This code is adapted from Nordic trial reporting project (https://github.com/cathrineaxfors/nordic-trial-reporting/tree/main). 
 
 # Load packages ----

@@ -1,8 +1,9 @@
-# PRODIGY: An exploratory analysis of transparency and patient engagement in Global Health Research
-# Description: This script fetches analyzes clinical trials related to maternal health conditions (postpartum depression, maternal sepsis, maternal anemia) and tuberculosis trials from ClinicalTrials.gov.
+# PRODIGY: An exploratory analysis of transparency and stakeholder engagement in Global Health Research
+# Description: This script fetches clinical trials related to maternal health conditions (postpartum depression, maternal sepsis, maternal anemia) and tuberculosis trials from ClinicalTrials.gov.
+# For details see : https://osf.io/hqdns/
 
 # Note
-# We downloaded the raw data from ClinicalTrials.gov using relevant MeSH terms for the disease (see supplementary file:https://osf.io/hqdns/).
+# We downloaded the raw data from ClinicalTrials.gov using relevant MeSH terms for the disease (see supplementary file:https://osf.io/pxj52).
 # Processed data from the aactr package is used in the script, and code for data processing is commented out.
 # The user should use the aactr package, as shown below, to fetch relevant information for identified trials.
 

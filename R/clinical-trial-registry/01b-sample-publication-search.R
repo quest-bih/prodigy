@@ -1,4 +1,4 @@
-# PRODIGY: An exploratory analysis of transparency and patient engagement in Global Health Research
+# PRODIGY: An exploratory analysis of transparency and stakeholder engagement in Global Health Research
 
 # This scripts is extension of manual publication searches for included clinical trials (see:https://osf.io/hqdns/)
 
