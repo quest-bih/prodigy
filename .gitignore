@@ -5,15 +5,10 @@
 prodigy.Rproj
 
 
-# Data
-data/*
-
 # Folder
 PDF_folder/*
 pdfRetrieve/*
 output_folder/*
-
-
 
 # Script
 R/extra/*
