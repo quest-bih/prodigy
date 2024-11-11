@@ -1,13 +1,13 @@
-# PRODIGY: An exploratory analysis of transparency and stakeholder engagement in Global Health Research
+# PRODIGY: An exploratory analysis of transparency and stakeholder engagement in a generated sample of global health studies
 Data processing and analysis: Research project on exploratory analysis of transparency and stakeholder engagement in Global Health Research (https://osf.io/hqdns/)
-Data: OSF (https://osf.io/hqdns/) and PRODIGY GitHub account ()
-Publication: TBD
+- Data: OSF (https://osf.io/hqdns/) and PRODIGY GitHub account (https://github.com/quest-bih/prodigy/tree/main)
+- Publication: TBD
 
 ## Data sources
-We generated and analysed a random GHR sample using three sources: 
-(1) interventional trials from ClinicalTrials.gov (2008-2019), focusing on tuberculosis and maternal health conditions, with 2/3rd from low-and-middle-income countries (LMIC):
-(2) trial result publications from global health journals published post-2011, identified via PubMed: 
-(3) studies listed on selected global health funder websites: 
+We generated and analysed a random global health studies sample using the following sources: 
+- Interventional trials from ClinicalTrials.gov (2008-2019), focusing on tuberculosis and maternal health conditions, with 2/3rd from low-and-middle-income countries (LMIC)
+- Clinical trial result publications from global health journals published post-2011, identified via PubMed
+- Studies listed from a selected global health funder website
 
 ##  Overview of scripts
 Clinical-trial-registry (Trials involving global health issues, specifically maternal health and tuberculosis)
