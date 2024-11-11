@@ -1,5 +1,6 @@
 # PRODIGY: An exploratory analysis of transparency and patient engagement in Global Health Research
 
+# This scripts is extension of manual publication searches for included clinical trials (see:https://osf.io/hqdns/)
 
 library(here)
 library(dplyr)
@@ -103,4 +104,4 @@ table(reconciliation_check$is_match)
 #FALSE  TRUE 
 #77   123 
 
-#write.csv(reconciliation_check, here::here("data", "clinical-trial-registry", "publication_search", "reconciliation_check.csv"), row.names = FALSE)
+#write.csv(reconciliation_check, here::here("data", "clinical-trial-registry", "publication_search", "reconciliation_check_final.csv"), row.names = FALSE)

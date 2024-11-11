@@ -2,7 +2,7 @@
 # Description: This script fetches analyzes clinical trials related to maternal health conditions (postpartum depression, maternal sepsis, maternal anemia) and tuberculosis trials from ClinicalTrials.gov.
 
 # Note
-# We downloaded the raw data from ClinicalTrials.gov using relevant MeSH terms for the disease.
+# We downloaded the raw data from ClinicalTrials.gov using relevant MeSH terms for the disease (see supplementary file:https://osf.io/hqdns/).
 # Processed data from the aactr package is used in the script, and code for data processing is commented out.
 # The user should use the aactr package, as shown below, to fetch relevant information for identified trials.
 
@@ -12,7 +12,7 @@ library(aactr) # to use this package, generate username and password at https://
 library(here)
 
 
-# **Part 1:Maternal health trial----
+# **Part 1:Maternal health trials----
 
 # Step 1: Fetch clinical trials for postpartum depression --------------------------
 
@@ -274,7 +274,7 @@ maternal_health_trials <-  random_trials_selector(maternal_health_trials, 67, 33
 # save the maternal health condition dataset
 #write.csv(maternal_health_trials,here::here("data", "clinical-trial-registry", "17-6-2024-maternal-health-trials.csv"))
 
-### **Part 2: Tuberculosis clinical trial-----
+### **Part 2: Tuberculosis clinical trials-----
 
 # This script processes clinical trials with the condition "tuberculosis" from ClinicalTrials.gov
 

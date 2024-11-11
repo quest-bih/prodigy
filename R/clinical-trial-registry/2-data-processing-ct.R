@@ -70,7 +70,7 @@ table(ct_all$recruitment_status)
 
 # Get reconciled publication searches
 reconciliation_ps_final_raw <- 
-  read.csv(here::here("data", "clinical-trial-registry", "publication_search", "reconciliation_check_final_part-1.csv"), check.names = FALSE) 
+  read.csv(here::here("data", "clinical-trial-registry", "publication_search", "reconciliation_check_final.csv"), check.names = FALSE) 
 
 ct_all <- 
   reconciliation_ps_final_raw |>
