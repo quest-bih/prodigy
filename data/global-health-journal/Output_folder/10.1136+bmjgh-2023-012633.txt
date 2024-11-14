@@ -1,0 +1,1350 @@
+
+<section> To cite: Watson J, Osman IM-­E,
+ 
+<section> Amon-­Tanoh M, et al. A
+ cluster-­randomised controlled
+ equivalence trial of the Surprise
+ Soap handwashing intervention
+ among older children living
+ 
+<section> in a refugee settlement in
+ 
+<section> Sudan. BMJ Glob Health
+ 2023;8:e012633. doi:10.1136/
+ 
+<section> bmjgh-2023-012633
+ 
+<section> Handling editor Valery Ridde
+ 
+<section> ► Additional supplemental
+ material is published online only.
+ To view, please visit the journal
+ online (http://​dx. d oi.​org/​10.​
+ 1136/ b mjgh-​2023- 12633).
+ 
+<section> Received 20 April 2023
+ Accepted 9 September 2023
+ 
+<section> © Author(s) (or their
+ employer(s)) 2023. Re-­use
+ permitted under CC BY-­NC. No
+ commercial re-­use. See rights
+ and permissions. Published by
+ BMJ.
+ Department of Disease Control,
+ London School of Hygiene and
+ Tropical Medicine, London, UK
+ Care International, Khartoum,
+ 
+<section> Sudan
+ Save the Children International,
+ London, UK
+ 
+<section> Department of Medical
+ Statistics, London School of
+ Hygiene & Tropical Medicine,
+ 
+<section> London, UK
+ 
+<section> Correspondence to
+ 
+<section> Dr. Julie Watson;
+ ​julie.​watson@​lshtm.​ac. u k
+ 
+<section> A cluster-­randomised
+ 
+<section> equivalence trial of the
+ 
+<section> handwashing intervention
+ 
+<section> children living in a refugee
+ 
+<section> in Sudan
+ 
+<section> Julie Watson , 1 Ibtihal Mohammed-­Elhassan
+ Claudio Deola, 3 Amy MacDougall, 4 Oliver Cumming
+ 
+<section> ABSTRACT
+ 
+<section> Introduction Increasing handwashing with soap
+ (HWWS) among older children in emergency settings can
+ have a large public health impact, however, evidence
+ on what works is limited. One promising approach is
+ the ‘Surprise Soap’ intervention in which a novel soap
+ with an embedded toy is delivered to children in a
+ short, participatory household session that includes a
+ glitter game and HWWS practice. Here, we evaluate this
+ intervention against a standard intervention in a complex
+ emergency setting.
+ 
+<section> Methods A cluster-­randomised controlled equivalence
+ trial was conducted in Naivasha refugee settlement,
+ Sudan. Blinding was not possible. 203 randomly selected
+ households, with at least one child aged 5–12, were
+ randomised to receive the Surprise Soap intervention
+ (n=101) or a standard intervention comprising a short
+ household session with health messaging and plain
+ soap distribution (n=102). The primary outcome was
+ the proportion of prespecified potential HWWS events
+ observed for children aged 5–12, accompanied by
+ HWWS, at baseline, 4, 12 and 16 weeks post intervention
+ delivery.
+ 
+<section> Results 200 households were included in the analyses:
+ 101 intervention and 99 control. No difference in
+ intervention effectiveness was observed at any follow-­up
+ (4 weeks: adjusted rate ratio (RR) 1.2, 95% CI 0.8 to 1.7;
+ 12 weeks: RR 0.8, 95% CI 0.5 to 1.1; 16 weeks: RR 1.1,
+ 95% CI 0.8 to 1.5). However, we observed increased HWWS
+ in both arms at 4 weeks (27 and 23 percentage point
+ increase in the intervention and control arm, respectively)
+ that was sustained at 16 weeks.
+ 
+<section> Conclusions We find that the Surprise Soap intervention
+ is no more effective at increasing older children’s
+ HWWS than a standard, household-­level, health-­based
+ intervention in this complex humanitarian emergency.
+ There appears to be no marginal benefit in terms of HWWS
+ that would justify the additional cost of implementing
+ the Surprise Soap intervention. Further trials that include
+ a passive control arm are needed to determine the
+ independent effects of each intervention and guide future
+ intervention design.
+ 
+<section> controlled
+ 
+<section> Surprise Soap
+ 
+<section> among older
+ 
+<section> settlement
+ 
+<section> Osman, 2 Maud Amon-­Tanoh ,
+ 
+<section> WHAT IS ALREADY KNOWN ON THIS TOPIC
+ 
+<section> ⇒ The Surprise Soap intervention—a handwashing in-
+ tervention in which a novel soap with an embedded
+ toy is delivered to older children in a participatory
+ household session including a glitter game—has
+ had promising results in a refugee camp in Iraq but
+ it is unclear if it is effective in different complex hu-
+ manitarian settings.
+ 
+<section> WHAT THIS STUDY ADDS
+ 
+<section> ⇒ This study adds to the limited evidence base
+ on what works in handwashing promotion for
+ children in humanitarian contexts and specifi-
+ cally to existing evidence on the effectiveness
+ of the Surprise Soap intervention in different
+ humanitarian settings. Results show that the
+ Surprise Soap intervention is no more effective
+ at increasing children’s handwashing than a
+ standard, household-­level intervention involving
+ health-­b ased messaging and provision of plain
+ soap, in a refugee settlement in Sudan.
+ 
+<section> HOW THIS STUDY MIGHT AFFECT RESEARCH,
+ 
+<section> PRACTICE OR POLICY
+ 
+<section> ⇒ Implementing agencies should note that there
+ appears to be no marginal benefit, in terms of
+ handwashing, of implementing the Surprise
+ Soap intervention over a standard intervention
+ that would justify the additional cost. Further re-
+ search is needed to determine the independent
+ effects of each intervention and guide future in-
+ tervention design.
+ 
+<section> INTRODUCTION
+ Handwashing with soap (HWWS) is an impor-
+ tant public health behaviour that reduces
+ transmission of infectious disease. HWWS
+ alone can reduce diarrhoeal disease by 30%
+ and acute respiratory infections (ARIs) by
+ 21%–23%. 2 3 HWWS has also been shown to
+ reduce some neglected tropical diseases, such 
+<section> as trachoma 4 and certain soil-­transmitted helminth infec-
+ tions. 5
+ To date, the majority of HWWS interventions have
+ targeted caregivers as they are typically responsible for the
+ hygiene of children under the age of 5—the age group
+ at greatest risk of diarrhoeal disease and ARIs. 7 However,
+ older children (classified as children between the ages of
+ 5 and 14 by the Global Burden of Disease studies ), also
+ bear a high burden of these diseases. 7 Older children are
+ becoming more independent. They are likely leaving the
+ house more often, they may be starting or are already in
+ school and are taking responsibility for their own hand-
+ washing. Interventions directly targeting older children
+ and encouraging them to practise HWWS are therefore
+ also of great public health importance.
+ HWWS interventions that reduce the transmission of
+ diarrhoeal disease and ARIs among older children not
+ only leads to lower rates of morbidity and mortality but
+ also to non-­health benefits such as reductions in rates of
+ school absence, 8–12 and consequently to higher academic
+ attainment, 13 14 and associated economic and health
+ benefits later in life. 15 After receiving HWWS interven-
+ tions, older children may also act as agents of change,
+ spreading these messages to their family members and
+ the broader community. 16–20
+ Interventions that increase older children’s HWWS in
+ humanitarian settings are especially important. Children
+ may constitute over half of the humanitarian population
+ and factors in the environment, such as overcrowding,
+ unclean water and sanitation facilities, environmental
+ contamination and limited access to healthcare heighten
+ their risk of disease. 21–24 Faecal-­oral diseases such as diar-
+ rhoea, for example, are responsible for up to 40% of all
+ deaths in the acute phase of an emergency.
+ Evidence on what works in HWWS interventions
+ targeted at older children is limited, particularly in
+ humanitarian settings. Few HWWS interventions have
+ been rigorously evaluated and those that have, have had
+ mixed success. 25 26 One recent intervention which may be
+ effective among older children in humanitarian settings
+ is the ‘Surprise Soap’ intervention. 27 This intervention
+ purports to encourage children’s HWWS by appealing
+ to their innate motives of play and curiosity. Children
+ receiving the intervention are given bars of Surprise
+ Soap—transparent soaps with a toy embedded inside—
+ within a short household session that communicates the
+ importance of HWWS through fun, participatory activi-
+ ties including a glitter game and HWWS practice, rather
+ than via traditional health-­based messaging, which past
+ research suggests may be a poor motivator of behaviour
+ change. 28–31 The toy inside the soap incentivises children
+ to wash their hands.
+ An initial proof-­of-­concept trial of the Surprise Soap
+ intervention among children living in an internally
+ displaced persons (IDP) camp in Iraq found that after
+ receiving this intervention children were four times more
+ likely to practice HWWS at key times compared with the
+ counterfactual—a standard health-­based household-­level
+ handwashing intervention. 27 This trial was, however,
+ limited to just one camp where the population was stable
+ and homogenous (100% Yezidi), there was good access
+ to soap and water, and children were already frequently
+ exposed to hygiene promotion. Additionally, HWWS was
+ only measured at one follow-­up, 4 weeks after interven-
+ tion delivery. After this study, there were still unanswered
+ questions: can the intervention be effective in different,
+ more complex humanitarian settings where populations
+ may be mixed and unstable, access to soap and water are
+ lower, and there is little pre-­existing exposure to hygiene
+ promotion and can the effect of the intervention be
+ sustained beyond 4 weeks?
+ To address these questions, two separate cluster-­
+ randomised controlled equivalence trials were conducted,
+ each with a follow-­up period of 16 weeks—one across IDP
+ camps in Somalia and one in a large refugee settlement
+ in Sudan. Both of these are complex humanitarian sites,
+ which face specific challenges. Both sites suffer from
+ limited infrastructure, political and population instability,
+ poor access to healthcare, poor access to handwashing
+ facilities with both soap and water, and limited exposure
+ to health promotion, including HWWS promotion. The
+ site in Somalia, however, hosts an ethnically heteroge-
+ neous, internally displaced population whereas the site in
+ Sudan hosts an ethnically homogeneous refugee popula-
+ tion. In each trial, the effect of the Surprise Soap inter-
+ vention on older children’s HWWS was compared with
+ an active control—‘standard’ household-­level interven-
+ tion comprising health-­based messages and plain soap.
+ The results of the Somalia trial have been reported else-
+ where. 32 Here, we report the results of the trial in Sudan.
+ Our findings contribute both to the limited evidence base
+ for HWWS interventions targeting older children and
+ serve as a guide for any organisation seeking to deliver
+ effective HWWS interventions in humanitarian settings.
+ 
+<section> METHODS
+ 
+<section> As described above, this is the second of two trials to
+ assess the same intervention delivered in two different
+ humanitarian settings by two different agencies. The
+ study design and methods were standardised across both
+ sites to permit comparison between studies and have
+ been described previously.
+ 
+<section> Study design and participants/eligibility
+ This study is reported according to the Consolidated
+ Standards of Reporting Trials (CONSORT) reporting
+ guidelines. 33 This study was a cluster-­ randomised
+ controlled equivalence trial with an intervention arm
+ receiving the Surprise Soap intervention and an active
+ control arm receiving a standard handwashing interven-
+ tion. The study took place between October 2021 and
+ March 2022. Households were eligible to participate in
+ the study if they included at least one child aged between
+ 5 and 12 years and had no plans to travel away for more
+ than 1 week over the ensuing 6 months. Individual 
+<insert> Table 1 Overview of intervention activities in each study arm
+ Intervention arm
+ Intervention
+ Setting
+ Surprise Soap Intervention
+ Household
+ Intensity One-­off promotion session with delivery agents,
+ by three subsequent visits from agents to replenish
+ only
+ Session length 10–15 min
+ Approach Targeting motives of play and curiosity and providing
+ knowledge of how and when to wash hands
+ Products Surprise Soap
+ ×5 bars, plus later replenishments 
+<iend>
+
+ 
+<section> households were
+ intervention arm
+ 
+<section> Study setting
+ The study took place
+ refugee settlement
+ is one of the largest
+ ments, termed ‘open
+ settlement was established
+ Humanitarian Aid
+ registered refugees,
+ specifically from
+ tions on shelter
+ Naivasha reside in
+ sheets, burlap, branches
+ suffers from a lack
+ infrastructure system
+ to frequent power
+ electricity), as well
+ sanitation and solid
+ water and sanitation,
+ as healthcare and
+ services dependent
+ of children out-­of-­school.
+ particularly gender-­based
+ study, Care International
+ tation, and Hygiene
+ was accessed from
+ tion was irregular,
+ purchasing it is considered
+ five hygiene promoters
+ time of the study;
+ targeted at children.
+ 
+<section> Activities
+ 
+<section> Delivery agent
+ 
+<section> then randomly assigned (1:1) to the
+ or the active control arm.
+ 
+<section> among households in the Naivasha
+ in Khartoum state, Sudan. Naivasha
+ of the nine informal refugee settle-
+ areas’, within Khartoum state. The
+ in 2017 and is managed by the
+ Commission. It houses over 10
+ mostly from South Sudan 34 and
+ the Dinka ethnic group. Due to restric-
+ distribution, most of the population in
+ makeshift shelters created from plastic
+ and bamboo. The settlement
+ of integration within the networked
+ found within Khartoum, leading
+ cuts, (assuming the household has
+ as limited access to drinking water,
+ waste management services. Beyond
+ access to other basic services such
+ education is limited, with health
+ on humanitarian funding and 24%
+ Protection risks are also high,
+ violence. 34 At the time of this
+ was the provider of Water, Sani-
+ (WASH) services to Naivasha. Water
+ communal pipes and soap distribu-
+ leaving residents often without soap as
+ unaffordable by many. Forty-­
+ were active in Naivasha at the
+ however, hygiene promotion was rarely
+ Glitter game to demonstrate germs spreading
+ Demonstration of handwashing technique
+ Information on key times to wash hands
+ Children practicing handwashing with Surprise Soap
+ Care international hygiene promoters specifically
+ to deliver the Surprise Soap intervention (no overlap
+ with the hygiene promoters delivering the standard
+ 
+<section> intervention)
+ 
+<section> Intervention content and delivery
+ Households assigned to the intervention arm received the
+ Surprise Soap intervention, and households assigned to
+ the active control arm received a standard handwashing
+ promotion intervention. Each intervention was delivered
+ to children at their house the day after baseline observa-
+ tion was carried out. Hygiene promoters, already active
+ under Care International were trained to deliver both
+ interventions. The main features of the two interventions
+ are presented in table 1 with further details given below.
+ 
+<section> Surprise Soap intervention
+ The Surprise Soap intervention consisted of distribu-
+ tion of Surprise Soap bars within a short (approximately
+ 10–15 min) participatory household session in which
+ children played a ‘glitter game’ and practised HWWS
+ (table 1). Surprise Soaps are transparent glycerine soaps
+ (145 g soap/bar) with toy animals embedded inside
+ (figure 1). All soap bars were manufactured by the
+ company, KIMA, in Jordan. Brief formative work which
+ involved showing photos of potential toy options and
+ soliciting feedback from site leaders, hygiene promoters
+ and adult residents of the camps, was undertaken by
+ Care International to ensure the toys were culturally
+ appropriate. In the end, we had a range of 35 different
+ toy animals and therefore 35 different bars of Surprise
+ Soap. On arriving at their designated household,
+ hygiene promoters gathered the children of the house-
+ hold together and initiated the ‘glitter game’ to demon-
+ strate how germs spread: petroleum jelly and glitter were
+ applied to one child’s hands who then ‘high fived’ the
+ other children, transferring the ‘glitter germs’ between
+ hands. The hygiene promoter then revealed the Surprise
+ 
+<section> Active control arm
+ 
+<section> Standard Intervention
+ 
+<section> Household
+ followed One-­off promotion session with delivery agents,
+ soap followed by three subsequent visits from agents to
+ replenish soap only
+ 
+<section> 10–15 min
+ Delivering health-­based messaging and providing
+ knowledge of how and when to wash hands
+ Plain soap identical to Surprise Soap but minus
+ 
+<section> the toy
+ ×5 bars, plus later replenishments
+ Handwashing-­related health-­messaging using F-­
+ 
+<section> diagram
+ Demonstration of handwashing technique
+ Information on key times to wash hands
+ trained Care international hygiene promoters specifically
+ trained to deliver the standard intervention (no
+ overlap with the hygiene promoters delivering the
+ Surprise Soap intervention) 
+<insert> Figure 1 Surprise Soap image. 
+<iend>
+
+ Soap bars to the children, explaining that the more often
+ they wash their hands with the soap, the faster they will
+ reach the toy inside, and listing five key handwashing
+ times (before eating, before preparing food, before
+ serving food to another person, after using the toilet and
+ before cleaning another person’s faeces). The hygiene
+ promoter then demonstrates the ideal handwashing
+ technique, inviting the children to practice washing the
+ glitter from their hands using the Surprise Soap, and
+ then finally leaving a parcel of five Surprise Soaps with
+ the children in the household (parcel directly handed
+ to a child). At least one adult, usually a caregiver, was
+ present during intervention delivery but they were not
+ personally instructed on the use of these toy soaps. On
+ the same day, directly after the 4 weeks, 12 weeks and 16
+ weeks follow-­ up household observations, the hygiene
+ promoters visited the households again to distribute
+ further packages of Surprise Soap but did not repeat the
+ household session. Soap packages all contained soaps
+ with different toy animals so that the children did not
+ receive the same toy twice over the intervention period.
+ No handwashing messages were delivered during these
+ follow-­up visits.
+ 
+<section> Standard intervention received by control group
+ The standard intervention consisted of the distribution
+ of plain soap (145 g soap/bar), identical to the Surprise
+ Soap in colour, size, shape, volume and quality but without
+ a toy inside, delivered within a short household session
+ (approximately 10–15 min—comparable to the length
+ of the Surprise Soap household session) to control for
+ the effects of soap provision and household-­level delivery
+ (table 1). The household session focused on standard
+ health-­based messages using some of Care internation-
+ al’s existing handwashing promotion material. Hygiene
+ promoters gathered the children and showed them the
+ F-­ diagram, explaining how the spread of germs from
+ faeces to mouths via hands can lead to diseases such
+ as diarrhoea. They explained that HWWS can prevent
+ these diseases, listed five key times to practice HWWS (as
+ above) and demonstrated ideal handwashing technique.
+ A parcel of five plain soaps were left with the children.
+ Plain soap was also replenished directly after the 4 weeks,
+ 12 weeks and 16 weeks follow-­ up household observa-
+ tions, in the same quantities as Surprise Soap, without
+ repeating the household session.
+ 
+<section> Outcomes
+ 
+<section> The primary outcome of the trial was the proportion of
+ five key potential handwashing events that were accom-
+ panied by HWWS (both hands) for children aged 5–12
+ years. The prespecified five key potential handwashing
+ events were: (1) after defecation or using the toilet, (2)
+ before eating, (3) before preparing food, (4) before
+ serving food to another person and (5) after cleaning
+ another child’s faeces. This outcome was measured at
+ four time points: baseline (the day prior to intervention
+ delivery), 4 weeks, 12 weeks and 16 weeks after interven-
+ tion delivery.
+ The two secondary outcomes of the trial were: the
+ proportion of all observed handwashing events (hand-
+ washing with water) where soap was used, and the total
+ number of observed HWWS events across all time points.
+ Secondary outcomes were assessed through structured
+ observation at all four time points, as for the primary
+ outcome. In addition, the presence of a handwashing
+ station with soap available was also measured at all the
+ four time points.
+ A series of indicators of intervention compliance were
+ also assessed in the arm receiving the Surprise Soap inter-
+ vention at 16 weeks after intervention delivery. These
+ included the number of bars of Surprise Soap remaining,
+ whether a bar of Surprise Soap was wet on inspection at
+ endline, the caregiver-­reported time in days required to
+ reach the toy in the Surprise Soap, caregiver-­reported
+ incidents of ‘toy cheats’ (ie, where the Surprise Soap bar
+ was broken to access the toy prematurely), and caregiver-­
+ reported use of the Surprise Soap by other household
+ members (children <5 years of age and adults) and for
+ other purposes than hand hygiene (bathing, laundry,
+ washing dishes or any other uses).
+ 
+<section> Data collection
+ All data collection activities were undertaken by a team
+ of trained enumerators who had no role in the delivery
+ of the intervention. The research team provided a 3-­day
+ training to field supervisors, involving both classroom
+ and practical sessions, and supervisors subsequently
+ trained enumerators in the local language. Recruitment
+ was undertaken by enumerators and basic background
+ social and demographic data were collected at the time
+ of recruitment using a verbally administered question-
+ naire. During the 4 weeks before intervention delivery, 
+<section> one enumerator returned to each enrolled household
+ to conduct direct structured observations of child hand-
+ washing practices and to record data on household hand-
+ washing facilities using spot-­check observations. Struc-
+ tured observations started at approximately 9:30 hours
+ and continued for 3 hours—a period when most children
+ in this setting would be home. Data were collected for all
+ children aged 5–12 years present in the household during
+ the observation period. Enumerators positioned them-
+ selves in an unobtrusive location in or near the house-
+ hold where they had the best view of the children and the
+ handwashing facility (where available). Every instance of
+ the five key handwashing events (as defined above) and
+ the associated handwashing practice (hands not washed,
+ washed with water only, washed with soap and water)
+ was recorded. Any instances of HWWS that were not
+ associated with these five key events were also recorded.
+ Structured observations were repeated 4 weeks, 12 weeks
+ and 16 weeks post intervention delivery. In intervention
+ households only, directly after the 16-­week structured
+ observation, field workers also recorded information on
+ intervention compliance. All data were collected using
+ Open Data Kit on android tablets and uploaded onto a
+ dedicated encrypted server at the end of each data collec-
+ tion day for the research team at the London School of
+ Hygiene and Tropical Medicine (LSHTM) to cross check
+ the data daily.
+ 
+<section> Patient and public involvement
+ Patients, that is, our research participants, and members
+ of the public were not involved in the design, conduct,
+ reporting or dissemination plans of this research. As
+ described above, we consulted members of the public
+ (site leaders, hygiene promoters and adult residents of
+ the camps) to ensure our design of Surprise Soap bars
+ was culturally appropriate. Results of our research have
+ been communicated with research participants via camp
+ leaders. The authors of this research will disseminate
+ findings via conferences and other presentations.
+ 
+<section> Sample size and randomisation procedure
+ We calculated that a sample size of 200 households—
+ corresponding to clusters—was needed to detect an abso-
+ lute difference in HWWS after key events of 10% between
+ control and intervention arms (15% HWWS after key
+ events in the control arm, 25% in the intervention arm),
+ with 80% power (α=0·05). We assumed an average of
+ seven observed HWWS events (ie, when hands could have
+ been washed or not) per household per 3-­hour observa-
+ tion period, a within-­household intracluster correlation
+ coefficient of 0.21, 35 and a loss to follow-­up of 20%.
+ Individual random sampling was employed by JW and
+ MA-­T to select households in Naivasha using a complete
+ list of all households in the site, randomised within Stata.
+ If a household on the randomised list was non-­eligible
+ the next household on the list was approached, and so on
+ until a total of 200 households were enrolled. Enrolled
+ households were then randomly assigned to intervention
+ or control arm with a 1:1 ratio using a random number
+ generator in Stata, V.16.1.
+ 
+<section> Blinding
+ 
+<section> The precise nature of the data being collected was not
+ disclosed to participants, instead they were informed that
+ the enumerators would be observing children’s routines
+ to build an understanding of how children’s health and
+ well-­being can be improved in the area. Enumerators were
+ informed that all participating households would receive
+ a hand hygiene intervention, but they were not informed
+ of the nature of the intervention received by intervention
+ and control arms, and they had no role in the intervention
+ delivery. Due to the nature of the intervention, no further
+ blinding of study participants or enumerators was possible.
+ 
+<section> Statistical analysis
+ All statistical analyses were undertaken using Stata, V.16.1.
+ We analysed the effect of the intervention, compared with
+ the standard intervention, on the proportion of key hand-
+ washing events accompanied by HWWS using a Poisson
+ Generalized Estimating Equations (GEE) model for rates,
+ in which the number of actual HWWS events was offset
+ by the total number of potential handwashing events per
+ child. The proportion of all handwashes that used soap,
+ was similarly assessed using a Poisson model for rates
+ in which the total observed children’s handwashes that
+ used soap was offset by the number of observed hand-
+ washes per child. Finally, the total number of observed
+ handwashes with soap was analysed using a Poisson GEE
+ model for counts. In all models, clustering was accounted
+ for at the highest level, the household (because children
+ were nested within the household). To increase precision,
+ adjusted rate (or count) ratios were computed, adjusting
+ for factors determined a priori to be associated with the
+ outcome (age, sex, number of children aged 5–12 in the
+ household and number of people earning in the house-
+ hold). A p value threshold of 0.05 was considered statis-
+ tically significant. The statistical models described above
+ differ from the models we prespecified in our trial regis-
+ tration (​osf.​io/​b6qc7)—multilevel mixed effects Poisson
+ regression models. After further consultation with a stat-
+ istician and prior to running any analyses, we determined
+ the most appropriate model to be a GEE Poisson model
+ given that we were interested in estimating population-­
+ averaged effects. All covariates remained as prespecified.
+ For transparency, we also ran the prespecified analyses
+ and found no difference in overall outcomes (online
+ supplemental file 3: prespecified analyses)
+ A detailed author reflexivity statement has been
+ provided as online supplemental file 4 accompanying
+ this manuscript.
+ The trial protocol is registered on the Open Science
+ Framework (OSF), ​osf.​io/​va9yn
+ 
+<section> RESULTS
+ Participants and baseline data
+ A total of 203 households were enrolled in the study. A
+ total of 102 were randomly assigned to the active control 
+<section> Figure 2 Trial profile. HH, household.
+ 
+<section> arm and 101 were randomly assigned to the interven-
+ tion arm. Three households, all from the active control
+ arm, were lost to follow-­up. In error, two households
+ from the active control arm received the Surprise Soap
+ intervention instead of the prescribed standard interven-
+ tion (figure 2). The results we present below are from
+ our intention-­ to-­ treat analysis, however, we also ran a
+ per-­ protocol analysis which aligns with these results
+ (online supplemental file 1). The full data set is published
+ alongside the paper (online supplemental file 2).
+ Baseline prevalence of HWWS after key handwashing
+ events was 12.4% in the intervention arm and 10.4% in
+ the active control arm. Child-­level and household char-
+ acteristics appeared well balanced between intervention 
+<insert> Handwashing
+  n (no of potential handwashing events observed)
+  No of potential handwashing events where HWWS observed
+  n (no of children observed)
+  Age, years (mean, SD)
+  Sex, female (n, %)
+  n (no of households)
+  Household head education score (mean, SD)
+  No earning income (mean, SD)
+  No household members (mean, SD)
+  No of children <5 years of age (mean, SD)
+  No of children 5–12 years of age (mean, SD)
+  Period of residence, months (mean, SD)
+  Handwashing station available (n, %)
+  Soap available in household (n, %)
+  Water available (n, %)
+  Station reachable by children (n, %)
+ Child
+ Household
+ HWWS, handwashing with soap.
+ Table 2 Baseline characteristics 
+<iend>
+
+ and active control arm. Baseline characteristics are
+ 
+<section> presented in table
+ 
+<section> Prevalence of HWWS after intervention
+ The prevalence of HWWS after key events increased
+ after baseline observations in both the intervention
+ (+27 percentage points) and control arm (+23 percentage
+ points) and remained high throughout the 16-­ week
+ follow-­up. At the final 16-­week follow-­up, HWWS preva-
+ lence was up by 36 percentage points from baseline levels
+ in both the intervention arm and control arm (figure 3).
+ 
+<section> Availability of a handwashing station and soap after
+ 
+<section> intervention
+ 
+<section> The proportion of households with a handwashing
+ station available increased in both arms, from 64% at
+ baseline to 86% at endline in the intervention arm, and
+ from 69% to 89% in the control arm. Availability of soap
+ (any type of handwashing soap) in the household also
+ increased in both arms. At endline, 59% of interven-
+ tion households and 63% of control households were
+ observed to have soap available, compared with baseline
+ levels of 32% and 30%, respectively. Availability of water
+ also increased in both arms. At endline 85% of interven-
+ tion households and 89% of control households were
+ observed to have water available in the household for
+ handwashing, compared with baseline levels of 71% and
+ 
+<section> 72%, respectively.
+ 
+<section> Overall Intervention Control
+ 
+<section> 1018
+ (n, %) 117 (11.5) 67 (12.4) 50 (10.4)
+ 
+<section> 8.40±2.49 8.32±2.41 8.48±2.56
+ 
+<section> 228 (51) 
+<section> 111 (49) 
+<section> 117 (52)
+ 
+<section> 0.72±0.74 0.78±0.76 0.66±0.71
+ 0.47±0.67 0.56±0.74 0.37±0.58
+ 8.11±3.01 8.10±3.11 8.12±2.92
+ 1.30±1.14 1.22±0.94 1.37±1.31
+ 2.81±1.38 2.86±1.44 2.75±1.32
+ 70.79, 10.80 72.20, 8.78 69.39, 12.37
+ 
+<section> 135 (67) 
+<section> 65 (64) 
+<section> 70 (69)
+ 
+<section> 63 (31) 
+<section> 32 (32) 
+<section> 31 (30)
+ 
+<section> 145 (71) 
+<section> 72 (71) 
+<section> 73 (72)
+ 
+<section> 128 (95) 
+<section> 63 (97) 
+<section> 65 (93)
+ 
+<section> Primary outcome
+ There was no evidence of a difference in the proportion
+ of key handwashing events that were accompanied by
+ HWWS for children aged 5–12 years between the inter-
+ vention and control arm at the 4-­week follow-­up, the
+ 12-­ week follow-­ up or the 16-­ week follow-­ up (16-­ week
+ follow-­up: rate ratio (RR) 1.1, 95% CI 0.8 to 1.5, p=0.71)
+ (table 3).
+ 
+<section> Secondary outcomes
+ There was no evidence of a difference in the proportion
+ of all handwashes that used soap between the interven-
+ tion and control arm at the 4-­week follow-­up, the 12-­week
+ follow-­up or the 16-­week follow-­up (16-­week follow-­up:
+ RR 1.0, 95% CI 0.8 to 1.3, p=0.90) (table 4).
+ There was no evidence of a difference in the total
+ number of handwashes with soap between the interven-
+ tion and control arm at the 4-­week, 12-­week or 16-­week
+ follow-­ up (Count ratio (CR): 1.0, 95% CI 0.7 to 1.4,
+ p=0.90) (table 5).
+ To assess the robustness of our findings, we conducted
+ a robustness check by including enumerator identity as a
+ covariate in each of our GEE Poisson regression models,
+ since there may have been inherent differences in the way
+ each enumerator performed observations. The results of
+ this robustness check (online supplemental file 3: robust-
+ ness check) indicate that enumerator identity did not
+ have a significant impact on the overall outcomes. 
+<insert> Figure 3 Prevalence of handwashing with soap among the intervention
+ weeks postintervention delivery. 
+<iend>
+
+ 
+<insert> Table 3 Effect of intervention on the proportion of key handwashing events accompanied by HWWS
+ Intervention Control Rate ratio* 95% CI P value
+ Baseline (n, %)
+ Week 4 (n, %)
+ 67 (12.4%)
+ 189 (38.9%)
+ 50 (10.6%)
+ 1.46 (33.0%)
+ 1.1
+ 1.2
+ 0.6 to 1.9
+ 0.8 to 1.7
+ 0.81
+ 0.44
+ Week 12 (n, %)
+ Week 16 (n, %)
+ 189 (40.3%)
+ 198 (48.3%)
+ 208 (50.1%)
+ 174 (45.9%)
+ 0.8
+ 1.1
+ 0.5 to 1.1
+ 0.8 to 1.5
+ 0.11
+ 0.71
+ Poisson for rates generalised estimating equations analyses accounting for clustering at the household level.
+ *Adjusted for age, sex, number of children aged 5–12 in the household, and number of household members earning an income.
+ HWWS, handwashing with soap. 
+<iend>
+
+ We also conducted an exploratory subgroup analysis to
+ assess the impact of a child’s age group on our primary
+ results as children of different ages may experience the
+ intervention differently. Two age groups were defined:
+ ages 5–8 and ages 9–12. Results of the analysis revealed
+ no notable difference in the effect of the intervention
+ across the two age groups (online supplemental file 3:
+ subgroup analyses 1).
+ An exploratory subgroup analysis was also under-
+ taken to assess the impact of the number of children
+ between the age of 5 and 12 living in the household
+ as this appeared to be a source of heterogeneity at
+ baseline. Two subgroups were defined: households
+ with three or fewer children aged 5–12 living in the
+ household and households with four or more chil-
+ dren living in the household. Results of the analysis
+ revealed no notable difference in the effect of the
+ intervention across the two groups (online supple-
+ mental file 3: subgroup analyses 2).
+ 
+<section> and active control arm at baseline and 4, 12 and 16
+ 
+<section> Compliance in the intervention arm
+ At the 16-­week follow-­up, all households in the inter-
+ vention arm (n=101) reported that they had finished at
+ least one bar of Surprise Soap, indicating they had all
+ engaged with the intervention. Forty-­one per cent (n=41)
+ of households still had at least one bar of Surprise Soap
+ remaining and among these households, an average of
+ two (95% CI 1.3 to 1.9) bars of Surprise Soap remained
+ per household. Of the 41 households with some Surprise
+ Soap remaining, 46% (n=19) had a bar of Surprise Soap
+ that was wet on inspection indicating that just under half
+ of these households were still engaging with the interven-
+ tion 16 weeks later. In 40% of the households, adults also
+ used the Surprise Soaps, and 55% of households with
+ children under 5 reported that these young children also
+ used the Surprise Soaps. Seventy-­five percent of house-
+ holds reported that the Surprise Soap bars were used for
+ purposes other than handwashing, with bathing being
+ the most common alternative use reported. It took, on 
+<insert> Intervention Control Risk ratio* 95% CI P value
+ Baseline (n, %)
+ Week 4 (n, %)
+ 81 (20.2)
+ 205 (49.4)
+ 63 (17.4)
+ 157 (46.2)
+ 1.1
+ 1.0
+ 0.7 to 1.9
+ 0.8 to 1.4
+ 0.60
+ 0.79
+ Week 12 (n, %)
+ Week 16 (n, %)
+ 196 (51.3)
+ 215 (58.7)
+ 228 (63.5)
+ 194 (59.0)
+ 0.8
+ 1.0
+ 0.6 to 1.1
+ 0.8 to 1.3
+ 0.11
+ 0.90
+ Poisson for rates generalised estimating equations analyses accounting for clustering at the household level.
+ *Adjusted for age, sex, number of children aged 5–12 in the household, and number of household members earning an income.
+ Table 4 Effect of intervention on the proportion of all handwashes that used soap 
+<iend>
+
+ 
+<insert> Table 5 Effect of intervention on the total number of handwashes with soap
+ Intervention Control Count ratio* 95% CI P value
+ Baseline (n)
+ Week 4 (n)
+ 1.1
+ 1.2
+ 0.7 to 1.9
+ 0.8 to 1.7
+ 0.69
+ 0.47
+ Week 12 (n)
+ Week 16 (n)
+ 0.7
+ 1.0
+ 0.5 to 1.0
+ 0.7 to 1.4
+ 0.08
+ 0.90
+ Poisson for counts generalised estimating equations analyses accounting for clustering at the household level.
+ *Adjusted for age, sex, number of children aged 5–12 in the household, and number of household members earning an income. 
+<iend>
+
+ average, 5 days (95% CI 4.4 to 5.0) for children to reach
+ the toy by washing their hands. Fourteen percent of
+ households reported ‘toy cheats’—children who deliber-
+ ately broke the soap to get the toy inside. On average,
+ these households reported that three bars (95% CI 2.0 to
+ 3.8) of Surprise Soap, out of the 17 bars received over the
+ intervention period, were purposefully broken.
+ 
+<section> DISCUSSION
+ 
+<section> We find the Surprise Soap intervention, in which novel
+ soap with embedded toys are delivered to older chil-
+ dren in a participatory household session that includes
+ a glitter game and HWWS practice, to be no more effec-
+ tive than a standard household-­level handwashing inter-
+ vention based on health-­ messaging and the provision
+ of plain soap, in a large refugee settlement in Sudan.
+ These results align with the results of a recent cluster
+ randomised controlled equivalence trial of the Surprise
+ Soap intervention across IDP camps in Somalia. 32 Like the
+ Somalia trial, these results differ from an earlier proof-­of-­
+ concept study undertaken in Northern Iraq that found
+ the Surprise Soap intervention to be four times more
+ effective than the same standard handwashing inter-
+ vention employed there. 26 In Sudan and Somalia, there
+ appears to be no marginal benefit of the Surprise Soap
+ intervention over the standard intervention in terms of
+ older children’s HWWS behaviour that would justify the
+ additional costs incurred (in our study, a Surprise Soap
+ bar costed US$2 compared with US$1.5 for the plain
+ soap bar).
+ Although there was no difference in effect between the
+ intervention arm and our active control arm, in both trial
+ arms, we observed an equally large and sustained increase
+ in children’s HWWS from baseline to all follow-­ups. Our
+ study is not designed to assess the independent effects of
+ each intervention and there are several possible expla-
+ nations for the increased rates of HWWS over time, for
+ example, seasonal differences, disease outbreaks, expo-
+ sure to other handwashing awareness campaigns and the
+ introduction of various biases related to lack of blinding
+ in the study. However, one possible explanation for the
+ upwards trends in both trial arms is that both the Surprise
+ Soap intervention and the standard intervention were
+ effective at increasing children’s HWWS. Similar upwards
+ trends in the intervention arm and the active control arm
+ were also observed in the Somalia trial meaning all three
+ studies of the Surprise Soap intervention (Iraq, Somalia
+ and Sudan) observed an increase in older children’s
+ HWWS. 27 32 Further trials with a passive control arm are
+ needed to determine the individual effects of both inter-
+ ventions. The discussion which follows assumes that the
+ upwards trends observed in both arms of this study are
+ directly attributable to the Surprise Soap and standard
+ intervention. This is only an assumption, and we later
+ discuss other possible explanations for these upwards
+ trends within our limitations section.
+ The upwards trends in children’s HWWS in both
+ trial arms may point to the importance of what some
+ researchers have termed the ‘form of delivery’. 37 Both
+ the Surprise Soap intervention and the standard inter-
+ vention were delivered by hygiene promoters directly to
+ children within their own house. This delivery format
+ is itself rather unusual. Hygiene promotion interven-
+ tions are typically delivered to children within schools
+ or in child-­ friendly spaces (in humanitarian settings)
+ as part of a larger programme. 26 Interacting with chil-
+ dren in their household one-­on-­one or in a small group
+ is likely to be more engaging and may instil a greater 
+<section> sense of ownership over their own handwashing and
+ may encourage caregivers to reinforce messages. Addi-
+ tionally, both interventions were relatively low-­resource
+ and quick to implement sessions making them feasible
+ to deliver in emergency settings. When practitioners are
+ designing interventions, it is important that they think
+ not only about intervention content but also about the
+ form of delivery. We cannot say if either intervention
+ would be effective if delivered in schools. However, given
+ that school-­based handwashing interventions have faced
+ multiple challenges in the past, we hypothesise that this
+ form of delivery may be less effective. 38–42
+ The combination of behaviour change techniques
+ (BCTs) used in both the Surprise Soap intervention and
+ the standard intervention may have also contributed to
+ their apparent effectiveness. Both interventions provided
+ soap, information on key times to wash hands, and a
+ demonstration of correct handwashing technique. All
+ three BCTs have been found to contribute positively to
+ intervention effectiveness and using them in combina-
+ tion in HWWS interventions targeting older children has
+ been recommended previously. 26 Ultimately, what this
+ trial and the trial in Somalia might indicate, if both inter-
+ ventions were shown to be independently effective in
+ future trials, is that well-­designed handwashing interven-
+ tions that directly target children at a household level,
+ ensure an enabling physical environment, and teach
+ children how and when to practise HWWS are important
+ public health interventions in emergency settings.
+ Our results indicate that implementing the Surprise
+ Soap intervention over a standard household-­ level
+ HWWS intervention in complex humanitarian settings
+ such as the Naivasha refugee settlement in Sudan is
+ not a cost-­effective choice. In the absence of a passive
+ control arm, we cannot make recommendations around
+ the implementation of the standard intervention. If the
+ upwards trends in HWWS observed in both of our trial
+ arms were proven to be directly attributable to the inter-
+ vention this could encourage prioritisation, and aid in
+ the design of future HWWS interventions for older chil-
+ dren in emergencies. We therefore believe similar trials
+ with the addition of a passive control arm to be of public
+ health interest.
+ Our study has several limitations. First, our results
+ may be subject to observer bias as it was not possible to
+ blind enumerators to intervention status. Sampling both
+ intervention and control households within one site also
+ prevented us from blinding participants to intervention
+ status. Being aware that you received Surprise Soap and
+ others received only plain soap may lead to courtesy bias
+ in the intervention arm. Second, sampling within one
+ site may also have led to contamination of intervention
+ messages across trial arms and biased the estimate of
+ intervention effect towards the null. It is unlikely that
+ intervention households shared their bars of Surprise
+ Soap with active control households given we ensured
+ different toy animals were received in each soap (ie, there
+ was no need for children to trade toys) and no sharing
+ was reported by caregivers or children in follow-­up quali-
+ tative discussions held with the study participants. Third,
+ as mentioned above, without a passive control arm, our
+ trial design does not permit causal inference regarding
+ the independent effects of each intervention; we are only
+ able to report correlations we observed and make assump-
+ tions. Fourth, although we used the ‘gold standard’ 43
+ for measuring HWWS, structured observations are still
+ prone to social desirability bias, 44 observer bias and the
+ ‘Hawthorne effect’ or reactivity bias, 45 where children
+ modify their behaviour in response to their awareness
+ of being observed. 44 46 We tried to minimise the effects
+ of these biases by using prolonged observation periods
+ (3 hours) and by having multiple follow-­ ups, which
+ likely reduces the risk of reactivity bias. 47 Nonetheless,
+ these biases may have led to inflated rates of HWWS and
+ contributed to the upwards trends in HWWS observed
+ in both trial arms. Fifth, ‘Teaching to the test’—where
+ participants alter their behaviour to align with the objec-
+ tives of the study may have also contributed to upwards
+ trends being observed in both arms, as well as other
+ unknown changes in the camp that were independent of
+ our intervention. The large increase in the availability of
+ soap at handwashing stations from baseline to endline in
+ both trial arms—a proxy indicator of HWWS —however,
+ suggests that the upward trends in HWWS may, at least in
+ part, be attributable to the interventions but without a
+ passive control group, this is still only a hypothesis. Sixth,
+ it should be noted that the plain soap, delivered as part
+ of the standard intervention was identical to the Surprise
+ Soap minus the toy. This is different to the plain soap
+ typically used in Naivasha—it was scented and colourful
+ and participants perceived it to be of higher quality and
+ more attractive. The relative attractiveness of this soap
+ may have provided an additional motivation for chil-
+ dren to use it; a study among internally displaced chil-
+ dren in Iraq found quality of handwashing materials to
+ be a determinant of children’s handwashing behaviour.
+ It is unclear if distributing ‘regular’ plain soap within a
+ standard household session would have led to the same
+ results. A future multi-­arm trial would be necessary to
+ confirm this. Finally, we did not collect data on what toys
+ the children already had access to prior to this study, so
+ we cannot assess how novel the toys we distributed were to
+ them. However, from qualitative discussions we had with
+ the children following the study they all reported finding
+ the toys they received appealing and said that they would
+ like to see Surprise Soap distributed in the future.
+ 
+<section> CONCLUSIONS
+ Our findings suggest that, in complex humanitarian
+ emergencies, the Surprise Soap intervention, involving
+ the distribution of bars of soap with embedded toys in
+ a participatory household session that includes a glitter
+ game and handwashing practice, is no more effective
+ at increasing older children’s HWWS than a standard,
+ household-­ level intervention involving health-­ based 
+<section> messaging and the provision of plain soap. There is no
+ marginal benefit in terms of HWWS to justify the addi-
+ tional cost of the Surprise Soap intervention, associated
+ with including toys inside of soap. Future trials with a
+ passive control arm are needed to determine the inde-
+ pendent effects of each intervention and guide future
+ 
+<section> intervention design.
+ 
+<section> Acknowledgements We extend our deep gratitude to all the participating
+ households who made this study possible. Thank you also to the entire Care
+ International team in Sudan, including the enumerators and hygiene promoters
+ who worked tirelessly to execute this study despite facing many challenges. An
+ author reflexivity statement is included with this publication as online supplemental
+ file.
+ 
+<section> Contributors JW conceived of the study, monitored data collection, analysed
+ and interpreted the data, and led the writing of the manuscript. IO contributed to
+ the study design, management of data collection, analysis and interpretation of
+ data, and manuscript writing. MA-­T contributed to study design and monitoring of
+ data collection. CD contributed to study design and interpretation of the data. AM
+ supported data analysis and interpretation. OC contributed to the study design, and
+ the analysis and interpretation of the data and was a major contributor to writing
+ the manuscript. All authors read and approved the final manuscript. JW was the
+ guarantor of the study.
+ 
+<section> Funding Funding for this project was provided by Enhancing Learning & Research
+ for Humanitarian Assistance (ELRHA), grant number 50680.
+ 
+<section> Competing interests None declared.
+ 
+<section> Patient and public involvement Patients and/or the public were not involved in
+ the design, or conduct, or reporting, or dissemination plans of this research.
+ 
+<section> Patient consent for publication Not applicable.
+ 
+<section> Ethics approval Ethical approval was granted by the London School of Hygiene
+ and Tropical Medicine Research Ethics Committee (Ref: 22905) and the National
+ Research Ethics Review Committee at the Federal Ministry of Health, Sudan (Ref:
+ 10-­1-­21). Written informed consent was sought from all participating households
+ before enrolment.
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data availability statement All data relevant to the study are included in the
+ article or uploaded as online supplemental information. The dataset is included as
+ online supplemental file.
+ 
+<section> Supplemental material This content has been supplied by the author(s). It has
+ not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been
+ peer-­reviewed. Any opinions or recommendations discussed are solely those
+ of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and
+ responsibility arising from any reliance placed on the content. Where the content
+ includes any translated material, BMJ does not warrant the accuracy and reliability
+ of the translations (including but not limited to local regulations, clinical guidelines,
+ terminology, drug names and drug dosages), and is not responsible for any error
+ and/or omissions arising from translation and adaptation or otherwise.
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution Non Commercial (CC BY-­NC 4.0) license, which
+ permits others to distribute, remix, adapt, build upon this work non-­commercially,
+ and license their derivative works on different terms, provided the original work is
+ properly cited, appropriate credit is given, any changes made indicated, and the
+ use is non-­commercial. See: http://creativecommons.org/licenses/by-nc/4.0/.
+ 
+<section> ORCID iDs
+ 
+<section> Julie Watson http://orcid.org/0000-0003-1487-2443
+ Maud Amon- T anoh http://orcid.org/0000-0001-9838-7837
+ Oliver Cumming http://orcid.org/0000-0002-5074-8709
+ 
+<section> REFERENCES
+ 1 Wolf J, Hubbard S, Brauer M, et al. Effectiveness of interventions to
+ improve drinking water, sanitation, and handwashing with soap on
+ risk of diarrhoeal disease in children in low-­income and middle-­
+ income settings: a systematic review and meta-­analysis. Lancet
+ 2022;400:48–59.
+ 
+<section> 2 Aiello AE, Coulborn RM, Perez V, et al. Effect of hand hygiene on
+ infectious disease risk in the community setting: a meta-­analysis.
+ 
+<section> Am J Public Health 2008;98:1372–81.
+ 3 Rabie T, Curtis V. Handwashing and risk of respiratory infections: a
+ quantitative systematic review. Trop Med Int Health 2006;11:258–67.
+ 4 Stocks ME, Ogden S, Haddad D, et al. Effect of water, sanitation,
+ and hygiene on the prevention of trachoma: a systematic review and
+ meta-­analysis. PLoS Med 2014;11:e1001605.
+ 5 Strunz EC, Addiss DG, Stocks ME, et al. Sanitation, hygiene, and
+ soil-­transmitted helminth infection: a systematic review and meta-­
+ analysis. PLOS Med 2014;11:e1001620.
+ 6 Garn JV, Wilkers JL, Meehan AA, et al. Interventions to
+ improve water, sanitation, and hygiene for preventing soil‐
+ transmitted helminth infection. Cochrane Database Syst Rev
+ 2022;6:CD012199.
+ 7 Vos T, Lim SS, Abbafati C, et al. Global burden of 369 diseases and
+ injuries in 204 countries and territories, 1990-­2019: a systematic
+ analysis for the global burden of disease study 2019. Lancet
+ 2020;396:1204–22.
+ 8 Willmott M, Nicholson A, Busse H, et al. Effectiveness of hand
+ hygiene interventions in reducing illness absence among children in
+ educational settings: a systematic review and meta-­analysis. Arch
+ Dis Child 2016;101:42–50.
+ 9 Nandrup-­Bus I. Mandatory handwashing in elementary schools
+ reduces absenteeism due to infectious illness among pupils: a pilot
+ intervention study. Am J Infect Control 2009;37:820–6.
+ 10 Talaat M, Afifi S, Dueger E, et al. Effects of hand hygiene campaigns
+ on incidence of laboratory-­confirmed influenza and absenteeism in
+ schoolchildren, Cairo, Egypt. Emerg Infect Dis 2011;17:619–25.
+ 11 Azor-­Martinez E, Cobos-­Carrascosa E, Seijas-­Vazquez ML, et al.
+ 
+<section> Hand hygiene program decreases school absenteeism due to upper
+ respiratory infections. J Sch Health 2016;86:873–81.
+ 12 Mohamed NA, Mohd Rani MD, Tengku Jamaluddin TZM, et al. Effect
+ of hand hygiene intervention on the absenteeism of pre-­school
+ children in Klang valley, Malaysia: a quasi-­experimental study. World
+ 
+<section> J Pediatr 2020;16:416–21.
+ 13 Lamdin DJ. Evidence of student attendance as an independent
+ variable in education production functions. J Educ Res
+ 1996;89:155–62.
+ 14 Morrissey TW, Hutchison L, Winsler A. Family income, school
+ attendance, and academic achievement in elementary school. Dev
+ Psychol 2014;50:741–53.
+ 15 Gakidou E, Cowling K, Lozano R, et al. Increased educational
+ attainment and its effect on child mortality in 175 countries between
+ 1970 and 2009: a systematic analysis. Lancet 2010;376:959–74.
+ 16 Bresee S, Caruso BA, Sales J, et al. 'A child is also a teacher':
+ exploring the potential for children as change agents in the context
+ of a school-­based WASH intervention in rural Eastern Zambia.
+ 
+<section> Health Educ Res 2016;31:521–34.
+ 17 Onyango-­Ouma W, Aagaard-­Hansen J, Jensen BB. The potential of
+ schoolchildren as health change agents in rural Western Kenya. Soc
+ Sci Med 2005;61:1711–22.
+ 18 Winter JC, Darmstadt GL, Lee SJ, et al. The potential of school-­
+ based WASH programming to support children as agents of change
+ in rural Zambian households. BMC Public Health 2021;21:1812.
+ 19 Quick R, Blanton E, Mwaki A, et al. Evaluation of the role of school
+ children in the promotion of point-­of-­use water treatment and
+ handwashing in schools and households--Nyanza province. Am J
+ Trop Med Hyg 2010;82:664–71.
+ 20 Tidwell JB, Gopalakrishnan A, Unni A, et al. Impact of a teacher-­led
+ school handwashing program on children’s handwashing with soap
+ at school and home in Bihar, India. PLOS ONE 2020;15:e0229655.
+ 21 UNHCR. Global trends: forced displacement in 2015. Geneva; 2015.
+ 22 Toole MJ, Waldman RJ. The public health aspects of complex
+ emergencies and refugee situations. Annu Rev Public Health
+ 1997;18:283–312.
+ 23 Connolly MA, Gayer M, Ryan MJ, et al. Communicable diseases
+ in complex emergencies: impact and challenges. Lancet
+ 2004;364:1974–83.
+ 24 Kouadio IK, Aljunid S, Kamigaki T, et al. Infectious diseases following
+ natural disasters: prevention and control measures. Expert Rev Anti
+ Infect Ther 2012;10:95–104.
+ 25 Watson JA, Ensink JHJ, Ramos M, et al. Does targeting children
+ with hygiene promotion messages work? The effect of handwashing
+ promotion targeted at children, on diarrhoea, soil-­transmitted
+ helminth infections and behaviour change. Trop Med Int Health
+ 2017;22:526–38.
+ 26 Watson J, Cumming O, MacDougall A, et al. Effectiveness of
+ behaviour change techniques used in hand hygiene interventions
+ targeting older children - a systematic review. Soc Sci Med
+ 2021;281:114090. 
+<section> 27 Watson J, Dreibelbis R, Aunger R, et al. Child's play: harnessing
+ play and curiosity motives to improve child handwashing in a
+ humanitarian setting. Int J Hyg Environ Health 2019;222:177–82.
+ 28 White S, Thorseth AH, Dreibelbis R, et al. The determinants of
+ handwashing behaviour in domestic settings: an integrative
+ systematic review. Int J Hyg Environ Health 2020;227:113512.
+ 29 Biran A, Schmidt W-­P, Wright R, et al. The effect of a soap promotion
+ and hygiene education campaign on handwashing behaviour
+ in rural India: a cluster randomised trial. Trop Med Int Health
+ 2009;14:1303–14.
+ 30 Curtis VA, Danquah LO, Aunger RV. Planned, motivated and habitual
+ hygiene behaviour: an eleven country review. Health Educ Res
+ 2009;24:655–73.
+ 31 Rheinländer T, Samuelsen H, Dalsgaard A, et al. Teaching minority
+ children hygiene: investigating hygiene education in Kindergartens
+ and homes of ethnic minority children in northern Vietnam. Ethn
+ Health 2015;20:258–72.
+ 32 Watson J, Amon-­Tanoh MA, Deola C, et al. Effect of a novel
+ hygiene intervention on older children's handwashing in a
+ humanitarian setting in Kahda district, Somalia: a cluster-­
+ randomised controlled equivalence trial. Int J Hyg Environ Health
+ 2023;250:114163.
+ 33 Schulz KF, Altman DG, Moher D. Statement: updated guidelines for
+ reporting parallel group randomised trials. Int J Surg 2010.
+ 34 UNHCR. Sudan: site profile - Khartoum ‘open areas'. 2020.
+ 
+<section> Available: https://reliefweb.int/report/sudan/sudan-site-profile-​
+ 
+<section> khartoum-open-areas
+ 35 Biran A, Schmidt W-­P, Varadharajan KS, et al. Effect of a
+ behaviour-­change intervention on Handwashing with soap in India
+ (Superamma): a cluster-­randomised trial. Lancet Glob Health
+ 2014;2:e145–54.
+ 
+<section> 36 StataCorp. Stata Statistical Software: Release 16. College Station,
+ TX: StataCorp LP, 2019.
+ 37 Dombrowski SU, O’Carroll RE, Williams B. Form of delivery as a key
+ ‘active ingredient’ in behaviour change interventions. Br J Health
+ Psychol 2016;21:733–40.
+ 38 Saboori S, Mwaki A, Porter S, et al. Sustaining school hand washing
+ and water treatment programmes: lessons learned and to be
+ learned. Waterlines 2011;30:298–311.
+ 
+<section> 39 Antwi-­Agyei P, Mwakitalima A, Seleman A, et al. Water, sanitation
+ and hygiene (WASH) in schools: results from a process evaluation of
+ the National sanitation campaign in Tanzania. J Water Sanit Hyg Dev
+ 2017;7:140–50.
+ 40 Deroo L, Walter E, Graham J. Monitoring and evaluation of WASH in
+ schools programs: lessons from implementing organizations.
+ 
+<section> J Water Sanit Hyg Dev 2015;5:512–20.
+ 41 Alexander KT, Dreibelbis R, Freeman MC, et al. Improving service
+ delivery of water, sanitation, and hygiene in primary schools:
+ a cluster-­randomized trial in Western Kenya. J Water Health
+ 2013;11:507–19.
+ 42 Alexander KT, Mwaki A, Adhiambo D, et al. The life-­cycle costs
+ of school water, sanitation and hygiene access in Kenyan primary
+ schools. Int J Environ Res Public Health 2016;13:637.
+ 43 Biran A, Rabie T, Schmidt W, et al. Comparing the performance of
+ indicators of hand-­washing practices in rural Indian households.
+ 
+<section> Trop Med Int Health 2008;13:278–85.
+ 44 Ram PK, Halder AK, Granger SP, et al. Is structured observation
+ a valid technique to measure handwashing behavior? Use of
+ acceleration sensors embedded in soap to assess reactivity to
+ structured observation. Am J Trop Med Hyg 2010;83:1070–6.
+ 45 McCambridge J, Witton J, Elbourne DR. Systematic review of the
+ hawthorne effect: new concepts are needed to study research
+ participation effects. J Clin Epidemiol 2014;67:267–77.
+ 46 Grover E, Hossain MK, Uddin S, et al. Social influence on
+ handwashing with soap: results from a cluster randomized controlled
+ trial in Bangladesh. Am J Trop Med Hyg 2018;99:934–6.
+ 47 Halder AK, Molyneaux JW, Luby SP, et al. Impact of duration of
+ structured observations on measurement of handwashing behavior
+ at critical times. BMC Public Health 2013;13:705.
+ 48 Ram PK, Sahli M, Arnold B, et al. Validity of Rapid Measures of
+ Handwashing Behavior; An analysis of data from Multiple Impact
+ Evaluations in the Global Scaling Up Handwashing Project.
+ 
+<section> Washington, DC: Water and Sanitation Program/The World Bank,
+ 2014.
+ 49 Watson J, Cumming O, Aunger R, et al. Child handwashing in an
+ internally displaced persons camp in northern Iraq: a qualitative
+ multi-­method exploration of motivational drivers and other
+ handwashing determinants. PLOS ONE 2020;15:e0228482.

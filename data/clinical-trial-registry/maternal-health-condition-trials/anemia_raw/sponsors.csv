@@ -1,0 +1,740 @@
+nct_id,agency_class,lead_or_collaborator,name
+NCT03071666,OTHER,lead,Centre For International Health
+NCT03071666,OTHER,collaborator,"Tribhuvan University Teaching Hospital, Institute Of Medicine."
+NCT03071666,OTHER,collaborator,NORCE Norwegian Research Centre AS
+NCT03071666,OTHER,collaborator,Sykehuset Innlandet HF
+NCT02101086,OTHER,lead,Ankara University
+NCT01084213,OTHER,lead,London School of Hygiene and Tropical Medicine
+NCT01084213,UNKNOWN,collaborator,"Medical Research and Training Centre, Mali"
+NCT01084213,OTHER,collaborator,"University of Ouagadougou, Burkina Faso"
+NCT01084213,OTHER,collaborator,"Medical Research Council Unit, The Gambia"
+NCT01084213,OTHER,collaborator,"Navrongo Health Research Centre, Ghana"
+NCT01084213,OTHER,collaborator,Liverpool School of Tropical Medicine
+NCT03830034,OTHER,lead,Ain Shams University
+NCT04128943,OTHER,lead,"University Hospital, Basel, Switzerland"
+NCT04128943,UNKNOWN,collaborator,ProPatient foundation of the University Hospital Basel
+NCT04128943,INDUSTRY,collaborator,Novartis
+NCT01393496,OTHER,lead,University Hospital Tuebingen
+NCT01393496,OTHER,collaborator,German Research Foundation
+NCT03552393,INDUSTRY,lead,Hoffmann-La Roche
+NCT03456258,OTHER,lead,Ain Shams University
+NCT01428154,INDUSTRY,lead,Amgen
+NCT02813850,OTHER,lead,Assistance Publique - Hôpitaux de Paris
+NCT03054337,INDUSTRY,lead,Akebia Therapeutics
+NCT01906489,INDUSTRY,lead,Akebia Therapeutics
+NCT04517734,OTHER,lead,Cornell University
+NCT04517734,OTHER,collaborator,"University of California, Los Angeles"
+NCT04391998,OTHER,lead,Cairo University
+NCT03522428,OTHER,lead,Mirela Zec
+NCT02969655,INDUSTRY,lead,GlaxoSmithKline
+NCT05657821,OTHER,lead,Dr. Rosdiana Syakur
+NCT05657821,OTHER,collaborator,Hasanuddin University
+NCT00446576,INDUSTRY,lead,Janssen-Cilag B.V.
+NCT00167206,OTHER,lead,"Masonic Cancer Center, University of Minnesota"
+NCT02887963,OTHER,lead,West China Hospital
+NCT02887963,OTHER,collaborator,West China Second University Hospital
+NCT02887963,OTHER,collaborator,Sichuan Provincial Hospital for Women and Children
+NCT02887963,OTHER,collaborator,Panzhihua Central Hospital
+NCT02887963,OTHER,collaborator,Chongqing Medical Center for Women and Children
+NCT02887963,UNKNOWN,collaborator,Obstetrics and Gynecology Hospital of Zhejiang University
+NCT02887963,UNKNOWN,collaborator,Xiamen Medical Center for Women and Children
+NCT02887963,OTHER,collaborator,Wenzhou People's Hospital
+NCT02887963,OTHER,collaborator,Suzhou Municipal Hospital
+NCT02887963,OTHER,collaborator,"Wuhan Union Hospital, China"
+NCT02887963,OTHER,collaborator,Maternal and Child Health Hospital of Hubei Province
+NCT02887963,OTHER,collaborator,The First Affiliated Hospital of Zhengzhou University
+NCT02887963,OTHER,collaborator,First Affiliated Hospital of Guangxi Medical University
+NCT02887963,OTHER,collaborator,Shanxi Provincial Maternity and Children's Hospital
+NCT02887963,UNKNOWN,collaborator,The Second Affiliated Hospital of Shanxi University of Traditional Chinese Medicine
+NCT02887963,OTHER,collaborator,Yan'an University Affiliated Hospital
+NCT02887963,UNKNOWN,collaborator,Xinjiang Provincial Hospital for Women and Children
+NCT02887963,OTHER,collaborator,Shengjing Hospital
+NCT02887963,OTHER,collaborator,Dalian Maternity and Child Care Hospital
+NCT02887963,UNKNOWN,collaborator,Changchun Obstetrics and Gynecology Hospital
+NCT02887963,OTHER,collaborator,The Fourth Affiliated Hospital of Harbin Medical University
+NCT02887963,OTHER,collaborator,Beijing Obstetrics and Gynecology Hospital
+NCT02887963,OTHER,collaborator,Tianjin Central Hospital of Gynecology Obstetrics
+NCT02887963,OTHER,collaborator,Fourth Hospital of Shijiazhuang City
+NCT02887963,OTHER,collaborator,Beijing Friendship Hospital
+NCT02931071,OTHER,lead,Hospital Universitari Vall d'Hebron Research Institute
+NCT02931071,UNKNOWN,collaborator,CIEMAT
+NCT02931071,UNKNOWN,collaborator,CIBERER
+NCT02064426,INDUSTRY,lead,Bayer
+NCT01975818,INDUSTRY,lead,Bayer
+NCT01543477,INDUSTRY,lead,Pfizer
+NCT01543477,INDUSTRY,collaborator,"Hospira, now a wholly owned subsidiary of Pfizer"
+NCT01555255,OTHER,lead,"Foundation for Innovative New Diagnostics, Switzerland"
+NCT01555255,OTHER,collaborator,UNICEF
+NCT01555255,UNKNOWN,collaborator,United Nations Development Programme
+NCT01555255,OTHER,collaborator,World Bank
+NCT01555255,OTHER,collaborator,World Health Organization
+NCT01555515,INDUSTRY,lead,Medgenics Medical Israel Ltd.
+NCT04661865,OTHER,lead,Jouf University
+NCT06201910,OTHER,lead,Goethe University
+NCT05644964,OTHER,lead,Celal Bayar University
+NCT01599507,INDUSTRY,lead,FibroGen
+NCT01155388,INDUSTRY,lead,"AMAG Pharmaceuticals, Inc."
+NCT01665378,OTHER,lead,Emory University
+NCT01665378,OTHER,collaborator,Micronutrient Initiative
+NCT01665378,OTHER,collaborator,The Mathile Institute for the Advancement of Human Nutrition
+NCT01666249,INDUSTRY,lead,Azidus Brasil
+NCT01666249,OTHER,collaborator,Panamerican Medical Supply
+NCT00586274,OTHER,lead,Baylor College of Medicine
+NCT00586274,OTHER,collaborator,"University of Texas, Southwestern Medical Center at Dallas"
+NCT00586274,OTHER,collaborator,"Center for Cell and Gene Therapy, Baylor College of Medicine"
+NCT01719146,OTHER,lead,University of Louisville
+NCT01719146,NIH,collaborator,National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)
+NCT06234332,OTHER,lead,Peking University
+NCT06234332,OTHER_GOV,collaborator,National Natural Science Foundation of China
+NCT00576602,INDUSTRY,lead,Hoffmann-La Roche
+NCT04248439,INDUSTRY,lead,Rocket Pharmaceuticals Inc.
+NCT04069533,INDUSTRY,lead,Rocket Pharmaceuticals Inc.
+NCT00965666,OTHER,lead,"Children's Hospital Medical Center, Cincinnati"
+NCT00965666,INDUSTRY,collaborator,Amgen
+NCT01695759,INDUSTRY,lead,Azidus Brasil
+NCT01695759,INDUSTRY,collaborator,Blau Farmaceutica S.A.
+NCT06045052,OTHER,lead,Julian Sevilla
+NCT06176105,OTHER,lead,Sanquin-LUMC J.J van Rood Center for Clinical Transfusion Research
+NCT01519947,INDUSTRY,lead,Hoffmann-La Roche
+NCT01763242,OTHER_GOV,lead,"Western Health, Australia"
+NCT01768351,OTHER,lead,Federico II University
+NCT00548860,INDUSTRY,lead,"American Regent, Inc."
+NCT04885647,INDUSTRY,lead,"Xiamen Amoytop Biotech Co., Ltd."
+NCT04885647,OTHER,collaborator,First Affiliated Hospital of Zhejiang University
+NCT01244763,INDUSTRY,lead,FibroGen
+NCT01244763,INDUSTRY,collaborator,Astellas Pharma Inc
+NCT01750190,INDUSTRY,lead,FibroGen
+NCT01750190,INDUSTRY,collaborator,Astellas Pharma Europe B.V.
+NCT01750190,INDUSTRY,collaborator,AstraZeneca
+NCT01813682,OTHER,lead,qingya tang
+NCT00802139,INDUSTRY,lead,JW Pharmaceutical
+NCT02535208,OTHER,lead,NYU Langone Health
+NCT01832688,OTHER,lead,"University of California, Davis"
+NCT01832688,OTHER,collaborator,Helen Keller International
+NCT01832688,OTHER,collaborator,Micronutrient Initiative
+NCT00968617,INDUSTRY,lead,Merck Sharp & Dohme LLC
+NCT05304442,OTHER,lead,Baylor College of Medicine
+NCT05304442,UNKNOWN,collaborator,"Pharmacosmos Therapeutics, Inc."
+NCT05977686,OTHER,lead,George Washington University
+NCT03605511,OTHER,lead,"University College, London"
+NCT03446612,INDUSTRY,lead,GlaxoSmithKline
+NCT01888445,INDUSTRY,lead,Astellas Pharma Inc
+NCT01331018,OTHER,lead,Fred Hutchinson Cancer Center
+NCT01331018,NIH,collaborator,"National Heart, Lung, and Blood Institute (NHLBI)"
+NCT01331018,UNKNOWN,collaborator,Rocket Pharma Limited
+NCT00924781,INDUSTRY,lead,Merck Sharp & Dohme LLC
+NCT04667533,INDUSTRY,lead,Zydus Lifesciences Limited
+NCT01264679,INDUSTRY,lead,"AMAG Pharmaceuticals, Inc."
+NCT06061393,OTHER_GOV,lead,Western Galilee Hospital-Nahariya
+NCT03619850,INDUSTRY,lead,"AMAG Pharmaceuticals, Inc."
+NCT05278793,OTHER,lead,Martini Hospital Groningen
+NCT05278793,UNKNOWN,collaborator,"dr. J.M. Munster, gynaecologist, principal investigator"
+NCT04155125,INDUSTRY,lead,PT Kalbe Genexine Biologics
+NCT04155125,INDUSTRY,collaborator,Novotech (Australia) Pty Limited
+NCT01964196,INDUSTRY,lead,Astellas Pharma Inc
+NCT01974271,INDUSTRY,lead,Hoffmann-La Roche
+NCT04148859,OTHER_GOV,lead,Tel-Aviv Sourasky Medical Center
+NCT03580941,OTHER,lead,Fundación Grupo de Investigación en Cuidados Intensivos y Obstetricia
+NCT03580941,INDUSTRY,collaborator,"Alexion Pharmaceuticals, Inc."
+NCT06312644,INDUSTRY,lead,"Alexion Pharmaceuticals, Inc."
+NCT06079918,OTHER,lead,George Washington University
+NCT06079918,OTHER,collaborator,Ifakara Health Institute
+NCT06079918,OTHER,collaborator,Harvard School of Public Health (HSPH)
+NCT06079918,OTHER,collaborator,Muhimbili University of Health and Allied Sciences
+NCT06079918,OTHER,collaborator,Africa Academy for Public Health
+NCT06079918,OTHER,collaborator,Columbia University
+NCT05970172,INDUSTRY,lead,"Astellas Pharma Global Development, Inc."
+NCT00609544,INDUSTRY,lead,Regeneron Pharmaceuticals
+NCT00609544,OTHER,collaborator,Syneos Health
+NCT02005588,OTHER,lead,Cairo University
+NCT00462384,INDUSTRY,lead,Hoffmann-La Roche
+NCT02221752,OTHER,lead,Zhao gengli
+NCT02221752,INDUSTRY,collaborator,Vifor Pharma
+NCT01062958,INDUSTRY,lead,"Pamlab, Inc."
+NCT01062958,OTHER,collaborator,Baylor Health Care System
+NCT01062958,UNKNOWN,collaborator,Women's Clinic Shoals
+NCT01062958,OTHER,collaborator,Gainesville Obstetrics & Gynecology
+NCT01062958,UNKNOWN,collaborator,Womens Health Associates
+NCT00964691,OTHER_GOV,lead,"Ministry of Health and Medical Services, Solomon Islands"
+NCT00964691,OTHER,collaborator,World Health Organization
+NCT00364845,INDUSTRY,lead,Amgen
+NCT00642967,INDUSTRY,lead,Hoffmann-La Roche
+NCT02021409,INDUSTRY,lead,Bayer
+NCT05356325,OTHER,lead,Maimónides Biomedical Research Institute of Córdoba
+NCT05356325,OTHER,collaborator,Fondo de Investigacion Sanitaria
+NCT00337935,INDUSTRY,lead,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+NCT00337935,INDUSTRY,collaborator,"Ortho Biotech Clinical Affairs, L.L.C."
+NCT04976179,OTHER,lead,"University of Lagos, Nigeria"
+NCT04976179,OTHER,collaborator,Aminu Kano Teaching Hospital
+NCT00005898,OTHER,lead,University of Minnesota
+NCT00005896,OTHER,lead,University of Minnesota
+NCT00006127,OTHER,lead,Dana-Farber Cancer Institute
+NCT00001399,NIH,lead,"National Heart, Lung, and Blood Institute (NHLBI)"
+NCT03481790,OTHER,lead,Ain Shams Maternity Hospital
+NCT00005891,OTHER,lead,Fairview University Medical Center
+NCT03992066,INDUSTRY,lead,Akebia Therapeutics
+NCT01071759,OTHER,lead,E-DA Hospital
+NCT02817555,OTHER,lead,Andrea L Woodland
+NCT00001749,NIH,lead,"National Heart, Lung, and Blood Institute (NHLBI)"
+NCT06016036,INDUSTRY,lead,"Shenzhen Salubris Pharmaceuticals Co., Ltd."
+NCT02858505,OTHER,lead,Assiut University
+NCT06252103,OTHER,lead,Ain Shams University
+NCT02839096,OTHER,lead,University of Missouri-Columbia
+NCT04101461,OTHER,lead,Assiut University
+NCT03975894,OTHER,lead,Guy's and St Thomas' NHS Foundation Trust
+NCT03975894,OTHER,collaborator,King's College Hospital NHS Trust
+NCT03975894,OTHER,collaborator,Barts & The London NHS Trust
+NCT03975894,OTHER_GOV,collaborator,The Whittington Hospital NHS Trust
+NCT03975894,OTHER_GOV,collaborator,St Mary's NHS Trust
+NCT03975894,OTHER,collaborator,University College London Hospitals
+NCT03975894,OTHER,collaborator,St George's University Hospitals NHS Foundation Trust
+NCT03975894,OTHER,collaborator,London School of Hygiene and Tropical Medicine
+NCT03975894,OTHER,collaborator,King's College London
+NCT03975894,OTHER,collaborator,University of Southampton
+NCT00118027,OTHER,lead,London School of Hygiene and Tropical Medicine
+NCT00118027,OTHER,collaborator,DBL -Institute for Health Research and Development
+NCT00118027,OTHER_GOV,collaborator,"Ministry of Health, Uganda"
+NCT00994318,INDUSTRY,lead,Vifor Pharma
+NCT00994318,INDUSTRY,collaborator,"American Regent, Inc."
+NCT00994318,INDUSTRY,collaborator,ICON Clinical Research
+NCT03562143,OTHER,lead,Icahn School of Medicine at Mount Sinai
+NCT03461146,INDUSTRY,lead,Mitsubishi Tanabe Pharma Corporation
+NCT00046969,OTHER,lead,AGO Study Group
+NCT02772016,OTHER,lead,Yanfang Li
+NCT01221844,OTHER,lead,Clinica Fabia Mater
+NCT05687149,NIH,lead,National Cancer Institute (NCI)
+NCT05545527,OTHER,lead,Thomas Jefferson University
+NCT05545527,OTHER,collaborator,Jawaharlal Nehru Medical College
+NCT05504863,OTHER,lead,Thomas Jefferson University
+NCT05504863,OTHER,collaborator,Jawaharlal Nehru Medical College
+NCT05504863,UNKNOWN,collaborator,S. Nijalingappa Medical College
+NCT05504863,UNKNOWN,collaborator,Raichur Institute of Medical Sciences
+NCT05358509,OTHER,lead,Thomas Jefferson University
+NCT05358509,OTHER,collaborator,Children's Investment Fund Foundation
+NCT05358509,OTHER,collaborator,Jawaharlal Nehru Medical College
+NCT05358509,UNKNOWN,collaborator,S. Nijalingappa Medical College
+NCT05358509,UNKNOWN,collaborator,Raichur Institute of Medical Sciences
+NCT05358509,OTHER_GOV,collaborator,Sawai Mansingh Medical College
+NCT00422513,INDUSTRY,lead,Hoffmann-La Roche
+NCT03968952,OTHER,lead,University of Oxford
+NCT03968952,OTHER,collaborator,The George Institute
+NCT03398824,OTHER,lead,Boston Children's Hospital
+NCT04310059,OTHER,lead,The University of Hong Kong
+NCT04310059,OTHER,collaborator,"Queen Mary Hospital, Hong Kong"
+NCT03814408,INDUSTRY,lead,Rocket Pharmaceuticals Inc.
+NCT00925587,INDUSTRY,lead,Amgen
+NCT01001598,OTHER,lead,Boston Children's Hospital
+NCT05062044,INDUSTRY,lead,Bayer
+NCT03409107,INDUSTRY,lead,GlaxoSmithKline
+NCT02876835,INDUSTRY,lead,GlaxoSmithKline
+NCT01083888,INDUSTRY,lead,Astellas Pharma Inc
+NCT03961074,OTHER,lead,West China Hospital
+NCT03961074,OTHER,collaborator,West China Second University Hospital
+NCT00354341,INDUSTRY,lead,Hoffmann-La Roche
+NCT03428594,INDUSTRY,lead,Chong Kun Dang Pharmaceutical
+NCT03392298,OTHER,lead,"The First Affiliated Hospital, Guangzhou University of Traditional Chinese Medicine"
+NCT03392298,OTHER_GOV,collaborator,National Natural Science Foundation of China
+NCT03475342,OTHER,lead,London School of Hygiene and Tropical Medicine
+NCT03475342,OTHER,collaborator,Wellcome Trust
+NCT03475342,OTHER,collaborator,Bill and Melinda Gates Foundation
+NCT05240677,OTHER_GOV,lead,Walid Ahmed Ragab Abdelhamid
+NCT00132535,OTHER,lead,London School of Hygiene and Tropical Medicine
+NCT00132535,OTHER,collaborator,DBL -Institute for Health Research and Development
+NCT00132535,UNKNOWN,collaborator,Uganda AIDS Commission
+NCT00081471,INDUSTRY,lead,Hoffmann-La Roche
+NCT01193192,INDUSTRY,lead,"Pamlab, L.L.C."
+NCT01193192,OTHER,collaborator,Baylor Health Care System
+NCT01193192,UNKNOWN,collaborator,Norman Regional Health System
+NCT01193192,UNKNOWN,collaborator,Five Oaks Medical Group
+NCT05157828,OTHER,lead,University of Cape Town
+NCT04505514,OTHER,lead,University of Malaya
+NCT05143021,OTHER,lead,Vanderbilt University Medical Center
+NCT04029142,OTHER,lead,"University Hospital, Basel, Switzerland"
+NCT06261398,OTHER,lead,Ohio State University
+NCT06261398,OTHER,collaborator,American Heart Association
+NCT01115478,OTHER,lead,Harvard School of Public Health (HSPH)
+NCT01115478,OTHER,collaborator,Muhimbili University of Health and Allied Sciences
+NCT01119612,OTHER,lead,Harvard School of Public Health (HSPH)
+NCT01119612,OTHER,collaborator,Muhimbili University of Health and Allied Sciences
+NCT01131624,INDUSTRY,lead,Vifor Pharma
+NCT01131624,INDUSTRY,collaborator,Pierrel Research Europe GmbH
+NCT00413101,INDUSTRY,lead,Hoffmann-La Roche
+NCT01136850,OTHER,lead,University of Melbourne
+NCT01136850,OTHER_GOV,collaborator,Papua New Guinea Institute of Medical Research
+NCT01136850,OTHER,collaborator,The University of Western Australia
+NCT01136850,OTHER,collaborator,Walter and Eliza Hall Institute of Medical Research
+NCT01136850,OTHER,collaborator,University of Barcelona
+NCT06220461,OTHER,lead,University of Calgary
+NCT05804071,OTHER,lead,Qianfoshan Hospital
+NCT00255424,INDUSTRY,lead,"AMAG Pharmaceuticals, Inc."
+NCT00272857,OTHER,lead,Boston Children's Hospital
+NCT00272857,NIH,collaborator,"National Heart, Lung, and Blood Institute (NHLBI)"
+NCT00272857,OTHER,collaborator,"Children's Hospital Medical Center, Cincinnati"
+NCT05725278,OTHER,lead,Network for Engineering and Economics Research and Management
+NCT00399269,INDUSTRY,lead,Cadila Pharnmaceuticals
+NCT01183572,OTHER,lead,Harvard School of Public Health (HSPH)
+NCT01183572,OTHER,collaborator,Ifakara Health Institute
+NCT00121602,INDUSTRY,lead,Amgen
+NCT00312871,INDUSTRY,lead,Janssen Cilag S.A.S.
+NCT02865850,INDUSTRY,lead,Akebia Therapeutics
+NCT03361124,OTHER,lead,Milton S. Hershey Medical Center
+NCT04410198,INDUSTRY,lead,FibroGen
+NCT04410198,INDUSTRY,collaborator,AstraZeneca
+NCT02268994,INDUSTRY,lead,Keryx Biopharmaceuticals
+NCT05921968,OTHER,lead,Ain Shams University
+NCT00746551,OTHER,lead,Mahidol University
+NCT00746551,INDUSTRY,collaborator,Vifor Pharma
+NCT00432367,OTHER,lead,London School of Hygiene and Tropical Medicine
+NCT00432367,OTHER,collaborator,Kwame Nkrumah University of Science and Technology
+NCT02185911,INDUSTRY,lead,Amgen
+NCT03689218,OTHER,lead,Aga Khan University
+NCT03689218,UNKNOWN,collaborator,Trust for Vaccines & Immunization (TVI)
+NCT03689218,UNKNOWN,collaborator,"Department of Health, Government of Balochistan"
+NCT03689218,UNKNOWN,collaborator,World Food Program (WFP)
+NCT03689218,UNKNOWN,collaborator,"Nutrition Cell, Government of Balochistan"
+NCT03689218,UNKNOWN,collaborator,"Youth Organization, Balochistan"
+NCT05975125,OTHER_GOV,lead,Rajavithi Hospital
+NCT03251664,OTHER,lead,Tehran University of Medical Sciences
+NCT03317210,OTHER,lead,University of Zurich
+NCT04008147,OTHER,lead,Swiss Federal Institute of Technology
+NCT04008147,OTHER,collaborator,"University Hospital, Zürich"
+NCT03476330,OTHER,lead,"Children's Hospital Medical Center, Cincinnati"
+NCT02191527,OTHER,lead,Elizabeth Glaser Pediatric AIDS Foundation
+NCT02191527,OTHER_GOV,collaborator,"Ministry of Health, Mozambique"
+NCT02191683,OTHER,lead,University of Copenhagen
+NCT02191683,OTHER,collaborator,"Copenhagen University Hospital, Denmark"
+NCT02191683,OTHER,collaborator,Aarhus University Hospital
+NCT02191683,OTHER,collaborator,Lund University
+NCT02191683,OTHER_GOV,collaborator,"National Institute for Medical Research, Tanzania"
+NCT02191683,UNKNOWN,collaborator,Department of Clinical Pathology Naestved Hospital Denmark
+NCT00111995,INDUSTRY,lead,Amgen
+NCT03157804,OTHER,lead,"Hospital Infantil Universitario Niño Jesús, Madrid, Spain"
+NCT03157804,UNKNOWN,collaborator,"Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT)"
+NCT03157804,UNKNOWN,collaborator,Centro de Investigación en Red de Enfermedades Raras (CIBERER)
+NCT03157804,OTHER,collaborator,Instituto de Investigación Sanitaria de la Fundación Jiménez Díaz
+NCT03157804,OTHER,collaborator,Hospital Vall d'Hebron
+NCT03157804,OTHER,collaborator,Universitat Autonoma de Barcelona
+NCT03217656,OTHER,lead,Zhejiang University
+NCT03217656,OTHER,collaborator,Jiaxing Maternity and Child Health Care Hospital
+NCT03217656,OTHER,collaborator,Qingdao University
+NCT03217656,OTHER,collaborator,Westlake University
+NCT05910853,INDUSTRY,lead,Sanguine Biosciences
+NCT05462704,OTHER,lead,Women and Infants Hospital of Rhode Island
+NCT05462704,OTHER,collaborator,Hasbro Children's Hospital
+NCT05462704,OTHER,collaborator,University of Michigan
+NCT05462704,OTHER,collaborator,Washington University School of Medicine
+NCT05251493,OTHER,lead,Saskatchewan Health Authority - Regina Area
+NCT05251493,OTHER,collaborator,Saskatchewan Centre for Patient-Oriented Research
+NCT00116493,OTHER,lead,Johns Hopkins Bloomberg School of Public Health
+NCT00116493,OTHER,collaborator,Aga Khan University
+NCT04228627,OTHER_GOV,lead,"Services Institute of Medical Sciences, Pakistan"
+NCT04228627,OTHER,collaborator,Allama Iqbal Medical College
+NCT04228627,OTHER,collaborator,Universidad de Granada
+NCT04228627,OTHER,collaborator,Fatima Jinnah Medical University
+NCT05082584,INDUSTRY,lead,Akebia Therapeutics
+NCT00494416,OTHER,lead,London School of Hygiene and Tropical Medicine
+NCT00494416,OTHER,collaborator,DBL -Institute for Health Research and Development
+NCT02228655,INDUSTRY,lead,"FerruMax Pharmaceuticals, Inc."
+NCT02952092,INDUSTRY,lead,Astellas Pharma Inc
+NCT02952092,INDUSTRY,collaborator,FibroGen
+NCT00140517,OTHER,lead,London School of Hygiene and Tropical Medicine
+NCT00140517,OTHER,collaborator,DBL -Institute for Health Research and Development
+NCT03565198,OTHER,lead,CAMC Health System
+NCT05496400,OTHER,lead,Marwa Mohamed Farag
+NCT03287882,OTHER,lead,Aga Khan University
+NCT03287882,OTHER,collaborator,The Hospital for Sick Children
+NCT03287882,UNKNOWN,collaborator,National Program for Family Planning and Primary Health Care
+NCT03287882,OTHER,collaborator,Bill and Melinda Gates Foundation
+NCT02689206,INDUSTRY,lead,GlaxoSmithKline
+NCT05515367,INDUSTRY,lead,Zydus Lifesciences Limited
+NCT02940860,INDUSTRY,lead,Pharmacosmos A/S
+NCT03206086,NIH,lead,"National Heart, Lung, and Blood Institute (NHLBI)"
+NCT05691257,OTHER,lead,China-Japan Friendship Hospital
+NCT04810546,OTHER,lead,University of Illinois at Chicago
+NCT04810546,NIH,collaborator,"National Heart, Lung, and Blood Institute (NHLBI)"
+NCT02441439,OTHER,lead,"HaEmek Medical Center, Israel"
+NCT04414527,OTHER,lead,University Ghent
+NCT04414527,NETWORK,collaborator,Flemish Interuniversity Council (VLIR)
+NCT04414527,OTHER,collaborator,Arba Minch University
+NCT05423249,OTHER,lead,Stony Brook University
+NCT00970866,OTHER,lead,"University of California, Davis"
+NCT03484845,OTHER,lead,Assiut University
+NCT02680574,INDUSTRY,lead,Akebia Therapeutics
+NCT00548691,INDUSTRY,lead,"American Regent, Inc."
+NCT00479115,OTHER,lead,"Children's Hospital Medical Center, Cincinnati"
+NCT00479115,NIH,collaborator,"National Heart, Lung, and Blood Institute (NHLBI)"
+NCT03922087,OTHER,lead,Sun Yat-sen University
+NCT03922087,UNKNOWN,collaborator,Huizhou No.1 Maternal and Child Care Service Cencer
+NCT01795131,OTHER,lead,"International Centre for Diarrhoeal Disease Research, Bangladesh"
+NCT05262634,OTHER,lead,"University Hospital, Basel, Switzerland"
+NCT03643601,INDUSTRY,lead,Astellas Pharma a/s
+NCT01381094,INDUSTRY,lead,Akebia Therapeutics
+NCT01235936,INDUSTRY,lead,Akebia Therapeutics
+NCT03799627,INDUSTRY,lead,Akebia Therapeutics
+NCT03657433,OTHER,lead,University of Arizona
+NCT03657433,INDUSTRY,collaborator,"AMAG Pharmaceuticals, Inc."
+NCT03212781,OTHER,lead,Assiut University
+NCT03836703,OTHER,lead,Ain Shams University
+NCT04649411,INDUSTRY,lead,Keryx Biopharmaceuticals
+NCT04509375,OTHER,lead,Hacettepe University
+NCT03439137,INDUSTRY,lead,Mitsubishi Tanabe Pharma Corporation
+NCT03402386,INDUSTRY,lead,Mitsubishi Tanabe Pharma Corporation
+NCT03329196,INDUSTRY,lead,Mitsubishi Tanabe Pharma Corporation
+NCT00981045,INDUSTRY,lead,"American Regent, Inc."
+NCT00182390,OTHER,lead,McMaster University
+NCT00182390,OTHER_GOV,collaborator,Canadian Institutes of Health Research (CIHR)
+NCT03792464,OTHER,lead,"University Hospital, Basel, Switzerland"
+NCT05543499,OTHER,lead,University of Miami
+NCT04522375,INDUSTRY,lead,"Foresee Pharmaceuticals Co., Ltd."
+NCT06115421,OTHER,lead,Alexandria University
+NCT01102413,INDUSTRY,lead,Pharmacosmos A/S
+NCT04205266,OTHER,lead,Thomas Jefferson University
+NCT04205266,INDUSTRY,collaborator,"AMAG Pharmaceuticals, Inc."
+NCT05312814,INDUSTRY,lead,"Natera, Inc."
+NCT03775954,OTHER,lead,Medical College of Wisconsin
+NCT03775954,NIH,collaborator,"National Heart, Lung, and Blood Institute (NHLBI)"
+NCT03775954,OTHER,collaborator,"University of Wisconsin, Madison"
+NCT03775954,OTHER,collaborator,"Children's Hospital and Health System Foundation, Wisconsin"
+NCT03775954,INDUSTRY,collaborator,"Shared Medical Technology, Inc."
+NCT03775954,UNKNOWN,collaborator,"Tristan Technologies, Inc"
+NCT03579875,OTHER,lead,"Masonic Cancer Center, University of Minnesota"
+NCT01358552,INDUSTRY,lead,"Pamlab, Inc."
+NCT01358552,INDUSTRY,collaborator,"InfoMedics, Inc."
+NCT03242967,INDUSTRY,lead,Akebia Therapeutics
+NCT00210743,INDUSTRY,lead,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+NCT00210743,INDUSTRY,collaborator,"Ortho Biotech Products, L.P."
+NCT02378662,INDUSTRY,lead,"Aevi Genomic Medicine, LLC, a Cerecor company"
+NCT02378662,INDUSTRY,collaborator,Medgenics Medical Israel Ltd.
+NCT04959578,OTHER,lead,Rufaida Mazahir
+NCT00243399,OTHER,lead,"Children's Hospital Medical Center, Cincinnati"
+NCT00243399,FED,collaborator,FDA Office of Orphan Products Development
+NCT02652819,INDUSTRY,lead,FibroGen
+NCT03188445,INDUSTRY,lead,Pharmacosmos A/S
+NCT01121237,INDUSTRY,lead,Sandoz
+NCT01121237,INDUSTRY,collaborator,Hexal AG
+NCT00563446,OTHER_GOV,lead,"Hospital Authority, Hong Kong"
+NCT00563446,UNKNOWN,collaborator,"Kirin Pharmaceutical (Asia) CO., LTD"
+NCT03408639,INDUSTRY,lead,Cinnagen
+NCT04975074,OTHER,lead,Shengjing Hospital
+NCT02127905,OTHER,lead,"Neena Kapoor, M.D."
+NCT02136563,OTHER,lead,"Translational Research Center for Medical Innovation, Kobe, Hyogo, Japan"
+NCT02136563,UNKNOWN,collaborator,Niigata University
+NCT03448432,OTHER,lead,"University Hospital, Brest"
+NCT01232387,OTHER,lead,Icahn School of Medicine at Mount Sinai
+NCT01232387,NIH,collaborator,National Center for Research Resources (NCRR)
+NCT01232387,OTHER,collaborator,New York Blood Center
+NCT03706638,OTHER,lead,UConn Health
+NCT03171909,OTHER,lead,Medical University of Graz
+NCT03171909,OTHER,collaborator,Medical University of Vienna
+NCT03171909,OTHER,collaborator,Medical University Innsbruck
+NCT03171909,OTHER,collaborator,Johannes Kepler University of Linz
+NCT03171909,OTHER,collaborator,Paracelsus Medical University
+NCT03171909,OTHER,collaborator,Klinikum Klagenfurt am Wörthersee
+NCT03171909,UNKNOWN,collaborator,Brothers of Saint John of God Eisenstadt
+NCT03171909,OTHER,collaborator,SMZ-Ost Donauspital
+NCT03171909,UNKNOWN,collaborator,Hospital Hochsteiermark
+NCT03171909,OTHER,collaborator,Landesklinikum Sankt Polten
+NCT03171909,OTHER,collaborator,Klinikum Wels-Grieskirchen
+NCT03171909,OTHER,collaborator,Landeskrankenhaus Feldkirch
+NCT03171909,OTHER,collaborator,Landesklinkum Wiener Neustadt
+NCT03171909,OTHER,collaborator,Mödling Hospital
+NCT00236964,INDUSTRY,lead,"American Regent, Inc."
+NCT00258024,OTHER,lead,DBL -Institute for Health Research and Development
+NCT05745883,INDUSTRY,lead,"Disc Medicine, Inc"
+NCT01155375,INDUSTRY,lead,"AMAG Pharmaceuticals, Inc."
+NCT03418168,INDUSTRY,lead,Bayer
+NCT04484857,INDUSTRY,lead,FibroGen
+NCT04484857,INDUSTRY,collaborator,AstraZeneca
+NCT02190565,INDUSTRY,lead,Oriflame Cosmetics AB
+NCT02190565,OTHER,collaborator,Karolinska Institutet
+NCT05737862,OTHER,lead,Universitas Padjadjaran
+NCT00258427,OTHER,lead,"Masonic Cancer Center, University of Minnesota"
+NCT04708665,OTHER,lead,Boston University Charles River Campus
+NCT04708665,UNKNOWN,collaborator,Lata Medical Research Foundation
+NCT03738995,OTHER_GOV,lead,KK Women's and Children's Hospital
+NCT03670537,OTHER,lead,Auerbach Hematology Oncology Associates P C
+NCT03670537,UNKNOWN,collaborator,MedStar Women's Care at Honeygo
+NCT00255437,INDUSTRY,lead,"AMAG Pharmaceuticals, Inc."
+NCT03122938,OTHER,lead,Beingmate Baby & Child Food Co Ltd .
+NCT03122938,OTHER,collaborator,Sir Run Run Shaw Hospital
+NCT02366325,INDUSTRY,lead,"Jiangsu Hansoh Pharmaceutical Co., Ltd."
+NCT04486456,OTHER,lead,Peking University First Hospital
+NCT00271089,NIH,lead,"National Heart, Lung, and Blood Institute (NHLBI)"
+NCT00271089,OTHER,collaborator,"Children's Hospital Medical Center, Cincinnati"
+NCT03351868,OTHER,lead,Shenzhen Geno-Immune Medical Institute
+NCT03351166,INDUSTRY,lead,Bayer
+NCT01191983,INDUSTRY,lead,Hoffmann-La Roche
+NCT01071239,OTHER,lead,Medical College of Wisconsin
+NCT01071239,OTHER,collaborator,Memorial Sloan Kettering Cancer Center
+NCT04253626,OTHER,lead,Stanford University
+NCT04253626,NIH,collaborator,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)
+NCT03818867,OTHER,lead,"St George's, University of London"
+NCT02879305,INDUSTRY,lead,GlaxoSmithKline
+NCT03054350,INDUSTRY,lead,Akebia Therapeutics
+NCT05151679,OTHER,lead,Assiut University
+NCT02468414,INDUSTRY,lead,"Aevi Genomic Medicine, LLC, a Cerecor company"
+NCT02468414,INDUSTRY,collaborator,Medgenics Medical Israel Ltd.
+NCT03759353,OTHER,lead,Ain Shams University
+NCT02762773,OTHER,lead,University Hospitals Cleveland Medical Center
+NCT02762773,UNKNOWN,collaborator,Martin Wieczorek
+NCT04470063,INDUSTRY,lead,"Jiangsu HengRui Medicine Co., Ltd."
+NCT04437771,INDUSTRY,lead,Rocket Pharmaceuticals Inc.
+NCT00236977,INDUSTRY,lead,"American Regent, Inc."
+NCT06138262,OTHER,lead,Indonesia University
+NCT05598515,OTHER,lead,"Children's Hospital Medical Center, Cincinnati"
+NCT05832840,NETWORK,lead,NICHD Global Network for Women's and Children's Health
+NCT05832840,OTHER,collaborator,Global Network for Women's and Children's Health Research
+NCT05832840,OTHER,collaborator,Thomas Jefferson University
+NCT05832840,OTHER,collaborator,Jawaharlal Nehru Medical College
+NCT05832840,OTHER,collaborator,RTI International
+NCT03438227,OTHER,lead,Indiana University
+NCT00327639,OTHER,lead,"University Health Network, Toronto"
+NCT00307814,INDUSTRY,lead,"Ortho Biotech Products, L.P."
+NCT00148629,OTHER,lead,Cornell University
+NCT00148629,OTHER,collaborator,Bill and Melinda Gates Foundation
+NCT00148629,OTHER,collaborator,UNICEF
+NCT00148629,OTHER,collaborator,Johns Hopkins Bloomberg School of Public Health
+NCT00317239,INDUSTRY,lead,"American Regent, Inc."
+NCT05590260,NETWORK,lead,NICHD Global Network for Women's and Children's Health
+NCT05590260,OTHER,collaborator,Thomas Jefferson University
+NCT05590260,OTHER,collaborator,"University of North Carolina, Chapel Hill"
+NCT05590260,OTHER,collaborator,Kinshasa School of Public Health
+NCT05590260,OTHER,collaborator,University of Alabama at Birmingham
+NCT05590260,OTHER,collaborator,"University Teaching Hospital, Lusaka, Zambia"
+NCT05590260,OTHER,collaborator,"University of Colorado, Denver"
+NCT05590260,OTHER,collaborator,Institute of Nutrition of Central America and Panama
+NCT05590260,OTHER,collaborator,University of Virginia
+NCT05590260,OTHER,collaborator,"International Centre for Diarrhoeal Disease Research, Bangladesh"
+NCT05590260,OTHER,collaborator,Columbia University
+NCT05590260,OTHER,collaborator,Aga Khan University
+NCT05590260,OTHER,collaborator,Boston University
+NCT05590260,OTHER,collaborator,"Lata Medical Research Foundation, Nagpur"
+NCT05590260,OTHER,collaborator,Indiana University
+NCT05590260,OTHER,collaborator,Moi University
+NCT05590260,OTHER,collaborator,RTI International
+NCT05590260,OTHER,collaborator,Bill and Melinda Gates Foundation
+NCT05590260,UNKNOWN,collaborator,KLE University Jawaharlal Nehru Medical College
+NCT03378791,OTHER,lead,Hatem AbuHashim
+NCT01422824,INDUSTRY,lead,Hoffmann-La Roche
+NCT00395993,INDUSTRY,lead,"American Regent, Inc."
+NCT03374111,OTHER,lead,"The First Affiliated Hospital, Guangzhou University of Traditional Chinese Medicine"
+NCT02678533,OTHER,lead,Assistance Publique - Hôpitaux de Paris
+NCT02678533,UNKNOWN,collaborator,EuroFancolen
+NCT00317876,OTHER,lead,Fred Hutchinson Cancer Center
+NCT00317876,NIH,collaborator,National Cancer Institute (NCI)
+NCT04278651,OTHER,lead,Thomas Jefferson University
+NCT04278651,UNKNOWN,collaborator,Auerbach Hematology and Oncology
+NCT03350347,INDUSTRY,lead,Bayer
+NCT02957643,OTHER,lead,Hippocration General Hospital
+NCT00630253,OTHER,lead,"Masonic Cancer Center, University of Minnesota"
+NCT03725150,OTHER_GOV,lead,The Royal Wolverhampton Hospitals NHS Trust
+NCT00338468,INDUSTRY,lead,"Ortho Biotech Products, L.P."
+NCT03196882,OTHER,lead,Victoria Arija Val
+NCT03196882,OTHER,collaborator,University Rovira i Virgili
+NCT03196882,OTHER_GOV,collaborator,Catalan Institute of Health
+NCT03196882,OTHER,collaborator,Hospital Universitari Joan XXIII de Tarragona.
+NCT03196882,OTHER_GOV,collaborator,Carlos III Health Institute
+NCT02840292,OTHER_GOV,lead,Lady Hardinge Medical College
+NCT03400033,INDUSTRY,lead,GlaxoSmithKline
+NCT00463632,OTHER,lead,DBL -Institute for Health Research and Development
+NCT00463632,OTHER,collaborator,Centre Muraz
+NCT03174652,OTHER,lead,University of Oxford
+NCT01720147,OTHER,lead,"Children's Hospital Medical Center, Cincinnati"
+NCT01720147,FED,collaborator,Food and Drug Administration (FDA)
+NCT02038023,OTHER,lead,Auerbach Hematology Oncology Associates P C
+NCT02038023,INDUSTRY,collaborator,Pharmacosmos A/S
+NCT00439595,OTHER,lead,London School of Hygiene and Tropical Medicine
+NCT00439595,OTHER_GOV,collaborator,"National Institute for Medical Research, Tanzania"
+NCT03279536,OTHER,lead,"Woman's Health University Hospital, Egypt"
+NCT03175042,OTHER,lead,"The University of Texas Medical Branch, Galveston"
+NCT00442793,INDUSTRY,lead,Hoffmann-La Roche
+NCT02625844,INDUSTRY,lead,Hoffmann-La Roche
+NCT03214627,INDUSTRY,lead,Vifor Fresenius Medical Care Renal Pharma
+NCT03214627,OTHER,collaborator,Worldwide Clinical Trials
+NCT03214627,INDUSTRY,collaborator,Fresenius Medical Care Deutschland GmbH
+NCT03350321,INDUSTRY,lead,Bayer
+NCT03347513,OTHER,lead,Kasr El Aini Hospital
+NCT04502537,OTHER,lead,Shenzhen Second People's Hospital
+NCT01245777,OTHER,lead,University of Zurich
+NCT01245777,INDUSTRY,collaborator,Vifor Pharma
+NCT05035641,INDUSTRY,lead,Kind Pharmaceuticals LLC
+NCT02959125,OTHER,lead,Semarang Health Polytechnic
+NCT03140722,INDUSTRY,lead,Akebia Therapeutics
+NCT04784052,OTHER,lead,"Porteus, Matthew, MD"
+NCT02779764,INDUSTRY,lead,Astellas Pharma Inc
+NCT02779764,INDUSTRY,collaborator,FibroGen
+NCT00495365,INDUSTRY,lead,"Ortho Biotech Products, L.P."
+NCT02487719,OTHER,lead,University of Zurich
+NCT02892149,INDUSTRY,lead,Akebia Therapeutics
+NCT03202615,INDIV,lead,"Abdelwahed, Mai Mahmoud Mohamed, M.D."
+NCT04694235,OTHER,lead,SEAMEO Regional Centre for Food and Nutrition
+NCT04694235,OTHER,collaborator,London School of Hygiene and Tropical Medicine
+NCT04694235,OTHER,collaborator,University of Aberdeen
+NCT04694235,OTHER,collaborator,University of Brighton
+NCT04694235,OTHER,collaborator,"University College, London"
+NCT04694235,UNKNOWN,collaborator,Royal Veterinary College
+NCT04694235,OTHER,collaborator,"Birkbeck, University of London"
+NCT04694235,OTHER,collaborator,The International Livestock Research Institute (ILRI)
+NCT04694235,OTHER,collaborator,"Cheikh Anta Diop University, Senegal"
+NCT04694235,UNKNOWN,collaborator,"National Institute of Nutrition, India"
+NCT04694235,UNKNOWN,collaborator,International Centre for Research in Agroforestry
+NCT04694235,UNKNOWN,collaborator,Science Made Simple
+NCT04694235,OTHER,collaborator,Liverpool School of Tropical Medicine
+NCT04694235,OTHER,collaborator,International Initiative for Impact Evaluation
+NCT04694235,UNKNOWN,collaborator,Digital Green Foundation
+NCT04694235,UNKNOWN,collaborator,"SOAS, University of London"
+NCT04694235,OTHER,collaborator,University of Sheffield
+NCT02341300,OTHER,lead,Weill Medical College of Cornell University
+NCT02439697,OTHER,lead,The University of Hong Kong
+NCT02444845,INDUSTRY,lead,Hoffmann-La Roche
+NCT04812821,OTHER,lead,Hopital Nord Franche-Comte
+NCT02743572,OTHER,lead,"Xinhua Hospital, Shanghai Jiao Tong University School of Medicine"
+NCT04925661,INDUSTRY,lead,"Sunshine Lake Pharma Co., Ltd."
+NCT04925661,UNKNOWN,collaborator,"Nicoya Therapeutics (Shanghai) Co., Ltd."
+NCT04543812,INDUSTRY,lead,Panion & BF Biotech Inc.
+NCT03029208,INDUSTRY,lead,GlaxoSmithKline
+NCT04231292,INDUSTRY,lead,Shengzhen Sciprogen Bio-pharmaceutical Co. Ltd
+NCT02780726,INDUSTRY,lead,Astellas Pharma Inc
+NCT02780726,INDUSTRY,collaborator,FibroGen
+NCT05699109,OTHER,lead,Helwan University
+NCT00660933,OTHER,lead,Hospital Clinic of Barcelona
+NCT00436748,INDUSTRY,lead,Amgen
+NCT03176147,OTHER,lead,"University Hospital, Clermont-Ferrand"
+NCT02260193,INDUSTRY,lead,Akebia Therapeutics
+NCT05951192,NETWORK,lead,USRC Kidney Research
+NCT05951192,INDUSTRY,collaborator,GlaxoSmithKline
+NCT05265325,INDUSTRY,lead,Kind Pharmaceuticals LLC
+NCT02780141,INDUSTRY,lead,Astellas Pharma Inc
+NCT02780141,INDUSTRY,collaborator,FibroGen
+NCT02652806,INDUSTRY,lead,FibroGen
+NCT00352976,OTHER,lead,"Masonic Cancer Center, University of Minnesota"
+NCT00687258,OTHER,lead,A. Manzoni Hospital
+NCT00318812,OTHER,lead,Ottawa Hospital Research Institute
+NCT02079896,INDUSTRY,lead,TME Pharma AG
+NCT02086838,OTHER,lead,Ain Shams University
+NCT00701714,INDUSTRY,lead,Sandoz
+NCT00922610,INDUSTRY,lead,Hoffmann-La Roche
+NCT04594070,OTHER,lead,"The University of Texas Medical Branch, Galveston"
+NCT01379963,INDUSTRY,lead,Hoffmann-La Roche
+NCT00595127,OTHER,lead,Memorial Sloan Kettering Cancer Center
+NCT00595127,NIH,collaborator,National Cancer Institute (NCI)
+NCT00595127,INDUSTRY,collaborator,"Miltenyi Biotec, Inc."
+NCT03558464,OTHER,lead,Fabian Rohner
+NCT03558464,UNKNOWN,collaborator,One Acre Fund
+NCT03558464,OTHER,collaborator,Children's Investment Fund Foundation
+NCT02620943,OTHER,lead,Dilla University
+NCT02620943,OTHER,collaborator,Addis Ababa University
+NCT02620943,OTHER,collaborator,African Population and Health Research Center
+NCT02620943,OTHER_GOV,collaborator,"International Development Research Centre, Canada"
+NCT02611856,OTHER,lead,Assistance Publique - Hôpitaux de Paris
+NCT02611856,OTHER,collaborator,Société Française d'Hypentension Artérielle
+NCT03574506,OTHER,lead,Fundación Grupo de Investigación en Cuidados Intensivos y Obstetricia
+NCT03574506,INDUSTRY,collaborator,"Alexion Pharmaceuticals, Inc."
+NCT05752955,OTHER,lead,The George Institute
+NCT05752955,OTHER,collaborator,University of Oxford
+NCT00717366,INDUSTRY,lead,Hoffmann-La Roche
+NCT04655027,INDUSTRY,lead,AstraZeneca
+NCT04655027,INDUSTRY,collaborator,Parexel
+NCT02590224,OTHER,lead,Assiut University
+NCT02586402,INDUSTRY,lead,"Jiangsu Hansoh Pharmaceutical Co., Ltd."
+NCT01903148,OTHER,lead,Fundación Senefro
+NCT00440557,INDUSTRY,lead,"Johnson & Johnson Pharmaceutical Research & Development, L.L.C."
+NCT05900635,OTHER,lead,Alexandria University
+NCT00813657,OTHER,lead,Universidad Politecnica de Madrid
+NCT00896740,OTHER,lead,OHSU Knight Cancer Institute
+NCT00896740,NIH,collaborator,National Cancer Institute (NCI)
+NCT00953134,OTHER,lead,The Hospital for Sick Children
+NCT00929409,OTHER,lead,Norwegian University of Science and Technology
+NCT00929409,OTHER,collaborator,St. Olavs Hospital
+NCT00929409,OTHER,collaborator,Sykehuset Innlandet HF
+NCT00929409,OTHER,collaborator,Sykehuset Buskerud HF
+NCT01055431,OTHER,lead,Manchester Metropolitan University
+NCT04045002,OTHER,lead,Universiti Kebangsaan Malaysia Medical Centre
+NCT00752609,INDUSTRY,lead,Takeda
+NCT00752609,INDUSTRY,collaborator,Affymax
+NCT00782912,OTHER,lead,Unity Health Toronto
+NCT00869856,INDUSTRY,lead,Sandoz
+NCT04656171,OTHER,lead,Assistance Publique - Hôpitaux de Paris
+NCT04076969,OTHER,lead,Cairo University
+NCT01019902,OTHER,lead,Cornell University
+NCT01019902,OTHER,collaborator,University of Rochester
+NCT04074707,OTHER,lead,Swiss Federal Institute of Technology
+NCT04074707,OTHER,collaborator,Mahidol University
+NCT01018576,OTHER,lead,"University of California, Davis"
+NCT03029247,INDUSTRY,lead,GlaxoSmithKline
+NCT03029247,OTHER,collaborator,ERT: Clinical Trial Technology Solutions
+NCT03029247,INDUSTRY,collaborator,Q2 Solutions
+NCT03029247,INDUSTRY,collaborator,"Quintiles, Inc."
+NCT03029247,UNKNOWN,collaborator,HemoCue
+NCT00899522,OTHER,lead,OHSU Knight Cancer Institute
+NCT00899522,NIH,collaborator,National Cancer Institute (NCI)
+NCT00559273,INDUSTRY,lead,Hoffmann-La Roche
+NCT04621331,INDUSTRY,lead,FibroGen
+NCT04621331,INDUSTRY,collaborator,AstraZeneca
+NCT05739097,OTHER,lead,Casa Sollievo della Sofferenza IRCCS
+NCT05739097,OTHER,collaborator,University of Foggia
+NCT05739097,OTHER,collaborator,University of Bari
+NCT05576207,OTHER,lead,Johns Hopkins Bloomberg School of Public Health
+NCT05576207,OTHER,collaborator,Bill and Melinda Gates Foundation
+NCT05576207,UNKNOWN,collaborator,"BRAC James P Grant School of Public Health, BRAC University"
+NCT05585645,INDUSTRY,lead,Nanogen Pharmaceutical Biotechnology Joint Stock Company
+NCT05585645,INDUSTRY,collaborator,Vietstar Biomedical Research
+NCT05585645,UNKNOWN,collaborator,MEDPHASE CLINICAL RESEARCH CONSULTANT COMPANY LIMITED
+NCT05585645,UNKNOWN,collaborator,CLINICAL RESEARCH VIET NAM SKILL TRAINING AND CONSULTING COMPANY LIMITED
+NCT05585645,UNKNOWN,collaborator,MedProve Inc
+NCT02829320,INDUSTRY,lead,GlaxoSmithKline
+NCT05253781,OTHER,lead,"University of Lagos, Nigeria"
+NCT01146574,INDUSTRY,lead,Celgene
+NCT01146574,INDUSTRY,collaborator,"Acceleron Pharma, Inc., a wholly-owned subsidiary of Merck & Co., Inc., Rahway, NJ USA"
+NCT04059913,INDUSTRY,lead,FibroGen
+NCT02648347,INDUSTRY,lead,Akebia Therapeutics
+NCT04707768,INDUSTRY,lead,Akebia Therapeutics
+NCT01940484,INDUSTRY,lead,Hoffmann-La Roche
+NCT03873571,INDUSTRY,lead,Elpen Pharmaceutical Co. Inc.
+NCT04925011,OTHER,lead,Mao Jianhua
+NCT01887600,INDUSTRY,lead,Astellas Pharma Europe B.V.
+NCT01887600,INDUSTRY,collaborator,FibroGen
+NCT01587924,INDUSTRY,lead,GlaxoSmithKline
+NCT01587924,INDUSTRY,collaborator,PPD
+NCT06125860,OTHER,lead,Harvard School of Public Health (HSPH)
+NCT06125860,OTHER,collaborator,Addis Continental Institute of Public Health
+NCT06125860,OTHER,collaborator,George Mason University
+NCT03564756,OTHER,lead,Fetal Medicine Foundation
+NCT03564756,OTHER,collaborator,Wright State University
+NCT03564756,UNKNOWN,collaborator,Five Rivers Health Centers
+NCT00167388,OTHER,lead,University of Pittsburgh
+NCT00167388,UNKNOWN,collaborator,Irene McLeneham Young Investigator Award through Magee Womens Research Institute
+NCT00317226,INDUSTRY,lead,"American Regent, Inc."
+NCT02128074,INDUSTRY,lead,Keryx Biopharmaceuticals
+NCT04093986,OTHER,lead,"Children's Hospital Medical Center, Cincinnati"
+NCT04093986,OTHER,collaborator,University of Connecticut
+NCT04093986,OTHER,collaborator,"University of Colorado, Denver"
+NCT04093986,OTHER,collaborator,Guy's and St Thomas' NHS Foundation Trust
+NCT04093986,OTHER,collaborator,Duke University
+NCT04093986,OTHER,collaborator,Children's Hospital of Philadelphia
+NCT00590460,OTHER,lead,Baylor College of Medicine
+NCT00590460,OTHER,collaborator,The Methodist Hospital Research Institute
+NCT00590460,OTHER,collaborator,"Center for Cell and Gene Therapy, Baylor College of Medicine"
+NCT05479799,OTHER,lead,Beni-Suef University
+NCT05082571,INDUSTRY,lead,Akebia Therapeutics
+NCT02278341,INDUSTRY,lead,Astellas Pharma Europe B.V.
+NCT02278341,INDUSTRY,collaborator,FibroGen
+NCT01902628,INDUSTRY,lead,Hoffmann-La Roche
+NCT02075463,INDUSTRY,lead,GlaxoSmithKline
+NCT01977573,INDUSTRY,lead,GlaxoSmithKline
+NCT01587898,INDUSTRY,lead,GlaxoSmithKline
+NCT01587898,INDUSTRY,collaborator,PPD
+NCT06366698,OTHER,lead,Arrowhead Regional Medical Center
+NCT02968368,INDUSTRY,lead,Shield Therapeutics
+NCT03814395,OTHER,lead,Peking University
+NCT03814395,OTHER_GOV,collaborator,National Natural Science Foundation of China
+NCT03700034,OTHER,lead,Public Health Foundation of India
+NCT03700034,OTHER,collaborator,London School of Hygiene and Tropical Medicine
+NCT03700034,OTHER,collaborator,Kathmandu University School of Medical Sciences
+NCT02174627,INDUSTRY,lead,AstraZeneca
+NCT02174627,INDUSTRY,collaborator,FibroGen
+NCT02021318,INDUSTRY,lead,Astellas Pharma Europe B.V.
+NCT02021318,INDUSTRY,collaborator,FibroGen
+NCT01977482,INDUSTRY,lead,GlaxoSmithKline
+NCT02019719,INDUSTRY,lead,GlaxoSmithKline
+NCT00004464,OTHER,lead,Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins

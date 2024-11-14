@@ -1,0 +1,1260 @@
+
+<section> Improving coverage
+ 
+<section> and folic acid supplementation
+ 
+<section> malaria prophylaxis
+ 
+<section> information and home
+ 
+<section> Côte d’Ivoire: a cluster
+ 
+<section> controlled trial
+ 
+<section> Siaka Koné , 1,2,3 Nicole Probst-­Hensch,
+ 
+<section> Günther Fink 2,3
+ 
+<section> To cite: Koné S, 
+<section> ABSTRACT
+ Probst-­Hensch N, Dao D, Introduction Coverage of antenatal iron and folic acid
+ et al. Improving coverage (IFA) supplementation and malaria chemoprophylaxis
+ of antenatal iron and folic remains low in many low-­income and middle-­income
+ 
+<section> acid supplementation and
+ malaria prophylaxis through settings. We assessed the effectiveness of personal
+ targeted information and home information (INFO) sessions and personal information
+ deliveries in Côte d’Ivoire: a session plus home deliveries (INFO+DELIV) to increase
+ cluster randomised controlled coverage of IFA supplementation and intermittent
+ trial. BMJ Global Health preventive treatment in pregnancy (IPTp), and their
+ 2023;8:e010934. doi:10.1136/ effectiveness on postpartum anaemia and malaria
+ bmjgh-2022-010934 infection.
+ 
+<section> Methods We included 118 clusters randomised to a
+ 
+<section> Handling editor Valery Ridde control (39), INFO (39) and INFO+DELIV (40) arm, in a
+ 
+<section> ► Additional supplemental trial conducted between 2020 and 2021 with pregnant
+ material is published online only. women (age ≥15 years) in their first or second trimester
+ To view, please visit the journal of pregnancy in Taabo, Côte d’Ivoire. We used generalised
+ online (http://​dx. d oi.​org/​10.​ linear regression models to assess intervention impact
+ 1136/ b mjgh-​2022- 10934). in postpartum anaemia and malaria parasitaemia, and
+ displayed resulting estimates as prevalence ratios.
+ 
+<section> Received 10 October 2022 Results Overall, 767 pregnant women were enrolled
+ Accepted 20 December 2022 and 716 (93.3%) were followed up after delivery. Neither
+ intervention had an impact on postpartum anaemia, with
+ estimated adjusted prevalence ratios (aPRs) of 0.97 (95%
+ CI 0.79 to 1.19, p=0.770) for INFO and 0.87 (95% CI 0.70
+ to 1.09, p=0.235) for INFO+DELIV. While INFO had no
+ © Author(s) (or their effect on malaria parasitaemia (aPR=0.95, 95% CI 0.39 to
+ employer(s)) 2023. Re-­use 2.31, p=0.915), INFO+DELIV reduced malaria parasitaemia
+ permitted under CC BY-­NC. No by 83% (aPR=0.17, 95% CI 0.04 to 0.75, p=0.019).
+ 
+<section> commercial re-­use. See rights
+ and permissions. Published by No improvements in antenatal care (ANC) coverage
+ BMJ. (aPR=1.05, 95% CI 0.81 to 1.36, p=0.692), IFA (aPR=2.00,
+ Centre Suisse de Recherches 95% CI 0.89 to 4.46, p=0.093) and IPTp (aPR=1.03, 95%
+ Scientifiques en Côte d’Ivoires, CI 0.87 to 1.21, p=0.728) compliance were found for
+ Abidjan, Côte d'Ivoire INFO. INFO+DELIV increased ANC attendance (aPR=1.35,
+ Swiss Tropical and Public 95% CI 1.02 to 1.78, p=0.037) and compliance with
+ Health Institute, allschwill, IPTp (aPR=1.60, 95% CI 1.41 to 1.80, p<0.001) and IFA
+ Switzerland recommendations (aPR=7.06, 95% CI 3.68 to 13.51,
+ 
+<section> University of Basel, Basel,
+ p<0.001).
+ 
+<section> Switzerland
+ 
+<section> Conclusions INFO+DELIV can substantially increase
+ 
+<section> Correspondence to compliance with IFA supplementation and improve malaria
+ Siaka Koné; ​siaka.​kone@​csrs.​ci prevention. However, the increases in IFA supplementation
+ 
+<section> of antenatal iron
+ 
+<section> and
+ 
+<section> through targeted
+ 
+<section> deliveries in
+ 
+<section> randomised
+ 
+<section> 2,3 Daouda Dao, 1 Jürg Utzinger, 2,3
+ 
+<section> WHAT IS ALREADY KNOWN ON THIS TOPIC
+ 
+<section> ⇒ Antenatal iron and folic acid (IFA) supplementation
+ and intermittent preventive treatment in pregnancy
+ (IPTp) are widely recognised as key strategies to re-
+ duce maternal anaemia and malaria in pregnancy.
+ 
+<section> ⇒ Previous research has provided evidence on the use
+ of iron-­based therapies to prevent the incidence
+ of anaemia for pregnant women and highlighted
+ community-­delivered models of malaria prophylaxis
+ in pregnancy, finding reductions in the risk of parasi-
+ taemia between 25% and 70%.
+ 
+<section> WHAT THIS STUDY ADDS
+ 
+<section> ⇒ Community-­ based information about antena-
+ tal care combined with monthly supply of IFA and
+ IPTp with sulfadoxine pyrimethamine greatly in-
+ creases coverage of supplementation and malaria
+ chemoprophylaxis.
+ 
+<section> ⇒ Standard IFA supplementation is not sufficient to ad-
+ dress the high prevalence of often-­severe anaemia
+ in this low-­income setting.
+ 
+<section> HOW THIS STUDY MIGHT AFFECT RESEARCH,
+ 
+<section> PRACTICE OR POLICY
+ 
+<section> ⇒ Community-­ based distribution of malaria chemo-
+ prophylaxis should be considered as strategy to re-
+ duce malaria exposure in pregnancy.
+ 
+<section> ⇒ Standard supplementation protocols currently rec-
+ ommended in many low-­income and middle-­income
+ countries (LMICs) are likely not sufficient to address
+ the high burden of anaemia in many LMIC settings.
+ 
+<section> ⇒ Prepregnancy supplementation, routine haemoglo-
+ bin assessments during the first trimester and moni-
+ tored administration of higher doses of supplements
+ (oral or via injections) may offer potential solutions
+ to this problem.
+ 
+<section> are likely insufficient to address the prevalence of often
+ severe anaemia in this population.
+ 
+<section> Trial registration number NCT04250428. 
+<section> INTRODUCTION
+ Despite considerable reductions in under-­ 5 mortality
+ between 1990 and 2019, sub-­Saharan Africa remains the
+ region with the highest under-­5 mortality rate globally. 1
+ Neonatal deaths currently account for about half of all
+ under-­5 deaths, 3 and recent evidence suggests that many
+ of these deaths could be prevented with improved access
+ to essential antenatal care (ANC) services. 4–6 In many
+ settings, exposure to malaria and maternal anaemia pose
+ a major threat to maternal and child health. Evidence
+ from sub-­Saharan Africa suggests that 46% of pregnant
+ women are anaemic, 7 and more than 11 million cases of
+ malaria in pregnancy were reported in 2018. 8 Both risk
+ factors can, in principle, be addressed by adequate ANC.
+ However, coverage of essential antenatal interventions
+ remains limited in many low-­income and middle-­income
+ countries, 9 resulting in high prevalence of anaemia 10 and
+ limited prevention of malaria in pregnancy. 11–13 Chal-
+ lenges faced in many health systems include supply factors
+ such as distance, interrupted supply and stock-­outs, and
+ high cost of care, and demand-­side factors such as limited
+ education and social–cultural barriers. 14 15 In 2018, a
+ systematic review of studies evaluated the impact of strat-
+ egies including community-­based treatment, distributor
+ incentives, distribution along kinship networks, intensi-
+ fied information, education and communication (IEC)
+ activities, fixed-­point delivery on the coverage of services
+ such as vitamin A supplementation, child immunisa-
+ tions and mass drug administration campaigns targeting
+ neglected tropical diseases. 16 The largest positive influ-
+ ence on treatment coverage was found for community-­
+ directed distribution, incentives to increase distributor
+ motivation, distribution along kinship networks and
+ implementation of intensified IEC. The evidence avail-
+ able to date suggests that interventions combining educa-
+ tion with vouchers and other financial incentives tend to
+ be most effective for increasing intervention coverage.
+ 
+<section> 17–19
+ The nationally recommended intervention package
+ suggests iron and folic acid (IFA) supplementation in
+ pregnant women at a dose of 30–60 mg of elemental
+ iron plus 0.4 mg of folic acid, daily and a direct observed
+ therapy (DOT) of three tablets of sulfadoxine pyrimeth-
+ amine (SP) (each tablet containing 500 mg/25 mg SP)
+ giving the total required dosage of 1500 mg/75 mg SP
+ per month.
+ In this study, we report the results of a cluster
+ randomised controlled trial set up to assess the efficacy
+ of two potential strategies to increase coverage of the
+ currently recommended interventions to the target popu-
+ lation in low resource settings. The trial was conducted in
+ the area of the Taabo health and demographic surveil-
+ lance system (HDSS) in the south-­central part of Côte
+ d’Ivoire. The interventions consisted of an information
+ package (INFO), designed to increase uptake of essen-
+ tial antenatal services through targeted information,
+ and an information plus home delivery intervention
+ (INFO+DELIV), designed to provide both information
+ and immediate access to supplements and chemopro-
+ phylaxis. The trial was registered at ​ClinicalTrials.​gov as
+ NCT04250428 and the protocol of this trial with the anal-
+ ysis plan published in 2020.
+ 
+<section> METHODS
+ 
+<section> Trial design and setting
+ The study was designed as a cluster randomised controlled
+ trial with three parallel arms using an allocation ratio of
+ 1:1:1. The trial was conducted in the Taabo HDSS, which
+ is located approximately 180 km north-­west of Abidjan,
+ the economic capital of Côte d'Ivoire. Previous studies
+ conducted in this area have highlighted the high preva-
+ lence of anaemia in this setting, 22 with 61% of children
+ and 48% of non-­pregnant women found to be anaemic
+ in 2011. 23 For the trial, clusters were defined as neigh-
+ bourhoods (‘quartier’) in villages and hamlets outside of
+ the main villages. 24 All 118 clusters in the Taabo HDSS
+ were initially included in the study. Pregnancies were
+ reported in 90 of these clusters during the enrolment
+ period. Further details pertaining to the study design
+ and methods are available in the previously published
+ protocol paper.
+ 
+<section> Participants and eligibility
+ The target population of the trial were pregnant women
+ who were in their first or second trimester of pregnancy,
+ and living in the surveillance area of the Taabo HDSS.
+ Gestational length was computed based on maternal
+ reports of conception dates or date of last menstrua-
+ tion. Key informants living in the surveillance area were
+ recruited for identifying pregnancies in their commu-
+ nities and paid a reward of US$2 for each pregnancy
+ reported. Trained field enumerators visited pregnant
+ women and invited them to partake in the study. Condi-
+ tional to women’s written informed consent, a short base-
+ line questionnaire was conducted.
+ 
+<section> Study setting
+ 
+<section> Details on the surveillance area covered by the Taabo
+ HDSS have been presented elsewhere. 21 24 Since 2012,
+ the government of Côte d’Ivoire mandates free access
+ to maternal and child care in public healthcare facili-
+ ties, including outpatients care for mothers and children
+ under the age of 5 years, family planning and prenatal
+ care. Intermittent preventive treatment in pregnancy
+ (IPTp) is also offered free of charge through a separate
+ programme. When our trial was implemented, the study
+ area was composed of 13 health facilities, including
+ health centres and 5 dispensaries in the rural area, and a
+ 12-­bed hospital located in Taabo-­Cité considered as semi-
+ urban.
+ 
+<section> Randomisation and masking
+ A total of 118 study clusters were randomly assigned to
+ one of three study arms with equal probability: 39 clusters
+ were randomly assigned to the control group, 39 clus-
+ ters to the INFO group and 40 clusters to INFO+DELIV 
+<section> group. Minimum-­maximum randomisation was used to
+ minimise differences across study arms. 25 Using Stata
+ 15 SE software, we created 100 random allocations, and
+ then computed mean differences in terms of cluster size
+ (number of births) and ANC attendance (percentage of
+ women attending ANC) across the three groups. We then
+ selected the draw with the smallest differences across
+ study arms for the final group allocation.
+ Given the nature of the intervention, blinding of
+ participants was not possible. However, interviewers who
+ conducted the endline survey were not aware of women’s
+ treatment status, and data analysis was conducted by the
+ senior author (GF) using a fully blinded data set.
+ 
+<section> Procedures
+ 
+<section> During a 3-­day workshop, study nurses were trained to
+ deliver key information as well as supplements. The prac-
+ tice consisted of test sessions with women not eligible for
+ the study. During the training, emphasis was placed on
+ the delivery of awareness messages in French and local
+ languages, particularly the most common Malinké and
+ Baoulé languages. The message was developed based on
+ the national recommendations for IFA/IPTp and ANC
+ in Côte d’Ivoire. Further details on the content of the
+ sessions are provided in online supplemental material
+ The message was developed based on the national recom-
+ mendations for IFA/IPTp and ANC in general. 20 The
+ study involved a baseline and an endline survey, which
+ was to be completed by all participants. In the INFO arm,
+ nurses visited pregnant women at their homes 1–2 weeks
+ after study enrolment. During this visit, nurses provided
+ pregnant women with information regarding the impor-
+ tance of antenatal IPTp as well as IFA supplementation,
+ potential adverse events of both interventions and the
+ optimal timing for taking supplements. Nurses also high-
+ lighted the importance of using routine ANC services to
+ ensure safe pregnancies. At the end of the visit, a mobile
+ phone number was given to women in case they had any
+ further related questions.
+ In the INFO+DELIV arm, all women received the
+ same initial information session at home. This first home
+ visit was followed by monthly home visits, during which
+ women received a monthly supply of IFA supplements
+ and IPTp (starting from the second trimester) from
+ study staff, unless women indicated they had already
+ received supplements or chemoprophylaxis as part of the
+ ANC visits. Overall, 1257 home delivery visits were made,
+ which implies an average of 6 visits per woman. During
+ the intervention period, every month, nurses travelled
+ by motorbike throughout the study area for individual
+ home deliveries of IFA and SP. The current standard of
+ SP is a DOT of three tablets SP (each tablet containing
+ 500 mg/25 mg SP) giving the total required dosage of
+ 1500 mg/75 mg SP (online supplemental figure SF 1).
+ IFA supplementation was implemented using locally used
+ Agifer-­X capsules containing an equivalent of 100 mg of
+ iron and 550 µg of folic acid (see online supplemental
+ figure SF3 for packaging information).
+ 
+<section> Detailed monitoring data on home visits were collected
+ for the two arms throughout the study period. An inde-
+ pendent team of laboratory technicians conducted the
+ haemoglobin (Hb) assessments and administered the
+ malaria rapid diagnostic test (RDT). Hb-­level and malaria
+ infection status were collected at endline within the first
+ 2 weeks after delivery through trained staff members
+ at women’s homes. Hb was assessed using HEMOCUE
+ 201+devices (Hemocue; Ängelholm, Sweden). Malaria
+ RDTs were conducted using CareStart Malaria Pf (HRP2)
+ Ag RDTs (Access Bio; Somerset, USA) (see online supple-
+ mental figure SF4 for further information).
+ 
+<section> Study outcomes
+ The primary outcomes were maternal postpartum
+ anaemia and malaria parasitaemia. Postpartum anaemia
+ was defined as an Hb concentration of less than 110 g/L.
+ For malaria parasitaemia, the primary outcome was a
+ positive RDT at endline.
+ Self-­reported compliance with antenatal IFA supple-
+ mentation, IPTp, as well as ANC visit, miscarriages, still-
+ births and low birthweight deliveries were considered as
+ secondary outcomes. Self-­reported adherence to ante-
+ natal IFA supplementation and ANC attendance was
+ measured using an endline-­based questionnaire deter-
+ mining the number of supplements, ANC visits as well
+ as the period and frequency of use. ANC attendance was
+ coded as adequate if women reported to have completed
+ at least four ANC visits. Compliance with IFA recom-
+ mendations was coded as the (continuous) proportion
+ of months (starting from the third month of gestation)
+ for which mothers reported to have taken supplements
+ daily (range 0–1). Compliance with malaria chemopro-
+ phylaxis was coded as having taken at least three doses of
+ 
+<section> SP during pregnancy.
+ 
+<section> Power calculations
+ With 240 women in each arm, the study was powered to
+ detect a 20% difference in maternal anaemia with power
+ 0.8 and alpha 0.05. We assumed a control group anaemia
+ prevalence of 50%, 6 women per cluster and an intraclass
+ correlation of 0.25 based on a previous analysis of ANC
+ access patterns in the Taabo HDSS.
+ 
+<section> Statistical analysis
+ We used generalised linear regression models to assess
+ intervention impact in postpartum anaemia and parasi-
+ taemia, as well as for all binary secondary outcomes and
+ displayed resulting estimates as prevalence ratios. Based
+ on normal distribution assumptions, all continuous
+ secondary outcomes (birth weight and Hb levels) were
+ analysed using linear regression models. Cluster-­robust
+ SEs were used to correct for residual correlation at the
+ cluster level. 26 All models were estimated both without
+ covariates (unadjusted) and with a prespecified set of
+ mother socio-­ demographic covariates (ie, age, marital
+ status, school attendance, parity and wealth quintile).
+ To better understand the relationship between IFA 
+<section> Figure 1 CONSORT flow diagram.
+ 
+<section> supplementation and the observed changes in anaemia,
+ we also plotted average changes in Hb levels as a func-
+ tion of self-­reported intake of IFA supplements during
+ pregnancy (post-­ hoc analysis). To address multiple
+ testing concerns with two treatment groups and two
+ outcomes, we indicate both estimates with p values<0.05
+ (unadjusted significance cut-­ off) as well as estimates
+ with p values<0.0125 (Family-­Wise Error Rate (FWER)-­
+ corrected significance cut-­off).
+ 
+<section> Trial registration and changes to protocol
+ The trial was registered at ​ ClinicalTrials.​ gov as
+ NCT04250428. There were no changes to the protocol
+ after the trial started.
+ 
+<section> Patient and public involvement
+ Patient partners were not involved in the design or
+ conduct of this study. Author reflexivity statement: see
+ 
+<section> online supplemental file
+ 
+<section> RESULTS
+ 
+<section> Study population
+ Study participants were recruited from 7 May 2020 to
+ 25 June 2021 and followed up from 10 November 2020
+ to 26 November 2021. Figure 1 shows a CONSORT
+ flow diagram, summarising study design and partici-
+ pants retention. Overall, 118 clusters were randomly
+ assigned to either control (39 clusters and 249 pregnant
+ women), INFO (39 clusters and 258 pregnant women) or
+ INFO+DELIV intervention (40 clusters and 260 pregnant
+ women). At baseline, 767 pregnant women were enrolled
+ across 91 clusters and 716 women (93.3%) were reinter-
+ viewed at endline. In 27 of the original 118 clusters, no
+ births were reported during the study period. No statisti-
+ cally significant differences were found in follow-­up rates
+ across the three study arms (p=0.90) (online supple-
+ mental table ST1).
+ As shown in table 1, the study participants lived
+ an average of 2.2 km away from the nearest health
+ facility and 69.5% (n=533) were between 20 and 34
+ years of age. Mean gestational age at enrolment was
+ 4.1 months and the distribution was quasi-­ similar in
+ the three groups (INFO=4.2, INFO+DELIV=4.1 and
+ control=4.1). Slightly more than half (52.8%, n=405)
+ of the women never attended school, 31.0% (n=238)
+ attended primary school and 16.2% (n=124) attained
+ secondary or higher education. Almost half (48.9%,
+ n=375) of the women were in common-­law, while 42.4%
+ (n=325) were married. Baseline Hb was collected for a
+ subsample of 171 women (control=63, INFO=51 and
+ INFO+DELIV=57). The overall prevalence of anaemia
+ at baseline was 70.2%. 
+<insert> Control
+ N
+ Anaemia prevalence at baseline*
+  Prevalence
+ Information only Information+home delivery Total
+ % N % N % N %
+ 63.5 72.5 75.4 70.2
+ Mother age (years)
+  15–19 16.9 18.6 14.2 16.6
+  20–34 67.1 67.4 73.8 69.5
+  35–49 16.1 14.0 11.9 14.0
+ 53.8 53.1 51.5 52.8
+ School attendance
+  Never attended
+  Primary 33.7 28.7 30.8 31.0
+  Secondary or higher 12.4 18.2 17.7 16.2
+  1 16.5 19.4 16.5 17.5
+  2+ 83.5 80.6 83.5 82.5
+ 23.7 24.4 14.2 20.7
+ Parity
+ Wealth quintile
+  Most poor
+  Poor 25.3 16.3 21.5 21.0
+  Middle 17.3 19.0 19.6 18.6
+  Rich 18.1 17.4 23.5 19.7
+  Most rich 15.7 22.9 21.2 19.9
+ Marital status
+  Single 6.8 11.6 7.7 8.7
+  Common-­law union
+  Married
+ 54.2
+ 39.0
+ 42.6
+ 45.7
+ 50.0
+ 42.3
+ 48.9
+ 42.4
+ Notes: Statistics reported are N and % for all variables except for age and distance to nearest health facilities, where N and the mean value
+ are reported.
+ *Hb concentration at baseline was only collected for a subsample of 171 women (control=63, information only=51 and information+home
+ delivery=57).
+ Table 1 Sample baseline characteristics by study arm 
+<iend>
+
+ 
+<section> Impact of intervention on primary and secondary outcomes
+ Table 2 shows primary and secondary outcomes for
+ each group and the sample overall. On average, across
+ the three groups, 39.5% (n=283) women were anaemic;
+ 19.8% (n=142) were mildly anaemic (Hb, range 100 to
+ <110 g/L), 18.6% (n=133) were moderately anaemic
+ (Hb, range 70 to <100 g/L) and 1.1% (n=8) were severely
+ anaemic (Hb<70 g/L). A positive malaria RDT was regis-
+ tered in 3.4% (n=24) of the women. About one out of
+ nine (11.5%, n=64) children were born with birth weight
+ <2500 g. Ninety-­two per cent (n=658) of pregnancies in
+ the sample resulted in live births, 3.6% (n=26) of preg-
+ nancies resulted in miscarriage, 3.6% (n=26) resulted
+ in stillbirths and 6 pregnancies (0.8%) were aborted. At
+ least four ANC visits were recorded by 40.2% (n=291)
+ of the women. More than half (54.0%, n=414) of the
+ women reported compliance with daily IFA supplemen-
+ tation. Almost three-­quarter (73.9%, n=513) received at
+ least three doses of SP for IPTp.
+ As shown in table 3, neither intervention had an
+ impact on anaemia (INFO: adjusted prevalence ratio
+ (aPR)=0.97, 95% CI 0.79 to 1.19, p=0.770; INFO+DELIV:
+ aPR=0.87, 95% CI 0.70 to 1.09, p=0.235). INFO+DELIV
+ increased Hb marginally by 1.65 g/L (95% CI −1.08 to
+ 4.42) (online supplemental table ST2). Online supple-
+ mental table ST3 shows more detailed results for mild,
+ moderate and severe anaemia. No impact on malaria
+ parasitaemia was found for INFO (aPR=0.95, 95% CI
+ 0.39 to 2.31, p=0.915). INFO+DELIV reduced malaria
+ parasite prevalence of 83% (aPR=0.17, 95% CI 0.04 to
+ 
+<section> 0.75, p=0.019).
+ 
+<section> Impact on coverage and ANC attendance
+ Table 4 summarises the interventions’ impact on ANC
+ attendance, IFA supplementation and IPTp compliance.
+ The INFO package had no impact on ANC compliance
+ (aPR=1.05, 95% CI 0.81 to 1.36, p=0.692), IFA supplemen-
+ tation (aPR=2.00, 95% CI 0.89 to 4.46, p=0.093) and IPTp
+ compliance (aPR=1.03, 95% CI 0.87 to 1.21, p=0.728).
+ INFO+DELIV increased recommended ANC attend-
+ ance by 35% (aPR=1.35, 95% CI 1.02 to 1.78, p=0.037)
+ and compliance with malaria chemoprophylaxis by 60% 
+<insert> Table 3 Intervention impact on anaemia and malaria
+ Panel A: Unadjusted impact estimates
+ Anaemia Malaria
+ Unadjusted PR (95% CI) P value PR (95% CI) P value
+ INFO
+ INFO+DELIV
+ 1.07 (0.82 to 1.39)
+ 0.86 (0.67 to 1.12)
+ 0.623
+ 0.268
+ 1.05 (0.44 to 2.49)
+ 0.18 (0.04 to 0.76)
+ 0.918
+ 0.02
+ Adjusted aPR (95% CI) P value aPR (95% CI) P value
+ INFO
+ INFO+DELIV
+ 0.97 (0.79 to 1.19)
+ 0.87 (0.70 to 1.09)
+ 0.770
+ 0.235
+ 0.95 (0.39 to 2.31)
+ 0.17 (0.04 to 0.75)
+ 0.915
+ 0.019
+ Intracluster correlation coefficient
+ Observations
+ –0.009 0.038
+ aPR, adjusted prevalence ratio. 
+<iend>
+
+ 
+<insert> Control Information only Information plus home delivery Total
+ N % N % N % N %
+ Anaemia*
+ Mild anaemia
+ 42.0
+ 22.5
+ 40.9
+ 19.0
+ 35.9
+ 18.1
+ 39.5
+ 19.8
+ Moderate anaemia 17.3 21.5 16.9 18.6
+ Severe anaemia 2.2 0.4 0.8 1.1
+ Postpartum malaria infection 4.8 4.5 0.8† 3.4
+ Low birth weight 14.8 18† 9.6 10.1 11.5
+ Live birth 90.5 91.7 93.4 92.0
+ Miscarriage 5.2 3.3 2.5 3.6
+ Stillbirth 3.9 4.5 2.5† 3.6
+ Abortion 0.4 0.5 1.6 0.8
+ At least 3 doses of SP 60.9 64.0 95.4† 73.9
+ IFA full compliance
+ At least 4 ANC
+ 44.4
+ 34.5
+ 46.3
+ 37.3
+ 70.8†
+ 48.6†
+ 54.0
+ 40.2
+ *Number of women sampled for anaemia is 716 women (control=231, information only=242 and information+home delivery=243).
+ †p<0.05
+ ANC, antenatal care; IFA, iron and folic acid.
+ Table 2 Primary and secondary study outcomes 
+<iend>
+
+ (aPR=1.60, 95% CI 1.41 to 1.80, p<0.001). Women in the
+ INFO+DELIV group were 7.1 times as likely to comply
+ with antenatal IFA supplementation (aPR=7.06, 95% CI
+ 3.68 to 13.51, p<0.001).
+ Table 5 shows results for pregnancy outcomes. No
+ differences were found for miscarriage (INFO: aPR=1.18,
+ 95% CI 0.57 to 2.42, p=0.659; INFO+DELIV: aPR=0.56,
+ 95% CI 0.20 to 1.58, p=0.272). No impact was found on
+ average birth weight (INFO: mean difference=11.4 g,
+ 95% CI −97.2 to 120.1, p=0.835; INFO+DELIV: mean
+ difference=18.9 g, 95% CI −113.7 to 151.4, p=0.778),
+ and the prevalence of low birth weight (INFO: aPR=0.64,
+ 95% CI 0.38 to 1.10, p=0.106; INFO+DELIV: aPR=0.69,
+ 95% CI 0.38 to 1.29, p=0.248). Unlike the INFO interven-
+ tion which had no impact on stillbirth (aPR=0.61, 95%
+ CI 0.32 to 1.17, p=0.136), INFO+DELIV reduced the
+ prevalence of stillbirth by 60% (aPR=0.40, 95% CI 0.21
+ to 0.76, p=0.005).
+ Figure 2 provides further details on IFA compliance
+ per month. The proportion of women reporting daily
+ intake increased from 0% in month 2 to 73% in month
+ 6 and from 0.4% in month 2 to a level of 73.4% in
+ the 6th month of pregnancy in both the control and
+ INFO groups. In the INFO+DELIV group, IFA compli-
+ ance increased from 1.2% in month 2 to 93.1% in
+ 
+<section> month
+ Assessments of changes in individual Hb concen-
+ tration from baseline to endline among a subsample
+ of women showed that average Hb levels increased
+ by 9 g/L in the control and INFO groups, and by
+ g/L in the INFO+DELIV arm (online supplemental
+ figure SF1). Figure 3 shows changes in Hb levels as 
+<section> value 
+<section> 0.720 
+<section> <0.001 
+<section> value 
+<section> 0.728 
+<section> <0.001 
+<section> value 
+<section> 0.232 
+<section> 0.267 
+<section> value 
+<section> 0.106 
+<section> 0.248 
+<section> <0.001 
+<section> control
+ 
+<section> neighbourhood
+ 
+<section> P P P P models
+ 
+<section> weight 
+<section> 1.26) 
+<section> 1.35) 
+<section> 1.10) 
+<section> 1.29) 
+<section> 0.05)
+ 
+<section> SP 
+<section> 1.21) 
+<section> 1.81) 
+<section> 1.21) 
+<section> 1.80) 
+<section> CI) 
+<section> to to CI) 
+<section> to to to unadjusted
+ 
+<section> of CI) 
+<section> to to CI) 
+<section> to to birth (95% (0.39 (0.34 (95% (0.38 (0.38 (0.03 the
+ 
+<section> doses (95% (0.87 (1.43 (95% (0.87 (1.41 
+<section> 0.319 
+<section> Low PR 0.70 0.68 aPR 0.64 0.69 0.04 the at clustering
+ 
+<section> ≥3 PR 1.03 1.61 aPR 1.03 1.60 is A
+ 
+<section> value 
+<section> 0.715 
+<section> 0.639 
+<section> value 
+<section> 0.835 
+<section> 0.778 
+<section> <0.001 
+<section> Panel with
+ 
+<section> value 
+<section> 0.11 
+<section> <0.001 
+<section> value 
+<section> 0.093 
+<section> <0.001 
+<section> P P parentheses. characteristics
+ 
+<section> P P
+ 
+<section> compliance 
+<section> 14.86) 
+<section> 13.51) 
+<section> 3112.2)
+ 
+<section> full 
+<section> IFA 
+<section> CI) 
+<section> (95% 
+<section> PR 
+<section> 4.30) 
+<section> to (0.86 
+<section> 1.93 
+<section> to (3.96 
+<section> 7.67 
+<section> CI) 
+<section> (95% 
+<section> aPR 
+<section> 4.46) 
+<section> to (0.89 
+<section> 2.00 
+<section> to (3.68 
+<section> 7.06 0.158 
+<section> weight 
+<section> Birth 
+<section> CI) 
+<section> (95% 
+<section> Coeff 
+<section> 145.7) 
+<section> to (−100.4 
+<section> 22.7 
+<section> 165.1) 
+<section> to (−101.9 
+<section> 31.6 
+<section> CI) 
+<section> (95% 
+<section> Coeff 
+<section> 120.1) 
+<section> to (−97.2 
+<section> 11.4 
+<section> 151.4) 
+<section> to (−113.7 
+<section> 18.8 
+<section> to (2940.4 
+<section> 3026.3 
+<section> in CIs 95% 
+<section> with 
+<section> displayed 
+<section> household’s 
+<section> and 
+<section> mother’s
+ 
+<section> value 
+<section> value
+ 
+<section> 0.525 
+<section> 0.019 
+<section> 0.692 
+<section> 0.037 
+<section> pyrimethamine. 
+<section> value 
+<section> value 
+<section> <0.001 
+<section> are for
+ 
+<section> P P 0.217 
+<section> 0.021 
+<section> 0.136 
+<section> 0.005 
+<section> Coefficients control
+ 
+<section> P P
+ 
+<section> 1.38) 
+<section> 1.87) 
+<section> 1.36) 
+<section> 1.78) 
+<section> weight
+ 
+<section> 1.29) 
+<section> 0.89) 
+<section> 1.17) 
+<section> 0.76) 
+<section> 0.02) 
+<section> models
+ 
+<section> compliance 
+<section> visits 
+<section> CI) 
+<section> to to CI) 
+<section> to to sulfadoxine CI) 
+<section> level.
+ 
+<section> estimates 
+<section> ANC (95% (0.85 (1.06 (95% (0.81 (1.02 
+<section> 0.170 
+<section> birth 
+<section> low estimates 
+<section> Stillbirth 
+<section> CI) 
+<section> (95% to (0.33 to (0.23 (95% to (0.32 to (0.21 to (0.01 (n=91) adjusted
+ 
+<section> 1.08 1.41 aPR 1.05 1.35
+ 
+<section> SP 4 ≥ PR SP, and PR 0.65 0.45 aPR 0.61 0.40 0.01 cluster the
+ 
+<section> and 
+<section> compliance 
+<section> impact value 
+<section> 0.348 
+<section> 0.829 
+<section> value 
+<section> 0.248 
+<section> 0.780 
+<section> acid; 
+<section> folic 
+<section> weight impact value 
+<section> 0.347 
+<section> 0.385 
+<section> value 
+<section> 0.659 
+<section> 0.272 
+<section> <0.001 
+<section> study is B Panel
+ 
+<section> Unadjusted P P and birth P P the only.
+ 
+<section> unadjusted
+ 
+<section> 1.02) 
+<section> 1.03) 
+<section> 1.01) 
+<section> 1.03) 
+<section> iron stillbirth, 2.86) 
+<section> 1.73) 
+<section> 2.42) 
+<section> 1.58) 
+<section> 0.02) 
+<section> at clustering effects
+ full IFA 
+<section> visit, 
+<section> A: PANEL ANC 
+<section> Any 
+<section> CI) 
+<section> (95% 
+<section> PR 
+<section> to (0.95 
+<section> 0.98 
+<section> to (0.97 
+<section> 1.00 
+<section> CI) 
+<section> (95% 
+<section> aPR 
+<section> to (0.95 
+<section> 0.98 
+<section> to (0.96 
+<section> 1.00 0.019 
+<section> IFA, 
+<section> ratio; 
+<section> prevalence miscarriage, A: Panel 
+<section> Miscarriage 
+<section> CI) 
+<section> (95% to (0.69 
+<section> 1.41 
+<section> to (0.24 
+<section> 0.65 
+<section> CI) 
+<section> (95% 
+<section> aPR 
+<section> to (0.57 
+<section> 1.18 
+<section> to (0.20 
+<section> 0.56 
+<section> to (0.01 
+<section> 0.01 
+<section> with 
+<section> regressions 
+<section> fixed 
+<section> interventions
+ 
+<section> ANC PR
+ 
+<section> on coefficient 
+<section> adjusted on (constant)
+ 
+<section> impact p<0.001 impact linear information ***p<0.001. ratio.
+ 
+<section> Intervention correlation aPR, Intervention average on based prevalence
+ 
+<section> *** care; and
+ 
+<section> Unadjusted 
+<section> INFO+DELIV 
+<section> INFO+DELIV 
+<section> Intracluster Observations 
+<section> p<0.01, antenatal Unadjusted 
+<section> INFO+DELIV 
+<section> INFO+DELIV 
+<section> group Observations 
+<section> are estimates 
+<section> delivery level. 
+<section> **p<0.01, 
+<section> adjusted
+ 
+<section> 4 
+<section> Adjusted 
+<section> ** p<0.5, 5 
+<section> Adjusted 
+<section> Control home (‘quartier’) *p<0.05,
+ 
+<section> Table INFO 
+<section> INFO 
+<section> ANC, Table INFO 
+<section> INFO 
+<section> aPR,
+ All for
+ * 
+<section> Figure 2 Compliance with daily IFA supplementation by month
+ well as anaemia status by self-­reported compliance
+ with IFA guidelines. The average change in Hb levels
+ among women reporting having taken supplements
+ for less than 90 days was 7 g/L. Among women who
+ reported to have taken supplements during 150 days
+ or more, this change was 15 g/L (figure 3A). Half of
+ the women (50.5%, n=362) taking supplements for
+ days or less were anaemic at endline; among women
+ reporting 180 days or more of supplements, average
+ anaemia rates were 27.7% (n=198) (figure 3B).
+ 
+<section> Figure 3 Compliance with IFA guidelines, changes in haemoglobin
+ acid.
+ 
+<section> of pregnancy. IFA, iron and folic acid.
+ 
+<section> DISCUSSION
+ 
+<section> In this cluster randomised controlled trial, we assessed
+ the effectiveness of targeted information sessions as well
+ as home deliveries of supplements and chemoprophy-
+ laxis as strategies to increase coverage of essential ANC
+ interventions in a typical rural low-­ income setting in
+ Côte d’Ivoire. Neither intervention had a major impact
+ on anaemia. The INFO+DELIV greatly reduced the post-
+ partum malaria parasite prevalence. Given that only 4.8%
+ (Hb) levels and prevalence of anaemia. IFA, iron and folic 
+<section> of women in the control group tested positive for malaria
+ using an RDT in the control group, the absolute reduc-
+ tions in malaria prevalence were however not very large
+ (4 percentage points).
+ Given that women in the INFO+DELIV group were
+ seven times more likely to comply with IFA supplemen-
+ tation (which seems consistent with a recent review of
+ community-­ based distribution of IFA supplements,
+ the lacking intervention impact on anaemia is some-
+ what surprising. Earlier supplementation studies suggest
+ that substantial improvements in maternal anaemia
+ are feasible, in principle, with sustained intake of
+ supplementation. 28–31
+ Two factors might explain the relatively weak impact
+ on anaemia in this study. First, supplementation was also
+ relatively common in the control group of this trial, with
+ an average of 112 doses (online supplemental table ST4)
+ taken over the course of the pregnancy in the control
+ group. Even though home deliveries increased compli-
+ ance by 49 doses on average, this increase likely was not
+ sufficient to lead to large reductions in anaemia. Second,
+ and more importantly, our results suggest that routine
+ supplementation alone is likely not sufficient to address
+ the low average Hb levels in this setting. We found a
+ mean Hb concentration of 95 g/L at the end of the first
+ trimester (baseline), with 70.2% of women classified as
+ anaemic. On average, Hb levels actually improved during
+ pregnancy by 15 g/L across all groups, which is rather
+ remarkable given the typically observed declines in Hb
+ in between the first and third trimester due to haemo-
+ dilution. 32 While we are not able to directly identify the
+ aetiology and causes of anaemia in our study, previous
+ evidence from the Taabo HDSS highlighted cellular iron
+ deficiency as the main risk factor of anaemia among
+ young women. 23 One potential strategy to address the
+ high anaemia prevalence despite high IFA compliance
+ would be to increase IFA dosing as part of routine ANC
+ conditional on initially low levels of Hb as recommended
+ by WHO. 33 Recent evidence from Tanzania also suggests
+ that ferric carboxymaltose injections may offer a faster
+ and more durable normalisation of Hb and ferritin
+ concentrations among anaemic women. 34 Such higher
+ dosing would, however, require both systematic initial Hb
+ assessments and continued monitoring of pregnancies,
+ which is challenging in many rural settings with often
+ limited test equipment as well as limited staff.
+ As for malaria parasitaemia, a coverage of 61% for three
+ doses of SP in the control group appears to be better
+ than in many other countries in sub-­Saharan Africa.
+ Several studies presented community-­ based delivery
+ of SP as a potential mean to strengthen coverage and
+ uptake of IPTp 36–38 and reduce malaria parasitaemia.
+ This is confirmed in our study, which shows that coverage
+ rates above 95% are feasible with home deliveries. While
+ the sample size of this study was too small to precisely
+ estimate improvements in birth outcomes, the available
+ data suggest substantial increases in the proportion of
+ pregnancies resulting in live births in the INFO+DELIV
+ arm (93.4% in the INFO+DELIV arm relative to 90.5%
+ in the control group), with more than 50% declines in
+ the proportion of pregnancies resulting in miscarriage
+ and 40% reduction in the proportion of pregnancies
+ resulting in stillbirths. It is not clear if these improve-
+ ments are due to increased IFA supplementation,
+ increased malaria chemoprophylaxis, or more frequent
+ ANC visits—all three behaviours may have contributed to
+ these improved outcomes, although the empirical links
+ to stillbirths seem strongest for malaria infections. 40 It is
+ also important to highlight that the deliveries of supple-
+ ments within the study was done through trained nurses.
+ Even though their primary objective was to just drop
+ off the supplies, informal exchanges between pregnant
+ women and study nurses were common, and likely also
+ provided additional informational benefits to women in
+ this arm. Larger future trials are needed to confirm these
+ potentially large health benefits as well as to identify the
+ main mechanisms underlying these changes.
+ 
+<section> Limitations of this study
+ The study had several limitation. First, as mentioned, our
+ trial was not powered to detect changes in pregnancy
+ outcomes, which hopefully can be addressed in larger
+ future investigations. Second, we relied on women’s self-­
+ reports for the secondary compliance measures, which
+ may lead to an upward bias in the reported IFA supple-
+ mentation coverage if there is a stronger social desira-
+ bility bias in the intervention group. 41 Third, our malaria
+ outcome only captures malaria infection status postpreg-
+ nancy, which measures exposure to malaria infections
+ throughout pregnancy only imperfectly. Furthermore,
+ we used standard RDTs to assess infections, which are
+ not yet able to detect malaria strains with HRP2 gene
+ deletion. 42 This could potentially explain the relatively
+ low parasite prevalence seen in this study. Our study
+ also did not directly capture postpartum haemorrhage,
+ which may worsen maternal anaemia post partum, 43 and
+ could in part explain the high levels of anaemia despite
+ supplementation in our trial. Lastly, it is possible that
+ some of the information obtained during the home visits
+ was shared with women from other villages, which may
+ have resulted in relatively high uptake of IFA supple-
+ ments in the control group. We tried to address these
+ concerns through the cluster randomisation trial design,
+ but cannot fully rule out some information transmission
+ (even though the study team came across no evidence
+ suggesting such spillovers across arms).
+ 
+<section> CONCLUSION
+ The results from this cluster randomised controlled trial
+ conducted in an existing HDSS suggest that information
+ plus direct home delivery of supplements can substan-
+ tially improve malaria prophylaxis and IFA coverage. Our
+ results also suggest that routine IFA supplementation is
+ likely insufficient to address the high burden of anaemia
+ in this population. 
+<section> Acknowledgements We are deeply grateful to Fairmed, the Centre Suisse de
+ Recherches Scientifiques en Côte d’Ivoire, the Université Félix Houphouët-­Boigny,
+ the Health District of Tiassalé, the Taabo-­Cité Public Hospital and the Swiss Tropical
+ and Public Health Institute, which facilitated the establishment of the Taabo HDSS.
+ We thank the nurses, midwives, and laboratory technicians involved in the study
+ and the study participants for their valuable time and support. We particularly thank
+ the administrative and local authorities, the communities, and populations and the
+ Taabo HDSS teams.
+ 
+<section> Contributors SK and GF conceived and designed the study. GF generated the
+ random allocation and did the statistical analyses. SK and GF constructed the
+ tables and figures with input from co-­authors. SK interpreted data and drafted
+ the initial version of the manuscript. NP-­H, DD, JU and GF provided important
+ intellectual input to interpretation of findings and manuscript writing. All authors
+ critically reviewed the manuscript and approved the final version prior to
+ submission and re-­submission. SK is acting as guarantor.
+ 
+<section> Funding This study was funded by the Eckenstein-­Geigy Foundation through the
+ Eckenstein-­Geigy (ref STPH099) Professorship to GF at the Swiss Tropical and
+ Public Health Institute.
+ 
+<section> Competing interests None declared.
+ 
+<section> Patient and public involvement Patients and/or the public were not involved in
+ the design, or conduct, or reporting, or dissemination plans of this research.
+ 
+<section> Patient consent for publication Not applicable.
+ 
+<section> Ethics approval This study involves human participants and was approved by—
+ local Ethics Committee in Côte d’Ivoire (IRB000111917)—national Review Board in
+ Switzerland (Ethikkommission Nordwest- und Zentralschweiz; reference no. Req-­
+ 2019-­00617) Participants gave informed consent to participate in the study before
+ taking part.
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data availability statement All data relevant to the study are included in the
+ article or uploaded as online supplemental information.
+ 
+<section> Supplemental material This content has been supplied by the author(s). It has
+ not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been
+ peer-­reviewed. Any opinions or recommendations discussed are solely those
+ of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and
+ responsibility arising from any reliance placed on the content. Where the content
+ includes any translated material, BMJ does not warrant the accuracy and reliability
+ of the translations (including but not limited to local regulations, clinical guidelines,
+ terminology, drug names and drug dosages), and is not responsible for any error
+ and/or omissions arising from translation and adaptation or otherwise.
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution Non Commercial (CC BY-­NC 4.0) license, which
+ permits others to distribute, remix, adapt, build upon this work non-­commercially,
+ and license their derivative works on different terms, provided the original work is
+ properly cited, appropriate credit is given, any changes made indicated, and the
+ use is non-­commercial. See: http://creativecommons.org/licenses/by-nc/4.0/.
+ 
+<section> ORCID iDs
+ 
+<section> Siaka Koné http://orcid.org/0000-0002-1630-5963
+ Günther Fink http://orcid.org/0000-0001-7525-3668
+ 
+<section> REFERENCES
+ 1 WHO. Children: reducing mortality. 2019. Available: https://www.​
+ who.int/news-room/fact-sheets/detail/children-reducing-mortality
+ [Accessed 13 Feb 2022].
+ 2 UNICEF. Under-­five mortality 2021. Available: https://data.unicef.org/​
+ topic/child-survival/under-five-mortality/ [Accessed 13 Feb 2022].
+ 3 van den Broek N. Happy mother’s day? Maternal and neonatal
+ mortality and morbidity in low- and middle-­income countries. Int
+ Health 2019;11:353–7.
+ 4 Bhutta ZA, Das JK, Rizvi A, et al. Evidence-­based interventions for
+ improvement of maternal and child nutrition: what can be done and
+ at what cost? Lancet 2013;382:452–77.
+ 5 Konje ET, Magoma MTN, Hatfield J, et al. Missed opportunities in
+ antenatal care for improving the health of pregnant women and
+ newborns in Geita district, Northwest Tanzania. BMC Pregnancy
+ Childbirth 2018;18:394.
+ 6 Papaioannou I, Utzinger J, Vounatsou P. Malaria-­anaemia
+ comorbidity prevalence as a measure of malaria-­related deaths in
+ sub-­Saharan Africa. Sci Rep 2019;9:11323.
+ 
+<section> 7 WHO. Global health observatory data repository. Prevalence
+ of anaemia in pregnant women. Estimates by World Health
+ Organization region; 2019.
+ 
+<section> 8 WHO. World malaria report 2019. Geneva: World Health
+ Organization, 2019.
+ 9 Christian P, Shrestha J, LeClerq SC, et al. Supplementation with
+ micronutrients in addition to iron and folic acid does not further
+ improve the hematologic status of pregnant women in rural Nepal.
+ 
+<section> J Nutr 2003;133:3492–8.
+ 10 Sun J, Wu H, Zhao M, et al. Prevalence and changes of anemia
+ among young children and women in 47 low- and middle-­income
+ countries, 2000-­2018. EClinicalMedicine 2021;41:101136.
+ 
+<section> 11 INS/ICF. Enquête démographique et de santé et à indicateurs
+ multiples de Côte D’Ivoire 2011-­2012. Calverton: INS/Côte d’Ivoire
+ and ICF International, 2012.
+ 12 WHO. Nutrition landscape information system NLIS)‎ country profile
+ indicators: interpretation guide. Geneva: World Health Organization;
+ 2012.
+ 13 WHO. Global health observatory (GHO). Geneva: World Health
+ Organization; 2016.
+ 14 Ensor T, Dave-­Sen P, Ali L, et al. Do essential service packages
+ benefit the poor? Preliminary evidence from Bangladesh. Health
+ Policy Plan 2002;17:247–56.
+ 15 Ensor T, Cooper S. Overcoming barriers to health service access:
+ influencing the demand side. Health Policy Plan 2004;19:69–79.
+ 16 Deardorff KV, Rubin Means A, Ásbjörnsdóttir KH, et al. Strategies
+ to improve treatment coverage in community-­based public health
+ programs: a systematic review of the literature. PLoS Negl Trop Dis
+ 2018;12:e0006211.
+ 17 Bellows NM, Bellows BW, Warren C. Systematic review: the use of
+ vouchers for reproductive health services in developing countries:
+ systematic review. Trop Med Int Health 2011;16:84–96.
+ 18 Mbuagbaw L, Medley N, Darzi AJ, et al. Health system and
+ community level interventions for improving antenatal care
+ coverage and health outcomes. Cochrane Database Syst Rev
+ 2015;2015:CD010994.
+ 19 Oyo-­Ita A, Wiysonge CS, Oringanje C, et al. Interventions for
+ improving coverage of childhood immunisation in low- and middle-­
+ income countries. Cochrane Database Syst Rev 2016;7:CD008145.
+ 20 WHO. Guideline: daily iron and folic acid supplementation in
+ pregnant women. Geneva: World Health Organization; 2012.
+ 
+<section> Available: http://www.who.int/nutrition/publications/micronutrients/​
+ guidelines/daily_ifa_supp_pregnant_women/en/index.html
+ [Accessed 13 Feb 2022].
+ 21 Koné S, Utzinger J, Probst-­Hensch N, et al. Study protocol of
+ a cluster randomized controlled trial of strategies to increase
+ antenatal iron and folic acid supplementation and malaria
+ prophylaxis in rural south-­central Côte d’Ivoire. BMC Public Health
+ 2020;20:1609.
+ 22 Righetti AA, Adiossan LG, Ouattara M, et al. Dynamics of anemia in
+ relation to parasitic infections, micronutrient status, and increasing
+ age in south-­central Côte d’Ivoire. J Infect Dis 2013;207:1604–15.
+ 23 Righetti AA, Koua A-­YG, Adiossan LG, et al. Etiology of anemia
+ among infants, school-­aged children, and young non-­pregnant
+ women in different settings of south-­central cote d’Ivoire. Am J Trop
+ Med Hyg 2012;87:425–34.
+ 24 Koné S, Baikoro N, N’Guessan Y, et al. Health & demographic
+ surveillance system profile: the Taabo health and demographic
+ surveillance system, Côte d’Ivoire. Int J Epidemiol 2015;44:87–97.
+ 25 Bruhn M, McKenzie D. In pursuit of balance: randomization in
+ practice in development field experiments. Am Econ J Appl Econ
+ 2009;1:200–32.
+ 26 Huber PJ. The behavior of maximum likelihood estimates under
+ nonstandard conditions. Proceedings of the Fifth Berkeley
+ Symposium on Mathematical Statistics and Probability; Berkeley, CA
+ 
+<section> 1, 1967:221–33
+ 27 Kavle JA, Landry M. Addressing barriers to maternal nutrition in
+ low- and middle-­income countries: a review of the evidence and
+ programme implications. Matern Child Nutr 2018;14:e12508.
+ 28 Yakoob MY, Bhutta ZA. Effect of routine iron supplementation with or
+ without folic acid on anemia during pregnancy. BMC Public Health
+ 2011;11 Suppl 3:S21.
+ 29 Peña-­Rosas JP, De-­Regil LM, Garcia-­Casal MN, et al. Daily oral iron
+ supplementation during pregnancy. Cochrane Database Syst Rev
+ 2015;2015:CD004736.
+ 30 Abraha I, Bonacini MI, Montedori A, et al. Oral iron-­based
+ interventions for prevention of critical outcomes in pregnancy and
+ postnatal care: an overview and update of systematic reviews.
+ 
+<section> J Evid Based Med 2019;12:155–66.
+ 31 Oh C, Keats EC, Bhutta ZA. Vitamin and mineral supplementation
+ during pregnancy on maternal, birth, child health and development 
+<section> outcomes in low- and middle-­income countries: a systematic review
+ and meta-­analysis. Nutrients 2020;12:491.
+ Churchill D, Nair M, Stanworth SJ, et al. The change in haemoglobin
+ concentration between the first and third trimesters of pregnancy: a
+ population study. BMC Pregnancy Childbirth 2019;19:359.
+ WHO. WHO policy brief for the implementation of intermittent
+ preventive treatment of malaria in pregnancy using sulfadoxine-­
+ pyrimethamine (IPTp-­SP). Geneva: World Health Organization; 2014.
+ Vanobberghen F, Lweno O, Kuemmerle A, et al. Efficacy and safety
+ of intravenous ferric carboxymaltose compared with oral iron for the
+ treatment of iron deficiency anaemia in women after childbirth in
+ 
+<section> Tanzania: a parallel-­group, open-­label, randomised controlled phase
+ 
+<section> 3 trial. Lancet Glob Health 2021;9:e189–98.
+ Yaya S, Uthman OA, Amouzou A, et al. Use of intermittent preventive
+ treatment among pregnant women in sub-­Saharan Africa: evidence
+ from malaria indicator surveys. Trop Med Infect Dis 2018;3:18.
+ Anchang-­Kimbi JK, Kalaji LN, Mbacham HF, et al. Coverage and
+ effectiveness of intermittent preventive treatment in pregnancy
+ with sulfadoxine-­pyrimethamine (iptp-­SP) on adverse pregnancy
+ outcomes in the Mount Cameroon area, South West Cameroon.
+ 
+<section> Malar J 2020;19:100.
+ Gutman JR, Stephens DK, Tiendrebeogo J, et al. A cluster
+ randomized trial of delivery of intermittent preventive treatment of
+ malaria in pregnancy at the community level in Burkina Faso. Malar J
+ 2020;19:282.
+ Burke D, Tiendrebeogo J, Emerson C, et al. Community-­
+ based delivery of intermittent preventive treatment of malaria
+ in pregnancy in Burkina Faso: a qualitative study. Malar J
+ 2021;20:277.
+ Han Oo W, Gold L, Moore K, et al. The impact of community-­
+ delivered models of malaria control and elimination: a systematic
+ review. Malar J 2019;18:269.
+ Moore KA, Simpson JA, Scoullar MJL, et al. Quantification of
+ the association between malaria in pregnancy and stillbirth:
+ a systematic review and meta-­analysis. Lancet Glob Health
+ 2017;5:e1101–12.
+ Nongkynrih B, Anand K, Pandav CS, et al. Introducing regular
+ behavioural surveillance into the health system in India: its feasibility
+ and validity. Natl Med J India 2010;23:13–7.
+ Molina-­de la Fuente I, Pastor A, Herrador Z, et al. Impact of
+ Plasmodium falciparum pfhrp2 and pfhrp3 gene deletions on malaria
+ control worldwide: a systematic review and meta-­analysis. Malar J
+ 2021;20:276.
+ Frass KA. Postpartum hemorrhage is related to the hemoglobin
+ levels at labor: observational study. Alexandria J Med
+ 2015;51:333–7.

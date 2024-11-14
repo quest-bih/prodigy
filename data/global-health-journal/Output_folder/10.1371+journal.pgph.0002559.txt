@@ -1,0 +1,834 @@
+
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> OPEN ACCESS
+ 
+<section> Citation: Arzika AM, Maliki R, Amza A, Karamba A,
+ Gallo N, Aichatou B, et al. (2023) Comparison of
+ door-to-door and fixed-point delivery of
+ azithromycin distribution for child survival in Niger:
+ A cluster-randomized trial. PLOS Glob Public
+ 
+<section> Health 3(11): e0002559. https://doi.org/10.1371/
+ 
+<section> journal.pgph.0002559
+ 
+<section> Editor: Sumanth Gandra, Washington University
+ 
+<section> School of Medicine, UNITED STATES
+ 
+<section> Received: March 28, 2023
+ 
+<section> Accepted: October 9, 2023
+ 
+<section> Published: November 15, 2023
+ 
+<section> Copyright: © 2023 Arzika et al. This is an open
+ access article distributed under the terms of the
+ Creative Commons Attribution License, which
+ permits unrestricted use, distribution, and
+ reproduction in any medium, provided the original
+ author and source are credited.
+ 
+<section> Data Availability Statement: The dataset
+ supporting the conclusions of this article is
+ available in the Open Science Framework (OSF)
+ repository (https://osf.io/p3zvg/).
+ 
+<section> Funding: This work was supported by the Bill &
+ Melinda Gates Foundation grants OPP1210548 and
+ INV-002454 (TML), the Peierls Foundation (KSO),
+ Research to Prevent Blindness (TML), and That
+ Man May See (TML). Pfizer donated azithromycin
+ for the trial. The Bill & Melinda Gates Foundation
+ 
+<section> RESEARCH ARTICLE
+ 
+<section> Comparison of door-to-door and fixed-point
+ delivery of azithromycin distribution for child
+ survival in Niger: A cluster-randomized trial
+ 
+<section> Ahmed M. Arzika , Ramatou Maliki , Abdou Amza , Alio Karamba , Nasser Gallo ,
+ Bawa Aichatou , Ismael Issa Sara , Diallo Beidi , Laminou Maliki Haroun ,
+ Farissatou Oumarou , Elodie Lebas , Brittany Peterson , Emily Colby ID ,
+ William Nguyen ID , Zijun Liu , Meagan C. Fitzpatrick ID , Benjamin F. Arnold ID 3,5 , Thomas
+ M. Lietman 3,5,6,7 , Kieran S. O’Brien ID 3,5,6 *, the AVENIR Study Group ¶
+ 
+<section> 1 Centre de Recherche et Interventions en Santé Publique, Birni N’Gaoure, Niger, 2 Programme Nationale
+ de Santé Oculaire, Niamey, Niger, 3 Francis I. Proctor Foundation, University of California, San Francisco,
+ California, United States of America, 4 Center for Vaccine Development and Global Health, University of
+ Maryland School of Medicine, Baltimore, Maryland, United States of America, 5 Department of
+ Ophthalmology, University of California, San Francisco, California, United States of America, 6 Department
+ of Epidemiology and Biostatistics, University of California, San Francisco, California, United States of
+ America, 7 Institute for Global Health Sciences, University of California, San Francisco, California, United
+ 
+<section> States of America
+ 
+<section> ¶ Membership of the AVENIR Study Group is listed in the Acknowledgments.
+ 
+<section> * kieran.obrien@ucsf.edu
+ 
+<section> Abstract
+ 
+<section> Recent evidence indicates mass azithromycin distribution reduces under-5 mortality. This
+ intervention is being considered for child survival programs in high mortality sub-Saharan
+ African settings. The delivery approach used in prior studies required a full-time census and
+ distribution team, which is not feasible for most programs. To determine the optimal pro-
+ grammatic approach to delivery, this study aimed to compare treatment coverage, costs,
+ and acceptability of different delivery approaches with existing community health workers
+ (CHWs). This cluster-randomized trial included rural and peri-urban communities in Dosso,
+ Niger (clinicaltrials.gov, NCT04774991). A random sample of 80 eligible communities was
+ randomized 1:1 to biannual door-to-door or fixed-point delivery of oral azithromycin to chil-
+ dren 1–59 months old over 1 year. Data analysts alone were masked given the nature of the
+ intervention. The primary outcome was community-level treatment coverage defined as the
+ number of children treated recorded by CHWs divided by the number of eligible children
+ determined using a post-distribution census. Costs were monitored through routine adminis-
+ trative data collection and micro-costing. The census included survey questions on interven-
+ tion acceptability among caregivers, community leaders, and CHWs. After randomization,
+ community was excluded due to inaccuracies in available administrative data, resulting in
+ 39 communities receiving door-to-door delivery. At the second distribution, community-level
+ mean treatment coverage was 105% (SD 44%) in the door-to-door arm and 92% (SD 20%)
+ in the fixed-point arm (Mean difference 13%, 95% CI -2% to 28%, P-value = 0.08). The total
+ cost per dose delivered was $1.91 in the door-to-door arm and $2.51 in the fixed-point arm.
+ Indicators of acceptability were similar across stakeholder groups in both arms, with most 
+<section> reviewed and approved the study design. The
+ funders had no role in study implementation, data
+ collection and analysis, decision to publish, or
+ preparation of the manuscript.
+ 
+<section> Competing interests: The authors have declared
+ that no competing interests exist.
+ 
+<section> respondents in each group indicating a preference for door-to-door. Overall, door-to-door
+ delivery is the preferred approach to azithromycin distribution in this setting and might reach
+ more children at a lower cost per dose delivered than fixed-point.
+ 
+<section> Trial Registration: clinicaltrials.gov NCT04774991.
+ 
+<section> Introduction
+ 
+<section> Substantial heterogeneity in the global burden of under-5 mortality (U5MR) persists, with the
+ West and Central Africa region reporting 95 deaths per 1000 livebirths in 2019, 19 times
+ higher than the U5MR reported in high income settings [1, 2]. These settings are estimated to
+ require unprecedented rates of decline to achieve the Sustainable Development Goal targets
+ for under-5 mortality by 2030 [1–3]. Azithromycin distribution has been demonstrated to be
+ an effective approach to reducing child mortality. The Macrolides Oraux pour Réduire les
+ Décès avec un Oeil sur la Résistance trial (MORDOR) found that biannual distribution of oral
+ azithromycin to children 1–59 months old reduced mortality by 14% in Malawi, Niger, and
+ Tanzania after 2 years [4]. A longer-term follow-up of the Niger site and a pooled analysis of
+ available data on azithromycin distribution and child mortality from several sub-Saharan Afri-
+ can settings echoed these findings [5, 6]. In 2020, the World Health Organization (WHO)
+ released conditional guidelines suggesting this intervention be considered in some high mor-
+ tality settings in sub-Saharan Africa [7].
+ As this intervention transitions from trial to program settings, questions remain about opti-
+ mal approaches to delivery. The mortality studies conducted to date used a more resource-
+ intensive approach than would be feasible for programmatic delivery. The studies involved
+ full-time, dedicated study teams to sensitize communities, administer the intervention, and
+ track progress through biannual door-to-door visits throughout the study areas. Programs,
+ however, might work within existing health delivery systems and involve teams that are man-
+ aging multiple priorities. The objective of this study was to evaluate common programmatic
+ approaches to intervention delivery using existing community health workers (CHWs). We
+ used an implementation science framework with a cluster randomized trial design to compare
+ community-based door-to-door and fixed-point delivery of azithromycin distribution for
+ child survival across several indicators, including coverage, costs, acceptability, appropriate-
+ ness, and fidelity at multiple stakeholder levels [8]. A cluster randomized design was used
+ given the community-based nature of the intervention. We hypothesized that door-to-door
+ delivery would have higher coverage, higher costs, and similar acceptability, appropriateness,
+ and fidelity compared to fixed-point delivery.
+ 
+<section> Materials and methods
+ 
+<section> Trial design
+ 
+<section> This parallel arm cluster randomized trial randomized 80 rural communities in Niger to
+ receive biannual azithromycin distribution by CHWs using door-to-door or fixed-point deliv-
+ ery. The unit of randomization was the grappe, an administrative unit defined in Niger and
+ hereafter referred to as “community.” The study period included two distributions approxi-
+ mately 6 months apart, with outcomes measured at the second distribution. The present
+ implementation study was conducted concurrently with a larger effectiveness trial in the same
+ area [9]. The study design and reporting followed TIDieR and CONSORT guidelines (S1 and
+ S2 Checklists) [10, 11]. 
+<section> Ethics and oversight
+ 
+<section> Approval for this trial was obtained from the Institutional Review Boards at the Niger Ministry
+ of Health (Comité Nationale Éthique pour la Recherche en Santé, N 041/2020/CNERS) and the
+ University of California, San Francisco (19–28387). At the community level, verbal consent
+ was obtained from community and local health center leaders before study activities com-
+ menced. At the individual level, informed consent was obtained from caregivers before study
+ procedures were conducted, with written consent obtained for children 30–42 days old and
+ verbal consent obtained for children older than 42 days. Written consent was required for the
+ younger age group given the potential risk of macrolide-associated infantile hypertrophic pylo-
+ ric stenosis that has been suggested in studies conducted in other settings [12]. An indepen-
+ dent Data and Safety Monitoring Committee was empaneled to review the study protocol,
+ procedures, and participant safety in the concurrent effectiveness and implementation trials.
+ The present trial was registered at clinicaltrials.gov (NCT04774991). Additional information
+ regarding the ethical, cultural, and scientific considerations specific to inclusivity in global
+ research is included in the Supporting Information (S1 Questionnaire).
+ 
+<section> Setting and participants
+ 
+<section> Eligibility criteria for communities included location in the Dosso region, population between
+ 250 and 2500 inhabitants according to the 2012 national census, distance greater than 5 kilo-
+ meters from the district headquarters town, and consent of community leaders. Communities
+ indicated as urban on the national census were excluded. The same community-level criteria
+ defined eligibility in the concurrent trial [9]. From this overall pool of eligible communities,
+ simple random samples were used to select communities for participation in each trial,
+ enabling generalizability of results across trials. At the individual level, children 1–59 months
+ of age weighing at least 4 kg whose caregivers provided informed consent were eligible for
+ inclusion. Recruitment for the overall project began in November 2020.
+ 
+<section> Interventions
+ 
+<section> In both arms, the intervention consisted of biannual distribution of a single dose of oral azi-
+ thromycin to children 1–59 months by existing relais communautaires (CHWs). CHWs are
+ chosen by the communities they serve and they live in or near the communities themselves,
+ facilitating a variety of health education and care activities, with a particular focus on maternal
+ and child health. As Centres de Santé Integrés (CSIs, primary health care centers) oversee the
+ work of the CHWs, the study team trained CSI leaders to conduct the interventions and these
+ leaders in turned conducted the training of the CHWs themselves. All trainings consisted of
+ one day of lecture and hands-on practice determining eligibility, obtaining consent, determin-
+ ing dose, administering the intervention, and completing the paper data collection form. The
+ study team conducted supervision visits to monitor the conduct of the interventions.
+ In both arms, a sensitization campaign was performed by members of the study team, dis-
+ trict health communication team, and the CSI leaders before distributions began. This
+ included a community meeting at the home of the chef du village (community leader) to pres-
+ ent the purpose and nature of the study and answer questions. Communities were notified of
+ the distribution date one day before it occurred by the leader of the relevant CSI.
+ Two CHWs participated in the distributions. Azithromycin (Zithromax) was administered
+ as oral suspension at 20 mg/kg of bodyweight up to the adult dose of 1 g. Dose was determined
+ by weight for children 1–11 months of age or those unable to stand using an electronic hang-
+ ing scale (ADE M111600, Hamburg, Germany). A table with the doses corresponding to possi-
+ ble weight ranges was provided to each CHW to facilitate the process. For children older than 
+<section> 11 months, dose was determined with the height-based dosing tape used by Niger’s trachoma
+ program. The azithromycin powder for oral suspension was reconstituted using bottled water
+ and each dose was measured into a new dosing cup or syringe for children too young to drink
+ from a dosing cup. Each CHW recorded the number of doses administered by sex and age cat-
+ egory (1–11 month or 12–59 months), reasons for ineligibility or refusal, and the number of
+ days required for the distribution. CHWs were asked to complete each community’s distribu-
+ tion within 3 days for the first round and in 2 days for the second round, though they were
+ able to work as many days as required to cover the community.
+ In communities randomized to receive the door-to-door delivery approach, CHWs visited
+ each household in the community on foot and asked if children 1–59 months of age resided
+ there to identify eligible children for inclusion. In communities randomized to fixed-point
+ delivery, the CHWs worked with local leaders to identify an appropriate central location for
+ the distribution. Common locations included outside the home of the community leader and
+ the local mosque. A table and chairs were set up outdoors at the central location and the mobi-
+ lizers would remind residents of the date, time, and location of the distribution in advance.
+ Caregivers and children presented to the central location and the CHW then determined
+ eligibility.
+ In both arms, all study team members and CHWs wore face masks during training and
+ intervention activities and sanitized or washed hands with soap and water between each
+ administration. All intervention activities took place outdoors with distancing of 6 feet main-
+ tained where possible.
+ A door-to-door census was conducted after each distribution to determine the total number
+ of eligible children 1–59 months old. The census conducted after the second distribution
+ included a survey of stakeholder perceptions of the accessibility, acceptability, and feasibility
+ the intervention. Stakeholders included caregivers, CHWs, and community leaders. The cen-
+ sus was conducted within a 2-week window after the distributions so as not to influence the
+ conduct of the intervention and to order include the post-treatment survey. Verbal informed
+ consent was obtained at the household and individual level for participation in the survey. Eli-
+ gible caregivers were those with a child eligible for the distribution and eligible CHWs were
+ those who participated in the distribution. All community leaders were invited to participate.
+ Eligibility for all survey groups included presence in the household at the time of the census.
+ 
+<section> Adverse events
+ 
+<section> During the consent process, CHWs informed caregivers of the common adverse events experi-
+ enced with azithromycin, including adnominal pain, nausea, vomiting, diarrhea, and skin
+ rash, as well as the possibility of severe adverse events including infantile hypertrophic pyloric
+ stenosis. Caregivers were instructed to report any adverse events experienced in the 28 days
+ following treatment to the CHW, who then reported to the study team by phone. Serious
+ adverse events were reported by email to Pfizer and to the medical monitors, which included
+ one Niger-based pediatric infectious disease specialist and one US-based ophthalmologist with
+ extensive experience in azithromycin distributions for trachoma.
+ 
+<section> Data collection
+ 
+<section> Baseline characteristics of communities and CHWs involved routine data available from CSIs
+ on total and target population size, distance to CSI and distance to the nearest town. Data were
+ also collected on the CHWs themselves during training. CHWs recorded information about
+ treatment administration on paper data collection forms. The forms included the number of
+ doses delivered by age and sex, reasons for not treating, and adverse events. Forms were 
+<section> reviewed for accuracy and completeness during supervision and then entered into CommCare
+ (CommCare by Dimagi) by the study team once distributions were completed. The supervi-
+ sion team also collected data on fidelity of the intervention rollout directly into a CommCare
+ mobile application. The census was conducted by a separate study team using a CommCare
+ mobile application that included data collection on household location, number and demo-
+ graphics of household members, and a survey of stakeholder perceptions of the accessibility,
+ acceptability, and fidelity of the intervention implementation. Identifiable information was
+ collected during the census and removed for analysis.
+ 
+<section> Outcomes
+ 
+<section> All outcomes were defined at the community level using a combination of the Proctor Imple-
+ mentation Outcomes and RE-AIM frameworks and were assessed at the second distribution
+ [8, 13, 14]. The primary outcome was community-level treatment coverage (reach), defined
+ the number of doses administered according to the data collection form divided by the total
+ eligible population according to the post-distribution census. The separation of data collection
+ for the numerator and denominator used to calculate treatment coverage resulted in uncer-
+ tainty in the denominator since the census may have captured a slightly different population
+ than the one present for the distribution. This resulted in coverage of > 100% for some com-
+ munities. To evaluate the impact of this uncertainty, two alternative outcome definitions were
+ used: one using the CSI estimate of the under-5 population as an alternative denominator and
+ another capping treatment coverage estimates at 100%. Exploratory subgroup analyses
+ included those to assess equity of treatment coverage by sex, age, community ethnicity, com-
+ munity population size, and community distance to the nearest health center.
+ Secondary outcomes included costs. As costs were anticipated to be higher for the first dis-
+ tribution given the additional expense associated with launching a new program, cost out-
+ comes focused on the second distribution but are presented for both distributions. Costs were
+ estimated through micro-costing, using known costs for personnel, training, and supplies
+ required to distribute azithromycin at the community level. All costs were validated by com-
+ paring micro-costing estimates with routine administrative expenditure forms. Although for
+ the trial each CHW was guaranteed a standard payment regardless of the number of days
+ worked, for our micro-costing we included a per diem payment for CHW based on the actual
+ number of days each CHW worked, which better reflects real-world compensation for CHW
+ in Niger. As a sensitivity analysis, we also estimated cost outcomes using the standard pay-
+ ment. We calculated the cost per dose delivered by arm and round, with the main analyses pre-
+ senting overall costs. Overall costs were chosen for main analyses as this method implicitly
+ weights communities based on size and is most relevant to overall budget considerations.
+ Community-level costs are presented as a sensitivity analysis, as these measures allow us to
+ capture and quantify cost variability between communities.
+ Other secondary outcomes included an alternative indicator of coverage (reach), accept-
+ ability, appropriateness, and fidelity of the intervention at the participant and provider levels
+ as measured through the post-distribution survey after the second distribution. The alternative
+ indicator of coverage was the caregiver self-report of uptake of the intervention for eligible
+ children. Acceptability of the intervention was defined as stakeholder perception that the con-
+ duct of the intervention was satisfactory and that the intervention was accessible. Appropriate-
+ ness was defined as stakeholder perception of the utility of the intervention and approach to
+ delivery. Fidelity of the intervention was defined as the degree to which the intervention was
+ conducted as intended in the protocol and was measured by adherence to the protocol steps
+ recorded during supervision visits and survey questions confirming the effectiveness of the 
+<section> publicity. Survey questions were drafted in French and discussed among the full study team
+ confirm they captured the intended outcome and census workers were trained to ask each
+ question in local languages. A summary of how the survey questions map to the outcome defi-
+ nitions is included in S1 Appendix.
+ 
+<section> Randomization and masking
+ 
+<section> Eighty communities were randomly selected from the eligible pool of communities in the
+ Dosso region. The randomization sequence was prepared by the UCSF biostatistician in R (R
+ Foundation for Statistical Computing, Vienna, Austria). Communities were randomized
+ equally to the two arms in a 1:1 ratio without stratification or matching. Community selection
+ and allocation were shared with the Niger study team who enrolled communities and ensured
+ communities received their assigned intervention. Given the nature of the intervention, partic-
+ ipants, investigators, and study personnel implementing the intervention were not masked to
+ allocation. Outcome assessors conducting the post-distribution census were not informed of
+ the intervention but were not able to be completely masked since responses to the survey ques-
+ tions could reveal allocation. The data analyst conducting data management and analyses was
+ masked to allocation.
+ 
+<section> Statistical methods
+ 
+<section> Assuming a community-level standard deviation of 8.2% based on prior treatment coverage
+ data from the MORDOR trial [4], including 40 communities per arm (80 communities total)
+ was expected to provide 80% power to detect an absolute difference in mean community treat-
+ ment coverage of 5% at an alpha of 0.05. Baseline characteristics were summarized descrip-
+ tively and compared with t-tests or Wilcoxon rank sum tests for continuous variables and
+ Fisher exact tests for categorical variables. The primary analysis aimed to compare the cluster-
+ level mean treatment coverage by arm, using permutation to estimate the P-value. The sensi-
+ tivity analyses using alternative definitions were conducted in the same manner, using local
+ health center estimates of eligible population or treatment coverage capped at 100%. An addi-
+ tional sensitivity analysis used the Kolmogorov-Smirnov test to compare the eligible popula-
+ tion distributions in the two arms. As the P-value from this test was > 0.05, we assumed the
+ samples were drawn from the same distribution and proceeded with a comparison of the clus-
+ ter-level mean number of children treated by arm using permutation as defined for the pri-
+ mary analysis. This allowed for a comparison of children treated without the uncertainty
+ inherent in the denominator. Sensitivity analyses were conducted comparing the community-
+ level median for each outcome using permutation as well. Treatment coverage for all sub-
+ groups were summarized descriptively and community-level subgroups were analyzed using
+ linear regression models with log-transformed number of children treated as the outcome,
+ indicators for treatment arm and subgroup, log-transformed number of eligible children as
+ covariate, and an interaction term between arm and subgroup. Overall costs were summarized
+ as total costs per arm divided by total doses delivered by arm. Analyses of survey outcomes
+ and alternative cost outcomes were conducted similarly to the coverage analyses. Analyses
+ were conducted in R version 4.2.2.
+ 
+<section> Results
+ 
+<section> In November 2020, 1,915 communities in the Dosso region were assessed for eligibility for the
+ main trial (Fig 1). Of these, 429 did not meet eligibility, 1,406 were randomly assigned to and
+ enrolled in other studies, and 80 were included in the present trial and randomized to receive
+ door-to-door or fixed-point delivery of azithromycin. After randomization, 1 community was 
+<section> Fig 1. Participant flow diagram (Consolidated
+ https://doi.org/10.1371/journal.pgph.0002559.g001
+ 
+<section> Standards of Reporting Trials, CONSORT).
+ 
+<section> excluded as the community was identified as having been listed twice in the national census
+ data and already treated as part of other studies. The remaining 79 communities received their
+ allocated delivery modality and were included in analyses. According to administrative 
+<insert> Table 1. Baseline characteristics of enrolled communities and community health workers.
+ Characteristic Door-to-door Fixed-point Overall
+ (N = 39) (N = 40) (N = 79)
+ Total population, n 29,230 25,982 55,212
+ Mean overall population size (SD) 750 (523) 650 (304) 699 (427)
+ Mean target population size (SD) 1,2 187 (149) 182 (112) 186 (132)
+ Mean distance to nearest town, km (SD) 28.9 (13.1) 27.7 (11.5) 28.3 (12.2)
+ Mean distance to primary health center, km (SD) 8.4 (10.8) 8.3 (6.9) 8.4 (9.0)
+ Zarma 18 (45.0%) 18 (45.0%) 36 (45%)
+ Hausa 21 (52.5%) 18 (45.0%) 39 (48.8%)
+ Peul 0 (0.0%) 1 (2.5%) 1 (1.3%)
+ Other 1 (2.5%) 1 (2.5%) 2 (2.5%)
+ Primary community ethnicity, n (%)
+ 0 (0.0%) 2 (5.0%) 2 (2.5%)
+ Mean age of community health workers (SD)
+ Multiple
+ 37.5 (11.4) 36.3 (11.5) 36.9 (11.4)
+ Community health workers with female sex, n (%) 9 (19.1%) 10 (22.2%) 19 (20.7%)
+ Community health workers education, n (%)
+ Primary 31 (66.0%) 28 (62.2%) 59 (64.1%)
+ Secondary or higher 11 (23.4%) 11 (24.4%) 22 (23.9%)
+ Other 4 (8.5%) 6 (13.3%) 10 (10.9%)
+ Missing 1 (2.1%) 0 (0%) 1 (1.1%)
+ Mean years of experience as community health worker (SD) 4.0 (4.0) 3.8 (4.8) 3.9 (4.4)
+ SD, standard deviation
+ Population and distance estimates from primary health centers.
+ Target population refers to children 1–59 months old and was estimated based on the number of children 3–59 months of age targeted for seasonal malaria
+ chemoprevention and adding 3% to account for children 1–2 months of age.
+ Overall, 92 community health workers participated in the study, including 47 in door-to-door communities and 45 in fixed-point communities. These are used as the
+ denominators for the community health worker percentages presented for female sex and education.
+ Other education level includes Korannic school.
+ https://doi.org/10.1371/journal.pgph.0002559.t001 
+<iend>
+
+ 
+<section> estimates from CSIs, the mean number of children per community was 187 (standard devia-
+ tion [SD] 149) in the door-to-door arm and 184 (SD 112) in the fixed-point arm. The esti-
+ mated eligible population varied by data source (study census or administrative estimates) but
+ was similar overall by arm (S1 Appendix).
+ Table 1 summarizes characteristics of included communities and their CHWs before distri-
+ butions began. Overall, the mean distance to the nearest CSI was 8.4 km (SD 9.0). Most CHWs
+ were male (79.3%) with an average age of 36.9 years (SD 11.4). CHWs had an average of 3.9
+ years of experience in the role (SD 4.4). No statistically significant differences in baseline char-
+ acteristics were demonstrated between arms.
+ The median number of days between the second distribution and the post-distribution cen-
+ sus was 5 (inter-quartile range 3 to 7 days) overall and was similar by arm. Community-level
+ mean treatment coverage at the second distribution was 105% (SD 44%) in the door-to-door
+ arm and 92% (SD 20%) in the fixed-point arm (Table 2; Mean difference 13%, 95% CI -2% to
+ 
+<section> 28%, permutation P-value = 0.08). Median treatment coverage was 94% in each arm (Table
+ 95% CI 83–103% in door-to-door and 78–104% in fixed point, P-value 0.38). Sensitivity analy-
+ ses using other alternative outcome definitions were also unable to detect a difference in cover-
+ age by arm (Table 2). The distribution of treatment coverage was similar in both arms, with
+ the exception that the door-to-door approach resulted in more communities reporting a 
+<insert> Table 2. Community-level treatment coverage by arm in Round
+ Analysis Door-to-door
+ N =
+ 105% (43%)
+ Alternative mean coverage (SD) 105% (84%)
+ Capped mean coverage (SD) 90% (11%)
+ Mean number treated (SD) 158 (117)
+ Median coverage (IQR) 94% (83% to 103%)
+ Alternative median coverage (IQR) 82% (60% to 114%)
+ 111 (82 to 192)
+ Primary analysis
+ Mean coverage (SD)
+ Sensitivity analyses
+ Median number treated (IQR)
+ Pre-specified primary outcome defined as coverage calculated by dividing the number
+ eligible children as recorded on the post-distribution census.
+ Sensitivity analysis defined as coverage calculated by dividing the number of children
+ according to primary health centers.
+ Sensitivity analysis capping treatment coverage estimates at 100%.
+ Sensitivity analysis comparing the mean number of children treated as recorded
+ estimates of eligible children by arm resulted in P-values of 0.9 and 0.8, respectively.
+ Sensitivity analysis defined as coverage calculated by dividing the number of children
+ according to primary health centers.
+ https://doi.org/10.1371/journal.pgph.0002559.t002 
+<iend>
+
+ 
+<section> Fixed-point 
+<section> Difference 
+<section> P-value
+ 
+<section> N = (95% CI)
+ 
+<section> 92% (20%) 
+<section> 13% (-2% to 28%) 
+<section> 0.08
+ 
+<section> 85% (84%) 20% (-19% to 58%) 0.31
+ 
+<section> 87% (15%) 
+<section> 3% (-3% to 9%) 
+<section> 0.30
+ 
+<section> 120 (60) 
+<section> 38 (-3 to 79) 
+<section> 0.07
+ 94% (78% to 104%) 0% (-12% to 14%) 0.38
+ 72% (40% to 100%) 10% (-10% to 34%) 0.33
+ 105 (71 to 154) 6 (-26 to 51) 0.35
+ 
+<section> of children treated as recorded during delivery by the estimated number of
+ treated as recorded during delivery by the estimated number of eligible children
+ during delivery after Kolmogorov-Smirnov test comparing census and health center
+ treated as recorded during delivery by the estimated number of eligible children
+ 
+<section> greater number of children treated than censused compared to fixed-point, resulting in treat-
+ ment coverages of more than 100% (S1 Appendix). Coverage was similar across all subgroups
+ 
+<section> (S1 Appendix).
+ Two serious adverse events in the fixed-point arm were reported to the study team during
+ the second distribution. Both children experienced diarrhea and vomiting 24–48 hours after
+ azithromycin administration. Both were admitted to the CSI with dehydration and treated
+ with metoclopramide, oral rehydration solution, and zinc and were released the same day as
+ symptoms subsided. In the first round of distribution, one fixed point grappe did not receive
+ distributions as part of this study due to outdated census information but the eligible popula-
+ tion did receive distributions in the second round as anticipated.
+ Estimates of the overall costs associated with each delivery modality are shown in Table 3.
+ In both arms, the first distribution incurred greater costs associated with both training and
+ delivery than the second distribution. At the second distribution, 6,144 doses were delivered
+ the door-to-door arm and 4,781 doses were delivered in the fixed-point arm, resulting in a
+ delivery cost per dose of $0.68 in the door-to-door arm and $0.91 in the fixed-point arm.
+ When including training costs, the total cost per dose delivered at the second distribution was
+ $1.91 in the door-to-door arm and $2.51 in the fixed-point arm. Community-level costs are
+ presented in S1 Appendix, as well as a sensitivity analysis evaluating costs under the scenario
+ where CHWs are provided a standard payment regardless of days actually worked.
+ Fig 2 displays results of the stakeholder surveys for each domain of interest, with detailed
+ survey responses reported in S1 Appendix. More than 99% (9954/9967) of eligible households
+ in both arms agreed to participate and 99% (7080/7133), 93% (86/92), and 97% (97/99) of eligi-
+ ble caregivers, CHWs, and community leaders participated, respectively. Overall, indicators
+ fidelity, acceptability, and appropriateness were high and similar in each arm among each
+ stakeholder group (Fig 2). Caregivers and community leaders indicated both modalities had
+ high degree of acceptability and appropriateness. When asked directly which approach they 
+<insert> Table 3. Estimates of overall costs and costs per dose delivered by arm.
+ Round Round
+ Door-to-door Fixed-point Door-to-door Fixed-point
+ 1.7 (0.8) 1.8 (0.8) 1.5 (0.6) 1.5 (0.6)
+ Training $11,828.18 $11,828.18 $7,566.36 $7,610.00
+ Delivery $5,439.98 $5,431.05 $4,161.58 $4,367.56
+ Total $17,268.16 $17,259.24 $11,727.94 $11,977.56
+ 5,800 5,326 6,144 4,781
+ Number of days worked by CHWs (mean, SD)
+ Costs
+ Outcome
+ Doses delivered
+ Cost/outcome
+ Delivery cost/dose delivered $0.94 $1.02 $0.68 $0.91
+ Total cost/dose delivered $2.98 $3.24 $1.91 $2.51
+ SD, standard deviation
+ The study team pre-specified a fixed number of distribution days for the CHWs to target but CHWs could work as many days as required to complete the distribution.
+ Shown here are the actual days worked by CHWs.
+ https://doi.org/10.1371/journal.pgph.0002559.t003
+ preferred, the majority of caregivers and community leaders in both arms preferred the door-
+ to-door approach (90–93% in the door-to-door arm and 72–76% in the fixed-point arm pre-
+ ferred door-to-door; S1 Appendix), with reasons including that the approach ensures more
+ children are treated and requires less personal travel for the caregivers. While the majority of
+ CHWs in the door-to-door arm also preferred the door-to-door approach for the sake of the
+ intervention’s goals, 49% of those in the fixed-point arm preferred fixed-point, in part because
+ this modality simplifies the administration for the distributors (S1 Appendix). The majority
+ caregivers and community leaders indicated knowledge of the timing and purpose of the dis-
+ tribution, suggesting fidelity of the publicity effort to the protocol (S1 Appendix). Supervision
+ visits indicated that most CHWs were administering azithromycin according to the protocol
+ in both arms, with mean cluster-level adherence of more than 80% for each component
+ (S1 Appendix). Although most caregivers in both arms reported participating in the distribu-
+ tion if they had an eligible child, a greater proportion of caregivers who did not participate said
+ they were unaware of the intervention in the fixed-point arm compared to the door-to-door
+ arm (10.0% vs 1.1%; S1 Appendix). 
+<iend>
+
+ 
+<section> Discussion
+ 
+<section> This cluster-randomized trial aimed to compare the implementation of door-to-door and
+ fixed-point delivery of azithromycin distribution to increase child survival across a number
+ indicators, including treatment coverage (reach), costs, acceptability, appropriateness, and
+ fidelity. Overall, treatment coverage was high for both approaches, with average cluster-level
+ coverage reaching more than 80% in both arms and distribution rounds. Other operational
+ studies of community mass drug administration delivery have found similarly high levels of
+ coverage on average, though the range of coverage achieved can be quite wide [15–17].
+ Although an underlying goal of this study was to more closely mimic programmatic imple-
+ mentation, the presence of the study team for training and supervision may have contributed
+ to the high coverage across most communities in this setting. We were unable to detect a dif-
+ ference in treatment coverage by arm given the degree of heterogeneity. Results suggested the
+ possibility that door-to-door may result in a greater number of children treated, and more
+ door-to-door communities reported treatment coverage > 100% than fixed-point 
+<section> Fig 2. Community-level summary
+ children, community health workers
+ fidelity of the intervention after delivery
+ was assessed by survey for all groups
+ 
+<section> https://doi.org/10.1371/journal.pgph.0002559.g002
+ 
+<section> of implementation outcomes assessed by stakeholder surveys. Surveys were conducted among caregivers of eligible
+ (CHWs), and community leaders in both arms to evaluate coverage (reach) acceptability, appropriateness, and
+ of the Round 2 distribution. The alternative indicator of coverage was assessed only among caregivers. Fidelity
+ and also by supervisor visits for the CHWs.
+ 
+<section> communities, perhaps because this approach is able to include harder-to-reach households
+ than fixed-point or even the census alone when not coupled with treatment. As anticipated,
+ indicators of acceptability, appropriateness and fidelity of implementation were similar in
+ both arms. Most caregivers and community leaders indicated a preference for the door-to- 
+<section> door approach, stating that this delivery modality is better able to reach all children and
+ reduces the burden on caregivers.
+ The estimated overall costs across rounds were similar for the door-to-door and fixed-point
+ delivery modalities given the similar overhead costs associated with each program and the pre-
+ determined goal for distribution days per community. More doses were delivered in the door-
+ to-door arm, however, resulting in lower costs per dose delivered. Studies of seasonal malaria
+ chemoprevention have also suggested lower costs per dose delivered with the door-to-door
+ approach [16, 18]. A systematic review of costs for mass drug administration in neglected trop-
+ ical disease programs estimated costs to be less than $0.50 per dose delivered in 2015 for pro-
+ grams treating 100,000 people or more, but over $2.00 per dose for programs treating fewer
+ than 10,000 people [19]. These costs primarily reflect programs that rely on local or school-
+ based volunteers, which was not the case for our program which paid existing CHWs. Unit
+ costs are also expected to decrease as the number of years of implementation increase [19].
+ Therefore, we anticipate that unit costs would decrease if all communities within eligible CSIs
+ were treated over more rounds of distribution, and indeed we did see costs decrease between
+ rounds in both arms, suggesting some improved efficiency with experience. Costs anticipated
+ in a national scale-up of the program will be explored in future work. In addition, this program
+ treated children 1–59 months of age but future programs may target children 1–11 months of
+ age instead as recommended in the WHO guidelines [7]. The cost implications of this change
+ in program target are currently being studied.
+ The strengths of this study include the cluster-randomized design, use of an implementa-
+ tion science framework to guide the development of outcome measurement, and the experi-
+ enced study team and CHWs. Limitations include the challenge of population estimation and
+ the gap between the distribution and census which resulted in inconsistencies between esti-
+ mated number of children treated compared to the estimated number of children eligible. This
+ resulted in estimates of treatment coverage of greater than 100%, which is common for similar
+ programs.[15, 20] Typically, such programs use administrative estimates of coverage based on
+ existing population estimates which can be unreliable [15, 20–24]. Despite conducting a sepa-
+ rate population-based census to estimate the current eligible population, we still found incon-
+ sistencies in population estimates. Some mass drug administration programs using
+ administrative coverage will also independently validate coverage estimates through post-dis-
+ tribution surveys of self-reported uptake [24, 25]. Our post-distribution survey indicated high
+ coverage of > 90% in both arms, consistent with the primary analysis. In addition, it is also
+ possible that neighboring communities learned of the distribution and brought their children
+ for treatment despite not residing in the community, that children outside of the eligible age
+ range were treated, and that residents were not at home during the census and so not counted
+ in the denominator. Study team members and CHWs were trained to confirm residence in an
+ attempt to reduce this possibility, but this process may not have completely eliminated the
+ phenomenon. We attempted to address this challenge with sensitivity analyses, which pro-
+ duced similar results to the primary analysis. However, we found a greater variance in treat-
+ ment coverage in this programmatic approach to delivery than anticipated based on prior
+ studies and so the trial was underpowered to detect small effects, especially among subgroups.
+ In addition, several domains of interest were estimated using subjective indicators collected
+ through surveys. Although these were developed in close collaboration with Nigerien study
+ team members to ensure cultural appropriateness and comprehensibility, these responses are
+ subject to social desirability bias and may not fully reflect the spectrum of preferences. We
+ anticipate these results are generalizable to similar settings in Niger targeted by mass drug
+ administration programs and perhaps similar West African countries. 
+<section> Conclusions
+ 
+<section> Overall, we found similar treatment coverage, acceptability, appropriateness and fidelity of
+ implementation of the door-to-door and fixed-point approaches to azithromycin distribution
+ for child survival. Our results suggested door-to-door might enable greater numbers of chil-
+ dren to be treated and lower the cost per dose delivered. Given this result along with the stake-
+ holder preference for the door-to-door modality, door-to-door delivery may be the optimal
+ approach to azithromycin distribution in this setting.
+ 
+<section> Supporting information
+ 
+<section> S1 Checklist. Consolidated Standards of Reporting Trials (CONSORT) checklist extension
+ 
+<section> for cluster-randomized trials.
+ 
+<section> (DOCX)
+ 
+<section> S2 Checklist. Template for Intervention Description and Replication (TIDieR) checklist.
+ 
+<section> (DOCX)
+ 
+<section> S1 Appendix. Supplementary appendix.
+ 
+<section> (DOCX)
+ 
+<section> S1 Questionnaire. PLOS inclusivity in global research questionnaire.
+ 
+<section> (DOCX)
+ 
+<section> S1 File. Original IRB approval letters from UCSF and the Niger ethics committee in
+ 
+<section> French and English.
+ 
+<section> (PDF)
+ 
+<section> Acknowledgments
+ 
+<section> We would like to thank the many collaborators who have contributed to the AVENIR study
+ group. 
+<section> Investigators and Study Personnel: Centre de recherche et interventions en santé pub-
+ 
+<section> lique, Niamey, Niger–Bawa Aichatou, Ahmed Arzika, Diallo Beidi, Ismael Mamane Bello, Fati
+ Bello, Ousseini Boubacar, Nameywa Boubacar, Nasser Gallo, Karamatoulaye Hamadou, Ama-
+ dou Harouna, Naser Harouna, Laminou Maliki Haroun, Alio Karamba, Mariama Keimago,
+ Sani Mahamadou, Ramatou Maliki, Abarchi Moustapha, Abraham Omar, Farissatou
+ Oumarou, Ismael Issa Sara; Programme national de santé oculaire, Niamey, Niger–Amza
+ Abdou, Nassirou Beido, Boubacar Kadri, Boubacar Maïdanda; University of California, San
+ Francisco, San Francisco, CA, USA–Benjamin Arnold, Cindi Chen, Emily Colby, Thuy Doan,
+ Jeremy D Keenan, Sandrine Kyane, Elodie Lebas, Thomas M Lietman, Zijun Liu, William
+ Nguyen, Kieran S O’Brien, Catherine E Oldenburg, Brittany Peterson, Travis C Porco, Kevin
+ Ruder, George W Rutherford, Lina Zhong, Zhaoxia Zhou. 
+<section> Other Acknowledgements: Bill &
+ Melinda Gates Foundation, Seattle, WA, USA–Rebecca Brander, Dennis Chao, James Heine,
+ Rasa Izadnegahdar, Laura Lamberti, Assaf Oron, Surabhi Rajaram, Matthew Steele; Centre de
+ recherche médical et sanitaire, Niamey, Niger–Ibrahima Issa, Ronan Jambou, Rabiou Labbo,
+ S’Hooshim N. Lamine, Sani Ousmane, Boubakar Rakia, Maikano Sadikou; Centre de santé
+ la mère et de l’enfant, Dosso, Niger–Amina Seyfoulaye; ClinEpiDB, Philadelphia, PA, USA–
+ Brianna Lindsay, Nupur Kittur, David Roos, Sheena Tomko; Comité national éthique pour
+ recherche en santé, Niamey, Niger–Issa Adji, Djibo Ali, Souleymane Alzouma, Maidanda
+ Boubacar, Diegou Boureima, Cheik Boureima Daouda, Idi Moussa Djatao, Ibrahim Jean Eti-
+ enne, El Hadji Boubakar H Maiga, Amadou Oumarou, Ocquet Sakina, Sanoussi Samuila;
+ Data and Safety Monitoring Committee–Emory University, Task Force for Global Health– 
+<section> David Addiss (chair); Niger Ministry of Health–Mourtala Assao; St. George’s University of Lon-
+ don–Julia Bielicki, Retired from CDC–Allen Hightower, Children’s Hospital of Colorado–Brian
+ Jackson, University of Melbourne–Fiona Russell; Global Health Strategies, New York, NY,
+ 
+<section> USA–Frances Hocking, Zied Mhirsi, Dan Pawson; Pfizer, New York, NY, USA–Waqas
+ Ahmed, Todd D. Hatajik, Marjan Javid, Julie Jenson, Chuck Knirsch, Chiao-Chin Lin; Speak
+ Up Africa, Dakar, Senegal–Maelle Ba, Yaye Sophiétou Diop, Yacine Djibo, Gráinne Hutton,
+ Fara Ndiaye; UCSF-UC Berkeley Center for Global Health Development, Diplomacy, and
+ 
+<section> Economics, CA, USA–Elliot Marseille, Jim G. Khan, Stefano M. Bertozzi; University of Mary-
+ land School of Medicine, 
+<section> Center for Vaccine Development and Global Health, Baltimore,
+ 
+<section> USA–Meagan Fitzpatrick.
+ 
+<section> Author Contributions
+ 
+<section> Conceptualization: Ahmed M. Arzika, Ramatou Maliki, Abdou Amza, Laminou Maliki Har-
+ oun, Farissatou Oumarou, Elodie Lebas, Emily Colby, William Nguyen, Meagan C. Fitzpa-
+ trick, Benjamin F. Arnold, Thomas M. Lietman, Kieran S. O’Brien.
+ 
+<section> Data curation: Ahmed M. Arzika, Alio Karamba, Nasser Gallo, Bawa Aichatou, Ismael Issa
+ Sara, Diallo Beidi, Laminou Maliki Haroun, Farissatou Oumarou, Elodie Lebas, Brittany
+ Peterson, William Nguyen, Zijun Liu, Meagan C. Fitzpatrick.
+ 
+<section> Formal analysis: Laminou Maliki Haroun, Farissatou Oumarou, Brittany Peterson, William
+ Nguyen, Zijun Liu, Meagan C. Fitzpatrick, Kieran S. O’Brien.
+ 
+<section> Funding acquisition: Elodie Lebas, Thomas M. Lietman, Kieran S. O’Brien.
+ 
+<section> Investigation: Ahmed M. Arzika, Elodie Lebas, Meagan C. Fitzpatrick, Thomas M. Lietman,
+ Kieran S. O’Brien.
+ 
+<section> Methodology: Ahmed M. Arzika, Ramatou Maliki, Elodie Lebas, Emily Colby, Meagan C.
+ Fitzpatrick, Benjamin F. Arnold, Thomas M. Lietman, Kieran S. O’Brien.
+ 
+<section> Project administration: Ahmed M. Arzika, Ramatou Maliki, Abdou Amza, Alio Karamba,
+ Nasser Gallo, Bawa Aichatou, Ismael Issa Sara, Diallo Beidi, Laminou Maliki Haroun, Faris-
+ satou Oumarou, Elodie Lebas, Emily Colby, William Nguyen, Meagan C. Fitzpatrick,
+ Thomas M. Lietman, Kieran S. O’Brien.
+ 
+<section> Resources: Ahmed M. Arzika.
+ 
+<section> Supervision: Ahmed M. Arzika, Ramatou Maliki, Alio Karamba, Nasser Gallo, Bawa Aicha-
+ tou, Ismael Issa Sara, Diallo Beidi, Laminou Maliki Haroun, Farissatou Oumarou, Elodie
+ Lebas, Brittany Peterson, Emily Colby, William Nguyen, Meagan C. Fitzpatrick, Kieran S.
+ O’Brien.
+ 
+<section> Validation: Ahmed M. Arzika, Ramatou Maliki, Alio Karamba, Nasser Gallo, Bawa Aichatou,
+ Ismael Issa Sara, Diallo Beidi, Laminou Maliki Haroun, Farissatou Oumarou, Elodie Lebas,
+ Brittany Peterson, Emily Colby, William Nguyen, Zijun Liu, Benjamin F. Arnold, Kieran
+ O’Brien.
+ 
+<section> Writing – original draft: William Nguyen, Meagan C. Fitzpatrick, Kieran S. O’Brien.
+ 
+<section> Writing – review & editing: Ahmed M. Arzika, Ramatou Maliki, Abdou Amza, Alio Karamba,
+ Nasser Gallo, Bawa Aichatou, Ismael Issa Sara, Diallo Beidi, Laminou Maliki Haroun, Faris-
+ satou Oumarou, Elodie Lebas, Brittany Peterson, Emily Colby, William Nguyen, Zijun Liu,
+ Meagan C. Fitzpatrick, Benjamin F. Arnold, Thomas M. Lietman, Kieran S. O’Brien. 
+<section> References
+ 
+<section> Sharrow D, Hug L, You D, Alkema L, Black R, Cousens S, et al. Global, regional, and national trends
+ under-5 mortality between 1990 and 2019 with scenario-based projections until 2030: a systematic
+ analysis by the UN Inter-agency Group for Child Mortality Estimation. Lancet Glob Health. 2022; 10(2):
+ e195–e206. https://doi.org/10.1016/S2214-109X(21)00515-5 PMID: 35063111
+ Golding N, Burstein R, Longbottom J, Browne AJ, Fullman N, Osgood-Zimmerman A, et al. Mapping
+ under-5 and neonatal mortality in Africa, 2000–15: a baseline analysis for the Sustainable Development
+ Goals. Lancet. 2017; 390(10108):2171–82. https://doi.org/10.1016/S0140-6736(17)31758-0 PMID:
+ 
+<section> 28958464
+ World Health Organization. World Health Statistics 2016: Monitoring health for the SDGs, sustainable
+ development goals. France: World Health Organization; 2016.
+ Keenan JD, Bailey RL, West SK, Arzika AM, Hart J, Weaver J, et al. Azithromycin to reduce childhood
+ mortality in sub-Saharan Africa. N Engl J Med. 2018; 378(17):1583–92. https://doi.org/10.1056/
+ 
+<section> NEJMoa1715474 PMID: 29694816
+ Keenan JD, Arzika AM, Maliki R, Boubacar N, Elh Adamou S, Moussa Ali M, et al. Longer-term assess-
+ ment of azithromycin for reducing childhood mortality in Africa. N Engl J Med. 2019; 380(23):2207–14.
+ https://doi.org/10.1056/NEJMoa1817213 PMID: 31167050
+ Oldenburg CE, Arzika AM, Amza A, Gebre T, Kalua K, Mrango Z, et al. Mass Azithromycin Distribution
+ to Prevent Childhood Mortality: A Pooled Analysis of Cluster-Randomized Trials. Am J Trop Med Hyg.
+ 2019; 100(3):691–5. https://doi.org/10.4269/ajtmh.18-0846 PMID: 30608051
+ World Health Organization. WHO guideline on mass drug administration of azithromycin to children
+ under five years of age to promote child survival. Geneva: World Health Organization; 2020.
+ Proctor E, Silmere H, Raghavan R, Hovmand P, Aarons G, Bunger A, et al. Outcomes for implementa-
+ tion research: conceptual distinctions, measurement challenges, and research agenda. Adm Policy
+ Ment Health. 2011; 38(2):65–76. https://doi.org/10.1007/s10488-010-0319-7 PMID: 20957426
+ O’Brien KS, Arzika AM, Amza A, Maliki R, Ousmane S, Kadri B, et al. Age-based targeting of biannual
+ azithromycin distribution for child survival in Niger: an adaptive cluster-randomized trial protocol (AVE-
+ NIR). BMC Public Health. 2021; 21(1):822. https://doi.org/10.1186/s12889-021-10824-7 PMID:
+ 
+<section> 33926403
+ Hoffmann TC, Glasziou PP, Boutron I, Milne R, Perera R, Moher D, et al. Better reporting of interven-
+ tions: template for intervention description and replication (TIDieR) checklist and guide. Bmj. 2014; 348:
+ g1687. https://doi.org/10.1136/bmj.g1687 PMID: 24609605
+ Campbell MK, Piaggio G, Elbourne DR, Altman DG. Consort 2010 statement: extension to cluster ran-
+ domised trials. Bmj. 2012; 345:e5661. https://doi.org/10.1136/bmj.e5661 PMID: 22951546
+ Abdellatif M, Ghozy S, Kamel MG, Elawady SS, Ghorab MME, Attia AW, et al. Association between
+ exposure to macrolides and the development of infantile hypertrophic pyloric stenosis: a systematic
+ review and meta-analysis. Eur J Pediatr. 2019; 178(3):301–14. https://doi.org/10.1007/s00431-018-
+ 
+<section> 3287-7 PMID: 30470884
+ Glasgow RE, Vogt TM, Boles SM. Evaluating the public health impact of health promotion interventions:
+ the RE-AIM framework. Am J Public Health. 1999; 89(9):1322–7. https://doi.org/10.2105/ajph.89.9.
+ 
+<section> 1322 PMID: 10474547
+ Glasgow RE, Harden SM, Gaglio B, Rabin B, Smith ML, Porter GC, et al. RE-AIM Planning and Evalua-
+ tion Framework: Adapting to New Science and Practice With a 20-Year Review. Front Public Health.
+ 2019; 7. https://doi.org/10.3389/fpubh.2019.00064 PMID: 30984733
+ Binder S, Campbell CH, Castleman JD, Kittur N, Kinung’hi SM, Olsen A, et al. Lessons Learned in Con-
+ ducting Mass Drug Administration for Schistosomiasis Control and Measuring Coverage in an Opera-
+ tional Research Setting. Am J Trop Med Hyg. 2020; 103(1_Suppl):105–13. https://doi.org/10.4269/
+ 
+<section> ajtmh.19-0789 PMID: 32400352
+ Barry A, Issiaka D, Traore T, Mahamar A, Diarra B, Sagara I, et al. Optimal mode for delivery of sea-
+ sonal malaria chemoprevention in Ouelessebougou, Mali: A cluster randomized trial. Plos One. 2018;
+ 13(3):e0193296. https://doi.org/10.1371/journal.pone.0193296 PMID: 29505578
+ Burnim M, Ivy J, King C. Systematic review of community-based, school-based, and combined delivery
+ modes for reaching school-aged children in mass drug administration programs for schistosomiasis.
+ PLoS Negl Trop Dis. 2017; 11:e0006043. https://doi.org/10.1371/journal.pntd.0006043 PMID:
+ 
+<section> 29077723
+ Cissé B, Ba EH, Sokhna C, JL ND, Gomis JF, Dial Y, et al. Effectiveness of Seasonal Malaria Chemo-
+ prevention in Children under Ten Years of Age in Senegal: A Stepped-Wedge Cluster-Randomised
+ Trial. PLoS Med. 2016; 13(11):e1002175. https://doi.org/10.1371/journal.pmed.1002175 PMID:
+ 
+<section> 27875528 
+<section> Fitzpatrick C, Fleming FM, Madin-Warburton M, Schneider T, Meheus F, Asiedu K, et al. Benchmarking
+ the Cost per Person of Mass Treatment for Selected Neglected Tropical Diseases: An Approach Based
+ on Literature Review and Meta-regression with Web-Based Software Application. PLoS Negl Trop Dis.
+ 2016; 10(12):e0005037. https://doi.org/10.1371/journal.pntd.0005037 PMID: 27918573
+ Zuber PL, Yaméogo KR, Yaméogo A, Otten MW Jr. Use of administrative data to estimate mass vacci-
+ nation campaign coverage, Burkina Faso, 1999. J Infect Dis. 2003; 187 Suppl 1:S86–90. https://doi.org/
+ 
+<section> 10.1086/368052 PMID: 12721897
+ Cromwell EA, Ngondi J, Gatpan G, Becknell S, Kur L, McFarland D, et al. Estimation of population cov-
+ erage for antibiotic distribution for trachoma control: a comparison of methods. Int Health. 2009;
+ (2):182–9. https://doi.org/10.1016/j.inhe.2009.09.002 PMID: 24036565
+ Rinamalo M, Pezzoli L, Kama M, Rafai E, Kubuabola I, Salusalu M, et al. Lot quality assurance sam-
+ pling to assess coverage and compliance following mass drug administration to eliminate lymphatic fila-
+ riasis in Fiji: A methodological approach. Plos One. 2020; 15(9):e0238622. https://doi.org/10.1371/
+ 
+<section> journal.pone.0238622 PMID: 32946536
+ Liyew EF, Chernet M, Belay H, Maddren R, Landeryou T, Kalahasti S, et al. Coverage evaluation sur-
+ veys following soil-transmitted helminthiasis and schistosomiasis mass drug administration in Wolaita
+ Zone of Ethiopia-The Geshiyaro project. Plos One. 2021; 16(12):e0260722. https://doi.org/10.1371/
+ 
+<section> journal.pone.0260722 PMID: 34932602
+ Woodhall DM, Mkwanda S, Dembele M, Lwanga H, Drexler N, Dubray C, et al. Exploring innovative
+ ways to conduct coverage surveys for neglected tropical diseases in Malawi, Mali, and Uganda. Acta
+ Trop. 2014; 132:119–24. https://doi.org/10.1016/j.actatropica.2014.01.001 PMID: 24462795
+ World Health Organization. Coverage Evaluation Surveys for Preventive Chemotherapy: Field Guide
+ for Implementation. World Health Organization; 2016.

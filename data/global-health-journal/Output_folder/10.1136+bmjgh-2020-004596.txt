@@ -1,0 +1,1358 @@
+
+<section> To cite: Ardrey J, Jehan K,
+ Kumbuyo C, et al. ‘Pneumonia
+ has gone’: exploring perceptions
+ 
+<section> of health in a cookstove
+ 
+<section> intervention trial in rural
+ Malawi. BMJ Global Health
+ 2021;6:e004596. doi:10.1136/
+ 
+<section> bmjgh-2020-004596
+ 
+<section> Handling editor Stephanie M
+ 
+<section> Topp
+ 
+<section> Received 1 December 2020
+ 
+<section> Accepted 5 July 2021
+ 
+<section> © Author(s) (or their
+ employer(s)) 2021. Re-­use
+ permitted under CC BY.
+ Published by BMJ.
+ Department of International
+ Public Health, Liverpool School
+ of Tropical Medicine, Liverpool,
+ 
+<section> UK
+ Department of Public Health,
+ Policy and Systems, Institute of
+ Population of Health Sciences,
+ 
+<section> University of Liverpool,
+ 
+<section> Liverpool, UK
+ Malawi-­Liverpool-­Wellcome
+ 
+<section> Trust Clinical Research
+ Programme, Blantyre, Malawi
+ 
+<section> Department of Clinical
+ Sciences, Liverpool School of
+ Tropical Medicine, Liverpool, UK
+ 
+<section> Correspondence to
+ 
+<section> Dr Jane Ardrey;
+ ​jane.​ardrey@ l stmed.​ac. u k
+ 
+<section> ‘Pneumonia has gone’:
+ 
+<section> perceptions of health
+ 
+<section> intervention trial in rural
+ 
+<section> Jane Ardrey , 1 Kate Jehan, 2 Caroline Kumbuyo,
+ Kevin Mortimer, 4 Rachel Tolhurst
+ 
+<section> ABSTRACT
+ 
+<section> Introduction Air pollution through cooking on open
+ fires or inefficient cookstoves using biomass fuels has
+ been linked with impaired lung health and with over
+ 4 million premature deaths per annum. However, use
+ of cleaner cookstoves is often sporadic and there are
+ indications that longer-­term health benefits are not
+ prioritised by users. There is also limited information
+ about how recipients of cookstoves perceive the health
+ benefits of clean cooking interventions. We therefore
+ conducted a qualitative study alongside the Cooking and
+ Pneumonia Study (CAPS).
+ 
+<section> Methods Qualitative methods and the participatory
+ methodology Photovoice were used in an in-­depth
+ examination of health perceptions and understandings
+ of CAPS trial participants. Fifty participants in five CAPS
+ intervention villages collected images about cooking.
+ These were discussed in village-­level focus groups and
+ in interviews with 12 representative participants. Village
+ community representatives were also interviewed. Four
+ female and eight male CAPS fieldworkers took part in
+ gender-­specific focus groups and two female and two
+ male fieldworkers were interviewed. A thematic content
+ approach was used for data analysis.
+ 
+<section> Results We found a disconnect between locally
+ situated perceptions of health and the biomedically
+ focused trial model. This included the development
+ of potentially harmful understandings such as that
+ pneumonia was no longer a threat and potential
+ confusion between the symptoms of pneumonia
+ and malaria. Study participants perceived health
+ and well-­being benefits including: cookstoves saved
+ bodily energy; quick cooking helped maintain family
+ harmony.
+ 
+<section> Conclusion A deeper understanding of narratives
+ of health within CAPS showed how context-­specific
+ perceptions of the health benefits of cookstoves
+ were developed. This highlighted the conflicting
+ priorities of cookstove intervention researchers and
+ participants, and unintended and potentially harmful
+ health understandings. The study also emphasises
+ 
+<section> INTRODUCTION
+ the importance of including qualitative explorations in
+ similar complex interventions where potential pathways Household
+ to beneficial (and harmful) effects, cannot be completely issue
+ explicated through biomedical models alone. opment
+ relating
+ 
+<section> exploring
+ 
+<section> in a cookstove
+ 
+<section> Malawi
+ 
+<section> 3 Chifundo Ndamala,
+ 
+<section> Key questions
+ 
+<section> What is already known?
+ 
+<section> ► There is evidence that household air pollution from
+ the burning of solid fuels in open fires and inefficient
+ cookstoves is detrimental to health.
+ 
+<section> ► Cleaner burning cookstoves are available but are of-
+ ten used intermittently or in combination with less
+ clean alternatives.
+ 
+<section> ► The drivers of adoption of cleaner cookstoves are
+ multifactorial and embedded in gendered household
+ and community dynamics, with longer-­ term im-
+ proved health seldom prioritised.
+ 
+<section> What are the new findings?
+ 
+<section> ► A qualitative and participatory approach led to a
+ rich understanding of locally situated health-­based
+ priorities, which differed from the biomedical health
+ messages of the trial.
+ 
+<section> ► The development of ‘syncretic’ understandings of
+ the link between pneumonia and cookstoves, pos-
+ sibly inadvertently communicated through trial mes-
+ saging, may have potentially harmful unintended
+ consequences.
+ 
+<section> ► Users perceived the cookstoves as ‘healthier’ be-
+ cause they saved strength when lighting and tend-
+ ing, and because quick cooking facilitated family
+ harmony.
+ 
+<section> What do the new findings imply?
+ 
+<section> ► An important implication of these findings is that
+ health interventions and trials may result in unexpect-
+ ed and potentially harmful health understandings.
+ 
+<section> ► The health priorities of the implementors of techno-
+ logical interventions and those of users, may differ
+ considerably.
+ 
+<section> ► Gaining a deeper understanding of biosocial percep-
+ tions of health and well-­being within interventions
+ using qualitative and participatory methodologies,
+ can promote the health priorities of research partic-
+ ipants and militate against negative health impacts.
+ 
+<section> air pollution is a multisectoral
+ linked with several Sustainable Devel-
+ Goals (SDGs) with specific targets
+ to clean energy in homes, improving 
+<section> air quality and a reduction in air pollution-­related deaths
+ and illness. 1 It is estimated that in 2019 household air
+ pollution (HAP) from burning biomass fuels primarily
+ for cooking, contributed to 2.31 million deaths. 2 The
+ use of open fires or inefficient cookstoves for cooking
+ is widespread in many low-­income and middle-­income
+ countries (LMICs) 3 including in Malawi where 98% of
+ the population cook using biomass fuels.
+ HAP can lead to harmful and irreversible effects on
+ the lung and other health systems. 5 As the development
+ of lung and immune systems occurs both prenatally and
+ throughout early life, exposure to air pollution at these
+ times can be particularly detrimental. 5 HAP has also
+ been linked with respiratory infections in older children
+ and adults which are leading causes of morbidity and
+ mortality especially in LMICs. 3 Pneumonia in under-­5s
+ accounts for 15% of all deaths in this age group. 6 Chil-
+ dren and their mothers can be greatly exposed to HAP
+ where cooking using biomass fuels takes place.
+ The use of cleaner burning cookstoves has been
+ proposed as a solution to HAP by advocacy organisations
+ such as the Clean Cooking Alliance with suggested bene-
+ fits including environmental remediation and improved
+ health. 8 The Cooking and Pneumonia Study (CAPS) was
+ carried out in rural Malawi from 2013 to 2016 with the aim
+ of testing the hypothesis that the considerable burden of
+ pneumonia in under-­5s in this setting, could be attribut-
+ able to HAP from open fire cooking. Two cleaner burning
+ biomass cookstoves were given to households in interven-
+ tion villages and control village residents continued to
+ cook on open fires. 9 The trial found that there was no
+ evidence of a reduction of pneumonia in the intervention
+ group. Among the multifactorial reasons for this result, it
+ was suggested that sustained use of any cleaner cooking
+ interventions, whether cookstoves or fuels would need to
+ ‘achieve a high level of acceptance’ in order for health
+ benefits to be realised. 9 As Gordon et al describe, the use
+ of old and new technology alongside one another (so
+ called ‘stacking’), and a reduction or stopping of clean
+ cookstove use over time presents significant challenges to
+ clean cooking interventions generally.
+ Within clinical trials and most health-­based research, a
+ biomedical model of health predominates. However, this
+ biomedical framing is not the sole or even the dominant
+ framing of health among lay populations. For example,
+ in Greco et al’s exploration of well-­being among rural
+ Malawian women, the authors found that locally defined
+ quality of life measures extended beyond the material and
+ were ‘highly dependent on complex feelings, relations
+ and social norms’ that were vividly expressed by study
+ participants. 10 In addition, there can be important differ-
+ ences between the health perceptions and understand-
+ ings of health research participants, and the researchers
+ who instigate and conduct trials. 11
+ Social relationships within trials are likely to be influen-
+ tial but generally under-­researched or under-­recognised
+ in health research and policymaking. 13 14 One way to
+ explore these differences is through the lens of ‘medical
+ syncretism’ as described by Muela et al, 15 which suggests
+ that biomedical and local concepts of health might be
+ blended and merged to create understandings that may
+ differ from those intended.
+ There also appears to be a mismatch between the
+ emphasis on the health benefits of cookstoves as promoted
+ by researchers and implementors and the priorities of
+ cookstove users. 16 17 As described above, there are indica-
+ tions that cookstove users living in difficult circumstances
+ may prioritise other useful factors beyond longer-­term
+ ‘invisible’ health impacts. However, little is known about
+ how cookstove users perceive the impact of cookstoves
+ on their health. In this study, qualitative methods and
+ the participatory methodology Photovoice were used to
+ explore understandings of health within a large-­ scale
+ cookstove intervention, with the aim of encouraging a
+ greater emphasis on the health and well-­being of cook-
+ stove intervention recipients in low-­income settings.
+ Qualitative methods are often used as part of large-­
+ scale clinical trials, to explore in more detail the percep-
+ tions of participants and in recognition of the complexity
+ of the social contexts in which the research takes place.
+ In a mixed-­ method systematic review of barriers and
+ enablers to uptake of improved cookstoves, Rehfuess et
+ al found 31 factors that influence uptake but concluded
+ that while some are more important than others, none
+ can ensure sustained adoption. 19 Stanistreet et al carried
+ out an in-­depth analysis of the 14 qualitative studies iden-
+ tified, with the aim of exploring views of cookstove users
+ and stakeholders on these factors. 20 They concluded that
+ qualitative research ‘can provide a voice for the stove
+ user’ especially regarding contextual decision-­ making
+ about cookstove use.
+ While recognising the value of qualitative research in
+ exploring perceptions of health in a cookstove interven-
+ tion, the aim of this study was to move away from the
+ dichotomy of barriers and enablers, in order to chal-
+ lenge existing ‘hierarchies of knowledge’ 21 in global
+ health, including biomedical health narratives. In addi-
+ tion, the use of qualitative and participatory methodolo-
+ gies acknowledges that randomised controlled trials such
+ as CAPS have ‘deep social implications’ 14 including the
+ development and shifting of understandings of health.
+ Photovoice is rooted in the emancipatory thinking of
+ Paulo Freire, feminist research methodology and inclu-
+ sive documentary photography, and like other partici-
+ patory methodologies, it recognises that all people are
+ sources of expertise. 22 The methodology was initially
+ designed to explore perceptions of health 23–25 and has
+ been used in many contexts; examples in Malawi include
+ a study of well-­ being of palliative care patients 26 and
+ adolescent well-­being. 27 There has, however, been limited
+ use of the methodology in relation to cookstove interven-
+ tions, exceptions being the pilot work for this study 28 and
+ a study with potential users of portable gas cookstoves in
+ Cameroon.
+ Qualitative methods and the participatory method-
+ ology Photovoice were therefore combined in this study 
+<insert> Figure 1 Overview of timeline, methods, methodology and
+ participants. CAPS, Cooking and Pneumonia Study; COLT,
+ Community Liaison Team. 
+<iend>
+
+ with the overall aim of gaining a deeper understanding of
+ the sociocultural context of cookstove use within CAPS,
+ and the implications of this for future implementation
+ of clean cooking initiatives. One of the original research
+ objectives was to explore the perceived and experienced
+ benefits of using improved cookstoves from the perspec-
+ tives of trial participants and fieldworkers. This and the
+ other objectives were changed in response to inductively
+ derived findings to develop three research questions. In
+ this manuscript we report on health-­related findings that
+ respond to the following question: ‘How do CAPS partic-
+ ipants experience the trial and how is this linked with
+ understandings of health, technology, and the research
+ process?’. Other findings will be reported elsewhere.
+ 
+<section> METHODS
+ 
+<section> Study setting and design
+ This study was carried out in Chikwawa in rural Malawi.
+ In 2018, the World Bank estimated that over 50% of the
+ Malawian population were living in poverty due to limited
+ economic opportunities and reliance on low productive
+ agriculture. 30 The country has a high disease burden
+ and leading causes of mortality include childhood pneu-
+ monia 31 and non-­ communicable diseases. 32 Almost all
+ of the population, 98% in 2015, 4 cook using solid fuels
+ and HAP exposure is widespread. The Malawi-­Liverpool-­
+ Wellcome Trust Clinical Research Centre (MLW) has
+ carried out research in Chikwawa since 2002. 33 Their
+ Chikwawa site office was one of two bases for the CAPS
+ conducted between 2013 and 2016 9 and for this nested
+ qualitative study. A phased qualitative research study was
+ carried out between April and November 2016 using
+ observation, focus groups, interviews and the participa-
+ tory methodology Photovoice.
+ Photovoice was used in this study both in acknowledge-
+ ment of the effectiveness of the methodology in eluci-
+ dating the hidden in the everyday practice of cooking,
+ but also in recognition of the expertise of cooks in Chik-
+ wawa and their valuable experiential knowledge. 35 The
+ experience of the first author when piloting the meth-
+ odology within CAPS, indicated that Photovoice had the
+ potential to facilitate a deep exploration of the everyday
+ realities of participant’s lives and to militate against the
+ social desirability bias that might be anticipated in this
+ type of ‘nested’ study. 34 Social desirability bias is the
+ tendency of research participants to present themselves
+ favourably 36 and within CAPS could potentially have led
+ to overly positive reporting of cookstove benefits. Visual
+ methodologies such as Photovoice have been shown to
+ shift the focus of the research encounter towards partic-
+ ipants who collect and discuss images that reflect their
+ own concerns. 24 37
+ As delineated by the originators of Photovoice meth-
+ odology, the focus was on the definition and interpre-
+ tation of images by participants and not the images
+ themselves. 24 Photovoice activities therefore included
+ focus group discussions (FGDs) and interviews. In the
+ Photovoice FGDs the SHOWeD acronym employed by
+ 
+<section> Wang and Burris, that is: what do you See here?; what’s
+ really Happening here?; how does this relate to Our
+ lives?; Why does this problem or this strength exist?; what
+ can we Do about this? 39 was incorporated into the study
+ design to encourage wide ranging, open discussion.
+ In summary, this was a qualitative study in which
+ methods of observation, FGDs and interviews were
+ blended with the participatory methodology Photovoice
+ in a flexible and iterative study design developed over
+ time, with three phases in April, July and November 2016
+ 
+<section> as shown in figure
+ 
+<section> Study participants
+ 
+<section> The study sample included three groups: CAPS trial
+ participants, fieldworkers and Community Liaison Team
+ members (CoLTs). The role of the CoLT within MLW is
+ similar to that of other Community Advisory Groups in
+ comparable settings. CoLTs are residents of places where
+ MLW carry out research and an important part of their
+ role is to identify and feedback the concerns of research
+ participants to MLW. 40 CAPS trial participants were from
+ five intervention villages. The study villages were purpo-
+ sively selected as representative of the wider CAPS cohort
+ using factors such as size, availability of facilities such as
+ school and clinics and access to trading centres.
+ The main selection criterion for Photovoice partici-
+ pants was gender; eight women and two men from each
+ village were recruited in recognition of the primary role
+ of women as family cooks and of the unequal intrahouse-
+ hold power of men, in this context. 41 This sample was also
+ purposively selected to include a range of ages, female
+ heads of households and non-­users of cookstoves. Each
+ village had an assigned CoLT member who was recruited
+ for this study. They were all in their 40s, married with
+ children and had been CoLT members for some years;
+ two were women and three men. CAPS fieldworker
+ participants were symbolically representative of the wider
+ fieldworker group. That is, although they participated 
+<section> voluntarily and were not purposively selected, the group
+ represented a range of ages, experience, seniority and
+ gender. There were 12 fieldworkers recruited, eight
+ were men and four women which reflected the existing
+ unequal gender mix. From these 12, four fieldworkers
+ were interviewed, two women and two men; they were all
+ in their 30s and had been CAPS fieldworkers from the
+ outset of the study.
+ In each of the five selected villages, the following activ-
+ ities were carried out: observation of a cooking session;
+ Photovoice training, image collection and focus group;
+ semi-­structured interviews with three Photovoice and one
+ observation participant. The latter designation refers to
+ the women that prepared a meal while being observed
+ by the CAPS Qualitative Research Assistant (CK) and
+ the first author (JA). In two of the villages the observa-
+ tion participant was also a Photovoice participant. The
+ CoLT members for each village were interviewed and
+ asked: to share their views on how CAPS participants
+ viewed the trial and whether it had beneficial or negative
+ impacts; about family structures in Chikwawa and how
+ family members spent their time; what is good health for
+ someone living in Chikwawa. Eight male fieldworkers and
+ four female fieldworkers participated in gender-­specific
+ FGDs in which they discussed any differences between
+ CAPS and other research, whether CAPS was beneficial
+ for participants and barriers and motivators of adoption
+ of the cookstoves. From those groups, two male and two
+ female fieldworkers were interviewed, to explore more
+ deeply the potential benefits of cookstoves, how this may
+ be linked with gendered household roles, illiteracy and
+ religious beliefs and what fieldworkers thought partici-
+ pants understood by the term pneumonia.
+ The Photovoice element of this study was informed
+ by pilot work described elsewhere. 34 In each selected
+ village, there were three stages in the Photovoice process.
+ First, Photovoice participants were trained in the use of a
+ 
+<section> Figure 2 Photovoice focus group discussion SHOWeD questions.
+ 
+<section> digital camera by a local photographer and advised about
+ potential problems that may be encountered, with an
+ emphasis on the avoidance of risk. CK then explained the
+ aim of the Photovoice process and facilitated a discussion
+ of the ethical collection of images. Each participant was
+ asked to collect 50 images over 5 days showing: what they
+ ate; how this food was cooked; who cooked the food; who
+ they cooked and ate with. Participants were informed
+ that they could take 20 images for themselves to keep.
+ After 5 days, the cameras were collected and taken to
+ the nearest town to be processed. The first 75 images
+ on each camera were printed off and distributed to
+ the photographers at village level focus groups. FGDs
+ took place in local village facilities such as schools or
+ communal buildings. The images selected for discussion
+ by the participants were spread out on large sheets of
+ paper on the floor and grouped into discussion themes,
+ in line with the process of selecting and contextualising of
+ images recommended by Wang and Burris. 22 Practically,
+ participants selected the images they wanted to discuss
+ and began the contextualisation by grouping together
+ images related to a specific topic. Example discussion
+ themes included types of cooking apparatus such as
+ open fires and types of cookstoves but also related to the
+ growing, preparation and sharing of food. An amended
+ version of the SHOWeD acronym 39 was used as shown
+ in figure 2 to encourage deeper discussion of the story
+ behind the images. Figure 3 shows a Photovoice FGD in
+ progress in Village 2 with participants gathered around
+ grouped images so that all had the opportunity to view
+ and contribute to the discussion
+ Finally, in November 2016, semi-­structured interviews
+ were carried out with selected Photovoice participants
+ and the observation participants, informed by interim
+ analysis. Interviewees were asked: about food they had
+ cooked the previous day including where it was obtained,
+ how it was cooked and who shared it; to reflect on any 
+<insert> Figure 3 Photovoice focus group discussion in progress in
+ Village 
+<iend>
+
+ 
+<insert> Table 1 Photovoice participant demographic details
+ Village Gender Age range List of participant occupations
+ 8 female
+ 2 male
+ 24–32
+ 28–50
+ Bicycle hire; casual labourer; subsistence farmer (7 as primary occupation and 3
+ as secondary).
+ 8 female
+ 2 male
+ 20–65
+ 23–32
+ Bicycle hire; casual labourer; subsistence farmer (7 as primary occupation and 3
+ as secondary).
+ 8 female
+ 2 male
+ 23–38
+ 46–51
+ Sells doughnuts; sells maize; builder; guard; subsistence farmer (6 as primary
+ occupation and 2 as secondary); pastor.
+ 8 female
+ 2 male
+ 18–35
+ 30–36
+ All—primary occupation of subsistence farmer; shop owner; charcoal burner.
+ 8 female
+ 2 male
+ 20–49
+ 23–53
+ Sells doughnuts; shop owner; pump attendant; sells phones; commercial farmer;
+ subsistence farmer (6 primary occupation and 3 as secondary). 
+<iend>
+
+ health impacts of the intervention cookstoves; and how
+ any saved time from faster cooking was used.
+ Demographic details of Photovoice participants are in
+ 
+<section> table
+ An overview of the timeline, methods/methodology
+ used and participants, is shown in figure 1. The first
+ author (JA) was present for and co-­ordinated all activities
+ with the exception of two of the fieldworker interviews.
+ CK led on the selection of participants, conducted the
+ remaining two fieldworker interviews and provided trans-
+ lation throughout.
+ 
+<section> Data analysis
+ 
+<section> All focus groups and interviews were recorded using
+ digital recorders and translation and transcription was
+ carried out by CK and the MLW translation and tran-
+ scription team. Thematic data analysis was completed by
+ JA using the framework approach, a visual method using
+ matrices to facilitate comparison of data. 42 Data was coded
+ inductively, and the same codes were applied across the
+ data set. The following steps were undertaken: familiarisa-
+ tion with transcript content; coding of each transcript to
+ develop a set of codes and subcodes; creation of a frame-
+ work of all codes; summarising of data within framework;
+ development of categories through collated codes; final
+ mapping and interpretation. Inductive interim analysis
+ was carried out between the July and November data
+ collection periods to guide the development of interview
+ topic guides. The framework analysis process facilitated
+ the development of three research questions congruent
+ with the overall study aim.
+ 
+<section> Patient and public involvement
+ Photovoice participants were free to collect and
+ discuss images that were important to them and there-
+ fore contributed to data collection and analysis. Each
+ Photovoice village group also selected 10 images for exhi-
+ bition and appointed two representatives who presented
+ and discussed these at Photovoice exhibitions in the local
+ community.
+ 
+<section> RESULTS
+ 
+<section> Analysis of data from this study suggests that there was a
+ divide between CAPS participants’ largely local and social
+ understanding of health, which emphasises well-­being,
+ and the biomedical messages that underpinned the CAPS
+ trial and are inherent to much of MLW’s research. These
+ local understandings of health can be described under
+ three thematic areas. Theme 1, definitions of good health in
+ Chikwawa provides the context for themes 2 and 3: trans-
+ formation of understandings of pneumonia and unanticipated
+ health benefits of cookstoves.
+ 
+<section> Theme 1: definitions of good health in Chikwawa
+ Although CoLT members had a key role in the imple-
+ mentation of CAPS, including facilitating community
+ meetings and fieldwork activities, when asked about good
+ health in Chikwawa, they did not mention pneumonia or
+ the potential health benefits of cookstoves. Instead they
+ linked health with various factors specific to the local
+ environment and particularly the prevalence of hunger
+ linked with precarious livelihoods largely reliant on agri-
+ culture.
+ CoLT members described a healthy person as having
+ a secure livelihood and access to food. That is, someone
+ 
+<section> who:
+ 
+<section> is working, maybe on the farm, who has surplus food at his
+ house. (CoLT member Village 1) 
+<section> uses it [money] properly for their health…when buying
+ your food, you should consider all six groups of food.
+ 
+<section> (CoLT member Village 4)
+ 
+<section> On the other hand, an unhealthy person is described
+ 
+<section> as follows:
+ 
+<section> [M]aybe we can say that the woman, children or the man,
+ they may not be healthy as it is hard to obtain food in our
+ area. (CoLT member Village 2)
+ 
+<section> Study participants described how people needed to
+ be physically able to carry out work for them to obtain
+ enough food for a healthy life. Owning land and livestock
+ was also seen as important for promoting good health,
+ as this provided the means to grow crops or rear animals
+ that could be consumed or sold for profit. However,
+ agriculture was also seen as potentially unreliable and
+ multiple livelihood sources were recommended.
+ CoLT members also suggested that those who are not
+ able to provide for their families are lacking in educa-
+ tion; this is seen to lead to ‘ignorance’ and a healthy life
+ is dependent on making informed decisions. Conversely,
+ those who attend school are better able to plan their
+ families and provide for their education and nutrition.
+ Interviewees connected ill-­ health with being finan-
+ cially insecure and struggling to provide for families, as
+ 
+<section> described below:
+ 
+<section> So, maybe we should say that the healthy life is that one
+ which does not have another thought [that is, no worries]
+ and also maybe your children are few, you have given birth
+ to few children, then it means the food is enough at the
+ home so then they say this lady is healthy. (female CoLT
+ 
+<section> member Village 2)
+ 
+<section> Worry and ‘thinking too much’ were sometimes seen as
+ linked with marital infidelity and leading to loss of appe-
+ tite and hopelessness.
+ 
+<section> First, worries cause a person to be in bad health because
+ you think too much…you cannot eat because you are
+ thinking too much. For those in marriages it can be quar-
+ rels, maybe the husband or wife is having extra marital af-
+ fairs so once they start thinking about that they think too
+ much and even about hanging themselves. (male CoLT
+ 
+<section> member Village 4)
+ 
+<section> In this way, CoLT members clearly described the perva-
+ sive impact of family discord as detrimental to health
+ and well-­being, linking this with the insecure food and
+ livelihood context of Chikwawa, which provides daily
+ challenges.
+ 
+<section> Theme 2: transformation of understandings of pneumonia
+ As detailed in the introduction, CAPS did not result in a
+ reduction in childhood pneumonia in study intervention
+ villages. Despite this, when discussing the benefits of the
+ trial, CAPS participants suggested that there had been a
+ significant decrease in incidence of the disease. A female
+ 
+<section> Photovoice participant said that:
+ 
+<section> With the coming of this research we saw that pneumonia
+ has decreased…Yes, we can say that all of us present here
+ can give testimonies…Yes, when all the women received
+ these stoves, we have not heard of any children ill with
+ pneumonia. (female CAPS trial participant Village 3 FGD)
+ 
+<section> CAPS fieldworkers provided some indication of why
+ CAPS trial participants reported that pneumonia had
+ gone. They played a crucial role in all trial processes in
+ villages including communicating extensively with the
+ participants about the possibility of a link between pneu-
+ monia and cookstoves. Although trial participants knew
+ about childhood pneumonia and many would have had
+ personal experience of its devastating impact, the poten-
+ tial link with cookstoves was a new factor.
+ Male fieldworkers who participated in the FGDs agreed
+ that CAPS seemed ‘so scientific’ to the trial participants
+ during the initial sensitisation stage and during field visits,
+ suggesting that this information was not in their frame of
+ reference and needed to be interpreted. They reported
+ that CAPS participants rarely mentioned pneumonia,
+ but one FGD member described how those trial partici-
+ pants ‘with a little bit of knowledge’ described how pneu-
+ monia was prevented because the cookstoves created a
+ gas that then circulated through the house (male CAPS
+ fieldworker). Others agreed that many CAPS participants
+ formulate their own understandings and rationalisations
+ of the link between cookstoves and pneumonia.
+ This issue was probed more deeply in the semi-­
+ structured interviews with CAPS trial participants. By
+ this stage (November 2016), many of the cookstoves had
+ stopped working due to problems with the battery or
+ other maintenance issues. This resulted in a shift in the
+ narrative with interviewees suggesting that pneumonia
+ had come back after the cookstoves became defunct.
+ They commonly referred to pneumonia ‘going’ and
+ ‘coming back’, although it was not clear whether these
+ descriptions were metaphorical (referring to a decline in
+ pneumonia) or indicating a literal ‘distancing’ of pneu-
+ monia (through some mechanism of the cookstoves).
+ When asked why pneumonia may have ‘gone’, inter-
+ viewees reported their own experience of this phenom-
+ enon as in the example below:
+ 
+<section> [Now that use of cookstoves has been] abandoned, when
+ going to the hospital…you will hear that children are be-
+ ing diagnosed with pneumonia. (female CAPS trial partici-
+ 
+<section> pant Village 5 interviewee)
+ 
+<section> The cookstoves were also linked with a reduction of
+ other diseases including malaria and some participants
+ suggested that receipt of the cookstoves alone (and
+ not their use) led to these beneficial effects, as in this
+ 
+<section> statement:
+ 
+<section> Ever since [we received the cookstoves] the child has nev-
+ er been diagnosed at the hospital with either pneumonia
+ or malaria or any other disease. (female CAPS trial partici-
+ 
+<section> pant Village 4 interviewee)
+ 
+<section> In the CAPS fieldworker interviews, these ideas were
+ explored further, and the response of interviewees indi-
+ cates that existing understandings of pneumonia were 
+<insert> Figure 4 Image of older woman blowing on fire to light it.
+ fire is going down, then add in our firewood while that one
+ [the cookstove], even when the firewood is ending, when
+ we want to add the firewood, it will still blow it. (female
+ CAPS trial participant Village 2 FGD) 
+<iend>
+
+ changed through participation in CAPS. This included
+ positive developments such as greater awareness of child-
+ hood pneumonia. However, there were also indications
+ that existing ideas of pneumonia were merged with new
+ understandings resulting in potentially negative conse-
+ quences such as confusion between symptoms of pneu-
+ monia and other diseases, and delay in treatment seeking
+ for pneumonia.
+ For example, a female fieldworker explained that
+ through CAPS science communication activities, partic-
+ ipants had more understanding of the extent of child-
+ hood pneumonia and that it can be life-­threatening. A
+ male CAPS fieldworker suggested that CAPS had resulted
+ in earlier identification of pneumonia instead of at a
+ later, more severe stage, where the child is ‘breathing fast
+ and whistling’ (male CAPS fieldworker).
+ However, both male and female CAPS fieldworker inter-
+ viewees also described how CAPS had resulted in cook-
+ stoves being associated with pneumonia. As described by
+ a male fieldworker:
+ 
+<section> …the use of the word pneumonia in minds of the partic-
+ ipants, I think the word was mostly used when they are
+ talking to us …when we are [introducing the cookstoves]
+ we are bringing the word pneumonia, I think there was
+ little [knowledge about pneumonia before the trial] in the
+ minds of participants.
+ 
+<section> A female fieldworker suggests that participants not
+ only began to associate cookstoves and pneumonia, but
+ also to link the intervention with prevention of disease
+ 
+<section> generally, as below:
+ 
+<section> Because we said this is a study for cooking and pneumonia
+ … they say this is the end of the pneumonia diseases once
+ they receive the cook stove… [whereas some] take every
+ disease as pneumonia, not the real pneumonia [that is,
+ they confuse pneumonia with other diseases and associate
+ the cookstoves with the decline of diseases in general].
+ In summary, CAPS resulted in the development of new
+ understandings of pneumonia among trial participants.
+ There were indications of potentially positive impacts
+ through increased knowledge about symptoms. However,
+ participants also reported that pneumonia had ‘gone’
+ because they had received cookstoves and appeared
+ to link the receipt of cookstoves with improved disease
+ management in general. Unanticipated and novel health
+ benefits of cookstoves to CAPS participants were also
+ identified and will be discussed in the next section.
+ 
+<section> Theme 3: unanticipated perceived health and well-being
+ 
+<section> benefits of cookstoves
+ CAPS trial participants, CoLT members and fieldworkers
+ agreed that cookstoves were seen as healthier because it
+ was not necessary to blow on them during lighting and
+ throughout cooking. This view is clearly expressed in a
+ 
+<section> CAPS participant Photovoice FGD as follows:
+ Those ones [participant points to a photo of an open fire]
+ need us to blow air into, while the other ones blow them-
+ selves… we will just be taking our firewood and see that the
+ In some cases, descriptions of this benefit include
+ references to smoke inhalation and suggestions that
+ ‘not blowing’ and reduced smoke were linked with the
+ perceived reduction in pneumonia. For example, when
+ asked why he thought pneumonia had declined, a CoLT
+ 
+<section> member said:
+ 
+<section> I believe because the parents were now using the cook-
+ stoves, because they no longer blew the air. They no longer
+ had difficulties to blow fire. There was no smoke. (male
+ 
+<section> CoLT member Village 4)
+ 
+<section> When discussing this benefit, respondents also referred
+ to the particular difficulty that elderly, infirm people or
+ pregnant women had when they needed to tend an open
+ fire, as illustrated in figure 4 and described below:
+ [There was] no need for me to bend or blow air, the cook-
+ stove is blowing the air for me up until I gave birth. (female
+ CAPS trial participant Village 1 FGD)
+ 
+<section> The difficulty described by a CoLT member of
+ convincing CAPS participants to enrol in ancillary studies,
+ indicates how in this context, breath may be seen as some-
+ thing to conserve and linked with bodily strength. These
+ substudies of CAPS involved the temporary installation of
+ household air monitors in homes or spirometry tests. She
+ said those refusing to participate did not ‘think about
+ their health but that you are exhausting their breath’
+ (CoLT member Village 2). Conversely, cookstoves were
+ therefore valued as cooks did not need to expend breath
+ and strength during use. This direct health benefit to
+ cookstove users only became evident through continued
+ use of the cookstoves and appears to have been an unan-
+ ticipated aspect of the cookstove both to CAPS partici-
+ pants, workers and researchers. This shows that accessing
+ the expertise of (primarily female) cooks can identify
+ context-­specific health drivers of cookstove use. 
+<section> A second benefit of cookstoves identified by CAPS
+ participants is closely linked to the local context of
+ juggling farming activities with other work and school
+ commitments of families. CAPS trial participants describe
+ how they value cookstoves as they allow food to be cooked
+ more quickly than is possible with open-­fire methods.
+ For example, referring to grouped images of different
+ cooking methods in the FGD in Village 1:
+ 
+<section> On the three stone fire, the food takes a long time to be
+ ready and charcoal stoves make you to be too late because
+ [it needs to] catch fire …while that one which has a fan
+ [the intervention cookstove] …in a short period of time
+ the water is warm, even nsima is ready in a short time (fe-
+ male CAPS trial participant Village 1 FGD)
+ 
+<section> This faster cooking is linked with women having more
+ time for other household responsibilities including
+ farm work and more opportunity for rest. However, this
+ feature is also valued because it facilitates timeliness, that
+ is, it allows cooking to be done or occur within a favour-
+ able time. For hungry families who are carrying out hard
+ manual work growing crops on ‘gardens’ not close to their
+ homes, this is a valuable feature. In addition, farming in
+ Chikwawa, whether on a small or larger scale, is often
+ combined with informal, insecure and often arduous
+ work outside the home. As discussed earlier, participants
+ defined good health as having enough to eat, which in
+ turn depended on the ability to participate in precarious
+ livelihood options.
+ A male COLT member describes this benefit:
+ [W]e saw that once we are back from the garden, within
+ 10 minutes 20 minutes everything is ready. (CoLT member
+ 
+<section> Village 4)
+ 
+<section> A female CAPS trial participant suggests that faster
+ 
+<section> cooking is helpful as:
+ 
+<section> …the food gets prepared so fast that the children do go
+ to school, and the husband does go to work in good time.
+ And it also makes things fast so that if the husband is hun-
+ gry, in just a little bit of time, if you are cooking beans, it
+ gets cooked in just a little bit of time. (female CAPS trial
+ 
+<section> participant Village 1 FGD)
+ 
+<section> Overall, time saving through cookstoves is seen as
+ beneficial by CAPS participants as it allows them more
+ free time and to be on time for school and work commit-
+ ments. Time saved contributes to family harmony for
+ both these reasons, and because it allows hungry people
+ to be fed quickly. Although it has been suggested that
+ faster cooking is linked with time-­saving and increased
+ economic opportunities for women and school attend-
+ ance of girls, 43–45 the specific benefit of timeliness and the
+ link with household harmony and therefore improved
+ health has not previously been identified.
+ 
+<section> DISCUSSION
+ Syncretic understandings of health within CAPS
+ Although biomedicine is the dominant model in global
+ health systems, it is itself a cultural construct related
+ to changing European perceptions of the body in the
+ nineteenth century. 46 Although medical research and
+ biomedically oriented trials are often beneficial for popu-
+ lation health through impacts on health policy and treat-
+ ment, the pervasiveness of biomedicine, has been linked
+ with the extension of the power of medical professionals
+ and with colonisation. 47 Kleinman’s influential character-
+ isation of health systems as medically pluralistic, suggests
+ that in most contexts differing medical traditions in the
+ professional, traditional and popular sector coexist.
+ However, proponents of medical syncretism argue that
+ a binary view of ‘biomedical’ versus ‘lay’ or ‘traditional’
+ concepts often over-­simplifies the ways in which ideas
+ about health are always changing, including the incor-
+ poration of biomedical into lay concepts and vice versa.
+ Medical syncretism also places more emphasis on prac-
+ tice as ‘a creative process in which we must recognize
+ the role of invention, innovation, and disorder’. 46 This
+ is illustrated by Muela et al with regard to perceptions of
+ ‘fever’ and ‘malaria’ in a highly researched Tanzanian
+ community, who showed how ‘people are not a “blank
+ slate” but ‘process new information on the basis of what
+ they already know’’. 15 Similarly, in a study investigating
+ understandings of fever and malaria in the ACTia trial
+ which preceded CAPS in Chikwawa, Ewing et al found
+ that the health information from ACTia was intermin-
+ gled with what was already known, resulting in differing
+ interpretations of fever which in turn impacted on
+ treatment seeking. 49 The authors of a systematic review
+ of care-­ seeking for childhood diarrhoea, malaria and
+ pneumonia in sub-­Saharan Africa also concluded that
+ there are often considerable differences between how
+ researchers and study participants perceive illness.
+ The results of this qualitative study suggest that CAPS
+ participant understandings of health were changed
+ through participating in the trial, in that people’s inter-
+ pretation of trial health messaging created a new linkage
+ between cookstoves and pneumonia. The distinction
+ between comprehension and interpretation made by
+ Downie et al provides a useful way of exploring how
+ these changes occurred. The authors suggest that inter-
+ pretation is closely linked with the ‘thinking frame-
+ work’ of the recipient. 51 CAPS participants were asked
+ to comprehend health messages communicated via the
+ trial and mediated through CoLT members and CAPS
+ fieldworkers. Their interpretation of these biomedical
+ health narratives provided another layer of complexity
+ and the possibility of misunderstandings and unexpected
+ consequences.
+ It appears that this interpretation included the idea that
+ cookstoves prevent pneumonia. Participant descriptions
+ of why this may be the case were often complicated, and
+ there was some confusion between pneumonia and other
+ bio-­medically defined diseases, particularly malaria. It is
+ clear however that this led to health understandings that
+ could potentially have harmful consequences, in the light
+ of the negative findings of the main CAPS trial. That is,
+ it did not lead to a reduction in incidence of pneumonia 
+<section> in under-­5s. 9 Therefore, there was little benefit in associ-
+ ating cookstoves with ‘no pneumonia’, and the potential
+ for harm if such understandings led to delayed treatment
+ seeking for pneumonia or other diseases. More widely,
+ this illustrates the complex challenge of communicating
+ trial objectives to participants and the potential of misin-
+ terpretation within a non-­biomedical understanding of
+ health.
+ 
+<section> The importance of considering local understandings of health
+ The health and well-­being benefits of cookstoves identi-
+ fied by CAPS participants are novel and situated in daily
+ practice and a context of food and livelihood insecurity.
+ They differ from the health benefits of cookstoves as
+ described in the introduction, which are wide-­ranging
+ and largely expressed within a biomedical framework. By
+ contrast, the health benefits of saving strength through
+ not blowing, and timeliness improving family harmony,
+ are local and social, linking to wider well-­being. 10 This
+ finding also indicates that researchers and cookstove
+ intervention participants may have differing health
+ priorities. If cookstoves are promoted for their benefi-
+ cial impact on longer-­term health, for example, as by the
+ Malawian cookstove movement Mbaula, 52 the opportuni-
+ ties may be missed both to produce cookstoves that meet
+ the health needs of users, and that are used more consist-
+ ently over the longer-­term.
+ Studies that use qualitative methods and participatory
+ methodologies have been shown to provide insight into
+ understandings that bridge biomedical and social aspects
+ of health. For example, Avotri and Walters demon-
+ strated how, in contrast to a common research focus on
+ disease and reproductive health in low-­income settings,
+ Ghanaian women emphasised how their productive roles
+ and ongoing financial insecurity led to ‘worrying too
+ much’, headaches and debilitating tiredness. 53 Similarly,
+ in Bates et al’s Photovoice study of the well-­being of palli-
+ ative care patients in urban Malawi, the authors found
+ that ‘emotional well-­being, social functioning and contri-
+ bution’ were key and that ability to work and well-­being
+ were closely linked.
+ The use of the participatory methodology Photo-
+ voice in this study allowed a deeper understanding of
+ the potential health and well-­ being benefits of cook-
+ stoves within a specific context. When asked to collect
+ images about the cooking process, Photovoice partic-
+ ipants collected and discussed images of growing and
+ processing food and in doing so extended the context
+ of the cooking process beyond the home to encompass
+ all activities referred to by Meah as ‘foodwork’. 55 That
+ is, they included planting, tending and harvesting crops
+ and the preparation and sale of food, therefore making
+ clear that the local economic environment of insecure
+ farming and other work was linked with ‘foodwork’ and
+ ultimately, cookstove use.
+ These results demonstrate that the health impacts of
+ the cookstoves as a technological intervention were bioso-
+ cial, suggesting that it may be important for researchers
+ to pay attention to health as a social construction and
+ interventions as social processes. Through their partici-
+ pation in the trial, cookstove users realised that there was
+ an alternative to open-­fire cooking that preserved their
+ breath and energy and allowed them to provide meals
+ quickly for fractious family members. In this way, the
+ possibility of achieving good health as locally defined was
+ enhanced.
+ 
+<section> Implications for further research
+ The results of this study have key implications for
+ further research into clean cooking and for health-­based
+ research in low-­income settings at the local, national, and
+ global level.
+ The findings suggest that within MLW and similar
+ research institutions based in low-­income settings, the
+ design of further clinical trials and science communi-
+ cation initiatives would benefit from a deeper under-
+ standing of how biomedical health information is merged
+ with existing knowledge. In addition, in recognition that
+ new health knowledge that is developed may not always
+ be helpful, researchers would benefit from capturing
+ unanticipated and unintended consequences of under-
+ standings of health, through ongoing process analysis of
+ trials.
+ The unexpected health and well-­being benefits ascer-
+ tained in this study of cookstoves, that is, facilitating
+ timeliness and saving strength through not blowing,
+ have implications at the local and national level. There
+ are ongoing cookstove initiatives in Malawi including the
+ US$1.1. million Malawi Clean Cooking Fund launched in
+ 2020 and various non-­governmental projects that could
+ use these findings to maximise the chances that their
+ interventions have a positive impact on health and well-­
+ being. That is, through guiding the development of cook-
+ stoves that meet the needs of cooks and their families, in
+ terms of usability and enhancing well-­being.
+ Globally, these results imply that health researchers
+ working in low-­ income settings and particularly the
+ implementors of clean cooking interventions, should
+ prioritise exploration of the locally situated health prior-
+ ities of participants. This is important to assess whether
+ such interventions meet the priorities of recipients, are
+ beneficial to the target population, and how any benefits
+ should be defined and measured.
+ At all levels, local, national and global, these results
+ suggest that qualitative methods and the participatory
+ methodology Photovoice can be valuable when exploring
+ complex health understandings. This facilitates in-­depth
+ exploration of how knowledge of health is shaped in
+ RCTs and other large-­scale interventions and makes a
+ valuable contribution to the interpretation of clinical
+ results and to implementation.
+ 
+<section> Strengths and limitations
+ This was a small-­ scale qualitative study carried out in
+ a specific highly researched location and generalisa-
+ tion of the results is therefore limited. The Photovoice 
+<section> element of the research was carried out over a short
+ time period which has been identified as a limiting
+ factor when assessing the participatory basis of such
+ research. 56 As other Photovoice researchers have found,
+ see for example Bates et al discussion of the difficulty of
+ visualising discrimination, 54 the ‘intangible’ concept of
+ ‘health’ required further probing in interviews. In addi-
+ tion, regarding the health perceptions findings, no explo-
+ ration was carried out prior to the trial, since this change
+ was unintended. However, Photovoice allowed the direct
+ engagement of CAPS participants as researchers who
+ reflected on and communicated the challenges and
+ highlights of their daily lives. The positionality of the
+ first author was considered reflexively throughout the
+ research process and Photovoice was incorporated into
+ the research design to mitigate the outsider status of the
+ first author and any trial-­related social desirability bias.
+ Triangulation of sources through including fieldworkers
+ and CoLT members in exploring health perceptions of
+ CAPS participants, enhanced trustworthiness of findings
+ such as the linkage between pneumonia and cookstoves.
+ The use of qualitative methods combined with Photo-
+ voice methodology therefore facilitated a deeper
+ understanding of the health-­related concerns of CAPS
+ participants. This highlighted the benefits of qualita-
+ tive enquiry in foregrounding the health priorities of
+ research participants and enhanced the credibility of the
+ findings.
+ 
+<section> CONCLUSION
+ CAPS suggested that a cleaner burning biomass-­fuelled
+ cookstove intervention alone would not prevent pneu-
+ monia in young children in Malawi. However, CAPS trial
+ participants made clear that a link between cookstoves
+ and pneumonia ‘going away’ was established which
+ may have detrimental impacts. This demonstrates the
+ complexities of communicating intended trial outcomes
+ and how these may potentially be misunderstood. The
+ gulf between health understandings of researchers
+ and CAPS participants was also evident from the unex-
+ pected contribution to well-­being of timeliness and ‘not
+ blowing’. In contexts such as Malawi, cookstoves are
+ likely to continue to be part of the mix of clean energy
+ solutions that will be necessary to achieve the SDGs.
+ Gaining in-­ depth understanding through qualitative
+ methods and participatory methodologies can help
+ bridge the divide between cookstove implementors and
+ users 58 and may ultimately contribute towards the devel-
+ opment of approaches that enhance the health and well-­
+ being of the billions of people exposed to HAP.
+ 
+<section> Acknowledgements The authors gratefully acknowledge the contribution of
+ all study participants. The image shown in Figure 4 was taken by Photovoice
+ participant Tomasi Kamphiripiri. This research would not have been possible
+ without the support of Stephen Gordon and other MLW team members, especially
+ CAPS fieldworkers Andrew Nuanje and Emma Nyirenda, and the Science
+ Communication Team.
+ 
+<section> Contributors JA, KM and RT conceived the study; JA and CK collected the data
+ with guidance from RT, and support in the field from CN; JA analysed the data with
+ guidance from KJ, RT and ND; JA wrote the manuscript with inputs from all authors
+ who also approved the final submitted version.
+ 
+<section> Funding This study was funded by the BREATHE-­Africa Partnership (grant number
+ MR/L009242/1), jointly funded by the UK Medical Research Council (MRC) and
+ the UK Department for International Development (DFID) under the MRC/DFID
+ Concordat agreement, and the CAPS Joint Global Health Trials grant funded by the
+ Wellcome Trust, MRC, Department of International Development UK (reference, MR/
+ K006533/1). We thank the NIHR Global Health Research Unit on Lung Health and TB
+ in Africa at LSTM—‘IMPALA’ for helping to make this work possible. In relation to
+ 
+<section> IMPALA (grant number 16/136/35) specifically: IMPALA was commissioned by the
+ National Institute for Health Research (NIHR) Global Health Research (GHR) using
+ UK aid from the UK Government. The views expressed in this publication are those
+ of the author(s) and not necessarily those of the NIHR or the Department of Health
+ and Social Care.
+ 
+<section> Competing interests None declared.
+ 
+<section> Patient and public involvement Patients and/or the public were not involved in
+ the design, or conduct, or reporting, or dissemination plans of this research.
+ 
+<section> Patient consent for publication Not applicable.
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data availability statement All data relevant to the study are included in the
+ article or uploaded as supplemental information.
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution 4.0 Unported (CC BY 4.0) license, which permits
+ others to copy, redistribute, remix, transform and build upon this work for any
+ purpose, provided the original work is properly cited, a link to the licence is given,
+ and indication of whether changes were made. See: https://​creativecommons.​org/​
+ licenses/​by/​4.​0/.
+ 
+<section> ORCID iD
+ 
+<section> Jane Ardrey http://​orcid.​org/​0000-​0003-​4558-​5113
+ 
+<section> REFERENCES
+ 1 World Health Organisation. Sustainable development goals for
+ household energy, 2020. Available: https://www.​who.​int/​airpollution/​
+ household/​sustainable-​development-​goals/​en/
+ 2 Health Effects Institute. State of global air 2019. Boston, 2019.
+ 3 Gordon SB, Bruce NG, Grigg J, et al. Respiratory risks from
+ household air pollution in low and middle income countries. Lancet
+ Respir Med 2014;2:823–60.
+ 4 National Statistical Office/Malawi and ICF. Malawi demographic and
+ health survey 2015-­16. Zomba, Malawi: National Statistical Office
+ and ICF, 2017.
+ 5 Schraufnagel DE, Balmes JR, Cowl CT, et al. Air pollution and
+ noncommunicable diseases: a review by the forum of international
+ respiratory societies' environmental Committee, part 1: the
+ damaging effects of air pollution. Chest 2019;155:409–16.
+ 6 World Health Organisation. Pneumonia: key facts, 2020. Available:
+ https://www.​who.​int/​news-​room/​fact-​sheets/​detail/​pneumonia
+ 7 Schraufnagel DE, Balmes JR, Cowl CT, et al. Air pollution and
+ noncommunicable diseases: a review by the forum of international
+ respiratory societies' environmental Committee, part 2: air pollution
+ and organ systems. Chest 2019;155:417–26.
+ 8 Global alliance for clean Cookstoves. impact areas, 2017. Available:
+ http://​cleancookstoves.​org/​impact-​areas
+ 9 Mortimer K, Ndamala CB, Naunje AW, et al. A cleaner burning
+ biomass-­fuelled cookstove intervention to prevent pneumonia
+ in children under 5 years old in rural Malawi (the cooking and
+ pneumonia study): a cluster randomised controlled trial. Lancet
+ 2017;389:167–75.
+ 10 Greco G, Skordis-­Worrall J, Mkandawire B, et al. What is a good
+ life? selecting capabilities to assess women's quality of life in rural
+ Malawi. Soc Sci Med 2015;130:69–78.
+ 11 Molyneux CS, Wassenaar DR, Peshu N, et al. 'Even if they ask
+ you to stand by a tree all day, you will have to do it (laughter).!':
+ community voices on the notion and practice of informed consent
+ for biomedical research in developing countries. Soc Sci Med
+ 2005;61:443–54.
+ 12 Fairhead J, Leach M, Small M. Where techno-­science meets
+ poverty: medical research and the economy of blood in the Gambia,
+ West Africa. Soc Sci Med 2006;63:1109–20. 
+<section> 13 Phiri M, Gooding K, Nyirenda D, et al. "Not just dogs, but rabid
+ dogs": tensions and conflicts amongst research volunteers in
+ Malawi. Glob Bioeth 2018;29:65–80.
+ 14 Montgomery CM, Pool R. From ‘trial community’ to ‘experimental
+ publics’: how clinical research shapes public participation. Crit
+ Public Health 2017;27:50–62.
+ 15 Muela SH, Ribera JM, Mushi AK, et al. Medical syncretism with
+ reference to malaria in a Tanzanian community. Soc Sci Med
+ 2002;55:403–13.
+ 16 Stanistreet D, Hyseni L, Puzzolo E, et al. Barriers and Facilitators
+ to the Adoption and Sustained Use of Cleaner Fuels in Southwest
+ 
+<section> Cameroon: Situating ‘Lay’ Knowledge within Evidence-­Based Policy
+ and Practice. Int J Environ Res Public Health 2019;16:4702.
+ 17 Thurber MC, Warner C, Platt L, et al. To promote adoption of
+ household health technologies, think beyond health. Am J Public
+ Health 2013;103:1736–40.
+ 18 O'Cathain A, Thomas KJ, Drabble SJ, et al. What can qualitative
+ research do for randomised controlled trials? A systematic mapping
+ review. BMJ Open 2013;3:e002889.
+ 19 Rehfuess EA, Puzzolo E, Stanistreet D, et al. Enablers and barriers
+ to large-­scale uptake of improved solid fuel stoves: a systematic
+ review. Environ Health Perspect 2014;122:120–30.
+ 20 Debbi S, Elisa P, Nigel B, et al. Factors influencing household uptake
+ of improved solid fuel stoves in low- and middle-­income countries:
+ a qualitative systematic review. Int J Environ Res Public Health
+ 2014;11:8228–50.
+ 21 Crewe E, Axelby R. Hierarchies of knowledge. In: Anthropology and
+ development: culture, morality and politics in a Globalised world.
+ 
+<section> Cambridge: Cambridge University Press, 2012: 131–56.
+ 22 Wang C, Burris MA. Photovoice: concept, methodology, and
+ use for participatory needs assessment. Health Educ Behav
+ 1997;24:369–87.
+ 23 Wang CC, Yi WK, Tao ZW, et al. Photovoice as a participatory health
+ promotion strategy. Health Promot Int 1998;13:75–86.
+ 24 Wang CC. Photovoice: a participatory action research strategy
+ applied to women's health. J Womens Health 1999;8:185–92.
+ 25 Wang CC, Pies CA. Family, maternal, and child health through
+ photovoice. Matern Child Health J 2004;8:95–102.
+ 26 Bates MJ, Ardrey J, Mphwatiwa T, et al. Enhanced patient research
+ participation: a Photovoice study in Blantyre Malawi. BMJ Support
+ Palliat Care 2018;8:171–4.
+ 27 Zietz S, de Hoop J, Handa S. The role of productive activities in the
+ lives of adolescents: Photovoice evidence from Malawi. Child Youth
+ Serv Rev 2018;86:246–55.
+ 28 Adkins E, Tyler E, Wang J, et al. Field testing and survey evaluation
+ of household biomass cookstoves in rural sub-­Saharan Africa.
+ 
+<section> Energy Sustain Dev 2010;14:172–85.
+ 29 Ronzi S, Puzzolo E, Hyseni L, et al. Using photovoice methods as a
+ community-­based participatory research tool to advance uptake of
+ clean cooking and improve health: the LPG adoption in Cameroon
+ evaluation studies. Soc Sci Med 2019;228:30–40.
+ 30 World Bank. World development report 2012: gender equality
+ and development. In: Population and development review. ,
+ 
+<section> 2012: 38, 178–9.
+ 31 McAllister DA, Liu L, Shi T, et al. Global, regional, and national
+ estimates of pneumonia morbidity and mortality in children younger
+ than 5 years between 2000 and 2015: a systematic analysis. Lancet
+ Glob Health 2019;7:e47–57.
+ 32 Price AJ, Crampin AC, Amberbir A, et al. Prevalence of obesity,
+ hypertension, and diabetes, and cascade of care in sub-­Saharan
+ 
+<section> Africa: a cross-­sectional, population-­based study in rural and urban
+ Malawi. Lancet Diabetes Endocrinol 2018;6:208–22.
+ 33 Malawi-­Liverpool Wellcome Trust Clinical Research Centre.
+ Chikwawa, 2019. Available: https://www.​mlw.​mw/​index.​php/​
+ 
+<section> chikwawa.​html
+ 34 Ardrey J, Desmond N, Tolhurst R, et al. The cooking and pneumonia
+ study (CAPS) in Malawi: a nested pilot of Photovoice participatory
+ research methodology. PLoS One 2016;11): :e0156500.
+ 35 Crewe E. The silent traditions of developing cooks. In: Discourses
+ of development : anthropological perspectives. Oxford, New York:
+ Berg, 1997.
+ 
+<section> 36 Krumpal I. Determinants of social desirability bias in sensitive
+ surveys: a literature review. Qual Quant 2013;47:2025–47.
+ 
+<section> 37 Lambe FS. Identifying behavioural drivers of cookstove use: a
+ household study in Kibera. Nairobi: Stockholm Environment Institute,
+ 2015.
+ 38 Castleden H, Garvin T, Huu-­ay-­aht First Nation. Modifying
+ Photovoice for community-­based participatory Indigenous research.
+ 
+<section> Soc Sci Med 2008;66:1393–405.
+ 39 Wang C, Burris MA. Empowerment through photo novella: portraits
+ of participation. Health Educ Q 1994;21:171–86.
+ 40 Nyirenda D, Sariola S, Gooding K, et al. 'We are the eyes and ears of
+ researchers and community': understanding the role of community
+ Advisory groups in representing researchers and communities in
+ Malawi. Dev World Bioeth 2018;18:420–8.
+ 41 Fingleton-­Smith E. The lights are on but no (men) are home.
+ The effect of traditional gender roles on perceptions of energy
+ in Kenya. Energy Res Soc Sci 2018;40:211–9. doi:10.1016/j.
+ 
+<section> erss.2018.01.006
+ 42 Braun VC. Using thematic analysis in psychology. In: Qualitative
+ research in psychology. Routledge, 2006: 77–101.
+ 43 Simkovich SM, Williams KN, Pollard S, et al. A systematic review to
+ evaluate the association between clean cooking technologies and
+ time use in low- and middle-­income countries. Int J Environ Res
+ Public Health 2019;16. doi:10.3390/ijerph16132277. [Epub ahead of
+ print: 27 Jun 2019].
+ 44 Rewald R. Energy and Women and Girls Analyzing the Needs Uses
+ and Impacts of Energy on Women and Girls in the Developing World.
+ 
+<section> In: Oxfam research Backgrounder series. Oxfam, 2017. https://www.​
+ 
+<section> oxfamamerica.​org/​explore/
+ 45 Cundale K, Thomas R, Malava JK, et al. A health intervention or
+ a kitchen appliance? household costs and benefits of a cleaner
+ burning biomass-­fuelled cookstove in Malawi. Soc Sci Med
+ 2017;183:1–10.
+ 46 Pool R, Geissler W. Medical systems and medical syncretism. In:
+ Medical anthropology. England: Open University Press, 2005.
+ 47 Lock MM, Nguyen V-­K. Anthropologies of Medicine. In: An
+ anthropology of biomedicine. Wiley-­Blackwell, 2010.
+ 48 Kleinman A. Patients and healers in the context of culture : an
+ exploration of the borderland between anthropology, medicine, and
+ psychiatry. In: Comparative studies of health systems and medical
+ care. Berkeley: University of California Press, 1980.
+ 49 Ewing VL, Tolhurst R, Kapinda A, et al. Understanding interpretations
+ of and responses to childhood fever in the Chikhwawa district of
+ Malawi. PLoS One 2015;10:e0125439–18.
+ 50 Colvin CJ, Smith HJ, Swartz A, et al. Understanding careseeking
+ for child illness in sub-­Saharan Africa: a systematic review and
+ conceptual framework based on qualitative research of household
+ recognition and response to child diarrhoea, pneumonia and malaria.
+ 
+<section> Soc Sci Med 2013;86:66–78.
+ 51 Downie RS, Tannahill C, Tannahill A. Health promotion: models and
+ values. 2 edn. Oxford medical publications, 1996.
+ 52 MBAULA. Why we need cookstoves, 2020. Available: http://www.​
+ mbaula.​org/​about/​why-​we-​need-​cookstoves/
+ 53 Avotri JY, Walters V. "You just look at our work and see if you have
+ any freedom on earth": Ghanaian women's accounts of their work
+ and their health. Soc Sci Med 1999;48:1123–33.
+ 54 Bates MJ, Mphwatiwa T, Ardrey J, et al. Household concepts of
+ wellbeing and the contribution of palliative care in the context of
+ advanced cancer: a Photovoice study from Blantyre, Malawi. PLoS
+ One 2018;13:e0202490.
+ 55 Meah A. Reconceptualizing power and gendered subjectivities in
+ domestic cooking spaces. Prog Hum Geogr 2014;38:671–90.
+ 56 Catalani C, Minkler M. Photovoice: a review of the literature in health
+ and public health. Health Educ Behav 2010;37:424–51.
+ 57 IEA, UNSD, World Bank, WHO. Tracking SDG 7: the energy progress
+ report, 2020.
+ 58 McCarron A, Uny I, Caes L, et al. Solid fuel users' perceptions of
+ household solid fuel use in low- and middle-­income countries: a
+ scoping review. Environ Int 2020;143:105991.

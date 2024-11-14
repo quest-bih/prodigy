@@ -1,0 +1,1167 @@
+
+<section> INTERVENTIONS
+ 
+<section> ORIGINAL RESEARCH PAPER
+ 
+<section> Effectiveness of non-medical health worker-led
+ counselling on psychological distress: a randomized
+ 
+<section> controlled trial in rural Nepal
+ 
+<section> N. Markkula 
+<section> 1,2,3 , V. Lehti 
+<section> 1,2,4,5 , P. Adhikari , S. Peña 
+<section> 5,7 , J. Heliste 
+<section> 2,8,9 , E. Mikkonen ,
+ M. Rautanen 
+<section> 2,10 , E. Salama 
+<section> 2,11,12 and B. Guragain 
+<section> *
+ 
+<section> Department of Psychiatry, Helsinki University and Helsinki University Hospital, Helsinki, Finland
+ 
+<section> 2 
+<section> Physicians for Social Responsibility – Finland, Helsinki, Finland
+ 
+<section> 3 Programa de Estudios Sociales en Salud, Facultad de Medicina Clínica Alemana Universidad del Desarrollo
+ Research Centre for Child Psychiatry, University of Turku, Turku, Finland
+ 
+<section> 5 Department of Public Health Solutions, the National Institute for Health and Welfare, Helsinki, Finland
+ 
+<section> 6 
+<section> Centre for Victims of Torture, Kathmandu, Nepal
+ Facultad de Medicina, Universidad Diego Portales, Santiago, Chile
+ 
+<section> Institute of Biomedicine, University of Turku, Turku, Finland
+ 
+<section> 9 Institute for Molecular Medicine Finland, University of Helsinki, Helsinki, Finland
+ 
+<section> 10 
+<section> Psychiatric Hospital for Prisoners, Vantaa, Finland
+ 
+<section> 11 Department of Child Psychiatry, Turku University Hospital and University of Turku, Turku, Finland
+ 
+<section> 12 Doctoral Programme in Clinical Research, University of Turku, Turku, Finland
+ 
+<section> Global Mental Health (2019), 6, e15, page 1 of 11. doi:10.1017/gmh.2019.15
+ 
+<section> Background. An essential strategy to increase coverage of psychosocial treatments globally is task shifting to non-med-
+ ical counsellors, but evidence on its eﬀectiveness is still scarce. This study evaluates the eﬀectiveness of lay psychosocial
+ counselling among persons with psychological distress in a primary health care setting in rural Nepal.
+ 
+<section> Methods. A parallel randomized controlled trial in Dang, rural Nepal (NCT03544450). Persons aged 16 and older
+ attending primary care and with a General Health Questionnaire (GHQ-12) score of 6 or more were randomized (1:1)
+ to receive either non-medical psychosocial counselling (PSY) or enhanced usual care (EUC). PSY was provided by lay
+ persons with a 6-month training and consisted of 5-weekly counselling sessions of 35–60 min with a culturally adapted
+ solution-focused approach. EUC was provided by trained primary health workers. Participants were followed up at
+ (T1) and 6 months (T2). The primary outcome, response to treatment, was the reduction of minimum 50% in the Beck
+ Depression Inventory (BDI) score.
+ 
+<section> Results. A total of 141 participants, predominantly socially disadvantaged women, were randomized to receive PSY
+ and 146 to EUC. In the PSY, 123 participants and 134 in the EUC were analysed. In PSY, 101 participants (81.4%)
+ had a response compared with 57 participants (42.5%) in EUC [percentage diﬀerence 39.4% (95% CI 28.4–50.4)]. The dif-
+ ference in BDI scores at T2 between PSY and EUC was −7.43 (95% CI −9.71 to −5.14).
+ 
+<section> Conclusions. Non-medical (lay) psychosocial counselling appears eﬀective in reducing depressive symptoms, and its
+ inclusion in mental health care should be considered in low-resource settings.
+ 
+<section> Received 17 December 2018; Revised 8 April 2019; Accepted 19 June 2019
+ 
+<section> Key words: Common mental disorders, lay
+ 
+<section> counselling, Nepal, randomized controlled trial,
+ 
+<section> * Address for correspondence: B. Guragain, Centre for Victims of
+ task shifting.
+ Torture, Kathmandu, Nepal.
+ 
+<section> (Email: bhushan@cvict.org.np)
+ 
+<section> © The Author(s) 2019. This is an Open Access article, distributed under the terms of the Creative Commons Attribution
+ licence (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted re-use, distribution, and reproduction in
+ 
+<section> any medium, provided the original work is properly cited
+ 
+<section> Published online by Cambridge University Press 
+<section> Introduction
+ 
+<section> There is a vast treatment gap in mental disorders glo-
+ bally: approximately one in four persons with common
+ mental disorders has received treatment (Alonso et al.,
+ 
+<section> 2018; Araya et al., 2018). The gap is wider in develop-
+ ing countries, where human resources for mental
+ health are extremely scarce (Chisholm et al., 2016b;
+ De Silva et al., 2014; Kakuma, 2011). In 2011 there
+ was an estimated lack of 1.2 million mental health pro-
+ fessionals in low and middle-income countries
+ (Kakuma, 2011), and since then the global number of
+ psychiatrists has decreased or remained stable
+ (WHO, 2018).
+ Psychosocial interventions, also in their culturally
+ adapted forms, have been shown to be eﬀective in
+ the treatment of common mental disorders
+ (Chowdhary et al., 2014; De Silva et al., 2013).
+ However, extending the availability of psychosocial
+ interventions is particularly challenging, as they
+ depend solely on the availability of human resources.
+ Also, the focus on disease-speciﬁc treatment packages
+ and stigma contribute to the low coverage of psycho-
+ logical therapies (Singla et al., 2017). Providing psycho-
+ social counselling for common mental disorders,
+ without disease-speciﬁc focus, at a primary care setting
+ might help overcome some of these challenges.
+ One essential strategy to tackle this challenge of lack-
+ ing workforce is task shifting (or task sharing), mean-
+ ing ‘delegating tasks to existing or new cadres with
+ either less training or narrowly tailored training’
+ (Kakuma, 2011; Shidhaye et al., 2015). Traditionally,
+ lay (non-medical) health workers have occupied sup-
+ porting roles in mental health care, providing support
+ to family members, ensuring adherence and assisting
+ in outreach activities (Kakuma, 2011). Nevertheless,
+ there are promising results of their role in providing
+ psychological treatment (van Ginneken et al., 2013).
+ A systematic review reported 27 trials of psychological
+ treatments provided by nonspecialist providers with a
+ combined eﬀect size of 0.49 in favour of the interven-
+ tion (Singla et al., 2017). Other systematic reviews
+ have also been carried out with similar ﬁndings
+ (Joshi et al., 2014). An economic evaluation of one inter-
+ vention showed it to be not only cost-eﬀective but also
+ cost-saving (Buttorﬀ et al., 2012).
+ Some limitations of the existing evidence are its lack
+ of scale-up measures, lack of indigenous elements and
+ the fact that a majority of studies have focused exclu-
+ sively on women (Singla et al., 2017). The requirement
+ of ongoing, structured supervision provided by
+ experts has been considered a particular challenge for
+ scale-up, and peer supervision could be one potential
+ solution. Exploration of which indigenous elements
+ would be eﬀective in lay counselling was considered
+ a key element for further research (Singla et al., 2017).
+ In this study in rural Nepal, we expanded previous
+ research by using ﬂexible, non-structured supervision
+ and included indigenous elements such as breathing
+ exercises and relaxation to strengthen the cultural per-
+ tinence of the intervention.
+ Nepal is a low-income country facing many eco-
+ nomic, political, environmental and social challenges,
+ and has a high burden of mental disorders (Luitel
+ et al., 2013). The treatment gap is particularly wide:
+ according to a general population study, only 8% of
+ persons with current depression had received any
+ treatment, and only 2% attended primary care, while
+ others had sought help from traditional healers and
+ mental health professionals (Luitel et al., 2017). The
+ barriers to seeking treatment relate to stigma and the
+ high cost of care. There is a vast lack of human
+ resources in the mental health sector: there are approxi-
+ mately 50 psychiatrists and 20 psychologists in a coun-
+ try of 29 million population (Luitel et al., 2015).
+ Primary care workers are perceived as overburdened
+ with multiple duties, and there is a lack of psycho-
+ tropic medications and of monitoring and supervision
+ in mental health (Luitel et al., 2015).
+ The low available resources and high demand for
+ mental health care highlight the need to assess alterna-
+ tive options for delivering eﬀective treatments to psy-
+ chological problems in Nepal. This study aimed to
+ assess the eﬀectiveness of psychosocial counselling as
+ practised by non-medical psychosocial counsellors in
+ improving the mental health outcomes of persons
+ with psychological distress in a primary health care
+ setting in rural Nepal.
+ 
+<section> Methods
+ 
+<section> Study design
+ 
+<section> We conducted a parallel randomized controlled trial
+ with a 1:1 allocation ratio. The study has been regis-
+ tered in clinicaltrials.gov (NCT03544450) and no
+ changes in the methods occurred after trial registra-
+ tion. The Consolidated Standards for Reporting Trials
+ (CONSORT) were followed for reporting the trial.
+ 
+<section> Setting
+ 
+<section> The study was carried out in Dang district, Western
+ Nepal. Dang has a population of approximately
+ 000 and was one of the most aﬀected regions in the
+ Nepal Maoist conﬂict (1996–2006). The intervention
+ was carried out in two government health posts:
+ Sisaniya and Gadawa health centres (Sisaniya has
+ been upgraded to district hospital since the trial).
+ These health posts were chosen because they were 
+<section> considered to represent typical characteristics of the
+ region, and were willing to cooperate in the study
+ and provide the necessary physical space and assist-
+ ance. The health posts cover areas of 21 000 and 12
+ 500 persons, respectively, and are staﬀed by health
+ assistants, auxiliary nurse-midwives, nurses and mid-
+ wives, and in Sisaniya also a medical doctor and
+ administrative staﬀ. The health workers have 1.5–3
+ years of formal training and are hired by the
+ Ministry of Health.
+ The study was carried out as part of a development
+ cooperation project named ‘Developing a Community
+ Model of Mental Health Care in Nepal’ funded by
+ the Ministry for Foreign Aﬀairs, Finland. The project
+ aimed to increase the availability of eﬀective treatment
+ for mental health problems at government health facil-
+ ities in Dang through outreach activities in the commu-
+ nity; empowerment and advocacy eﬀorts; training
+ primary health care workers in detection and treat-
+ ment, and providing psychosocial counselling.
+ Ethical permission was granted by the Nepal Health
+ Research Council (NHRC).
+ 
+<section> Participants
+ 
+<section> Adults visiting Sisaniya and Gadawa health posts were
+ informed about the study by the health workers and
+ invited to participate. A written informed consent
+ was obtained from potential participants, and consent-
+ ing participants were then screened for eligibility by
+ two research assistants. Inclusion criteria were: (1)
+ age 16 years or older, (2) scoring 6 or above on the
+ General Health Questionnaire (GHQ-12) (Koirala
+ et al., 1999), (3) being able to ﬂuently communicate in
+ Nepali, (4) residence in Dang for the subsequent
+ months. The GHQ was scored as 0 or 1 for each ques-
+ tion (GHQ scoring method), and a score of 7 or higher
+ was deﬁned as psychological distress (Patel et al.,
+ 2008). Persons with severe illnesses or conditions
+ requiring urgent attention, such as psychotic symp-
+ toms or suicidality, were excluded and provided
+ appropriate treatment (consultation of a psychiatrist
+ and medication, if necessary). Suicidality was assessed
+ with the question ‘Do you often think a lot about
+ death, either your own, someone else’s, or death in
+ general?’, and history of a psychotic disorder with
+ the question ‘Has the person previously experienced
+ a psychotic episode?’. This question was usually pre-
+ sented to the accompanying person. Current psychotic
+ symptoms were assessed clinically. Eligible partici-
+ pants were invited to take part in the RCT.
+ 
+<section> Intervention
+ 
+<section> The intervention was psychosocial counselling [19]
+ consisting of ﬁve 45-min appointments, two in the
+ ﬁrst week and weekly meetings in weeks 2–4. The
+ intervention focuses on problem-solving, emotional
+ support and coping strategies, and skills. On a theoret-
+ ical level, the training programme was inﬂuenced by
+ the principles of medical anthropology by Arthur
+ Kleinman, such as being aware and encouraging trad-
+ itional practices and local explanatory models and
+ idioms of distress (Tol et al., 2005). The content of the
+ training was tailored to individual participant needs,
+ but included always the following components: (i)
+ introduction, explanation, and rapport building; (ii)
+ assessment of an understanding of the problem
+ (including looking for positive assets); (iii) goal setting
+ (asking the client what outcomes are preferred); (iv)
+ problem management (exploring and identifying solu-
+ tions, brainstorming, working with existing coping
+ strategies, using social and cultural resources, and add-
+ itional techniques such as relaxation and
+ psycho-education); (v) implementation (making a
+ plan of action and transition); and, ﬁnally, (vi) termin-
+ ation of counselling. Details on the intervention have
+ been published elsewhere (Jordans et al., 2003; Tol
+ et al., 2005).
+ The counsellors delivering the intervention were lay
+ persons with a minimum of 12 years of education com-
+ pleted who had received a 6-month training in psycho-
+ social counselling provided by Centre for Victims of
+ Torture. The training included components of theoret-
+ ical background, basic therapeutic skills, components
+ of cognitive-behavioural therapy, problem-solving,
+ exposure therapy, yoga and meditation. Other require-
+ ments for the counsellors were work experience in
+ counselling (minimum 3 years), knowledge of Tharu
+ language spoken in Dang, good communication skills,
+ and ability to apply diﬀerent therapeutic techniques.
+ Additionally, persons already living in Dang were
+ prioritised in the recruitment, to increase the sustain-
+ ability of the intervention.
+ If needed, the counsellors had the opportunity to
+ receive advice from senior counsellors or project dis-
+ trict coordinator in person or a psychologist or medical
+ doctor over the phone. Local and telephone supervi-
+ sion was carried out as needed, typically 1–3 times a
+ week. Additionally, ﬁeld supervision was organized
+ every 2 months, when the team visited Dang. In the
+ supervision meetings or phone calls, challenging
+ cases were discussed, the supervisors helped the coun-
+ sellors identify the main problem, and suggested suit-
+ able techniques to address the problem.
+ 
+<section> Enhanced usual care
+ 
+<section> The comparator was enhanced usual care (EUC). EUC
+ refers to the care available at the health posts given by
+ health workers who had been trained by the 
+<section> development cooperation project run by Centre for
+ Victims of Torture and Physicians for Social
+ Responsibility – Finland in which this study took
+ place. The health workers at both health posts had
+ received a 5-day training and a 3-day refresher training
+ in detection and treatment of mental disorders.
+ Psychotropic medication is supposedly available at
+ the health posts according to government guidelines,
+ but in practice the supply is inconsistent. Participants
+ in both arms were free to seek help at the health post.
+ 
+<section> Outcomes
+ 
+<section> All participants were assessed at the beginning of the
+ intervention (T0), immediately after the study (T1,
+ month) and after 6 months (T2) with the following
+ instruments: (1) the Beck Depression Inventory (BDI),
+ 21 item version (Beck et al., 1961; Kohrt et al., 2002),
+ (2) the Beck Anxiety Inventory (BAI) (Beck et al.,
+ 
+<section> 1988; Kohrt et al., 2004); and (3) the WHO Disability
+ Assessment Schedule (WHODAS) 12 item version 2.0
+ (Üstün et al., 2010).
+ The primary outcome, response to treatment, was
+ deﬁned as a reduction of minimum 50% in the BDI
+ 21-item version (score range 0–63) from T0 to T2. The
+ BDI is a self-reported depression questionnaire which
+ been extensively validated. The study used the
+ Nepali version, which showed acceptable overall val-
+ idity and reliability (α 0.85) (Kohrt et al., 2002). Using
+ a cut-oﬀ of 16/17, the speciﬁcity is 0.86 and sensitivity
+ 0.85. Items related to appetite loss, libido and being
+ punished were considered more problematic in terms
+ of validity and reliability, but their removal was not
+ recommended. Secondary outcomes were mean reduc-
+ tions in BDI, BAI, and WHODAS. The Nepali transla-
+ tion of the BAI has also shown good validity and
+ similar reliability to Western contexts (α 0.89), even
+ though items related to somatic symptoms appeared
+ to reduce the internal validity somewhat (Kohrt et al.,
+ 2004). The WHODAS, even though it has not been vali-
+ dated in Nepal, has been used in other studies, and it
+ was chosen for international comparability (Jordans
+ et al., 2019).
+ The initial trial sample size calculation was made
+ with the plan of using BDI as a continuous outcome
+ variable. However, later the primary outcome was
+ deﬁned as a 50% reduction in the BDI since this out-
+ come is widely used in other studies, has been vali-
+ dated as corresponding to a clinical assessment of
+ response (Riedel et al., 2010). No changes in the pri-
+ mary outcome were made after data collection began.
+ Data were collected by two research assistants who
+ interviewed the participants and ﬁlled in the data in
+ paper format and then entered it into an electronic
+ data sheet. The research assistants had received a
+ 10-day training in research methodology and basic
+ psychosocial support.
+ 
+<section> Sample size
+ 
+<section> The sample size calculation aimed to detect a diﬀer-
+ ence of three points on the BDI, leading to a minimum
+ sample size of 132 participants in each group (power =
+ 0.80, signiﬁcance level 5%, two-tailed test).
+ Considering the possible 30% attrition, the target for
+ recruitment was 176 persons per group, 352 in total.
+ 
+<section> Randomization
+ 
+<section> Participants were randomized to either EUC or the
+ psychosocial counselling intervention (PSY) using sim-
+ ple randomization and an online randomization chart
+ on 1:1 basis. After obtaining informed consent from
+ the participant, the research assistants called the
+ study coordinator, who carried out the randomization
+ at a site remote from the trial location and gave the
+ result on the phone. The allocation was thus concealed
+ to participants and research assistants.
+ 
+<section> Blinding
+ 
+<section> Blinding of participants and research counsellors was
+ not possible due to the nature of the intervention.
+ The baseline, 1-month and 6-month assessments were
+ performed by research assistants who had received a
+ 5-day training and were blinded to the allocation status
+ of the participants.
+ 
+<section> Statistical analysis
+ 
+<section> We used descriptive statistics to assess the balance
+ between trial arms at baseline. The primary
+ between-group analysis was carried out using an
+ intention-to-treat approach. Multilevel mixed-eﬀects
+ models were used to account for the correlation
+ among the repeated observations of the same subject
+ over time (Tang & Tu, 2012). Mixed models allow to
+ vary the number of observations within each partici-
+ pant, handling missing data more eﬀectively than
+ other analytical approaches (O’Connell et al., 2017;
+ Rahman et al., 2016). The likelihood ratio (LR) test
+ was used to compare the multilevel model with a
+ single-level regression. We also used the LR test to
+ examine diﬀerences by health post, which did not
+ improve the ﬁt of the model (p < 0.00001). Therefore,
+ we only adjusted for the repeated measurements and
+ not for clustering at the health post level.
+ The primary outcome (response to treatment)
+ was calculated using the following formula:
+ 
+<section> BDI 6m − BDI baseline × 100. This per cent change
+ 
+<section> BDI baseline
+ 
+<section> was then dichotomized into 1 (50% or more) or 
+<insert> Fig. 1. Flow chart of study participation. 
+<iend>
+
+ (less than 50%). A multilevel mixed-eﬀects logistic
+ regression model was ﬁtted. Time as dummy variables
+ and an interaction term between intervention group
+ and time (as dummy variable) were included as ﬁxed
+ eﬀects and participant as a random eﬀect. Predicted
+ margins were used to obtain predicted proportions
+ and percentage diﬀerence between intervention
+ groups and 95% conﬁdence intervals. We used the
+ melogit command that integrates ﬁxed and random
+ eﬀects since version 14 of Stata.
+ Similar analyses were carried out for secondary out-
+ comes using linear mixed-eﬀects models. The model
+ adjusts for baseline values to account for regression
+ to the mean. Diﬀerences in mean scores were obtained
+ from equation coeﬃcients (Twisk et al., 2018). The stan-
+ dardized mean diﬀerence for BDI was calculated by
+ dividing the diﬀerence in mean scores by the pooled
+ standard deviation using the formula from da Costa
+ et al. (2012). Mean BDI, BAI, and WHODAS at baseline,
+ T1 and T2 were obtained by calculating predicted ﬁt-
+ ted values which integrate ﬁxed and random eﬀects.
+ All analyses were carried out with Stata version 14.2
+ (Stata Corp., 2015). The code is available upon request.
+ 
+<section> Results
+ 
+<section> A total of 141 participants were randomized to receive
+ psychosocial counselling (PSY) and 146 participants
+ were randomized to EUC (Fig. 1). Data collection
+ began in May 2016 and ended in October 2017.
+ Seven persons were excluded at the screening phase
+ due to psychotic symptoms, and no one for suicidality.
+ No participants had suicidal behaviour during the
+ study, and no participant was excluded during the 
+<insert> Table 1. Baseline characteristics of 286 trial participants in rural
+ Nepal by intervention group
+ Psychosocial
+ counseling (PSY)
+ n =
+ Enhanced usual
+ care (EUC)
+ n = 
+<iend>
+
+ study. Participants at baseline were predominantly
+ female, with a low level of education, and married
+ with large families (Table 1).
+ Follow-up at T2 was achieved for 87.9% of the inter-
+ vention group and for 91.8% in the control group. Total
+ attrition was 10.1%. Reasons for lost to follow-up are
+ described in Fig. 1.
+ Table 2 shows the response to treatment by interven-
+ tion group. In PSY, 101 participants out of 124 (80.5%)
+ had a response (>50% reduction in BDI score), com-
+ pared with 57 participants out of 134 (41.1%) in EUC.
+ The percentage diﬀerence of PSY v. EUC was 39.4%
+ (95% CI 28.4–50.4).
+ The mean diﬀerences adjusted for baseline values in
+ BDI, BAI, and WHODAS between T0 and T2 are
+ shown in Table 3. At T2, the scores were 6.6 (95% CI
+ 5.5–7.6) in PSY and 14.0 (95% CI 12.7–15.3) in EUC.
+ 
+<section> Women 127 (90.7%) 135 (92.5%)
+ Age (years) 29.1 (10.6) 33.8 (11.7)
+ Illiteracy 17 (12.1%) 27 (18.5%)
+ 
+<section> Education
+ Informal 31 (25.4%) 57 (47.1%)
+ 
+<section> Primary 
+<section> 17 (14%) 
+<section> 19 (15.7%)
+ 
+<section> Lower 
+<section> 37 (30.3%) 
+<section> 15 (12.4%)
+ 
+<section> secondary
+ High school or 37 (30.3%) 37 (27.7%)
+ 
+<section> above
+ 
+<section> Ethnicity
+ Brahmin 28 (33.3%) 28 (27.2%)
+ 
+<section> Tharu 
+<section> 48 (57.1%) 
+<section> 58 (56.3%)
+ 
+<section> Magar 8 (9.5%) 
+<section> 15 (14.6%)
+ 
+<section> Other 
+<section> 2 (2%)
+ 
+<section> Religion
+ 
+<section> Hindu 
+<section> 124 (87.9%) 
+<section> 132 (91%)
+ 
+<section> Muslim 2 (1.4%) 1 (0.7%)
+ Christian 15 (10.7%) 12 (8.3%)
+ 
+<section> Marital status
+ Unmarried 21 (14.9%) 11 (7.5%)
+ Married 108 (77.3%) 115 (78.8%)
+ 
+<section> Widow, 
+<section> 11 (7.8%) 
+<section> 20 (13.7%)
+ 
+<section> separated or
+ 
+<section> divorced
+ Family members 5.8 (2.6) 6.3 (3.3)
+ 
+<section> (mean)
+ BDI score mean 25 (8.9) 22 (8.6)
+ BAI score mean 21.9 (9.8) 19.4 (9.1)
+ WHODAS score 20 (9.4) 18 (10.4)
+ 
+<section> mean
+ 
+<section> Compared to EUC, at T2 the intervention group had
+ a lower BDI score (mean diﬀerence −7.43 95%
+ 
+<section> CI −9.71 to −5.14), a lower BAI score (mean diﬀerence
+ 
+<section> −5.42, 95% CI −7.59 to −3.27), and the lower
+ WHODAS score (mean diﬀerence −5.04, 95%
+ 
+<section> CI −7.33 to −2.74). The standardized mean diﬀerence
+ for BDI score was 0.72.
+ The corresponding ﬁgures for BAI and WHODAS
+ are presented in Fig. 2a–c.
+ 
+<section> Adherence to the intervention
+ 
+<section> The trial was planned to encompass ﬁve sessions, how-
+ ever, for more severe cases, one–two additional
+ appointments were scheduled if requested by the par-
+ ticipants. Altogether 104 participants (74.4%) received
+ a minimum of ﬁve sessions (61 participants received
+ six sessions and nine participants seven sessions).
+ The mean number of sessions received was 5.2. The
+ duration of treatment sessions was 35–60 min, which
+ in some cases diﬀered somewhat from the planned
+ 45 min due to study participants’ preferences.
+ 
+<section> Discussion
+ 
+<section> This randomized controlled trial aimed to assess the
+ eﬀectiveness of non-medical health worker-led psycho-
+ social counselling in a rural setting in Nepal. The inter-
+ vention was remarkably eﬀective: 81% of persons who
+ received the intervention had a response (minimum
+ 50% reduction in BDI score), compared with 41% of
+ persons in the control group. Also, secondary out-
+ comes, the BAI and the WHODAS, showed a substan-
+ tial reduction that was larger in the intervention than
+ in the control group.
+ 
+<section> Comparison with previous studies
+ 
+<section> The magnitude of the eﬀect of our intervention is in
+ line with a meta-analysis of 27 trials of lay psychosocial
+ treatments that found a standardized mean diﬀerence
+ of 0.49 (Singla et al., 2017). The review identiﬁed diﬀer-
+ ent elements of lay psychological treatments of which
+ the interpersonal, emotional, and nonspeciﬁc engage-
+ ment showed the strongest association with interven-
+ tion eﬀectiveness (Singla et al., 2017). Our
+ intervention emphasized the engagement between
+ the client and the counsellor and interpersonal ele-
+ ments, which are culturally relevant content.
+ Approaches such as breathing exercises and relaxation
+ are widely used in Nepal to relieve stress (Pramanik
+ et al., 2010; Naik et al., 2018), and we consider them a
+ cultural adaptation in this counselling intervention.
+ Surprisingly, relaxation was one of the least often
+ used methods in other similar trials (Singla et al., 2017). 
+<insert> Table 2. Response to treatment and percentage difference at 1 and 6 months by intervention group
+ 1 month 6 month
+ Response to treatment
+ Intervention
+ Control
+ 78 (65.0%)
+ 28 (20.2%)
+ Percentage difference
+ PSY v. EUC
+ 44.8% (34.6–54.9)
+ Response to treatment
+ 101 (80.5%)
+ 57 (41.1%)
+ Percentage difference
+ PSY v. EUC
+ 39.4% (28.4–50.4) 
+<iend>
+
+ 
+<insert> Table 3. Mean BDI, BAI, and WHODAS and difference mean scores at baseline and 6 months
+ Mean score (95% CI)
+ Psychological counselling Enhanced usual care
+ Difference mean scores
+ at 1 and 6 months 
+<iend>
+
+ The structure and delivery method of our interven-
+ tion were similar to the majority of other studies
+ reviewed by Singla et al. (2017). In most studies, the
+ psychological treatment was delivered by community
+ health workers, followed by peers or lay persons, as
+ in our case.
+ Varying deﬁnitions of lay health workers exist: for
+ example, in the successful trial of Chibanda et al.
+ 
+<section> (2011), health workers received a 9-day training in
+ counselling skills and problem-solving therapy. In
+ terms of training length, this is close to the training
+ provided in this trial to the health workers providing
+ EUC (5 days of training and 3 days of refresher
+ training), although the content was not focused on
+ counselling. In the literature, the duration of the
+ training for nonspecialist providers has varied from
+ 3 h to 2 months (Singla et al., 2017). Compared to
+ this, the 6-month training of the counsellors in
+ this study is signiﬁcantly longer and could have con-
+ tributed to our high response rate and low drop-out
+ rate. Therefore, the generalization of these results to
+ settings with less trained or experienced lay counsel-
+ lors is not straightforward. On the other hand, the
+ mean duration of the treatments in the review was
+ 10 weeks with a mean of 9.6 sessions, whereas the
+ 
+<section> BDI
+ Baseline 25.0 (24.1–26.0)
+ 1 month 10.6 (9.5–11.6)
+ 6 months 6.6 (5.5–7.6)
+ 
+<section> BAI
+ Baseline 21.9 (21–22.9)
+ 1 month 9.3 (8.3–10.3)
+ 6 months 5 (4–6)
+ 
+<section> WHODAS
+ Baseline 20 (18.9–21.1)
+ 1 month 9.1 (8–10.3)
+ 6 months 5.7 (4.5–6.8)
+ 
+<section> intervention provided in this study
+ 
+<section> (5.2 sessions).
+ 
+<section> Public health implications
+ Currently, the coverage of basic psychosocial
+ for depression in Nepal is estimated
+ et al., 2016a). To increase the coverage
+ with treatment coverage of other
+ atric problems and including both
+ ment and medications, is estimated
+ per capita (Chisholm et al., 2016a).
+ these costs would be due to psychosocial
+ This ﬁgure, even though small, is 14-fold
+ expenditure of 0.04 USD per capita.
+ lack of resources and the extremely
+ formally trained mental health
+ lay health workers as service providers
+ the only possible option to achieve
+ coverage of psychosocial treatments
+ near future.
+ In this study, the lay counsellors
+ training, which is longer than in
+ studies (Singla et al., 2017). The long
+ training could be seen as a limitation
+ 
+<section> 22.0 (20.8–23.3)
+ 
+<section> 18.1 (16.8–19.4)
+ 
+<section> 14.0 (12.7–15.3)
+ 
+<section> 19.4 (18.2–20.5)
+ 
+<section> 15.4 (14.3–16.6)
+ 
+<section> 10.8 (9.6–11.9)
+ 
+<section> 18 (16.6–19.4)
+ 
+<section> 15.1 (13.7–16.5)
+ 
+<section> 10.9 (9.5–12.3)
+ 
+<section> lasted 4 weeks
+ 
+<section> treatment
+ at 1% (Chisholm
+ 
+<section> to 30%, along
+ more severe psychi-
+ psychosocial treat-
+ 
+<section> to cost 0.56 USD
+ Only a fraction of
+ treatment.
+ 
+<section> to the current
+ Considering this
+ 
+<section> low numbers of
+ professionals, using
+ 
+<section> seems like
+ an increase in the
+ 
+<section> in Nepal in the
+ 
+<section> received a 6-month
+ most task shifting
+ 
+<section> duration of the
+ 
+<section> for scaling up
+ 
+<section> −7.48 (−9.76 to −5.21)
+ 
+<section> −7.43 (−9.71 to −5.14)
+ 
+<section> −5.87 (−8.02 to −3.72)
+ 
+<section> −5.42 (−7.59 to −3.27)
+ 
+<section> −5.67 (−7.95 to −3.38)
+ 
+<section> −5.04 (−7.33 to −2.74) 
+<insert> Fig. 2. The mean Beck Depression Inventory (A), Beck Anxiety Inventory (B) and WHO Disability Assessment Schedule (C)
+ scores in intervention (blue) and control (red) groups at 0, 1 and 6 months. 
+<iend>
+
+ the intervention. However, the tuition fee of training
+ one person as a counsellor is approximately 1000
+ USD, and after the initial investment, the trained lay
+ counsellors are able to provide eﬀective treatment
+ with relatively little support, as seen in this study.
+ Additionally, in the development project that this
+ research was related to, counsellors with the same
+ training and experience had other responsibilities in
+ addition to counselling: they had a supervisory and
+ supporting role with the government health workers
+ and female health volunteers providing basic psycho-
+ social support, and run outreach workshops at
+ communities and schools. Therefore, well-trained psy-
+ chosocial counsellors can potentially have a key role in
+ mental health care at the local level beyond the provi-
+ sion of counselling services.
+ Recently, a systematic review conﬁrmed that psy-
+ chotherapy may substantially reduce psychological
+ symptoms in areas that have suﬀered from disasters
+ and conﬂict (Purgato et al., 2018). The psychotherapies
+ in the reviewed trials were mostly provided by mental
+ health professionals. This study demonstrates that also
+ non-medical health worker-led counselling can be use-
+ ful in a region that has suﬀered a recent violent conﬂict
+ and several natural disasters.
+ The reason for using lay health workers to provide
+ psychosocial therapies is simple: there will never be
+ enough mental health professionals in any country to 
+<section> deliver psychological treatments for all that could beneﬁt
+ from them. In addition to speciﬁc techniques, non-
+ speciﬁc qualities such as the ability to form an empathic
+ relationship should also be assessed when recruiting lay
+ therapists (Singla et al., 2017). Strong support and super-
+ vision is generally considered a requirement for eﬀective
+ lay person delivered mental health care (Barnett et al.,
+ 2018) and could be a challenge for scaling up these inter-
+ ventions (Singla et al., 2017). However, in this study,
+ supervision was provided ﬂexibly as needed by other,
+ more experienced counsellors, a ﬁeld coordinator, and
+ a medical doctor by phone, and did not require an exces-
+ sive amount of resources. Based on this experience, it
+ appears that a structured, intensive supervision system
+ may not be mandatory for successful lay counselling,
+ as long as some support is available when needed.
+ Nevertheless, this approach to supervision requires
+ adequately trained and experienced lay counsellors.
+ Thus, compared with earlier literature, this study
+ demonstrates that the requirements for supervision
+ and length of the intervention may be less than previ-
+ ously thought if it is delivered by adequately trained
+ lay counsellors. Moreover, adding indigenous ele-
+ ments, such as relaxation and breathing exercises,
+ may be beneﬁcial for eﬀectiveness.
+ Additionally, it should be noted that the study was
+ carried out in the context of a development cooper-
+ ation project by two NGOs. It is our ﬁrm belief that
+ development projects should apply evidence-based
+ interventions, and if possible, should try to incorporate
+ elements to assess their eﬀectiveness with rigorous sci-
+ entiﬁc methods.
+ This study was part of a development cooperation
+ project that created structures to support the provision
+ of mental health services in the district in the future:
+ with support of local authorities, district and village
+ level mental health committee were founded, in add-
+ ition to training of health workers and sensitization
+ of the population through various outreach activities.
+ This broader approach not only aided in the recruit-
+ ment of study participants but also helped to sustain
+ the eﬀorts. After 6 years of continuous work in the dis-
+ trict, mental health is now incorporated into local pri-
+ mary health care, and counsellors were trained and
+ hired by local health authorities to work at the health
+ posts. After suﬃcient training, primary health workers
+ have been content with their role of providing basic
+ psychosocial support and referring to counsellors if
+ needed, while counsellors have also had a supervisory
+ role, and mental health care is provided as an integral
+ part of primary health care.
+ 
+<section> Limitations
+ 
+<section> Some limitations of the study should be noted. First,
+ the study population included few men, and therefore
+ the eﬀectiveness of the intervention could not be
+ assessed, and the results of the study cannot be gener-
+ alized to men. Second, the follow-up did not extend
+ beyond 6 months, and the long-term impact of the
+ intervention is unknown. Third, we were not able to
+ collect detailed information on other treatments
+ received, such as the use of antidepressant or other
+ medication or possible visits to other health-related
+ local resources such as traditional healers. However,
+ the study counsellors did not prescribe medications,
+ and therefore any diﬀerences between the two groups
+ are not likely to be due to the use of psychotropic
+ medication. Fourth, even though randomization proce-
+ dures were adhered to, there were some diﬀerences
+ between the two study groups in relation to education.
+ Fifth, the sample size calculation was based on the ini-
+ tial idea of using continuous BDI as the primary out-
+ come, but later, a categorical outcome of 50%
+ reduction in BDI was chosen. However, the sample
+ size was suﬃcient for the categorical outcome and
+ the study was adequately powered to detect the impact
+ of the intervention. Finally, the impact of caste was not
+ assessed speciﬁcally in this trial. Over half of the parti-
+ cipants were Tharus, an indigenous underprivileged
+ population residing in the Southern Himalaya
+ Region. Low castes (Dalit/Nepali) have been found to
+ have a greater prevalence of depression and anxiety
+ when compared with high castes. In Nepal, caste is
+ an important mediator of mental health (Kohrt et al.,
+ 2009), and its impact should be assessed in further
+ trials.
+ 
+<section> Conclusions
+ 
+<section> Upscaling the availability of psychosocial treatments is
+ a global challenge. In the past, the global mental health
+ movement has been criticized for being excessively
+ focused on the biomedical treatments for mental disor-
+ ders, but recently, eﬀorts have been made to include
+ more psychosocial components into basic care
+ packages (Hanlon et al., 2016). This randomized con-
+ trolled trial showed the eﬀectiveness of non-medical
+ led psychosocial counselling in reducing depressive
+ and anxiety symptoms and disability in a challenging
+ post-conﬂict low-income setting. Further trials in
+ Nepal should be scaled-up nationwide to provide
+ more generalizable ﬁndings. Low and middle-income
+ countries should consider including lay psychosocial
+ counselling as an integral part of mental health
+ systems.
+ 
+<section> Supplementary material
+ 
+<section> The supplementary material for this article can be
+ found at https://doi.org/10.1017/gmh.2019.15 
+<section> Acknowledgements
+ 
+<section> This study was carried out with funding provided by
+ the Ministry for Foreign Aﬀairs of Finland for develop-
+ ment project ‘Developing a Community Mental Health
+ Model in Nepal’ (project number 66014001).
+ 
+<section> Declaration of interest
+ 
+<section> None.
+ 
+<section> Ethical standards
+ 
+<section> The authors assert that all procedures contributing to
+ this work comply with the ethical standards of the rele-
+ vant national and institutional committees on human
+ experimentation and with the Helsinki Declaration of
+ 1975, as revised in 2008.
+ 
+<section> References
+ 
+<section> Alonso J, Zhaorui L, Evans-Lacko S, Sadikova E, Sampson
+ N, Chatterji S, Abdulmalik J, Aguilar-Gaxiola S,
+ Al-Hamzawi A, Andrade LH, Bruﬀaerts R, Cardoso G, Cia
+ A, Florescu S, Girolamo G, Gureje O, Haro JM, He Y,
+ Jonge P, Karam EG, Kawakami N, Kovess-Masfety V, Lee
+ S, Levinson D, Medina-Mora ME, Navarro-Mateu F,
+ Pennell BE, Piazza M, Posada-Villa J, Ten Have M,
+ Zarkov Z, Kessler RC, Thornicroft G (2018). Treatment
+ gap for anxiety disorders is global: results of the World
+ Mental Health Surveys in 21 countries. Depression and
+ Anxiety 35, 195–208.
+ 
+<section> Araya R, Zitko P, Markkula N, Rai D, Jones K (2018).
+ Determinants of access to health care for depression in
+ countries: a multilevel analysis. Journal of Aﬀective Disorders
+ 
+<section> 234, 80–88.
+ 
+<section> Barnett ML, Lau AS, Miranda J (2018). Lay health worker
+ involvement in evidence-based treatment delivery: a
+ conceptual model to address disparities in care. Annual
+ Review of Clinical Psychology 14, 185–208.
+ 
+<section> Beck AT, Epstein N, Brown G, Steer RA (1988). An inventory
+ for measuring clinical anxiety: psychometric properties.
+ 
+<section> Journal of Consulting and Clinical Psychology 56, 893–897.
+ 
+<section> Beck AT, Ward CH, Mendelson M, Mock J, Erbaugh J
+ (1961). An inventory for measuring depression. Archives of
+ General Psychiatry 4, 561–571.
+ 
+<section> Buttorﬀ C, Hock RS, Weiss HA, Naik S, Araya R, Kirkwood
+ BR, Chisholm D, Patel V (2012). Economic evaluation of a
+ task-shifting intervention for common mental disorders in
+ India. Bulletin of the World Health Organization 90, 813–821.
+ 
+<section> Chibanda D, Mesu P, Kajawu L, Cowan F, Araya R, Abas
+ 
+<section> MA (2011). Problem-solving therapy for depression and
+ common mental disorders in Zimbabwe: piloting a
+ task-shifting primary mental health care intervention in a
+ population with a high prevalence of people living with
+ 
+<section> HIV. BMC Public Health 11,
+ Chisholm D, Burman-Roy S, Fekadu A, Kathree T, Kizza D,
+ Luitel NP, Petersen I, Shidhaye R, De Silva M, Lund C
+ (2016a). Estimating the cost of implementing district mental
+ healthcare plans in ﬁve low- and middle-income countries:
+ the PRIME study. British Journal of Psychiatry 208(Suppl. 56),
+ s71–s78.
+ 
+<section> Chisholm D, Sweeny K, Sheehan P, Rasmussen B, Smit F,
+ Cuijpers P, Saxena S (2016b). Scaling-up treatment of
+ depression and anxiety: a global return on investment
+ analysis. The Lancet Psychiatry 3, 415–424.
+ 
+<section> Chowdhary N, Jotheeswaran AT, Nadkarni A, Hollon SD,
+ King M, Jordans MJ, Rahman A, Verdeli H, Araya R,
+ 
+<section> Patel V (2014). The methods and outcomes of cultural
+ adaptations of psychological treatments for depressive
+ disorders: a systematic review. Psychological Medicine 44,
+ 1131–1146.
+ 
+<section> Da Costa BR, Rutjes AW, Johnston BC, Reichenbach S,
+ Nuesch E, Tonia T, Gemperli A, Guyatt GH, Juni P (2012).
+ Methods to convert continuous outcomes into odds ratios
+ of treatment response and numbers needed to treat:
+ meta-epidemiological study. International Journal of
+ Epidemiology 41, 1445–1459.
+ 
+<section> De Silva MJ, Cooper S, Li HL, Lund C, Patel V (2013). Eﬀect
+ of psychosocial interventions on social functioning in
+ depression and schizophrenia: meta-analysis. British Journal
+ of Psychiatry 202, 253–260.
+ 
+<section> De Silva MJ, Lee L, Fuhr DC, Rathod S, Chisholm D,
+ Schellenberg J, Patel V (2014). Estimating the coverage of
+ mental health programmes: a systematic review.
+ 
+<section> International Journal of Epidemiology 43, 341–353.
+ 
+<section> Hanlon C, Fekadu A, Jordans M, Kigozi F, Petersen I,
+ Shidhaye R, Honikman S, Lund C, Prince M, Raja S,
+ Thornicroft G, Tomlinson M, Patel V (2016). District
+ mental healthcare plans for ﬁve low- and middle-income
+ countries: commonalities, variations and evidence gaps.
+ 
+<section> British Journal of Psychiatry 208(Suppl. 56), s47–s54.
+ 
+<section> Jordans MJD, Luitel NP, Garman E, Kohrt BA, Rathod SD,
+ Shrestha P, Komproe IH, Lund C, Patel V (2019).
+ Eﬀectiveness of psychological treatments for depression
+ and alcohol use disorder delivered by community-based
+ counsellors: two pragmatic randomised controlled trials
+ within primary healthcare in Nepal. The British Journal of
+ Psychiatry 215, 485–493. doi: 10.1192/bjp.2018.300.
+ 
+<section> Jordans MJD, Tol WA, Sharma B, Van Ommeren M (2003).
+ 
+<section> Training psychosocial counselling in Nepal: content review
+ of a specialised training programme. Intervention:
+ International Journal of Mental Health, Psychosocial Work &
+ Counselling in Areas of Armed Conﬂict 1, 18–35.
+ 
+<section> Joshi R, Alim M, Kengne AP, Jan S, Maulik PK, Peiris D,
+ 
+<section> Patel AA (2014). Task shifting for non-communicable
+ disease management in low and middle income
+ countries--a systematic review. PLoS One 9, e103754.
+ 
+<section> Kakuma R (2011). Human resources for mental health care:
+ current situation and strategies for action. Lancet 378, 1654–
+ 1663.
+ 
+<section> Kohrt BA, Kunz RD, Koirala NR, Sharma VD, Nepal MK
+ (2002). Validation of the Nepali Version of Beck
+ Depression Inventory. Nepalese Journal of Psychiatry 2,
+ 123–130.
+ 
+<section> Kohrt BA, Kunz RD, Koirala NR, Sharma VD, Nepal MK
+ (2004). Validation of the Nepali version of the Beck Anxiety
+ Inventory. Journal of the Institute of Medicine 26, 1–4. 
+<section> Kohrt BA, Speckman RA, Kunz RD, Baldwin JL, Upadhaya
+ N, Acharya NR, Sharma VD, Nepal MK, Worthman CM
+ (2009). Culture in psychiatric epidemiology: using
+ ethnography and multiple mediator models to assess the
+ relationship of caste with depression and anxiety in Nepal.
+ 
+<section> Annals of Human Biology 36, 261–280.
+ 
+<section> Koirala NR, Regmi SK, Sharma VD, Khalid A, Nepal MK
+ (1999). Sensitivity and validity of the general health
+ questionnaire-12 in a rural community settings in Nepal.
+ 
+<section> Nepalese Journal of Psychiatry 1999, 34–40.
+ 
+<section> Luitel NP, Jordans MJD, Adhikari A, Upadhaya N, Hanlon
+ C, Lund C, Komproe IH (2015). Mental health care in
+ 
+<section> Nepal: current situation and challenges for development of
+ a district mental health care plan. Conﬂict and Health 9,
+ Luitel NP, Jordans MJD, Kohrt BA, Rathod SD, Komproe IH
+ (2017). Treatment gap and barriers for mental health care: a
+ cross-sectional community survey in Nepal. PLOS ONE 12,
+ e0183223.
+ 
+<section> Luitel NP, Jordans MJ, Sapkota RP, Tol WA, Kohrt BA,
+ Thapa SB, Komproe IH, Sharma B (2013). Conﬂict and
+ mental health: a cross-sectional epidemiological study in
+ Nepal. Social Psychiatry and Psychiatric Epidemiology 48, 183–
+ 
+<section> Naik GS, Gaur GS, Pal GK (2018). Eﬀect of modiﬁed slow
+ breathing exercise on perceived stress and basal
+ cardiovascular parameters. International Journal of Yoga 11,
+ 53–58.
+ 
+<section> O’Connell N, Dai L, Jiang Y, Speiser J, Ward R, Wei W
+ (2017). Methods for analysis of pre-post data in clinical
+ research: a comparison of ﬁve common methods. Journal of
+ 
+<section> Biometrics & Biostatistics
+ 
+<section> Patel V, Araya R, Chowdhary N, King M, Kirkwood B,
+ Nayak S, Simon G, Weiss HA (2008). Detecting common
+ mental disorders in primary care in India: a comparison of
+ ﬁve screening questionnaires. Psychological Medicine 38,
+ 221–228.
+ 
+<section> Pramanik T, Pudasaini B, Prajapati R (2010). Immediate
+ eﬀect of a slow pace breathing exercise Bhramari
+ pranayama on blood pressure and heart rate. Nepal Medical
+ College Journal 12, 154–157.
+ 
+<section> Purgato M, Gastaldon C, Papola D, Van Ommeren M,
+ Barbui C, Tol W (2018). Psychological therapies for the
+ treatment of mental disorders in low- and middle-income
+ countries aﬀected by humanitarian crises. Cochrane Database
+ of Systematic Reviews 7, CD011849. doi: 10.1002/14651858.
+ CD011849.pub2.
+ 
+<section> Rahman A, Hamdani S, Awan N, et al. (2016). Eﬀect of a
+ multicomponent behavioral intervention in adults impaired
+ by psychological distress in a conﬂict-aﬀected area of
+ 
+<section> Pakistan: a randomized clinical trial. JAMA 316, 2609–2617.
+ 
+<section> Riedel M, Moller HJ, Obermeier M, Schennach-Wolﬀ R,
+ Bauer M, Adli M, Kronmuller K, Nickel T, Brieger P, Laux
+ G, Bender W, Heuser I, Zeiler J, Gaebel W, Seemuller F
+ (2010). Response and remission criteria in major
+ depression--a validation of current practice. Journal of
+ Psychiatric Research 44, 1063–1068.
+ 
+<section> Shidhaye R, Lund C, Chisholm D (2015). Closing the
+ treatment gap for mental, neurological and substance use
+ disorders by strengthening existing health care platforms:
+ strategies for delivery and integration of evidence-based
+ interventions. International Journal of Mental Health Systems
+ 
+<section> 9, 40. doi: 10.1186/s13033-015-0031-9.
+ 
+<section> Singla DR, Kohrt BA, Murray LK, Anand A, Chorpita BF,
+ 
+<section> Patel V (2017). Psychological treatments for the world:
+ lessons from low- and middle-income countries. Annual
+ Review of Clinical Psychology 13, 149–181.
+ 
+<section> Stata Corp. (2015). Stata Statistical Software: Release
+ StataCorp LP: College Station, TX.
+ 
+<section> Tang W, Tu XE (2012). Modern Clinical Trial Analysis.
+ 
+<section> Springer: New York, USA.
+ 
+<section> Tol WA, Jordans MJ, Regmi S, Sharma B (2005). Cultural
+ challenges to psychosocial counselling in Nepal.
+ 
+<section> Transcultural Psychiatry 42, 317–333.
+ 
+<section> Twisk J, Bosman T, Hoekstra T, Rijnhart J, Welten M,
+ 
+<section> Heymans M (2018). Diﬀerent ways to estimate treatment
+ eﬀects in randomised controlled trials. Contemporary Clinical
+ Trials Communications 10, 80–85.
+ 
+<section> Üstün T, Kostanjsek N, Chatterji S, Rehm J (2010). Measuring
+ 
+<section> Health and Disability: Manual for WHO Disability Assessment
+ Schedule WHODAS 2.0. World Health Organization.
+ 
+<section> van Ginneken N, Tharyan P, Lewin S, Rao G, Meera SM,
+ Pian J, Chandrashekar S, Patel V (2013). Non-specialist
+ health worker interventions for the care of mental,
+ neurological and substance-abuse disorders in low- and
+ middle-income countries. Cochrane Database of Systematic
+ Reviews (11), Cd009149. doi: 10.1002/14651858.CD009149.pub2.
+ 
+<section> World Health Organization (WHO) (ed.) (2018). Mental
+ Health Atlas. WHO: Geneva.

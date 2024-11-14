@@ -1,0 +1,1294 @@
+
+<section> Effect of door-­to-­door
+ 
+<section> HIV self-­testing kits
+ 
+<section> antiretroviral therapy
+ 
+<section> cluster randomised
+ 
+<section> Pitchaya P Indravudh , 1,2 Katherine Fielding,
+ Rebecca Nzawa, 2 Melissa Neuman , 3
+ 
+<section> Cheryl C Johnson, 7,8 Miriam Taegtmeyer,
+ 
+<section> Elizabeth L Corbett 
+<section> 2,8
+ 
+<section> To cite: Indravudh PP, 
+<section> ABSTRACT
+ Fielding K, Chilongosi R, Introduction Reaching high coverage of HIV testing
+ et al. Effect of door-­to-­door remains essential for HIV diagnosis, treatment and
+ distribution of HIV self-­testing prevention. We evaluated the effectiveness and safety of
+ 
+<section> kits on HIV testing and
+ door-­to-­door distribution of HIV self-­testing (HIVST) kits in
+ 
+<section> antiretroviral therapy initiation:
+ a cluster randomised trial in rural Malawi.
+ Malawi. BMJ Global Health Methods This cluster randomised trial, conducted
+ 2021;6:e004269. doi:10.1136/ between September 2016 and January 2018, used
+ bmjgh-2020-004269 restricted 1:1 randomisation to allocate 22 health facilities
+ and their defined areas to door-­to-­door HIVST alongside
+ 
+<section> Handling editor Seye Abimbola the standard of care (SOC) or the SOC alone. The study
+ population included residents (≥16 years). HIVST kits were
+ 
+<section> ► Additional material is provided door-­to-­door by community-­based distribution
+ published online only. To view, agents (CBDAs) for at least 12 months. The primary
+ 
+<section> please visit the journal online
+ outcome was recent HIV testing (in the last 12 months)
+ 
+<section> (http://​dx.​doi.​org/​10.​1136/​
+ bmjgh-­​2020-­​004269). measured through an endline survey. Secondary outcomes
+ were lifetime HIV testing and cumulative 16-­month
+ antiretroviral therapy (ART) initiations, which were captured
+ Received 21 October 2020 at health facilities. Social harms were reported through
+ Revised 19 January 2021 community reporting systems. Analysis compared cluster-­
+ Accepted 10 February 2021 level outcomes by arm.
+ 
+<section> Results Overall, 203 CBDAs distributed 273 729 HIVST
+ kits. The endline survey included 2582 participants in
+ HIVST clusters and 2908 participants in 11 SOC clusters.
+ Recent testing was higher in the HIVST arm (68.5%,
+ 1768/2582) than the SOC arm (48.9%, 1422/2908), with
+ adjusted risk difference (RD) of 16.1% (95% CI 6.5% to
+ 25.7%). Lifetime testing was also higher in the HIVST arm
+ (86.9%, 2243/2582) compared with the SOC arm (78.5%,
+ 2283/2908; adjusted RD 6.3%, 95% CI 2.3% to 10.3%).
+ Differences were most pronounced for adolescents aged
+ 16–19 years (adjusted RD 18.6%, 95% CI 7.3% to 29.9%)
+ and men (adjusted RD 10.2%, 95% CI 3.1% to 17.2%).
+ Cumulative incidence of ART initiation was 1187.2 and
+ 909.0 per 100 000 population in the HIVST and SOC arms,
+ © World Health Organization respectively (adjusted RD 309.1, 95% CI −95.5 to 713.7).
+ 2021. Licensee BMJ. Self-­reported HIVST use was 42.5% (1097/2582), with
+ For numbered affiliations see minimal social harms reported.
+ end of article. Conclusion Door-­to-­door HIVST increased recent and
+ lifetime testing at population level and showed high safety,
+ 
+<section> Correspondence to underscoring potential for HIVST to contribute to HIV
+ 
+<section> Pitchaya P Indravudh;
+ elimination goals in priority settings.
+ 
+<section> ​pitchaya.​indravudh@​lshtm.​
+ ac. u k Trial registration number NCT02718274.
+ 
+<section> distribution of
+ 
+<section> on HIV testing and
+ 
+<section> initiation: a
+ 
+<section> trial in Malawi
+ 
+<section> 3,4 Richard Chilongosi,
+ Moses K Kumwenda, 2 Rose Nyirenda,
+ 9,10 Nicola Desmond, 2,9 Karin Hatzold,
+ 
+<section> WHAT IS ALREADY KNOWN?
+ 
+<section> ⇒ HIV self-­testing (HIVST) can further extend cover-
+ age of HIV testing among underserved population
+ subgroups.
+ 
+<section> ⇒ Limited data were previously available on the effec-
+ tiveness and safety of HIVST from rural, underserved
+ populations in high HIV prevalence settings.
+ 
+<section> WHAT ARE THE NEW FINDINGS?
+ 
+<section> ⇒ Door-­ to-­ door distribution of HIVST kits by
+ community-­ based distribution agents increased
+ recent HIV testing and lifetime HIV testing, with dif-
+ ferences most pronounced among adolescents aged
+ 16–19 years and men.
+ 
+<section> ⇒ Cumulative incidence of antiretroviral therapy ini-
+ tiations was not shown to increase for the overall
+ 16-­month intervention period.
+ 
+<section> ⇒ Self-­reported HIVST use was 42.5%, with minimal
+ social harms reported.
+ 
+<section> WHAT DO THE NEW FINDINGS IMPLY?
+ 
+<section> ⇒ Door-­to-­door HIVST demonstrates significant poten-
+ tial to contribute to HIV elimination goals in priority
+ settings.
+ 
+<section> INTRODUCTION
+ In 2016, an estimated 19.4 million people
+ were living with HIV in southern and eastern
+ Africa. 1 Despite expansion of HIV testing
+ and treatment programmes, one-­quarter of
+ people living with HIV remained unaware of
+ their HIV status. HIV testing gaps were highest
+ in adolescents and men, including in Malawi.
+ In 2015–2016, the proportion of undiagnosed
+ HIV was 46% among HIV-­ positive adoles-
+ cents and young adults aged 15–24 years, the
+ highest across age groups. 2 Of men with HIV,
+ 28% were unaware of their status compared
+ with 20% of women with HIV. 2 Reaching high
+ coverage of HIV testing remains essential for 
+<insert> Figure 1 Map of trial clusters in Malawi. Map of Blantyre,
+ Machinga, Mwanza and Neno district with government health
+ facilities and their defined clusters. Malawi National Spatial
+ Data Centre, http://www.masdap.mw/. HIVST, HIV self-­
+ testing; SOC, standard of care. 
+<iend>
+
+ 
+<section> HIV diagnosis, treatment and prevention, 3 but access
+ of facility-­based HIV services can be limited by social,
+ economic and health system barriers. 4–6
+ Community-­ based HIV testing strategies can iden-
+ tify HIV-­positive persons at earlier stages of infection
+ and improve antiretroviral therapy (ART) initiation
+ and retention when provided with universal treat-
+ ment services. 7 8 Provision of HIV self-­testing (HIVST)
+ through community-­ based approaches can further
+ extend coverage of HIV testing among underserved
+ population subgroups. 9 In Malawi, urban community-­
+ based distribution of HIVST kits achieved high uptake,
+ with offer of home-­based HIV care further increasing
+ demand for ART. 10 11 Introducing HIVST with door-­to-­
+ door HIV testing services (HTS) by community health
+ workers increased knowledge of HIV status among
+ urban Zambians. 12 Community-­based HIVST is there-
+ fore a promising approach for providing HIV testing,
+ though lower literacy and healthcare access among
+ rural populations could influence uptake of self-­care
+ technologies. 13 Limited data were previously available
+ on the effectiveness and safety of HIVST from rural,
+ underserved populations in high HIV prevalence
+ settings.
+ In this study, we used a cluster randomised trial to eval-
+ uate the effectiveness and safety of door-­to-­door distribu-
+ tion of HIVST kits in rural Malawi. Specifically, we aimed
+ to assess whether distribution of HIVST kits through
+ community-­based distribution agents (CBDAs) increased
+ the proportion of the population who tested for HIV
+ and were initiated on ART at cluster level. Our study is
+ part of a multicountry evaluation of community-­based
+ distribution of HIVST kits under the Unitaid/Popula-
+ tion Services International (PSI) HIV Self-­Testing Africa
+ 
+<section> (STAR) Initiative.
+ 
+<section> METHODS
+ Design, setting and participants
+ We conducted a parallel cluster randomised trial of
+ door-­ to-­ door distribution of HIVST kits. 14 The study
+ was based in 22 government primary health centres
+ and their defined areas in four high HIV prevalence
+ districts (Blantyre, Machinga, Mwanza, Neno). A cluster
+ randomised design was adopted since the intervention
+ was implemented at the health facility level. The study
+ team enrolled health facilities providing HIV testing and
+ ART services to rural communities in their catchment
+ areas, with verbal consent obtained from facility repre-
+ sentatives. Boundaries were drawn for: (1) the facility
+ catchment area, and (2) the evaluation area within the
+ facility catchment area. The intervention was delivered
+ throughout the facility catchment area, while primary
+ and secondary outcomes were measured among resi-
+ dents from the evaluation area. Specifically, the study
+ population included residents aged 16 years and older
+ from the evaluation area.
+ 
+<section> HIVST arm
+ 
+<section> SOC arm
+ 
+<section> Randomisation
+ The 22 health facilities were randomised 1:1 to the HIVST
+ intervention alongside the standard of care (SOC) or the
+ SOC alone, which primarily consisted of facility-­based
+ HTS (figure 1). A computer-­generated random sample
+ was drawn by MN from 150 855 unique combinations of
+ allocating health facilities to one of the two study arms,
+ restricted by district, catchment population size, number
+ of HTS clients and the proportion of clients testing HIV
+ positive. 15 The final allocation was assigned at a public
+ ceremony on 21 March 2016. Numbered balls were
+ selected by community and government representatives
+ from an opaque bag that corresponded to a unique alloca-
+ tion. Blinding of the implementation team and residents
+ was not feasible due to the nature of the intervention, but
+ masking was maintained where possible, including data
+ collection, management and analysis without reference
+ to the study arms.
+ A planned second randomisation of home-­based HIV
+ care in the HIVST arm was not implemented due to
+ delays in initiating the intervention, leaving an insuffi-
+ cient interval for assessment.
+ 
+<section> Procedures
+ 
+<section> The HIVST intervention was delivered for at least
+ months within the evaluation area of eligible health facili-
+ ties before expanding to the rest of the facility catchment
+ area. HIVST kits were distributed by existing CBDAs, who
+ provided reproductive health products prior to HIVST
+ distribution, and newly recruited CBDAs selected in
+ consultation with village heads.
+ PSI Malawi conducted 1-­week trainings based on an
+ HIVST training curriculum developed in collaboration
+ with the Ministry of Health. The training included basic
+ information on HIV diagnosis and treatment; promoting 
+<section> HIVST using social marketing; using kits and interpreting
+ results; providing pretest and post-­test information and
+ support, including referral for confirmatory HIV testing
+ and ART following a positive self-­test; anticipating and
+ managing social harms; storing kits; and collecting data.
+ National HIV testing and counselling practices and prin-
+ ciples on voluntariness, consent and protection of client
+ privacy and confidentiality were also covered in the
+ training.
+ CBDAs then provided the OraQuick HIV Self-­ Test
+ (OraSure Technologies, Thailand), along with locally
+ adapted instructions for use, 16 an opaque envelope for
+ disposal and a self-­referral card to facilitate linkage to
+ routine HIV services at health facilities. In their respec-
+ tive areas, CBDAs distributed HIVST kits door-­to-­door
+ or on request to residents aged 16 years and older, with
+ their sociodemographic characteristics recorded in regis-
+ ters. Residents could self-­test with CBDAs or in private. If
+ residents elected to self-­test privately, CBDAs followed up
+ within 7 days of distribution to provide optional post-­test
+ support. Disclosure was not required, and HIVST results
+ were not recorded in registers. Residents were also asked
+ to place their used kits in envelopes to be returned to
+ CBDAs or deposited in locked boxes located centrally in
+ each village. PSI provided monthly supervision to verify
+ data in CBDA registers, collect used kits and restock
+ supplies. CBDAs were remunerated for each kit distrib-
+ uted (MWK100/US$0.15) and each kit distributed with
+ linkage to HIV care (MWK150/USD$0.23).
+ The SOC in both arms included HIV testing and ART
+ services under the Ministry of Health, offered primarily
+ at health facilities. Standard HIV testing used blood-­
+ based rapid diagnostic testing algorithms, with ART initi-
+ ated immediately following a confirmed HIV diagnosis.
+ 
+<section> Outcomes and measurement
+ The primary outcome compared between arms the
+ proportion of individuals aged 16 years and older who
+ self-­ reported recent testing for HIV (in the last
+ months), measured at cluster level using an endline
+ survey. Secondary outcomes compared (1) self-­reported
+ lifetime HIV testing, and (2) cumulative 16-­month inci-
+ dence of ART initiations per 100 000 population, which
+ was ascertained using ART clinic records during the
+ intervention period.
+ HIV testing outcomes were measured through a cross-­
+ sectional survey administered at the end of the interven-
+ tion period. In each evaluation area, two villages with a
+ minimum of 250 residents aged 16 years and older were
+ randomly selected, with one village surveyed at endline
+ and one village surveyed at baseline. The baseline survey
+ was conducted prior to the intervention to adjust for
+ imbalance between arms in the primary outcome.
+ Households in the evaluation villages were enumerated
+ and randomly selected to provide a sample of at least
+ participants per village. All individuals aged 16 years and
+ older in selected households were eligible for the survey,
+ with multiple visits for interviews attempted to maximise
+ the response rate. Informed verbal consent or assent was
+ obtained. Participants were then interviewed on house-
+ hold and sociodemographic characteristics and prior use
+ of HIV testing, treatment and prevention services.
+ ART initiation data were extracted from registers at
+ each of the health facilities for the 16-­month interven-
+ tion period and the 12-­ month period preceding the
+ intervention. Eligibility criteria included ART patients
+ aged 16 years and older from the evaluation area. Popu-
+ lation estimates for the evaluation area, which were used
+ as the denominator for the ART outcome, were obtained
+ from facility and village registers.
+ The proportion of lifetime HIVST use and the
+ number of HIVST kits distributed were evaluated using
+ the endline survey and CBDA registers. Adverse events
+ related to HIVST were also measured using the endline
+ survey in addition to a community reporting system
+ established in evaluation villages to identify and manage
+ potential adverse events. 17 Community stakeholders,
+ including village heads, community health workers, reli-
+ gious leaders and police officers, documented, investi-
+ gated and managed social harms related to HIV testing
+ and self-­testing. Adverse events were reported to the study
+ team and assessed, categorised by severity and followed
+ up as appropriate.
+ 
+<section> Sample size
+ 
+<section> With 11 clusters per arm and 250 participants per cluster,
+ we had at least 80% power at a 5% significance level to
+ detect a 30% relative increase in the primary outcome of
+ recent HIV testing in the HIVST arm, assuming 25%–40%
+ coverage in the SOC arm. 18 The study was also powered
+ to identify a 45% relative increase in lifetime HIV testing
+ in the HIVST arm, assuming 42%–60% coverage in the
+ SOC arm. The sample size was calculated using a coeffi-
+ cient of variation (k) in clusters of 0.25.
+ 
+<section> Statistical analysis
+ We conducted an intention-­ to-­ treat analysis based on
+ cluster assignment to study arms and used methods appro-
+ priate for cluster randomised trials. 15 The risk difference
+ (RD) and risk ratio were calculated respectively from
+ cluster-­level risks and log risks, which were compared by
+ arm using a t-­test. For HIV testing outcomes, we adjusted
+ for imbalances in individual-­level covariates based on a
+ two-­stage approach. 15 The first stage used logistic regres-
+ sion with individual-­level covariates to obtain predicted
+ values, which were summed at the cluster level and
+ applied to calculate the difference and ratio of observed
+ and predicted values. The second stage used linear
+ regression of covariate-­adjusted residuals obtained from
+ the first stage and included the study arm. To adjust for
+ imbalance in the primary outcome prior to the interven-
+ tion, the cluster-­level baseline covariate of recent HIV
+ testing was also included in the regression model. The
+ ART initiation outcome adjusted for ART uptake in the
+ 12-­month preintervention period. 
+<section> Figure 2 Trial flow diagram. Flow diagram of the cluster randomised
+ For recent HIV testing, a priori subgroup analyses were
+ specified by sex, age group (16–19 years, 20 years and
+ older) and socioeconomic status (lowest, middle, highest
+ strata). Post hoc analysis used alternative categories of
+ age group (16–19 years, 20–39 years, 40 years and older).
+ Further, subgroup analyses were conducted for lifetime
+ HIV testing by sex, age group and socioeconomic status,
+ and for ART initiations by intervention period (0–5, 6–11,
+ 12–16 months). Statistical analysis used Stata V.14.0.
+ 
+<section> RESULTS
+ 
+<section> Implementation of the intervention was staggered,
+ starting from September to December 2016, and contin-
+ uing until January 2018. Overall, 203 CBDAs (cluster
+ mean 18.5) distributed 273 729 HIVST kits (cluster mean
+ 24 884.45) throughout the catchment area of health
+ facilities, including evaluation and non-­evaluation areas
+ (online supplemental table 1). The volume of kits distrib-
+ uted was similar by sex, with 50.2% (n=137 433) of kits
+ delivered to men.
+ The population in the evaluation area included
+ 390 residents in 11 clusters in the HIVST arm and 51
+ 488 residents in 11 clusters in the SOC arm. Partici-
+ pants were recruited for the endline survey between
+ October 2017 and January 2018. The trial flow diagram is
+ reported in figure 2. The endline survey included 77.0%
+ (2582/3355) of enumerated residents in the HIVST arm
+ and 78.6% (2908/3699) of enumerated residents in the
+ SOC arm, with few eligible residents refusing to partici-
+ pate (10/7054).
+ 
+<section> trial. HIVST, HIV self-­testing.
+ 
+<section> Population characteristics for the endline survey are
+ summarised in table 1. The proportion of men was 42.6%
+ (2339/5490) and the median age was 31 years old. The
+ majority of participants did not have beyond primary-­
+ level education (84.9%, 4661/5490). Most characteristics
+ were well balanced by arm. Differences were observed for
+ marital status, with 69.5% (1795/2582) married in the
+ HIVST arm and 63.2% (1838/2908) married in the SOC
+ arm.
+ The baseline survey was administered between May and
+ August 2016. Of listed individuals, 78.5% (2809/3577)
+ and 74.7% (2664/3567) were surveyed in the HIVST and
+ SOC arms, respectively (online supplemental tables 2 and
+ 3). Baseline coverage of HIV testing in the last 12 months
+ was higher in the HIVST arm (56.0%, 1574/2809) than
+ the SOC arm (48.4%, 1289/2664; table 1). We therefore
+ adjusted for baseline differences in analysis of primary
+ and secondary outcomes. Self-­reported lifetime use of
+ HIVST at baseline was limited (7/5473).
+ 
+<section> Primary outcome
+ At endline, recent HIV testing (in the last 12 months) was
+ higher in the HIVST arm (68.5%, 1768/2582) compared
+ with the SOC arm (48.9%, 1422/2908), with adjusted RD
+ of 16.1% (95% CI 6.5% to 25.7%; table 2; online supple-
+ mental figure 1). In subgroup analysis, the intervention
+ had a more pronounced effect among adolescents aged
+ 16–19 years (adjusted RD 26.1%, 95% CI 12.9% to 39.2%)
+ than adults aged 20 years and older (adjusted RD 14.7%,
+ 95% CI 4.8% to 24.6%), though data were consistent with
+ no interaction effect (p value for interaction=0.18). Post 
+<insert> HIVST SOC
+ n (%) n (%)
+ Individual characteristics (n=2809) (n=2664)
+ Ever tested 82.2% (2308) 77.1% (2054)
+ Tested in the last 12 months 56.0% (1574) 48.4% (1289)
+ Baseline
+ Endline
+ Household characteristics (n=1407) (n=1381)
+ Adults (median/range) 2 (1–7) 2 (1–9)
+ Children (median/range) 2 (0–8) 2 (0–9)
+  Lowest 434 (32%) 468 (35.7%)
+  Middle 456 (33.6%) 422 (32.2%)
+  Highest 466 (34.4%) 421 (32.1%)
+ Individual characteristics (n=2582) (n=2908)
+ Male 1075 (41.6%) 1264 (43.5%)
+ Age (median/range) 31 (16–97) 31 (16–91)
+  16–19 366 (14.2%) 439 (15.1%)
+  20–24 469 (18.2%) 558 (19.2%)
+  25–39 931 (36.1%) 998 (34.3%)
+  ≥40 816 (31.6%) 913 (31.4%)
+  Married or living together 1795 (69.5%) 1838 (63.2%)
+  Separated, divorced or
+ widowed
+ 405 (15.7%) 438 (15.1%)
+  Never married 382 (14.8%) 632 (21.7%)
+  None 463 (17.9%) 555 (19.1%)
+  Primary 1745 (67.6%) 1898 (65.3%)
+  Secondary or higher 374 (14.5%) 455 (15.6%)
+ Literate 1639 (63.5%) 1907 (65.6%)
+ Resident in last 12 months 2429 (94.1%) 2748 (94.5%)
+  Very good 662 (25.7%) 996 (34.3%)
+  Good 1470 (57.0%) 1429 (49.1%)
+  Fair 319 (12.4%) 320 (11.0%)
+  Poor 128 (5.0%) 163 (5.6%)
+ Household wealth index*
+ Age group (years)
+ Marital status
+ Educational attainment
+ Self-­rated health status†
+ Samples for the baseline and endline survey include different
+ individuals.
+ *51 missing values in the HIVST arm and 70 missing values in the
+ SOC arm.
+ †3 missing values in the HIVST arm.
+ HIVST, HIV self-­testing; SOC, standard of care.
+ Table 1 Comparison of endline population characteristics
+ by study arm 
+<iend>
+
+ hoc analysis found similar differences among adults aged
+ 20–39 years and adults 40 years and older (online supple-
+ mental table 4). While the difference in the proportion
+ of recent testing was also higher for men (adjusted RD
+ 20.6%, 95% CI 7.1% to 34.0%) compared with women
+ (adjusted RD 12.8%, 95% CI 4.0% to 21.6%), there
+ was weak evidence for interaction (p=0.07). In terms of
+ socioeconomic status, the effect of the intervention was
+ greater among participants in the highest strata (adjusted
+ RD 20.2%, 95% CI 8.3% to 32.1%) than the lowest strata
+ (adjusted RD 13.0%, 95% CI 1.1% to 24.8%). However,
+ there was no evidence for interaction (highest vs lowest
+ strata: p value for interaction=0.18).
+ 
+<section> Secondary outcomes
+ Lifetime HIV testing was higher in the HIVST arm (86.9%,
+ 2243/2582) than the SOC arm (78.5%, 2283/2908;
+ adjusted RD 6.3%, 95% CI 2.3% to 10.3%; table 2; online
+ supplemental figure 1). In exploratory analysis, the effect
+ of the intervention was larger for adolescents aged 16–19
+ years (adjusted RD 18.6%, 95% CI 7.3% to 29.9%) than
+ adults aged 20 years and older (adjusted RD 4.4%, 95%
+ CI 0.5% to 8.2%; p value for interaction=0.02), and for
+ men (adjusted RD 10.2%, 95% CI 3.1% to 17.2%) than
+ women (adjusted RD 3.4%, 95% CI −0.9% to 7.7%; p
+ value for interaction=0.07; online supplemental table 4).
+ The intervention effect on lifetime testing was similar in
+ the lowest and highest socioeconomic strata and close to
+ zero for the middle strata.
+ Cumulative incidence of ART initiation captured at
+ health facilities during the 16-­month intervention period
+ was 1187.2 and 909.0 per 100 000 population in the
+ HIVST and SOC arms, respectively (adjusted RD 309.1,
+ 95% CI −95.5 to 713.7; table 2; online supplemental
+ figure 1). Stratified by time period since study initia-
+ tion, the adjusted RD for periods of 0–5, 6–11 and 12–16
+ months was 142.6 (95% CI −81.5 to 366.7), 194.8 (95%
+ CI 31.4 to 358.1) and 28.3 (95% CI −186.5 to 129.9),
+ respectively. There was no evidence for statistical differ-
+ ences measured (6–11 months vs 0–5 months: p value for
+ interaction=0.51; 12–16 months vs 0–5 months: p value
+ for interaction=0.42; online supplemental table 4).
+ 
+<section> Process outcomes
+ Consistent with the high number of HIVST kits distrib-
+ uted, there were large differences between arms in
+ awareness and use of HIVST at endline. The propor-
+ tion of participants who had heard of HIVST at endline
+ was 88.8% (2294/2582) in the HIVST arm and 31.5%
+ (917/2908) in the SOC arm (table 3). Self-­reported life-
+ time HIVST use was respectively 42.5% (1097/2582) in
+ the HIVST arm, with uptake highest in young men aged
+ 20–24 years (58%) and adolescent boys (49.0%; online
+ supplemental figure 2). Similar coverage was reported
+ for HIVST use in the last 12 months. HIVST use was 8.3%
+ (240/2908) in the SOC arm, with one cluster exposed
+ to an external community-­ based HIVST programme
+ in 2017. Among participants who recently self-­ tested
+ in the HIVST arm (n=794), most received HIVST kits
+ from the CBDA (97.9%, n=777) and collected their kits
+ at home (76.7%, n=609). Further, 0.8% (n=6) reported
+ a new HIV-­positive result and 2.0% (n=16) reported a 
+<section> 0.17 
+<section> 0.04 
+<section> 0.46 
+<section> the 
+<section> 12-­month
+ 
+<section> k 
+<section> for of
+ 
+<section> adjusts standard
+ 
+<section> ratio 
+<section> 1.58) 
+<section> 2.38) 
+<section> 1.55) 
+<section> 1.93) 
+<section> 1.45) 
+<section> 1.61) 
+<section> 1.5) 
+<section> 1.79) 
+<section> 1.13) 
+<section> 1.96) 
+<section> in SOC: 
+<section> p<0.001.
+ 
+<section> initiations
+ 
+<section> risk to to to to to to to to to group (68.5%), SOC,
+ to
+ 
+<section> Adjusted CI) 
+<section> value 
+<section> (1.13 (1.33 <0.001 
+<section> (1.09 (1.18 (1.06 (1.02 (1.07 (1.17 (1.03 (0.92 age (3.0%–10.8%), difference;
+ 
+<section> (95% 1.33 0.002 
+<section> 1.78 1.3 0.006 
+<section> 1.51 0.002 
+<section> 1.24 0.01 
+<section> 1.28 0.04 
+<section> 1.27 0.008 
+<section> 1.45 0.002 
+<section> 1.08 0.004 
+<section> 1.34 0.12 
+<section> by ART 1768/2582
+ 
+<section> P analysis of
+ incidence
+ 2.41) 
+<section> 1.63) 
+<section> 1.94) 
+<section> 1.56) 
+<section> 1.64) 
+<section> 1.61) 
+<section> 1.86) 
+<section> 1.16) 
+<section> 2.24) 
+<section> risk
+ 1.66) 
+<section> Subgroup HIVST: 6.9% registers. 
+<section> RD,
+ to to to to to to to to to
+ 
+<section> ratio 
+<section> Risk 
+<section> CI) 
+<section> (95% value 
+<section> to (1.2 
+<section> 1.42 <0.001 
+<section> (1.31 
+<section> 1.77 <0.001 
+<section> (1.16 
+<section> 1.37 <0.001 
+<section> (1.25 
+<section> 1.55 <0.001 
+<section> (1.14 
+<section> 1.33 <0.001 
+<section> (1.06 
+<section> 1.32 0.02 
+<section> (1.17 
+<section> 1.37 <0.001 
+<section> (1.24 
+<section> 1.51 <0.001 
+<section> (1.06 
+<section> 1.11 <0.001 
+<section> (0.91 
+<section> 1.43 0.11 status). 
+<section> cumulative months, RD: 
+<section> adjusted facility 
+<section> clusters;
+ 
+<section> P for 12 health facility-­defined
+ 
+<section> difference 
+<section> 39.2%) 
+<section> marital adjusted last (77.8%);
+ 25.7%) 
+<section> 24.6%) 
+<section> 34.0%) 
+<section> 21.6%) 
+<section> 24.8%) 
+<section> 23.8%) 
+<section> 32.1%) 
+<section> 10.3%) 
+<section> 713.7) 
+<section> the and
+ 
+<section> risk to (6.5% 
+<section> to (12.9% to (4.8% to (7.1% to (4.0% to (1.1% to (3.7% to (8.3% to (2.3% to (−95.5 
+<section> sex, 
+<section> (age, outcome in testing 2074/2665 village 
+<section> using 
+<section> health
+ 
+<section> Adjusted CI) 
+<section> (95% value 
+<section> 16.1% 0.002 
+<section> 26.1% <0.001 
+<section> 14.7% 0.006 
+<section> 20.6% 0.01 
+<section> 12.8% 0.007 
+<section> 13.0% 0.03 
+<section> 13.8% 0.01 
+<section> 20.2% 0.002 
+<section> 6.3% 0.004 
+<section> 309.1 0.13 
+<section> covariates initiation HIV 
+<section> For SOC: estimated 
+<section> in variation
+ 
+<section> P implementation. (86.9%),
+ individual-­level ART of
+ 28.3%) 
+<section> 41.5%) 
+<section> 27.0%) 
+<section> 34.5%) 
+<section> 25.4%) 
+<section> 25.9%) 
+<section> 27.6%) 
+<section> 34.2%) 
+<section> 12.5%) 
+<section> 823.8) 
+<section> sex. was coefficient
+ 
+<section> 2243/2582 which
+ for
+ 
+<section> difference 
+<section> to (10.1% to (13.4% to (8.1% 
+<section> to (10.1% to (8.4% to (3.1% to (8.7% 
+<section> to (11.5% to (4.7% to (−90.1 and except HIVST p=0.18. 
+<section> area, k, self-­testing;
+ 
+<section> Risk 
+<section> CI) 
+<section> (95% value 
+<section> 19.2% <0.001 
+<section> 27.5% <0.001 
+<section> 17.6% <0.001 
+<section> 22.3% 0.001 
+<section> 16.9% <0.001 
+<section> 14.5% 0.02 
+<section> 18.2% <0.001 
+<section> 22.8% <0.001 
+<section> 8.6% <0.001 
+<section> 366.9 0.11 
+<section> months) covariates community-­based HIVST: 
+<section> lowest), 
+<section> evaluation
+ 
+<section> testing,
+ 
+<section> P 12 HIV
+ 
+<section> last same vs the HIVST,
+ 
+<section> GM 
+<section> 48.1% 
+<section> 39.2% 
+<section> 49.5% 
+<section> 41.2% 
+<section> 53.1% 
+<section> 46.0% 
+<section> 51.6% 
+<section> 46.4% 
+<section> 78.6% 
+<section> 810.6 
+<section> the 
+<section> in the 
+<section> for separate 
+<section> HIV 
+<section> lifetime (highest in years proportions);
+ (testing adjusts interaction ≥16
+ 
+<section> arm 
+<section> study SOC 
+<section> (%) 
+<section> n/N 
+<section> 1422/2908 
+<section> (48.9%) 
+<section> 185/439 
+<section> (42.1%) 
+<section> 1237/2469 
+<section> (50.1%) 
+<section> 529/1264 
+<section> (41.9%) 
+<section> 893/1644 
+<section> (54.3%) 
+<section> 427/902 
+<section> (47.3%) 
+<section> 454/868 
+<section> (52.3%) 
+<section> 477/1013 
+<section> (47.1%) 
+<section> 2283/2908 
+<section> (78.5%) 
+<section> 468/51 (909.0) 
+<section> outcomes sex 
+<section> by 
+<section> to exposure 
+<section> For 
+<section> p<0.001. 
+<section> for 
+<section> adults 
+<section> of population 
+<section> cluster-­level
+ 
+<section> analysis (11.5%–26.5%), value
+ 
+<section> by 
+<section> outcomes GM 
+<section> 68.1% 
+<section> 69.5% 
+<section> 68.0% 
+<section> 64.1% 
+<section> 70.9% 
+<section> 60.6% 
+<section> 70.8% 
+<section> 70.2% 
+<section> 87.1% 
+<section> 1159.1 
+<section> baseline to due P p=0.74. (of
+ 
+<section> cluster-­level Subgroup dropped estimated mean
+ 
+<section> secondary HIVST 
+<section> (%) 
+<section> 1768/2582 
+<section> (68.5%) 
+<section> 252/366 
+<section> (68.9%) 
+<section> 1516/2216 
+<section> (68.4%) 
+<section> 699/1075 
+<section> (65.0%) 
+<section> 1069/1507 
+<section> (70.9%) 
+<section> index‡ 
+<section> 463/723 
+<section> (64.0%) 
+<section> 590/829 
+<section> (71.2%) 
+<section> 660/961 
+<section> (68.7%) 
+<section> 2243/2582 
+<section> (86.9%) 
+<section> 527/44 (1187.2) 
+<section> group. cluster 19.0% lowest), 
+<section> the geometric
+ 
+<section> n/N 
+<section> wealth for adjusted age SOC RD: p=0.18. 
+<section> p=0.07. 
+<section> vs (middle 
+<section> is initiations GM,
+ adjusted
+ 
+<section> and 
+<section> Primary 
+<section> 2 
+<section> Table 
+<section> outcome 
+<section> Primary 
+<section> last 
+<section> the 
+<section> in testing 
+<section> HIV 
+<section> months 
+<section> group* 
+<section> age 
+<section> by Stratified 
+<section> years 
+<section>  16–19 
+<section> years 
+<section>  ≥20 
+<section> sex† 
+<section> by Stratified  Male 
+<section>  Female 
+<section> household 
+<section> by Stratified  Lowest 
+<section>  Middle 
+<section>  Highest 
+<section> outcomes 
+<section> Secondary 
+<section> testing 
+<section> HIV 
+<section> Lifetime 
+<section> per 
+<section> initiation 
+<section> ART 
+<section> across 
+<section> population 
+<section> 000 
+<section> period§ 
+<section> intervention 
+<section> outcomes 
+<section> testing 
+<section> HIV 
+<section> for except 
+<section> covariates 
+<section> same 
+<section> period. 
+<section> preintervention 
+<section> one 
+<section> with 
+<section> analysis 
+<section> hoc 
+<section> Post 
+<section> (46.2%); 
+<section> 1230/2665 
+<section> interaction, 
+<section> for value 
+<section> *P 
+<section> interaction, 
+<section> for 
+<section> value 
+<section> †P 
+<section> interaction 
+<section> for 
+<section> value 
+<section> ‡P 
+<section> ART 
+<section> for §Denominator 
+<section> therapy; 
+<section> antiretroviral 
+<section> ART, care. 
+<insert> HIVST SOC
+ n (%) n (%)
+ (n=2582) (n=2908)
+ Heard of self-­testing*
+ Ever self-­tested†
+ 2294 (88.8)
+ 1097 (42.5)
+ 917 (31.5)
+ 240 (8.3)
+ Self-­tested in the last
+ months‡
+ 974 (37.7) 211 (7.3)
+ If self-­tested in most recent
+ test:
+ (n=794)
+ Self-­test distributor
+  CBDA 777 (97.9)
+  Other distributor 17 (2.1)
+ Self-­test collection location
+  Home 609 (76.7)
+  Other location 185 (23.3)
+ Self-­test result§
+  New positive 6 (0.8)
+  Repeat positive 16 (2.0)
+  Negative 771 (97.2)
+ Linked to confirmatory HIV
+ testing (n=22)
+ 7 (31.8)
+ Initiated on ART (n=22)
+ Forced to self-­test or
+ disclose self-­test result
+ 6 (27.3)
+ 4 (0.5)
+ *1 missing value in the HIVST arm.
+ †1 missing value in the HIVST arm.
+ ‡2 missing values in the HIVST arm.
+ §1 missing value in the HIVST arm.
+ ART, antiretroviral therapy; CBDA, community-­based distribution
+ agent; HIVST, HIV self-­testing; SOC, standard of care.
+ Table 3 Fidelity to HIV self-­testing intervention 
+<iend>
+
+ repeat positive result, of whom 31.8% (7/22) linked to
+ confirmatory HIV testing and 27.3% (6/22) initiated on
+ ART.
+ 
+<section> Safety outcomes
+ At endline, 0.5% (4/794) of participants reported being
+ forced to self-­test or disclose their self-­test results (table 3).
+ Three events of social harm related to HIVST were
+ reported, managed and resolved through the community
+ reporting system: one case involved discrimination from
+ household members for collecting an HIVST kit; two
+ cases involved temporary separation between couples,
+ with one event from self-­testing and one event due to
+ newly identified serodiscordancy within the couple. In
+ an additional event reported to implementers in non-­
+ evaluation areas, a perinatally infected adolescent under
+ the eligible age acquired an HIVST kit and suffered a
+ highly stigmatising response following self-­testing with
+ her friends. These events have been described in detail
+ elsewhere.
+ 
+<section> DISCUSSION
+ 
+<section> The main findings from this cluster randomised trial were
+ that door-­to-­door distribution of HIVST kits by CBDAs
+ increased recent and lifetime HIV testing at population
+ level in rural Malawi. Our primary outcome of recent
+ testing increased by 16.1%. Lifetime testing increased by
+ 6.3%, with differences between arms most pronounced
+ among priority subgroups: adolescents aged 16–19 years
+ and men. The HIVST intervention did not show an effect
+ on cumulative incidence of ART initiations at health
+ facilities for the overall 16-­month intervention period.
+ HIVST use was reported by 42.5% of participants in the
+ HIVST arm, with uptake highest among young men aged
+ 20–24 years and adolescent boys. Few serious adverse
+ events were reported. Our results therefore support
+ door-­to-­door HIVST as an effective and safe strategy that
+ can be used to meet HIV testing needs in underserved
+ rural populations.
+ Our study is one of three community-­based randomised
+ trials from rural settings in southern Africa that were
+ implemented as part of STAR. 14 19 20 Affordable, conve-
+ nient and safe HIV testing strategies are important for
+ rural populations, who often have more pronounced
+ barriers to accessing healthcare. 13 The STAR trials had
+ critical differences that can be used to guide policy and
+ future research priorities. Our results showed increased
+ recent and lifetime HIV testing from door-­ to-­ door
+ HIVST, consistent with a separate Zambian trial, which
+ added HIVST to an intensive community-­ based HIV
+ programme. 12 High coverage of lifetime testing (88.7%)
+ and lifetime HIVST use (50.2%) was reported for both
+ arms of the STAR Zimbabwe trial, which compared the
+ impact of remuneration strategies under campaign-­style
+ distribution by CBDAs on linkage to HIV care. 19 Our
+ study, along with the Zimbabwe trial, implemented door-­
+ to-­ door distribution. In contrast, provision of HIVST
+ kits at home, high-­density community sites and health
+ facilities under the STAR Zambia trial resulted in lower
+ HIVST use (26.3%) and no measurable increase in life-
+ time or recent testing. 20 Process outcomes, such as HIVST
+ awareness, were also lower in Zambia than in Malawi and
+ Zimbabwe, suggesting that door-­to-­door distribution can
+ lead to higher penetration than broader community-­
+ based models. 19
+ We showed encouraging uptake of HIVST, with minimal
+ social harms reported. Uptake was highest among young
+ men aged 20–24 years followed by adolescent boys aged
+ 16–19 years. Our study also reported increased lifetime
+ HIV testing among adolescents and men. HIVST can
+ bypass barriers that prevent uptake of standard HTS by
+ these priority subgroups, 10 21 with HIVST valued for the
+ convenience and confidentiality afforded. 5 22 However,
+ our results demonstrated lower uptake compared with
+ the STAR Zimbabwe trial, which evaluated more inten-
+ sive distribution across a shorter period of time. 19 Simi-
+ larly, a previous study in urban Malawi reported 84%
+ uptake from distribution of HIVST kits by community
+ volunteers, which may indicate higher acceptability 
+<section> among urban counterparts. 10 Understanding remaining
+ demand-­ side barriers may allow for further optimisa-
+ tion of community-­based HIVST strategies to maximise
+ coverage and impact among underserved subgroups.
+ Alternative HIVST strategies should also be considered.
+ In Malawi, facility-­based provision of HIVST kits among
+ outpatients increased coverage of HIV testing, especially
+ among adolescents. 23 Another study in Malawi found
+ that secondary distribution to male partners of pregnant
+ women extended testing coverage.
+ Our study did not observe an increase in ART initia-
+ tions for the overall 16-­month intervention period but
+ in subgroup analysis for the 6–11 months’ postinterven-
+ tion period. Further, 0.8% of participants reported a new
+ positive result from HIVST, with frequent repeat testing
+ among participants already known to be HIV positive.
+ Impact on ART uptake varied across STAR trials. 24 A non-­
+ randomised evaluation accompanying the Zimbabwe
+ trial estimated a 27% increase in ART initiation rates,
+ while no difference was observed in Zambia. 20 Linkage to
+ HIV care is practically difficult to capture, with potential
+ for measurement errors. 24 True impact on ART demand
+ from HIVST will depend on the prevalence of untreated
+ HIV, which has been declining in southern and eastern
+ Africa. 2 The intensity and reach of HIVST distribution
+ strategies will also influence population-­ level impact.
+ Additionally, interventions to encourage timely linkage
+ to health facilities may be required, such as provision
+ of home-­based HIV care or more substantial financial
+ incentives. 11
+ The benefits of community-­based HTS are well estab-
+ lished, with the main barrier to implementation including
+ high cost per test and cost per new diagnosis, especially as
+ countries reach the ‘First 90’ targets. 25 Economic analysis
+ of our intervention is reported separately. 26 CBDA distri-
+ bution showed average cost of 2017 US$8.15 per HIVST
+ kit distributed, with the main cost contributors including
+ personnel and HIVST kits. 26 Unit cost of community-­
+ based HIVST was higher than the average cost of facility-­
+ based HTS (2016 US$4.92) and facility-­ based HIVST
+ (US$4.99) in Malawi. 23 27 While community-­based HIVST
+ is likely to maintain higher levels of knowledge of recent
+ HIV status than standard HTS alone, sustainable provi-
+ sion will require further reductions in costs and optimi-
+ sation of linkage to HIV treatment and prevention. For
+ example, providing periodic campaigns is likely to be
+ less costly than maintaining a continuous programme,
+ especially if targeted to high-­prevalence populations or
+ underserved subgroups with ongoing HIV risk. Alterna-
+ tively, a community-­led approach for delivering HIVST
+ has potential to further reduce costs.
+ The main strength of this study is the use of a robust
+ cluster randomised design to report on the effectiveness
+ and safety of large-­scale implementation of community-­
+ based HIVST. Further, CBDAs are commonly used to
+ distribute health commodities in Malawi, with our find-
+ ings potentially generalisable to settings in sub-­Saharan
+ Africa with similar community health cadres. We also
+ add to the body of evidence on effective strategies for
+ expanding HIV testing coverage in rural, HIV-­prevalent
+ populations and among population subgroups with
+ substantial undiagnosed HIV.
+ Limitations included HIV testing outcomes that were
+ self-­reported and therefore susceptible to misreporting.
+ ART initiations may be underestimated if study residents
+ accessed non-­study health facilities, which we aimed to
+ minimise with our inclusion criteria of health facilities.
+ Non-­participation in the endline survey could result in
+ ascertainment bias, with response rates lower among
+ men than women. We did not account for household-­
+ level clustering, though this was unlikely to have altered
+ our findings. 29 We discontinued second randomisation of
+ home-­based HIV care in the HIVST arm; however, the
+ outcomes reported in this study were not affected. Data
+ on social harms were passively collected through commu-
+ nity reporting systems, potentially under-­ reporting
+ the number of adverse events. Finally, our findings are
+ limited to our intervention design, which included door-­
+ to-­door implementation through remunerated CBDAs.
+ 
+<section> CONCLUSION
+ Door-­ to-­ door distribution of HIVST kits by CBDAs
+ increased recent and lifetime HIV testing in rural, under-
+ served populations, including among adolescents 16–19
+ years and men. ART initiations showed no differences
+ between arms for the overall 16-­ month intervention
+ period. HIVST was very acceptable and safe, with uptake
+ highest among young men and adolescent boys. Door-­
+ to-­ door HIVST demonstrates significant potential to
+ contribute to HIV elimination goals in priority settings.
+ Further, as countries approach the ‘First 90’ targets, this
+ approach could be adapted for periodic implementation
+ to meet the ongoing need for HTS in settings with high
+ undiagnosed HIV.
+ 
+<section> Author affiliations
+ Department of Global Health and Development, Faculty of Public Health and Policy,
+ London School of Hygiene & Tropical Medicine, London, UK
+ Malawi-­Liverpool-­Wellcome Trust Clinical Research Programme, Blantyre, Malawi
+ Department of Infectious Disease Epidemiology, Faculty of Epidemiology and
+ Population Health, London School of Hygiene & Tropical Medicine, London, UK
+ School of Public Health, University of the Witwatersrand, Johannesburg-­
+ Braamfontein, Gauteng, South Africa
+ Population Services International, Blantyre, Malawi
+ Department of HIV and AIDS, Ministry of Health, Lilongwe, Malawi
+ Global HIV, Hepatitis and Sexually Transmitted Infections Programmes, World
+ Health Organization, Geneve, Switzerland
+ 8 Department of Clinical Research, Faculty of Infectious and Tropical Diseases,
+ London School of Hygiene & Tropical Medicine, London, UK
+ Department of International Public Health, Liverpool School of Tropical Medicine,
+ 
+<section> Liverpool, UK
+ Tropical Infectious Diseases Unit, Royal Liverpool University Hospital, Liverpool,
+ 
+<section> UK
+ Population Services International, Washington, DC, USA
+ 
+<section> Twitter Miriam Taegtmeyer @MiriamTaegtmeye
+ 
+<section> Acknowledgements We are grateful to the study participants; the Blantyre,
+ Machinga, Mwanza and Neno District Health Offices; the Department of HIV and
+ AIDS at the Ministry of Health; the Malawi-­Liverpool-­Wellcome Trust Clinical 
+<section> Research Programme and Population Services International Malawi teams; and the
+ technical advisory group.
+ 
+<section> Contributors ELC conceptualised the study. PPI, KF, RC, ND, KH and
+ ELC contributed to the study design. PPI, MK, RC and RNz supervised the
+ implementation of the study, including the intervention and data collection. PPI,
+ MN and KF conducted the statistical analysis. PI, KF, RNy, CCJ, MT, ND, KH and
+ ELC critically interpreted the results. PPI wrote the first draft of the manuscript. All
+ authors reviewed and approved the final manuscript.
+ 
+<section> Funding The study was funded by Unitaid (grant number: PO 8477-­0-­600). ELC is
+ also funded by the Wellcome Trust (WT091769).
+ 
+<section> Competing interests None declared.
+ 
+<section> Patient consent for publication Not required.
+ 
+<section> Ethics approval The trial is registered with C ​ linicalTrials.​gov. The trial protocol
+ (https://hivstar.lshtm.ac.uk/protocols/) was approved by the University of Malawi
+ College of Medicine (ref: P.01/16/1861) and the London School of Hygiene & Tropical
+ Medicine (ref: 10566).
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data availability statement Data are available in a public repository. Data are
+ available upon request through ​datacompass.​lshtm.​ac.​uk. The protocol, statistical
+ analysis plan, and CONSORT checklist are available as online supplementary files.
+ 
+<section> Supplemental material This content has been supplied by the author(s). It has
+ not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been
+ peer-­reviewed. Any opinions or recommendations discussed are solely those
+ of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and
+ responsibility arising from any reliance placed on the content. Where the content
+ includes any translated material, BMJ does not warrant the accuracy and reliability
+ of the translations (including but not limited to local regulations, clinical guidelines,
+ terminology, drug names and drug dosages), and is not responsible for any error
+ and/or omissions arising from translation and adaptation or otherwise.
+ 
+<section> Open access This is an open access article distributed under the terms of the
+ Creative Commons Attribution IGO License (CC BY NC 3.0 IGO), which permits use,
+ distribution,and reproduction in any medium, provided the original work is properly
+ cited. In any reproduction of this article there should not be any suggestion that
+ WHO or this article endorse any specific organization or products. The use of the
+ WHO logo is not permitted. This notice should be preserved along with the article’s
+ original URL.
+ Disclaimer: The author is a staff member of the World Health Organization. The
+ author alone is responsible for the views expressed in this publication and they
+ do not necessarily represent the views, decisions or policies of the World Health
+ Organization.
+ 
+<section> ORCID iDs
+ 
+<section> Pitchaya P Indravudh http://orcid.org/0000-0003-4013-7645
+ Melissa Neuman http://orcid.org/0000-0002-8870-6504
+ 
+<section> REFERENCES
+ 
+<section> 1 UNAIDS. Unaids data 2017. Geneva, Switzerland: Joint United
+ Nations Programme on HIV/AIDS (UNAIDS), 2017.
+ 2 Ministry of Health [Malawi]. Malawi population-­based HIV impact
+ assessment (MPHIA) 2015-­2016: final report. Lilongwe: Ministry of
+ Health, 2018.
+ 3 Abdool Karim SS, Karim SSA. HIV-­1 Epidemic Control - Insights
+ from Test-­and-­Treat Trials. N Engl J Med 2019;381:286–8.
+ 4 Chikwari CD, Dringus S, Ferrand RA. Barriers to, and emerging
+ strategies for, HIV testing among adolescents in sub-­Saharan Africa.
+ 
+<section> Curr Opin HIV AIDS 2018;13:257–64.
+ 5 Indravudh PP, Sibanda EL, d'Elbée M, et al. 'I will choose when to
+ test, where I want to test': investigating young people's preferences
+ for HIV self-­testing in Malawi and Zimbabwe. AIDS 2017;31 Suppl
+ 3:S203–12.
+ 6 Sharma M, Barnabas RV, Celum C. Community-­Based strategies
+ to strengthen men's engagement in the HIV care cascade in sub-­
+ Saharan Africa. PLoS Med 2017;14:e1002262.
+ 7 Sharma M, Ying R, Tarr G, et al. Systematic review and meta-­
+ analysis of community and facility-­based HIV testing to
+ address linkage to care gaps in sub-­Saharan Africa. Nature
+ 2015;528:S77–85.
+ 
+<section> 8 Havlir D, Lockman S, Ayles H, et al. What do the universal test and
+ treat trials tell us about the path to HIV epidemic control? J Int AIDS
+ Soc 2020;23:e25455.
+ 
+<section> 9 WHO. Consolidated guidelines on HIV testing services for a changing
+ epidemic. Geneva: World Health Organization (WHO), 2019.
+ 10 Choko AT, MacPherson P, Webb EL, et al. Uptake, accuracy, safety,
+ and linkage into care over two years of promoting annual self-­testing
+ for HIV in Blantyre, Malawi: a community-­based prospective study.
+ 
+<section> PLoS Med 2015;12:e1001873.
+ 11 MacPherson P, Lalloo DG, Webb EL, et al. Effect of optional home
+ initiation of HIV care following HIV self-­testing on antiretroviral
+ therapy initiation among adults in Malawi: a randomized clinical trial.
+ 
+<section> JAMA 2014;312:372–9.
+ 12 Mulubwa C, Hensen B, Phiri MM, et al. Community based
+ distribution of oral HIV self-­testing kits in Zambia: a cluster-­
+ randomised trial nested in four HPTN 071 (PopART) intervention
+ communities. Lancet HIV 2019;6:e81–92.
+ 13 National Statistical Office (NSO) [Malawi] and ICF. Malawi
+ demographic and health survey (DHS) 2015-­16. Zomba, Malawi, and
+ 
+<section> Rockville, Maryland, USA: NSO and ICF, 2017.
+ 14 Neuman M, Indravudh P, Chilongosi R, et al. The effectiveness
+ and cost-­effectiveness of community-­based lay distribution of
+ HIV self-­tests in increasing uptake of HIV testing among adults in
+ rural Malawi and rural and peri-­urban Zambia: protocol for StAR
+ (self-­testing for Africa) cluster randomized evaluations. BMC Public
+ Health 2018;18:1234–34.
+ 15 Hayes RJ, Moulton LH. Cluster randomised trials. Portland, OR:
+ Taylor & Francis Group, LLC, 2017.
+ 16 Simwinga M, Kumwenda MK, Dacombe RJ, et al. Ability to
+ understand and correctly follow HIV Self-­Test kit Instructions for use:
+ applying the cognitive interview technique in Malawi and Zambia. J
+ Int AIDS Soc 2019;22 Suppl 1:e25253.
+ 17 Kumwenda MK, Johnson CC, Choko AT, et al. Exploring social
+ harms during distribution of HIV self-­testing kits using mixed-­
+ methods approaches in Malawi. J Int AIDS Soc 2019;22 Suppl
+ 1:e25251–e51.
+ 18 National Statistical Office (NSO) [Malawi] and ICF. Malawi
+ demographic and health survey (DHS) 2010. Zomba, Malawi, and
+ 
+<section> Rockville, Maryland, USA: NSO and ICF, 2011.
+ 19 Sibanda E, Neuman M, Tumushime M. Linkage to care after HIV
+ self-­testing in Zimbabwe: a cluster-­randomised trial. Conference
+ on retroviruses and opportunistic infections (CROI 2018). Boston,
+ Massachusetts, 2018.
+ 20 Tsamwa D, Handima N, Sigande L. Does community-­based
+ distribution of HIV Self-­Test kits increase uptake of HIV testing at
+ population level? results of a cluster-­randomised trial in Zambia. 3rd
+ HIV research for prevention conference (R4P 2018). Madrid, Spain:
+ International AIDS Society, 2018.
+ 21 Choko AT, Corbett EL, Stallard N, et al. Hiv self-­testing alone or with
+ additional interventions, including financial incentives, and linkage
+ to care or prevention among male partners of antenatal care clinic
+ 
+<section> Attendees in Malawi: an adaptive multi-­arm, multi-­stage cluster
+ randomised trial. PLoS Med 2019;16:e1002719.
+ 22 Choko AT, Kumwenda MK, Johnson CC, et al. Acceptability of
+ woman-­delivered HIV self-­testing to the male partner, and additional
+ interventions: a qualitative study of antenatal care participants in
+ Malawi. J Int AIDS Soc 2017;20:21610.
+ 23 Dovel K, Shaba F, Offorjebe OA, et al. Effect of facility-­based HIV
+ self-­testing on uptake of testing among outpatients in Malawi: a
+ cluster-­randomised trial. Lancet Glob Health 2020;8:e276–87.
+ 24 Neuman M, Taegtmeyer M, Hatzold K, et al. Challenges in
+ measurement of linkage following HIV self-­testing: examples from
+ the StAR project. J Int AIDS Soc 2019;22 Suppl 1:e25238–e38.
+ 25 Cambiano V, Johnson CC, Hatzold K, et al. The impact and cost-­
+ effectiveness of community-­based HIV self-­testing in sub-­Saharan
+ 
+<section> Africa: a health economic and modelling analysis. J Int AIDS Soc
+ 2019;22 Suppl 1:e25243.
+ 26 Mangenah C, Mwenge L, Sande L, et al. Economic cost analysis
+ of door-­to-­door community-­based distribution of HIV Self-­Test kits
+ in Malawi, Zambia and Zimbabwe. J Int AIDS Soc 2019;22 Suppl
+ 1:e25255–e55.
+ 27 Mwenge L, Sande L, Mangenah C, et al. Costs of facility-­
+ based HIV testing in Malawi, Zambia and Zimbabwe. PLoS One
+ 2017;12:e0185740.
+ 28 Indravudh PP, Fielding K, Kumwenda MK, et al. Community-­led
+ delivery of HIV self-­testing to improve HIV testing, art initiation and
+ broader social outcomes in rural Malawi: study protocol for a cluster-­
+ randomised trial. BMC Infect Dis 2019;19:814.
+ 29 Bottomley C, Kirby MJ, Lindsay SW, et al. Can the buck always be
+ passed to the highest level of clustering? BMC Med Res Methodol
+ 
+<section> 2016;16:29

@@ -1,0 +1,1963 @@
+
+<section> Effect of home-­based
+ 
+<section> childhood mortality
+ 
+<section> India: a cluster randomised
+ 
+<section> Ashish Rambhau Satav, 1,2 Kavita Ashish
+ Jayashree Pendharkar, 5 Vibhawari Dani,
+ 
+<section> Eric A F Simões
+ 
+<section> To cite: Satav AR, Satav KA, ABSTRACT
+ 
+<section> Bharadwaj A, et al. Effect Background Melghat, an impoverished rural area in
+ of home-­based childcare Maharashtra state, India; has scarce hospital services
+ on childhood mortality in and low health-­seeking behaviour. At baseline (2004) the
+ 
+<section> rural Maharashtra, India: a
+ under-­five mortality rate (U5MR) (number of deaths in
+ 
+<section> cluster randomised controlled
+ trial. BMJ Global Health children aged 0–5 years/1000 live births) was 147.21 and
+ 2022;7:e008909. doi:10.1136/ infant mortality rate (IMR) (number of deaths of infants
+ bmjgh-2022-008909 aged under 1 year/1000 live births) was 106.6 per 1000
+ live births. We aimed at reducing mortality rates through
+ 
+<section> Handling editor Valery Ridde home-­based child care (HBCC) using village health workers
+ (VHWs).
+ 
+<section> ► Additional supplemental Methods A cluster-­randomised control trial was
+ material is published online only.
+ To view, please visit the journal conducted in 34 randomly assigned clusters/villages of
+ online (http://​dx. d oi.​org/​10.​ Melghat, Maharashtra state, between 2004 and 2009.
+ 1136/ b mjgh-​2022- 08909). Participants included all under-­five children and their
+ parents. Interventions delivered through VHWs were
+ patient–public involvement, newborn care, disease
+ Received 25 February 2022 management and behaviour change communications.
+ Accepted 18 June 2022 Primary outcome indicators were U5MR and IMR.
+ Secondary outcome indicators were neonatal mortality rate
+ (NMR) (number of neonatal deaths aged 0–28 days/1000
+ live births) and perinatal mortality rate (PMR) (number of
+ stillbirths and early neonatal deaths/1000 total births).
+ Analysis was by intention-­to-­treat at the individual level.
+ This trial was extended to a service phase (2010–2015)
+ in both arms and a government replication phase (2016–
+ 2019) only for the intervention clusters/areas (IA).
+ 
+<section> Findings There were 18 control areas/clusters (CA)
+ allocated and analysed with 4426 individuals, and 16
+ of 18 allocated IA, analysed with 3230 individuals. The
+ IMR and U5MR in IA were reduced from 106.60 and
+ 147.21 to 32.75 and 50.38 (reduction by 69.28% and
+ 65.78%, respectively) compared with increases in CA
+ from 67.67 and 105.3 to 86.83 and 122.8, respectively,
+ from baseline to end of intervention. NMR and PMR in
+ 
+<section> © Author(s) (or their IA showed reductions from 50.76 to 22.67 (by 55.34%)
+ employer(s)) 2022. Re-­use and from 75.06 to 24.94 (by 66.77%) respectively. These
+ permitted under CC BY-­NC. No gains extended to villages in the service and replication
+ commercial re-­use. See rights phases.
+ and permissions. Published by Interpretation This socio-­culturally contextualised model
+ BMJ. for HBCC through VHWs backed up with institutional
+ For numbered affiliations see support is effective for significant reduction of U5MR, IMR
+ end of article. and NMR in impoverished rural areas. This reduction was
+ 
+<section> Correspondence to maintained in the study area during the service phase,
+ Dr Ashish Rambhau Satav; indicating feasibility of implementation in large-­scale
+ d rashish@​mahantrust.​org public health programmes. Replicability of the model was
+ 
+<section> childcare on
+ 
+<section> in rural Maharashtra,
+ 
+<section> controlled trial
+ 
+<section> Satav, 3 Abhijeet Bharadwaj,
+ 4 Suresh Ughade, 6 Dhananjay Raje,
+ 
+<section> WHAT IS ALREADY KNOWN ON THIS TOPIC
+ 
+<section> ⇒ A Cochrane review of integrated community case
+ management programmes revealed scarcity of ef-
+ fective, replicable, scientifically sound, community
+ health worker driven, intervention model in the rural
+ tribal community of India and developing countries
+ for reducing very high under-­ five mortality rate
+ (U5MR) and infant mortality rate (IMR).
+ 
+<section> WHAT THIS STUDY ADDS
+ 
+<section> ⇒ This cluster randomised controlled trial with ro-
+ bust study design, sound scientific base, using an
+ integrated approach of home-­based newborn care,
+ post-­neonatal infectious disease management, an-
+ tenatal care and behaviour change communication
+ in the intervention arm had a significant impact on
+ U5MR, IMR, neonatal mortality rate and perinatal
+ mortality rate in an impoverished area that was sus-
+ tained for 10 years following the trial, compared with
+ the standard of care clusters.
+ 
+<section> HOW THIS STUDY MIGHT AFFECT RESEARCH,
+ 
+<section> PRACTICE OR POLICY
+ 
+<section> ⇒ Government policies can be framed for wider, long-­
+ term and sustainable replication of this community-­
+ based childcare model via community health
+ workers for reducing U5MR and IMR in rural, difficult
+ to access, impoverished areas of world with scarcity
+ of health services and low health-­seeking behaviour.
+ 
+<section> demonstrated by a linear decline in all the mortality rates
+ in 20 new villages during the government phase.
+ 
+<section> Trial registration number NCT02473796.
+ 
+<section> INTRODUCTION
+ Globally it has been estimated that there were
+ 5.2 million under-­ 5 years childhood deaths
+ in 2019 1 of which 20% occurred in India.
+ In India in 2004, the mortality rates/1000
+ live births were U5MR (number of deaths 
+<section> in children aged 0–5 years/1000 live births): 76, 1 IMR
+ (number of deaths of infants aged under 1 year/1000
+ live births): 1 and NMR (number of neonatal deaths
+ aged 0–28 days/1000 live births): 38.8 2 and NMR in
+ 2001 was 37.9. 3 In contrast the IMR for industrialised
+ countries was 5.0 in 2005. 4 Infant mortality remains an
+ important measure of social well-­being. While diarrhoea,
+ pneumonia, malaria and under nutrition are common
+ preventable causes of post-­neonatal deaths in rural India,
+ the major reason for these high rates are persistent diffi-
+ culties in access to treatment and in navigation of the
+ referral pathways. 1 5 Even after accessing health facilities,
+ the quality of care in most rural areas in low-­income and
+ middle-­income countries (LMICs) is poor. 6 Despite the
+ development of the WHO guidelines for care at first level
+ facilities and hospitals, 7 most countries in LMICs, do not
+ have well-­ functioning health systems that reach rural
+ areas where mortality is highest. 8 The cost of even outpa-
+ tient care can push marginalised families into poverty,
+ since ‘free care’ is rarely available. 9 Health facilities alone
+ are ineffective at averting a large proportion of child-
+ hood deaths in rural areas. 10 Quality neonatal care is not
+ available to most neonates in LMICs because hospitals
+ are inaccessible and costly. 11 A combination of commu-
+ nity outreach and health system strengthening would be
+ necessary to reduce child deaths in rural India.
+ Though the Indian U5MR and NMR have declined
+ between 2000 and 2015 (U5MR=46.6, NMR=27), 13 there
+ are remarkable disparities between rural and urban
+ areas, between poorer and richer districts. 14 We found
+ that IMR in India reduced from around 80 to 34 per
+ 1000 live births at the national level from 1990 to 2016.
+ In 2004, just prior to start of the study, the rural popu-
+ lation in India constituted 71.1% of Indian population
+ and the U5MR varied between 8 and 131.5, while NMR
+ varied between 3.8 and 84, in New Delhi and Odisha
+ (tribal dominated state), respectively. 16 HBNC interven-
+ tions have been shown to prevent 30%–60% of newborn
+ deaths in high-­mortality settings, 17 and the WHO recom-
+ mends community-­based preventive and curative care for
+ high risk and poor populations by CHWs supported by
+ the health system with focused training. 18
+ We present results of a 15 years HBCC study in a rural
+ area of India that started as a cluster randomised control
+ trial (cRCT) (2004–2010), had a service phase (2011–
+ 2015) and a replication phase (2016–2019).
+ 
+<section> METHODS
+ Study design and participants
+ We conducted a community based, cRCT of HBCC, in
+ rural Melghat, Maharashtra, India. Since interventions
+ were administered by VHWs at the village level, a village was
+ defined as a cluster unit to minimise treatment contamina-
+ tion between intervention and control groups.
+ The study area, Melghat is spread over 4000 km , in
+ villages, with a population of 280 000. A baseline survey
+ revealed widespread faulty child-­rearing practices, large
+ family sizes, treatment by traditional faith healers and low
+ health-­seeking behaviour. 21 The government healthcare
+ system consists of: (a) subcentre staffed with one para-
+ medical worker per 4–5 villages, (b) a primary health
+ centre (PHC) for 30 villages manned by a physician.
+ (The physician to population ratio was >1:10 000). The
+ average distance of PHCs from villages was 19 km. Every
+ village participated in the Integrated Child Develop-
+ ment Scheme (ICDS) providing food supplementation,
+ immunisation, deworming and oral rehydration solution
+ (ORS) to all under-­fives.
+ 
+<section> Hypothesis
+ 
+<section> Cluster-­level objectives were to reduce the U5MR and
+ IMR from 147.21 to 106.60/1000 live births, respectively,
+ by at least 35% in the usual resident population of 14
+ in 16 villages of Melghat over 5 years.
+ 
+<section> Patient and public involvement
+ Aim of patient and public involvement in the study
+ Our survey-­ based analysis (year 2002–2003) of very high
+ U5MR in Melghat revealed that the existing policies, health-
+ care system and government interventions were malaligned
+ to the community’s needs and socio-­ cultural practices,
+ resulting in low healthcare seeking behaviour. A survey was
+ done to understand the underlying causes of the very high
+ U5MR in Melghat. Hence, we included community partici-
+ pation and patient and public involvement (PPI) as a critical
+ part of the intervention to reduce U5MR and IMR.
+ 
+<section> Description of the methods used for PPI
+ The public was first involved through gramsabha/
+ community meetings with >60% of adults in the villages
+ in attendance. We obtained informed written consent
+ from the community members present at these meetings,
+ that were designed to explain the aims and methods to
+ be used in the research study. The principal investigator
+ and the study team conducted these meetings to under-
+ stand the community’s needs, their demand for health
+ services, as well as acceptable and approachable methods
+ for service delivery. Our team conducted door-­to-­door
+ surveys to understand the health problems, priorities,
+ along with the most important and common causes
+ of deaths. After this, we discovered that the commu-
+ nity wanted easily accessible, free, culturally acceptable
+ services from a person who knew the local language
+ and traditions and who respected the community and
+ understood its problems. They identified HBCC as the
+ most urgent need. Thus the experience, preferences and
+ health needs of community members were used to design
+ the methodology of the study. We worked in close associ-
+ ation with the traditional health system (ie, birth attend-
+ ants, community leaders and traditional faith healers).
+ We conducted all our interventions in the community in
+ accordance with their requests, respecting their culture,
+ traditional practices, language and socioeconomic condi-
+ tions. The women showed reluctance for hospital-­based
+ delivery and newborn care. They preferred delivery by 
+<section> traditional birth attendants (TBAs). Hence, the HBCC
+ programme was implemented by trained tribal, socially
+ sensitive, female VHWs who provided culturally accept-
+ able good quality care and BCC in the local dialect. Our
+ trained TBAs provided safe and hygienic home deliveries.
+ Subsequently informed written consent was obtained
+ from parents of all study children who participated in the
+ trial, prior to any study related interventions.
+ 
+<section> Recruitment in the study
+ Local tribal VHWs recruited study participants from the
+ community in which they lived.
+ 
+<section> Outcome selection by PPI
+ After intensive community meetings and surveys, we
+ realised that the high under-­five mortality was a health
+ priority of the community. Hence, we kept U5MR and
+ IMR as the primary outcome measures.
+ 
+<section> The extent to which PPI influenced the study overall
+ With the help of PPI, we could plan culturally acceptable,
+ easily accessible and affordable interventions following
+ community needs. Community participation played a
+ crucial role in understanding the problems and appro-
+ priate solutions to solve them. PPI also helped to sustain
+ our study for 17 years. The government assisted in repli-
+ cation of our PPI model in the 20 new villages.
+ 
+<section> PPI involvement in dissemination of the study results to
+ participants and linked communities
+ The community selected VHWs, TBAs and key persons
+ in the villages to implement our interventions and share
+ results during gramsabhas once every 4 months and to
+ mobilise the community for our programme.
+ 
+<section> Inclusion and exclusion criteria
+ The participants were under-­five children, their parents
+ and pregnant women who were permanent residents
+ of 34 study villages in Melghat. Children migrating
+ with parents and leaving the study area for more than
+ 6 months were considered as having migrated perma-
+ nently, and were excluded from the analyses.
+ 
+<section> Randomisation and masking
+ Dharni block of Melghat, consisting of 160 villages, was
+ divided into five zones. The sample size required
+ villages (clusters). Eight villages from each zone were
+ randomly selected and two more villages from neigh-
+ bouring Chikhaldara block were randomly added using
+ a lottery method by a member of the study community
+ in order to generalise the results beyond our block and
+ to understand the impact on different blocks, with a
+ different administrative structure. Out of these 42 clus-
+ ters, 36 clusters were selected based on their willingness
+ to participate. The clusters were block stratified according
+ to their distances from the base hospital (<5 km, 5–25 km
+ and >25 km). A random allocation sequence assigned
+ clusters to the intervention arm (IA) and control arm
+ (CA) by an external person. The allocation was masked,
+ concealed and based on clusters and not on individuals.
+ Participants were blinded after assignment to interven-
+ tions. Infants and children in both the CA and IA received
+ standard care following Government of India guidelines
+ at its village, PHC and hospitals. In addition, IA received
+ supervised HBCC assigned by investigators.
+ The de-­ facto method 23 was used for calculation of
+ mortality rates. All births and deaths actually occurring in
+ the clusters or hospitals from IA and CA were included.
+ A complete enumeration methodology was used to
+ include all under-­fives and pregnant women in clusters.
+ The VHWs collected the vital events in the two arms by
+ prospective door-­to-­door surveys of the households within
+ 24 hours of the event. They filled the death and birth
+ forms, confirmed by the parents or near relatives in the
+ absence of parents, who signed the forms. Each vital event
+ was confirmed by a data collection supervisor (within
+ days) and a retrospective surveyor (within 6 months) by
+ door-­to-­door visits to the household. All vital events were
+ further confirmed by a sarpanch (elected village head)
+ and a police patil (government appointed village key
+ person) within 15 days of the event. We also collected
+ vital data from government health and the ICDS records,
+ to supplement any missing vital data. Verbal autopsies
+ were conducted to by data collection supervisors and
+ VHWs. Deaths were verified by the, sarpanch and police
+ patil. While implementation could not be masked due
+ to the visible nature of the intervention, boundaries to
+ limit communication between the two arms were closely
+ monitored. Patients living in the CA were not treated in
+ the IA during the research phase.
+ After obtaining community consent to do the trial,
+ approval from the MAHAN independent ethical
+ committee was obtained. Informed written consent was
+ obtained from the parents of all infants and children who
+ participated in the study. The study was registered with ​
+ ClinicalTrials.​gov.
+ 
+<section> Study phases
+ 
+<section> Baseline phase: January 2004–December 2004
+ 
+<section> Microplanning
+ Participatory community meetings were held at the start
+ of the study (online supplemental annexure-­ 1) that
+ provided an introduction of the study to the community,
+ invited their collaboration, identified resources for child
+ health and finally resulted in obtaining written commu-
+ nity consent from village elders at both IA and CA. Inter-
+ ventions were based on inputs from qualitative focus
+ group discussions and surveys regarding high-­risk behav-
+ iours for child mortality, potential barriers to implemen-
+ tation and taking into consideration factors affecting
+ behaviour change. The study team activities in CA were:
+ (a) consent of villagers, (b) census, (c) village mapping
+ at the beginning of the research phase, (d) collection of
+ vital statistics, for example, death, birth, verbal autop-
+ sies to define the causes of deaths during the entire
+ research and service phases and (e) anthropometry at
+ the baseline and at the end of the research phase (online 
+<section> supplemental annexure-­1). Consent was needed in the
+ control area as we were collecting (a) census data, (b)
+ personal vital data of birth, deaths and cause of deaths
+ and (c) anthropometry of children.
+ 
+<section> Selection and trainings of field workers
+ VHWs, data collection supervisors, medical supervisor,
+ BCC supervisors, programme manager, retrospective
+ surveyors and TBAs as external stakeholders (online
+ supplemental annexure-­2) formed the field team in IA.
+ External stakeholders were from the clusters but were not
+ paid workers of MAHAN trust. They assisted our HBCC
+ programme to achieve its objectives. VHWs, data collec-
+ tion supervisors, programme manager and retrospec-
+ tive surveyors formed the field team in CA. The VHWs
+ were local, tribal, married, semiliterate, socially sensitive
+ women selected through community meetings. VHW’s
+ received monthly trainings, details of which are provided
+ in online supplemental annexure-­2.
+ 
+<section> Data collection
+ VHWs conducted a census and baseline survey regarding
+ births, under-­ five deaths, maternal and child health-
+ care practices and demographic information in January
+ 2004. They were supervised by data collection supervi-
+ sors. Similar information was verified from government
+ agencies, parents, cluster heads and independent retro-
+ spective surveyors to detect any missed events. Verbal
+ autopsies of all under-­ five deaths were conducted by
+ supervisors and VHWs, and reviewed by two physicians
+ using standard methods. 24 A third physician adjudicated
+ discrepancies.
+ Baseline data verification was done by the Rajmata
+ Jijau Mother and Child Health and Nutrition Mission
+ (RJMCHNM) of the state government and UNICEF.
+ Data monitoring and safety was performed by the State
+ Tribal Department. Finally, a third-­party evaluation was
+ conducted by the Government Medical College, Aurang-
+ abad, India.
+ In the implementation arm of the study, the popula-
+ tion size was 13 150 during the implementation/research
+ phase, 10 932 during the service phase and 29 335 during
+ the replication phase. The number of VHWs in the
+ implementation arm were 24 during the research phase,
+ 20 during the service phase and 42 during the replication
+ phase.
+ 
+<section> Intervention phase: January 2005–December 2009
+ Interventions were delivered by VHWs, implemented in
+ a sequential phase-­wise manner and continued subse-
+ quently. All VHWs were trained monthly in the first year
+ with refresher trainings 2 monthly until the end of the
+ study (online supplemental annexure-­2).
+ 
+<section> Subphase 1: January 2005–December 2009
+ Community-­ based management of acute respiratory
+ infections, diarrhoeal illness and malaria, in post-­
+ neonatal under-­ fives was done using co-­ trimoxazole
+ (for pneumonia), ORS (for diarrhoea) and Furoxone/
+ norfloxacin (for unresponsive diarrhoea), metronida-
+ zole (for dysentery) and chloroquine syrup (for malaria)
+ respectively, as per guidelines (online supplemental
+ annexure-­3).
+ 
+<section> Subphase 2: November 2006–December 2009
+ Implementation of antenatal, natal and newborn care was
+ added to the above post-­neonatal management (online
+ supplemental annexure-­ 4). Briefly, VHW’s conducted
+ three home visits and examined each pregnant mother,
+ encouraged her to avail facility care and provided
+ iron and calcium supplements. Tetanus immunisation
+ was given by the auxiliary nurse midwife. Pregnancy-­
+ induced hypertension and pedal oedema were moni-
+ tored and paid special attention. Clean and safe home
+ deliveries 26 27 were conducted by trained TBAs assisted
+ by trained VHWs. High-­ risk pregnant women were
+ referred to hospitals. 28–30 At birth the VHWs recorded
+ neonatal observations and the birth weight, kept the
+ baby warm, applied Gentian violet (1%) to the umbilical
+ cord, administered 1 mg vitamin K intramuscularly and
+ 1
+ initiated early breast feeding. Subsequently VHW’s did
+ or 13 household visits to normal or high-­risk newborn,
+ respectively, within 28 days of birth and weekly there-
+ after. At subsequent household visits, breast feeding
+ was observed, advise was given to mothers to keep
+ babies warm and babies were observed for danger signs
+ of illness and received care as outlined below. VHWs
+ provided high-­risk newborn care for low-­birth weight
+ and premature babies and for hypo–hyperthermia and
+ breast-­feeding problems. They maintained asepsis and
+ provided referral if required. VHWs identified babies
+ with prematurity defined as a gestational age at birth
+ of <37 weeks. 31–35 Expected date of delivery (EDD) was
+ calculated from last menstrual period. VHWs main-
+ tained an EDD calendar. Low birth weight was defined
+ as a birth weight of ≤2500 g. 36 The weight was measured
+ by VHWs and confirmed by medical supervisors using a
+ salter or electronic weighing scale.
+ 
+<section> Subphase 3: May 2007–December 2009 online supplemental
+ 
+<section> annexure-4
+ 
+<section> Birth asphyxia was managed by mouth–nose suction
+ using an oral mucus sucker, tactile stimulation, Ambu
+ bag and mask ventilation.
+ Neonatal sepsis was diagnosed clinically 38 39 by the
+ simultaneous presence of two of seven signs (poor
+ sucking; weak cry; limp extremities; vomiting or abdom-
+ inal distension; convulsions, altered consciousness;
+ severe chest indrawing; umbilical infection) and babies
+ were referred immediately to the hospital. When hospital
+ referral was not accepted, syrup cotrimoxazole and intra-
+ muscular gentamicin were administered by the VHW
+ following WHO guidelines. 40
+ BCC was conducted for health, hygiene, infant and
+ young child feeding, malnutrition, antenatal and
+ newborn care, breast feeding, diarrhoea, malaria, pneu-
+ monia and growth. 
+<section> We extended the intervention to only the intervention
+ areas during the service phase and the replication phase.
+ 
+<section> Service phase: January 2010–December 2015
+ The healthcare delivery by VHWs was continued in the
+ IA with supervision by supervisors. We continued data
+ collection in CA and IA.
+ 
+<section> Replication phase: September 2016–August 2019 (Only for the
+ 
+<section> IA)
+ 
+<section> The Government of Maharashtra (India) validated the
+ replicability of interventions for reducing NMR, IMR and
+ U5MR by randomly adding 20 new villages (population:
+ 19 437) from Dharni block. The government adopted
+ the same methods used in the service phase for these
+ villages with our collaboration. An integrated accelerated
+ approach of simultaneous implementation of all inter-
+ ventions was adopted following a 2-­month training for
+ VHW’s and supervisors in the government villages. Due
+ to a successful outcome of the trial, it was stopped after
+ 31 August 2019. It was evaluated by measuring reduction
+ in IMR, U5MR, NMR and perinatal mortality rate (PMR)
+ (total number of stillbirths and early neonatal deaths
+ per 1000 total births) from baseline to the end (figure
+ 5). The tribal development department of government
+ of Maharashtra appointed a committee from one of the
+ medical schools for its evaluation.
+ 
+<section> Outcomes
+ 
+<section> The primary outcome measures are comparisons between
+ IA and CA, at both individual and cluster levels, for IMR
+ and U5MR at baseline (2004) and subsequent years. The
+ secondary outcome measures are NMR and PMR.
+ 
+<section> Statistical analysis
+ Sample size was estimated to detect a reduction of at least
+ 50% in U5MR in the IA. Preliminary data from Melghat
+ in 2004 estimated the U5MR at 140/1000 live births.
+ The intracluster correlation coefficient (ICC) for U5MR
+ was assumed to be 0.01, and the average live births per
+ cluster per year was 20, which resulted in a variance infla-
+ tion factor or design effect of 1.19. Hence, to detect a
+ desired mortality reduction of 50% in IA with 95% confi-
+ dence and 80% power, a sample size of 359 live births was
+ needed per arm, with 18 clusters per arm.
+ Participants fulfilling the inclusion criteria were
+ recruited and observed in each year of the study
+ periods. The data on cluster characteristics from control
+ and intervention areas, defined on a nominal scale,
+ were summarised in frequencies and percentages and
+ compared using the Pearson’s χ 2 test. Since the number of
+ characteristics at the cluster level was large, an approach
+ based on wealth quintiles was used to classify clusters into
+ homogeneous subsets. The characteristics were dichoto-
+ mised into 0 and 1 indicating absence or presence of the
+ attribute, while distances (continuous) were retained in
+ the same format. This mixed data set was subjected to
+ principal component analysis (PCA) using the PCA mix
+ function in the R-­programming tool. A weighted index
+ was obtained for each cluster referred to as the cluster-­
+ status index. On similar lines, the analysis was performed
+ at the household level, based on household level char-
+ acteristics, to generate a wealth index. Each index array
+ was categorised into five quintiles forming five homoge-
+ neous subsets, with level (I) indicating a weaker cluster
+ or household, while (V) indicated better placement.
+ ‘Weaker cluster’ indicates a village with poor infrastruc-
+ ture. Similarly, a weaker household indicates a lack of
+ essential facilities at the domestic level. ‘Better place-
+ ment’ suggests villages with required infrastructure, and
+ households with necessary amenities. Table 1 and online
+ supplemental table 1S provide the cluster and household
+ level factors determining their status.
+ To assess the change in the mortality rates in different
+ age categories, the crude incidence rate ratios (cIRR)
+ were obtained for primary and secondary outcomes, for
+ each intervention year (2005–2009) with reference to the
+ base year (2004), independently for each of the two arms.
+ In this year-­wise comparison, the distribution of cluster-­
+ status index was altered due to the varying number of
+ live births and the household level wealth index within
+ clusters across years. Therefore, in the individual-­level
+ analysis the incidence rate ratios for each outcome were
+ adjusted for each year with respect to the base year using
+ a log-­binomial regression (the adjusted incidence rate
+ ratio (aIRR)). The analysis was performed independently
+ for the two arms. The convergence issue of log-­binomial
+ regression was not met for any of the outcomes.
+ The difference between crude and adjusted incidence
+ rate-­ratios between the two arms was obtained for each
+ year along with 95% CIs. 42 The effect on mortality rates
+ during the intervention and service and replication
+ phases were assessed through the magnitude of these
+ differences and the associated statistical significance.
+ To determine whether the effect of the intervention
+ was uniform across clusters, a cluster level analysis was
+ performed and ICCs were obtained for the primary
+ outcomes.
+ All analyses were performed using R-­ 3.4.3 (R-­ Core
+ Team 2017), and statistical significance was tested at the
+ 5% level. The statistician was masked to treatment groups
+ while analysing the data. Interim analyses were not done.
+ 
+<section> Role of the funding source
+ 
+<section> Funding source: Stichting Geron, Caring Friends (MAHN
+ 1) and Bajaj Holdings and Investment Limited (2242/
+ BHIL).
+ The funding sources had no role in study design, data
+ collection, analysis, interpretation, report writing and in
+ the decision to submit the paper for publication.
+ We have included an author reflexivity statement as
+ online supplemental material/appendix S1.
+ 
+<section> RESULTS
+ 
+<section> Out of 36 equally randomised clusters in two study
+ arms, two clusters from the IA did not participate due 
+<insert> Characteristics Control (N=18) Intervention (N=16) P value
+ Subcentres (no. (%))
+ Primary health centre (no. (%))
+ 14 (77.8) 5 (31.3) 0.006
+ –
+ Distance from primary health centre (km) (mean (SD)) 11.5 (9.9) 17.1 (12.7) 0.166
+ Distance from base hospital (km) (mean (SD)) 31.1 (14.9) 30.7 (20.0) 0.958
+ Distance from subdistrict hospital (km) (mean (SD)) 29.1 (14.1) 33.7 (16.1) 0.393
+ Village council (no. (%)) 8 (44.4) 3 (18.8) 0.109
+ Emergency health facilities (no. (%)) 8 (44.4) 3 (18.8) 0.109
+ ANM workers (no. (%)) 9 (50.0) 5 (31.3) 0.268
+ ASHA workers (no. (%)) 2 (11.1) 0.169
+ Anganwadi workers (no. (%)) 17 (94.4) 15 (93.8) 0.999
+ Well 5 (27.8) 5 (33.3) 0.693
+ Hand pump 7 (38.9) 7 (46.7)
+ Others* 6 (33.3) 3 (20.0)
+ 8 (44.4) 4 (25.0)
+ Major source of water in the village (no. (%))
+ Road facility (no. (%))
+ Tar 0.106
+ Dirt 7 (38.9) 12 (75.0)
+ Government transport facility present (no. (%)) 11 (61.1) 4 (25.0) 0.034
+ Private transport facility present (no. (%)) 15 (83.3) 10 (62.5) 0.169
+ Mobile/telephone connectivity present (no. (%))
+ Anganwadi present (no. (%))
+ 10 (55.6)
+ 15 (83.3)
+ 8 (50.0)
+ 15 (93.8)
+ 0.746
+ 0.347
+ Bold p values indicate statistical significance.
+ *Tap, pond and river.
+ anganwadi worker, grassroot worker of the integrated child development scheme covering food supplementation to under-­five children and
+ preschool education; ANM, auxiliary nurse midwife trained for two academic sessions to conduct deliveries and minor ailments like oral
+ rehydration solution for diarrhoea, deworming and routine immunisation; ASHA, Accredited Social Health Worker placed in every village who
+ assist ANM’s for management of deliveries and referral of high-­risk mothers and children.
+ Table 1 Cluster characteristics in control and intervention areas 
+<iend>
+
+ to non-­cooperation of health workers. The CONSORT
+ (Consolidated Standards of Reporting Trials) flow
+ diagram modified for cRCT is presented in figure 1. Out
+ of 4426 total infants and children included in the CA,
+ 2316 were live births and there were 378 deaths (163.21
+ deaths per 1000 live births), while in the IA, there were
+ 3230 infants and children with 2299 live births and 267
+ deaths (116.13 deaths per 1000 live births). The male:
+ female ratios were 1.018 and 1.058 in CA and IA, respec-
+ tively. The cluster-­ level characteristics were compared
+ between the two study groups (table 1). The number
+ of subcentres (p=0.0064) and the presence of govern-
+ ment transport facility (state government transport bus
+ services) (p=0.0343) were significantly better in the CA.
+ The 34 clusters were classified into five levels (quin-
+ tiles) based on the cluster-­status index. The distribution
+ of clusters in these levels was almost uniform (ie, seven
+ in each level, except level 3 with six clusters). The house-
+ hold variables of under-­ five children, (online supple-
+ mental table 1S), were used to obtain a Wealth Index
+ and thus classify subjects into quintiles, mirroring their
+ economic status. The year-­wise distribution of live births
+ into five quintiles based on their cluster-­status and wealth
+ index and their comparison with the base year are given
+ in table 2 for both the arms. The cluster-­status index
+ quintile distribution for the years 2008 and 2009 were
+ significantly different from the base year (p<0.05) in the
+ IA, while the Wealth Index distribution differed signifi-
+ cantly from the base year for the years 2008 and 2009 in
+ the CA and for 2009 in the IA. In the IA, the cluster status
+ index distribution for 2008 and 2009 were significantly
+ different compared with the baseline year, 2004. During
+ 2008 and During, 2009, there were increased cases of
+ cluster status I and status IV and V compared with the
+ baseline year. Due to higher proportions in the extreme
+ cluster levels, the difference was significant.
+ There was significantly higher proportion of subjects
+ in wealth index level I in 2008 and 2009 compared with
+ year 2004. In the IA, in 2009, the proportions increased
+ in level I and decreased in levels II and III, resulting in
+ significant differences.
+ Table 3 shows the IRR computed for different infant
+ and under-­five children categories across years in the two
+ arms, and the per cent reduction between the two arms. 
+<section> Figure 1 Cluster randomised control trial flow diagram.
+ 
+<section> In the CA, the IMR and U5MR for the period 2005–2009
+ were significantly higher than the baseline year, as indi-
+ cated by cIRR >1. The differences in the distribution of
+ cluster level and household level status in these years
+ compared with the baseline year (table 2), were adjusted
+ for and presented as aIRR (table 3). The effect of covari-
+ ates on the crude rate ratios were marginal until the
+ year 2007, but thereafter the reduction in the aIRR was
+ noticeable (>10%) compared with their respective cIRR
+ although the effects were statistically insignificant. The
+ wealth index differentials primarily contributed to the
+ difference in aIRRs for the years 2008–2009 (table 2).
+ In the IA clusters, for the IMR and U5MR, both IRRs
+ were reduced for the each of the years 2005–2009
+ compared with the reference. The effects of covariates
+ were noticeable as indicated by the change in IRRs
+ (>10%) for the above years for the IMR. However, this
+ covariate effect was not observed for the U5MR.
+ The IMR and U5MR in IA were reduced from 106.60
+ and 147.21 to 32.75 and 50.38 (reduction by 69.28% and
+ 65.78%, respectively) compared with increases in CA
+ from 67.67 and 105.26 to 86.83 and 122.75, respectively,
+ from baseline to end of intervention. The >50% relative
+ reduction in both IMR and U5MR in the IA were signifi-
+ cantly different when comparing the crude rate ratios for
+ CA and IA, for each of the years 2005–2009, culminating
+ in a >70% reduction in both in 2009. The relative reduc-
+ tion in adjusted IRRs while not significant in the first year
+ after introduction of the intervention for the IMR, were
+ significantly reduced in each of the subsequent years for
+ both IMR and U5MR with at least a sustained >50% rela-
+ tive reduction after 2007.
+ NMR in IA showed reductions from 50.76 to 22.67
+ (by 55.34%) and PMR from 75.06 to 24.94 (by 66.77%)
+ respectively. The secondary outcomes on NMR and PMR
+ are presented in online supplemental table 2. Consis-
+ tently in the CA, except for the PMR in 2006, both rates
+ were consistently higher in years subsequent to the base-
+ line year (increased with an average of 28.5% during the
+ research phase). In contrast, for the IA for most years
+ there was a reduction in both parameters. This resulted
+ in significant relative reductions in both the cIRR and
+ aIRR in the IA compared with the CA that were consis-
+ tently above 50% after 2007.
+ A cluster-­level analysis was performed in the two arms
+ independently, using ICCs. Table 4 shows IMR and U5MR
+ along with ICCs at baseline year (2004) and at the end of
+ study year (2009) for the two arms. In both the arms, ICCs
+ for IMR and U5MR were higher at baseline compared
+ with end of study period. This indicates that the between-­
+ cluster variability was higher at baseline, which declined
+ at the end of the intervention period in both the arms.
+ For infant mortality, in the IA, the per cent ICC change
+ was 82.95% (95% CI 77.76% to 88.13%), which was
+ significantly higher than that of CA (45.83%) (95% CI
+ 24.52% to 67.13%). For the U5MR, in IA the reduction
+ of ICC was 46.15% (95% CI 26.83% to 65.47%), which
+ was better than CA 31.85% (95% CI 5.99% to 57.70%). 
+<insert> 2007 2008 2009
+ 138
+ (29.1)
+ 99
+ (29.6)
+ 84
+ (25.1)
+ 103
+ (27.4)
+ 116
+ (29.1)
+ 100
+ (25.1)
+ 96
+ (20.3)
+ 52
+ (15.6)
+ 49
+ (14.6)
+ 43
+ (11.4)
+ 63
+ (15.8)
+ 78
+ (19.6)
+ III
+ 82
+ (17.3)
+ 59
+ (17.7)
+ 60
+ (17.9)
+ 79
+ (21.0)
+ 76
+ (19.1)
+ 84
+ (21.1)
+ IV
+ 51
+ (12.9)
+ 32
+ (8.8)
+ II
+ 33
+ (9.9)
+ 110
+ (27.1)
+ 36
+ (8.9)
+ 129
+ (32.5)
+ 30
+ (7.6)
+ 80
+ (24.0)
+ 109
+ (26.9)
+ 42
+ (10.3)
+ 95
+ (24.1)
+ 81
+ (22.3)
+ I
+ 38
+ (9.4)
+ 31
+ (7.8)
+ 33
+ (9.9)
+ 37
+ (9.1)
+ 57
+ (14.5)
+ 40
+ (11.0)
+ III
+ 125
+ (30.8)
+ 99
+ (24.9)
+ 99
+ (29.7)
+ 115
+ (28.3)
+ 107
+ (27.2)
+ 109
+ (30.0)
+ IV
+ Cluster-­status
+ index—quintiles
+ (n
+ (%))
+ Intervention
+ area
+ 16
+ (3.4)
+ 10
+ (2.9)
+ 18
+ (5.4)
+ 19
+ (5.1)
+ 18
+ (4.5)
+ 11
+ (2.8)
+ II
+ Cluster-­status
+ index—quintiles
+ (n
+ (%))
+ I
+ 97
+ (23.9)
+ 108
+ (27.2)
+ 88
+ (26.4)
+ 103
+ (25.4)
+ 84
+ (21.3)
+ 101
+ (27.8)
+ V
+ 142
+ (29.9)
+ 114
+ (34.1)
+ 124
+ (37.0)
+ 132
+ (35.1)
+ 126
+ (31.6)
+ 125
+ (31.4)
+ V
+ 0.047
+ 0.0002
+ Base 0.087 0.143
+ year
+ 0.067
+ P
+ value**
+  
+ Base 0.394 0.523 0.457 0.796
+ year
+ 0.301
+ P
+ value*
+ 76
+ (16.0)
+ 48
+ (14.4)
+ 80
+ (23.9)
+ 80
+ (21.3)
+ 87
+ (21.8)
+ 86
+ (21.6)
+ II
+ 100
+ (21.1)
+ 47
+ (14.1)
+ 65
+ (19.4)
+ 87
+ (23.1)
+ 87
+ (21.8)
+ 84
+ (21.1)
+ III
+ 109
+ (26.9)
+ 109
+ (27.5)
+ 81
+ (24.3)
+ 96
+ (23.6)
+ 86
+ (21.8)
+ 107
+ (29.5)
+ I
+ 79
+ (19.5)
+ 62
+ (15.6)
+ 68
+ (20.4)
+ 80
+ (19.7)
+ 93
+ (23.6)
+ 63
+ (17.4)
+ II
+ 65
+ (16.0)
+ 62
+ (15.6)
+ 48
+ (14.4)
+ 76
+ (18.7)
+ 75
+ (19.0)
+ 64
+ (17.6)
+ III
+ Wealth
+ index—quintiles
+ (n
+ (%))
+ 139
+ (29.3)
+ 97
+ (29.0)
+ 52
+ (15.5)
+ 49
+ (13.0)
+ 54
+ (13.5)
+ 56
+ (14.1)
+ I
+ Wealth
+ index—quintiles
+ (n
+ (%))
+ 66
+ (16.3)
+ 60
+ (15.1)
+ 63
+ (18.9)
+ 67
+ (16.5)
+ 57
+ (14.5)
+ 59
+ (16.3)
+ 87 IV
+ (18.4)
+ 76
+ (22.8)
+ 77
+ (22.9)
+ 95
+ (25.3)
+ 91
+ (22.8)
+ 87
+ (21.9)
+ IV
+ Base 0.689 0.213
+ year
+ 0.066
+ P
+ value**
+  
+ <0.001 <0.001
+ Base 0.828 0.795
+ year
+ 0.987
+ P
+ value*
+ 87
+ (21.4)
+ 0.273
+ 104
+ (26.2)
+ 0.013
+ 73
+ (21.9)
+ 87
+ (21.4)
+ 83
+ (21.1)
+ 70
+ (19.3)
+ 72 V
+ (15.2)
+ 66
+ (19.8)
+ 61
+ (18.2)
+ 65
+ (17.3)
+ 80
+ (20.1)
+ 85
+ (21.4)
+ V
+ Bold
+ p
+ values
+ indicate
+ statistical
+ significance.
+ Cluster-­status
+ index
+ was
+ derived
+ based
+ on
+ characteristics
+ listed
+ in
+ table
+ 1,
+ while
+ wealth
+ index
+ was
+ derived
+ based
+ on
+ household
+ level
+ characteristics
+ listed
+ in
+ online
+ supplemental
+ table
+ 1S.
+ The
+ quintiles
+ I–V
+ indicate
+ gradient
+ towards
+ improved
+ cluster
+ status
+ or
+ household
+ economic
+ status.
+ *Obtained
+ using
+ Pearson’s
+ 2 χ
+ test
+ between
+ base
+ year
+ and
+ subsequent
+ years
+ 2006 2007 2008 2009 2004 2005 2006
+ Live
+ births
+ 2004 2005 Year
+ Live
+ births
+ Year
+ Control
+ area
+ Table
+ 2
+ Year
+ wise
+ categorisation
+ of
+ live
+ born
+ infant
+ families
+ based
+ on
+ cluster
+ level
+ infrastructure
+ (cluster-­status
+ index)
+ and
+ economic
+ status
+ of
+ household
+ (wealth
+ index)
+ in
+ two
+ study
+ areas 
+<iend>
+ 
+<section> IRR and to 0.056 to 0.018 to <0.001 to
+ 
+<section> Adjusted 
+<section> (0.32 (0.29 (0.14 (0.22
+ 
+<section> in intervention
+ 
+<section> reduction Ref. 0.60 1.13), 0.54 0.97), 0.27 0.55), 0.43
+ 
+<section> value
+ 
+<section> arms 
+<section> p to 0.002 to 0.028 to 0.51),<0.001 to
+ 
+<section> Absolute between CI), (0.18 (0.24 (0.12 (0.16
+ 
+<section> control 
+<section> (95% Crude 
+<section> Ref. 0.36 0.72), 0.48 0.93), 0.24 0.32
+ 
+<section> to 
+<section> 0.214 
+<section> to 
+<section> 0.367 
+<section> to 
+<section> 0.010 
+<section> to
+ 
+<section> Adjusted 
+<section> (0.48 (0.54 (0.27 (0.25
+ 
+<section> (aIRR)*
+ 
+<section> ratio Ref. 0.75 1.17), 0.83 1.26), 0.48 0.82), 0.43
+ 
+<section> value
+ 
+<section> rate
+ 
+<section> Incidence p 
+<section> CI), 
+<section> (cIRR) to 
+<section> (0.34 
+<section> 0.029 to 
+<section> (0.52 
+<section> 0.352 to 
+<section> (0.29 
+<section> 0.014 to 
+<section> (0.29
+ 
+<section> outcomes) 
+<section> (95% Crude 
+<section> Ref. 0.57 0.95), 0.81 1.27), 0.51 0.88), 0.49
+ 
+<section> Incidence 
+<section> rate/1000 
+<section> births
+ 
+<section> (primary 106.6
+ 
+<section> live 60.6 
+<section> 86.2 
+<section> 54.1 
+<section> 51.7
+ 
+<section> Intervention
+ 
+<section> 2009 Deaths/ 
+<section> births
+ 
+<section> 42/394 
+<section> 22/363 
+<section> 35/406 
+<section> 18/333 
+<section> 21/406
+ 
+<section> to live
+ 
+<section> 2004
+ 
+<section> from to 0.332 to 0.044 to 0.011 to
+ 
+<section> Adjusted 
+<section> (0.80 (1.03 (1.16 (0.64
+ 
+<section> groups (aIRR)* 
+<section> 1.94), 2.38), 2.68),
+ 
+<section> ratio Ref. 1.24 1.55 1.75 0.99
+ 
+<section> value
+ 
+<section> intervention rate
+ 
+<section> Incidence p 
+<section> CI), 
+<section> (cIRR) to 
+<section> (0.99 
+<section> 0.054 to 
+<section> (1.04 
+<section> 0.031 to 
+<section> (1.29 
+<section> 0.002 to 
+<section> (0.96
+ 
+<section> and 
+<section> (95% Crude 
+<section> Ref. 1.60 2.58), 1.69 2.74), 2.07 3.33), 1.53
+ 
+<section> control
+ 
+<section> Incidence 
+<section> rate/1000 
+<section> births
+ 
+<section> in 
+<section> rates live 67.7 108.0 114.4 140.3 103.4
+ 
+<section> mortality Control Deaths/ 
+<section> births 27/399 43/398 43/376 47/335 49/474
+ 
+<section> live
+ 
+<section> of
+ 
+<section> Comparison Year 
+<section> 2004 
+<section> 2005 
+<section> 2006 
+<section> 2007 
+<section> 2008
+ 
+<section> mortality
+ 
+<section> 3
+ 
+<section> Table Infant
+ 
+<section> 0.011 to <0.001 to <0.001 to <0.001 to <0.001 to <0.001 to <0.001
+ 
+<section> (0.14 (0.26 (0.29 (0.21 (0.27 (0.21
+ 
+<section> 0.87), 0.74), 0.79), 0.80), 0.63), 0.84), 0.74),
+ 0.32 Ref. 0.46 0.48 0.36 0.48 0.39
+ 
+<section> 0.64),<0.001 to 0.55),<0.001 to 0.006 to 0.78),<0.001 to 0.63),<0.001 to 0.73),<0.001 to 0.56),<0.001
+ 
+<section> (0.10 (0.25 (0.26 (0.19 (0.22 (0.15
+ 
+<section> 0.79),
+ 0.24 Ref. 0.44 0.45 0.35 0.40 0.29
+ 
+<section> 0.72),<0.001 to 0.48),<0.001 to 0.011 to 0.136 to 0.013 to 0.76),<0.001 to 0.57),<0.001
+ 
+<section> (0.13 (0.38 (0.52 (0.38 (0.33 (0.21
+ 
+<section> 0.86), 1.08), 0.89),
+ 0.26 Ref. 0.58 0.76 0.59 0.51 0.36
+ 
+<section> 0.006 to 0.57),<0.001 to 0.013 to 0.124 to 0.019 to 0.002 to 0.57),<0.001
+ 
+<section> (0.16 (0.38 (0.50 (0.38 (0.32 (0.21
+ 
+<section> 0.82), 0.90), 1.09), 0.92), 0.78),
+ 0.31 Ref. 0.58 0.74 0.59 0.50 0.34
+ 
+<section> 147.2 
+<section> 108.4
+ 
+<section> 32.8 
+<section> 85.4 
+<section> 87.1 
+<section> 73.9 
+<section> 50.4
+ 
+<section> 13/397 
+<section> 58/394 
+<section> 31/363 
+<section> 44/406 
+<section> 29/333 
+<section> 30/406 
+<section> 20/397
+ 
+<section> regression.
+ 
+<section> 0.972 to 0.367 to 0.218 to 0.010 to 0.012 to 0.759 to 0.668 log-­binomial
+ (0.49 (0.87 (1.11 (1.16 (0.73 (0.62
+ 
+<section> 1.56), 1.31), 1.83), 2.24), 2.36), 1.55), 1.37),
+ 0.80 Ref. 1.26 1.57 1.64 1.06 0.92
+ 
+<section> using
+ 
+<section> 0.075 to 0.350 to 0.183 to 0.011 to 0.007 to 0.276 to 0.483
+ 
+<section> (0.75 (0.88 (1.11 (1.15 (0.84 (0.76 status
+ 
+<section> 2.44), 1.28 2.18), Ref. 1.31 1.96), 1.64 2.42), 1.70 2.53), 1.24 1.84), 1.17 1.79), village/cluster ratio.
+ 
+<section> rate
+ 
+<section> incidence
+ 
+<section> 105.3 
+<section> 138.2 
+<section> 172.9 
+<section> 179.1 
+<section> 130.8 
+<section> 122.8 
+<section> and
+ 86.8
+ 
+<section> individual
+ IRR,
+ 
+<section> 29/334 42/399 55/398 65/376 60/335 62/474 41/334 IRR;
+ 
+<section> of
+ 
+<section> index crude
+ 
+<section> wealth cIRR,
+ 
+<section> 2009 
+<section> 2004 
+<section> 2005 
+<section> 2006 
+<section> 2007 
+<section> 2008 
+<section> 2009
+ 
+<section> IRR;
+ 
+<section> sex,
+ 
+<section> adjusted
+ for
+ Under-­five
+ 
+<section> mortality 
+<section> *Adjusted
+ 
+<section> aIRR, 
+<insert> Figure 2 Line plots showing infant and under-­five mortality rates in intervention and control areas in different phases across
+ time. ANC, antenatal care; HRNC, high-­risk newborn care; MBA, management of birth asphyxia; NS, neonatal sepsis; PNDM,
+ post-­natal disease management. 
+<iend>
+
+ 
+<insert> Control
+ Parameters
+ Intervention
+ IMR—2004 IMR—2009 U5MR—2004 U5MR—2009 IMR—2004 IMR—2009 U5MR—2004
+ U5MR—
+ 2009
+ Live births
+ Deaths
+ Mortality rate/1000 live
+ births
+ 67.7 86.8 105.3 122.8 106.6 32.8 147.2 50.4
+ ICC* (95% CI) 0.16 (0.05 to
+ 0.28)
+ 0.09 (0.01 to
+ 0.18)
+ 0.11 (0.02 to
+ 0.21)
+ 0.08 (0.00 to
+ 0.16)
+ 0.13 (0.03 to
+ 0.23)
+ 0.02 (0.00 to 0.10 (0.02 to
+ 0.06) 0.19)
+ ICC (% change w.r.t 2004) 45.8% (24.5% to 67.1%)
+ (95% CI)
+ 31.9% (5.9% to 57.7%) 82.9% (77.8% to 88.1%)
+ 0.06 (0.00 to
+ 0.12)
+ 46.2% (26.8% to 65.5%)
+ *The intracluster correlation coefficient (ICC) for binary data.
+ IMR, infant mortality rate per 1000 live births; U5MR, under-­five mortality rates per 1000 live births.
+ Table 4 Intracluster correlation coefficient for primary outcomes at baseline (2004) and end of intervention period (2009) in
+ the two study groups 
+<iend>
+
+ The reduction in primary outcomes in the IA during
+ the intervention phase was maintained during the service
+ phase for the next 6 years (figure 2). In the CA, there was
+ a reduction in IMR and U5MR from 2014 onwards when
+ the government started an HBNC intervention. The
+ IRRs and relative reductions for primary outcomes for all
+ phases are shown in figure 3. In the service period, the
+ reductions for IMR and U5MR were consistently below 
+<insert> Figure 3 Line plots showing incidence rate ratio (IRR) and percentage decrease in IRR for infant and under-­five mortalities
+ in intervention and control areas in different phases across time. ANC, antenatal care; HRNC, high-­risk newborn care; MBA,
+ management of birth asphyxia; NS, neonatal sepsis; PNDM, post-­natal disease management. 
+<iend>
+
+ 
+<section> 50% in the IA. Figure 4 shows the reduction in NMR and
+ PMR in the IA, which was maintained during the service
+ period.
+ During the replication phase, the baseline IMR and
+ U5MR were reduced from 71.63and 85.96 to 28.50 and
+ 45.13, respectively (figure 5). The NMR and PMR were
+ reduced from 51.58 and 48.02 to 16.63 and 23.47, respec-
+ tively, in 2 years. The reduction in IMR and NMR were
+ statistically significant (p=0.022 and p=0.019, respec-
+ tively). The reductions for U5MR and PMR were not
+ significant (p=0.071 and p=0.1763, respectively). There
+ were no harms or unintended effects in either group.
+ 
+<section> Results of PPI in the study. Focus group discussions with
+ PPI improved community participation.
+ 
+<section> DISCUSSION
+ 
+<section> Our study shows a major reduction in primary and
+ secondary outcomes in the IA compared with the CA
+ at the end of the Research Phase. The integrated multi-
+ pronged approach to HBCC resulted in significant
+ reductions of U5MR and IMR in this high-­mortality area.
+ The reduction in intercluster correlation coefficients for
+ both IMR and U5MR in the IA shows that variability of
+ outcomes between clusters declined at the end of the
+ intervention period. The per cent change for IMR in the
+ IA was highest, indicating that the significant reduction
+ in IMR was nearly consistent across all clusters by the end
+ of study. This consistency was much higher than the CA.
+ Similarly, the per cent reduction in ICC for U5MR in
+ the IA was higher than that of CA, indicating uniform
+ effectiveness of the intervention in the IA. The increased
+ mortality rate in the control arm might have occurred
+ due to changing priorities of senior district administra-
+ tors (as a part of government policy)
+ After completion of the Research Phase, the reduction
+ in mortality indicators was maintained during the Service
+ Phase of the next 6 years in the IA, mimicking the situation
+ of large-­ scale public health programmes. This indicates
+ the feasibility of programme implementation at scale. The
+ consistency of reduction in IMR and U5MR prompted the
+ Government of Maharashtra in India to extend the method-
+ ology using government resources. The replicability of the
+ model was then proven by the decline in all the mortality
+ rates in the 20 new villages during the Replication Phase.
+ This series of sequential studies has now been instrumental
+ in driving subsequent governmental programmes.
+ We provide the following example directly related
+ to this study, to empower the many non-­governmental
+ organisations and researchers in India and other coun-
+ tries with carefully collected, verified data of their own,
+ to challenge data collected by less vigorous, transparent
+ collection methods and work with local, state and national
+ governments to effect policy changes.
+ This study has a significant impact on state govern-
+ ment policies. (a) In Melghat, the MAHAN study, found
+ an IMR of 96 per 1000 live births whereas the ICDS data
+ recorded IMR at 31. The government and UNICEF veri-
+ fied this discrepancy by actual field visits and approved
+ MAHAN findings. (b) The government could not ignore
+ this more reliable MAHAN survey data as it generated
+ more attention to combating U5MR in the state, espe-
+ cially in the poorer rural districts. 25 This lead to the
+ formation of the ‘RJMCHNM’, 25 by the state government
+ to work in collaboration with UNICEF for reduction of
+ U5MR in Maharashtra. (c) Subsequently the Indian and
+ Maharashtra State Government funded and replicated
+ HBCC, in 33 villages of Melghat. (d) Before 2013, grass-
+ root front line health workers were not allowed to use
+ antibiotics for the treatment of post-­neonatal childhood
+ infections, which policy was changed by a state govern-
+ ment committee, based in part on this study by MAHAN
+ and another one by SEARCH. 
+<insert> Figure 4 Line plots showing neonatal and perinatal mortality rates in intervention and control areas in different phases across
+ time. ANC, antenatal care; HRNC, high-­risk newborn care; MBA, management of birth asphyxia; NS, neonatal sepsis; PNDM,
+ post-­natal disease management. 
+<iend>
+
+ 
+<insert> Figure 5 Line plots showing different mortality rates in a
+ new set of test villages (government villages) exposed to
+ intervention during the observation period 2016–2019. IMR,
+ infant mortality rate; NMR, neonatal mortality rate; PNMR,
+ perinatal mortality rate; U5MR, under-­five mortality rates. 
+<iend>
+
+ The Government of India has empowered Accredited
+ Social Health Worker for HBNC. However, this does
+ not include management of neonatal sepsis or birth
+ asphyxia, which is still a lacuna. Today, 33% of deliveries
+ are home deliveries in rural India. The facilities for treat-
+ ment of neonatal diseases are available at an average
+ distance of 32 km from villages. Trauma due to transport
+ of sick neonates in suboptimal conditions endanger lives,
+ reflecting high NMR, as also proved by Mori et al.
+ 
+<section> Our model is cost-­ effective as the average cost of
+ treatment of each child including the research cost
+ in this project was Indian National Rupees (Rs.)
+ (US$8) per year (unpublished data). In comparison the
+ National Sample Survey Organisation revealed that the
+ average total treatment expenditure per patient in rural
+ and urban areas for outpatient management is Rs.509
+ (US$6.8) and Rs.639 (US$8.6), and hospitalisation
+ Rs.16 956 (US$229.1) and Rs.26 455 (US$357.5) respec-
+ tively. We plan to conduct a formal cost-­effectiveness
+ analysis.
+ Our study follows many of the principles of the census-­
+ based, impact-­ oriented approach. 44 These principles
+ 
+<section> included the following: 
+<section> 1. We developed a cooperative partnership with local
+ communities.
+ 2. We worked together with the local community, iden-
+ tified and decided their heath priorities. We planned
+ and implemented the programme as per need of the
+ community.
+ 3. Our interventions included regular planned home vis-
+ its.
+ 4. We regularly measured the impact of our interven-
+ tions on health of the children until the age of 5 years.
+ Our study highlights the importance of community
+ sensitisation, acceptance and participation. Our active
+ and effective system of community-­based VHWs made
+ this programme successful.
+ Integrated management of childhood illnesses
+ (IMCI) 45 has been implemented in India from 2003
+ onward for wider community coverage and impact. The
+ original IMCI was primarily first level facility based, did
+ not include care of the sick early newborn (the time
+ when one in three child deaths occurs) and it did not
+ emphasise HBNC. The newborn component was added
+ to the integrated management of neonatal and child-
+ hood illnesses (IMNCI) programme in India in 2004.
+ Unfortunately, IMNCI has not been successful in India,
+ despite having sound principles. It was the implementa-
+ tion of the programme that faltered not only in India but
+ in many other countries. The reasons for the failure of
+ the programme were: irregular funding, lack of refresher
+ trainings of fieldworkers, poor supervision/mentor-
+ ship, 47 irregular availability of key supplies, weak referral
+ hospitals and frequent transfer of staff. 48 _ENREF_34 A
+ 2017 review of community IMCI found only one RCT
+ that showed a reduction of 8% in under-­five mortality
+ after 2 years using cIMCI.
+ Recognising these challenges globally, WHO in
+ conjunction with UNICEF and USAID launched iCCM,
+ iCCM in Africa (2012). A Cochrane review of iCCM
+ programmes found no impact on child mortality due
+ to poor study design of the trials. 50 These faced crit-
+ ical challenges due to lack of integration into national
+ health systems, lack of political commitment and non-­
+ coordination with funding agencies. Funding was largely
+ dependent on development partners, and sustainability
+ of funding remained a critical concern for delivery of
+ iCCM services. The problems in supply of commodities,
+ utilisation, scale, quality, financing and monitoring of
+ services were not resolved. A strong referral system for
+ facility-­ based treatment was not developed simultane-
+ ously, and, finally, iCCM policy did not include treatment
+ of neonatal sepsis.
+ In India at present, complete HBCC has not been
+ implemented by the government. The major obstacles
+ in implementing community-­based health programmes
+ in India are: poor trainings and monitoring of grassroot
+ workers, poor referral support for quality treatment, the
+ rigid hierarchical structure of the health system, failure
+ to incorporate community participation into large-­scale
+ primary healthcare programmes 52 and opposition from
+ professional bodies such as the Indian Medical Associa-
+ tion and the Indian Academy of Pediatrics. Nevertheless,
+ the Government of Maharashtra has taken many steps to
+ implement HBNC in high mortality rural areas. Critically,
+ the HBCC programme did not require strengthening of
+ the primary healthcare facilities or of the referral facili-
+ ties, which are still a major obstacle in most developing
+ countries. Empowering community workers to provide
+ basic and advanced care for the well and sick child and
+ the provision of basic essential medicines obviates the
+ need for the most part for referral and will decrease the
+ burden on these facilities if widely implemented, making
+ it a much more cost-­effective strategy.
+ VHWs played a critical role to reduce the mortality
+ in the community and provided appropriate grassroots
+ healthcare. Community health workers (CHWs) are
+ essential for achieving the health-­ related Sustainable
+ Development Goals. 53 A significant increase in contin-
+ uous funding for CHW programmes is needed. National
+ and state governments should increase political support
+ for prioritising CHW programmes during economic
+ growth and make additional health-­related funding avail-
+ able. This paradigm shift will be an essential step in esca-
+ lating development in achieving current global health
+ goals and in reaching the goal of Health for All.
+ The limitations of this trial include possible spillover
+ effects as the CA and the IA were in contiguous areas. There
+ were differences in between IA and CA for baseline IMR,
+ U5MR and the household level characteristics, although
+ they were adjusted during analysis by obtaining a wealth
+ index. Finally, this strategy might not be applicable for
+ the urban setting. Malaria rapid diagnostic tests (RDTs)
+ were not used for malaria diagnosis during research and
+ service phase. It was based on a clinical diagnosis after
+ excluding other causes of fever. Our VHWs used malaria
+ RDTs during the government replication phase. This was
+ a relatively small study and it might be difficult to scale up
+ this complex HBCC approach. However, the principles,
+ methods, VHW monitoring, simple treatment modalities
+ and collaboration with government makes this a feasible
+ modality for reductions of IMR and U5MR in the Indian
+ subcontinent and other LMICs.
+ In conclusion, progressive policies on CHW
+ programmes must be backed up by concrete institutional
+ support to enable CHWs to fulfil their role. 55 While
+ VHWs are not a panacea for weak health systems, they
+ can make a major contribution to health system strength-
+ ening if they have focused tasks, adequate remunera-
+ tion and the active involvement of the communities in
+ which they work. 19 Thus the prerequisites for successful
+ programme delivery are: (a) Selection of a VHW through
+ a transparent community participatory process based on
+ merit, (b) Intensive, focused regular trainings and moni-
+ toring of VHWs, (c) Maintenance of the supply chain, (d)
+ The programme must be backed up by concrete institu-
+ tional support. HBCC is possible with local resources. It is
+ affordable, acceptable, measurable, safe, achievable and
+ effective. It should be replicable in other impoverished 
+<section> areas of the world having inadequate medical facilities
+ 
+<section> and a high U5MR.
+ 
+<section> Author affiliations
+ Community Medicine, MAHAN Trust, Dharni, Amaravati, Maharashtra, India
+ Medicine, Mahatma Gandhi Tribal Hospital, Amaravati, Maharashtra, India
+ Ophthalmology, MAHAN Trust, Dharni, Amravati, Maharashtra, India
+ Pediatrics, MAHAN Trust, Nagpur, Maharashtra, India
+ Nutrition, MAHAN Trust, Nagpur, Maharashtra, India
+ Preventive and Social Medicine, Government Medical College and Hospital Nagpur,
+ 
+<section> Nagpur, Maharashtra, India
+ Biostatistics, MAHAN Trust, Nagpur, Maharashtra, India
+ Department of Paediatrics, University of Colorado School of Medicine and
+ Professor of Epidemiology, Aurora, Colorado, USA
+ 
+<section> Twitter Ashish Rambhau Satav @MAHAN
+ 
+<section> Contributors ARS: visualisation, conceptualisation, funding acquisition,
+ resources, project administration, methodology, training, supervision, literature
+ search, figures, study design, data collection, data interpretation, data curation,
+ formal analysis, investigation, validation, writing the original draft, review and
+ editing. ARS is guarantor. KAS: visualisation, conceptualisation, resources, project
+ administration, supervision, data collection, investigation and writing—review. AB:
+ conceptualisation, resources, methodology, training, study design, writing—review
+ and editing. JP: conceptualisation, methodology, training, study design, writing—
+ review and editing. VD: methodology, training, project administration, supervision,
+ data interpretation, data curation, investigation, validation, literature search,
+ figures, writing—review and editing. DR: training, literature search, figures, study
+ design, data interpretation, data curation, formal analysis, data analysis, software,
+ validation, writing—review and editing. SU: literature search, data interpretation,
+ data curation, analysis, data analysis, software and validation. EAFS: training,
+ literature search, figures, data interpretation, data curation, formal analysis, data
+ analysis, writing—review and editing.
+ 
+<section> Funding MAHAN trust has obtained funding for the study from: Stichting Geron,
+ Netherlands, Caring Friends (MAHAN1) and Bajaj Holding Investment Limited
+ (2242/BHIL). EAFS and the MAHAN trust have obtained funding from the Bill and
+ Melinda Gates OPP1128468. Technical Support for technical inputs and training
+ for home-­based newborn care and acute respiratory infection management was
+ provided by SEARCH, Gadchiroli, Maharashtra, India. We would like to thank
+ the MAHAN Trust Foundation, the staff and data entry team, all the study team
+ the supervisors, counsellors and village health workers who worked tirelessly
+ throughout the study. Dr Shinde was the pediatrician that took care of our study
+ subjects at the MAHAN hospital. We acknowledge with gratitude the assistance
+ of the Honourable District Collector and Additional District Medical Officer, Dr
+ Bobade, the pediatricians at the subdistrict hospital, the village panchayat heads
+ and council members, as well as the local traditional healers and auxiliary nurse
+ midwives and traditional midwives who assisted with the study. Finally, and most
+ importantly, we acknowledge with gratitude all of the families and their young
+ children that participated in the study who graciously let us into their homes and
+ allowed us to follow their babies throughout the study and especially those families
+ with babies that died, to whom we could offer no solace except to know that
+ their participation would help other babies in the future from dying of preventable
+ causes. We are thankful to Dr Dipti Jain, Dr Satchit Balsari and Dr Sehj Kashyap for
+ guiding the article write up.
+ 
+<section> Competing interests None declared.
+ 
+<section> Patient and public involvement Patients and/or the public were involved in the
+ design, or conduct, or reporting, or dissemination plans of this research. Refer to
+ the Methods section for further details.
+ 
+<section> Patient consent for publication Not applicable.
+ 
+<section> Ethics approval Name of Ethics Committee: MAHAN Institutional Review Board
+ (IRB), Reference ID 1/2004. IRB meets standard of BMJ. Participants gave informed
+ consent to participate in the study before taking part.
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data availability statement Data are available upon reasonable request.
+ Aggregate data that underlie the results reported in this article, after de-­
+ identification (text, tables, figures and appendices) will be shared. Study protocol
+ has been added in the supplementary materials. As per guidelines of Government
+ of India (GOI), individual participant data will not be available. Data will be made
+ available: The beginning 9 months and ending 36 months following article
+ publication. Data will be shared with investigators whose proposed use of the
+ data has been approved by an independent review committee, the GOI and
+ ethical review by the ICMR and Government of Maharashtra (India), Tribal Section
+ clearance, identified for this purpose. Proposals may be submitted up to 35 months
+ following article publication. After 36 months the data will be available with
+ investigator support.
+ 
+<section> Supplemental material This content has been supplied by the author(s). It has
+ not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been
+ peer-­reviewed. Any opinions or recommendations discussed are solely those
+ of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and
+ responsibility arising from any reliance placed on the content. Where the content
+ includes any translated material, BMJ does not warrant the accuracy and reliability
+ of the translations (including but not limited to local regulations, clinical guidelines,
+ terminology, drug names and drug dosages), and is not responsible for any error
+ and/or omissions arising from translation and adaptation or otherwise.
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution Non Commercial (CC BY-­NC 4.0) license, which
+ permits others to distribute, remix, adapt, build upon this work non-­commercially,
+ and license their derivative works on different terms, provided the original work is
+ properly cited, appropriate credit is given, any changes made indicated, and the
+ use is non-­commercial. See: http://creativecommons.org/licenses/by-nc/4.0/.
+ 
+<section> Author note The reflexivity statement for this paper is linked as an online
+ supplemental file1.
+ 
+<section> REFERENCES
+ 1 Singh A, Pathak PK, Chauhan RK, et al. Infant and child mortality
+ in India in the last two decades: a geospatial analysis. PLoS One
+ 2011;6:e26856.
+ 2 Kutty VR, Shah P, Modi D, et al. Reducing neonatal mortality in
+ 
+<section> Jhagadia block, Gujarat: we need to go beyond promoting hospital
+ deliveries. J Trop Pediatr 2013;59:49–53.
+ 3 Ram U, Jha P, Ram F, et al. Neonatal, 1-­59 month, and under-­5
+ mortality in 597 Indian districts, 2001 to 2012: estimates from
+ national demographic and mortality surveys. Lancet Glob Health
+ 2013;1:e219–26.
+ 4 MacDorman MF, Mathews TJ. Behind international rankings of infant
+ mortality: how the United States compares with Europe. NCHS Data
+ Brief 2009:1–8.
+ 5 Bhan MK. Accelerated progress to reduce under-­5 mortality in India.
+ 
+<section> Lancet Glob Health 2013;1:e172–3.
+ 6 Nolan T, Angos P, Cunha AJ, et al. Quality of hospital care
+ for seriously ill children in less-­developed countries. Lancet
+ 2001;357:106–10.
+ 
+<section> 7 WHO. Pocket book of hospital care for children: guidelines for the
+ management of common childhood illnesses. 2nd edn. Geneva,
+ Switzerland, 2013.
+ 8 Bukhman G, Mocumbi AO, Atun R, et al. The Lancet NCDI poverty
+ 
+<section> Commission: bridging a gap in universal health coverage for the
+ poorest billion. Lancet 2020;396:991–1044.
+ 9 Gupta I, Chowdhury S, Prinja S, et al. Out-­of-­Pocket spending on
+ out-­patient care in India: assessment and options based on results
+ from a district level survey. PLoS One 2016;11:e0166775.
+ 10 Schellenberg JA, Victora CG, Mushi A, et al. Inequities among the
+ very poor: health care for children in rural southern Tanzania. Lancet
+ 2003;361:561–6.
+ 11 Bang AT, Bang RA, Baitule SB, et al. Effect of home-­based neonatal
+ care and management of sepsis on neonatal mortality: field trial in
+ rural India. Lancet 1999;354:1955–61.
+ 12 Baqui AH, Darmstadt GL, Williams EK, et al. Rates, timing and
+ causes of neonatal deaths in rural India: implications for neonatal
+ health programmes. Bull World Health Organ 2006;84:706–13.
+ 13 Million Death Study Collaborators. Changes in cause-­specific
+ neonatal and 1-­59-­month child mortality in India from 2000 to 2015:
+ a nationally representative survey. Lancet 2017;390:1972–80.
+ 14 India State-­Level Disease Burden Initiative Child Mortality
+ Collaborators. Subnational mapping of under-­5 and neonatal
+ mortality trends in India: the global burden of disease study 2000-­17.
+ 
+<section> Lancet 2020;395:1640–58.
+ 15 Prinja S, Sharma A, Nimesh R, et al. Impact of national health
+ mission on infant mortality in India: an interrupted time series
+ analysis. Int J Health Plann Manage 2021;36:1143–52.
+ 16 Bora JK, Saikia N. Neonatal and under-­five mortality rate in Indian
+ districts with reference to sustainable development goal 3: an
+ analysis of the National family health survey of India (NFHS), 2015-­
+ 2016. PLoS One 2018;13:e0201125. 
+<section> 17 Bang AT, Bang RA, Reddy HM. Home-­based neonatal care:
+ summary and applications of the field trial in rural Gadchiroli, India
+ 
+<section> (1993 to 2003). J Perinatol 2005;25 Suppl 1:S108–22.
+ 
+<section> 18 Organisation WH. Who guidelines Approved by the guidelines
+ review Committee. Home Visits for the Newborn Child: A Strategy to
+ Improve Survival, 2009.
+ 19 Haines A, Sanders D, Lehmann U, et al. Achieving child survival
+ goals: potential contribution of community health workers. Lancet
+ 2007;369:2121–31.
+ 20 Puffer S, Torgerson DJ, Watson J. Cluster randomized controlled
+ trials. J Eval Clin Pract 2005;11:479–83.
+ 21 A. K D, RDT J, Sarolkar J. Human development indicators amongst
+ the scheduled tribes of Maharashtra. 48. Research report by Tribal
+ Research and Training Institute, 2009.
+ 
+<section> 22 Kelkar V. Report of the high level Committee on balanced regional
+ development issues in Maharashtra. Mumbai, India: Government Of
+ 
+<section> Maharashtra Planning Department, 2013: 571 p.
+ 23 Bang AT, Bang RA, Reddy HM, et al. Methods and the baseline
+ situation in the field trial of home-­based neonatal care in Gadchiroli,
+ India. J Perinatol 2005;25 Suppl 1:S11–17.
+ 24 Bang AT, Bang RA. Diagnosis of causes of childhood deaths in
+ developing countries by verbal autopsy: suggested criteria. The
+ search team. Bull World Health Organ 1992;70:499–507.
+ 
+<section> 25 unicef. Pushing the nutrition agenda forward. 63. Mumbai, India,
+ 2016Maharashtra RJM-­CHaNMi, editorMaharashtra RJM-­CHaNMi,
+ editor.
+ 26 Chowdhury M. The role of traditional birth attendants in a safe
+ delivery programme in Bangladesh. Trop Doct 1998;28:104–6.
+ 27 De Brouwere V, Derveeuw M, Van Damme W, et al. Safe
+ motherhood. Lancet 1999;354:2085.
+ 28 Bang AT, Bang RA, Reddy HM, et al. Reduced incidence of neonatal
+ morbidities: effect of home-­based neonatal care in rural Gadchiroli,
+ India. J Perinatol 2005;25 Suppl 1:S51–61.
+ 29 Bang RA, Bang AT, Reddy MH, et al. Maternal morbidity during
+ labour and the puerperium in rural homes and the need for medical
+ attention: a prospective observational study in Gadchiroli, India.
+ 
+<section> BJOG 2004;111:231–8.
+ 30 Crandall A, Job JS, Singh PN, et al. Village health workers improve
+ child health: the Jamkhed, India experience. International Journal of
+ Global Health and Health Disparities 2007;5:41–54.
+ 31 Bang AT, Baitule SB, Reddy HM, et al. Low birth weight and preterm
+ neonates: can they be managed at home by mother and a trained
+ village health worker? J Perinatol 2005;25 Suppl 1:S72–81.
+ 32 Bang AT, Reddy HM, Bang RA, et al. Why do neonates die in rural
+ 
+<section> Gadchiroli, India? (Part II): estimating population attributable risks
+ and contribution of multiple morbidities for identifying a strategy to
+ prevent deaths. J Perinatol 2005;25 Suppl 1:S35–43.
+ 33 Hoffman MK, Goudar SS, Kodkany BS, et al. Low-­dose aspirin
+ for the prevention of preterm delivery in nulliparous women with a
+ singleton pregnancy (aspirin): a randomised, double-­blind, placebo-­
+ controlled trial. Lancet 2020;395:285–93.
+ 34 Phillips C, Velji Z, Hanly C, et al. Risk of recurrent spontaneous
+ preterm birth: a systematic review and meta-­analysis. BMJ Open
+ 2017;7:e015402.
+ 35 Von Der Pool BA. Preterm labor: diagnosis and treatment. Am Fam
+ Physician 1998;57:2457–64.
+ 36 Hill PD, Ledbetter RJ, Kavanaugh KL. Breastfeeding patterns of
+ low-­birth-­weight infants after hospital discharge. J Obstet Gynecol
+ Neonatal Nurs 1997;26:189–97.
+ 37 Bang AT, Bang RA, Baitule SB, et al. Management of birth asphyxia
+ in home deliveries in rural Gadchiroli: the effect of two types of birth
+ attendants and of resuscitating with mouth-­to-­mouth, tube-­mask or
+ bag-­mask. J Perinatol 2005;25 Suppl 1:S82–91.
+ Carbonell-­Estrany X, Figueras-­Aloy J, Salcedo-­Abizanda S, et al.
+ 
+<section> Probable early-­onset group B streptococcal neonatal sepsis: a
+ serious clinical condition related to intrauterine infection. Arch Dis
+ Child Fetal Neonatal Ed 2008;93:F85–9.
+ Kudawla M, Dutta S, Narang A. Validation of a clinical score for
+ the diagnosis of late onset neonatal septicemia in babies weighing
+ 
+<section> 1000-­2500 G. J Trop Pediatr 2008;54:66–9.
+ Bang AT, Bang RA, Stoll BJ, et al. Is home-­based diagnosis and
+ treatment of neonatal sepsis feasible and effective? seven years of
+ intervention in the Gadchiroli field trial (1996 to 2003). J Perinatol
+ 2005;25 Suppl 1:S62–71.
+ Fuchs A, Bielicki J, Mathur S, et al. Reviewing the who guidelines for
+ antibiotic use for sepsis in neonates and children. Paediatr Int Child
+ Health 2018;38:S3–15.
+ Altman DG, Bland JM. Interaction revisited: the difference between
+ two estimates. BMJ 2003;326:219.
+ Mori R, Fujimura M, Shiraishi J, et al. Duration of inter-­facility
+ neonatal transport and neonatal mortality: systematic review and
+ cohort study. Pediatr Int 2007;49:452–8.
+ Perry H, Robison N, Chavez D, et al. Attaining health for all through
+ community partnerships: principles of the census-­based, impact-­
+ oriented (CBIO) approach to primary health care developed in
+ Bolivia, South America. Soc Sci Med 1999;48:1053–67.
+ Gove S. Integrated management of childhood illness by outpatient
+ health workers: technical basis and overview. The who Working
+ group on guidelines for integrated management of the sick child.
+ 
+<section> Bull World Health Organ 1997;75 Suppl 1:7–24.
+ Neogi SB, Sharma J, Chauhan M, et al. Care of newborn in the
+ community and at home. J Perinatol 2016;36:S13–17.
+ Boschi-­Pinto C, Labadie G, Dilip TR, et al. Global implementation
+ survey of integrated management of childhood illness (IMCI):
+ years on. BMJ Open 2018;8:e019079.
+ Anand K, Patro BK, Paul E, et al. Management of sick children by
+ health workers in Ballabgarh: lessons for implementation of IMCI in
+ India. J Trop Pediatr 2004;50:41–7.
+ Sacks E, Freeman PA, Sakyi K, et al. Comprehensive review of the
+ evidence regarding the effectiveness of community-­based primary
+ health care in improving maternal, neonatal and child health:
+ neonatal health findings. J Glob Health 2017;7:010903.
+ Oliphant NP, Manda S, Daniels K, et al. Integrated community
+ case management of childhood illness in low- and middle-­income
+ countries. Cochrane Database Syst Rev 2021;2:CD012882.
+ Rasanathan K, Muñiz M, Bakshi S, et al. Community case
+ management of childhood illness in sub-­Saharan Africa - findings
+ from a cross-­sectional survey on policy and implementation. J Glob
+ Health 2014;4:020401.
+ Rosato M, Laverack G, Grabman LH, et al. Community participation:
+ lessons for maternal, newborn, and child health. Lancet
+ 2008;372:962–71.
+ Afzal MM, Pariyo GW, Lassi ZS, et al. Community health workers at
+ the dawn of a new era: 2. planning, coordination, and partnerships.
+ 
+<section> Health Res Policy Syst 2021;19:103.
+ Perry HB, Chowdhury M, Were M, et al. Community health workers
+ at the dawn of a new era: 11. CHWs leading the way to "Health for
+ All". Health Res Policy Syst 2021;19:111.
+ Scott K, Shanker S. Tying their hands? institutional obstacles to the
+ success of the ASHA community health worker programme in rural
+ North India. AIDS Care 2010;22 Suppl 2:1606–12.

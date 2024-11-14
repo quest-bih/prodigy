@@ -1,0 +1,902 @@
+
+<section> The impact of reducing
+ 
+<section> exposure on child linear
+ 
+<section> cluster randomised controlled
+ 
+<section> in Kenya
+ 
+<section> Vivian Hoffmann, 1 Kelly Jones, 2 Jef L Leroy
+ 
+<section> To cite: Hoffmann V, Jones K, Abstract
+ Leroy JL. The impact of Introduction Observational studies have documented an
+ reducing dietary aflatoxin association between aflatoxin (AF) exposure and reduced
+ exposure on child linear growth: linear growth in infants and young children. Our objective
+ a cluster randomised controlled
+ was to assess the effectiveness of reducing AF exposure
+ 
+<section> trial in Kenya. BMJ Glob Health
+ 2018;3:e000983. doi:10.1136/ on child linear growth and serum AF levels in rural areas in
+ bmjgh-2018-000983 Eastern Kenya.
+ 
+<section> Methods A cluster randomised controlled design was
+ 
+<section> Handling editor Sanni Yaya used (28 intervention and 28 control clusters). The
+ intervention arm received a swapping (contaminated maize
+ 
+<section> ► Additional material is was replaced with safe maize) and a stockist intervention
+ published online only. To view (households were encouraged to purchase from a stockist
+ please visit the journal online supplied with clean maize). Women in the fifth to final
+ (http://​dx.​doi. o rg/​10.​1136/​ month of pregnancy were invited to enrol in the study.
+ bmjgh- 018-​000983).
+ Outcomes were child length-for-age Z-score (LAZ), the
+ prevalence of stunting and child serum AFB -lysine adduct
+ Received 30 May 2018 level 24 (endline, primary outcomes) and 11 to 19 months
+ Revised 29 September 2018 (midline, secondary outcomes) after trial commencement,
+ Accepted 14 October 2018 respectively. The trial was registered with ​soci​alsc​ienc​ereg​
+ istry.​org.
+ 
+<section> Results Of the 1230 unborn children enrolled in the
+ study, 881 (72%) were included in the LAZ and 798 (65%)
+ in the serum AFB analysis. The intervention significantly
+ 1
+ reduced endline ln serum AFB -lysine adduct levels
+ (intervention effect—0.273, 95% CI −0.547 to 0.001;
+ one-sided p=0.025), but had no effect on endline LAZ or
+ stunting (mean LAZ at endline was −1.64). At midline, the
+ intervention increased LAZ by 0.16 (95% CI −0.009 to
+ 0.33; one-sided p=0.032) and reduced stunting by seven
+ © Author(s) (or their
+ employer(s)) 2018. Re-use percentage points (95% CI −0.125 to −0.007; one-sided
+ permitted Published under by BMJ. CC BY. p=0.015), Conclusion but Improving had no impact access on to serum AF-free AFB maize 1 levels.
+ Markets, Trade and Institutions substantially reduced endline serum AF, but had no effect
+ Division, International Food on child linear growth. The midline analysis suggests that
+ Policy Research Institute (IFPRI), AF may affect linear growth at younger ages.
+ Washington, DC, USA Trial registration number AEARCTR-0000105.
+ 
+<section> Economics Department,
+ 
+<section> American University,
+ 
+<section> Washington, DC, USA
+ 
+<section> Poverty, Health and Nutrition
+ 
+<section> Introduction
+ 
+<section> Division, International Food
+ Policy Research Institute, Aflatoxins (AFs) are a group of naturally
+ 
+<section> Washington, District of occurring mycotoxins that pose important
+ 
+<section> Columbia, USA health risks. Aspergillus flavus and A. para-
+ siticus, two common AF-producing fungi,
+ 
+<section> Correspondence to
+ Dr Vivian Hoffmann; frequently infect important food crops
+ v .​hoffmann@ c giar.​org such as maize and peanuts, especially when
+ 
+<section> dietary aflatoxin
+ 
+<section> growth: a
+ 
+<section> trial
+ 
+<section> Key questions
+ 
+<section> What is already known?
+ 
+<section> ► Aflatoxin B1 (AFB1) produced by A. flavus and A. par-
+ asiticus, can lead to death from aflatoxicosis when
+ consumed in high doses and is a potent carcinogen.
+ 
+<section> ► Observational studies showing an association be-
+ tween AFB1 exposure and reduced linear growth
+ in utero and in young children cannot fully exclude
+ confounding.
+ 
+<section> What are the new findings?
+ 
+<section> ► This study is the first randomised controlled design
+ to examine the impact of reducing aflatoxin exposure
+ on child linear growth and serum aflatoxin levels.
+ 
+<section> ► The intervention significantly and substantially re-
+ duced serum aflatoxin levels, but had no effect on
+ child linear growth at endline (primary outcomes).
+ 
+<section> What do the new findings imply?
+ 
+<section> ► The midline effect on linear growth (secondary out-
+ come) suggests that future studies should explore
+ these age-varying effects.
+ 
+<section> plants are stressed. 1 AFs can be produced
+ when these fungus-contaminated crops are
+ not sufficiently dried before they are put in
+ storage or when stored under humid condi-
+ tions. 2 High doses of AFB , the type of AF
+ produced by A. flavus and A. parasiticus, can
+ lead to death from aflatoxicosis. 3 AFB is also
+ 1
+ a potent carcinogen: chronic exposure can
+ lead to hepatocellular carcinoma, especially
+ in combination with hepatitis B infection.
+ AF exposure has been hypothesised to lead
+ to mucosal damage and subsequent nutrient
+ malabsorption and increased intestinal
+ permeability and immunomodulation. 1 4 A
+ number of observational studies have shown
+ an association between AFB exposure and
+ 1
+ reduced linear growth in utero and in infants
+ and young children. 5–8 An inherent limita-
+ tion of these observational studies is that they
+ cannot fully exclude confounding by factors 
+<section> such as poverty, which is associated with poor cropping,
+ harvesting, postharvest and storage practices, all of which
+ can contribute to AF contamination of crops. 9 Recent
+ evidence from Kenya shows that the serum AF levels in
+ poor rural women with the worst socioeconomic back-
+ ground was 4.7 to 7.1 times higher than those in women
+ who were less poor. 10 Poverty is also associated with
+ low-quality diets and frequent infections in children,
+ both of which are associated with growth retardation.
+ This study used a randomised controlled design to
+ examine the impact of reducing AF exposure on child
+ linear growth and serum AF levels in Eastern Kenya. More
+ specifically, we hypothesised that reducing exposure to
+ AF-contaminated maize would increase linear growth and
+ reduce serum AFB -lysine adduct level in children under
+ 24 months of age. The Mitigating Aflatoxin Exposure to
+ Improve Child Growth in Eastern Kenya (MAICE) study
+ reported here is the first randomised controlled trial to
+ evaluate the effect of reducing AF exposure on child
+ linear growth.
+ 
+<section> Methods
+ 
+<section> The study protocol was published previously. 12 A summary
+ of the study methods is provided below.
+ 
+<section> Study design
+ 
+<section> A cluster randomised longitudinal trial design was used.
+ Clusters were defined as villages, typically consisting of
+ 50 to 175 households (mean of 95, median of 86). The
+ study was conducted in rural areas within Meru and
+ Tharaka-Nithi counties in Kenya, an area where maize
+ is the predominant crop and frequent aflatoxicosis
+ outbreaks and widespread contamination of maize have
+ been reported. 13–17 A total of 56 villages were randomly
+ selected for inclusion in the study.
+ A detailed data analysis plan was approved by the trial
+ steering committee. Both the published protocol 12 and
+ the data analysis plan were added to the public trial
+ registry.
+ 
+<section> Participants
+ 
+<section> Enrolment into the study was conducted in six waves,
+ each 4 months apart (figure 1). In each wave, women in
+ the fifth to final month of pregnancy (by the woman’s
+ estimate) were invited to enrol in the study. One newly
+ born child of each pregnant woman became part of the
+ 
+<section> Figure 1 Study timeline.
+ 
+<section> study. In case of twins or triplets, the names of children
+ were ranked alphabetically, and the first was selected
+ to be the study child. The child was followed until
+ months after study enrolment during pregnancy.
+ 
+<section> Randomisation and masking
+ Using Stata, Kelly Jones assigned each village a random
+ number from a uniform [0,1] distribution. Villages with
+ a random number ≤0.5 were assigned to the intervention
+ group; all others were assigned to the control group. Due
+ to the nature of the intervention, assignment could not
+ be masked.
+ 
+<section> Procedures
+ 
+<section> The MAICE intervention consisted of a swapping and a
+ stockist component. In the swapping component, house-
+ holds were offered monthly rapid maize testing at home
+ by trained local staff. If the household agreed, any stored
+ maize that the household was planning to consume over
+ the next 2 months was tested using the US Grain Inspec-
+ tion, Packers and Stockyards Administration (GIPSA)
+ verified Romer AgraStrip rapid test with a 10 parts per
+ billion (ppb) detection threshold, according to manufac-
+ turer instructions. 12 Stored maize found to contain over
+ 10 ppb AF (the Kenyan regulatory limit for AF contam-
+ ination) was replaced with an equal amount of “safe”
+ maize, that is, maize tested to be under the regulatory
+ limit. This component of the intervention was started in
+ July 2013, shortly, after the second enrolment wave and
+ several months after the originally planned interven-
+ tion start date due to contracting and logistical delays
+ (figure 1). In the first months of the trial, we observed
+ that households acquired the majority of the maize they
+ consumed through the market and not from own produc-
+ tion. This was unexpected (based on the formative study,
+ we conducted with 30 maize farmers in Meru county in
+ 2012) and was due to an unusually poor maize harvest in
+ the study area in 2013. Since household maize purchases
+ were typically small and frequent (more than once per
+ month as originally hypothesised), the swapping compo-
+ nent was less effective in reducing household AF expo-
+ sure than anticipated. To increase intervention effec-
+ tiveness, the stockist component was rolled out between
+ January and March 2014, that is, after trial commence-
+ ment. In this component, maize containing less than
+ ppb AF was supplied to at least one shopkeeper in each of 
+<section> the intervention villages; study household were encour-
+ aged at an initial village meeting, and monthly during
+ the swapping visits, to purchase this clean maize from the
+ local stockist as needed.
+ Since wave 1 participants were possibly not exposed to
+ both components of the intervention long enough for
+ it to have an impact (figure 1), a sixth enrolment wave
+ was added to the five originally included in the study
+ design. Per the original protocol, wave 1 households
+ in the MAICE intervention group continued to receive
+ the intervention for a 2-year period, but this group was
+ excluded from follow-up data collection, in line with the
+ registered, and subsequently published, study protocol.
+ All data collection occurred at study participants’
+ homes through face-to-face interviews using computer-as-
+ sisted personal interview software on handheld tablets.
+ The expectant mother was interviewed immediately after
+ enrolment, and her height and weight were measured.
+ A similar survey was repeated at endline, that is, at
+ months, after enrolment of the pregnant mothers. At
+ the time that the endline survey was conducted among
+ the wave 3 participants, a midline survey was conducted
+ among participants enrolled in the fourth through sixth
+ waves, per the published protocol (figure 1). At each
+ follow-up visit (midline for waves 4 through six and
+ endline for all waves), the length and weight of the index
+ child (the child the mother was expecting at enrolment)
+ was measured using standard methods. 18 A venous blood
+ sample was taken from the child for serum AFB -lysine
+ adduct analysis. In addition to collecting data on the
+ primary and secondary outcomes, data were collected
+ on household demographics, education level of house-
+ hold members, household food insecurity, 19 household
+ dietary diversity using the Food and Nutrition Technical
+ Assistance (FANTA) Household Dietary Diversity Score,
+ household asset ownership and maternal height.
+ 
+<section> Outcomes
+ 
+<section> The primary outcomes were child length-for-age Z-score
+ (LAZ, both as a continuous variable and as the prevalence
+ of stunting) and child serum AFB -lysine adduct level at
+ endline (24 months after enrolment of their pregnant
+ mother, when children were on average 22 months old).
+ Child LAZ, the prevalence of stunting and child serum
+ AFB -lysine adduct level at midline (11 to 19 months after
+ enrolment, when average child age was 13.3±3.6 months)
+ were considered secondary outcomes.
+ Anthropometric Z-scores were calculated using the
+ 2006 WHO growth standards. 21 Stunting was defined as
+ LAZ below −2 SD of the age and sex-specific median of
+ the growth standard. To determine serum AFB -lysine
+ adduct level, serum samples were analysed using the
+ high-performance liquid chromatography (HPLC)-fluo-
+ rescence method. Details on the HPLC analytic method
+ used in this study have been published previously.
+ Serum AFB -lysine adduct level was log transformed for
+ the analyses.
+ 
+<section> Statistical analyses
+ Based on the magnitude of effect sizes of known effective
+ nutrition interventions on linear growth, 22 the minimum
+ detectable effect (MDE) for exposure to the intervention
+ for the full 24-month period was set to 0.3 LAZ. This was
+ then adjusted downward taking into account, the partial
+ exposure to the intervention of participants recruited
+ in waves 2 and 3 (prior to introduction of the stockist
+ component) to give an MDE of 0.281. Other sample size
+ parameters were a one-sided alpha of 0.05, 80% power
+ and a SD of LAZ of 1.28. We first calculated the required
+ sample size under the assumption of individual rando-
+ misation. Next, we adjusted the calculations for an intr-
+ acluster correlation of 0.05% and 9% attrition, and we
+ assumed that 15% of variation in the outcome would
+ be explained by baseline covariates. The estimated total
+ number of participants required to achieve the study
+ objectives was 924 across 56 villages. This sample size
+ provides sufficient statistical power to detect an effect size
+ of approximately 0.2 on serum AF.
+ Data analysis followed the statistical analysis plan.
+ All analyses were conducted using Stata V.15.0. In line
+ with the Consolidated Standards of Reporting Trials
+ (CONSORT) 2010 guidelines, no formal comparison of
+ baseline means between the intervention and control
+ arm was conducted. 23 Intention-to-treat analysis was used
+ to assess the impact of the intervention. The impact on
+ linear growth and serum AF levels at endline was assessed
+ for all enrolment waves (excluding wave 1) combined.
+ Ordinary least squares regression analysis was used to
+ estimate the impact of the intervention. We estimated
+ models that controlled for the complete set of prespec-
+ ified baseline covariates, and reduced models, that is,
+ models retaining only those socioeconomic covariates
+ that were statistically significant. At the household level,
+ the covariates included household food insecurity (using
+ FANTA’s Household Food Insecurity Access Scale ),
+ household dietary diversity (using FANTA’s Household
+ Dietary Diversity Score ), household assets (a simple
+ count of the total number of assets owned, proxy for
+ household wealth) and the number of adult equivalents
+ in the household. At the individual level, the models
+ controlled for child sex and age (in months), maternal
+ age, height and education and the educational level of
+ the head of household. Finally, we controlled for study
+ enrolment wave and birth season (for the linear growth
+ outcomes) and season of measurement (for the serum
+ AF outcome). Following the CONSORT guidelines, we
+ also present impact analyses unadjusted for socioeco-
+ nomic covariates (these estimates do control for biolog-
+ ical covariates such as child age and sex).
+ Two types of sensitivity analyses were conducted for
+ the primary outcome analyses. To assess the importance
+ of observations lost to follow-up, we estimated the prob-
+ ability of dropout using an augmented set of baseline
+ variables (ie, the covariates included in the impact model
+ and a number of other variables possibly related to loss
+ to follow-up). The predicted linear probability (ie, the 
+<section> predicted log odds) was then added as a covariate to
+ the regression model used to estimate the impact of the
+ intervention. Second, we used multiple imputation to fill
+ in missing values for observations that did not dropout,
+ but had some missing information. Sequential imputa-
+ tion using chained equations (Stata’s mi command) was
+ used. Once values were imputed, the impact regression
+ model was estimated. The standard errors in all analyses
+ were adjusted for the (potential) lack of independence
+ between observations in the same village. A p value of
+ 0.05 was considered statistically significant. Given the
+ clear a priori hypothesis of the trial, and in line with the
+ sample size calculation and data analysis plan, one-sided
+ tests were used to assess the significance of the interven-
+ tion on all outcomes.
+ In addition to the analyses to assess the impact of the
+ intervention, we present additional exploratory analyses
+ as online supporting material to help with the interpreta-
+ tion of the findings. These include changes over time in
+ mothers’ serum AFB1-lysine adduct level at enrolment,
+ control group children’s serum AFB1-lysine adduct level
+ at endline and the proportion of households with maize
+ samples above the 10 ppb AF testing threshold.
+ The trial was registered at American Economic Asso-
+ ciation's registry for randomised controlled trials as
+ AEARCTR-0000105 on November 6, 2013 and updated in
+ 2014 to reflect the addition of the stockist intervention,
+ 
+<section> Figure 2 Trial profile. AFB, Alfatoxin B1; LAZ, length-for-age Z-score.
+ 
+<section> addition of the sixth enrolment wave and expansion of
+ the sample size.
+ 
+<section> Role of the funding source
+ The views expressed in this paper are those of the
+ authors and not necessarily those of the funding bodies.
+ The funder of the study had no role in study design, data
+ collection, data analysis, data interpretation or writing of
+ the report. The corresponding author had full access to
+ all the data in the study and had final responsibility for
+ the decision to submit.
+ 
+<section> Results
+ 
+<section> Enrolment exceeded the minimum sample size indi-
+ cated by power calculations due to higher than expected
+ fertility rates in the study villages (figure 2). This was
+ offset by higher than expected loss to follow-up. Of
+ the 1219 (687 intervention, 532 control) unborn chil-
+ dren enrolled in the study, 881 (72%) were included in
+ the LAZ and 798 (65%) in the serum AFB analysis. A
+ 1
+ total of 251 (148 intervention, 118 control) were lost to
+ follow-up; an additional 72 children (50 intervention,
+ control) and 155 children (103 intervention, 52 control)
+ had incomplete data for the LAZ and AFB analyses at
+ endline, respectively. The discrepancy in completeness of
+ follow-up data between intervention and control groups
+ was driven by very low rates of interview completion in 
+<insert> Intervention
+ Mother, baseline (n)
+  Height (cm) 157.47±6.01
+  Age (years) 25.74±6.13
+   None/primary incomplete (%) 54.81
+   Primary complete (%) 29.04
+   (Some) secondary (%) 16.16
+  Ln serum aflatoxin B1 (AFB1)-lysine adduct level 2.69±1.61
+ Head of household education, baseline (n)
+  None/primary incomplete (%) 56.85
+  Primary complete (%) 27.81
+  Education
+  (Some) secondary (%) 15.34
+ Household, baseline (n)
+   Food secure (%) 19.02
+   Mildly food insecure (%) 14.31
+   Moderately food insecure (%) 37.63
+   Severely food insecure (%) 29.04
+   First (%) 33.13
+   Second (%) 34.56
+   Third (%) 32.31
+  Assets (low) (%) 63.39
+  Adult equivalents 36.61
+ Child, endline (n)
+  Age endline (months) 22.13±2.28
+  Male (%) 51.12
+ Child, midline (n)
+  Age midline (months) 13.36±3.73
+  Food Security Scale
+  Dietary diversity score tertile
+ Table 1 Characteristics of the study population 
+<iend>
+
+ two relatively large villages where several challenges,
+ including rumours of witchcraft, were recorded by survey
+ staff. The proportion of observations with complete data
+ does not differ significantly (p>0.05) by intervention
+ status for any of the reported outcomes.
+ Children were on average around 22 months old at
+ endline and 4 out of 10 were stunted (table 1). AFB -ly-
+ sine adduct was detectable in all analysed endline child
+ serum samples. The mean level of serum AFB -lysine
+ adduct was 18.1 pg/mg albumin (median 6.1 pg/mg
+ albumin). Mothers were about 25 years old and had low
+ levels of schooling. Similar low levels of schooling were
+ found for the head of household. The average child age
+ at midline (limited to waves 4, 5 and 6) was 13 months,
+ and the prevalence of stunting in those children was
+ 23%. Baseline characteristics were well balanced across
+ trial arms (table 1).
+ 
+<section> The intervention had no
+ estimate −0.01, 95% CI
+ value 0.551) or on the prevalence
+ (0.015,–0.51 to 0.036; one-sided
+ The intervention had a
+ AFB -lysine adduct levels
+ reduced serum AFB -lysine
+ 27% (–0.273, –0.547 to 0.001;
+ A significant effect on child
+ midline: the intervention
+ reduced the prevalence of
+ points. No impact was
+ adduct levels at midline.
+ socioeconomic baseline
+ precisely estimated (online
+ sensitivity analyses (reduced
+ predicted log odds of dropout,
+ 
+<section> Control
+ 
+<section> 158.10±6.46
+ 
+<section> 25.70±6.24
+ 
+<section> 52.3
+ 
+<section> 30.1
+ 
+<section> 17.6
+ 
+<section> 2.74±1.68
+ 
+<section> 51.79
+ 
+<section> 26.79
+ 
+<section> 21.43
+ 
+<section> 17.35
+ 
+<section> 13.52
+ 
+<section> 36.48
+ 
+<section> 32.65
+ 
+<section> 36.22
+ 
+<section> 34.18
+ 
+<section> 29.59
+ 
+<section> 68.62
+ 
+<section> 31.38
+ 
+<section> 22.02±2.63
+ 
+<section> 51.79
+ 
+<section> 13.45±3.60
+ 
+<section> effect on child LAZ (impact
+ −0.165 to 0.146; one-sided p
+ of stunting at endline
+ p value 0.671) (table 2).
+ significant effect on ln serum
+ at endline: the intervention
+ adduct levels by approximately
+ one-sided p value 0.025).
+ linear growth was found at
+ increased LAZ by 0.16 SD and
+ stunting by seven percentage
+ found on serum AFB -lysine
+ The estimates unadjusted for
+ variables were similar but less
+ supplementary table 2). The
+ model, model including the
+ multiple imputation) did 
+<insert> Intervention Control
+ Impact estimate (95%
+ CI)
+ P
+ values* n
+ Primary outcomes
+  LAZ (endline) −1.68±1.08 −1.59±1.27 −0.010 (−0.165 to 0.146) 0.551
+  Stunting (endline) 39.26 35.71 0.015 (−0.052 to 0.082) 0.671
+  Ln serum AFB1-lysine adduct level (endline)† 1.78±1.28 2.01±1.37 −0.273 (−0.547 to 0.001) 0.025
+  LAZ (midline) −1.17±1.13 −1.32±1.24 0.160 (−0.009 to 0.33) 0.032
+  Stunting (midline)
+  Ln serum AFB1-lysine adduct level (midline)‡
+ 20.00
+ 1.54±1.17
+ 26.57
+ 1.60±1.21
+ −0.066 (−0.125 to −0.007) 0.015
+ −0.062 (−0.299 to 0.175) 0.302
+ Secondary outcomes
+ *One-sided p values are shown.
+ †Sample sizes for serum aflatoxin were 436 and 362 in the intervention and control arms at endline, respectively. Absolute AFB1-lysine
+ adduct level were 14.79±30.24 pg/mg albumin in the intervention arm and 22.19±58.1 pg/mg albumin in the control arm.
+ ‡Sample sizes for serum aflatoxin were 279 and 245 in the intervention and control arms at midline, respectively. Absolute AFB1-lysine
+ adduct level were 9.83±18.62 pg/mg albumin in the intervention arm and 16.12±71.94 pg/mg albumin in the control arm.
+ AFB1, aflatoxin B1; LAZ, length-for-age Z-score.
+ Table 2 Impact of the intervention on child LAZ, stunting and ln serum AFB1-lysine adduct levels 
+<iend>
+
+ not change any of the findings (online supplementary
+ table 3).
+ The exploratory analyses online supplementary figure
+ 1 show a spike in maternal serum AFB -lysine adduct
+ levels in June and November 2014, which corresponds
+ to a spike in the proportion of households in treatment
+ areas with stored maize testing above 10 ppb. For the rest
+ of the study period, both the proportion of households
+ with contaminated maize and serum lys-AFB levels are
+ considerably lower. Child serum AFB -lysine adduct levels
+ in the control group were lowest during endline waves
+ to
+ 
+<section> Discussion
+ 
+<section> This study, carried out in Eastern Kenya, is the first
+ cluster randomised controlled trial to test whether AF
+ exposure stunts child linear growth. Reducing AF expo-
+ sure through a swapping and stockist intervention signif-
+ icantly lowered serum AF levels: at study endline (24
+ months after study enrolment during pregnancy), chil-
+ dren in intervention communities had serum AF levels
+ that were 27% lower than in the control communities.
+ The intervention, however, did not improve child linear
+ growth at this prespecified study endline.
+ The effect on serum AF indicates that the lack of impact
+ on growth is not a consequence of a failure to reduce AF
+ exposure. In addition, AF exposure levels were similar
+ or higher than those in previous observational studies
+ documenting associations between AF and child linear
+ growth. 6 8 25 Serum AF levels in pregnant women at enrol-
+ ment waves 2 to 4 (June 2013 through February 2014)
+ ranged from 3.8 to 8.4 pg/mg albumin (online supple-
+ mentary figure 1), similar to those reported by Turner
+ et al in pregnant women (5.3 pg/mg after adjusting for
+ the factors published by McCoy to account for different
+ analytical methods). 6 25 During the final two enrolment
+ waves for pregnant women (June and November 2014),
+ however, exposure levels were considerably higher
+ (the geometric mean of AFB -lysine adduct levels were
+ between 35 and 40 pg/mg). Levels of AF detected in the
+ intervention households’ stored maize followed a similar
+ pattern. From September 2013 to May 2014, a period
+ that spans the first three enrolment waves included in
+ the study, the mean proportion of households who had
+ maize in store that tested over 10 ppb (the Kenyan regu-
+ latory threshold) was 4.6% (N=1163), and the geometric
+ mean contamination in a subsample of those exceeding
+ 10 ppb was 36.7 ppb (N=48). From June to November
+ 2014, when the last two waves were enrolled, 19.5% of
+ maize samples tested above 10 ppb (N=1668), and the
+ geometric mean among a random subset from those over
+ 10 ppb was 563 ppb (N=51). This is much higher than
+ levels typically observed in studies documenting crop AF
+ prevalence. 26 27 The levels in children at endline (4.5 to
+ 8.3 pg/mg, August 2015 through October 2016) were
+ comparable to those reported by Gong et al in children
+ 16 to 37 months of age (geometric mean 4.3 pg/mg,
+ after adjustment using McCoy et al). 8
+ A strength of our study is its design: it is the first to
+ use a randomised trial to study the effects of reducing AF
+ exposure. A key limitation (inherent to this type of study)
+ is the different nature of our two primary outcomes:
+ the effect of environmental insults on linear growth is
+ cumulative and takes many months (or years) to become
+ observable. Serum AFB -lysine adduct reflects exposure
+ to AF in the past 3 months. The different response time
+ of the two outcome variables and the known seasonal
+ variation in AF exposure online supplementary figure
+ 1 may explain the apparent paradox in the findings
+ at endline (reduction in serum AF levels; no effect on
+ growth) and midline (no effect on serum levels; effect on
+ growth). By-wave analysis of the impact of the interven-
+ tion on serum AF levels (online supplementary table 4)
+ shows that the impact of the intervention was limited to 
+<section> endline waves 5 and 6, when serum AF was highest in the
+ control group children. This suggests that AF exposure
+ during the other waves of data collection may have been
+ too low for a reduction to be detected.
+ As a consequence of the difference in response time
+ and seasonal variation, linking (reductions in) exposure
+ to (improvements in) linear growth is challenging. Ideally,
+ this would entail quarterly monitoring of serum AFB -ly-
+ sine adduct, which was cost prohibitive for this study.
+ The biological pathways that might explain the effect of
+ AF exposure on linear growth are poorly understood:
+ environmental enteric dysfunction, immunomodula-
+ tion and changes in the hepatic metabolism of micronu-
+ trients have been proposed as possible mechanisms. 4
+ We did not collect biomarkers for any of these. Another
+ limitation is the loss to follow-up in the study, which was
+ relatively high. Our sensitivity analyses, however, do not
+ suggest that this changed our results.
+ The midline growth effect (secondary outcome) leads
+ to important questions regarding the toxicity of AF for
+ growth. The intervention appears to have had a large
+ positive growth effect when these children were on
+ average around 13 months old. No effect was found on
+ serum AF levels at midline, which were relatively low in
+ control group children at this time. The growth effect,
+ however, was no longer observed in the same children
+ (ie, children enrolled in waves 4, 5 and 6) at endline.
+ To ensure that this finding was not due to differential
+ dropout between midline and endline, we re-estimated
+ the growth effects on a homogenous sample of children
+ present at both time points and found that the results did
+ not change (online supplementary table 5). The large
+ effect at midline combined with the absence of an effect
+ at endline indicate that the toxic effect of AF might vary by
+ age. Our findings suggest that protection from the 2014
+ AF spike early in life (ie, in utero or at very young ages, as
+ was the case for wave 4, 5 and 6 children) was particularly
+ beneficial (online supplementary figure 1). The disap-
+ pearance of the impact between midline and endline
+ could indicate that the relative (biological) importance
+ of AF exposure as an inhibitor of linear growth decreases
+ as children grow older. Larger reductions in AF exposure
+ may also have been needed to result in a (continued)
+ effect on linear growth. In addition, children’s nutrient
+ intake between midline and endline might have been too
+ deficient to sustain the growth advantage the children
+ had accumulated by midline. These factors may have
+ resulted in children regressing to the status of the chil-
+ dren in the control group. Unfortunately, we do not have
+ the necessary data to further explore these hypothesised
+ pathways. Finally, the disappearance of the linear growth
+ impact does not imply that the intervention did not
+ confer other potentially permanent benefits to the chil-
+ dren in the intervention group, such as improvements in
+ neurocognitive development and immune function.
+ The study confirms that exposure to AF can be substan-
+ tially reduced through interventions (supplemental text
+ on the uptake of the intervention). Given the complexity
+ and cost of organising regular swapping and the stockist
+ approach, the intervention tested here is not feasible
+ for implementation at scale. Other solutions, however,
+ are available. A postharvest intervention was shown to
+ substantially reduce serum AF levels in Guinea. 26 Aflasafe,
+ which inoculates the soil with non-toxicogenic Aspergillus
+ strains, can be used in large scale programme.
+ Our findings have implications for future studies and
+ public health. First, as found in this study, AF exposure
+ varies considerably over space and time. This means that
+ the potential benefit of interventions aimed at reducing
+ AF exposure is to a large extent outside the control of
+ the researchers. Studies in multiple locations, during
+ different seasons and for varying time periods will thus be
+ needed to answer the AF-stunting question definitively.
+ Second, our findings suggest that AF’s effect on growth
+ may vary with age. Future studies should explore these
+ age-varying effects. Third, even if future studies find no
+ effect of AF on linear growth, research should focus on
+ better understanding the (hypothesised) effects of AF
+ exposure on environmental enteric dysfunction, systemic
+ inflammation, immunomodulation and changes in the
+ hepatic metabolism of micronutrients. 4 28 Several of these
+ pathways are likely to affect other critical outcomes, such
+ as child health and development.
+ Finally, it must be noted that there are multiple bene-
+ fits to AF control, which include agricultural productivity,
+ access to domestic and export markets and health. Deci-
+ sions about AF control should assess the joint benefits
+ and not be limited to the potential effect on child linear
+ growth. 
+<section> 1 30
+ 
+<section> Acknowledgements We thank Celeste Sununtnasuk and Alexia Pretari for
+ providing excellent research support and Jia-Sheng Wang for analysing the serum
+ samples. The study would not have been possible with the outstanding field
+ coordination by Nouhoum Traore and Lulu Tian. We thank the members of the Trial
+ Steering Committee (Rebecca Stoltzfus, Paul Turner and Edward Frongillo) for their
+ very useful guidance and advice. This research was supported with UK aid from the
+ British people and by the CGIAR Research Program on Agriculture for Nutrition and
+ Health (A4NH) led by the International Food Policy Research Institute.
+ 
+<section> Collaborators Serum AFB analysis was conducted by Jia-Sheng Wang, Professor,
+ Department of Environmental 1 Health Science, University of Georgia.
+ 
+<section> Contributors VH, KJ: led the intervention and fieldwork implementation. JLL, VH:
+ led the data analysis and drafted the manuscript. All authors designed the study
+ and revised the manuscript.
+ 
+<section> Funding This article was funded by CGIAR Research Program on Agriculture for
+ Nutrition and Health (A4NH).
+ 
+<section> Competing interests None declared.
+ 
+<section> Patient consent Not required.
+ 
+<section> Ethics approval IFPRI’s Institutional Review Board for Research; Kenya-based
+ Ethics and Scientific Review Committee of the African Medical and Research
+ 
+<section> Foundation (certificate number: AMREF-ESCR P49/12).
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data sharing statement The data used in this study area available at https://
+ 
+<section> www.​ifpri.​org/​publications
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution 4.0 Unported (CC BY 4.0) license, which permits
+ others to copy, redistribute, remix, transform and build upon this work for any
+ purpose, provided the original work is properly cited, a link to the licence is given,
+ and indication of whether changes were made. See: http://​creativecommons.​org/​
+ 
+<section> licenses/​by/​4.0 
+<section> References 17. Centers for Disease Control and Prevention (CDC). Outbreak of
+ 1. Pitt JI, Wild CP, Baan RA. Improving public health through mycotoxin aflatoxin poisoning-eastern and central provinces, Kenya, January-
+ control. Lyon: International Agency for Research on Cancer, 2012. July 2004. MMWR Morb Mortal Wkly Rep;2004:790–3.
+ 
+<section> 2. Basappa SC. Aflatoxins: formation, analysis and control. Alpha 18. Cogill B. Anthropometric indicators measurement guide. Washington
+ 
+<section> Science International: Oxford:, 2009. 
+<section> D.C 2003.
+ 
+<section> 3. Marasas WFO, Gelderblom WCA, Shephard GS. Mycotoxins: a 19. Coates J, Swindale A, Bilinsky P. Household Food Insecurity Access
+ global problem. In: Leslie JF, Bandyopadhyay R, Visconti A, eds. Scale (HFIAS) for measurement of food access: indicator guide.
+ 
+<section> Mycotoxins: detection methods, management. Public Health and 
+<section> Washington D C, 2007.
+ 
+<section> Agricultural Trade, 2008: 29–39. 20. Swindale A, Bilinsky P. Household dietary diversity score (HDDS)
+ 
+<section> 4. Smith LE, Stoltzfus RJ, Prendergast A. Food chain mycotoxin 
+<section> for measurement of household food access: indicator guide.
+ 
+<section> exposure, gut health, and impaired growth: a conceptual framework. 
+<section> Washington, DC: Food Nutr Tech, 2006.
+ 
+<section> Adv Nutr 2012;3:526–31. 21. WHO Multicentre Growth Reference Study Group. WHO child
+ 
+<section> 5. Shuaib FM, Jolly PE, Ehiri JE, et al. Association between birth growth standards: Length/height-for-age, weight-for-age, weight-for-
+ 
+<section> outcomes and aflatoxin B1 biomarker blood levels in pregnant length, weight-for-height and body mass index-for-age: methods and
+ women in Kumasi, Ghana. Trop Med Int Health 2010;15:160–7. development. Geneva: WHO Multicentre Growth Reference Study
+ 
+<section> 6. Turner PC, Collinson AC, Cheung YB, et al. Aflatoxin exposure in 
+<section> Group, 2006.
+ 
+<section> utero causes growth faltering in Gambian infants. Int J Epidemiol 
+<section> 22. Bhutta ZA, Ahmed T, Black RE, et al. What works? Interventions
+ 2007;36:1119–25. for maternal and child undernutrition and survival. Lancet
+ 
+<section> 7. Gong YY, Cardwell K, Hounsa A, et al. Dietary aflatoxin exposure 
+<section> 2008;371:417–40.
+ 
+<section> and impaired growth in young children from Benin and Togo: cross 23. Moher D, Hopewell S, Schulz KF, et al. CONSORT 2010 explanation
+ sectional study. BMJ 2002;325:20–1. and elaboration: updated guidelines for reporting parallel group
+ 
+<section> 8. Gong Y, Hounsa A, Egal S, et al. Postweaning exposure to aflatoxin 
+<section> randomised trials. J Clin Epidemiol 2010;63:e1–e37.
+ 
+<section> results in impaired child growth: a longitudinal study in Benin, West 24. Snedecor GW, Cochran WG. Ames. Iowa State University Press,
+ Africa. Environ Health Perspect 2004;112:1334–8. 1989.
+ 9. Leroy JL. 2020 Vision Focus 20. In: Grace D, Unnevehr LJ, eds. 25. McCoy LF, Scholl PF, Sutcliffe AE, et al. Human aflatoxin albumin
+ 
+<section> Finding solutions for improved food safety. Washington DC: adducts quantitatively compared by ELISA, HPLC with fluorescence
+ International Food Policy Research Institute (IFPRI), 2013. detection, and HPLC with isotope dilution mass spectrometry.
+ 
+<section> 10. Leroy JL, Wang JS, Jones K. Serum aflatoxin B₁-lysine adduct 
+<section> Cancer Epidemiol Biomarkers Prev 2008;17:1653–7.
+ 
+<section> level in adult women from eastern province in kenya depends on 
+<section> 26. Turner PC, Sylla A, Gong YY, et al. Reduction in exposure to
+ household socio-economic status: a cross sectional study. Soc Sci 
+<section> carcinogenic aflatoxins by postharvest intervention measures
+ Med 2015;146:104–10. in west Africa: a community-based intervention study. Lancet
+ 
+<section> 11. Black RE, Victora CG, Walker SP, et al. Maternal and child 
+<section> 2005;365:1950–6.
+ 
+<section> undernutrition and overweight in low-income and middle-income 27. Ayalew A, Hoffmann V, Lindahl JCovic N, Hendriks SL, eds. The role
+ countries. Lancet 2013;382:427–51. of mycotoxin contamination in nutrition: the aflatoxin storyAchieving
+ 
+<section> 12. Hoffmann V, Jones K, Leroy J. Mitigating aflatoxin exposure a nutrition revolution for Africa: the road to healthier diets and
+ 
+<section> to improve child growth in Eastern Kenya: study protocol for a 
+<section> optimal nutrition. Washington, DC: International Food Policy
+ randomized controlled trial. Trials 2015;16:552. Research Institute (IFPRI), 2016.
+ 13. Ngindu A, Johnson BK, Kenya PR, et al. Outbreak of acute hepatitis 
+<section> 28. Khlangwiset P, Shephard GS, Wu F. Aflatoxins and growth
+ caused by aflatoxin poisoning in Kenya. Lancet 1982;1:1346–8. impairment: a review. Crit Rev Toxicol 2011;41:740–55.
+ 
+<section> 14. Lewis L, Onsongo M, Njapau H, et al. Aflatoxin contamination 29. Bandyopadhyay R, Ortega-Beltran A, Akande A, et al. Biological
+ 
+<section> of commercial maize products during an outbreak of acute 
+<section> control of aflatoxins in Africa: current status and potential
+ 
+<section> aflatoxicosis in eastern and central Kenya. Environ Health Perspect 
+<section> challenges in the face of climate change. World Mycotoxin J
+ 2005;113:1763–7. 2016;9:771–89.
+ 15. Azziz-Baumgartner E, Lindblade K, Gieseker K, et al. Case-control 
+<section> 30. Roy D. 2020 vision focus 20. In: Grace D, Unnevehr L. Finding
+ study of an acute aflatoxicosis outbreak, Kenya, 2004. Environ solutions for improved food safety. Wahington, DC: Trade Impacts of
+ Health Perspect 2005;113:1779–83. Aflatoxin Standards, 2013.
+ 
+<section> 16. Daniel JH, Lewis LW, Redwood YA, et al. Comprehensive 
+<section> 31. Hoffmann V, Moser C. You get what you pay for: the link
+ assessment of maize aflatoxin levels in Eastern Kenya, 2005-2007. between price and food safety in Kenya. Agricultural Economics
+ Environ Health Perspect 2011;119:1794–9. 2017;48:449–58. 
+<section> Correction: The impact of reducing dietary aflatoxin exposure
+ 
+<section> on child linear growth: a cluster randomized controlled trial
+ 
+<section> in Kenya
+ 
+<section> Hoffmann V, Jones K, Leroy JL. The impact of reducing dietary aflatoxin exposure on
+ child linear growth: a cluster randomised controlled trial in Kenya. BMJ Global Health
+ 2018;3:e000983. doi: 10.1136/bmjgh-2018-000983
+ The authors want to alert the readers on the corrected Funding and Acknowledg-
+ ment statements.
+ 
+<section> Funding
+ 
+<section> This research was funded by UK aid from the British people and the CGIAR Research
+ Programme on Agriculture for Nutrition and Health (A4NH).
+ 
+<section> Acknowledgements
+ We thank Celeste Sununtnasuk and Alexia Pretari for providing excellent research
+ support and Jia-Sheng Wang for analysing the serum samples. The study would not
+ have been possible with the outstanding field coordination by Nouhoum Traore and
+ Lulu Tian. We thank the members of the Trial Steering Committee (Rebecca Stoltzfus,
+ Paul Turner and Edward Frongillo) for their very useful guidance and advice.
+ 
+<section> Open access This is an open access article distributed in accordance with the Creative Commons Attribution 4.0 Unported
+ (CC BY 4.0) license, which permits others to copy, redistribute, remix, transform and build upon this work for any purpose,
+ provided the original work is properly cited, a link to the licence is given, and indication of whether changes were made. See:
+ 
+<section> http://​creativecommons.​org/​licenses/​by/​4.0
+ © Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY. Published by BMJ.
+ 
+<section> BMJ Glob Health 2019;4:e000983corr1. doi:10.1136/bmjgh-2018-000983corr1

@@ -1,0 +1,1602 @@
+
+<section> To cite: Jack DW,
+ Ae- N gibise KA, Gould CF, et al.
+ 
+<section> A cluster randomised trial
+ of cookstove interventions
+ to improve infant health in
+ Ghana. BMJ Global Health
+ 2021;6:e005599. doi:10.1136/
+ 
+<section> bmjgh-2021-005599
+ 
+<section> Handling editor Seye Abimbola
+ 
+<section> ► Additional supplemental
+ material is published online only.
+ To view, please visit the journal
+ online (http://​dx. d oi.​org/​10.​
+ 1136/ b mjgh-​2021- 05599).
+ 
+<section> Received 5 March 2021
+ 
+<section> Accepted 24 June 2021
+ 
+<section> © Author(s) (or their
+ employer(s)) 2021. Re-­use
+ permitted under CC BY-­NC. No
+ commercial re-­use. See rights
+ and permissions. Published by
+ BMJ.
+ For numbered affiliations see
+ end of article.
+ 
+<section> Correspondence to
+ 
+<section> Mr Darby W Jack;
+ ​dj2183@​cumc.​columbia.​edu
+ 
+<section> A cluster randomised
+ 
+<section> interventions to improve
+ 
+<section> in Ghana
+ 
+<section> Darby W Jack , 1 Kenneth Ayuurebobi Ae-­Ngibise,
+ Ellen Boamah-­Kaali, 2 Alison G Lee, 3 Mohammed
+ Seyram Kaali, 2 Ashlinn K Quinn , 5 Stephaney
+ Daniel Carrión, 6 Oscar Agyei, 2 Katrin Burkhart,
+ Yvonne Afrah Berko, 2 Blair J Wylie, 9 Seeba Amenga
+ Seth Owusu-­Agyei, 10 Patrick Kinney, 11 Kwaku
+ 
+<section> ABSTRACT
+ 
+<section> Introduction Household air pollution from solid fuel
+ combustion for cooking and heating is a leading cause
+ of childhood morbidity and mortality worldwide. We
+ hypothesised that clean cooking interventions delivered
+ during pregnancy would improve child health.
+ 
+<section> Methods We conducted a cluster randomised trial in
+ rural Ghana to test whether providing pregnant women
+ liquefied petroleum gas (LPG) cookstoves or improved
+ biomass cookstoves would reduce personal carbon
+ monoxide and fine particulate pollution exposure,
+ increase birth weight and reduce physician-­assessed
+ severe pneumonia in the first 12 months of life,
+ compared with control participants who continued
+ to cook with traditional stoves. Primary analyses
+ were intention-­to-­treat. The trial was registered with ​
+ ClinicalTrials.​gov and follow-­up is complete.
+ 
+<section> Results Enrolment began on 14 April 2014, and
+ ended on 20 August 2015. We enrolled 1414 pregnant
+ women; 361 in the LPG arm, 527 in the improved
+ biomass cookstove arm and 526 controls. We saw no
+ improvement in birth weight (the difference in mean
+ birth weight for LPG arm births was 29 g lighter (95%
+ CI −113 to 56, p=0.51) and for improved biomass arm
+ births was 9 g heavier (95% CI −64 to 82, p=0.81),
+ compared with control newborns) nor severe child
+ pneumonia (the rate ratio for pneumonia in the LPG
+ arm was 0.98 (95% CI 0.58 to 1.70; p=0.95) and for
+ the improved biomass arm was 1.21 (95% CI 0.78 to
+ 1.90; p=0.52), compared with the control arm). Air
+ pollution exposures in the LPG arm remained above
+ WHO health-­based targets (LPG median particulate
+ matter less than 2.5 microns in diameter (PM ) 45 µg/
+ 
+<section> 2.5
+ m³; IQR 32–65 vs control median PM 67 µg/m³, IQR
+ 
+<section> 2.5
+ 
+<section> 46–97).
+ 
+<section> Conclusions Neither prenatally-­introduced LPG nor
+ improved biomass cookstoves improved birth weight or
+ reduced severe pneumonia risk in the first 12 months of
+ life. We hypothesise that this is due to lower-­than-­expected
+ exposure reductions in the intervention arms.
+ 
+<section> Trial registration number NCT01335490.
+ 
+<section> trial of cookstove
+ 
+<section> infant health
+ 
+<section> 2 Carlos F Gould,
+ Nuhu Mujtaba, 2 Steven Chillrud,
+ Gyaase, 2 Felix Boakye Oppong,
+ 7 Joseph A Ana-­aro, 2 Xinhua Liu,
+ Etego, 2 Robin Whyatt,
+ 
+<section> Poku Asante
+ 
+<section> Key questions
+ 
+<section> What is already known?
+ 
+<section> ► Air pollution exposure arising from cooking with bio-
+ mass fuels is a major driver of disease and mortality
+ in low-­income and middle-­income countries (LMICs),
+ and better evidence is needed to guide and to justify
+ investments in clean household energy transitions.
+ 
+<section> ► Previous randomised controlled cookstove trials
+ in Guatemala, Malawi, Peru, Nepal, Nigeria and
+ Rwanda, have yielded null results or shown relatively
+ small health benefits.
+ 
+<section> ► The notable exception to these small effects is the
+ RESPIRE trial in Guatemala, which found that a chimney
+ stove intervention resulted in a rate ratio of 0.67 (95% CI
+ 0.45 to 0.98) for severe physician diagnosed pneumonia.
+ 
+<section> What are the new findings?
+ 
+<section> ► In a cluster randomised controlled trial, we tested the
+ ability of clean stoves and fuels to reduce household
+ air pollution exposures and to improve child health.
+ 
+<section> ► Our study enrolled pregnant women into three arms: a
+ liquefied petroleum gas (LPG) arm (which provided both
+ stoves and monthly free fuel deliveries), an improved
+ biomass stove arm and a control arm.
+ 
+<section> ► In both intention-­to-­treat and in adjusted analyses,
+ we found no evidence of benefit from either of our
+ interventions, though the LPG arm did experience a
+ reduction in personal air pollution exposures.
+ 
+<section> What do the new findings imply?
+ 
+<section> ► We contribute to a growing body of evidence from
+ randomised controlled trials that suggests that
+ household-­level interventions are unlikely to fully
+ address health risks from polluting cookstoves.
+ 
+<section> ► Household energy policy in LMICs should focus on
+ addressing all sources of air pollution at the commu-
+ nity level if it is to generate the air pollution exposure
+ reductions necessary to improve health.
+ 
+<section> ► This will require both clean and affordable household
+ energy for all, and also strategies to address emissions
+ from traffic, trash burning and other sources. 
+<section> INTRODUCTION
+ In 2019, air pollution caused an estimated 6.7 million
+ premature deaths. 1 Household air pollution (HAP)
+ from incomplete combustion of solid fuels (wood,
+ dung, crop residue and charcoal) in inefficient home
+ cookstoves in low-­income and middle-­income countries
+ (LMICs) accounts for about one-­third of this mortality
+ burden, and in some areas is also an important source
+ of ambient air pollution. Systematic reviews have found
+ associations between HAP exposure and morbidity and
+ mortality across the lifecourse, including reductions in
+ birth weight 2 and increased risk for early childhood acute
+ lower respiratory illnesses (ALRI), the leading killer of
+ children under 5 years of age. 3 In Ghana, approximately
+ 11 000 deaths and 467 000 disability adjusted life years
+ annually are attributed to HAP exposure. Despite this
+ burden, evidence regarding the efficacy of a cookstove
+ intervention to reduce HAP exposure and improve health
+ outcomes is sparse. Previous randomised controlled
+ cookstove trials in Guatemala, 4 Malawi, 5 Peru, 6 Nepal
+ and Rwanda, 8 have yielded null results or shown small
+ health benefits (with the exception of severe pneumonia
+ in the RESPIRE trial in Guatemala, which showed mean-
+ ingful reductions in severe pneumonia). These trials
+ assessed improved biomass-­burning cookstoves and, with
+ the exception of the Nepal trial, did not study the use of
+ clean fuels.
+ We conducted a cluster-­ randomised controlled trial
+ in which households with a pregnant woman as primary
+ cook were randomised to receive a liquefied petro-
+ leum gas (LPG) cookstove, the cleanest household fuel
+ available at scale in LMICs, 8 9 a low-­cost, high-­efficiency
+ biomass cookstove that allows burning of locally-­available
+ fuels or no cookstove intervention. We refer to this study
+ as the Ghana Randomized Air Pollution and Health
+ Study (GRAPHS). We hypothesised that these cookstove
+ interventions would increase birth weight and decrease
+ risk of physician-­assessed severe pneumonia in the first
+ 12 months of life. These outcomes were selected both
+ because they are associated with a significant global
+ burden of disease, 1 can influence the course of health
+ outcomes over the lifespan and because we believed that
+ cookstove interventions that target pregnant women
+ could, if effective, be deployed through established ante-
+ natal care systems. The study was jointly developed by a
+ research team from the USA and from Ghana. Ghana
+ was an ideal place for this research because solid fuel
+ use was—and remains—ubiquitous in rural areas, and
+ because Kintampo Health Research Centre (KHRC)
+ offered an outstanding platform for scientific collabora-
+ tion and study execution.
+ 
+<section> METHODS
+ 
+<section> Study design
+ 
+<section> Thirty-­ five communities were randomised into three
+ study arms (LPG, improved biomass stove and control).
+ These communities comprised all population centres in
+ the Kintampo North and South districts of Ghana. Pilot
+ studies established the feasibility of study procedures and
+ demonstrated that intervention cookstoves were capable
+ of reducing exposure in controlled settings. Randomisa-
+ tion at the level of the community was carried out using
+ a coarsened exact matching procedure and was imple-
+ mented by an independent statistician. 10 11 The study
+ implementation team learnt of community study arm
+ allocation after all study personnel were recruited and
+ assigned to their respective clusters. Given the cluster-­
+ randomised nature of the design and the highly visible
+ nature of the intervention, potentially eligible women
+ knew their intervention status at the time of recruitment.
+ The trial was implemented by a team from the KHRC
+ and Columbia University. The trial was undertaken in
+ accordance with the Declaration of Helsinki. The protocol
+ was registered with ​ClinicalTrials.​gov, and has been previ-
+ ously published. 12 The trial was funded by the National
+ Institutes of Health, the Global Alliance for Clean Cook-
+ stoves (now known as the Clean Cooking Alliance) and
+ the Thrasher Research Fund. The funders played no role
+ in study design, collection, analysis and interpretation
+ of data, nor manuscript preparation. All of the authors
+ vouch for adherence to trial protocol, completeness and
+ veracity of data and analyses presented. All of the preg-
+ nant women provided written informed consent for their
+ and their child’s study participation. Anonymised partici-
+ pant data are available on request. No significant changes
+ to methods were made after study commencement.
+ The selection of the intervention cookstoves was devel-
+ oped through extensive piloting and engagement with
+ members of the communities where GRAPHS took place.
+ Community members also provided feedback on expo-
+ sure assessment procedures. Awareness about the health
+ risks of HAP is not widespread in our study communities,
+ so we did not involve study participants in the choice of
+ outcome measures. Results of the study have been shared
+ in community meetings, and the investigator team is
+ engaged in ongoing research addressing household
+ energy policy in Ghana.
+ 
+<section> Participants
+ 
+<section> The great majority of households in the study region
+ farm for a living and cook with solid fuels. Wood was by
+ far the dominant fuel at baseline, with 1334 out of 1414
+ participants reporting wood as their primary fuel. The
+ balance reported charcoal as the primary fuel (n=56) or
+ had missing data (n=9). About half of the study partic-
+ ipants (669 out of 1414) reported using charcoal as a
+ secondary fuel, and 26 households reported crop residue
+ as secondary. The balance of households reported no
+ secondary fuel use. Fuel use patterns did not differ
+ significantly across study arms. We did not observe any
+ LPG, kerosene or electric cooking at baseline. Low
+ birth weight and respiratory infections are public health
+ concerns in the region. 13 Solid fuel use has remained
+ stable over time in rural areas in Ghana, and we observed
+ no changes in cooking practices in our control group or 
+<section> in non-­intervention households in intervention commu-
+ nities. Fieldworkers carried out pregnancy surveillance
+ in each study community and referred pregnant women
+ to trained midwives for confirmation of pregnancy and
+ establishment of gestational age by transabdominal
+ ultrasound (SonoSite S180). Study midwives underwent
+ intensive pre-­ trial ultrasound training and ongoing
+ image review and quality control by a US-­based obstetri-
+ cian during the study as previously described. 14 Pregnant
+ individuals were eligible to be enrolled if they were the
+ primary cook in their household; were pregnant with a
+ live, intrauterine fetus; were ≤ ‍ ‍ 4 weeks gestation (to allow
+ for delivery of intervention by 28 weeks at the latest);
+ and were non-­smokers. Women with a multiple gesta-
+ tion identified at the time of the screening ultrasound
+ were excluded. Detailed eligibility criteria and screening
+ procedures are available in the study protocol. 12 Essen-
+ tially all households in our study area relied primarily on
+ solid fuels for cooking, so we did not screen for cooking
+ fuel at enrolment.
+ 
+<section> Cookstove interventions
+ Communities were assigned to one of two cookstove
+ interventions or to the control arm (online supplemental
+ figure 1). All enrolled participants received a mosquito
+ bed net and health insurance. In the LPG interven-
+ tion arm, participants received a two-­burner LPG cook-
+ stove (Ghana Cylinder Manufacturing Company, Accra,
+ Ghana), two 14.5 kg LPG cylinders, and monthly LPG
+ deliveries for the duration of study enrolment at no cost
+ to study participants. Additional LPG fuel was available as
+ needed. In the improved biomass stove arm, participants
+ received two single-­ burner BioLite HomeStove forced
+ draft wood fuel cookstoves (BioLite, Brooklyn, New York,
+ USA). The improved biomass stove reduces emissions via
+ a thermoelectric-­powered fan, which blows air into the
+ combustion chamber to improve combustion efficiency,
+ and stove geometry, which increases heat transfer effi-
+ ciency. The BioLite has a side opening for fuel, and thus
+ can accommodate wood fuels similar to those used in the
+ traditional three-­stone fires with minimal differences in
+ processing. BioLite stoves are not suitable for burning
+ charcoal or crop residue. Control participants continued
+ to cook with the traditional biomass stoves and fuels.
+ Fieldworkers encouraged intervention cookstove use,
+ checked stove condition and conducted maintenance
+ and repairs as necessary during weekly visits with each
+ participant. Similar visits to the control participants were
+ framed as bed net visits. Participants remained on study
+ from enrolment through the end of the child’s first year
+ of life or until the end of surveillance in March 2016. On
+ study completion, participants in the control and BioLite
+ arms received a two-­burner LPG cookstove and two 14.5
+ kg LPG cylinders.
+ 
+<section> Efficacy endpoints
+ The co-­primary endpoints of the trial were birth weight
+ among liveborn infants born at 28 weeks or later
+ gestational age; and physician-­assessed severe pneumonia
+ in the first 12 months of life as defined in the WHO Inte-
+ grated Management of Childhood Illnesses handbook
+ (IMCI). 16 Secondary trial birth endpoints included birth
+ length and head circumference, preterm birth (defined
+ as ≥28 and <37 completed weeks gestation at delivery),
+ low birth weight (defined as birth weight <2500 g) and
+ small for gestational age (defined as <10th percentile
+ for gestational age) 17 (see online supplemental mate-
+ rial for detailed definitions). Secondary trial pneumonia
+ endpoints included physician-­ diagnosed pneumonia
+ and a composite outcome of fieldworker-­diagnosed and
+ physician-­diagnosed pneumonia and severe pneumonia
+ (again using IMCI definitions).
+ Community-­ based fieldworkers measured birth
+ anthropometrics within 24 hours of birth at the place of
+ delivery (home or facility). Birth weight was measured to
+ the nearest 0.01 kg (Tanita digital scale model BD-590,
+ Tanita, Illinois, USA) after standardising the scale to a
+ 1 kg weight. Birth weight was considered missing if the
+ fieldworkers were unable to measure birth weight within
+ 72 hours of birth. Birth length was measured with use of
+ the Ayrton Infantometer Model M-200 (Ayrton, Minne-
+ sota, USA) and recorded to the nearest 0.1 cm and head
+ circumference measured to the nearest 0.1 cm using a
+ paper tape (a ‘lasso’) from the Child Growth Foundation
+ in London.
+ Pneumonia surveillance involved active (weekly field-
+ worker surveillance) and passive (self-­referral) methods.
+ Community-­ based fieldworkers trained in the IMCI
+ guidelines made weekly home visits to identify poten-
+ tial pneumonia cases. The IMCI defines pneumonia as
+ cough or difficulty breathing plus elevated respiratory
+ rate (60 breaths/min in children aged 0–2 months (56
+ days) or 50 breaths/min in children aged 2–12 months).
+ Severe pneumonia was defined as pneumonia in a child
+ less than 2 months of age or pneumonia plus the pres-
+ ence of oxygen saturation of less than 90% as measured
+ by pulse oximetry, chest wall indrawing, stridor or any
+ general danger sign (including convulsions, vomiting or
+ inability to drink or breast feed, lethargy or unconscious-
+ ness). Any child with fieldworker-­diagnosed pneumonia,
+ or who was otherwise unwell, was brought to a central
+ medical clinic for physician evaluation. Community-­
+ based fieldworkers also facilitated self-­referrals any time
+ a parent felt that their child was ill. The study provided
+ transportation and paid for incidental expenses related
+ to all clinical visits. At the central clinic, study physicians
+ trained in IMCI guidelines diagnosed pneumonia and
+ severe pneumonia. The primary pneumonia outcome
+ was physician-­diagnosed severe pneumonia, without the
+ use of chest radiograph or ultrasound.
+ Due to the visible nature of the intervention, field-
+ workers were not blinded to study intervention arm.
+ Physicians examined study children at a central clinic
+ and were unaware of study intervention assignment.
+ Study physicians immediately began treatment for pneu-
+ monia or other diagnosed illness, including hospital 
+<section> admission where appropriate. As with prior studies,
+ children were not considered to have a new pneumonia
+ episode if a repeat diagnosis occurred within 21 days of a
+ prior pneumonia episode. If the initial assessment diag-
+ nosed pneumonia and a repeat assessment within 21 days
+ diagnosed severe pneumonia, the pneumonia episode
+ was reclassified as severe. The secondary composite
+ pneumonia outcome of fieldworker-­ diagnosed and
+ physician-­ diagnosed pneumonia included physician-­
+ assessed pneumonia cases as described above in addition
+ to fieldworker-­assessed pneumonia cases where the child
+ did not receive study physician assessment within 7 days
+ of fieldworker assessment. In cases where a fieldworker
+ diagnosis and subsequent physician diagnosis occur-
+ ring within 7 days did not agree (eg, the fieldworker-­
+ diagnosed pneumonia and the physician did not), the
+ physician diagnosis was used.
+ 
+<section> Air pollution exposure assessment
+ We measured 72-­ hour personal exposures to carbon
+ monoxide (CO) using Lascar EL-­USB-­CO sensors (Lascar
+ Electronics, Erie, Pennsylvania, USA) and to particulate
+ matter less than 2.5 microns in diameter (PM ) using
+ 
+<section> 2.5
+ microPEM monitors (RTI, Research Triangle Park, North
+ Carolina, USA). Antenatal CO monitoring occurred at
+ enrolment prior to deployment of intervention cook-
+ stove, 3 weeks after intervention cookstove deployment,
+ and at two additional time points evenly spaced over the
+ remaining antenatal period. Postnatal CO monitoring
+ of both the child and the mother took place 1, 3 and
+ 9 months post partum. We measured PM in a subset
+ 
+<section> 2.5
+ of adult study participants during the second CO session
+ (prenatally, 3 weeks post enrolment) and/or postnatally
+ at child age 3 months. Budget limitations dictated the
+ PM sample. Exposure assessment methods and results
+ 
+<section> 2.5
+ have been previously published.
+ 
+<section> Additional trial assessments
+ Maternal age, parity and medical history were assessed
+ at enrolment through questionnaires. Maternal height
+ and weight were measured on enrolment and used to
+ determine maternal body mass index (BMI). Enrolment
+ questionnaires determining household assets were used
+ to construct an asset index as a proxy for wealth (see
+ online supplemental material). Weekly fieldworker visits
+ from enrolment through delivery captured the number
+ of antenatal visits. Infant sex and date of delivery were
+ recorded at birth. Fieldworkers and physicians recorded
+ dates of pneumonia assessments which were used to
+ determine month of pneumonia and age of child at
+ the time of pneumonia diagnosis. At each prenatal and
+ postnatal fieldworker visit, continued use of intervention
+ cookstove was assessed via questionnaire.
+ 
+<section> Statistical analysis
+ Power calculations for GRAPHS have been previously
+ published. 12 The estimated sample size was 1415 pregnant
+ women, with randomisation yielding 365 participants
+ in the LPG arm (across 9 clusters), 525 participants in
+ the improved biomass arm (across 13 clusters) and 525
+ participants in the control arm (across 13 clusters). For
+ the birth weight outcome, sample size calculations were
+ based on estimated effect sizes (Cohen’s D) of 0.32 for
+ the improved biomass arm and 0.40 for the LPG arm, 19
+ 15% attrition and a two-­sided type 1 error rate of 5%.
+ We estimated that 1415 enrolled pregnancies would yield
+ 1225 participants reaching age 1. For pneumonia, we
+ used an effect size derived from work in the Gambia,
+ and, with the same attrition and type 1 error rate as
+ above, computed power of 0.98 for the LPG arm, and
+ 0.89 for the improved biomass arm.
+ Primary analyses were performed according to the
+ intention-­to-­treat principle. First, we used linear regres-
+ sion models to assess differences in birth weight by study
+ arm. Cluster-­ robust SE estimates (at the village level)
+ were employed to account for the cluster-­randomised
+ nature of the intervention deployment. We additionally
+ conducted secondary analyses that included adjustment
+ for asset index; maternal BMI, age and parity; number
+ of antenatal care visits dichotomised around the median
+ (four visits); and infant sex. Additional continuous birth
+ outcomes (head circumference, birth length and gesta-
+ tional age at delivery) were analysed in the same manner
+ as birth weight. Categorical birth outcomes (preterm
+ birth, low birth weight, small-­ for-­ gestational-­ age and
+ neonatal death occurring within 7 days of birth) were
+ analysed using modified Poisson regressions with robust
+ SE using the ‘sandwich’ estimator.
+ Any infant born alive and with at least one field-
+ worker pneumonia surveillance visit was included in
+ the pneumonia analyses. Primary pneumonia anal-
+ yses were performed according to the intention-­ to-­
+ treat principle. We employed generalised estimating
+ equation (GEE) logistic regression models with
+ exchangeable correlation structure and cluster-­robust
+ SE estimates to assess the difference in incidence of
+ physician-­assessed severe pneumonia in the first year
+ of life per child-­days. GEE was used to account for
+ both multiple episodes within a child and the village-­
+ level intervention deployment. 22 Secondary analyses
+ adjusted for an asset index, month of delivery, month
+ of pneumonia event, child sex and child age. These
+ same models were used to examine the effect of cook-
+ stove intervention on physician-­ assessed pneumonia
+ and composite outcomes of fieldworker-­assessed and
+ physician-­assessed pneumonia and severe pneumonia.
+ We additionally conducted survival analyses using Cox
+ proportional-­hazard models for the time to the first
+ incident of physician-­ diagnosed severe pneumonia,
+ pneumonia or composite pneumonia outcomes,
+ considered separately, to examine group differences
+ in the risk, with and without adjustment of child sex,
+ month of delivery and an asset index. HRs for group
+ comparisons were derived from estimated model
+ parameters, and their CIs were based on robust sand-
+ wich estimate of variance of parameter estimates to 
+<insert> Figure 1 Trial profile. *Deaths of children at age >7 days who did not have any recorded fieldworker follow-­up. LPG, liquefied
+ petroleum gas. 
+<iend>
+
+ account for possible within-­ cluster (village) correla-
+ tion among the children. Analyses were carried out in
+ R V.3.6.0 and SAS V.9.4.
+ The funder of the study had no role in study design,
+ data collection, data analysis, data interpretation or
+ writing of the report. All authors had full access to all
+ the data in the study and had final responsibility for the
+ decision to submit for publication.
+ 
+<section> RESULTS
+ 
+<section> Between 14 April 2014 and 20 August 2015, we screened
+ 1714 women and excluded 300 who were either not
+ pregnant (N=53), carrying twin gestations (N=22) or
+ who had pregnancies at gestational age of over 24 weeks
+ (N=225). Of the 1414 households with an eligible preg-
+ nant woman that underwent randomisation, 361 were
+ assigned the LPG intervention, 527 were assigned the 
+<insert> Control (N=526) Improved biomass (N=527) LPG (N=361)
+ Maternal characteristics
+  Age—years 27.3±7.4 28±7.2 26.9±6.7
+  Gestational age at enrolment—
+ weeks†
+ 16.2±4.3 16.1±4.4 14.6±4.2
+  Range 6–26 6–24 6–23
+  Body mass index‡ 23.2±3.1 23.5±3.2 23±3.3
+  Parity 2.6±2.1 2.8±2.3 2.5±2.1
+  Anaemia 13/526 (2.5) 12/527 (2.3) 6/361 (1.7)
+  Hypertension 11/526 (2.1) 7/527 (1.3) 5/361 (1.4)
+  Diabetes 0/526 (0) 1/527 (0.2) 1/361 (0.3)
+  HIV 1/526 (0.2)
+  Health history—no. / total no.
+ (%)§
+ 0/527 (0) 1/361 (0.3)
+  Completed primary education— 334/525 (63.6)
+ no. / total no. (%)
+ 325/527 (61.7) 191/360 (53.1)
+  Is married—no. / total no. (%) 277/525 (52.8) 309/527 (58.6) 191/360 (53.1)
+  Mean±SD 1.49±1.20 1.46±1.20 1.56±1.15
+  Median (IQR) 1.17 (0.62–2.09) 1.17 (0.63–1.94) 1.29 (0.70–2.13)
+ Household characteristics
+  Asset index 0.2±2.2 −0.0±1.8 −0.2±1.8
+  Pre-­intervention personal CO
+ exposure—ppm¶
+ *Plus–minus values are means±SD. Across arms, differences are noted in maternal age, gestational age at enrolment, parity, maternal
+ education, marital status and asset index.
+ †Gestational age at enrolment established by ultrasound.
+ ‡The body mass index is weight in kilograms divided by the square of the height in metres.
+ §Health history is based on self-­reported responses to questions framed as ‘Has a doctor ever diagnosed you with (health condition)?’
+ ¶Personal CO exposure derived from valid deployments truncated at 48-­hours for analysis reported in parts per million (ppm). Due to QA/
+ QC, 146, 165 and 101 participants in the control, improved biomass and LPG arms did not have pre-­intervention personal CO exposure
+ assessments.
+ CO, carbon monoxide; LPG, liquefied petroleum gas.
+ Table 1 Characteristics of the participants at baseline*
+ Characteristic 
+<iend>
+
+ improved biomass cookstove intervention and 526 were
+ assigned control (figure 1). Fewer clusters were assigned
+ intentionally to the LPG arm because we assumed that
+ it would result in a greater reduction in pollution expo-
+ sure, and would therefore require a smaller sample to
+ detect an effect. The baseline characteristics are shown
+ in table 1. The study groups demonstrated balance in key
+ characteristics such as maternal BMI, health history and
+ baseline exposures to CO (a key component of HAP).
+ Across arms, we note differences in maternal age, gesta-
+ tional age at enrolment, parity, maternal education and
+ marital status. Our overarching conclusion from table
+ is that our randomisation achieved reasonable balance,
+ but that adjusted analyses are warranted to account for
+ small differences in baseline characteristics.
+ Across the study period, participants reported using
+ their intervention stoves to cook their main meal the
+ previous day during approximately 87% of weekly visits
+ to households in the LPG study arm (~25 000 visits) and
+ 69% of visits to households in the improved biomass
+ study arm (~34 000 visits) (online supplemental figure
+ 2). We did not observe control households switching to
+ cleaner cookstoves or fuels during the study period.
+ The study cohort resulted in 340 (94.2% of enrolled
+ women) live births 28 weeks or later gestational age in
+ the LPG arm, 491 (93.2%) in the improved biomass cook-
+ stove arm and 475 (90.3%) in the control arm, including
+ four sets of twins identified at delivery (one in LPG, one
+ in improved biomass and two in control). As these twin
+ pregnancies were identified only after delivery, the moth-
+ er–twin triads were followed through the first year of life
+ and data included in all analyses. Average gestational age
+ at delivery was: 39‍ ± ‍1.7 weeks in the LPG arm, 39.3‍ ± ‍1.5
+ weeks in the improved biomass arm and 39.2‍ ± ‍1.8 in the
+ control arm. There were 245 (51%), 233 (45%) and 174
+ (51%) female newborns in the LPG, improved biomass
+ and control arms, respectively.
+ Birth weight was measured for 331 (97.4% of live
+ births), 474 (96.5%) and 462 (97.2%) newborns in the
+ LPG, improved biomass and control arms, respectively.
+ The mean birth weights by study arm were: 2867‍ ± ‍470 g
+ for LPG, 2904‍ ± ‍458 g for improved biomass cookstove 
+<section> arm and 2894‍ ± ‍ 54 for controls. There was no differ-
+ ence in birth weight between study arms. The unadjusted
+ (N=1267) and adjusted (N=1258) difference in mean
+ birth weight for LPG newborns was −27 g (95% CI −111
+ to 58, p=0.54) and −15 g (95% CI −96 to 66, p=0.71)
+ as compared with control newborns, respectively. The
+ unadjusted and adjusted difference in birth weight for
+ the improved biomass cookstove arm newborns was 10 g
+ (95% CI −63 to 84, p=0.78) and −8 g (95% CI −81 to 64,
+ p=0.82) as compared with control newborns, respectively
+ (table 2).
+ Analysis of secondary birth outcomes did not demon-
+ strate differences in head circumference or birth length
+ between study arms. There were 8 (2%), 11 (2%) and 10
+ (1%) fetal losses (loss at <28 weeks gestational age) and
+ 6 (2%), 13 (2%) and 17 (3%) stillbirths (lost or not born
+ alive ≥28 weeks gestational age) in the LPG, improved
+ biomass and control arms, respectively. Unadjusted
+ (N=1303) analyses suggested there were fewer preterm
+ births in the improved biomass cookstove arm compared
+ with control (12 (2%) vs 24 (5%) preterm births, or a risk
+ ratio of 0.48 (95% CI 0.25 to 0.93, p=0.03)); the adjusted
+ (N=1294) difference was 0.50 (95% CI 0.26 to 0.95,
+ p=0.03). No difference in preterm birth was detected
+ between LPG and control arms. There was no difference
+ in low birth weight, small for gestational age or neonatal
+ deaths between study arms.
+ Of the 1306 live births at 28 weeks gestation or after,
+ 40 (3.4%) children died in the first year of life, or 33.6
+ deaths per 1000 live births. Of these, 26 occurred in the
+ first 28 days of life (22.9 neonatal vs 10.7 post-­neonatal
+ deaths per 1000 live births).
+ For all 1306 live-­ born children, weekly fieldworker
+ visits over the first year of life provided an opportunity
+ for 67 912 child-­weeks of fieldworker follow-­up. Pneu-
+ monia follow-­up lasted through 22 March 2016, when the
+ youngest GRAPHS child aged out of the study. In total,
+ 678 (93.3%, accounting for 1811 child-­weeks lost due to
+ under-1 mortalities) child-­weeks of fieldworker follow-­up
+ (16 858, 22 786 and 22 034 in LPG, improved biomass
+ and control arms, respectively) resulted in identification
+ of 408 physician-­diagnosed pneumonia cases (115,
+ and 138 cases in LPG, improved biomass and control
+ arms, respectively) and 127 physician-­diagnosed severe
+ pneumonia cases (32, 52 and 43 in the LPG, improved
+ biomass and control arms, respectively). There was no
+ significant difference in physician-­assessed severe pneu-
+ monia between study arms. The unadjusted and adjusted
+ rate ratios for severe pneumonia in children in the LPG
+ arm was 0.98 (95% CI 0.58 to 1.70; p=0.95) and 0.98
+ (95% CI 0.58 to 1.65; p=0.93) as compared with children
+ in the control arm, respectively. The unadjusted and
+ adjusted rate ratios for severe pneumonia in children in
+ the improved biomass arm was 1.21 (95% CI 0.78 to 1.90;
+ p=0.39) and 1.19 (95% CI 0.74 to 1.91; p=0.48) in the
+ LPG arm, as compared with children in the control arm,
+ respectively (table 3).
+ 
+<section> Analysis of secondary pneumonia outcomes did not
+ demonstrate differences in physician-­ assessed pneu-
+ monia or composite fieldworker-­assessed and physician-­
+ assessed pneumonia or severe pneumonia between study
+ arms. Unadjusted and adjusted survival analyses for
+ incidence of child pneumonia using Cox proportional-­
+ hazard regressions did not demonstrate differences in
+ physician-­assessed or physician-­assessed and fieldworker-­
+ assessed pneumonia and severe pneumonia between
+ groups (figure 2, (online supplemental table 2).
+ Personal CO exposure assessments were performed
+ for 515 women in the control arm, 520 in the improved
+ biomass stove arm and 354 in the LPG arm. Prior to
+ intervention, median personal CO exposures were 1.17
+ parts per million (ppm; IQR, 0.62–2.09), 1.17 ppm (IQR,
+ 0.64–1.94) and 1.30 ppm (IQR, 0.70–2.13), respectively,
+ for women in the control, improved biomass stove and
+ LPG arms (table 1). Following intervention, personal
+ CO exposure was lower in the LPG arm (median CO,
+ 0.52 ppm; IQR, 0.20–1.16) and in the improved biomass
+ stove arm (median CO, 0.74 ppm; IQR, 0.33–1.47) as
+ compared with in the control arm (median CO, 0.82
+ ppm; IQR, 0.37–1.65).
+ Valid post-­intervention personal prenatal or postnatal
+ PM exposure assessments were performed in 202,
+ 2.5
+ and 356 women in LPG, improved biomass and control
+ arms, respectively. Personal PM exposures in the LPG
+ 
+<section> 2.5
+ arm (median PM , 45 µg/m³; IQR, 32–65) were lower
+ 
+<section> 2.5
+ than those in the control arm (median PM , 67 µg/
+ 
+<section> 2.5
+ m³; IQR, 46–97). There was no difference in personal
+ PM exposures between improved biomass cookstove
+ 
+<section> 2.5
+ (median PM , 67 µg/m³; IQR, 44–94) and control arms
+ 
+<section> 2.5
+ 
+<section> (figure 3).
+ No harms or adverse events were observed as a result of
+ trial procedures.
+ 
+<section> DISCUSSION
+ 
+<section> We carried out a cluster-­ randomised controlled trial
+ assessing the benefits of clean cooking interventions
+ initiated during pregnancy and continued for the first
+ year of the infant’s life. In intention-­ to-­ treat analyses,
+ we found no evidence that either improved biomass or
+ LPG cookstoves led to improvements in birth weight or
+ to reductions in severe pneumonia risk. These null find-
+ ings extended to secondary obstetrical and pneumonia
+ outcomes, including anthropometrics at birth, preterm
+ birth, low birth weight, small for gestational age and alter-
+ native pneumonia case definitions (with the exception of
+ a reduction in the risk of preterm birth in the improved
+ biomass arm, which we attribute to chance).
+ Worldwide, ALRI is a leading cause of death in chil-
+ dren under 5 years of age and HAP pollution exposure
+ is the second leading risk factor. Despite the epidemio-
+ logical evidence supporting an exposure-­response associ-
+ ation, evidence for the efficacy of a cooking intervention
+ to reduce ALRI risk is mixed. Two trials—RESPIRE in
+ Guatemala 4 and a large study in Rwanda 8 —found some 
+<section> value 
+<section> group 
+<section> with
+ 
+<section> 0.71 
+<section> 0.52 
+<section> 0.40 
+<section> 0.83 
+<section> 0.90 
+<section> 0.61 
+<section> 0.65
+ 
+<section> P study regressions
+ 
+<section> 0.6) 
+<section> 0.6) 
+<section> 1.71) 1.45) 1.42) 3.96) for
+ 
+<section> 66) 
+<section> percentile the
+ 
+<section> CI) 
+<section> to to to to to to to of
+ 
+<section> (95% (–96 (–0.3 (–1.6 (0.51 (0.72 (0.81 (0.43 mean Poisson
+ 
+<section> LPG 
+<section> Diff −15 0.1 −0.5 0.94 1.02 1.07 1.30 as<10th the
+ (‘robust’)
+ in
+ 
+<section> value defined difference
+ 
+<section> 0.82 
+<section> 0.26 
+<section> 0.9 
+<section> 0.03 
+<section> 0.74 
+<section> 0.37 
+<section> 0.45 
+<section> modified
+ 
+<section> difference§ 
+<section> P
+ 
+<section> biomass 
+<section> 64) 
+<section> 0.8) 
+<section> 1) 
+<section> 0.95) 1.4) 
+<section> 1.49) 2.24) gestational represent 
+<section> from sex.
+ 
+<section> Adjusted Improved CI) 
+<section> (95% to (–81 to (–0.2 to (–0.9 to (0.26 to (0.79 to (0.86 to (0.16 for shown come child
+ 
+<section> Diff −8 0.3 0.1 0.50 1.05 1.13 0.61 Small 
+<section> g. cluster. Estimates death) 
+<section> group 
+<section> and 
+<section> visits
+ weight<2500 neonatal
+ 
+<section> value 
+<section> each control care
+ 
+<section> P 
+<section> CI) 
+<section> (95% 
+<section> 0.54 
+<section> 58) 
+<section> to (–111 
+<section> 0.53 
+<section> 0.6) 
+<section> to (–0.3 
+<section> 0.37 
+<section> 0.6) 
+<section> to (–1.6 
+<section> 0.81 
+<section> 1.64) 
+<section> to (0.53 
+<section> 0.89 
+<section> 1.45) 
+<section> to (0.72 
+<section> 0.56 
+<section> 1.43) 
+<section> to (0.82 
+<section> 0.55 
+<section> 4.15) 
+<section> to (0.47 
+<section> birth 
+<section> as defined 
+<section> in births 
+<section> live 
+<section> of set 
+<section> estimates. 
+<section> SE cluster-­robust 
+<section> and 
+<section> age 
+<section> gestational 
+<section> the with 
+<section> compared 
+<section> antenatal 
+<section> of number
+ 
+<section> LPG 
+<section> Diff −27 0.1 −0.5 0.93 1.02 1.09 1.40 weight the among for as parity,
+ 
+<section> value 
+<section> with small CIs age,
+ 
+<section> difference‡ 
+<section> 0.78 
+<section> 0.14 
+<section> 0.84 
+<section> 0.03 
+<section> 0.86 
+<section> 0.64 
+<section> 0.52 
+<section> birth values regressions weight, 95% maternal
+ 
+<section> biomass 
+<section> P Low and
+ 
+<section> 84) 
+<section> 0.9) 
+<section> 1.1) 
+<section> 0.93) 1.3) 
+<section> 1.40) 2.42) gestation. missing birth ratios index,
+ 
+<section> Unadjusted CI) 
+<section> to to to to to to to linear low
+ 
+<section> outcomes* 
+<section> Improved (95% (–63 (–0.1 (–0.9 (0.25 (0.73 (0.81 (0.17 weeks 
+<section> to refer from birth, risk 
+<section> represent mass
+ 
+<section> Diff 10 0.4 0.1 0.48 0.97 1.09 0.64 
+<section> completed values come (pre-­term body
+ 
+<section> (N=340) 
+<section> (5) 
+<section> (18) 
+<section> (23) 
+<section> (2) 
+<section> Missing length) shown maternal
+ 
+<section> life 
+<section> early 
+<section> 2867±470 
+<section> 1330–4030 
+<section> 33.5±2.3 
+<section> 25–44.5 
+<section> 46.2±3.7 
+<section> 32.1–57 
+<section> 16/340 58/331 77/328 6/340 <37 after. birth 
+<section> variables Estimates index,
+ 
+<section> LPG
+ 
+<section> and (N=491) 
+<section> and 
+<section> birth≥28 
+<section> birth. 
+<section> of or weeks and 
+<section> circumference 
+<section> categorical 
+<section> level). asset
+ 
+<section> birth (2) 
+<section> (17) 
+<section> (23) 
+<section> (1) 
+<section> days for
+ 
+<section> and 
+<section> arm outcomes† 
+<section> Improved 
+<section> biomass 2904±458 
+<section> 1650–4500 
+<section> 33.7±2.7 
+<section> 21.5–45 
+<section> 46.8±3.1 
+<section> 35–64 
+<section> 12/491 79/474 109/473 4/491 live 
+<section> as defined 
+<section> 7 within 
+<section> death 
+<section> 28 at age 
+<section> gestational head 
+<section> for Differences 
+<section> village 
+<section> the (at 
+<section> adjust 
+<section> additionally
+ 
+<section> study (5) 
+<section> (17) 
+<section> (22) 
+<section> (1) 
+<section> birth infant weight, group. estimator
+ 
+<section> between 
+<section> Observed Control 
+<section> (N=475) 
+<section> 2894±454 
+<section> 1080–4340 
+<section> 33.4±2.3 
+<section> 22–43.8 
+<section> 46.7±4 
+<section> 32.1–58 
+<section> 24/475 79/462 99/458 6/475 Preterm as defined 
+<section> with 
+<section> births (birth control ‘sandwich’ 
+<section> and 
+<section> models
+ 
+<section> variables
+ 
+<section> Associations 
+<section> life 
+<section> circumference—cm 
+<section> length—cm 
+<section> total 
+<section> / —no. 
+<section> total 
+<section> / weight—no. 
+<section> age— 
+<section> gestational (%) 
+<section> total 
+<section> / death—no. 
+<section> means±SD. 
+<section> are 
+<section> values 
+<section> death 
+<section> Neonatal 
+<section> live 
+<section> among 
+<section> observed 
+<section> continuous 
+<section> the 
+<section> with 
+<section> compared 
+<section> the using 
+<section> estimates 
+<section> unadjusted 
+<section> replicate 
+<section> gas. 
+<section> petroleum
+ 
+<section> early weight—g 
+<section> birth no. age. for as liquefied
+ 
+<section> 2 
+<section> Table and 
+<section> Birth 
+<section> outcomes 
+<section> Birth Range Missing Head Range Missing Birth Range Missing Preterm (%) 
+<section> no. 
+<section> birth 
+<section> Low (%) 
+<section> no. 
+<section> for Small 
+<section> total 
+<section> / no. 
+<section> Neonatal (%) 
+<section> no. 
+<section> *Plus–minus gestational †Outcomes ‡Differences CI 95% 
+<section> and 
+<section> SE robust 
+<section> §Differences 
+<section> LPG, 
+<section> the
+ 
+<section> Value 
+<section> multiple 
+<section> and days.
+ 
+<section> 0.29 
+<section> 0.93 
+<section> 0.29 
+<section> 0.86
+ 
+<section> P participant 7 within
+ for
+ accounting
+ (0.88–1.54) 
+<section> (0.58–1.65) 
+<section> (0.91–1.40) 
+<section> (0.71–1.51) 
+<section> assessment
+ per
+ 
+<section> CI)
+ 
+<section> observations
+ 
+<section> (95%
+ 
+<section> Regressions‡ 
+<section> estimate
+ 
+<section> LPG 
+<section> 1.16 0.98 1.12 1.03 physician
+ RR
+ 
+<section> Value 
+<section> SE multiple
+ 0.54 
+<section> 0.48 
+<section> 0.81 
+<section> 0.83 
+<section> robust study
+ 
+<section> Logistic P
+ 
+<section> biomass 
+<section> and for accounting a receive
+ 
+<section> (0.84–1.39) 
+<section> (0.74–1.91) 
+<section> (0.84–1.25) 
+<section> (0.72–1.50) 
+<section> structure
+ 
+<section> GEE not
+ 
+<section> CI)
+ 
+<section> Adjusted Improved (95% correlation estimate did
+ child
+ 1.08 1.19 1.02 1.04
+ RR the
+ SE
+ Value 
+<section> exchangeable robust where
+ 0.56 
+<section> 0.95 
+<section> 0.77 
+<section> 0.77
+ 
+<section> P and cases
+ criteria
+ 
+<section> (0.82–1.40) 
+<section> (0.58–1.70) 
+<section> (0.83–1.28) 
+<section> (0.65–1.38) 
+<section> with structure in fieldworker
+ Illness
+ 
+<section> CI) 
+<section> models
+ 
+<section> Regressions† 
+<section> (95% Childhood correlation
+ 
+<section> LPG 
+<section> RR 1.08 0.98 1.03 0.95 regression a by
+ exchangeable diagnosed
+ Value 
+<section> of index.
+ 
+<section> Logistic 0.52 
+<section> 0.39 
+<section> 0.96 
+<section> 0.85 
+<section> Management logistic
+ 
+<section> P asset those
+ 
+<section> GEE 
+<section> Unadjusted 
+<section> biomass 
+<section> CI) (0.85–1.40) (0.78–1.90) (0.82–1.21) (0.73–1.47) Integrated 
+<section> (GEE) 
+<section> equation with models 
+<section> and age, plus cases
+ 
+<section> Improved (95% child
+ 
+<section> 1.08 1.21 1.00 1.03 WHO estimating regression sex, pneumonia
+ RR
+ the child
+ 
+<section> pneumonia* 
+<section> LPG(n=332) 
+<section> by generalised logistic event, physician-­diagnosed
+ defined
+ GEE of
+ 16 as from from month
+ 
+<section> and biomass(n=483) 
+<section> life of derived intervention. 
+<section> derived delivery,
+ 
+<section> arm months as
+ 
+<section> Improved 
+<section> control control of defined
+ study Cases§ 
+<section> 12 village-­level month
+ 
+<section> Outcomes 
+<section> 22 first to to cases
+ between Fieldworker-­Assessed the arms arms for
+ 
+<section> Control(n=464) 
+<section> in adjusting fieldworker-­assessed
+ pneumonia intervention the intervention
+ 
+<section> Observed and
+ Associations Cases 
+<section> participant and
+ 
+<section> 22 Physician-­Assessed severe comparing comparing intervention,
+ 
+<section> and and per and
+ 
+<section> 3 Outcome Person-­Time (child-­weeks)  Pneumonia  Severe Pneumonia Physician-  Pneumonia  Severe Pneumonia *Pneumonia ratios observations ratios village-­level §Physician-
+ 
+<section> Table
+ 
+<section> †Rate ‡Rate
+ 
+<section> evidence of reduced ALRI risk from improved biomass
+ interventions. RESPIRE deployed a chimney stove inter-
+ vention that resulted in a 50% reduction from 2.2 to 1.1
+ ppm CO exposure. Intention-­to-­treat analyses found a 22%
+ (rate ratio (RR) 0.78, 95% CI 0.59 to 1.06, p=0.10) and a
+ 33% (RR 0.67, 95% CI 0.45 to 0.98, p=0.04) reduction in
+ physician-­diagnosed pneumonia and severe pneumonia,
+ respectively. Kirby et al studied a natural draft rocket-­style
+ stove versus no intervention in Rwanda and observed a
+ 25% reduction in reported child ALRI (RR 0.75, 95%
+ CI 0.60 to 0.93, p=0.01) without a measured reduction
+ in cook or child-­level PM exposure. Conversely, the
+ CAPS trial in Malawi 5 and 2.5 a smaller trial in Peru, 6 both
+ evaluating improved biomass stove interventions, found
+ no benefit on child ALRI. Direct comparison with these
+ prior studies is hampered by differences in baseline air
+ pollution exposures, inclusion criteria and intervention
+ cookstoves.
+ Similar to ALRI, data has been mixed from interven-
+ tional studies about whether improved cook stoves can
+ impact birth outcomes. Investigators from RESPIRE
+ reported that birth weight was 89 g heavier among those
+ using a chimney stove in the trial; however, the CI was
+ wide and crossed 0 (95% CI −27 g to 204 g). 23 Further-
+ more, as recruitment into RESPIRE included households
+ with either a pregnant woman or infant <4 months, only
+ 266 of the 534 households recruited included a pregnant
+ woman and the benefits of randomisation in balancing
+ potential drivers of birth weight differences might have
+ been lost. Researchers in rural Nepal were unable to
+ demonstrate a change in birth weight or other pregnancy
+ outcomes in two sequentially conducted randomised
+ trials evaluating first an improved and vented biomass
+ stove and second LPG stoves. 7 In contrast, benefits were
+ reported from a trial conducted in Ibadan, Nigeria, that
+ individually randomised 324 pregnant women to use
+ of an ethanol stove versus continued use of traditional
+ fuels (kerosene and firewood). 24 The 88 g improve-
+ ment in birth weight was not significantly different
+ from the control group (95% CI −18 to 194) in unad-
+ justed intention-­to-­treat analyses. The authors report a
+ significant improvement in birth weight from adjusted
+ models (197 grams, 95% CI 25 to 368) accounting for
+ some baseline differences that were imbalanced despite
+ randomisation. Notably, the ethanol stove intervention
+ did not significantly impact personal exposure to PM as
+ 
+<section> 2.5
+ compared with control. The GRAPHS LPG intervention,
+ by contrast, reduced exposure to CO and PM , yet did not
+ 
+<section> 2.5
+ perform as hypothesised with regards to improvements in
+ birth weight or other pregnancy outcomes. While we did
+ observe a reduction in preterm birth in mothers using
+ the biomass stove, we are unable to explain this isolated
+ benefit and cannot exclude the possibility that the signif-
+ icant result was due to chance, particularly given the low
+ preterm birth rate observed in our population.
+ The null trial result did not appear to be driven by poor
+ uptake of the intervention. Households randomised to
+ the LPG arm received unlimited LPG fuel for the study 
+<insert> Figure 2 Time to first event of: (A) Physician-­diagnosed pneumonia; (B) physician-­diagnosed severe pneumonia; (C)
+ combined physician-­diagnosed and fieldworker-­diagnosed pneumonia; and (D) combined physician-­diagnosed and
+ fieldworker-­diagnosed pneumonia by control, improved biomass or liquefied petroleum gas (LPG) cookstove study arm. Cox
+ proportional-­hazard models adjusting for asset index, month of delivery, child sex and child age demonstrated no difference in
+ groups regardless of pneumonia outcome considered. 
+<iend>
+
+ duration. For both intervention arms, weekly fieldworker
+ check-­ins facilitated stove repairs and encouraged use.
+ Fieldworkers assessed use of the intervention stoves
+ every week and found that on average 87% and 69% of
+ households in the LPG arm and improved biomass stove
+ arm, respectively, reported using the intervention stove.
+ These results may be subject to recall bias and objective
+ data, such as from stove use monitoring devices, was not
+ obtained. However, these data do suggest that on average
+ the uptake of stove intervention was robust. 
+<insert> Figure 3 The distribution of maternal personal fine particulate matter (PM
+ 2.5
+ ) exposure during the GRAPHS post-­intervention
+ period. Violin plots show the density of air pollution exposures, boxplots show the median and IQR, the mean exposure is
+ shown with black diamonds for each study arm and partially transparent dots show all 48-­hour estimates. The dotted line
+ represents the WHO interim-1 guideline for annual PM
+ 2.5
+ exposure (35 μg/m ) and solid line is the WHO guideline for annual
+ PM
+ 2.5
+ exposure (10 μg/m ). In the control arm, 174 women had one PM
+ 2.5
+ exposure estimate, 145 had two exposure estimates
+ and 37 had three or more exposure estimates. In the improved biomass arm, 178 women had one PM
+ 2.5
+ exposure estimate,
+ 106 had two exposure estimates and 37 had three or more exposure estimates. In the liquefied petroleum gas (LPG) arm,
+ women had one PM
+ 2.5
+ exposure estimate, 59 had two exposure estimates and 18 had three or more exposure estimates. All
+ estimates, including multiple observations per participant, are plotted and contribute equally to summary statistics. Summary
+ statistics ‘mean±SD’ and ‘median (IQR)’ are 48-­hour PM
+ 2.5
+ concentration estimates with units μg/m GRAPHS, Ghana
+ Randomized Air Pollution and Health Study; PM , particulate matter less than 2.5 microns in diameter. 
+<iend>
+
+ 
+<section> 2.5
+ 
+<section> The central question, therefore, raised by the study
+ results is why the intervention failed to improve health.
+ In a laboratory setting, the GRAPHS LPG intervention
+ stove reduces PM and CO emissions to levels meeting
+ WHO emission rate 2.5 targets, 25 yet our intervention did
+ not improve birth weight or reduce pneumonia risk.
+ We hypothesise that our cookstove interventions, as
+ deployed in the field, failed to reduce exposures enough
+ to improve health outcomes. The WHO Interim-1 Target
+ for annual average PM exposure is 35 µg/m³, 26 but
+ 
+<section> 2.5
+ intervention households in our study exceeded this
+ target despite reported consistent use.
+ Several factors may explain this residual exposure
+ in the LPG arm, and potentially also in the improved
+ biomass arm—though for the improved biomass arm we
+ cannot rule out the possibility that the stove itself was
+ an important source of emissions. First, our household-­
+ level intervention left study participants exposed to emis-
+ sions from neighbours’ cooking, as has been suggested
+ in previous field assessments of clean fuel stoves. 27 Our
+ study communities had high housing density (control
+ communities mean (SD) persons within 50 m: 48.4
+ (29.6); BioLite communities mean (SD): 48.6 (31.9);
+ 
+<section> LPG communities mean (SD): 53.9 (35)) and, given
+ the inclusion criteria requiring a pregnant participant,
+ few households per community were enrolled. Second,
+ LPG households may have continued to use their tradi-
+ tional biomass cookstoves. As described above, our
+ weekly survey data suggests that this was rare in the LPG
+ arm (13% of meals), but we lack objective sensor-­based
+ measurements to rule out the possibility of persistent
+ stove stacking. Third, emissions from other community
+ or regional combustion sources, such as trash burning or
+ agricultural burning, may have kept exposures high, but
+ again our exposure assessment approach did not allow us
+ to differentiate by source.
+ We also note that HAP exposure levels—both pre-­
+ intervention and post-­ intervention—are relatively low
+ in our cohort, compared with the other trials discussed
+ above. When we designed the GRAPHS study we viewed
+ this exposure environment as a strength. We hypothe-
+ sised that these levels implied that exposure reductions
+ would occur on the steep part of the exposure response
+ curve for pneumonia, which was estimated by Burnett
+ et al to drop sharply below at low levels of PM 2.5 expo-
+ sure, but to be relatively flat at high levels. 28 We cannot
+ rule out the possibility that the ALRI shape of the expo-
+ sure response curve does not follow this pattern, or that
+ factors specific to central Ghana generate a different
+ shape.
+ Our study did not enrol participants until the second
+ trimester of pregnancy. Interventions to improve newborn
+ and infant health may have greater effect if initiated
+ earlier in pregnancy. If so, this would have significant
+ implications for the design of clean household energy
+ policies in LMIC settings. 
+<section> Observed infant, neonatal and post-­neonatal mortality
+ rates were only about half what has been reported for
+ the broader Ghanaian population, suggesting that the
+ totality of our intervention, with frequent interactions
+ between participants and our study team and improved
+ access to healthcare, may have improved infant health
+ across study arms. If this was the case, it is possible that
+ in the context of improved overall health the added
+ benefit of a cleaner burning stove was not detectable.
+ The 2011 Ghana Multiple Cluster Indicator Survey esti-
+ mated infant mortality at 53 deaths per 1000 live births;
+ neonatal (first month of life) and post-­neonatal (age
+ month—first birthday) mortality rates were estimated
+ at 32 and 21 deaths per 1000 live births. 29 In the Brong
+ Ahafo region where Kintampo is located, these numbers
+ are even higher (66, 44 and 21 infant, neonatal and post-­
+ neonatal, respectively, deaths per 1000 live births). In our
+ cohort, weekly fieldworker follow-­ up allowed tracking
+ of mortality over infancy. We observed lower infant
+ mortality, evident in both the neonatal and post-­neonatal
+ periods (33.6, 22.9 and 10.7 infant, neonatal and post-­
+ neonatal deaths per 1000 live births). The provision of
+ insecticide-­treated bed nets and health insurance to all
+ mother–infant dyads and easy access to healthcare over
+ the study period, including physician assessment and
+ treatment, appears to have had a substantial effect on
+ maternal and infant health. This overall effect may have
+ reduced our ability to detect a meaningful impact of HAP
+ interventions on health.
+ Our study has several strengths. GRAPHS was among
+ the first trials to assess LPG as an alternative to improved
+ biomass cookstoves, and to assess LPG alongside lower-­
+ cost improved biomass interventions. As with RESPIRE,
+ our study relied on active case finding and physician-­
+ assessed diagnosis for ALRI; other studies relied on
+ community-­assessed ALRI. We employed an active pneu-
+ monia surveillance programme wherein study children
+ were assessed every week. This approach likely identi-
+ fied pneumonia cases early in their clinical course and
+ potentially reduced the number of severe pneumonia
+ cases we would have seen had this network not been in
+ place. We acknowledge that active case finding could
+ therefore be construed as a weakness. Active case finding
+ was deemed ethical by our team as it is well-­described
+ that infectious mortality is related to time to treatment.
+ Indeed, the infant mortality rate in our cohort was nearly
+ half of country and regional trends, suggesting that this
+ approach saved lives. Other important strengths of the
+ study include ultrasound-­assessed gestational age, digital
+ measurement of birth weight even for in-­home deliveries,
+ extensive personal exposure monitoring and physician
+ assessment of suspected pneumonia cases.
+ We also acknowledge limitations. Given the fieldworkers
+ visited the households weekly and that our intervention
+ was clustered by community, we were unable to blind
+ fieldworkers to study arm. However, physician assess-
+ ments were performed at a central clinic and physicians
+ were unaware of study assignment. Participants reported
+ stove use weekly, but these data may have inherent bias.
+ Budget limitations prevented us from sensor-­based stove
+ use assessments, which would have addressed this poten-
+ tial bias. Our ALRI diagnosis would have been strength-
+ ened by objective diagnostic tests such as lung ultrasound
+ or chest X-­rays, however these were not readily available
+ at our study site.
+ In conclusion, we found no evidence that a strategy of
+ providing even the cleanest fuels to individual pregnant
+ women in the context of antenatal care improved birth
+ weight or reduced infant severe pneumonia. Air pollu-
+ tion levels in both intervention arms remained high,
+ suggesting that meaningful health improvements from
+ HAP interventions may require deployment of clean
+ energy across entire communities.
+ 
+<section> Author affiliations
+ Department of Environmental Health Sciences, Columbia University, New York,
+ 
+<section> New York, USA
+ Kintampo Health Research Centre, Research and Development Division, Ghana
+ Health Service, Kintampo North Municipality, Ghana
+ Division of Pulmonary, Critical Care and Sleep Medicine, Icahn School of Medicine
+ at Mount Sinai, New York, New York, USA
+ Lamont-­Doherty Earth Observatory, Columbia University, Palisades, New York, USA
+ Fogarty International Center, National Institutes of Health, Bethesda, Maryland, USA
+ Department of Environmental Medicine and Public Health, Icahn School of
+ Medicine at Mount Sinai, New York, New York, USA
+ Institute for Health Metrics and Evaluation, University of Washington, Seattle,
+ 
+<section> Washington, USA
+ Department of Biostatistics, Columbia University, New York, New York, USA
+ Center for Maternal-­Fetal Medicine, Department of Obstetrics and Gynecology,
+ Beth Israel Deaconess Medical Center, Boston, Massachusetts, USA
+ University of Health and Allied Sciences, Ho, Ghana
+ Department of Environmental Health, Boston University, Boston, Massachusetts,
+ 
+<section> USA
+ 
+<section> Twitter Darby W Jack @darbyjack
+ 
+<section> Contributors DJ, PK, RW, BW and KPA initiated the study design. KPA, KA-­N, EB-­K,
+ MM, SK, FBO, OA, JAA-­a, YAB and SAE led trial implementation in Ghana. SC, AKQ,
+ DC and MM led the exposure assessment. SG, XL, KB and CFG analysed the data
+ with input from DJ and AGL. All authors contributed to refinement of the study
+ protocol and approved the final manuscript.
+ 
+<section> Funding This study was funded by NIH R01 ES019547, NIH P30 ES009089, NIH
+ S10 OD016219-01, Clean Cooking Alliance and Thrasher Research Fund. BW
+ was supported by NIH K23 ES021471. AGL was supported by NIH K23 HL135349.
+ CFG was supported by NIH T32 ES023770 and F31 ES031833. The findings and
+ conclusions in this report are those of the authors and do not necessarily represent
+ the official position of the US National Institutes of Health or Department of Health
+ and Human Services.
+ 
+<section> Competing interests None declared.
+ 
+<section> Patient consent for publication Not required.
+ 
+<section> Ethics approval The study was approved by the Institutional Ethics Committee
+ at Kintampo Health Research Centre and Ghana Health Service Ethics Review
+ Committee, and Institutional Review Boards at Columbia University and
+ Massachusetts General Hospital.
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data availability statement Data are available upon request. Anonymised
+ participant data that underlie the results reported in this analysis are available on
+ request. Proposals should be directed to ​kwakupoku.​asante@​kintampo-­​hrc.​org
+ and to d arby.​jack@​columbia.​edu; to gain access, data requestors will need to sign
+ a data access agreement.
+ 
+<section> Supplemental material This content has been supplied by the author(s). It has
+ not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been
+ peer-­reviewed. Any opinions or recommendations discussed are solely those 
+<section> of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and
+ responsibility arising from any reliance placed on the content. Where the content
+ includes any translated material, BMJ does not warrant the accuracy and reliability
+ of the translations (including but not limited to local regulations, clinical guidelines,
+ terminology, drug names and drug dosages), and is not responsible for any error
+ and/or omissions arising from translation and adaptation or otherwise.
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution Non Commercial (CC BY-­NC 4.0) license, which
+ permits others to distribute, remix, adapt, build upon this work non-­commercially,
+ and license their derivative works on different terms, provided the original work is
+ properly cited, appropriate credit is given, any changes made indicated, and the
+ use is non-­commercial. See: http://​creativecommons.​org/​licenses/​by-​nc/​4.​0/.
+ 
+<section> ORCID iDs
+ 
+<section> Darby W Jack http://​orcid.​org/​0000-​0002-​9932-​0201
+ Ashlinn K Quinn http://​orcid.​org/​0000-​0002-​0050-​2647
+ 
+<section> REFERENCES
+ 1 Murray CJL, Aravkin AY, Zheng P, et al. Global burden of 87 risk
+ factors in 204 countries and territories, 1990–2019: a systematic
+ analysis for the global burden of disease study 2019. The Lancet
+ 2020;396:1223–49.
+ 2 Amegah AK, Quansah R, Jaakkola JJK. Household air pollution from
+ solid fuel use and risk of adverse pregnancy outcomes: a systematic
+ review and meta-­analysis of the empirical evidence. PLoS One
+ 2014;9:e113920.
+ 3 Gordon SB, Bruce NG, Grigg J, et al. Respiratory risks from
+ household air pollution in low and middle income countries. Lancet
+ Respir Med 2014;2:823–60.
+ 4 Smith KR, McCracken JP, Weber MW, et al. Effect of reduction
+ in household air pollution on childhood pneumonia in Guatemala
+ (respire): a randomised controlled trial. Lancet 2011;378:1717–26.
+ 5 Mortimer K, Ndamala CB, Naunje AW, et al. A cleaner burning
+ biomass-­fuelled cookstove intervention to prevent pneumonia
+ in children under 5 years old in rural Malawi (the cooking and
+ pneumonia study): a cluster randomised controlled trial. Lancet
+ 2017;389:167–75.
+ 6 Hartinger SM, Lanata CF, Hattendorf J, et al. Improving household
+ air, drinking water and hygiene in rural Peru: a community-­
+ randomized-­controlled trial of an integrated environmental home-­
+ based intervention package to improve child health. Int J Epidemiol
+ 2016;45:dyw242–99.
+ 7 Katz J, Tielsch JM, Khatry SK, et al. Impact of improved biomass
+ and liquid petroleum gas stoves on birth outcomes in rural Nepal:
+ results of 2 randomized trials. Glob Health Sci Pract 2020;8:372–82.
+ 8 Kirby MA, Nagel CL, Rosa G, et al. Effects of a large-­scale
+ distribution of water filters and natural draft rocket-­style cookstoves
+ on diarrhea and acute respiratory infection: a cluster-­randomized
+ controlled trial in Western Province, Rwanda. PLoS Med
+ 2019;16:e1002812.
+ 9 World Energy Outlook. Paris, France: international energy agency
+ 2018.
+ 10 Iacus SM, King G, Porro G. Causal inference without balance
+ checking: Coarsened exact matching. Political Analysis
+ 2012;20:1–24.
+ 
+<section> 11 Blackwell M, Iacus S, King G, et al. Cem: Coarsened exact matching
+ in Stata. Stata J 2009;9:524–46.
+ 12 Jack DW, Asante KP, Wylie BJ, et al. Ghana randomized air
+ pollution and health study (graphs): study protocol for a randomized
+ controlled trial. Trials 2015;16:420.
+ 13 Owusu-­Agyei S, Nettey OEA, Zandoh C, et al. Demographic patterns
+ and trends in central Ghana: baseline indicators from the Kintampo
+ health and demographic surveillance system. Glob Health Action
+ 2012;5:19033.
+ 14 Boamah EA, Asante K, Ae-­Ngibise K, et al. Gestational age
+ assessment in the Ghana randomized air pollution and health study
+ (graphs): ultrasound capacity building, fetal biometry protocol
+ development, and ongoing quality control. JMIR Res Protoc
+ 2014;3:e77.
+ 15 Van Vliet EDS, Asante K, Jack DW, et al. Personal exposures to fine
+ particulate matter and black carbon in households cooking with
+ biomass fuels in rural Ghana. Environ Res 2013;127:40–8.
+ 
+<section> 16 WHO. Handbook : IMCI integrated management of childhood illness.
+ 
+<section> Geneva: World Health Organization, 2005.
+ 17 Mikolajczyk RT, Zhang J, Betran AP, et al. A global reference for
+ fetal-­weight and birthweight percentiles. Lancet 2011;377:1855–61.
+ 18 Chillrud SN, Ae-­Ngibise KA, Gould CF. The effect of clean cooking
+ interventions on mother and child personal exposure to air pollution:
+ results from the Ghana randomized air pollution and health study
+ (graphs). Journal of Exposure Science & Environmental Epidemiology
+ 2021:1–16.
+ 19 Mishra V, Dai X, Smith KR, et al. Maternal exposure to biomass
+ smoke and reduced birth weight in Zimbabwe. Ann Epidemiol
+ 2004;14:740–7.
+ 20 Pope DP, Mishra V, Thompson L, et al. Risk of low birth weight and
+ stillbirth associated with indoor air pollution from solid fuel use in
+ developing countries. Epidemiol Rev 2010;32:70–81.
+ 21 Enwere G, Cheung YB, Zaman SMA, et al. Epidemiology and
+ clinical features of pneumonia according to radiographic findings in
+ Gambian children. Trop Med Int Health 2007;12:1377–85.
+ 22 Zeger SL, Liang KY. Longitudinal data analysis for discrete and
+ continuous outcomes. Biometrics 1986;42:121–30.
+ 23 Thompson LM, Bruce N, Eskenazi B, et al. Impact of reduced
+ maternal exposures to wood smoke from an introduced chimney
+ stove on newborn birth weight in rural Guatemala. Environ Health
+ Perspect 2011;119:1489–94.
+ 24 Alexander DA, Northcross A, Karrison T, et al. Pregnancy outcomes
+ and ethanol cook stove intervention: a randomized-­controlled trial in
+ Ibadan, Nigeria. Environ Int 2018;111:152–63.
+ 25 Shen G, Hays MD, Smith KR, et al. Evaluating the performance of
+ household Liquefied petroleum gas Cookstoves. Environ Sci Technol
+ 2018;52:904–15.
+ 26 Bruce N, Dora C, Krzyzanowski M. Tackling the health burden from
+ household air pollution (HAP) : development and implementation of
+ new WHO Guidelines. Air Quality and Climate Change 2013;47:32–8.
+ 27 Pope D, Bruce N, Dherani M, et al. Real-­life effectiveness of
+ 'improved' stoves and clean fuels in reducing PM and CO:
+ Systematic review and meta-­analysis. Environ Int 2.5 2017;101:7–18.
+ 28 Burnett RT, Pope CA, Ezzati M, et al. An integrated risk function
+ for estimating the global burden of disease attributable to
+ ambient fine particulate matter exposure. Environ Health Perspect
+ 2014;122:397–403.
+ 29 Ghana Statistical Service. Ghana multiple indicator cluster survey
+ with an enhanced malaria module and biomarker, 2011, final report.
+ 
+<section> Accra, Ghana: Ghana Statistical Service, 2011. https://​dhsprogram.​
+ com/​pubs/​pdf/​FR262/​FR262.​pdf

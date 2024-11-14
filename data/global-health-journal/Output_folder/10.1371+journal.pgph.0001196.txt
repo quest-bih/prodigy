@@ -1,0 +1,456 @@
+
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> OPEN ACCESS
+ 
+<section> Citation: Buttenheim AM, Schmucker L, Marcus N,
+ Phatsoane M, Msolomba V, Rhagnath N, et al.
+ (2022) Planning and commitment prompts to
+ encourage reporting of HIV self-test results: A
+ cluster randomized pragmatic trial in Tshwane
+ District, South Africa. PLOS Glob Public Health
+ 2(10): e0001196. https://doi.org/10.1371/journal.
+ 
+<section> pgph.0001196
+ 
+<section> Editor: Leonardo Martinez, Boston University,
+ 
+<section> UNITED STATES
+ 
+<section> Received: February 10, 2022
+ 
+<section> Accepted: September 15, 2022
+ 
+<section> Published: October 24, 2022
+ 
+<section> Peer Review History: PLOS recognizes the
+ benefits of transparency in the peer review
+ process; therefore, we enable the publication of
+ all of the content of peer review and author
+ responses alongside final, published articles. The
+ editorial history of this article is available here:
+ https://doi.org/10.1371/journal.pgph.0001196
+ 
+<section> Copyright: © 2022 Buttenheim et al. This is an
+ open access article distributed under the terms of
+ the Creative Commons Attribution License, which
+ permits unrestricted use, distribution, and
+ reproduction in any medium, provided the original
+ author and source are credited.
+ 
+<section> Data Availability Statement: De-identified study
+ data are available at OSF: https://osf.io/je238/.
+ 
+<section> RESEARCH ARTICLE
+ 
+<section> Planning and commitment prompts to
+ encourage reporting of HIV self-test results: A
+ cluster randomized pragmatic trial in
+ Tshwane District, South Africa
+ 
+<section> Alison M. Buttenheim ID *, Laura Schmucker , Noora Marcus ID , Mothepane Phatsoane
+ Vanessa Msolomba ID , Naleni Rhagnath , Mohammed Majam , François Venter ,
+ 
+<section> Harsha Thirumurthy
+ 
+<section> 1 Department of Family and Community Health, School of Nursing, University of Pennsylvania, Philadelphia,
+ Pennsylvania, United States of America, 2 Department of Medical Ethics and Health Policy, Perelman School
+ of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania, United States of America, 3 Ezintsha,
+ Sub-Division of Wits Reproductive Health and HIV Institute, University of Witwatersrand, Johannesburg,
+ 
+<section> Gauteng, South Africa
+ 
+<section> * abutt@upenn.edu
+ 
+<section> Abstract
+ 
+<section> Reporting of HIV self-test results to encourage linkage to HIV care for those who receive a
+ positive test result is a common challenge faced by HIV self-testing programs. The impact
+ self-testing programs is diminished if individuals who obtain a self-test do not use the test
+ seek confirmatory testing and initiate HIV treatment following a positive result. We con-
+ ducted a cluster randomized trial of two interventions designed to increase reporting of HIV
+ self-test results: a “plan and commit” intervention that leveraged insights from behavioral
+ economics, and an enhanced usual care version of the standard HIV self-test community
+ distribution protocol that promoted the importance of reporting results. The trial was con-
+ ducted at community distribution sites for HIV self-tests in Tshwane Metropolitan Municipal-
+ ity, Gauteng Province, South Africa. The primary outcome was reporting of self-test results
+ via a WhatsApp messaging system. We recruited 1,478 participants at 13 distribution sites
+ over 24 days. In the plan and commit condition, 63/731 participants (8.7%) reported their
+ test results via WhatsApp, compared to 59/747 participants (7.9%) in the enhanced usual
+ care condition (n.s., p = 0.61). During the study period, 101/3,199 individuals (3.1%) who
+ received a self-test under the standard protocol reported test results via WhatsApp, a signifi-
+ cant difference across the three arms (p < .00001). Our results suggest that boosting the
+ reporting of self-test results can be done solely through increasing the salience of the impor-
+ tance of reporting and a clear explanation of the procedure for reporting results.
+ 
+<section> Trial Registration: ClinicalTrials.gov: NCT03898557.
+ 
+<section> Introduction
+ 
+<section> Achieving the UNAIDS 95-95-95 targets is essential for ending the global HIV epidemic [1].
+ Despite progress towards these targets in sub-Saharan Africa, promoting HIV testing among 
+<section> Funding: This study was funded by the Bill &
+ Melinda Gates Foundation (gatesfoundation.org)
+ through award INV-008318 (HT). The funders had
+ no role in study design, data collection and
+ analysis, decision to publish, or preparation of the
+ manuscript.
+ 
+<section> Competing interests: The authors have declared
+ that no competing interests exist.
+ 
+<section> people living with HIV (PLHIV) and linking them to HIV care has proven challenging [2]. To
+ increase testing coverage among hard-to-reach individuals at high risk of HIV infection, HIV
+ self-testing (HIVST) has been widely used in recent years. Private and convenient, HIVST
+ offers advantages over other testing modalities and can overcome barriers to testing for prior-
+ ity populations who may be less likely to seek facility-based approaches [3,4]. The World
+ Health Organization’s HIV testing guidelines recommend the scale-up of HIVST. In southern
+ Africa, the STAR (Self-Test Africa) initiative, supported by UNITAID, has distributed over
+ 700,000 self-tests to date.
+ Despite scale-up of this promising approach, behavioral barriers to self-test use and post-
+ test results reporting linkage to care limit the effectiveness of HIVST [5]. The impact of HIVST
+ programs is diminished if individuals pick up self-tests at distribution sites, but do not subse-
+ quently use the test or seek confirmatory testing following a positive self-test result. While
+ picking up a self-test at a community distribution site suggests an intention to use the test and
+ seek appropriate health care, following up on those intentions may be challenging due to sev-
+ eral behavioral factors. These include procrastination stemming from present-biased decision-
+ making, competing priorities, hassle factors, fear of obtaining a positive test result, and stigma
+ associated with seeking care. Similar to many other screening and prevention behaviors, there
+ can be a large gap between intention and action in HIVST use and linkage decisions.
+ Behavioral economics research suggests several low-cost interventions that can encourage
+ individuals to follow through on their intentions to engage in specific health behaviors. Plan-
+ ning prompts, which prompt individuals to make a plan for undertaking a behavior, have
+ shown promise in closing the intention-action gap for diverse actions including voting [6],
+ influenza vaccination [7] and HIV testing [8]. Planning prompts encourage behavioral
+ rehearsal and facilitate the formation of specific implementation intentions [9–12]. Addition-
+ ally, commitment devices, even when the commitment is private and unenforceable, leverage
+ people’s intrinsic desire to maintain a consistent self-image and follow what they perceive to
+ be the descriptive and injunctive norm [13]. Planning prompts and commitment devices are
+ effective strategies for translating behavioral intentions into actions, particularly when barriers
+ to the desired behavior include procrastination, prospective memory failures, and hassle fac-
+ tors. In this pragmatic randomized trial, we assessed the effectiveness of a simple planning
+ prompt and commitment device for increasing reporting of HIV self-test results by individuals
+ who obtained self-tests at community distribution sites in South Africa.
+ 
+<section> Materials and methods
+ 
+<section> Ethics statement
+ 
+<section> The STAR program was approved by the University of Witwatersrand. The study was
+ approved by the University of Pennsylvania Institutional Review Board. A waiver of informed
+ consent was granted under the umbrella STAR protocol. The trial was registered at clinical-
+ trials.gov (NCT03898557).
+ Design and setting. We conducted a cluster randomized trial of a planning and commit-
+ ment prompt as part of the STAR-supported HIVST program in South Africa run by the
+ Ezintsha unit of Wits RHI at the University of Witwatersrand. Ezintsha established a staffed
+ WhatsApp mobile messaging line to enable self-testers to upload screening test results (includ-
+ ing a photo of their completed test strip) and receive information about next steps: confirma-
+ tory testing and linkage to care if positive, or advice about repeat testing if negative. However,
+ usage of the WhatsApp line was initially low, with reporting rates below 5% in the early
+ months of the program. 
+<section> This study was conducted in 13 urban locations within Tshwane Metropolitan Municipality
+ of Gauteng Province where Ezintsha’s STAR program operated. STAR distributed oral fluid-
+ based HIV tests (Oraquick Advance, Orasure Technologies, Bethlehem, PA, USA) from mar-
+ ket centers and other densely populated areas. Individuals passing by community fixed-point
+ distribution sites, such as hotspots including taxi ranks and shopping areas, were offered infor-
+ mation about HIVST and could obtain a self-test for personal use after receiving instructions
+ and a demonstration of how to use the test.
+ 
+<section> Recruitment and testing
+ 
+<section> Community members who approached the STAR self-test distribution sites were eligible to
+ participate in the study. Per the existing STAR protocol, inclusion criteria were that commu-
+ nity members had to be �19 years of age and exclusion criteria was that they must not visibly
+ intoxicated to receive a self-test. For each individual who accepted a test, program staff com-
+ pleted a brief form collecting socio-demographic information and prior HIV testing history.
+ Individuals who consented to follow-up by the STAR program were asked to provide their
+ mobile phone number. Unique barcode stickers were placed on the self-test and on the form
+ that linked the self-test to a specific individual. Individuals obtaining a self-test could either
+ take the test with them for later use or complete the test immediately in a private portable tent.
+ As mandated by South Africa’s National Department of Health, those who chose to take the
+ self-test with them for later use were given a card with instructions for seeking confirmatory
+ testing in the event of a positive self-test result. In the Ezintsha STAR program, this card also
+ included the WhatsApp reporting number.
+ 
+<section> Interventions
+ 
+<section> We compared a plan and commit prompt (PC) to an enhanced usual care (EUC) version of
+ the standard STAR distribution instructions, which were printed on cards and given to indi-
+ viduals in their self-test packets. The EUC card explained how to report results via WhatsApp
+ and emphasized the importance of reporting. The counselors’ verbal script similarly empha-
+ sized the ease and confidentiality of WhatsApp reporting, and highlighted three reasons for
+ reporting: 1. To ensure that the test was used correctly; 2. To get help interpreting the results;
+ and 3. To get support and advice for linking to additional services and care if needed.
+ The PC intervention differed from EUC in two ways: First, the printed card placed in the
+ testing packet had additional spaces on the reverse side to make a plan to take the test (e.g.,
+ location and timing of completing the test) and to commit to use the test by signing a brief
+ statement. Second, the accompanying PC script pointed out the plan and commit features of
+ the PC card and suggested how to use it. Importantly, the PC intervention did not require par-
+ ticipants to complete the card at the time of test distribution nor did it require them to return
+ the card to the testing staff. Completion of the card was entirely voluntary and was unobserved
+ by the STAR program staff and the study team.
+ 
+<section> Target population & power calculations
+ 
+<section> Our target sample size of 1,320 self-test recipients (660 per arm) gave us power to detect a
+ 5-percentage point difference in WhatsApp reporting rates between the PC and EUC interven-
+ tions, assuming a baseline reporting rate of 2.5% (as observed in previous iterations of the
+ WhatsApp test result reporting initiative) and taking into account the clustered design with
+ team-site-day as the unit of randomization. Each cluster of team-site-day pairs distributed self-
+ tests until daily targets were met. 
+<section> Randomization
+ 
+<section> A cluster randomized design was used and the unit of randomization was the team-site-day.
+ team consisted of two STAR program staff working together to distribute tests, demonstrate
+ their use, and complete the data collection form. Two study teams worked simultaneously at
+ selected testing site, in addition to other field staff distributing tests according to the standard
+ protocol. Cluster randomization was used rather than individual randomization to ensure fea-
+ sibility of intervention delivery and to align most closely with the existing test distribution pro-
+ gramme. Each team pair distributed only EUC or PC cards in a given day.
+ Using a computer-generated randomization scheme, the first author (AB) assigned each
+ team-site-day to the EUC or PC intervention. After the trained study team distributed 30 tests
+ according to the assigned EUC or PC condition in a given day at a given test site, the team
+ reverted to the standard protocol for test distribution for the remainder of the day. Participants
+ and the study team were not blinded as to condition.
+ 
+<section> Outcomes
+ 
+<section> The primary outcome was test results reported to the program’s WhatsApp numbers as a pro-
+ portion of tests distributed. The secondary outcome was the proportion of HIV-positive test
+ results reported as proportion of tests distributed (i.e., reported yield). Outcomes were mea-
+ sured by STAR program nurses who staffed the separate WhatsApp numbers for each of the
+ two interventions. Nurses were not blinded as to condition of the WhatsApp number they
+ were staffing, but were also not directly involved in the design of the study and were not famil-
+ iar with the distinctions between arms.
+ 
+<section> Analysis
+ 
+<section> Following our pre-registered analysis plan, we compared test result reporting rates in the EUC
+ and PC using chi-squared tests. As an exploratory analysis, we also compared the PC and EUC
+ to the standard STAR protocol for test distributions during trial window using routine pro-
+ gram data collected by the STAR program. Limitations in the recording of the WhatsApp
+ results reporting meant that we were not able to assign individual results to clusters. In addi-
+ tion, the routine program data do not follow a similar clustering. therefore, the confidence
+ intervals and the chi-squared analyses are not adjusted for clustering. See the study protocol
+ (S1 Text) for more details.
+ 
+<section> Results
+ 
+<section> Between May 28 and June 18, 2019, 1,478 participants were recruited and accepted a self-test
+ at 13 distribution sites (see Fig 1 for study flow diagram). The distribution of gender, age and
+ testing history of the study participants is shown in Table 1 (left-hand columns). The sample
+ was about half female, with the majority of participants aged 18–24. About one third of partici-
+ pants had either never been tested for HIV or had not tested in the past year.
+ In the PC condition, 63/731 participants (8.7%) reporter their test results via WhatsApp,
+ compared to 59/747 participants (7.9%) in the EUC (n.s., p = 0.61) (see Fig 1). While the study
+ was not powered to detect subgroup differences in response to the interventions, an explor-
+ atory analysis by gender suggests that Plan & Commit was more effective then Enhanced
+ Usual Control among women (35/365, 9.5%, vs. 26/398, 6.5%), while the opposite was true for
+ men (28/361, 7.8%, vs. 33/348, 9.5%).
+ During the study period, 101/3199 individuals (3.1%) who received a self-test under the
+ standard protocol reported test results via WhatsApp, a significant difference across the three 
+<section> Fig 1. Study flow diagram.
+ 
+<section> https://doi.org/10.1371/journal.pgph.0001196.g001
+ 
+<section> arms (p < .00001). No HIV-positive test results were reported PC and EUC intervention
+ groups. Among the 3,199 other self-tests distributed under the standard protocol during the
+ interventions period, no positive tests were reported (see Fig 2).
+ 
+<section> Discussion
+ 
+<section> In this pragmatic randomized field trial, we tested two interventions hypothesized to increase
+ the likelihood that individuals receiving HIV self-tests would report their test results back to
+ the testing program. An enhanced usual care intervention emphasized the importance of
+ reporting results and explained the process for doing so, while a “plan and commit” interven-
+ tion added a planning prompt and a voluntary commitment pledge to use the test and report
+ self-test results. Both interventions had similar test result reporting rates that were more than
+ double the reporting rates observed in the HIVST program’s standard protocol.
+ Our results suggest that boosting the reporting of self-test results can be done solely through
+ increasing the salience of results reporting by emphasizing why reporting is important and by
+ providing a clear explanation of the procedure for reporting results. The plan and commit
+ intervention as implemented in this study did not significantly increase test result reporting 
+<insert> Table 1. Characteristics of recipients of HIV self-screening tests (HIVSST) and those reporting test results via WhatsApp messaging, Tshwane Metropolitan Munic-
+ ipal District, 2019.
+ HIVSST Distribution
+ Plan &
+ Commit
+ (N = 731)
+ HIVSST Test Result Reports
+ Plan &
+ Commit
+ (N = 63)
+ Enhanced Usual Care
+ (N = 747)
+ Enhanced
+ Usual Care
+ (N = 59)
+ Gender
+ Female 365 (49.9%) 398 (53.3%) 35 (55.6%) 26 (44.1%)
+ Male 361 (49.4%) 348 (46.6%) 28 (44.4%) 33 (56.0%)
+ Trans or Not Reported 5 (0.7%) 1 (0.1%) 0 (0%) 0 (0.0%)
+ Age
+ 18–24 390 (53.4%) 395 (52.9%) 36 (57.1%) 28 (47.5%)
+ 25–39 280 (38.3%) 305 (40.8%) 27 (42.9%) 25 (42.4%)
+ 40+ 57 (7.8%) 46 (6.2%) 0 (0%) 6 (10.2%)
+ Not reported 4 (0.6%) 1 (0.1%) 0 (0%) 0 (0%)
+ 82 (11.0%)
+ Most recent HIV test
+ Never tested 49 (6.7%)
+ 0–3 months 81 (11.1%) 88 (11.8%)
+ 3–12 months 368 (50.4%) 372 (49.8%)
+ More than 12 months 225 (30.8%) 197 (26.4%)
+ Not reported 8 (1.1%) 8 (1.07%)
+ https://doi.org/10.1371/journal.pgph.0001196.t001 
+<iend>
+
+ 
+<section> Fig 2. Proportion of participants reporting
+ Municipal District, 2019 (N = 4,677 total
+ https://doi.org/10.1371/journal.pgph.0001196.g002
+ 
+<section> above and beyond enhanced usual care. One conclusion from this study is that the mecha-
+ nisms through which planning prompts and commitment devices work may be similar to
+ those of a salience intervention: these strategies all drawing people’s attention to the impor-
+ tance of the behavior and prompt them to complete the behavior at a future time. Our results
+ 
+<section> HIV self-screening test results via WhatsApp messaging, by treatment arm, Tshwane Metropolitan
+ 
+<section> participants). 
+<section> are consistent with previous studies showing no changes in behavior due to planning prompts
+ [14–17], and a recent trial that showed planning prompts resulted in small but statistically
+ insignificant changes in HIV testing uptake by men in Uganda [8]. However, they are in con-
+ trast with other studies demonstrating the effectiveness of planning prompts over and above
+ reminders, information provision, or education [18].
+ Our study has some important limitations. To maximize feasibility and generalizability,
+ participants were not asked to complete the planning and commitment prompts at the time
+ self-test distribution. Completing the prompts at the distribution site might result in higher
+ test result reporting rates. We were also unable to assess whether participants who did not
+ report test results had used the self-test but not reported results, or if they did not use the self-
+ tests at all. Some challenges with linking WhatsApp reporting results to test distribution also
+ meant that we were unable to evaluate additional outcomes of interest including time to test
+ result reporting, and prior testing history as a predictor of results reporting or as a treatment
+ modifier. Finally, our decision to distribute tests following the Plan & Commit and Enhanced
+ Usual Care protocols at the beginning of the testing day, followed by the standard protocol
+ once the requisite number of intervention tests had been distributed, could potentially intro-
+ duce a biased comparison of the two interventions to the standard protocol if community
+ members stopping by the test distribution site at the beginning of the day were systematically
+ different from those arriving later in the day. However, this would only affect the results of our
+ exploratory analysis, and the risk of bias is attenuated by the fact that many standard protocol
+ tests were distributed at sites that were not an intervention site in any given day and were
+ therefore distributed throughout the full testing day.
+ A strength of the study is the light-touch, very low-cost interventions that are both feasible
+ to incorporate into HIVST programs and easy to evaluate, with only 13 days in the field
+ needed to accrue the desired sample size. This underscores the potential to rapidly design and
+ evaluate similar low-cost, light-touch “nudges” that can contribute to progress on reaching the
+ UNAIDS 2025 targets.
+ HIVST has shown considerable potential to close gaps in the HIV care cascade and com-
+ munity-based distribution of self-tests can enable programs to “reach people where they are.”
+ However, to maximize the effectiveness of HIVST, it will be necessary for self-tests to be used
+ by PLHIV who are unaware of their status and persons at high risk of HIV infection. It will
+ also be essential for those who obtain positive results to seek confirmatory testing and follow-
+ up care. Interventions informed by behavioral economics can be easily incorporated into exist-
+ ing HIVST programs and warrant further testing as part of efforts to improve the effectiveness
+ of HIVST.
+ 
+<section> Supporting information
+ 
+<section> S1 Checklist. CONSORT 2010 checklist of information to include when reporting a rando-
+ 
+<section> mised trial �
+ 
+<section> (DOC)
+ 
+<section> S1 Text. Study protocol.
+ 
+<section> (PDF)
+ 
+<section> Acknowledgments
+ 
+<section> The authors gratefully acknowledge the Ezintsha STAR team for field and data support. 
+<section> Author Contributions
+ 
+<section> Conceptualization: Noora Marcus, Mothepane Phatsoane, Vanessa Msolomba, Naleni Rhag-
+ nath, Mohammed Majam, François Venter, Harsha Thirumurthy.
+ 
+<section> Data curation: Alison M. Buttenheim, Laura Schmucker, Noora Marcus.
+ 
+<section> Formal analysis: Alison M. Buttenheim, Laura Schmucker, Harsha Thirumurthy.
+ 
+<section> Funding acquisition: Alison M. Buttenheim, Harsha Thirumurthy.
+ 
+<section> Investigation: Alison M. Buttenheim, Mohammed Majam, François Venter, Harsha
+ Thirumurthy.
+ 
+<section> Methodology: Alison M. Buttenheim, Noora Marcus, Mothepane Phatsoane, Vanessa Mso-
+ lomba, Mohammed Majam, François Venter.
+ 
+<section> Project administration: Laura Schmucker, Noora Marcus, Mothepane Phatsoane, Vanessa
+ Msolomba, Naleni Rhagnath, Harsha Thirumurthy.
+ 
+<section> Supervision: Alison M. Buttenheim, Noora Marcus, Mohammed Majam, Harsha
+ Thirumurthy.
+ 
+<section> Writing – original draft: Alison M. Buttenheim.
+ 
+<section> Writing – review & editing: Alison M. Buttenheim, Laura Schmucker, Noora Marcus, Mothe-
+ pane Phatsoane, Vanessa Msolomba, Naleni Rhagnath, Mohammed Majam, François Ven-
+ ter, Harsha Thirumurthy.
+ 
+<section> References
+ 
+<section> UNAIDS. Understanding fast-track: Accelerating action to end the AIDS epidemic by 2030. UNAIDS
+ Geneva; 2015.
+ UNAIDS. Global AIDS Update: 2020. New York: Joint United Nations Programme on HIV/AIDS
+ 
+<section> (UNAIDS); 2020.
+ WHO. Guidelines on HIV self-testing and partner notification: Supplement to consolidated guidelines
+ HIV testing services. Geneva: WHO; December 2016.
+ Johnson CC, Kennedy C, Fonner V, Siegfried N, Figueroa C, Dalal S, et al. Examining the effects of
+ HIV self-testing compared to standard HIV testing services: a systematic review and meta-analysis.
+ Int AIDS Soc. 2017; 20(1):21594. https://doi.org/10.7448/IAS.20.1.21594 PMID: 28530049
+ Choko AT, Jamil MS, MacPherson P, Corbett E, Chitembo L, Ingold H, et al. Measuring linkage to HIV
+ treatment services following HIV self-testing in low-income settings. J Int AIDS Soc. 2020; 23(6):
+ e25548. https://doi.org/10.1002/jia2.25548 PMID: 32579759
+ Rogers T, Milkman KL, John LK, Norton MI. Beyond good intentions: Prompting people to make plans
+ improves follow-through on important tasks. Behavioral Science & Policy. 2015; 1(2):33–41.
+ Milkman KL, Beshears J, Choi JJ, Laibson D, Madrian BC. Using implementation intentions prompts
+ enhance influenza vaccination rates. Proceedings of the National Academy of Sciences. 2011;
+ (26):10415–20. https://doi.org/10.1073/pnas.1103170108 PMID: 21670283
+ Kavanagh NM, Schaffer EM, Ndyabakira A, Marson K, Havlir DV, Kamya MR, et al. Planning prompts
+ to promote uptake of HIV services among men: a randomised trial in rural Uganda. BMJ global health.
+ 2020; 5(11):e003390. https://doi.org/10.1136/bmjgh-2020-003390 PMID: 33257417
+ Bryan G, Karlan D, Nelson S. Commitment devices. Annu Rev Econ. 2010; 2(1):671–98.
+ Rachlin H. Self-control based on soft commitment. The Behavior Analyst. 2016; 39(2):259–68. https://
+ doi.org/10.1007/s40614-016-0054-9 PMID: 31978208
+ Grieco D, Lacetera N, Macis M, Di Martino D. Motivating cord blood donation with information and
+ behavioral nudges. Scientific reports. 2018; 8(1):1–12.
+ Cohen J, Rothschild C, Golub G, Omondi GN, Kruk ME, McConnell M. Measuring the impact of cash
+ transfers and behavioral ‘nudges’ on maternity care in Nairobi, Kenya. Health Affairs. 2017; 
+<section> Rogers T, Milkman KL, Volpp KG. Commitment devices: using initiatives to change behavior. Jama.
+ 2014; 311(20):2065–6. https://doi.org/10.1001/jama.2014.3485 PMID: 24777472
+ Buttenheim AM, Paz-Soldán VA, Castillo-Neyra R, Vizcarra AMT, Borrini-Mayori K, McGuire M, et al.
+ Increasing participation in a vector control campaign: a cluster randomised controlled evaluation of
+ behavioural economic interventions in Peru. BMJ global health. 2018; 3(5):e000757. https://doi.org/10.
+ 1136/bmjgh-2018-000757 PMID: 30271624
+ Carrera M, Royer H, Stehr M, Sydnor J, Taubinsky D. The limits of simple implementation intentions:
+ Evidence from a field experiment on making plans to exercise. Journal of health economics. 2018;
+ 62:95–104. https://doi.org/10.1016/j.jhealeco.2018.09.002 PMID: 30336306
+ Meslot C, Gauchet A, Allenet B, François O, Hagger MS. Theory-based interventions combining mental
+ simulation and planning techniques to improve physical activity: Null results from two randomized con-
+ trolled trials. Frontiers in psychology. 2016; 7:1789. https://doi.org/10.3389/fpsyg.2016.01789 PMID:
+ 
+<section> 27899904
+ Andor MA, Fels KM, Renz J, Rzepka S. Do planning prompts increase educational success? Evidence
+ from randomized controlled trials in MOOCs: Ruhr Economic Papers; 2018.
+ Milkman KL, Beshears J, Choi JJ, Laibson D, Madrian BC. Using implementation intentions prompts
+ enhance influenza vaccination rates. Proc Natl Acad Sci U S A. 2011; 108(26):10415–20. https://doi.
+ org/10.1073/pnas.1103170108 PMID: 21670283

@@ -1,0 +1,709 @@
+
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> OPEN ACCESS
+ 
+<section> Citation: Matthews M, Lotfi T, Santesso N, Loeb
+ M, Mertz D, Chagla Z, et al. (2022) Comparing the
+ usability of the World Health Organization’s
+ conventional tuberculosis guidelines to the eTB
+ recommendations map: A two-arm superiority
+ randomised controlled trial. PLOS Glob Public
+ 
+<section> Health 2(10): e0001166. https://doi.org/10.1371/
+ 
+<section> journal.pgph.0001166
+ 
+<section> Editor: Julia Robinson, PLOS: Public Library of
+ 
+<section> Science, UNITED STATES
+ 
+<section> Received: March 7, 2022
+ 
+<section> Accepted: September 19, 2022
+ 
+<section> Published: October 14, 2022
+ 
+<section> Copyright: © 2022 Matthews et al. This is an open
+ access article distributed under the terms of the
+ Creative Commons Attribution License, which
+ permits unrestricted use, distribution, and
+ reproduction in any medium, provided the original
+ author and source are credited.
+ 
+<section> Data Availability Statement: All relevant data are
+ within the manuscript and its Supporting
+ Information files.
+ 
+<section> Funding: HJS’ institution received funding from the
+ WHO for developing the eTB RecMap and fees for
+ WHO tuberculosis guideline development and
+ related educational activities. This trial was not
+ funded by the WHO, but through internal research
+ grants available to HJS. The funders had no role in
+ 
+<section> RESEARCH ARTICLE
+ 
+<section> Comparing the usability of the World Health
+ Organization’s conventional tuberculosis
+ guidelines to the eTB recommendations map:
+ 
+<section> A two-arm superiority randomised controlled
+ 
+<section> trial
+ 
+<section> Micayla Matthews ID 1,2 , Tamara Lotfi ID 1,2 , Nancy Santesso 1,2 , Mark Loeb 1,2 ,
+ Dominik Mertz 1,3 , Zain Chagla ID 1,3 , Anisa Hajizadeh ID 1,4 , Thomas Piggott , Bart Dietl ,
+ Holger J. Schünemann ID 1,2,6 
+<section> *
+ 
+<section> 1 McMaster University Department of Health Research Methods, Evidence and Impact, Hamilton, Ontario,
+ Canada, 2 McMaster University Michael G. DeGroote Cochrane Canada and GRADE Centre, Hamilton,
+ Ontario, Canada, 3 Department of Medicine, McMaster University, Hamilton, Ontario, Canada, 4 Department
+ of Primary Care, Oxford University, Oxford, United Kingdom, 5 Evidence Prime Incorporated, Hamilton,
+ Ontario, Canada, 6 Department of Biomedical Sciences, Humanitas University, Milano, Italy
+ 
+<section> * schuneh@mcmaster.ca
+ 
+<section> Abstract
+ 
+<section> Best practices for the dissemination of global health guidelines has not undergone rigorous
+ research. We used a new approach to digitizing World Health Organization (WHO) global
+ tuberculosis guideline recommendations (eTB RecMap) and compared its usability to the
+ conventional method of accessing TB recommendations using the WHO website. We con-
+ ducted a two-arm superiority randomised controlled trial using a survey among global stake-
+ holders who were past or planned future users of TB guidelines, recommendations, or
+ policy advice. We assigned participants randomly (1:1) to complete an activity using the
+ WHO eTB RecMap or the conventional website. The primary outcome was the accessibility
+ of information and secondary outcomes understanding, satisfaction, and preference for one
+ of the two formats. Between February 26 and August 29, 2021, we received 478 responses
+ from stakeholders, of whom 244 (122 per group) were eligible and provided analysable
+ results. Participants rated the eTB RecMap as more accessible, on average, when com-
+ pared to the conventional website (on a seven-point scale, the mean difference {MD} was
+ 0.9; 95% confidence interval {CI}: 0.6, 1.2; p < 0.001) and were more likely to correctly
+ answer understanding questions. This is the first trial comparing digitized dissemination for-
+ mats of health guideline recommendations. Stakeholders rated the WHO eTB RecMap as
+ more accessible than the conventional WHO website for the tested recommendations. They
+ also understood presented information better. The findings support better usability of TB
+ information through the eTB RecMap and contribute to the effort to end the TB epidemic.
+ 
+<section> Trial registration: This trial was registered with ClinicalTrials.gov (NCT04745897) on
+ February 9, 2021. 
+<section> study design, data collection and analysis, decision
+ to publish, or preparation of the manuscript.
+ 
+<section> Competing interests: We have read the journal’s
+ policy and the authors of this manuscript have the
+ following competing interests. ML grants and
+ personal fees from the WHO Essential Medicines
+ List (EML). TL, NS, DM, ZC, AH, TP, and BD have
+ no conflicts of interest to disclose. HJS has
+ received research funding and honoraria from the
+ WHO.
+ 
+<section> Introduction
+ 
+<section> Tuberculosis (TB) is the leading cause of death from a single infectious agent worldwide, with
+ an estimated 10 million new cases in 2019 [1]. In a concerted effort to end the TB epidemic,
+ the WHO Global TB Programme (WHO-GTB) has issued guidelines with recommendations
+ on TB prevention, diagnosis, treatment, and care [2,3]. Since 2009, these guidelines have been
+ developed using the Grading of Recommendations Assessment, Development and Evaluation
+ (GRADE) method [3], which is a transparent, evidence-based framework for the assessment
+ the certainty in a body of evidence and recommendation development [4]. Specifically,
+ GRADE assists guideline developers in question prioritization, certainty assessments, balanc-
+ ing benefits and risks, and considering, among other criteria, cost, equity, acceptability, and
+ feasibility in context [4,5].
+ WHO TB recommendations were located in many discrete publications on the WHO web-
+ site, including standard, consolidated, interim, and emergency guidelines. Given the potential
+ challenges of navigating through guidelines to find a recommendation, ways to enhance their
+ connectivity and accessibility should be explored like for guidelines in other fields. A mixed-
+ methods study by Hajizadeh, et al. [6] suggested that stakeholders, including members of the
+ WHO-GTB guideline development group (GDG), desire direct access to WHO TB recom-
+ mendations and supplementary information, such as evidence to decision (EtD) tables and
+ evidence profiles [6].
+ In an effort to improve usability of WHO TB recommendations, we developed the WHO
+ eTB recommendation map (RecMap) in a collaboration between the WHO Collaborating
+ Center for Infectious Diseases, Research Methods and Recommendations, the Michael G
+ DeGroote Cochrane Canada Centre and the WHO-GTB Programme [6,7]. The RecMap iden-
+ tifies, lists, and maps WHO TB recommendations using recommendation mapping methodol-
+ ogy. This methodology builds on the field of evidence mapping by visually organizing
+ recommendations, thus allowing the identification of clusters and gaps [6]. Furthermore, it
+ anticipated to facilitate the adoption, adaptation, or de novo development of recommenda-
+ tions in a variety of countries and settings through an integrated linkage and access to original
+ content on GRADEpro [8]. The approach has been used, but not tested formally, in other
+ efforts including the eCOVID-19 RecMap to enhance access to all guidelines in general
+ (covid19.recmap.org) and for WHO specifically (who.covid19.recomap.org).
+ To evaluate if organising recommendations in a recommendation map improves usability,
+ we conducted a randomised controlled trial in users of TB recommendations to evaluate the
+ impact of the new WHO eTB RecMap compared with the conventional method of accessing
+ TB recommendations on accessibility, understanding and satisfaction with the new format.
+ 
+<section> Methods
+ 
+<section> Study design
+ 
+<section> This study was a two-arm randomised controlled superiority trial to compare the accessibility
+ of the WHO eTB RecMap (WHO eTB) to the conventional method of accessing TB recom-
+ mendations through the WHO publications website (WHO TB). A questionnaire was admin-
+ istered using SurveyMonkey (Momentive Inc., California), accessible through a link shared
+ email. Participants responded to demographic questions and were subsequently randomised
+ using 1:1 allocation to access a recommendation using either WHO eTB or WHO TB (plat-
+ forms). Participants completed Likert-scale and multiple-choice questions about the platform
+ they were allocated to. After completing the key portion of the trial, they received information
+ about the alternative platform to respond to a question on their preference. 
+<section> This study was approved by the Hamilton Integrated Research Ethics Board, Hamilton, ON,
+ Canada (7908). No data safety monitoring committee was used. This trial was registered with Clin-
+ icalTrials.gov (NCT04745897). The protocol is available in the supporting information (S1 File).
+ 
+<section> Participants
+ 
+<section> Stakeholders who considered themselves to be users or potential users of TB guidelines, rec-
+ ommendations, and policy advice were eligible. We defined a user as someone who responded
+ “yes” to the question “have you ever accessed TB guidelines, recommendations or policy advice
+ in the past?”. A potential user was someone who responded “yes” to the question “do you plan
+ on accessing TB guidelines, recommendations or policy advice in the future?”. Eligible partici-
+ pants could be part of any group with a stake in TB, including the public, healthcare providers,
+ policymakers, and researchers, and there were no restrictions on country of origin, level of
+ education, or prior TB work experience. Individuals who were involved in WHO eTB develop-
+ ment were not eligible, and thus were not invited to participate.
+ We used a targeted snowball recruitment strategy by emailing survey links to WHO TB
+ Guideline Development Group (GDG) members, program managers, and other stakeholders
+ involved in the process of using and applying TB guideline recommendations. We requested
+ that these members disseminate the survey within their networks, which may have included
+ healthcare providers, policymakers, researchers, and people living with TB (S2 File). Further-
+ more, we shared the survey link with TB, infectious disease, and guideline groups on Twitter
+ and LinkedIn. Participants gave written informed consent upon entry to the survey.
+ 
+<section> Randomisation and masking
+ 
+<section> Participant response to a question on their role as a participant in this study was used for strat-
+ ification into one of four categories described in Fig 1. Participants within each of these catego-
+ ries were randomly assigned in a 1:1 ratio to the WHO eTB or WHO TB arms. Participants
+ were also randomly assigned to access one of two recommendations in a 1:1 ratio. The same
+ two recommendations were presented for both arms and selected because they contain mostly
+ plain language and were more accessible to non-clinical participants.
+ The allocation sequence was concealed using SurveyMonkey software based on a commer-
+ cial, but unknown algorithm without a pre-identified sequence. Participants were not aware
+ their random allocation to WHO eTB or WHO TB until disclosure (Fig 1). Thus, participants
+ in the control arm were blinded to the eTB RecMap for all outcomes except the secondary out-
+ come of preference. Neutral language was used in both trial arms to prevent promotion of the
+ intervention or comparison.
+ 
+<section> Procedures
+ 
+<section> In this randomised controlled superiority trial, the intervention was the new WHO eTB
+ RecMap (WHO eTB), and the comparison was the conventional method of accessing TB rec-
+ ommendations using the WHO website (WHO TB). We asked survey participants to complete
+ an activity in searching for the same recommendation using the one platform which they had
+ been randomly allocated. Instructions and questions for both arms were worded as similarly
+ possible. See Table 1 for an overview of the differences between WHO eTB and WHO TB.
+ 
+<section> Outcomes
+ 
+<section> This trial used several of the outcomes that have been validated in the evaluation of GRADE
+ Summary of Findings (SoF) tables [9–12]. The primary outcome was the accessibility of 
+<insert> Table 1. Description of differences between WHO TB and WHO eTB.
+ Website
+ Search
+ WHO
+ WHO
+ PDF documents
+ Strength and certainty of evidence defining the
+ recommendation
+ Often near recommendation
+ presentation
+ EtD tables presenting evidence underpinning the
+ recommendation
+ Found in a separate
+ Recommendation mapping
+ Abbreviations: WHO TB, accessing World Health Organization tuberculosis recommendations
+ recommendations map; PDF, portable document format; EtD, evidence to decision
+ https://doi.org/10.1371/journal.pgph.0001166.t001 
+<iend>
+
+ 
+<section> Fig 1. This figure shows the flow of participants
+ Insurer of health services; DoH Rep: Department
+ https://doi.org/10.1371/journal.pgph.0001166.g001
+ 
+<section> through the study. The following abbreviations are included: Guide Dev: Guideline developer; Insurer:
+ of health representative; Manufacturer: Drug or device manufacturer.
+ 
+<section> TB 
+<section> WHO eTB
+ 
+<section> website 
+<section> WHO eTB website
+ 
+<section> Search bar and filters
+ with varying Always near recommendation presented with consistent
+ 
+<section> language and symbols
+ appendix Found on the same page with a direct link to the appendix
+ 
+<section> No 
+<section> Yes
+ 
+<section> via the World Health Organization’s website; eTB, the new eTB
+ tables. 
+<section> information available on the WHO eTB compared to WHO TB. We defined accessibility as
+ the ability to access and use the presented information. This outcome considered the four fol-
+ lowing domains: (1) how easy it was to find the information (2) how easy it was to understand
+ the information (3) whether the presentation facilitated decision-making (4) whether the web-
+ site was easy to navigate. We used the original Likert-scale to obtain responses. We used the
+ composite of these four outcomes as primary outcome, and the individual domains were also
+ analyzed as secondary outcomes.
+ Secondary outcomes were understanding, satisfaction, and preference. We defined under-
+ standing as the correct comprehension of findings. This outcome was measured using three
+ multiple-choice questions with five choices and one correct answer. The questions were: ‘what
+ is the recommendation strength?’, ‘what is the certainty of the evidence?’ and ‘on which page
+ does the EtD table for this recommendation start?’. We defined satisfaction as a stakeholder’s
+ impression of platform presentation. This outcome considered the presentation of three
+ domains: (1) home page (2) recommendation list (3) individual recommendation. We used
+ the original Likert-scale to obtain responses. We defined preference as a greater liking of one
+ platform over the other. All participants were provided with a short demonstration of both
+ platforms. They were subsequently asked ‘between the WHO Tuberculosis Guidelines (current
+ website), and the WHO eTB Guidelines (alternative website), which do you prefer?’. We mea-
+ sured preference using a Likert-type scale to express the degree of preference with seven
+ answer options (1 = strongly prefer WHO TB, 2 = prefer WHO TB, 3 = somewhat prefer
+ WHO TB, 4 = same preference for WHO TB and eTB, 5 = somewhat prefer WHO eTB, 6 = pre-
+ fer WHO eTB, 7 = strongly prefer WHO eTB).
+ 
+<section> Statistical analysis
+ 
+<section> For this two-sided (a ¼ 0:05Þ superiority analysis, sample size was calculated using the pri-
+ mary outcome of accessibility in WINPEPI (PEPI-for-Windows) version 11.65. With a sample
+ size of 122 per arm (244 total) we would achieve 80% power to detect a difference on the
+ Likert-scale of 0.5 with a standard deviation of 1.0 between intervention and control groups,
+ generally considered an important change on the seven-point Likert scale and observed in pre-
+ vious studies measuring on GRADE SoF tables [9–13]. We assumed that 15% of those starting
+ would not complete the survey, but we did not factor stratifying participants by stakeholder
+ group into the calculation, as the aim of stratification was to balance participants rather than
+ be sufficiently powered to detect subgroup effects.
+ We summarized participant baseline characteristics and outcomes using means and stan-
+ dard deviations (SD) for continuous variables, and proportions for categorical variables. We
+ performed a primary analysis including all randomised participants, except for those who
+ completed the survey in less than five minutes. We determined this cut-off a priori as part of
+ the protocol because user testing determined that it would be impossible to comprehend and
+ complete the work in that time. We conducted a second per-protocol analysis excluding par-
+ ticipants who were flagged by pre-defined but unknown SurveyMonkey software for poor-
+ quality responses known as straight-lining. Straight-lining is defined by SurveyMonkey as
+ responses to questions with the same answer option or pattern. Participants flagged for
+ straight-lining, as well as those who spent less than five minutes on the survey, were removed
+ from the per-protocol analysis.
+ For the outcomes of accessibility and satisfaction, we used t-tests and mean differences 95%
+ confidence intervals (95% CIs) to compare means and standard deviations (SDs) between the
+ intervention and control groups. For the outcome of understanding, we used w 2 tests and risk
+ difference (RD) with 95% CIs to compare the proportion of correct responses between groups. 
+<section> For preference, we presented preference as mean (SD) overall and for both trial arms. Skew-
+ ness, Shapiro-Wilk tests, and histograms were used to evaluate whether the distribution was
+ shifted toward the same preference in both groups. Levene’s test of equal variances was used
+ for all t-tests and degrees of freedom were adjusted for p < 0.05. We conducted the analyses
+ using IBM SPSS (Statistical Package for Social Sciences) version
+ We performed a pre-planned interim analysis with data collected between February 26 and
+ March 24, 2021, based on the thesis defence date of the first author (MM). The interim analysis
+ was not intended or used to stop the study or draw final conclusions (S3 File).
+ 
+<section> Results
+ 
+<section> Between February 26 and August 29, 2021, 478 participants enrolled in the study. Of these,
+ dropped out prior to randomisation and 42 did not satisfy the eligibility criteria. A total of
+ participants were randomised. Of these, 16 were removed for less than five-minute completion
+ time, leaving 244 for the primary analysis. In this sample, 48% (117/244) were female, 91%
+ (223/244) were between the ages of 26 and 65, 63% (153/244) worked or lived in a low-and mid-
+ dle-income country (LMIC), 26% (63/244) in a high-income country (HIC), and 11% (26/244)
+ in both. Most participants (79%; 193/244) held a professional or graduate degree, and at least
+ three years (77%; 189/244) of TB-related work experience. Most participants also considered
+ themselves to be comfortable (26%; 64/244) or very comfortable (56%; 136/244) with basic
+ information and communication technologies. Participant strata comprised of 7% (16/244) in
+ the patient group, 25% (62/244) in the healthcare provider group, 36% (89/244) in the policy-
+ maker group, and 32% (77/244) in the academic group. We found no differences in study out-
+ comes between strata on stakeholder roles, so Table 2 describes non-stratified data per group.
+ Across four domains, participants assigned to the new WHO eTB RecMap rated the infor-
+ mation as more accessible compared to the conventional WHO TB website (MD on the seven-
+ point scale: 0�9; 95% CI: 0�6, 1�2; p < 0.001). The largest mean differences were observed for
+ the statements “it was easy to find the information” (MD 1.1; 95% CI: 0.7, 1.5; p < 0.001) and
+ “this website was easy to navigate” (MD 1.3; 95% CI: 0.9, 1.7; p < 0�001). Participants assigned
+ to WHO eTB also stated that it was easier to understand the information (MD 0.6; 95% CI:
+ 0.3, 0.9; p = 0.001) and that the information was presented in a way that would help them
+ make a decision (MD 0.7; 95% CI: 0.3, 1.0; p < 0.001, Table 3).
+ Participants assigned to the WHO eTB were more likely to correctly answer understanding
+ questions: risk difference of 47% (95% CI 37, 57; p < 0.001, Table 4) for correct responses to
+ the EtD question. There were also 20% differences (95% CI 8, 32) in correct responses to ques-
+ tions on recommendations strength (p = 0.002) and certainty of evidence (p = 0.001).
+ Participants assigned to WHO eTB were more satisfied with the presentation of the home
+ page (MD 1.0; 95% CI: 0.7, 1.4; p < 0.001, Table 5) and individual recommendations page
+ (MD 0.3; 95% CI: 0.002, 0.6; p = 0.048) compared to WHO TB. We observed that participants
+ assigned to WHO eTB also appeared more satisfied with the list of recommendations page, but
+ the difference was smaller than for the other outcomes (MD 0.2; 95% CI: -0.1, 0.5; p = 0.214).
+ Overall, participants (n = 234) “somewhat preferred WHO eTB” (4.8; SD 1.8), after review-
+ ing demonstrations of both platforms. This preference was stronger in participants who were
+ assigned to first review the WHO eTB (5.0; SD 1.6) compared to those who first reviewed the
+ WHO TB (4.5; SD 2.0) (p = 0.044) platform. Both arms were left-skewed toward this prefer-
+ ence (p < 0.001).
+ There were no differences between the primary and per-protocol analyses that excluded
+ participants suspected of straight lining (responses to questions with the same answer option
+ or pattern) (n = 227) (S3 File). 
+<insert> Table 2. Baseline characteristics of participants per group.
+ WHO eTB
+ (n = 122)
+ WHO TB
+ (n = 122)
+ Gender: n (%)
+ Female 58 (47) 59 (48)
+ Male 63 (52) 60 (49)
+ - 1 (1)
+ 1 (1) 2 (2)
+ Other
+ Prefer not to respond
+ Age (years): n (%)
+ < 3 (3) 7 (6)
+ 26–35 41 (34) 29 (24)
+ 36–45 37 (30) 37 (30)
+ 46–55 25 (20) 29 (24)
+ 56–65 10 (8) 15 (12)
+ 66–75 4 (3) 5 (4)
+ Prefer not to respond 2 (2) -
+ Setting: n (%)
+ HIC 29 (24) 34 (28)
+ LMIC 76 (62) 77 (63)
+ HIC and LMIC 16 (13) 10 (8)
+ Prefer not to respond 1 (1) 1 (1)
+ Education: n (%)
+ Primary - 1 (1)
+ High school - 2 (2)
+ College 2 (2) 6 (5)
+ Bachelor 18 (15) 21 (17)
+ Professional 18 (15) 27 (22)
+ Graduate 50 (40) 38 (31)
+ Professional and graduate 33 (27) 27 (22)
+ Prefer not to respond 1 (1) -
+ 12 (10)
+ TB work (years): n (%)
+ < 6 (5)
+ 1–2 14 (12) 8 (7)
+ 3–5 20 (16) 16 (13)
+ 6–9 17 (14) 12 (10)
+ > 59 (48) 65 (53)
+ Not applicable 4 (3) 5 (4)
+ Prefer not to respond 2 (2) 4 (3)
+ Abbreviations: WHO, World Health Organization; TB, Tuberculosis; HIC, high income country; LMIC, low- and
+ middle-income country.
+ https://doi.org/10.1371/journal.pgph.0001166.t002 
+<iend>
+
+ 
+<section> Discussion
+ 
+<section> The primary aim of this RCT was to determine if the WHO eTB RecMap [6,7] improved the
+ usability of WHO TB recommendations for stakeholders of interest. Participants represented
+ diverse group of users and potential users of TB recommendations. Our results suggest that
+ the WHO eTB RecMap improves the usability of these recommendations for stakeholders
+ when compared to the conventional method. Specifically, participants found, on average, that
+ the information presented in WHO eTB was easier to find, easier to understand, that it was 
+<insert> Table 4. Percentage # (%) of participants who responded correctly to understanding questions.
+ WHO eTB
+ (n = 122)
+ WHO TB
+ (n = 122)
+ Risk Difference (95% CI)
+ p value a
+ On which page does the evidence to decision (EtD) table for this recommendation start? 66/122 (54) 9/122 (7) 47 (37, 57)
+ < 0.001
+ What is the recommendation strength? 88/122 (72) 64/122 (52) 20 (8, 32)
+ 0.002
+ What is the certainty of evidence? 66/122 (54) 41/122 (34) 20 (8, 32)
+ 0.001
+ a Pearson’s chi-square.
+ https://doi.org/10.1371/journal.pgph.0001166.t004 
+<iend>
+
+ 
+<insert> Table 3. Overall accessibility of information [mean (SD)].
+ WHO eTB a WHO TB a MD (95% CI)
+ (n = 122) (n = 122) p value
+ Overall Accessibility c 5.6 (1.0) 4.7 (1.5) 0.9 (0.6, 1.2)
+ < 0.001
+ It was easy to find the information 5.6 (1.1) 4.4 (1.9) 1.1 (0.7, 1.5)
+ < 0.001
+ This website was easy to navigate 5.6 (1.2) 4.3 (1.8) 1.3 (0.9, 1.7)
+ < 0.001
+ It was easy to understand the information 5.6 (1.0) 5.0 (1.6) 0.6 (0.3, 0.9)
+ 0.001
+ The information was presented in a way that would help me make a
+ decision
+ 5.7 (1.0) 5.0 (1.5) 0.7 (0.3, 1.0)
+ < 0.001
+ Abbreviations: SD, standard deviation; WHO, World Health Organization; TB, tuberculosis; MD, mean difference;
+ CI, confidence interval.
+ a Likert-scale from 1 = strongly disagree to 7 = strongly agree.
+ b Equal variances could not be assumed using Levene’s test, degrees of freedom adjusted.
+ c Composite of four domains (primary outcome).
+ https://doi.org/10.1371/journal.pgph.0001166.t003 
+<iend>
+
+ 
+<section> presented in a way that would help them make a decision, and that the website was easier to
+ navigate. We sought to corroborate accessibility with the secondary outcome of understand-
+ ing, and we found that the eTB RecMap improved the ability of participants to identify recom-
+ mendation strength and certainty, and to access the supporting evidence and decisions
+ underpinning the recommendation (EtD). Furthermore, stakeholders were more satisfied
+ with the presentation of the WHO eTB home page and presentation of individual recommen-
+ dations, although the effects were small. Overall, participants somewhat preferred the eTB
+ RecMap to the conventional WHO TB website.
+ To our knowledge, this is the first RCT comparing stakeholder feedback on the presenta-
+ tion of two guideline platforms. However, several studies have explored stakeholder percep-
+ tions of guideline development and presentation, as well as the factors that influence their
+ uptake. One qualitative study by Fearns, et al. [14] explored public perceptions of clinical prac-
+ tice guidelines and found that participants desired information to help them make decisions,
+ but current numerical formats may not always be accessible to a public audience. Additionally,
+ a content analysis by Santesso, et al. [15] found that patient versions of guidelines may not
+ always address stakeholder needs, as they rarely include important EtD information, such as
+ beliefs, values and preferences, accessibility, costs and feasibility. Furthermore, a realist review
+ by Kastiner, et al. [16] which sought to identify the factors associated with guideline uptake, 
+<insert> Table 5. Satisfaction with the presentation of platform pages [mean (SD)].
+ WHO eTB a
+ (n = 122)
+ Home page 5.6 (1.1)
+ Individual recommendation 5.6 (1.1)
+ List of recommendations 5.5 (1.1)
+ Abbreviations: SD, standard deviation; WHO, World Health Organization; TB,
+ a
+ b
+ Likert-scale from 1 = very dissatisfied to 7 = very satisfied.
+ Equal variances could not be assumed using Levene’s test, degrees of freedom adjusted.
+ https://doi.org/10.1371/journal.pgph.0001166.t005 
+<iend>
+
+ 
+<section> WHO TB a 
+<section> MD (95% CI)
+ 
+<section> (n = 122) 
+<section> p value
+ 
+<section> 4.6 (1.8) 
+<section> 1.0 (0.7, 1.4) b
+ 
+<section> < 0.001
+ 
+<section> 5.3 (1.3) 
+<section> 0.3 (0.002, 0.6)
+ 
+<section> 0.048
+ 
+<section> 5.3 (1.3) 
+<section> 0.2 (-0.1, 0.5) b
+ 
+<section> 0.214
+ 
+<section> tuberculosis; MD, mean difference; SE, standard error.
+ 
+<section> found that effective communication of content, including simple, clear and persuasive lan-
+ guage, improved the implementability of guidelines by stakeholders.
+ This trial expands on the methods of previous RCTs used to evaluate the presentation of
+ guideline information, specifically, comparing new GRADE SoF tables to conventional for-
+ mats. These studies also evaluated the outcomes of participant understanding, accessibility,
+ satisfaction and preference [9,11,12]. Akl, et al. [17] found that participants demonstrated a
+ better understanding of strength of recommendations and quality of evidence when this infor-
+ mation was presented as symbols, rather than numbers. Carrasco-Labra, et al. [9] and Vand-
+ vik, et al. [12] identified that stakeholders preferred the presentation of risk differences over
+ absolute risk estimates, as well as the inclusion of narrative statements to supplement numeri-
+ cal data. Similar, to our trial, these studies objectively evaluated perceptions of new to conven-
+ tional formats to identify areas of improvement.
+ This study had several strengths. First, we used a randomised design reported in accordance
+ with the CONSORT statement on randomised trials, which reduces the risk of confounding,
+ selection and reporting bias (S1 Table) [18,19]. Second, we used several previously validated
+ outcomes from similar trials [9–12]. Third, we gathered feedback from diverse group of stake-
+ holders, thus improving the generalizability of findings using a carefully developed approach
+ to presenting recommendations [6]. Nevertheless, the snowball recruitment strategy through
+ established guideline networks may limit the generalizability in potential users. This study has
+ some additional limitations. First, the ability to blind participants was limited, as some may
+ have been aware of eTB development. We consider this probability to be small, as the main
+ publication and awareness campaigns began after the majority of participants had been
+ recruited. Our pre-planned a priori interim analysis that coincided with publication of the eTB
+ platform did not suggest differences in the results before and after these campaigns (S3 File).
+ Second, data were collected using an online survey and, thus, there was limited control over
+ the environment in which the survey was performed. Third, participants often claimed to be
+ part of more than one stakeholder group (e.g., a healthcare provider involved in research), but
+ they were required to select just one for stratification. Fourth, we did not power our trial to
+ conclusively evaluate results by participant strata. Fifth, some of the secondary outcomes
+ showed mean effects that were below the minimal important difference (MID) although the
+ of the effects crossed the MID. Despite these small effects, a proportion of users would still
+ experience benefit from the eTB platform presentation related to these secondary outcomes
+ [20]. Furthermore, to improve the presentation on the eTB platform, we have made additional
+ changes to the final presentation on the eTB RecMap and our new eCOVID RecMap that cata-
+ logues recommendations related to COVID-19 guidelines [21]. 
+<section> Tuberculosis guideline recommendations developed by the WHO assist stakeholders in
+ making evidence-informed decisions on TB prevention, diagnosis, treatment, and care [2,3].
+ According to the Guidelines International Network (G-I-N) and the National Institute for
+ Health and Care Excellence (NICE), stakeholder engagement is important to ensuring that
+ guideline products are feasible and acceptable to end-users [22,23]. This study engaged stake-
+ holders in evaluating the presentation of recommendations through the outcomes of accessi-
+ bility, understanding, and satisfaction, which are surrogates for the correct implementation
+ evidence in practice. Thus, our findings suggest that the new WHO eTB RecMap will help
+ stakeholders make evidence-informed decisions on TB in support of the WHO End TB strat-
+ egy [2]. This study demonstrates that RCTs may be used to compare stakeholder feedback on
+ guideline platforms. Future studies should seek to explain the findings of this trial through
+ qualitative and user testing techniques, such as the study by Rosenbaum, et al. for SoF tables
+ [10]. Furthermore, additional trials should focus on specific stakeholder groups, such as
+ patients and the public, to determine optimal ways to present recommendations. There are
+ three trials underway that test the use of plain language recommendations presented as part
+ a recommendation map for COVID-19 (https://clinicaltrials.gov/ct2/show/NCT05358990).
+ In conclusion, the new WHO eTB RecMap [6,7] improved the usability of WHO TB rec-
+ ommendations and supporting evidence for stakeholders of interest. Our findings support the
+ continued use, promotion, and quality improvement of WHO eTB. Researchers should con-
+ sider the use of RCTs to evaluate stakeholder feedback on guideline presentation in the future.
+ The RecMap approach has been used for COVID-19 (covid19.recmap.org and who.covid19.
+ recmap.org) and is being implemented by the PanAmerican Health Organization across all
+ guidelines that use the GRADE approach (https://bigg-rec.bvsalud.org/en). This trial provides
+ some evidence that this may be a wise decision.
+ 
+<section> Supporting information
+ 
+<section> S1 Table. CONSORT checklist.
+ 
+<section> (PDF)
+ 
+<section> S1 File. Trial protocol.
+ 
+<section> (PDF)
+ 
+<section> S2 File. Consent, survey, and recruitment details.
+ 
+<section> (PDF)
+ 
+<section> S3 File. Interim and per-protocol analysis details.
+ 
+<section> (PDF)
+ 
+<section> Acknowledgments
+ 
+<section> The development of the eTB RecMap was funded by the WHO.
+ 
+<section> Author Contributions
+ 
+<section> Conceptualization: Micayla Matthews, Tamara Lotfi, Nancy Santesso, Mark Loeb, Dominik
+ Mertz, Holger J. Schünemann.
+ 
+<section> Formal analysis: Micayla Matthews, Tamara Lotfi.
+ 
+<section> Investigation: Thomas Piggott, Holger J. Schünemann.
+ 
+<section> Methodology: Micayla Matthews, Tamara Lotfi, Nancy Santesso, Mark Loeb, Dominik Mertz,
+ Zain Chagla, Anisa Hajizadeh, Bart Dietl, Holger J. Schünemann. 
+<section> Resources: Tamara Lotfi, Thomas Piggott, Holger J. Schünemann.
+ 
+<section> Software: Tamara Lotfi, Anisa Hajizadeh, Bart Dietl, Holger J. Schünemann.
+ 
+<section> Supervision: Nancy Santesso, Mark Loeb, Dominik Mertz, Zain Chagla, Holger J.
+ Schünemann.
+ 
+<section> Validation: Holger J. Schünemann.
+ 
+<section> Visualization: Bart Dietl.
+ 
+<section> Writing – original draft: Micayla Matthews.
+ 
+<section> Writing – review & editing: Micayla Matthews, Tamara Lotfi, Nancy Santesso, Mark Loeb,
+ Dominik Mertz, Zain Chagla, Anisa Hajizadeh, Thomas Piggott, Bart Dietl, Holger J.
+ Schünemann.
+ 
+<section> References
+ 
+<section> World Health Organization. Global Tuberculosis Report 2020. 2020. Available from: https://www.who.
+ int/publications/i/item/9789240013131.
+ World Health Organization. WHO End TB Strategy. 2015. Available from: https://www.who.int/teams/
+ global-tuberculosis-programme/the-end-tb-strategy.
+ Falzon D, Schünemann HJ, Harausz E, González-Angulo L, Lienhardt C, Jaramillo E, et al. World
+ Health Organization treatment guidelines for drug-resistant tuberculosis, 2016 update. Eur Respir J.
+ 2017; 49(3): 1602308. https://doi.org/10.1183/13993003.02308-2016 PMID: 28331043
+ Moberg J, Oxman AD, Rosenbaum S, Schünemann HJ, Guyatt G, Flottorp, S, et al. The GRADE Evi-
+ dence to Decision (EtD) framework for health system and public health decisions. Health Res Policy
+ Syst. 2018; 16(1): 45. https://doi.org/10.1186/s12961-018-0320-2 PMID: 29843743
+ Alonso-Coello P, Oxman AD, Moberg J, Brignardello-Petersen R, Akl EA, Davoli M, et al. GRADE Evi-
+ dence to Decision (EtD) frameworks: a systematic and transparent approach to making well informed
+ healthcare choices. 2: Clinical practice guidelines. BMJ. 2016; 353: i2089 https://doi.org/10.1136/bmj.
+ 
+<section> i2089 PMID: 27365494
+ Hajizadeh A, Lotfi T, Falzon D, Mertz D, Nieuwlaat R, Gebreselassie N, et al. Recommendation map-
+ ping of the World Health Organization’s guidelines on tuberculosis: A new approach to digitizing and
+ presenting recommendations. J Clin Epidemiol. 2021; 134: 138–149. https://doi.org/10.1016/j.jclinepi.
+ 
+<section> 2021.02.009 PMID: 33762142
+ World Health Organization. eTB Guidelines: Database of recommendations for TB prevention and care.
+ 
+<section> Available from: https://tuberculosis.evidenceprime.com/.
+ Schünemann HJ, Wiercioch W, Brozek J, Etxeandia-Ikobaltzeta I, Mustafa RA, Manja V, et al. GRADE
+ Evidence to Decision (EtD) frameworks for adoption, adaptation, and de novo development of trustwor-
+ thy recommendations: GRADE-ADOLOPMENT. J Clin Epidemiol. 2017; 81: 101–110. https://doi.org/
+ 10.1016/j.jclinepi.2016.09.009 PMID: 27713072
+ Carrasco-Labra A, Brignardello-Petersen R, Santesso N, Neumann I, Mustafa RA, Mbuagbaw L, et al.
+ Comparison between the standard and a new alternative format of the Summary-of-Findings tables in
+ 
+<section> Cochrane review users: study protocol for a randomized controlled trial. Trials. 2015; 16(1):
+ https://doi.org/10.1186/s13063-015-0649-6 PMID: 25873338
+ Rosenbaum SE, Glenton C, Nylund HK, Oxman AD. User testing and stakeholder feedback contributed
+ to the development of understandable and useful Summary of Findings tables for Cochrane reviews.
+ Clin Epidemiol. 2010; 63(6): 607–19. https://doi.org/10.1016/j.jclinepi.2009.12.013 PMID: 20434023
+ Yepes-Nuñez JJ, Morgan RL, Mbuagbaw L, Carrasco-Labra A, Chang S, Hempel S, et al. Two alterna-
+ tives versus the standard Grading of Recommendations Assessment, Development and Evaluation
+ (GRADE) summary of findings (SoF) tables to improve understanding in the presentation of systematic
+ review results: a three-arm, randomised, controlled, non-inferiority trial. BMJ Open. 2018; 8(1):
+ e015623. https://doi.org/10.1136/bmjopen-2016-015623 PMID: 29362242
+ Vandvik PO, Santesso N, Akl EA, You J, Mulla S, Spencer FA, et al. Formatting modifications in
+ GRADE evidence profiles improved guideline panelists comprehension and accessibility to information.
+ A randomized trial. J Clin Epidemiol. 2012; 65(7): 748–55. https://doi.org/10.1016/j.jclinepi.2011.11.
+ 
+<section> 013 PMID: 22564503 
+<section> Streiner DL, Norman GR. Health measurement scales: A practical guide to their development and use.
+ Third edition. Oxford (UK): Oxford University Press; 2003. p.
+ 
+<section> Fearns N, Kelly J, Callaghan M, Graham K, Loudon K, Harbour R, et al. What do patients and the public
+ know about clinical practice guidelines and what do they want from them? A qualitative study. BMC
+ Health Serv Res. 2016; 16(74). https://doi.org/10.1186/s12913-016-1319-4 PMID: 27121606
+ Santesso N, Morgano GP, Jack SM, et al. Dissemination of Clinical Practice Guidelines: A Content
+ Analysis of Patient Versions. Med Decis Mak Int J Soc Med Decis Mak. 2016; 36(6): 692–702. https://
+ doi.org/10.1177/0272989X16644427 PMID: 27091380
+ 
+<section> Kastner M, Bhattacharyya O, Hayden L, Makarski J, Estey E, Durocher L, et al. Guideline uptake is
+ influenced by six implementability domains for creating and communicating guidelines: a realist review.
+ J Clin Epidemiol. 2015; 68(5): 498–509. https://doi.org/10.1016/j.jclinepi.2014.12.013 PMID: 25684154
+ Akl EA, Maroun N, Guyatt G, Oxman, AD, Alonso-Coello P, Vist GE, et al. Symbols were superior to
+ numbers for presenting strength of recommendations to health care consumers: a randomized trial. J
+ Clin Epidemiol. 2007; 60(12): 1298–1305. https://doi.org/10.1016/j.jclinepi.2007.03.011 PMID:
+ 
+<section> 17998085
+ 
+<section> Moher D, Hopewell S, Schulz KF, Montori V, Gøtzche PC, Devereaux PJ, et al. CONSORT 2010 Expla-
+ nation and Elaboration: updated guidelines for reporting parallel group randomised trials. BMJ. 2010;
+ 340: c869. https://doi.org/10.1136/bmj.c869 PMID: 20332511
+ 
+<section> Hopewell S, Clarke M, Moher D, Wager E, Middleton P, Altman DG, et al. CONSORT for reporting ran-
+ domised trials in journal and conference abstracts. Lancet. 2008; 371(9609); 281–3. https://doi.org/10.
+ 1016/S0140-6736(07)61835-2 PMID: 18221781
+ 
+<section> Schünemann HJ, Akl EA, Guyatt GH. Interpreting the results of patient reported outcome measures
+ clinical trials: The clinician’s perspective. Health Qual Life Outcomes. 2006; 4(62). https://doi.org/10.
+ 
+<section> 1186/1477-7525-4-62 PMID: 16973000
+ 
+<section> Lotfi T, Stevens A, Akl EA, Falavigna M, Kredo T, Mathew JL, et al. Getting trustworthy guidelines into
+ the hands of decision-makers and supporting their consideration of contextual factors for implementa-
+ tion globally: recommendation mapping of COVID-19 guidelines. J Clin Epidemiol. 2021; 135:182–186.
+ https://doi.org/10.1016/j.jclinepi.2021.03.034 PMID: 33836255
+ 
+<section> Guidelines International Network. G-I-N PUBLIC Toolkit: Patient and Public Involvement in Guidelines
+ —Guidelines International Network. Available from: https://g-i-n.net/working-groups/gin-public/toolkit.
+ Jarrett L, Patient Involvement Unit (PIU). A report on a study to evaluate patient/carer membership of
+ the first NICE Guideline Development Groups. National Institute for Health and Care Excellence (NICE)
+ 2004. Available from: https://www.nice.org.uk/media/default/About/NICE-Communities/Public-
+ involvement/Public-involvement-programme/PIU-GDG-evaluation-report-2004-1.pdf.

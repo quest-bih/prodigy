@@ -1,0 +1,959 @@
+
+<section> Effectiveness of intermittent
+ 
+<section> and treatment for the
+ 
+<section> in pregnancy: a cluster
+ 
+<section> in India
+ 
+<section> Irene Kuepfer, ‍ 1 Neelima Mishra, 2 Jane Bruce,
+ Anupkumar R Anvikar, 2 Sanghamitra Satpathi,
+ Atis Muehlenbachs, 4 Jayne Webster, 1 Feiko
+ Neena Valecha, 2 Daniel Chandramohan 1
+ 
+<section> To cite: Kuepfer I, Mishra N, Abstract
+ 
+<section> Bruce J, et al. Effectiveness Background The control of malaria in pregnancy (MiP) in
+ of intermittent screening India relies on testing women who present with symptoms
+ and treatment for the control or signs suggestive of malaria. We hypothesised that
+ 
+<section> of malaria in pregnancy: a
+ intermittent screening and treatment for malaria at each
+ 
+<section> cluster randomised trial in
+ India. BMJ Global Health antenatal care visit (ISTp) would improve on this approach
+ 2019;4:e001399. doi:10.1136/ and reduce the adverse effects of MiP.
+ bmjgh-2019-001399 Methods A cluster randomised controlled trial comparing
+ ISTp versus passive case detection (PCD) was conducted
+ 
+<section> Handling editor Soumitra Sudip in Jharkhand state. Pregnant women of all parities with a
+ Bhuyan gestational age of 18–28 weeks were enrolled. Women in
+ the ISTp group were screened with a rapid diagnostic test
+ 
+<section> ► Additional material is (RDT) for malaria at each antenatal clinic visit and those in
+ 
+<section> published online only. To view,
+ the PCD group were screened only if they had symptoms
+ 
+<section> please visit the journal online
+ (http://​dx.​doi.​org/​10.​1136/​ or signs suggestive of malaria. All RDT positive women
+ bmjgh-​2019-​001399). were treated with artesunate/sulfadoxine–pyrimethamine.
+ The primary endpoint was placental malaria, determined
+ by placental histology, and the key secondary endpoints
+ Received 14 January 2019 were birth weight, gestational age, vital status of the
+ Revised 16 May 2019 newborn baby and maternal anaemia.
+ Accepted 25 May 2019 Results Between April 2012 and September 2015, 6868
+ women were enrolled; 3300 in 46 ISTp clusters and 3568
+ in 41 PCD clusters. In the ISTp arm, 4.9% of women were
+ tested malaria positive and 0.6% in the PCD arm. There
+ was no difference in the prevalence of placental malaria in
+ the ISTp (87/1454, 6.0%) and PCD (65/1560, 4.2%) groups
+ (6.0% vs 4.2%; OR 1.34, 95% CI 0.78 to 2.29, p=0.29) or
+ in any of the secondary endpoints.
+ 
+<section> Conclusion ISTp detected more infections than PCD, but
+ monthly ISTp with the current generation of RDT is unlikely
+ to reduce placental malaria or impact on pregnancy
+ outcomes. ISTp trials with more sensitive point-of-care
+ diagnostic tests are needed.
+ © Author(s) (or their
+ 
+<section> employer(s)) 2019. Re-use
+ 
+<section> permitted under CC BY-NC. No
+ 
+<section> commercial re-use. See rights
+ 
+<section> and permissions. Published by
+ BMJ. Introduction
+ For numbered affiliations see Malaria in pregnancy (MiP) is a major public
+ 
+<section> end of article. health problem, contributing substantially
+ to morbidity and mortality among pregnant
+ 
+<section> Correspondence to
+ Dr Irene Kuepfer; women, developing fetuses and newborn
+ ​irene.​kuepfer@ l shtm.​ac. u k babies in endemic areas. 1 2 For the control of
+ 
+<section> screening
+ 
+<section> control of malaria
+ 
+<section> randomised trial
+ 
+<section> 1 Vinit Mishra,
+ 3 Prativa Behera,
+ terKuile, 5 Brian Greenwood,
+ 
+<section> Key questions
+ 
+<section> What is already known?
+ 
+<section> ► In low malaria transmission areas, testing pregnant
+ women for malaria when they present with clinical
+ symptoms (passive case detection (PCD) is the stan-
+ dard of care.
+ 
+<section> ► In high malaria transmission areas, intermittent pre-
+ ventive treatment with sulfadoxine–pyrimethamine
+ (IPT-SP) during monthly antenatal visits is the stan-
+ dard of care to reduce the consequences of malaria
+ in pregnancy (MiP).
+ 
+<section> ► It has been shown that intermittent screening with a
+ rapid diagnostic test and treatment for malaria (ISTp)
+ during antenatal visits is not inferior to IPT-SP.
+ 
+<section> What are the new findings?
+ 
+<section> ► In a low transmission area in India, 70% of MiP was
+ asymptomatic and ISTp detected more cases of MiP
+ than PCD (4.9% vs 0.6%, p<0.001), but had no im-
+ pact on the risk of placental malaria or other adverse
+ birth outcomes.
+ 
+<section> What do the new findings imply?
+ 
+<section> ► Given that the majority of women infected with ma-
+ laria remain asymptomatic, ISTp during antenatal
+ care could be considered in low transmission areas
+ in India.
+ 
+<section> MiP, the WHO recommends effective treat-
+ ment, insecticide-treated bed nets (ITNs)
+ and, in areas of moderate-to-high malaria
+ transmission of sub-Saharan Africa, intermit-
+ tent preventive treatment with sulfadoxine–
+ pyrimethamine (IPTp-SP). 3 IPTp-SP is given
+ at each antenatal clinic (ANC) attendance
+ after the first trimester, regardless of whether
+ the recipient is infected with malaria or not. In
+ low transmission settings, the use of IPTp-SP
+ is questionable because the benefit/risk
+ ratio of this intervention is likely to be low. 
+<section> In such areas, intermittent screening for malaria during
+ antenatal visits using a rapid diagnostic test (RDT) and
+ treating test-positive women with an effective antimalarial
+ drug (ISTp) is a potential alternative option. 5
+ In India, malaria transmission is relatively low and
+ varies markedly between different ecological settings.
+ A study conducted in the eastern state of Jharkhand in
+ 2007 showed that placental parasitaemia, measured by
+ RDT or placental smear microscopy, ranged from 0.8%
+ in urban areas to 3.6% in rural areas. However, it is esti-
+ mated that 28.2 million pregnancies are at risk of Plas-
+ modium falciparum (Pf) malaria annually in India, and
+ thus even a low prevalence can translate into substantial
+ mortality and morbidity. 8 Especially pregnant women
+ from tribal populations and residents of forested hilly
+ areas are known to be at higher risk of infection. 9 The
+ current national policy in India for the control of MiP
+ is to test pregnant women who present with symptoms
+ or signs suggestive of malaria with a blood slide and to
+ treat confirmed cases using quinine in the first trimester
+ and artesunate (AS)+SP or artemether+lumefantrine in
+ the second or third trimester. The use of a long-lasting
+ insecticide-treated net (LLIN) during pregnancy is
+ recommended in high-risk areas, but there is no specific
+ distribution system for LLINs linked with antenatal care
+ services. The effectiveness of the current policy of passive
+ case detection (PCD) of MiP in low transmission settings
+ is unknown. We hypothesised that ISTp would be more
+ effective than PCD in detecting MiP and that effective
+ treatment of infected individuals would reduce the risk
+ of placental malaria and adverse birth outcomes. In this
+ paper, we report a study that evaluated the effectiveness
+ of ISTp delivered through the routine antenatal care
+ system in a moderate-to-low transmission setting in India.
+ 
+<section> Methods
+ 
+<section> Study design
+ 
+<section> This was a two-arm, cluster randomised controlled trial
+ that compared ISTp versus the current policy of PCD
+ for malaria during antenatal care visits. The primary
+ endpoint of the trial was placental malaria and the
+ secondary endpoints were low birth weight, adverse fetal
+ birth outcomes and maternal anaemia. The unit of rando-
+ misation was sub-health centres (SHC). Women were
+ assigned to the ISTp arm or the PCD arm depending on
+ the allocation of the SHC, where they attended ANC.
+ 
+<section> Study area and population
+ The study was conducted in Jharkhand state, India, in
+ an area surrounded by forest, where malaria transmis-
+ sion peaks during the rainy season from June to October.
+ The study was implemented within the primary health-
+ care delivery system in four subdistricts, two from Gumla
+ district (Kamdara and Basia) and two from Simdega
+ district (Bano and Kolebira). The population in each of
+ the four subdistricts ranged from 63 775 to 80 10 Each
+ subdistrict has one primary health centre (PHC) and
+ several SHCs, those have at least one auxiliary midwife
+ (ANM) who provides antenatal care. In Basia subdistrict,
+ there is a government hospital and the St. Ursula mission
+ hospital, which served as the study hospital. Delivery
+ services are available in all PHCs and in approximately
+ 75% of SHCs. Emergency obstetric care, including
+ caesarean section, is provided in the government and
+ mission hospital in Basia.
+ 
+<section> Sample size and randomisation
+ During an observational study done in 2007, 4% of
+ women attending ANC at St. Ursula mission hospital had
+ peripheral malaria parasitaemia. 11 Assuming the risk of
+ placental malaria would be higher than that of periph-
+ eral parasitaemia, we expected that 7.5% of women in the
+ PCD arm would have placental malaria, and we hypothe-
+ sised that ISTp would reduce the risk of placental malaria
+ by 25%. In order to detect a 25% reduction in the risk
+ of placental malaria with 80% power, a two-sided alpha
+ of 0.05 and a design effect of 1.25, the study needed
+ clusters per arm and 100 women per cluster, total 6200
+ women. Women attending an individual SHC for ante-
+ natal care comprised a cluster. As there were 80 SHCs in
+ the four study subdistricts and it was uncertain whether
+ it would be possible to enrol 100 women per cluster in
+ 2 years, we randomised all 80 SHCs (40:40). We stratified
+ the SHCs by subdistricts and then assigned numbers to
+ randomise them to two groups.
+ As the enrolment rate was slower than expected, and
+ eight SHCs had to be closed due to security concerns,
+ we replaced them with 15 maternal and children care
+ centres (Anganwadi centres) in the subdistrict of Bano
+ in July 2012.
+ 
+<section> Trial procedures
+ All staff who provided antenatal and delivery care in
+ the study SHCs, PHCs and hospital, and the project
+ field staff were trained to follow trial standard operating
+ procedures and to complete study case record forms.
+ All eligible pregnant women attending at an ANC at the
+ study SHCs were enrolled in the study after informed
+ consent had been obtained. Pregnant women of all pari-
+ ties with a gestational age of 18–28 weeks were eligible for
+ enrolment. Pregnant women with a chronic illness were
+ excluded. All study participants were given free health
+ and delivery services at the study hospital, PHCs or SHCs.
+ At enrolment, women in both groups received routine
+ antenatal care. A finger prick blood sample was taken
+ for the assessment of haemoglobin (HemoCue, Angel-
+ holm, Sweden) and for the collection of a filter paper
+ sample. Syphilis and HIV testing were only done if part of
+ routine ANC. In the ISTp group, all women had an RDT
+ (SD Bioline Malaria Ag Pf/Pv (histidine-rich-protein
+ (HRP-2)/plasmodium lactate dehydrogenase (pLDH),
+ www.​Standardia.​com)), a blood smear and filter paper
+ sample (Whatman Grade 3 Chr) collected, irrespective
+ of a history of fever, at each ANC attendance. In the
+ PCD group, only women with a history of fever within 
+<insert> Number of clusters
+ Number of women
+ ISTp PCD
+ N (%) N (%)
+ 3300 3568
+ 93 (6–224) 92 (10–264)
+ Age group, years
+  <20 170 (5.2) 176 (4.9)
+  20–24 1326 (40.2) 1405 (39.3)
+  25–29 1159 (35.2) 1241 (34.8)
+  30+ 644 (19.5) 746 (21.0)
+  Primi- 1218 (36.9) 1334 (37.4)
+  Secondi- 955 (28.9) 973 (27.3)
+  Multi- 1127 (34.1) 1261 (35.4)
+  None 977 (29.6%) 976 (27.4)
+  Primary 1128 (34.2) 1253 (35.1)
+  Secondary 706 (21.4) 771 (21.7)
+  Higher 488 (14.8) 567 (15.9)
+ 2368 (71.9) 2860 (80.3)
+ 338 (13.8) 400 (13.7)
+  Poorest 670 (20.4) 700 (19.7)
+  2 718 (21.8) 696 (19.6)
+  3 669 (20.6) 657 (18.5)
+  4 679 (20.4) 694 (19.5)
+  Least poor 556 (16.9) 810 (22.8)
+ 34 (1.0) 27 (0.76)
+  70 to <110 2800 (84.9) 2912 (81.8)
+  ≥110 465 (14.1) 623 (17.5)
+  Yes 279 (8.5) 182 (5.1)
+  RDT done 3163 (95.8) 108 (3.0)
+  RDT positive 101 (3.2) 10 (9.3)
+ 84 (2.7)
+ 9 (0.3)
+ 7 (6.5)
+ 2 (2.0)
+ Gravidity
+ Education
+ Women per cluster
+  Median (range)
+ Slept under net previous
+ night
+  Yes
+ Slept under an ITN
+ previous night
+  Yes
+ Socioeconomic quintile
+ Haemoglobin (g/L)
+  <70
+ History of fever
+ (<48 hours) or
+ temperature>37.5°C
+ RDT species
+ specification
+   P. falciparum
+   P. vivax
+ Continued
+ Table 1 Comparison of baseline characteristics between
+ the two study groups 
+<iend>
+
+ 
+<insert> Figure 1 Consort chart. ANC, antenatal clinic; IST,
+ intermittent screening and treatment; PCD, passive case
+ detection. 
+<iend>
+
+ 
+<insert> Continued
+ ISTp PCD
+ N (%) N (%)
+ 8 (0.3) 1 (0.9)
+ PCR done 2620 (79.4) 2706 (75.8)
+ PCR positive
+ Symptomatic malaria*
+ 155 (5.9)
+ 30 (29.7)
+ 114 (4.2)
+ 10 (100.0)
+  Mixed infection (Pf+Pv)
+ Table 1
+ *RDT positive plus history of fever (<48 hours) or
+ temperature>37.5°C.
+ ISTp, intermittent screening and treatment during pregnancy; ITN,
+ insecticide-treated bed net; P., Plasmodium; PCD, passive case
+ detection; Pf, Plasmodium falciparum; Pv, Plasmodium vivax; RDT,
+ rapid diagnostic test. 
+<iend>
+
+ the past 48 hours or an axillary temperature >37.5°C were
+ tested for malaria with an RDT and had a blood slide and
+ filter paper sample collected. Women who had a positive
+ RDT for malaria were treated with AS+SP according to
+ the national treatment guidelines. The treatment was
+ provided by the ANMs but was not supervised. Women
+ in both groups were advised to attend ANCs regularly
+ every month, and to attend a study health facility if they
+ had any illness in between scheduled ANC visits. In both
+ groups, if a woman presented with a history of fever in
+ between scheduled ANC visits, they had an RDT done, 
+<insert> Table 2 Prevalence of placental malaria among women who had an institutional delivery within the study area
+ IST PCD
+ N (%) N (%)
+ Adjusted
+ OR*
+ 1469
+ 1405 (95.6)
+ 1584
+ 1540 (97.2)
+ –
+ –
+ P. falciparum 28 (2.0) 21 (1.4) –
+ P. vivax 2 (0.1) 6 (0.4)
+ Total number of women
+ Placental blood RDT done
+ 95% CI P value
+ Placental blood RDT result
+ Mixed infection (Pf+Pv) 2 (0.1) 4 (0.3)
+ Placental histology done 1454 (98.9) 1560 (98.5)
+ Any placental malaria 87 (6.0) 65 (4.2) 1.34 0.78 to 2.29 0.29
+ Active infection 30 (2.1) 27 (1.7) 1.03 0.51 to 2.10 0.93
+  Acute infection 11 (0.8) 8 (0.5) 1.16 0.41 to 3.26 0.78
+  Chronic infection
+ Past infection
+ 19 (1.3)
+ 57 (2.4)
+ 19 (1.2)
+ 38 (3.9)
+ 1.04
+ 1.54
+ 0.43 to 2.51
+ 0.88 to 2.68
+ 0.93
+ 0.12
+ *All models were adjusted for gravidity, use of a net/ITN, severe anaemia at enrolment, fever at enrolment and socioeconomic status.
+ IST, intermittent screening and treatment; ITN, insecticide-treated bed net; P., Plasmodium; PCD, passive case detection; Pf, Plasmodium
+ falciparum; Pv, Plasmodium vivax; RDT, rapid diagnostic test. 
+<iend>
+
+ blood slide and filter paper sample collected and, if the
+ RDT was positive, they were treated with AS+SP.
+ At delivery, birth outcomes, birth weight, and the
+ Ballard score of the newborn were assessed, and blood
+ samples for haemoglobin, microscopy and PCR were
+ collected from both groups of women. A placental biopsy
+ and blood smear were taken from all women who deliv-
+ ered in the study hospital or had an institutional delivery
+ within the study area. If a woman delivered at home, or
+ in an institution other than the study health facilities,
+ delivery outcomes were assessed ideally within 7 days
+ of delivery. Study participants were followed once every
+ 2 months up to 6 months postpartum to assess the health
+ status of the mother and her child. A verbal autopsy (VA)
+ was done for all maternal deaths using the WHO 2016
+ VA questionnaire 12 and the cause of death was assigned
+ using the InterVA4 algorithm.
+ 
+<section> Laboratory methods
+ Blood slides were fixed and stained with Giemsa. All
+ peripheral and placental blood slides were read twice
+ by study laboratory technicians. For quality control of
+ microscopy, experienced laboratory technicians from the
+ National Institute of Malaria Research, Rourkela Field
+ Station, re-read all slides reported positive by the study
+ laboratory technicians and 50% of negative slides in year
+ 1, 30% in year 2 and 10% in year
+ Placental biopsies (2.5×2.5×1 cm) were collected by
+ ANMs at the time of delivery, stored in 10% buffered
+ formalin containers and taken to the study hospital. On a
+ weekly basis, the biopsies were taken to a private pathology
+ laboratory in Ranchi where they were processed into
+ paraffin tissue blocks. From each block, a set of two slides
+ was prepared, one H&E and one Giemsa stained. The
+ slides were read by two pathologists (SS and PB) based at
+ the Ispat General Hospital, Rourkela, who were trained
+ on-site by a malaria histopathology expert (AM) from the
+ Centers for Disease Control, Atlanta. All histopatholog-
+ ical slides were read by both pathologists and slides with
+ discordant results were read again by both pathologists to
+ reach a final diagnosis by consensus. The expert pathol-
+ ogist read 100% of slides that were classified as placental
+ malaria positive and 30% of slides classified as negative
+ by the site pathologists. In case of discordant readings,
+ the expert’s opinion was deemed to be the final reading.
+ If malaria parasites were seen in the biopsy, it was classi-
+ fied as active placental malaria. Active placental malaria
+ was further classified as acute if there were no malaria
+ pigments in fibrin and chronic if there were malaria
+ pigments in fibrin. If there were no parasites, but there
+ were malaria pigments in fibrin, the sample was classified
+ as past placental malaria.
+ Filter paper samples taken at enrolment and at delivery
+ (peripheral and placental blood) were tested by PCR in
+ a laboratory in Bangalore, India (Ecron Acunova). DNA
+ extraction was done using the QIAamp Blood DNA Mini
+ Extraction Kit from Qiagen. Real-time (RT) PCR assays,
+ using the Taqman principle, were done with the Genome
+ RT PCR Malaria Kit from Genome Diagnostics.
+ 
+<section> Data management and analysis
+ Data were double entered and verified using the EpiData
+ V.3.1 software (​ www.​ epidata.​ dk). Data processing and
+ analysis were done using the statistical software package
+ STATA V.IC14.0.
+ All women who were enrolled and for whom informa-
+ tion on pregnancy outcomes was available were included
+ in the analysis (intention-to-treat analysis). Principal
+ components analysis was used to obtain a socioeconomic
+ score based on household characteristics and assets. This 
+<insert> IST PCD
+ N (%) N (%)
+  Total number of women 1776 2391
+  RDT done 1663 (93.6) 30 (1.3)
+   P. falciparum 24 (1.4) 1 (3.3)
+   P. vivax 8 (0.5) 4 (13.3)
+  Mixed infection (Pf+Pv)
+  Symptomatic malaria†
+ 5 (0.3)
+ 10 (27.0) 5 (100.0)
+  Total number of women 1507
+  RDT done 856 (92.3) 23 (1.5)
+   P. falciparum 12 (1.4) 1 (4.3)
+   P. vivax 4 (0.5) 7 (30.4)
+  Mixed infection (Pf+Pv)
+  Symptomatic malaria†
+ 2 (0.2)
+ 6 (33.3) 8 (100.0)
+  Total number of women
+  RDT done 394 (96.3)
+ P value*
+ ANC visit
+ <0.001
+  RDT result
+ ANC visit
+ <0.001
+  RDT result
+ ANC visit
+  RDT result
+ <0.001
+ –
+   P. falciparum 3 (0.8)
+   P. vivax 1 (0.3)
+  Mixed infection (Pf+Pv)
+  Symptomatic malaria†
+ 3 (0.8)
+ 4 (57.1)
+ *Pearson’s design-based test.
+ †RDT positive plus history of fever (<48 hours) or
+ temperature>37.5°C.
+ ANC, antenatal clinic; IST, intermittent screening and treatment;
+ P., Plasmodium; PCD, passive case detection; Pf, Plasmodium
+ falciparum; Pv, Plasmodium vivax; RDT, rapid diagnostic test.
+ Table 3 Prevalence of RDT-positive malaria at ANC visits
+ 2, 3 and 4 
+<iend>
+
+ was then divided into quintiles to create household socio-
+ economic groups. Baseline characteristics at enrolment
+ were summarised and compared between the ISTp and
+ PCD groups.
+ Pearson’s design-based test was used to compare
+ the prevalence of RDT, blood slide and PCR-positive
+ malaria across study arms. To account for clustering
+ by village in primary outcomes, a logistic random
+ effects model was used to compare the odds of each
+ outcome in the ISTp versus PCD groups. A quadra-
+ ture check was applied to the model postestimation to
+ assess the reliability of the model. An estimate of the
+ between-cluster SD was obtained for each outcome
+ from the models and assessed using a likelihood
+ ratio test. Women’s characteristics and measurements
+ at enrolment were compared for women who had a
+ biopsy and those who did not using Pearson’s design-
+ based test.
+ 
+<section> Patient and public involvement statement
+ The patients were not involved in the design, recruitment
+ or conduct of the study. The results were disseminated to
+ all relevant stakeholders, including the trial participants.
+ 
+<section> Results
+ 
+<section> Study population
+ Between April 2012 and September 2014, we enrolled
+ 3300 women in 46 clusters in the ISTp group and 3568
+ women in 41 clusters in the PCD group (figure 1). The
+ total number of clusters and women in the two groups
+ differed as some SHCs had to be closed due to secu-
+ rity concerns. The cluster size ranged from 6 to 224 in
+ the ISTp group and from 10 to 264 in the PCD group
+ (table 1). The median size of the clusters was, however,
+ similar in the two groups (93 and 92 women per cluster
+ in ISTp and PCD, respectively). The proportion of
+ women who attended ANC visits 2 and 3 was overall low
+ (61% and 35%) but even lower in the ISTp group than
+ in the PCD group (54% vs 67% for visit 2 (p=0.01) and
+ 28% vs 42% for visit 3 (p=0.02)) (figure 1). However,
+ the percentage of women who were seen at delivery was
+ similar in each group (45%). Almost all women were seen
+ at the final 6-month postpartum home visit (99.8%). The
+ last delivery and postnatal follow-up took place in April
+ and October 2015, respectively.
+ There were no significant differences in the distribu-
+ tion of age, gravidity, education, socioeconomic status
+ and use of an ITN between the two trial groups (table 1).
+ The proportion of women who reported a history of fever
+ in the past 48 hours or temperature >37.5°C was slightly
+ higher at enrolment in the ISTp group (8.5% vs 5.1%).
+ The proportion of women who had received antimalarial
+ treatment from the private sector at any time during their
+ current pregnancy was high, 7.8% in the ISTp group and
+ 7.1% in the PCD group.
+ 
+<section> Prevalence of malaria at enrolment
+ At enrolment, 95.8% of women in the IST group were
+ tested with an RDT and 3.2% were malaria positive; 2.7%
+ had a Pf, 0.3% a P. vivax (Pv) and 0.3% a mixed infec-
+ tion (Pf/Pv) (table 1). According to national policy, RDT
+ testing was restricted to those who had symptoms sugges-
+ tive of malaria in the PCD group and only 3% of women
+ had an RDT done at enrolment; of those 6.5% were tested
+ positive for Pf, 2% for Pv and 0.9% for a mixed infection
+ (Pf/Pv). The proportion of women who were tested with
+ PCR at enrolment was comparable between the groups
+ (79.4% vs 75.8%) and the prevalence of PCR positive
+ malaria did not differ between the two groups (5.9% vs
+ 4.2%, p=0.30) (table 1). Reasons for women having no
+ PCR result at enrolment include that the sample was
+ either not collected or that the dried blood spots were
+ too small for the amount needed for DNA extraction.
+ 
+<section> Primary endpoint—placental malaria
+ Placental biopsies were available from 1454 (44.0%)
+ women from the ISTp group and from 1560 (43.7%) 
+<insert> IST PCD
+ n/N (%) n/N (%)
+ Total number of women
+ Birth weight†
+ 3300 3568
+  ≥2.5 kg 2590/2971 (87.2) 2771/3177 (87.2)
+  <2.5 kg 381/2971 (12.8)
+  Preterm‡
+  Miscarriage§ or stillborn
+ Adjusted OR* 95% CI P value
+ 406/3177 (12.8) 1.07 0.86 to 1.34 0.56
+ 515/3181 (16.2) 645/3432 (18.8) 1.31 0.81 to 2.10 0.27
+ 106/3240 (3.3) 107/3452 (3.1) 1.12 0.72 to 1.74 0.62
+  Died<24 hours 30/3131 (0.96) 28/3351 (0.84) 1.44 0.45 to 4.62 0.54
+  Died<1 week 49/3133 (1.6) 46/3406 (1.4) 0.96 0.51 to 1.81 0.89
+ Gestational age at birth†
+ Maternal Hb status†
+  Hb≥11 g/dL 186 (12.6) 236 (14.7)
+  Hb<11 g/dL 1278 (86.7) 1347 (84.1) 1.17 0.83 to 3.91 0.14
+  Hb<7 g/dL 25 (0.7) 19 (1.1) 1.71 0.64 to 4.54 0.28
+ 34 (2.4)
+ 62 (4.6)
+ 25 (1.6)
+ 52 (3.7)
+ 1.30
+ 1.06
+ 0.67 to 2.52
+ 0.59 to 1.90
+ 0.44
+ 0.84
+ Maternal peripheral† blood
+  RDT positive
+  PCR positive
+ *All models were adjusted for gravidity, use of a net/ITN, severe anaemia at enrolment, fever at enrolment and socioeconomic status.
+ †The total number of babies for each outcome varies due to missing values. Hb was only measured at delivery.
+ ‡Gestational age<37 weeks.
+ §Spontaneous expulsion of fetus before 24 weeks of gestation.
+ Hb, haemoglobin; IST, intermittent screening and treatment; ITN, insecticide-treated bed net; PCD, passive case detection; RDT, rapid
+ diagnostic test.
+ Table 4 Delivery and birth outcomes 
+<iend>
+
+ from the PCD group. The proportion of women with
+ active or past placental malaria was lower than expected
+ in the study cohort overall (5.0%, 152/3014). There was
+ no statistically significant difference in the proportion
+ of women with any placental malaria between the two
+ groups (6% vs 4.2%) or the proportion of women with
+ active (2.1% vs 1.7%) or past (2.4% vs 3.9%) placental
+ malaria (table 2). The ORs of active and past placental
+ malaria in the IST group compared with the PCD group
+ were 1.03 (95% CI 0.51 to 2.10, p=0.93) and 1.54 (95%
+ CI 0.88 to 2.68, p=0.12), respectively. There were 87 cases
+ of placental malaria in the IST group (table 2). However,
+ only 10 of these cases had a positive RDT anytime during
+ the ANC visits. Thus, the sensitivity of the RDT to detect
+ placental malaria was 11.5% (10/87).
+ The risk of MiP varied substantially between clusters.
+ The intracluster correlation coefficient for any placental
+ malaria was 0.177 (95% CI 0.066 to 0.395). The number
+ of placental malaria infections ranged from 0 to 9 per
+ cluster; 29 clusters (14 ISTp and 15 PCD clusters) had no
+ cases of placental malaria and five clusters had >7 cases of
+ placental malaria (3 ISTp and 2 PCD clusters). However,
+ the high and low placental malaria clusters were distrib-
+ uted equally between the two groups.
+ 
+<section> Secondary endpoints
+ The proportions of women in the ISTp group tested with
+ an RDT during ANC visits 2, 3 and 4 were 1663/1776
+ (93.6%), 856/930 (92.3%) and 394/409 (96.3%),
+ respectively, and among those tested, 2.2%, 2.1% and
+ 1.7%, respectively, were positive for malaria (table 3). In
+ the PCD group, the proportions of women suspected to
+ have malaria and tested with an RDT at ANC visits 2 and 3
+ were 30/2391 (1.3 %) and 23/1507 (1.5%), respectively,
+ and among those tested, 16.7% and 34.8%, respectively,
+ were positive for malaria; no women had an RDT at the
+ 
+<section> ANC visit
+ The proportion of women who had RDT-positive
+ malaria at least once during ANC and treated with
+ AS+SP across all ANC visits was significantly higher in the
+ ISTp arm 4.9% (163/3300) than in the PCD arm 0.6%
+ (23/3568) (p<0.001).
+ Of all women tested RDT positive, 71% (132/186) had
+ Pf malaria, 19% (35/186) Pv malaria and 10% (19/186)
+ a mixed infection (Pf/Pv).
+ There was no statistically significant difference in low
+ birth weight, preterm delivery, stillbirth or early neonatal
+ death between the two groups (table 4).
+ 
+<section> Safety endpoints
+ There were 27 maternal deaths (death during preg-
+ nancy, delivery or within 42 days of delivery); 12 in the
+ ISTp group and 15 in the PCD group (table 5). There
+ were four maternal deaths attributable to malaria (two
+ in each group) determined by verbal autopsy. However,
+ there were no cases of severe malaria admitted to the
+ study hospital. 
+<insert> Number of maternal deaths
+ Causes of death
+ ISTp PCD
+ N (%) N (%)
+  Malaria 2 (16.7) 2 (13.3)
+  Pneumonia 1 (8.3) 2 (13.3)
+  Anaemia 2 (13.3)
+  HIV 1 (8.3) 1 (6.6)
+  Pulmonary TB 1 (8.3)
+  Sepsis 1 (6.6)
+  Meningitis 1 (8.3)
+  Pregnancy-induced
+ hypertension/eclampsia
+ 4 (26.6)
+  Other cardiac diseases 2 (13.3)
+  Epilepsy 1 (8.3)
+  Cirrhosis 1 (8.3)
+  Reproductive tract neoplasm 1 (8.3)
+  Obstetric haemorrhage 1 (8.3) 1 (6.6)
+  Suicide
+  Undetermined
+ 1 (8.3)
+ 1 (8.3)
+ ISTp, intermittent screening and treatment during pregnancy;
+ PCD, passive case detection; TB, tuberculosis.
+ Table 5 Distribution of causes of maternal deaths in the
+ two comparison groups 
+<iend>
+
+ 
+<section> Discussion
+ 
+<section> ISTp detected more women with MiP compared with the
+ current policy of PCD. However, ISTp did not reduce
+ the risk of placental malaria or adverse birth outcomes
+ compared with PCD. The possible reasons for ISTp not
+ having an effect on placental malaria are: (i) only 28.2%
+ of women were tested with an RDT at least three times
+ during pregnancy in the IST group as they did not attend
+ ANC frequently, (ii) the current generation of RDTs
+ does not detect the majority of cases of placental malaria
+ and (iii) a high proportion of women from both arms
+ were treated with antimalarials from the private health
+ sector. The most recent National Family Health Survey
+ conducted in 2015–2016 reported that only 24.7% of
+ mothers in rural Jharkhand had at least four ANC visits
+ and 5.5% received full antenatal care, defined as mothers
+ who had at least four ANC visits, one tetanus toxoid
+ injection and at least 100 days of iron–folic acid tablets
+ or syrup intake. 15 The strengthening of ANC services
+ would improve the effectiveness of interventions deliv-
+ ered as part of the existing ANC services and support
+ the achievement of universal coverage. As part of ANC, a
+ formal bed net distribution system for pregnant women
+ and children would support the control of MiP. In our
+ cohort, only 13.8% of pregnant women slept under an
+ ITN the previous night.
+ The sensitivity of RDTs in pregnancy is lower than in
+ non-pregnant populations. 16 17 In our study, the observed
+ sensitivity of RDTs to detect histology-confirmed
+ placental malaria was 11.5%, similar to the sensitivity of
+ 10% reported from Indonesia 18 but lower to the sensi-
+ tivity reported from Africa (73%, 95% CI 64 to 81).
+ In low malaria transmission settings, where both symp-
+ tomatic and asymptomatic patients should be identi-
+ fied and treated, the conventional RDTs miss important
+ proportions of infections. New combination, highly
+ sensitive RDTs able to identify all infected individuals,
+ will support countries implementing active case detec-
+ tion strategies, 20 but their use and added benefit for
+ malaria case management in pregnancy will need to be
+ assessed. 21 The high maternal mortality ratio (437/100
+ 000) and perinatal mortality rate (39.3/1000) observed
+ in the study cohort suggest that the risk factors for
+ adverse birth outcomes in this community are multifac-
+ torial, including a weak health system. Health systems
+ challenges in Jharkhand also include insufficient access
+ to care and potential treatment effects might be diluted
+ by the high background rates of care seeking and treat-
+ ment from the private sector. 22
+ The prevalence of placental malaria in this study
+ (4.2%) was lower than expected but is comparable to
+ the prevalence of placental parasitaemia detected by
+ impression smear (3.6%) in the study area in 2007.
+ Placental biopsy samples were available from <50% of the
+ study participants because it was not feasible to collect
+ placental samples when a woman delivered at home, in a
+ private health facility, in a facility outside the study area
+ or had an abortion. However, there was no difference in
+ the baseline characteristics between the women with and
+ without placental biopsy samples (online supplemen-
+ tary table 1). Thus, missing placental biopsy samples is
+ unlikely to bias the comparison between the groups.
+ In Africa, the proportion of women detected to have
+ malaria by routine screening is much higher on first
+ attendance at an ANC than on subsequent visits, 5 making
+ single screening at first ANC attendance a potentially
+ useful approach to malaria control. This was not the case
+ in this study, where RDT-positive malaria ranged 2%–3%
+ at all ANC visits. ISTp was shown to be inferior to IPTp
+ with SP in several African settings. 6 However, in areas with
+ perennial transmission and SP resistance, in east Africa, it
+ was shown that IPTp-SP was superior to ISTp in reducing
+ adverse birth outcomes.
+ A cross-sectional survey of children aged <5 years in the
+ study area in 2014 showed a malaria prevalence of 5.2%,
+ 6.4% and 8.5% by blood slide, RDT and PCR, respec-
+ tively. Even though malaria transmission is very low in
+ the study setting, the majority of women with MiP were
+ asymptomatic, suggesting that PCD does not appropri-
+ ately control MiP. RDT-positive malaria ranged 2%–3%
+ at all ANC visits in this low transmission setting and ISTp
+ implemented through the routine ANC system was able
+ to detect more malaria cases compared with PCD. PCD
+ misses detection of a significant proportion of pregnant
+ women carrying parasite and screening as part of ANC
+ could be a useful approach to detect and treat MiP.
+ However, with the current generation of RDTs and low 
+<section> attendance of repeat ANC visits, monthly ISTp is unlikely
+ to have a major impact on the risk of placental malaria
+ or adverse pregnancy outcomes relative to the existing
+ 
+<section> strategy that relies largely on PCD.
+ 
+<section> This study has several limitations: (i) the prevalence of
+ MiP was lower than expected, (ii) the cluster sizes varied
+ considerably and (iii) a large proportion of placental
+ samples could not be collected. Despite these limitations,
+ the results allow to conclude that intermittent screening
+ and treatment during ANC is a useful approach to detect
+ and treat MiP. Any potential ISTp screening strategy in
+ India would need to consider the individual risk of Pf
+ and/or Pv infection. Screening of pregnant women at
+ their first ANC visit and re-testing only positive cases at
+ subsequent visits would be a possible approach. Women
+ tested positive are also more likely to return for repeat
+ 
+<section> ANC visits. The feasibility and cost implications, espe-
+ cially in combination with conventional or new highly
+ sensitive RDTs, would, however, need to be assessed.
+ 
+<section> Author affiliations
+ Department of Disease Control, London School of Hygiene & Tropical Medicine
+ Faculty of Infectious and Tropical Diseases, London, UK
+ National Institute of Malaria Research, New Delhi, India
+ Department of Pathology, Ispat General Hospital, Rourkela, India
+ Office of Infectious Diseases, National Foundation for the Centers for Disease
+ Control and Prevention Inc, Atlanta, Georgia, USA
+ Department of Clinical Sciences, Liverpool School of Tropical Medicine, Liverpool,
+ 
+<section> UK
+ 
+<section> Acknowledgements We would like to acknowledge the efforts of late Dr
+ Bharatendu Shahi who was instrumental in setting up this trial. We also
+ acknowledge the support and co-operation of the cardinal Telesphore Toppo and
+ Ranchi Catholic Archdiocese. We thank Sr Jacintha Baxa and all the sisters of
+ the St. Ursula mission hospital for all their support and efforts in the conduct and
+ management of this trial. We thank Dr Celine Kujur for her continuous support
+ in the initial stages of the trial, Sagya Singh (Malaria Control Programme Office,
+ Ranchi), Dr Manoj Das (NIMR Field Unit, Ranchi), Dr K Pradhan (NIMR Field Unit,
+ Rourkela), Varma (Mahadevi Birla Hospital, Ranchi), Dr Bara (DMO, Gumla), Dr
+ Khanna (DMO Simdega) and the population of Basia, Kolibera, Simdega and Bano.
+ 
+<section> Contributors DC, JW, FtK and BG conceived the idea of the study. DC, JW,
+ NV, AKA and NM initiated the study design. ISK, DC and VM helped with the
+ implementation. ARM, SS and PB were doing the histopathological evaluation of
+ the placental biopsies. JB provided statistical expertise in clinical trial design and
+ was conducting the primary statistical analysis. All the authors contributed to the
+ refinement of the study protocol and approved the final manuscript.
+ 
+<section> Funding The study was funded by the Malaria in Pregnancy Consortium, which
+ was funded through a grant from the Bill & Melinda Gates Foundation to the
+ Liverpool School of Tropical Medicine.
+ 
+<section> Competing interests None declared.
+ 
+<section> Patient consent for publication Not required.
+ 
+<section> Ethics approval Ethics Committee London School of Hygiene & Tropical Medicine,
+ 6017 Institutional Ethics Committee of the National Institute of Malaria Research,
+ Delhi, India (approval was given without specific ID) and Government of India,
+ Ministry of Tribal Affairs (approval was given without specific ID).
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data availability statement Data are available on reasonable request.
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which
+ permits others to distribute, remix, adapt, build upon this work non-commercially,
+ and license their derivative works on different terms, provided the original work is
+ properly cited, appropriate credit is given, any changes made indicated, and the
+ use is non-commercial. See: http://​creativecommons.​org/​licenses/​by-​nc/​4.​0/.
+ 
+<section> References
+ 1. Takem EN, D'Alessandro U. Malaria in pregnancy. Mediterr J
+ Hematol Infect Dis 2013;5:e2013010.
+ 2. Desai M, ter Kuile FO, Nosten F, et al. Epidemiology and burden of
+ malaria in pregnancy. Lancet Infect Dis 2007;7:93–104.
+ 3. WHO Recommendations (2015) Intermittent screening and treatment
+ in pregnancy and the safety of ACTs in the first trimester Global
+ Malaria Programme.
+ 4. Chico RM, Cano J, Ariti C, et al. Influence of malaria transmission
+ intensity and the 581G mutation on the efficacy of intermittent
+ preventive treatment in pregnancy: systematic review and meta-
+ analysis. Trop Med Int Health 2015;20:1621–33.
+ 5. Tagbor H, Bruce J, Agbo M, et al. Intermittent screening and
+ treatment versus intermittent preventive treatment of malaria in
+ pregnancy: a randomised controlled non-inferiority trial. PLoS One
+ 2010;5:e14425.
+ 6. Desai M, Hill J, Fernandes S, et al. Prevention of malaria in
+ pregnancy. Lancet Infect Dis 2018;18:e119–32.
+ 7. Anvikar AR, Kuepfer I, Mishra V, et al. Efficacy of two artemisinin-
+ based combinations for the treatment of malaria in pregnancy in
+ 
+<section> India: a randomized controlled trial. Malar J 2018;17:246.
+ 8. Dellicour S, Tatem AJ, Guerra CA, et al. Quantifying the number of
+ pregnancies at risk of malaria in 2007: a demographic study. PLoS
+ Med 2010;7:e1000221.
+ 9. Diamond-Smith N, Singh N, Gupta RKD, et al. Estimating the burden
+ of malaria in pregnancy: a case study from rural Madhya Pradesh,
+ India. Malar J 2009;8:24.
+ 10. India Go. Census India 2011.
+ 11. Hamer DH, Singh MP, Wylie BJ, et al. Burden of malaria in
+ pregnancy in Jharkhand State, India. Malar J 2009;8:210.
+ 12. Nichols EK, Byass P, Chandramohan D, et al. The WHO 2016
+ verbal autopsy instrument: An international standard suitable for
+ automated analysis by InterVA, InSilicoVA, and Tariff 2.0. PLoS Med
+ 2018;15:e1002486.
+ 13. Byass P, Chandramohan D, Clark SJ, et al. Strengthening
+ standardised interpretation of verbal autopsy data: the new
+ InterVA-4 tool. Glob Health Action 2012;5:19281–8.
+ 14. Bulmer JN, Rasheed FN, Francis N, et al. Placental malaria. I.
+ Pathological classification. Histopathology 1993;22:211–8.
+ 15. International Institute for Population Sciences (IIPS) (2016-16)
+ National Family Health Survey (NFHS-4), India, 2015-16: Jharkhand.
+ 16. Kattenberg JH, Ochodo EA, Boer KR, et al. Systematic review and
+ meta-analysis: rapid diagnostic tests versus placental histology,
+ microscopy and PCR for malaria in pregnant women. Malar J
+ 2011;10:321.
+ 17. Kattenberg JH, Tahita CM, Versteeg IAJ, et al. Evaluation of antigen
+ detection tests, microscopy, and polymerase chain reaction
+ for diagnosis of malaria in peripheral blood in asymptomatic
+ pregnant women in Nanoro, Burkina Faso. Am J Trop Med Hyg
+ 2012;87:251–6.
+ 18. Ahmed R JRet al. Intermittent preventive treatment (IPT), intermittent
+ screening and treatment (IST) and single screening and treatment
+ (SST) with dihydroartemisinin-piperaquine for the control of malaria
+ in pregnancy in Indonesia: A cluster-randomised, open-label
+ superiority trial. Lancet Infect Dis 2019.
+ 19. Williams JE, Cairns M, Njie F, et al. The Performance of a Rapid
+ Diagnostic Test in Detecting Malaria Infection in Pregnant Women
+ and the Impact of Missed Infections. Clin Infect Dis 2016;62:837–44.
+ 20. Campillo A, Daily J, González IJ. International survey to identify
+ diagnostic needs to support malaria elimination: guiding the
+ development of combination highly sensitive rapid diagnostic tests.
+ 
+<section> Malar J 2017;16:385.
+ 21. Vásquez AM, Medina AC, Tobón-Castaño A, et al. Performance of a
+ highly sensitive rapid diagnostic test (HS-RDT) for detecting malaria
+ in peripheral and placental blood samples from pregnant women in
+ Colombia. PLoS One 2018;13:e0201769.
+ 22. De Costa A, Johannson E. By 'default or design'? The expansion
+ of the private health care sector in Madhya Pradesh, India. Health
+ Policy 2011;103:283–9.
+ 23. Witter S, Govender V, Ravindran TKS, et al. Minding the gaps: health
+ financing, universal health coverage and gender. Health Policy Plan
+ 2017;32(suppl_5):v4–12.
+ 24. Desai M, Gutman J, L'lanziva A, et al. Intermittent screening
+ and treatment or intermittent preventive treatment with
+ dihydroartemisinin-piperaquine versus intermittent preventive
+ treatment with sulfadoxine-pyrimethamine for the control of
+ malaria during pregnancy in western Kenya: an open-label,
+ three-group, randomised controlled superiority trial. Lancet
+ 2015;386:2507–19.

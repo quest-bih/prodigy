@@ -1,0 +1,1742 @@
+
+<section> To cite: Waiswa P, Mpanga F,
+ Bagenda D, et al. Child health
+ and the implementation of
+ Community and District-­
+ management Empowerment for
+ 
+<section> Scale-­up (CODES) in Uganda:
+ a randomised controlled
+ 
+<section> trial. BMJ Global Health
+ 2021;6:e006084. doi:10.1136/
+ 
+<section> bmjgh-2021-006084
+ 
+<section> Handling editor Seye Abimbola
+ 
+<section> ► Additional supplemental
+ material is published online only.
+ To view, please visit the journal
+ online (http://​dx. d oi.​org/​10.​
+ 1136/ b mjgh-​2021- 06084).
+ 
+<section> Received 26 April 2021
+ 
+<section> Accepted 21 May 2021
+ 
+<section> © Author(s) (or their
+ employer(s)) 2021. Re-­use
+ permitted under CC BY.
+ Published by BMJ.
+ For numbered affiliations see
+ end of article.
+ 
+<section> Correspondence to
+ 
+<section> Professor Peter Waiswa;
+ ​pwaiswa@​musph. a c.​ug
+ 
+<section> Child health and the
+ 
+<section> Community and District-­management
+ 
+<section> Empowerment for Scale-­up
+ 
+<section> Uganda: a randomised
+ 
+<section> Peter Waiswa, 1,2,3,4 Flavia Mpanga, 5 Danstan
+ Rornald Muhumuza Kananura, 1,2,7 Thomas
+ Dorcus Kiwanuka Henriksson, 3 Theresa Diaz,
+ Anne Ruhweza Katahoire, 10 Eric Ssegujja, 1
+ 
+<section> Stefan Swartling Peterson 1,3,12
+ 
+<section> ABSTRACT
+ 
+<section> Introduction Uganda’s district-­level administrative units
+ buttress the public healthcare system. In many districts,
+ however, local capacity is incommensurate with that required
+ to plan and implement quality health interventions. This study
+ investigates how a district management strategy informed by
+ local data and community dialogue influences health services.
+ 
+<section> Methods A 3-­year randomised controlled trial (RCT) comprised
+ of 16 Ugandan districts tested a management approach,
+ Community and District-­management Empowerment for Scale-­
+ up (CODES). Eight districts were randomly selected for each
+ of the intervention and comparison areas. The approach relies
+ on a customised set of data-­driven diagnostic tools to identify
+ and resolve health system bottlenecks. Using a difference-­in-­
+ differences approach, the authors performed an intention-­to-­
+ treat analysis of protective, preventive and curative practices
+ for malaria, pneumonia and diarrhoea among children aged
+ and younger.
+ 
+<section> Results Intervention districts reported significant net increases
+ in the treatment of malaria (+23%), pneumonia (+19%)
+ and diarrhoea (+13%) and improved stool disposal (+10%).
+ Coverage rates for immunisation and vitamin A consumption
+ saw similar improvements. By engaging communities and
+ district managers in a common quest to solve local bottlenecks,
+ CODES fostered demand for health services. However, limited
+ fiscal space-­constrained district managers’ ability to implement
+ solutions identified through CODES.
+ 
+<section> Conclusion Data-­driven district management interventions
+ can positively impact child health outcomes, with clinically
+ significant improvements in the treatment of malaria,
+ pneumonia and diarrhoea as well as stool disposal. The
+ findings recommend the model’s suitability for health systems
+ strengthening in Uganda and other decentralised contexts.
+ 
+<section> Trial registration number ISRCTN15705788.
+ 
+<section> BACKGROUND
+ Global progress in reducing under-­ five
+ mortality remains uneven. 1–5 In sub-­Saharan
+ Africa and other regions plagued with
+ 
+<section> implementation of
+ 
+<section> (CODES) in
+ 
+<section> controlled trial
+ 
+<section> Bagenda,
+ 
+<section> O’Connell,
+ 9 Florence Ayebare,
+ Anthony Mbonye,
+ 
+<section> Summary box
+ 
+<section> What is already known?
+ 
+<section> ► Four factors constrain performance to improve child
+ health: a lack of supportive policies; an inability to
+ prioritise high-­ impact, evidence-­ based interven-
+ tions; weak or broken supply chains for curative
+ and preventative commodities and the absence of
+ community-­based health promotion and care.
+ 
+<section> ► Limited managerial capacity hinders the planning
+ and management of decentralised health services,
+ and communities lack the means to demand or
+ demonstrate accountability for even the most basic
+ health services.
+ 
+<section> What are the new findings?
+ 
+<section> ► We provide evidence on how the data-­ driven
+ decision-­making at different levels of implemen-
+ tation improved access to the required preventive
+ and curative services for children in a decentralised
+ resource-­limited setting.
+ 
+<section> What do the new findings imply?
+ 
+<section> ► The findings show that it is possible to create a sys-
+ tem for district health managers to use data, act on
+ these data and provide quantitative proof of impact
+ on health outcomes. However, to be effective, it is
+ important to bridge the limited fiscal space that the
+ district managers have to enable them to implement
+ the identified solutions.
+ 
+<section> persistently high rates of child mortality,
+ four factors constrain performance: a lack
+ of supportive policies; an inability to priori-
+ tise high-­ impact, evidence-­ based interven-
+ tions; inadequate skilled professional; weak
+ or broken supply chains for curative and
+ preventative commodities and the absence
+ of community-­ based health promotion and
+ care. 3–5 Compounding the complex mix of 
+<section> challenges is the recent trend towards decentralisation.
+ Central governments are devolving select managerial
+ functions to district-­level administrators who are often
+ unprepared and ill-­equipped to assume responsibility for
+ critical health services. 6–10 As limited managerial capacity
+ hinders the planning and management of decentralised
+ health services, dissatisfaction intensifies among health
+ system users and workers. 11–13 Circumstances deteriorate
+ further still when communities lack the means to demand
+ or demonstrate accountability for even the most basic
+ health services. 10 In Uganda, a multiyear initiative called
+ Community and District-­ management Empowerment
+ for Scale-­up (CODES) aimed to enhance the govern-
+ ment’s ability to combat diarrhoea, pneumonia and
+ malaria—three of the country’s leading causes of child
+ mortality. Building on the analytic framework pioneered
+ by Tanahashi, CODES contributed to the identification
+ of the source and potential remedy for major health
+ system bottlenecks. 14 Like Tanahashi’s diagnostic model,
+ CODES emphasised ‘effective coverage’, meaning the
+ quantity of quality interventions needed to achieve the
+ desired health impact. 15 The CODES model identified
+ four determinants of effective service coverage: the
+ enabling environment, supply, demand and the quality of
+ services. Intended to accommodate diverse health system
+ delivery platforms, CODES strived to help managers
+ target resources towards context-­appropriate solutions.
+ Applying bottleneck analysis at district level to key
+ child health interventions, 16 17 together with commu-
+ nity dialogue 18 for social accountability, we designed an
+ randomised controlled trial (RCT) to test the hypothesis
+ that intervention districts would improve the coverage
+ and quality of key protective, preventive and curative
+ indicators for pneumonia, diarrhoea and malaria
+ compared with comparison districts.
+ 
+<section> METHODS
+ The CODES intervention package
+ CODES was designed to diagnose and resolve health
+ system bottlenecks, primarily the challenges related to
+ the district’s management of local health services. The
+ implementation of the intervention was carried out
+ within the district health structure by selected partners
+ (online supplemental table 1) under the management
+ of UNICEF and Ministry of Health. The implementation
+ followed a predesigned and static theory of change or
+ logic framework (online supplemental material 1). The
+ management intervention involved three mutually rein-
+ 
+<section> forcing pillars:
+ pillar 1 consisted of collating, analysing and applying
+ programme and survey data. In each intervention district,
+ the authors conducted three separate annual rounds of
+ lot quality assurance sampling (LQAS) 20 to identify under-
+ performing indicators and underserved populations.
+ Intervention districts used the data to prioritise bottle-
+ necks and identify solutions. The solutions were costed
+ and incorporated in annual district work plans. Districts
+ submitted their completed work plans to relevant bodies
+ for approval, as per normal practice. 21 To facilitate the
+ implementation of locally identified solutions, UNICEF
+ supplemented district budgets with a ‘bottleneck fund’
+ of US$10 000 per district per year.
+ Pillar 2 involved regularly reviewing and, where neces-
+ sary, supporting the implementation of district work
+ plans. District Health Management Teams were encour-
+ aged to monitor implementation regularly, initiating
+ quality improvement efforts within each planning cycle.
+ District scorecards and a mentorship programme facili-
+ tated interdistrict learning.
+ Pillar 3 aimed to stimulate demand for services through
+ community engagement. In each catchment area, 70–100
+ community members joined local leaders to discuss
+ LQAS survey findings, which were summarised in citizen
+ report cards (see online supplemental figure 1). The
+ participatory forums provided community members and
+ healthcare workers with a unique opportunity to build
+ consensus on priority problems and solutions. At the end
+ of the community dialogue, participants prioritised their
+ proposed actions in ‘community contracts’. Community
+ volunteers then monitored and reported on implemen-
+ tation using ‘U-­Report’, an SMS-­based platforms’ local
+ radio stations lent additional momentum to the collective
+ effort, promoting public demand for health services and
+ advocating for the speedy implementation of community
+ contracts.
+ A series of sensitisation meetings introduced CODES
+ to participating districts. Three implementing partners
+ facilitated the meetings: Child Fund International (CFI)
+ and the Liverpool School of Tropical Medicine (LSTM),
+ both focused on the supply side of the intervention and
+ the Advocates Coalition for Development (ACODE),
+ which concentrated on the demand side.
+ Throughout the RCT, district data analysis, district
+ management and community contacts remained
+ unchanged in comparison districts. The results of the
+ LQAS surveys in comparison districts were delivered in
+ reports that had a tabular format.
+ 
+<section> The bottleneck analysis
+ Adapted from Tanahashi, 14 16 the analytic model for
+ health system bottlenecks was applied to assesses six
+ factors when appraising the effective coverage of select
+ health services: (1) availability of essential commodities,
+ (2) availability of human resources, (3) accessibility of
+ distribution points, (4) initial utilisation of the interven-
+ tion, (5) continued usage and (6) the quality of the inter-
+ vention. 19 The bottleneck analysis is normally presented
+ as a graph that cascades across categories such as supply,
+ demand and quality. Each determinant is influenced by
+ its predecessor in a manner that indicates a potential
+ ‘bottleneck’ to be addressed. For the purposes of the
+ CODES RCT, the authors selected tracer interventions
+ from across the spectrum of ‘protect’, ‘prevent’ and
+ ‘treat’. 16 22 While the Excel-­based bottleneck tool used for
+ CODES did not explicitly capture indicators for policies, 
+<section> social norms, budgets and related coverage determinants,
+ these were considered when analysing the root causes of
+ each bottleneck.
+ 
+<section> Study design and district randomisation
+ After an initial assessment of Uganda’s 111 districts, the
+ RCT targeted 16 high-­mortality districts, and eight were
+ randomly selected for each intervention and compar-
+ ison. A sampling frame of 25 districts was selected
+ purposively by UNICEF based on the absolute number
+ of deaths expected for districts, which was obtained by
+ applying regional DHS Infant and child mortality data to
+ the projected district population of children under five.
+ Details of the trial protocol and early implementation are
+ published elsewhere. 4 9 10
+ Prior to randomisation, the authors matched districts
+ based on an index of 20 CHERG-­based child survival
+ indicators. 23 The composite index was weighted based
+ on each indicator’s: level of coverage in the district;
+ impact on child mortality 23 and the proportion of total
+ mortality attributed to a specific cause. 23 Thus, for each
+ district, the index was calculated by summing all 20 child
+ survival indicators and assigning a weight based on the
+ three components. Since the districts in the sampling
+ frame were quite heterogeneous, there was a need to
+ stratify them in order to ensure that randomisation into
+ intervention and control arms would occur within strata
+ that were relatively well ‘balanced’ for fair comparison
+ on some key factors associated with heterogeneity—that
+ is, each randomly selected intervention district would
+ have a corresponding randomly selected control district
+ selected from the same strata—(ie, matched within the
+ strata). Some factors that were in consideration for strati-
+ fying the sampling frame (online supplemental figure 2):
+ 1. Whether this was parent (old) or child (new) district—
+ given that new districts may not have been adequately
+ constituted with human resources and infrastructure.
+ Therefore, controlling for this as best as possible was
+ critical given the intervention’s nature and outcomes
+ of interest.
+ 2. Stratification on the current coverage of key child
+ survival indicators pertaining: to do this, a composite
+ Index was formed using available key child survival in-
+ dicators of pneumonia, diarrhoea, malaria for each of
+ the 25 districts. The Indicator Composite Index was
+ created as follows: inputting current level of coverage
+ indicators for 21 Prevention Protect Treat child sur-
+ vival indicators for Pneumonia, Diarrhoea, Malaria;
+ impact on mortality of each of the indicators; the pro-
+ portion of total mortality attributed to a cause For
+ each district, a composite index was calculated by sum-
+ ming over all the available key child survival indicators
+ the product of these three components. A threshold
+ for this index was used to divide into the sampling
+ frame further in those districts below or above the me-
+ dian threshold.
+ Within the strata (online supplemental figure 2), we
+ randomised districts to intervention: control in 1:1 ratio of
+ intervention going for a homogenous match with respect
+ to the factor indicated. After applying the eligibility
+ criteria, the authors randomly selected eight pairs from
+ the remaining districts. A coin toss determined which
+ of the two districts from each pair would be targeted by
+ the CODES intervention (figure 1). Makerere University
+ remained independent of the study and conducted the
+ randomisation. Descriptive district data are presented in
+ online supplemental table
+ The study districts were not aware of their allocation
+ status to intervention or comparison group.
+ 
+<section> Sample size calculations
+ Sample size computations were based on the baseline
+ for each coverage and quality indicator (see list of key
+ primary outcome indicators) obtained from wave
+ districts (CODES pilot districts) (online supplemental
+ figure 3) and Uganda Demographic Health Surveys
+ 2011 estimates. We assumed 80% power of observing
+ difference; differences of 25%–30% (regarded to be of
+ public health significance) between intervention and
+ control and a 5% significance level. We accounted for
+ a design effect (intracluster correlation (ICC) of cluster
+ randomised design—worst-­ case ICC=0.20). Details on
+ sample size calculation can be found in the implementa-
+ tion protocol.
+ 
+<section> Outcomes
+ 
+<section> As indicated in the implementation logic framework
+ (online supplemental material 1), the primary outcome
+ measures were protective, preventive and curative indica-
+ tors for the effective coverage of pneumonia, diarrhoea
+ and malaria interventions, as described below and in the
+ protocol paper.
+ 
+<section> Protective coverage: exclusive breastfeeding for 6 months
+ and adherence to the recommended schedule of vitamin
+ 
+<section> A supplementation.
+ 
+<section> Preventive indicators: full immunisation (based on stan-
+ dard age-­ specific vaccination) within the first year of
+ life; the standard diphtheria-­pertussis-­tetanus (DPT)
+ indicator; use of long-­ lasting insecticide-­ treated nets;
+ improved water and sanitation and handwashing with
+ soap.
+ 
+<section> Curative indicators: appropriate case management for
+ malaria, pneumonia and diarrhoea symptoms.
+ We also evaluated secondary outcomes, including the
+ 2-­week prevalence of pneumonia, diarrhoea and malaria
+ symptoms among the target under-5-­ year age-­ group.
+ Additional effort was made to document immediate
+ management outcomes such as annual reports that
+ prioritised bottlenecks for pneumonia, diarrhoea and
+ malaria. The study was not designed to measure changes
+ in mortality.
+ 
+<section> Data collection and analysis
+ The data analysis in this manuscript is based on the
+ primary data at baseline between December 2013 and
+ January 2014 and end line data collected between June 
+<section> Figure 1 Trial profile. LQAS, lot quality assurance sampling; SA,
+ and July 2016. The data collection relied on LQAS
+ household surveys in both intervention and compar-
+ ison districts at the baseline, midterm (2 years later and
+ in intervention districts only) and end line, approxi-
+ mately 33 months after the baseline. The participating
+ 16 districts were divided into five supervision areas.
+ 
+<section> sepervision areas.
+ 
+<section> Information from the Uganda Bureau of Statistics 24 facil-
+ itated the random selection of 19 villages from each of
+ the five supervision areas, based on the number of house-
+ holds with probability proportionate to size. Assisted
+ by UNICEF, the Ministry of Health (MOH) and imple-
+ menting partners, the districts were trained on lot quality 
+<section> assurance sampling (LSQA) data collection methodology
+ and were responsible for data collection.
+ A total of 760 individuals from each target group were
+ sampled in both the intervention and control arms,
+ per district in each of the five areas. The household
+ LQAS surveys contained seven target population groups:
+ mothers of children <6 months; mothers of children 6–11
+ months; mothers of children 12–23 months; mothers of
+ children <5 years; mothers of children <5 years with diar-
+ rhoea in the last 2 weeks; mothers of children <5 years
+ with acute respiratory tract infections in the last 2 weeks
+ and mothers of children <5 years with fever in the last
+ 2 weeks. In each village, a random reference household
+ was selected. The next nearest door to this household
+ determined the first and subsequent household from
+ which one interviewee was selected, with a maximum of
+ one respondent per household.
+ Adherence to the planned CODES interventions was
+ assessed against reports from the implementing part-
+ ners (CFI/LSTM and ACODE). Changes in manage-
+ ment behaviour were measured through data obtained
+ from participant observation, in-­depth interviews and an
+ analysis of relevant district documents, including district
+ health plans and implementation reports. 9 10 To evaluate
+ community participation and demand-­side behaviour, we
+ collated data from SMS surveys, LQAS surveys and focus
+ group discussions.
+ Primary analysis relied on an intent-­to-­treat approach.
+ The authors conducted a difference-­of-­differences anal-
+ ysis of indicators between the baseline and end line for
+ the intervention and control districts, adjusting for the
+ cluster randomised design 26 27 and using techniques
+ that included a cluster-­specific and population-­averaged
+ approach to longitudinal data analyses, 28 29 generalised
+ estimating equations and random-­effects logistic regres-
+ sion with analysis of covariance 30 as well as cluster-­
+ adjusted χ 2 tests. 31 ORs and CIs were calculated and are
+ reported here.
+ 
+<section> Costing the CODES project
+ Based on the eight wave one districts, we conducted a
+ costing study to estimate the cost of scaling up the CODES
+ project to all districts in Uganda. Three scenarios were
+ considered for costing of the scale-­up of CODES activities
+ to 115 districts (excluding Kampala). A full description of
+ what these scenarios entail will be published elsewhere.
+ In scenario 1, scale-­up of the CODES package includes
+ all activities of the CODES package as was implemented
+ during the wave 1 pilot phase, excluding costs for oper-
+ ational costs but including minimal costs for technical
+ assistance. In scenario 2, scale-­ up of CODES package
+ includes ‘selected activities’ which are considered crit-
+ ical to strengthening district health systems through
+ improved management and supervision. On the demand
+ side, we included: community dialogues, national advo-
+ cacy campaigns and other materials for dialogues (citizen
+ report cards, poster illustrations and hot-­line cards). On
+ the supply side, we included: Health Facility Quality of
+ Care Assessments, Bottleneck, Casual and Management
+ Analysis workshop, work plan development and routine
+ supervision. We considered the smallest ‘incremental
+ package’ for scenario 3, which includes only activities
+ that are unique to CODES and are not being routinely
+ undertaken already. On the demand side, we consid-
+ ered community dialogues and provision of materials to
+ support community dialogues. On the supply side, we
+ only considered: bottleneck analysis, Causal Analysis and
+ Management Analysis workshops.
+ 
+<section> Study ethics and registration
+ The Uganda National Council for Science and Tech-
+ nology granted ethical clearance for the study (Ref:
+ SS2548). All participating districts were implementing
+ the Uganda Child Survival Strategy, in accordance with
+ the Health Sector Development Plan. 32 After explaining
+ the study’s objectives and procedures, the authors
+ obtained the informed consent of each participating
+ individual. Confidentiality was maintained throughout
+ the study. A Study Steering Committee chaired by the
+ Ministry of Health convened the study team quarterly to
+ facilitate policy linkages.
+ 
+<section> Role of the funding source
+ Both the Bill & Melinda Gates Foundation and the
+ UNICEF Fund for USA were involved in periodic progress
+ reviews. Neither funding source influenced the design of
+ the RCT nor any aspect of the data collection, analysis or
+ interpretation of the study’s findings. The corresponding
+ author had full access to all the data in the study and
+ responsible for submitting the study’s findings for publi-
+ cation.
+ 
+<section> Patient and public involvement statement
+ We involved the district health team, patients, community
+ groups and national and international stakeholders in
+ the design of the project. Throughout implementation,
+ the patients were consulted through the U-­ reporting
+ platform for their feedback on service delivery. The
+ district health team was responsible for collecting data
+ and disseminating results that informed their planning
+ and implementation. We also had a national advisory
+ committee whose role was to regularly guide the imple-
+ mentation, diffusion and sustainability of the implemen-
+ tation strategies.
+ 
+<section> RESULTS
+ 
+<section> Figure 1 shows the trial profile of the intervention. Socio-
+ demographic characteristics of the samples are detailed
+ in online supplemental table
+ 
+<section> The intervention dose delivered
+ Online supplemental table 2 shows the intervention
+ dose delivered in the trial. All interventions were deliv-
+ ered as planned in terms of numbers. However, the table
+ also shows that most activities were on the supply side,
+ especially at the district level and in health facilities, with 
+<section> relatively few on the demand side through community
+ 
+<section> end
+ 
+<section> dialogues.
+ 
+<section> and
+ 
+<section> Management outcomes
+ All intervention districts developed work plans that prior- baseline
+ itised bottlenecks in managing pneumonia, diarrhoea
+ and malaria. Each intervention district received US$10
+ 000 to supplement existing budgets. Even with the supple- the
+ mental funding, many participating districts lacked the at
+ funds to implement prioritised interventions. 33 Variations areas
+ in management behaviours during implementation were
+ observed across interventions and sites. We observed that districts
+ some districts were more receptive than others, especially
+ for the newly formed districts compared with those that
+ had been in existence for some years (new vs old). It also comparison
+ emerged that districts whose management teams were
+ fully constituted performed better at adoption compared
+ with those with partial composition or ones with managers
+ not in substantive positions (acting vs substantive). It also and
+ emerged that districts with longer exposure (wave 0 and intervention
+ wave 1) performed better than those exposed to the
+ intervention only during wave 1 (wave 1 vs wave 0+wave
+ 1). We also observed differences in the choice of inter-
+ ventions for funding using the slush fund to supplement
+ 
+<section> in
+ 
+<section> existing budgets. 
+<section> indicators
+ 
+<section> Effect on protective coverage indicators
+ Table 1 shows the effect of CODES on the indicators
+ for protective interventions. Positive, statistically signifi- protective
+ cant effects were registered for the recommended use of
+ vitamin A 9+9·4%) among children 6–11 months. The
+ effects on vitamin A use in the older child and on exclu-
+ 
+<section> quality
+ 
+<section> sive breastfeeding were not statistically significant.
+ 
+<section> Effects on preventive coverage indicators for
+ Immunisation and use of Insecticide-treated bed nets (ITNs) ORs
+ Table 2 shows the effects on measures for preventive
+ coverage. There were positive, not statistically significant and
+ effects on DPT3 (net improvement 7·8%) and full immu-
+ 
+<section> differences
+ 
+<section> nisation (net improvement 7·3%) coverage. Overall,
+ however, coverage levels remained below national and
+ WHO targets. Effective bed net usage remained largely
+ unchanged following the intervention. However, the
+ 
+<section> in
+ 
+<section> percentage of households with drinking water from difference
+ safe sources appears to have increased by a net of 7·4%
+ (CI −1·6 to 16·5) in favour of intervention districts. Net
+ safe stool disposal increased significantly, with a rise of
+ +10·4% (CI 4·9 to 15·9). coverage,
+ 
+<section> Effect on coverage indicators for curative intervention
+ Table 3 summarises the net effect of the implementation
+ 
+<section> of
+ 
+<section> by comparing the two-­study arms baseline and end-­line Percentage
+ results. Recommended treatment for malaria increased
+ by 6·7% in intervention districts and fell by 16·6% in
+ comparison districts, resulting in a net change of 23·3%
+ (CI 9·1 to 37·5). Adherence to the recommended treat-
+ ment of pneumonia symptoms increased by 11% in inter- 1
+ 
+<section> Table
+ 
+<section> vention districts and declined by 8% in comparison areas, line
+ indicating a statistically significant 19·2% (CI 7·9 to 30·6)
+ 
+<section> value**
+ 
+<section> 0.54 
+<section> 0.016 
+<section> 0.65 
+<section> 0.62 
+<section> 0.23 
+<section> 0.82
+ 
+<section> P
+ 
+<section> CI)**
+ 
+<section> (0.8–1.5) 
+<section> (1.1–1.9) 
+<section> (0.7–1.1) 
+<section> (0.5–1.7)
+ 
+<section> (95% (0.7–1.6) 
+<section> (0.6–1.3)
+ 
+<section> OR 1.1 1.4 1.1 
+<section> 0.9 
+<section> 0.9 0.9
+ 
+<section> value*
+ 
+<section> 0.383 
+<section> 0.095 
+<section> 0.398 
+<section> 0.541 
+<section> 0.992 
+<section> 0.603
+ 
+<section> P
+ 
+<section> −6.4,+51.1
+ 6.7 
+<section> −1.8,20.6 
+<section> −6.5,11.9 
+<section> −10.1,10.0 
+<section> −10.2,16.5
+ 
+<section> % 
+<section> CI
+ 
+<section> in % −16.5,
+ 
+<section> change 95
+ 
+<section> DID DID 
+<section> −4.9 
+<section> +9.4 
+<section> +4.4 
+<section> +2.7 
+<section> −0.05 
+<section> +3.4
+ 
+<section> value†
+ 
+<section> 0.47 
+<section> 0.037 
+<section> 0.69 
+<section> 0.89 
+<section> 0.14 
+<section> 0.52
+ 
+<section> P
+ 
+<section> (67.5–76.5) 
+<section> (61.7–72.1) 
+<section> (63.5–73.2) 
+<section> (18.9–27.5) 
+<section> (67.5–78.1)
+ 
+<section> Comparison
+ 
+<section> (76.3–85.9)
+ 
+<section> n=757 
+<section> n=760 
+<section> n=760 
+<section> n=760 
+<section> n=760 
+<section> n=760
+ 
+<section> 72.3 67.1 68.6 22.9 73.2 81.6
+ 
+<section> (69.3–79.3) 
+<section> (69.8–78.6) 
+<section> (60.4–71.9) 
+<section> (19.1–28.7) 
+<section> (62.6–71.7)
+ 
+<section> Intervention
+ 
+<section> (73.1–83.1)
+ 
+<section> Endline
+ 
+<section> n=760 
+<section> n=762 
+<section> n=762 
+<section> n=759 
+<section> n=759 
+<section> n=759
+ 
+<section> 74.6 74.4 66.4 23.6 67.3 78.5
+ 
+<section> value* 
+<section> analysis.
+ 
+<section> 0.13 
+<section> 0.65 
+<section> 0.11 
+<section> 0.52 
+<section> 0.20 
+<section> 0.08
+ 
+<section> P adjusted
+ 
+<section> (52.2–70.3) 
+<section> (60.4–75.6) 
+<section> (64.7–73.6) 
+<section> (21.1–30.4) 
+<section> (60.9–72.8) 
+<section> equation.
+ 
+<section> Comparison 
+<section> design
+ (77.2–85.9)
+ 
+<section> n=850 
+<section> n=848 
+<section> n=850 
+<section> n=852 
+<section> n=852 
+<section> n=852 
+<section> cluster estimating
+ 61.7 68.9 69.3 25.5 67.1 81.9 adjusted.
+ 
+<section> and
+ generalized
+ (64.6–72.8) 
+<section> (60.7–71.7) 
+<section> (55.8–69.3) 
+<section> (19.5–27.9) 
+<section> (54.7–67.6) 
+<section> average
+ design
+ 
+<section> Intervention
+ 
+<section> (68.9–81.0)
+ 
+<section> Baseline 
+<section> n=665 
+<section> n=664 
+<section> n=665 
+<section> n=665 
+<section> n=665 
+<section> n=665 
+<section> cluster indicator GEE,
+ 68.9 66.4 62.8 23.5 61.4 75.5
+ 
+<section> 0–5 health 
+<section> attendant 
+<section> HIV 
+<section> pregnancy 
+<section> is baseline district difference-­in-­differences;
+ 
+<section> visits—
+ 
+<section> 12–23 
+<section> 6–11 
+<section> children in for tested ANCOVA, baseline
+ 
+<section> children children breastfeeding ANC birth birth last ANCOVA
+ 4 gave skilled were during adjusted
+ A; vitamin A; vitamin least 
+<section> at old who old a from who old results design GEE a 
+<section> DID, covariance;
+ exclusive on
+ of of months months assistance pregnancy 
+<section> months test adjusted. 
+<section> cluster based
+ use use their of
+ Recommended Recommended Recommended 0–5 0–5 0–5 value are analysis
+ received design estimates
+ 
+<section> Measure months months months of Mothers card of Mothers with facility last during of Mothers *Cluster p line ANCOVA,
+ ANC and †End ‡OR 
+<section> value** 
+<section> value**
+ 
+<section> line 
+<section> P 
+<section> 0.48 
+<section> 0.0018 
+<section> 0.79 
+<section> 0.016 
+<section> 0.60 
+<section> 0.44 
+<section> end 
+<section> and P 
+<section> 0.047 
+<section> 0.042 
+<section> 0.40 
+<section> 0.0079
+ 
+<section> end CI)**
+ 
+<section> and 
+<section> CI)** 
+<section> (95% 
+<section> (0.5–1.4) 
+<section> (1.3–2.7) 
+<section> (0.4–2.2) 
+<section> (1.1–2.2) 
+<section> (0.7–1.9) 
+<section> (0.7–2.2) 
+<section> baseline 
+<section> (95% 
+<section> (1.01–2.0) 
+<section> (1.02–4.1) 
+<section> (0.7–2.1) 
+<section> (1.2–2.6)
+ 
+<section> baseline
+ 
+<section> OR 0.8 1.8 0.9 1.6 1.2 1.3 the OR 1.4 2.1 1.3 1.7
+ 
+<section> value* 
+<section> at value*
+ 
+<section> the   
+<section> 0.769 
+<section> 0.101 
+<section> 0.547 
+<section> 0.001 
+<section>   
+<section> 0.25 
+<section> 0.17 
+<section> areas   
+<section> 0.003 
+<section> 0.003 
+<section> 0.13 
+<section> 0.002
+ 
+<section> at P P
+ 
+<section> districts
+ districts −29.2,22.0 
+<section> −1.6,16.5 
+<section> −4.6,2.5 
+<section> 4.9,15.9 
+<section> −6.1,21.8 
+<section> −3.6,18.1 
+<section> % 
+<section> CI 
+<section> 9.1,37.5 
+<section> 7.9,30.6 
+<section> −0.6,4.5 
+<section> +5.6,+20.7
+ 
+<section> comparison 
+<section> % 
+<section> in 
+<section> change 
+<section> CI 
+<section> % 
+<section> 95   
+<section>   
+<section> comparison 
+<section> in 
+<section> change % 
+<section> 95  
+ 
+<section> DID DID 
+<section>   
+<section> −3.6 
+<section> +7.4 
+<section> −1.0 
+<section> +10.4 
+<section>   
+<section> +7.8 
+<section> +7.3 
+<section> DID DID 
+<section>   
+<section> +23.3 
+<section> +19.2 
+<section> +1.9 
+<section> +13.2
+ 
+<section> value†
+ 
+<section> and value† 
+<section> and   
+<section> 0.14 
+<section> 0.15 
+<section> 0.16 
+<section> 0.071
+ 
+<section> intervention   
+<section> 0.51 
+<section> 0.75 
+<section> 0.67 
+<section> 0.69 
+<section>   
+<section> 0.73 
+<section> 0.80 
+<section> intervention P
+ 
+<section> P (28.9–42.1) 
+<section> (7.2–15.7) 
+<section> (13.4–25.0)
+ 
+<section> Comparison 
+<section> (2.0–5.4)
+ 
+<section> (64.8–73.7) 
+<section> (74.6–85.8) 
+<section> (79.5–88.8) 
+<section> (41.3–51.8) 
+<section> (17.2–26.1)
+ 
+<section> in 
+<section> indicators 
+<section> Comparison 
+<section>   
+<section> n=759 
+<section> 69.4 n=757 
+<section> 80.9 n=757 
+<section> (0.8–3.7) 
+<section> 1.7 
+<section> n=757 
+<section> 84.7   
+<section> n=757 
+<section> 46.5 n=757 
+<section> 21.3 
+<section> in 
+<section> indicators   
+<section> n=361 
+<section> 35.2 n=215 
+<section> 10.7 n=757 
+<section> 3.3 
+<section> n=757 
+<section> 18.5
+ 
+<section> (33.5–52.3) 
+<section> (11.5–25.4) 
+<section> (20.3–31.1)
+ 
+<section> (59.1–71.3) 
+<section> (75.1–89.4) 
+<section> (74.2–87.6) 
+<section> (42.0–55.2) 
+<section> (17.7–27.8) 
+<section> Intervention 
+<section> (3.5–7.1)
+ 
+<section> preventative Intervention 
+<section> (0.7–2.8) 
+<section> treatment Endline
+ 
+<section> n=368 
+<section> n=299 
+<section> n=758 
+<section> n=758
+ 
+<section> Endline 
+<section> n=761 
+<section> n=761 
+<section> n=761 
+<section> n=761 
+<section> n=760 
+<section> n=760 
+<section>   
+<section> 42.7 17.4 5.0 25.3
+ 
+<section>   
+<section> 65.4 83.4 1.5 81.9   
+<section> 48.6 22.4
+ 
+<section> quality value*
+ 
+<section> quality value* 
+<section>   
+<section> 0.94 
+<section> 0.36 
+<section> 0.57 
+<section> 0·0018 
+<section>   
+<section> 0.15 
+<section> 0.031 
+<section> P 
+<section>   
+<section> 0·0041 
+<section> 0·0014 
+<section> 0.22 
+<section> 0.049 
+<section> adjusted.
+ 
+<section> P diphtheria-­pertussis-­tetanus. 
+<section> for
+ 
+<section> for (56.1–71.3) 
+<section> (74.8–84.8) 
+<section> (82.6–90.4) 
+<section> (40.2–51.4) 
+<section> (15.3–24.3) 
+<section> adjusted. 
+<section> differences Comparison 
+<section> (44.8–58.8) 
+<section> (12.8–25.9) 
+<section> (0.1–1.0) 
+<section> (8.5–17.2) 
+<section> design
+ 
+<section> differences Comparison 
+<section> (1.0–4.4)
+ 
+<section> design n=382 
+<section> n=325 
+<section> n=851 
+<section> n=851 
+<section> cluster
+ 
+<section>   
+<section> n=851 
+<section> 64.0 n=851 
+<section> 80.3 n=851 
+<section> 2.1 
+<section> n=851 
+<section> 87.0   
+<section> n=850 
+<section> 45.8 n=850 
+<section> 19.4 cluster in 
+<section>   
+<section> 51.8 18.5 0.2 12.2 
+<section> is baseline
+ difference (28.5–44.4)
+ 
+<section> in 
+<section> difference (55.0–70.9) 
+<section> (64.4–83.9) 
+<section> (64.8–81.1) 
+<section> (34.4–45.9) 
+<section> (10.0–17.3) 
+<section> is baseline DPT3, Intervention 
+<section> (3.1–11.2) 
+<section> (0.0–0.2) 
+<section> (3.1–11.1) 
+<section> solutions.
+ 
+<section> Intervention 
+<section> (1.3–6.1) 
+<section> Baseline 
+<section> p-­values;
+ 
+<section> Baseline 
+<section> Calmette-­Guérin; n=247 
+<section> n=236 
+<section> n=661 
+<section> n=661
+ 
+<section>   
+<section> n=663 
+<section> 63.7 n=663 
+<section> 75.4 n=663 
+<section> 2.9 
+<section> n=663 
+<section> 73.8   
+<section> n=665 
+<section> 40.0 n=665 
+<section> 13.2 p-­values, and   
+<section> 36.0 5.9 0.0 5.9 ANCOVA 
+<section> rehydration
+ 
+<section> and 
+<section> coverage 
+<section> of 
+<section> Percentage 
+<section> 2 
+<section> Table Measure 
+<section> months 
+<section> 0–59 
+<section> Children 
+<section> before 
+<section> night 
+<section> the 
+<section> net 
+<section> bed 
+<section> a used 
+<section> That 
+<section> drinking 
+<section> improved 
+<section> an 
+<section> used 
+<section> homes 
+<section> Whose 
+<section> or 
+<section> well 
+<section> protected 
+<section> water; 
+<section> (piped 
+<section> source 
+<section> water 
+<section> borehole) 
+<section> an 
+<section> to 
+<section> access 
+<section> used/had 
+<section> household 
+<section> Whose 
+<section> latrine 
+<section> improved 
+<section> in 
+<section> of 
+<section> disposed 
+<section> was 
+<section> stool 
+<section> last 
+<section> where 
+<section> Household 
+<section> safely) 
+<section> (ie, 
+<section> latrine 
+<section> months 
+<section> 12–23 
+<section> Children 
+<section> verified) 
+<section> (card 
+<section> 3 DPT 
+<section> Immunisation 
+<section> vaccinated 
+<section> verified 
+<section> card 
+<section> immunisation 
+<section> full 
+<section> With 
+<section> measles 
+<section> +and 
+<section> DPT3 
+<section> polio4+, 
+<section> BCG, 
+<section> p-­values. 
+<section> adjusted 
+<section> design 
+<section> *Cluster 
+<section> ANCOVA 
+<section> adjusted, 
+<section> design 
+<section> cluster 
+<section> p-­value 
+<section> line 
+<section> †End 
+<section> Bacille 
+<section> BCG, 
+<section> covariance; 
+<section> of analysis 
+<section> ANCOVA, 
+<section> coverage 
+<section> the 
+<section> of 
+<section> Percentage 
+<section> 3 
+<section> Table 
+<section> line 
+<section> Measure 
+<section> months 
+<section> 0–59 
+<section> Children 
+<section> recommended 
+<section> malaria 
+<section> confirmed 
+<section> With 
+<section> malaria 
+<section> for 
+<section> treatment 
+<section> recommended 
+<section> ‘pneumonia’ 
+<section> confirmed 
+<section> With 
+<section> ‘pneumonia’ 
+<section> for 
+<section> treatment 
+<section> or 
+<section> day 
+<section> same 
+<section> stool 
+<section> (3+watery 
+<section> diarrhoea 
+<section> With 
+<section> for 
+<section> treatment 
+<section> recommended 
+<section> criteria) 
+<section> blood 
+<section> duration) 
+<section> for 
+<section> day 
+<section> first 
+<section> +ORS 
+<section> (Zn 
+<section> diarrhoea 
+<section> day 
+<section> same 
+<section> stool 
+<section> (3+watery 
+<section> diarrhoea 
+<section> With 
+<section> (any 
+<section> diarrhoea 
+<section> for 
+<section> treated 
+<section> criteria) 
+<section> blood 
+<section> +ORS) 
+<section> Zn 
+<section> utilisation 
+<section> p-­values. 
+<section> adjusted 
+<section> design 
+<section> *Cluster 
+<section> adjusted, 
+<section> design 
+<section> cluster 
+<section> p-­value 
+<section> line 
+<section> †End 
+<section> oral 
+<section> ORS, 
+<section> covariance; 
+<section> of 
+<section> analysis 
+<section> ANCOVA,
+ 
+<section> for or ‡ 
+<insert> Figure 2 Forest plot summarising the differences in the results between the CODES intervention and control areas. CODES,
+ Community and District-­management Empowerment for Scale-­up. 
+<iend>
+
+ intervention effect. Treatment for diarrhoea showed a
+ 13·2% (CI 5·6 to 20·7) positive intervention effect with
+ higher utilisation of zinc and oral rehydration solutions
+ (ORS) in intervention areas. The effects of the interven-
+ tion on the 2-­week prevalence of symptoms of malaria
+ (fever), pneumonia (cough) and diarrhoea were insig-
+ nificant at 95% CI.
+ 
+<section> Overall effects
+ Figure 2 summarises the overall results of the CODES
+ study. With the exception of the curative management
+ of malaria, pneumonia and diarrhoea whose odds were
+ higher in the intervention areas, other results reveal
+ insignificant differences between the intervention and
+ control area at 95% CI.
+ 
+<section> Cost of scaling up the CODES project
+ The total cost of all CODES activities implemented in the
+ eight districts in 2014 was US$1 929 014, and it was US$
+ 1 280 385 in 2015 and US$ 1 221 159 in 2016. Findings
+ of the analysis show that technical assistance accounted
+ for the largest proportion of the total costs, that is, 60%
+ in 2014, 62% in 2015 and 43% in 2016. Operational costs
+ took up the second largest share of total costs, accounting
+ for 20%, 17% and 27% of total costs in 2014, 2015 and
+ 2016, respectively, while demand-­side interventions took
+ up 5%, 10% and 15% and supply-­side interventions took
+ up 15%, 11% and 15% of total costs, in 2014, 2015 and
+ 2016, respectively. Scenario 1 (the full package) gener-
+ ates the highest total annual scale-­up cost of US$5
+ 389. Scenario 2 has a total annual scale-­up cost of US$2
+ 066 110. Scenario 3 has a total annual scale-­up cost of
+ 
+<section> US$661
+ 
+<section> DISCUSSION
+ 
+<section> Health managers in all intervention districts applied
+ CODES tools to generate local data, diagnose health
+ system bottlenecks and prioritise solutions. 9 10 Relative
+ to comparison districts, intervention districts showed
+ both clinically and statistically significant improvements
+ in the management of malaria, pneumonia and diar-
+ rhoea symptoms among children of 0–5 years, while
+ there were generally smaller, nonsignificant improve-
+ ments in protective and preventive coverage indicators.
+ District health managers reported that CODES provided
+ a context-­specific methodology for prioritising interven-
+ tions. However, constraints in the policy and fiscal space
+ open to district health managers impeded the imple-
+ mentation of the locally identified solutions. 9 10 Similar
+ results were found in Nigeria where despite prioritisation
+ of identified bottlenecks at subnational level, effective
+ implementation called for central government oversight
+ especially those bottlenecks that could not be addressed
+ at lower level. 34 Comparing across districts leadership
+ and managerial capacity proved crucial for the adoption
+ and successful implementation of childhood interven-
+ tions.
+ The study findings have several implications. First,
+ while it is important to reinforce districts’ technical
+ capacity for evidence-­based management, decentralisa-
+ tion requires that interventions place equal emphasis
+ on both local managers and local policymakers. Second,
+ evidence is not enough—district managers need the
+ requisite fiscal and decision-­making space to design and
+ implement bespoke district work plans. 33 This finding
+ compares well with results from Ghana and |Tanzania,
+ which revealed that financial barriers were one of the
+ major bottlenecks impeding success in combination with
+ quality coverage. 35 36 Furthermore, fiscal space alone may 
+<section> prove insufficient, unless district decision-­makers value
+ the political benefits of evidence-­informed planning.
+ The implementation of CODES demonstrates that
+ a data-­ driven deliberate effort to strengthen district
+ managers’ ability to identify, prioritise and resolve health
+ system bottlenecks contributes to health outcomes. The
+ study also underscores the need to identify which level
+ of government is best positioned to activate particular
+ types of solutions. For instance, the solution to a district’s
+ overall lack of bednets, vaccines and drugs likely lies at
+ the national level. A misalignment in the administra-
+ tive levels between problems and solutions limits the
+ potential impact of localised community action. In such
+ instances, mechanisms must be found to transmit locally
+ identified solutions across the various layers of health
+ system management to the level empowered to solve the
+ problem.
+ In the CODES study, all intervention districts prior-
+ itised improvements in the coverage of treatment for
+ malaria, pneumonia and diarrhoea in their workplans.
+ These areas also saw the highest intervention effects.
+ However, the coverage improvements in intervention
+ districts stand out in sharp contrast to the deteriorating
+ or stagnant levels of coverage reported in comparison
+ areas, resulting from flat or declining levels of public
+ health financing over the study period 40 and worsening
+ management capacity. Indeed, we are aware that over
+ the study period, planning and supervision support to
+ districts by the ministry of health was limited and irreg-
+ ular, which must have particularly affected comparison
+ districts. Therefore, it is clear that scaling the gains
+ achieved through CODES would likely require an
+ increase in Uganda’s overall health expenditure, in addi-
+ tion to continued efforts to address public system short-
+ falls in management, human resources and medicines.
+ On the demand side, we did not manage to catalyse
+ a large number of community dialogues (17 per inter-
+ vention district), keeping levels of population coverage
+ and the ‘intervention dose’ low (see online supplemental
+ table 4). 10 Similar to the results from Kenya, interventions
+ like this tended to focus on improving the supply side of
+ health services and less of investment in promoting the
+ demand side. 42 As a result, our intervention had a limited
+ impact on the prevention or population-­level indicators.
+ However, participating community members expressed
+ appreciation for the emphasis on social accountability.
+ We note the potential impact of such interventions with
+ the eventual development of scalable models. 43 For the
+ purposes of the CODES trial, initial experiences with SMS
+ reporting provided an affordable means of data collec-
+ tion. However, to optimise impact, online reporting plat-
+ forms such as U-­Report 44 45 need to operate in conjunction
+ with scalable accountability mechanisms. Community
+ dialogue meetings may prove cost-­ prohibitive, if they
+ require external facilitation. 10 This area requires addi-
+ tional innovation and research, including an assessment
+ of Uganda’s ‘Barazas’ as a community forum for public
+ debate on service delivery.
+ 
+<section> Context, cost and policy
+ Several contextual factors influenced the implemen-
+ tation and effect of CODES. Health sector funding,
+ particularly district-­level budgets, remains a challenge.
+ During the study period, health sector allocations fell
+ from 8·7% of the national budget in 2013/2014 to 5·7%
+ in 2015, 46 despite the pre-­ existing national target of
+ 15% by 2020. At the time, Uganda prioritised funding
+ for infrastructure, energy and security over the ‘unpro-
+ ductive’ health sector. This trend, combined with the
+ relatively high proportion of health expenditure allo-
+ cated towards national hospitals (59·5% in 2015/2016)
+ limited the fiscal and decision space available to district-­
+ level managers to implement primary health care (PHC)
+ activities. Consequently, even as intervention districts
+ acquired new managerial strategies, solutions remained
+ unfunded and unimplemented due to a lack of discre-
+ tionary resources. This severely limited the potential to
+ solve health system problems locally, a key assumption
+ underlying the CODES approach. This is in contrast
+ to the situation in neighbouring Tanzania, where local
+ district management teams have a discretionary fiscal
+ space of 1 US$/capita.
+ To offset Uganda’s limited fiscal space, UNICEF
+ created a ‘bottleneck fund’ of US$10 000 per district to
+ support the implementation of unfunded interventions,
+ primarily on the supply side. In many cases, although
+ relatively small, this was the only fungible resource, or
+ ‘fiscal space’, available for bottleneck solutions. However,
+ in some districts, the mere existence of a prioritised
+ ‘bottleneck action plan’ enabled districts to leverage
+ additional resources from other development partners in
+ the country, which further emphasises the importance of
+ the CODES approach.
+ A cost-­ effectiveness analysis for CODES will be
+ published elsewhere. CODES was designed with the
+ aim to be scaled up. We found that the costs of scale-­up
+ were low. scaling up the full package of CODES to all the
+ districts of Uganda was only US$5 893 389. Findings of
+ the analysis showed that technical assistance accounted
+ for the largest proportion of the total costs (43% to 60%
+ per year), followed by operational costs (17% to 27%
+ per year), with the demand-­side interventions taking up
+ the least. These costs are low and can be absorbed by
+ the MoH budget if it is increased slightly or increased by
+ partners. The CODES project contributed to improved
+ performance of district health systems in the eight wave
+ 1 intervention districts, and if appropriately scaled up, it
+ could improve the general performance of the national
+ health system.
+ Thus, it is clear from the above that if districts are to
+ implement evidence-­ informed implementation, they
+ need commensurate fiscal and decision space. This, in
+ turn, requires additional resources at the district level,
+ with an increase in the proportion of domestic budgets
+ allocated to the health sector. Furthermore, given
+ that as much as half of the total health expenditure is
+ derived from out-­of-­pocket expenditures in low-­income 
+<section> countries, achieving quality coverage may require a dual
+ focus on private and public healthcare providers. 41
+ 
+<section> Methodological considerations
+ This study employed customised LQAS surveys as the
+ main data source for the bottleneck analysis. There are
+ many advantages to the LQAS. 49 However, during imple-
+ mentation of this study, we found that the use of LQAS
+ can be cost prohibitive in Ugandan districts. In two times
+ a day to scale the CODES intervention across Uganda,
+ the government, therefore, now uses administrative data
+ from district health information system-2 (DHIS2), which
+ includes an automated function for graphing bottlenecks
+ (the score card). 21 This innovation requires further anal-
+ ysis to understand its utility and affordability and the
+ implications of shifting from population to facility-­based
+ data.
+ The methodology for the CODES study presented
+ certain limitations. The study relies on self-­ reported
+ outcome data, as all household surveys. Furthermore,
+ financial constraints prohibited a midterm coverage
+ survey in comparison districts. The clustered design
+ resulted in a larger than projected ICC of coefficients,
+ leading to wide design-­adjusted CIs and a possible failure
+ to reach statistical significance for some indicators that
+ otherwise showed positive effects from the CODES
+ intervention.
+ While the findings are highly contextually depen-
+ dent on local health systems, we suggest that the inter-
+ ventions may have similar effects in other decentralised
+ health systems, with potential for larger effects where
+ more resources and decision space are available to local
+ managers.
+ 
+<section> CONCLUSION
+ The CODES trial is the first of its kind to test whether
+ district-­ level management interventions impact child
+ health outcomes at the population level. Implementation
+ of the CODES interventions led to modest increases in
+ the effective coverage of curative care for malaria, pneu-
+ monia and diarrhoea symptoms in population-­ based
+ surveys. The results indicate that the CODES approach
+ should be considered in efforts to scale-­up child health
+ interventions across Uganda and in similar settings, and
+ as a model for district health systems strengthening. Find-
+ ings from the CODES study also point to the need for
+ balance between demand and supply-­side interventions,
+ ensuring sufficient fiscal space and authority to local
+ managers to act on findings, and the utility of implemen-
+ tation research to improve health system management.
+ 
+<section> Author affiliations
+ Department of Health Policy Planning and Management, Makerere University
+ School of Public Health, Kampala, Uganda
+ 2 Makerere University Centre of Excellence for Maternal Newborn & Child Health,
+ Makerere University School of Public Health, Kampala, Uganda
+ 3 Global Public Health, Karolinska Institute, Stockholm, Sweden
+ 
+<section> Busoga Health Forum, Jinja, Uganda
+ 5 UNICEF Uganda Country Office, Kampala, Uganda
+ 
+<section> University of Nebraska Medical Center, College of Medicine, Omaha, Nebraska,
+ 
+<section> USA
+ Department of International Development, London School of Economics and
+ 
+<section> Political Science, London, UK
+ World Health Organization, Geneve, Switzerland
+ 9 Department of Maternal, Newborn, Child and Adolescent Health and Ageing, World
+ Health Organizations, Geneva, Switzerland
+ 10 Child Health and Development Centre, Makerere University, Kampala, Uganda
+ 11 School of Public Health, College of Health Sciences, Makerere University,
+ 
+<section> Kampala, Uganda
+ 12 Programme Division, Health Section, United Nations Children's Fund, New York,
+ 
+<section> New York, USA
+ 
+<section> Acknowledgements The views expressed are not necessarily those of the
+ Foundation or of UNICEF. The CODES project team wishes to acknowledge
+ Nancy Binkin and Saul Morris for support to protocol conceptualisation. We also
+ acknowledge the Ministry of Health, the project districts, CODES staff in Child Fund
+ International and ACODE, Uganda for useful comments in the design stage.
+ 
+<section> Contributors The CODES study was conceptualised by SSP, FM, TO'C, TD, PW
+ and DB. All authors contributed to the design of the study protocol and undertook
+ data collection. DB, PW, SSP, FM, TO'C and TD developed the detailed research
+ questions and overall analysis plan for this paper. These were refined with inputs
+ from the wider CODES study collaborator group. Analysis was undertaken by
+ DB. The manuscript was drafted by PW, SsP, FM, TO'C, DKH, RMK, ES and TD.
+ All authors reviewed and helped to revise the manuscript. All authors reviewed
+ and agreed to the final version. The authors alone are responsible for the views
+ expressed in this article, which does not necessarily represent the views, decisions,
+ or policies of the institutions with which the authors are affiliated to.
+ 
+<section> Funding The Community and District Empowerment for Scale-­up (CODES) project
+ is funded by the United States Fund for UNICEF; a grantee of the Bill & Melinda
+ Gates Foundation (PBA SC/2011/0258).
+ 
+<section> Competing interests None declared.
+ 
+<section> Patient consent for publication Not required.
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data availability statement Data are available upon request. Data access for
+ further research can be freely shared with researchers after a formal request
+ through the corresponding author.
+ 
+<section> Supplemental material This content has been supplied by the author(s). It has
+ not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been
+ peer-­reviewed. Any opinions or recommendations discussed are solely those
+ of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and
+ responsibility arising from any reliance placed on the content. Where the content
+ includes any translated material, BMJ does not warrant the accuracy and reliability
+ of the translations (including but not limited to local regulations, clinical guidelines,
+ terminology, drug names and drug dosages), and is not responsible for any error
+ and/or omissions arising from translation and adaptation or otherwise.
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution 4.0 Unported (CC BY 4.0) license, which permits
+ others to copy, redistribute, remix, transform and build upon this work for any
+ purpose, provided the original work is properly cited, a link to the licence is given,
+ and indication of whether changes were made. See: https://​creativecommons.​org/​
+ licenses/​by/​4.​0/.
+ 
+<section> REFERENCES
+ 1 United Nations Children’s Fund. Levels and trends in Child Mortality
+ Report 2017. New York: United Nations Children’s Fund, 2017. WHO
+ Levels and trends in child mortality report; 2017 [Accessed 4 Apr
+ 2021].
+ 2 You D, Hug L, Ejdemyr S, et al. Global, regional, and national levels
+ and trends in under-5 mortality between 1990 and 2015, with
+ scenario-­based projections to 2030: a systematic analysis by the
+ UN Inter-­agency group for child mortality estimation. The Lancet
+ 2015;386:2275–86.
+ 3 Bryce J, Gilroy K, Jones G, et al. The accelerated child survival and
+ development programme in West Africa: a retrospective evaluation.
+ 
+<section> Lancet 2010;375:572–82.
+ 4 Odaga J, Henriksson DK, Nkolo C, et al. Empowering districts to
+ target priorities for improving child health service in Uganda using 
+<section> change management and rapid assessment methods. Glob Health
+ Action 2016;9:30983.
+ Rudan I, Kapiriri L, Tomlinson M, et al. Evidence-­Based priority
+ setting for health care and research: tools to support policy
+ in maternal, neonatal, and child health in Africa. PLoS Med
+ 2010;7:e1000308.
+ Bossert TJ, Beauvais JC. Decentralization of health systems in
+ 
+<section> Ghana, Zambia, Uganda and the Philippines: a comparative analysis
+ of decision space. Health Policy Plan 2002;17:14–31.
+ Meessen B, Malanda B, Community of Practice “Health Service
+ Delivery”. No universal health coverage without strong local health
+ systems. Bull World Health Organ 2014;92:78–78A.
+ Mills A, Vaughan JP, Smith DL. Health system decentralisation:
+ concepts, issues and country experiences. Geneva World Health
+ Organization; 1990.
+ Henriksson DK, Ayebare F, Waiswa P, et al. Enablers and barriers to
+ evidence based planning in the district health system in Uganda;
+ perceptions of district health managers. BMC Health Serv Res
+ 2017;17:103.
+ Katahoire AR, Henriksson DK, Ssegujja E, et al. Improving
+ child survival through a district management strengthening and
+ community empowerment intervention: early implementation
+ experiences from Uganda. BMC Public Health 2015;15:797.
+ Hampwaye G. The limits of decentralisation in urban Zambia. Urban
+ 
+<section> Forum; Springer, 2008: 347–61.
+ Kolehmainen-­Aitken R-­L. Myths and realities about the
+ decentralization of health systems. management sciences health. 1st
+ 
+<section> edition, 1999:
+ Kiwanuka SN, Ekirapa EK, Peterson S, et al. Access to and
+ utilisation of health services for the poor in Uganda: a systematic
+ review of available evidence. Trans R Soc Trop Med Hyg
+ 2008;102:1067–74.
+ Tanahashi T. Health service coverage and its evaluation. Bull World
+ Health Organ 1978;56:295–303.
+ Shengelia B, Tandon A, Adams OB, et al. Access, utilization, quality,
+ and effective coverage: an integrated conceptual framework and
+ measurement strategy. Soc Sci Med 2005;61:97–109.
+ O'Connell T, Sharkey A. Reaching universal health coverage through
+ district health system strengthening: using a modified Tanahashi
+ model to attain equitable and effective coverage. New York UNICEF;
+ 2013.
+ Kiwanuka Henriksson D, Fredriksson M, Waiswa P, et al. Bottleneck
+ analysis at district level to illustrate gaps within the district health
+ system in Uganda. Glob Health Action 2017;10:1327256.
+ Björkman M, Svensson J. Power to the People: Evidence from a
+ Randomized Field Experiment on Community-­Based Monitoring in
+ Uganda Q J Econ 2009;124:735–69.
+ Waiswa P, O'Connell T, Bagenda D, et al. Community and district
+ 
+<section> Empowerment for scale-­up (CODES): a complex district-­level
+ management intervention to improve child survival in Uganda: study
+ protocol for a randomized controlled trial. Trials 2016;17:135.
+ Valadez JJ, Devkota BR. Decentralized supervision of community
+ health program usingLQAS in two districts of southern Nepal.
+ 
+<section> In: Community-­Based health care: lessons from Bangladesh to
+ 
+<section> BostonBoston: management sciences for health, 2002:
+ Ministry of Health Uganda. Guidelines to the local government
+ planning process health sector supplement. Kampala: Ministry of
+ health Uganda, 2016.
+ Chopra M, Sharkey A, Dalmiya N, et al. Strategies to improve health
+ coverage and narrow the equity gap in child survival, health, and
+ nutrition. Lancet 2012;380:1331–40.
+ Walker N, Fischer-­Walker C, Bryce J, et al. Standards for CHERG
+ reviews of intervention effects on child survival. Int J Epidemiol
+ 2010;39 Suppl 1:i21–31.
+ Uganda Bureau of Statistics. Uganda Bureau of statistics, 2017.
+ 
+<section> Available: http://www.​ubos.​org/ [Accessed 4 Apr 2021].
+ Muhwezi WW, Palchik EA, Kiwanuka DH, et al. Community
+ participation to improve health services for children: a methodology
+ for a community dialogue intervention in Uganda. Afr Health Sci
+ 2019;19:1574–81.
+ Donner A, Klar N. Design and analysis of cluster randomization trials
+ in health research. London Arnold; 2000:
+ Borhan ASM. Methods for the analysis of Pretest-­Posttest binary
+ outcomes from cluster randomization trials. Electronic Thesis and
+ Dissertation Repository 2012:825 https://​ir.​lib.​uwo.​ca/​etd/​825
+ 
+<section> 28 Diggle P, Heagerty P, Liang K. Analysis of longitudinal data. Oxford,
+ England: Oxford University Press, 2002.
+ 29 Liang K-­Y, Zeger SL. Longitudinal data analysis of continuous and
+ discrete responses for pre-­post designs. The Indian Journal of
+ Statistics, Series B 2000;62:134–48 https://www.​jstor.​org/​stable/​
+ 
+<section> 25053123
+ 30 Klar N, Darlington G. Methods for modelling change in cluster
+ randomization trials. Stat Med 2004;23:2341–57.
+ 31 Reed JF. Adjusted chi-­square statistics: application to clustered
+ binary data in primary care. Ann Fam Med 2004;2:201–3.
+ 32 Ministry of Health Uganda. National child survival strategy briefing
+ paper for policy makers and planners. Kampala Ministry of Health
+ Uganda; 2009.
+ 33 Henriksson KD. Health systems bottlenecks and evidence-­based
+ district health planning: experiences from the district health
+ system in Uganda: digital comprehensive summaries of Uppsala
+ Dissertations from the faculty of medicine Uppsala Uppsala
+ university; 2017.
+ 34 Eboreime EA, Nxumalo N, Ramaswamy R, et al. Effectiveness of
+ the Diagnose-­Intervene- Verify-­Adjust (DIVA) model for integrated
+ primary healthcare planning and performance improvement: an
+ embedded mixed methods evaluation in Kaduna state, Nigeria. BMJ
+ Open 2019;9:e026016.
+ 35 Sheff MC, Bawah AA, Asuming PO, et al. Evaluating health service
+ coverage in Ghana's Volta region using a modified Tanahashi model.
+ 
+<section> Glob Health Action 2020;13:1732664.
+ 36 Baker U, Peterson S, Marchant T, et al. Identifying implementation
+ bottlenecks for maternal and newborn health interventions in rural
+ districts of the United Republic of Tanzania. Bull World Health Organ
+ 2015;93:380–9.
+ 37 Pyone T, Smith H, van den Broek N. Frameworks to assess health
+ systems governance: a systematic review. Health Policy Plan
+ 2017;32:710–22.
+ 38 Hanson C, Waiswa P, Marchant T, et al. Expanded quality
+ management using information power (EQUIP): protocol for a quasi-­
+ experimental study to improve maternal and newborn health in
+ Tanzania and Uganda. Implement Sci 2014;9:41.
+ 39 Henriksson DK, Peterson SS, Waiswa P, et al. Decision-­Making
+ in district health planning in Uganda: does use of district-­specific
+ evidence matter? Health Res Policy Syst 2019;17:57.
+ 40 World Bank. Health expenditure, public (% of GDP), 2018. Available:
+ https://​data.​worldbank.​org/​indicator/​SH.​XPD.​PUBL.​ZS?​locations=​
+ UG [Accessed 4 Apr 2021].
+ 41 Awor P, Wamani H, Bwire G, et al. Private sector drug shops in
+ integrated community case management of malaria, pneumonia,
+ and diarrhea in children in Uganda. Am J Trop Med Hyg
+ 2012;87:92–6.
+ 42 McCollum R, Taegtmeyer M, Otiso L, et al. Healthcare equity
+ analysis: applying the Tanahashi model of health service coverage
+ to community health systems following devolution in Kenya. Int J
+ Equity Health 2019;18:65.
+ 43 Bjorkman Nyqvist M, de Walque D, Svensson J. Information
+ is power: experimental evidence on the Long-­Run impact of
+ community based monitoring. 2014. American Economic Journal:
+ Applied Economics 2017;9:33–69.
+ 44 United Nations Children’s Fund. UNICEF’s U-­Report social platform
+ hits 1 million active users, 2015. Available: https://www.​unicef.​
+ org/​search/​search.​php?​q=​U-​report&​type=​Main [Accessed 4 Apr
+ 2021].
+ 45 U Report Uganda. Voice matters March 2017 2018. Available: http://
+ www.​ureport.​ug/​about/​2018 [Accessed 4 April 2021].
+ 46 Ministry of Finance PaED. Budget at a glance for FY 2015/16.
+ Kampala Ministry of Finance, Planning and Economic Development;
+ 2016.
+ 47 Windisch R. Complex interventions in complex systems: health
+ systems analysis of antiretroviral treatment Scaleup in Burkina Faso.
+ Tanzania and Uganda Basel Universität Basel; 2012.
+ 48 Kitutu FE, Mayora C, Johansson EW, et al. Health system effects
+ of implementing integrated community case management (iCCM)
+ intervention in private retail drug shops in South Western Uganda: a
+ qualitative study. BMJ Glob Health 2017;2:e000334.
+ 
+<section> 49 Valadez JJ. Assessing child survival programs in developing
+ countries. Harvard University Press, Dept of Populationand
+ International Health, Harvard School of Public Health, 1991.

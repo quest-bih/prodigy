@@ -1,0 +1,800 @@
+
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> OPEN ACCESS
+ 
+<section> Citation: Kohler PK, Mugo C, Wilson KS, Moraa H,
+ Onyango A, Tapia K, et al. (2023) Simulated patient
+ training to improve youth engagement in HIV care
+ in Kenya: A stepped wedge cluster randomized
+ controlled trial. PLOS Glob Public Health 3(4):
+ e0001765. https://doi.org/10.1371/journal.
+ 
+<section> pgph.0001765
+ 
+<section> Editor: Julia Robinson, PLOS: Public Library of
+ 
+<section> Science, UNITED STATES
+ 
+<section> Received: September 14, 2022
+ 
+<section> Accepted: March 6, 2023
+ 
+<section> Published: April 19, 2023
+ 
+<section> Peer Review History: PLOS recognizes the
+ benefits of transparency in the peer review
+ process; therefore, we enable the publication of
+ all of the content of peer review and author
+ responses alongside final, published articles. The
+ editorial history of this article is available here:
+ https://doi.org/10.1371/journal.pgph.0001765
+ 
+<section> Copyright: © 2023 Kohler et al. This is an open
+ access article distributed under the terms of the
+ Creative Commons Attribution License, which
+ permits unrestricted use, distribution, and
+ reproduction in any medium, provided the original
+ author and source are credited.
+ 
+<section> Data Availability Statement: Medical record data
+ are owned by the Kenyan government. Contact the
+ University of Washington Office of Nursing
+ 
+<section> RESEARCH ARTICLE
+ 
+<section> Simulated patient training to improve youth
+ engagement in HIV care in Kenya: A stepped
+ wedge cluster randomized controlled trial
+ 
+<section> Pamela K. Kohler ID 1,2 *, Cyrus Mugo ID 3,4 , Kate S. Wilson , Hellen Moraa 3,5 ,
+ Alvin Onyango 3,5 , Kenneth Tapia ID , Kenneth Pike ID , Caren Mburu , Margaret Nduati ,
+ Brandon Guthrie 1,4 , Barbra A. Richardson 1,6,7 , Tamara Owens , David Bukusi 3,5 ,
+ Irene Inwani , Grace John-Stewart 1,4,9 , Dalton Wamalwa
+ 
+<section> 1 Department of Global Health, University of Washington, Seattle, Washington, United States of America,
+ 
+<section> 2 Department of Child, Family, and Population Health Nursing, Seattle, Washington, United States of
+ America, 3 Department of Pediatrics and Child Health, University of Nairobi, Nairobi, Kenya, 4 Department
+ Epidemiology, University of Washington, Seattle, Washington, United States of America, 5 Kenyatta National
+ Hospital, Nairobi, Kenya, 6 Department of Biostatistics, University of Washington, Seattle, Washington,
+ United States of America, 7 Division of Vaccine and Infectious Disease, Fred Hutch Cancer Center, Seattle,
+ Washington, United States of America, 8 Howard University, Washington, DC, United States of America,
+ 
+<section> 9 Department of Pediatrics, University of Washington, Seattle, Washington, United States of America
+ 
+<section> * pkohler2@uw.edu
+ 
+<section> Abstract
+ 
+<section> Youth living with HIV (YLHIV) report that negative interactions with health care workers
+ (HCWs) affects willingness to return to care. This stepped wedge randomized trial evaluated
+ effectiveness of a standardized patient actor (SP) HCW training intervention on adolescent
+ engagement in care in Kenya. HCWs caring for YLHIV at 24 clinics received training on ado-
+ lescent care, values clarification, communication, and motivational interviewing, with 7 SP
+ encounters followed by facilitated feedback of videotaped interactions. Facilities were ran-
+ domized to timing of the intervention. The primary outcome was defined as return within
+ months after first visit (engagement) among YLHIV who were either newly enrolled or who
+ returned to care after >3 months out of care. Visit data was abstracted from electronic medi-
+ cal records. Generalized linear mixed models adjusted for time, being newly enrolled, and
+ clustering by facility. YLHIV were surveyed regarding satisfaction with care. Overall,
+ HCWs were trained, and medical records were abstracted for 4,595 YLHIV. Median YLHIV
+ age was 21 (IQR 19–23); 82% were female, 77% were newly enrolled in care, and 75%
+ returned within 3 months. Half (54%) of trained HCWs remained at their clinics 9 months
+ post-training. YLHIV engagement improved over time (global Wald test, p = 0.10). In
+ adjusted models, the intervention showed no significant effect on engagement [adjusted
+ Prevalence Ratio (aPR) = 0.95, 95% Confidence Interval (CI): 0.88–1.02]. Newly enrolled
+ YLHIV had significantly higher engagement than those with prior lapses in care (aPR =
+ 1.18, 95%CI: 1.05–1.33). Continuous satisfaction with care scores were significantly higher
+ by wave 3 compared to baseline (coefficient = 0.38, 95%CI: 0.19–0.58). Despite provider
+ skill improvement, there was no effect of SP training on YLHIV engagement in care. This
+ may be due to temporal improvements or turnover of trained HCWs. Strategies to retain SP-
+ training benefits need to address HCW turnover. YLHIV with prior gaps in care may need 
+<section> Research for assistance with data requests:
+ onrhelp@uw.edu.
+ 
+<section> Funding: This work was supported by the Eunice
+ Kennedy Shriver National Institute of Child Health
+ and Human Development (NICHD) (R01
+ HD085807 to PK). Statistical support was provided
+ by the UW/FHCRC Center for AIDS Research
+ (CFAR) (P30 AI027757). The funders had no role in
+ study design, data collection and analysis, decision
+ to publish, or preparation of the manuscript.
+ 
+<section> Competing interests: The authors have declared
+ that no competing interests exist.
+ 
+<section> more intensive support. Registration CT #: NCT02928900. https://clinicaltrials.gov/ct2/
+ show/NCT02928900.
+ 
+<section> Introduction
+ 
+<section> Adolescents and young adults in Eastern and Southern Africa make up 70% of youth living
+ with HIV (YLHIV) worldwide [1]. In 2020, antiretroviral coverage of YLHIV ages 10–19 in
+ Kenya was 74% [1], falling short of 95-95-95 goals. YLHIV also have poor care outcomes com-
+ pared to other age groups, with consistently higher rates of loss to follow up and lower rates
+ viral suppression than adults or young children [2–4]. In Kenya, a 2012–2016 review of
+ national data found elevated viral load among adolescents with HIV 10–19 years was double
+ that of adults (37% vs 13%) [5]. Globally, adolescent HIV-related deaths have declined just
+ 37% since 2010, while child mortality has declined by 60% [6].
+ Adolescence is a time of rapid physiological, developmental, and psychosocial changes,
+ characterized by increasing autonomy and identity formation [7]. These unique changes may
+ aggravate preexisting stressors associated with HIV infection, increase vulnerability to depres-
+ sion and mental health concerns, and exacerbate poor adherence and retention in care [8–11].
+ Recognition of the distinct needs of adolescents within HIV service delivery has prompted
+ global initiatives to promote “adolescent friendly” health services (AFHS) [12,13]. The World
+ Health Organization recommends that AFHS are not simply separate infrastructure and space,
+ but also a change in health provider attitudes and training. Adolescent friendly care aims to
+ ensure that health providers are “non-judgmental and considerate in their dealings with ado-
+ lescents” and that they have the “competencies to deliver the right health services in the right
+ way” [12]. The Kenyan Ministry of Health adopted these recommendations, revising 2005
+ guidance in youth friendly health services in 2016 [14].
+ While health providers report recognition of adolescent needs and awareness of adolescent
+ friendly guidelines, many also still report lack of confidence in how to engage with and care
+ for adolescents. A study of reproductive health providers in Kenya documented a disconnect
+ between advertised “youth friendly services” and providers’ lack of competency and training
+ to carry out adolescent friendly care, especially related to counselling and interpersonal com-
+ munication [15]. They describe feeling conflicted between their own personal feelings, cultural
+ and religious values and beliefs, and their wish to support young people’s rights to accessing
+ services. In another study, health care workers tasked with providing adolescent HIV testing
+ services reported feeling inadequately prepared to cope with the needs of this age group, lack
+ of confidence in counseling skills, and fear of doing the wrong thing [16].
+ Standardized patient (SP) training presents a unique opportunity to train health care per-
+ sonnel to effectively deliver AFHS. SPs are trained actors that work with health providers in
+ mock clinical encounters for the purposes of training and evaluation [17]. Used since the
+ 1960s in clinical and medical education and for licensing exams in the United States and
+ Europe [18], SPs have been less widely used in resource-limited settings. SP training has been
+ shown both to improve clinical performance including provider skills in empathy, patient-cen-
+ tered communication skills, and counseling [19,20] as well as patient outcomes [21–23].
+ This study aimed to develop and evaluate a clinical training intervention utilizing standard-
+ ized patient actors to improve communication and interpersonal skills of health care workers
+ in working with adolescents, resulting in increased engagement in HIV care. Our hypothesis,
+ informed by Andersen’s Model of Healthcare Utilization [24,25], was that a SP training pro-
+ gram would improve the health care environment and patient-centered HIV services through 
+<section> provider factors of building trust and empathy, enhancing communication skills, and increas-
+ ing provider clinical and counseling knowledge. This improvement in delivery of care could,
+ in turn, address barriers cited by adolescents and improve linkage to, and retention in, vital
+ 
+<section> HIV services.
+ 
+<section> Methods
+ 
+<section> Ethics statement
+ 
+<section> This study was reviewed and approved by the University of Washington (51926) institutional
+ review board and the University of Nairobi—Kenyatta National Hospital (P476/06/2016) ethi-
+ cal review committee. Health worker participants provided written informed consent. Adoles-
+ cent surveys were anonymous, thus we received approval to waive written consent and allow
+ adolescents 14 and older who attended care independently to provide oral self-consent. Ado-
+ lescents under the age of 14 provided oral assent and their caregiver provided oral consent.
+ De-identified medical records were provided through an agreement with the Ministry of
+ Health.
+ 
+<section> Design
+ 
+<section> A stepped wedge cluster randomized controlled trial (RCT) was conducted to evaluate a clini-
+ cal training intervention using standardized patient actors to improve communication and
+ interpersonal skills of health care workers caring for adolescents and young adults, as a means
+ to increase YLHIV engagement in care [26]. Twenty-four health care facilities (clusters) were
+ randomized to intervention sequence (Fig 1, S1 Checklist).
+ The stepped wedge study design was selected because intervention-delivery occurred at the
+ clinic, rather than individual level, to facilitate cluster recruitment, and for logistical consider-
+ ations as the training was not feasible to implement simultaneously at a large number of clinics
+ [27]. This design also can have greater power than a parallel design when there are substantial
+ intra-cluster correlations (i.e. within facilities) or large numbers of clusters [28]. Randomiza-
+ tion at a clinic level to when the intervention is introduced allowed for the traditional benefits
+ of randomization, while allowing the minimal risk intervention to be provided to all sites.
+ Training was conducted with health providers from participating facilities at 4 time points,
+ months apart (Table 1). Outcomes were assessed among YLHIV in participating facilities over
+ a period of 15 months following each training. The final 6 months of outcome assessment was
+ truncated due to extensive changes in patient visit schedules due to the COVID-19 pandemic.
+ 
+<section> Population and setting
+ 
+<section> Eligible clinics had more than 40 adolescents, had a current electronic medical record (EMR)
+ system, and no other special adolescent interventions. From 24 enrolled facilities, up to ten
+ health providers from each facility were selected for the training. Eligible providers included
+ clinical officers, doctors, nurses, and counselors who provide direct clinical services to adoles-
+ cents. Providers were identified by the study coordinator in collaboration with the facility
+ manager. Turnover of health providers at their study sites was monitored during the study
+ period and newly hired providers enrolled if sites had not yet participated in the intervention.
+ Retention in care and clinical outcomes were assessed via an audit of EMR charts from YLHIV
+ 10–24 years of age, and a subset of YLHIV from each facility were also enrolled to complete
+ patient satisfaction and risk behavior surveys after each training wave. 
+<insert> Table 1. Overview of stepped-wedge trial timing, by cluster wave.
+ Introduction of Intervention 
+<iend>
+
+ 
+<section> Fig 1. Adapted CONSORT diagram
+ https://doi.org/10.1371/journal.pgph.0001765.g001
+ 
+<section> Clinic clusters 
+<section> Baseline
+ 
+<section> Wave 1: Sites 1–6
+ 
+<section> Wave 2: Sites 7–12
+ 
+<section> Wave 3: Sites 13–18
+ 
+<section> Wave 4: Sites 19–24
+ https://doi.org/10.1371/journal.pgph.0001765.t001
+ 
+<section> of SPEED intervention.
+ 
+<section> Intervention
+ 
+<section> SP training is anchored in Kolb’s experiential learning and Bandura’s social learning theories
+ [29,30]; health providers learn through cycles of concrete experiences (mock clinical encoun-
+ ters with SPs), observation, and feedback after the encounters, in a safe and controlled setting.
+ Our 2-day training program for adolescent HIV care providers consisted of a combination of
+ 
+<section> Month Month Month Month 
+<insert> Table 2. Study outcomes, definitions, and sources.
+ Primary Outcome Definition Source
+ Retention in care Return to clinic within 90 days of enrollment visit, or within 30 days of a re-
+ engagement visit after a lapse of 90 days
+ EMR
+ HCW competency Self-reported competency before and after training Provider
+ Survey
+ Satisfaction with care Mean youth satisfaction score per clinic YLHIV
+ survey
+ Retention among all
+ ALHIV
+ Return to clinic within 30 days of enrollment visit EMR
+ Longer retention
+ window
+ Return to clinic within 180 days and 365 days EMR
+ Process Outcomes
+ Secondary Outcomes
+ https://doi.org/10.1371/journal.pgph.0001765.t002 
+<iend>
+
+ didactic sessions and SP encounters. Lectures included content in adolescent development
+ and national guidelines for YLHIV care, communication skills, and motivational interviewing.
+ Group exercises in communication and values clarification were also conducted. Participant
+ providers then rotated through 7 different SP encounters, followed by individual feedback
+ from SPs and a facilitated group debriefing in which the training group reviewed a video
+ recording of one of each participants’ SP encounters. Lectures and facilitation were delivered
+ by study team clinicians with expertise in adolescent HIV care.
+ Instrument development and actor training followed the Association of Standardized
+ Patient Educators (ASPE) Standards of Best Practice [31]. Cases were based on literature
+ review, previous qualitative work [16,32], and an expert advisory panel. The seven cases
+ included a practice scenario with no treatment challenges, advancing in difficulty and includ-
+ ing issues of disclosure, adherence, sexually transmitted infections, gender-based violence,
+ family planning, alcohol and drug use, depression, and sexual identity [32]. Actors were
+ recruited and auditioned through a casting agency and trained in the SP methodology and the
+ specific cases by an expert trainer and study staff.
+ The intervention training schedule was planned to minimize disruption to clinic operations
+ and accommodate provider availability from April 2017 through October 2019. During each
+ wave it took 2–4 weeks to train in groups of 6 providers. Participants from different clinics in
+ the Nairobi and Kiambu counties and those in Western Kenya sites trained together. Once
+ clinic staff were trained, it was presumed that all YLHIV enrolled in care at their respective
+ facilities were exposed to the intervention.
+ 
+<section> Outcomes
+ 
+<section> The primary outcome for this study was youth retention in HIV care, specifically during early
+ engagement (Table 2). Engagement was defined as returning for a first follow-up visit within
+ months of enrollment. To ensure adequate sample, YLHIV who had previously been lost to
+ follow-up (LTFU) were included with an engagement definition of return for a follow-up visit
+ within 3 months after re-engagement in care. Previous LTFU was defined as no clinic record
+ for at least 3 months and no record of death or transfer to another facility. Hypothesized pro-
+ cess measures intended to clarify the causal pathway included provider competency ratings
+ before and after the intervention and adolescent satisfaction with care. Satisfaction with care
+ questions were derived from concepts listed in the Kalamazoo consensus [33] and adapted
+ from a validated youth-provider interaction assessment [34]. Overall satisfaction was recorded
+ on a Likert scale (very unsatisfied = 1, somewhat unsatisfied = 2, neutral = 3, somewhat 
+<section> satisfied = 4, very satisfied = 5). Satisfaction surveys were completed at baseline and after
+ waves 1–3 of training. Wave 4 was not completed as a result of the COVID-19 pandemic.
+ Finally, secondary measures of retention within longer time frames (180 days and 365 days)
+ among all adolescents currently enrolled in HIV care were evaluated.
+ 
+<section> Sample size
+ 
+<section> The methods described by Hussey and Hughes [35] based on a model with a random intercept
+ were used to determine power assuming an evaluation with 24 clusters and 5 time points
+ (including baseline). Twenty-four clinics were included to account for a possible 15% drop-
+ out without replacement. As a small proportion of the adolescents enrolled in HIV care at
+ each site would be newly enrolled or recently re-engaged in care, the minimum number of rec-
+ ords per clinic was estimated for 80% power to detect a 15% difference between control and
+ intervention periods (i.e. 75% versus 90%) assuming a coefficient of variation k of 0.25 and cal-
+ culated power for a two-tailed test with α = 0.05. Based on relevant published data [2], 75% of
+ adolescents in the control period were assumed to return to clinic after first visit. An estimated
+ minimum of 5 adolescents per clinic per time point were needed under these assumptions.
+ 
+<section> Randomization and sequence generation
+ 
+<section> Facility clusters were randomized to the sequence in which they received the intervention. In
+ this one-way cross-over design, all 24 sites eventually received the intervention. Groups of
+ clinics were randomized to one of four intervention waves using stratified randomization
+ according to region and by facility size. Facility size was defined as ‘high volume’, more than
+ 73 YLHIV enrolled and medium volume, 73 or fewer YLHIV enrolled, based on the median,
+ to ensure balance of characteristics in each wave [36]. The study statistician generated the ran-
+ domization assignment for each clinic using Microsoft Excel. Study staff were not blinded to
+ randomization so that they could schedule and implement the training. Facilities were not
+ informed which wave they were in until it was time to schedule that wave.
+ 
+<section> Statistical methods
+ 
+<section> To estimate the effect of the intervention on the individual level, a generalized linear mixed
+ regression model with a Poisson distribution and robust standard errors, allowing for random
+ effects for clusters and fixed effects for time was used. Adjusted prevalence ratios (aPR) and
+ 95% confidence intervals at the 5% significance level (two-sided) for primary outcomes were
+ estimated. Satisfaction with care used the same approach with a Gaussian distribution for lin-
+ ear outcomes and adjusted for sex and age category (10–14, 15–19, 20–24). Analyses were con-
+ ducted using Stata 17 (College Station, TX).
+ 
+<section> Results
+ 
+<section> Recruitment and enrollment
+ 
+<section> Overall, 227 providers were screened for eligibility, 100% consented to participate, and 139
+ participated in the intervention training. At baseline, 157 providers were enrolled, and new
+ providers continued to be consented at enrolled sites immediately before their respective train-
+ ing wave. Medical records covering July 2016—March 2020 were abstracted for 4,595 YLHIV
+ with 44,622 visits. Although YLHIV EMR data through December 2020 was planned to be
+ included, outcome monitoring was stopped in March 2020 due to the influence of the
+ COVID-19 pandemic on clinic attendance. 
+<insert> Table 3. Baseline characteristics of participants.
+ Characteristic N (%) or Median (IQR)
+ Facilities (N = 24)
+ Region
+ Nairobi 9 (37.5)
+ Kiambu 7 (29.2)
+ Kisumu 4 (16.7)
+ Homa Bay 4 (16.7)
+ Facility type
+ County referral hospital or higher 6 (25.0)
+ Sub-county hospital 10 (41.7)
+ Health center 8 (33.3)
+ Patient volume – adults 1,707 (921–2327)
+ Patient volume – adolescents (10–24 years) 83 (40–153)
+ Any adolescent friendly health services training 5 (20.8)
+ HCW Cadres on staff
+ Clinical Officer 3 (2–5)
+ Nurse 5 (2–11.0)
+ HTC Counselor 5 (2–5.5)
+ HCW participants (N = 139)
+ Age 33 (24–40)
+ Gender
+ Male 33 (24.4)
+ Female 97 (71.9)
+ Not reported 5 (3.7)
+ Position
+ Counselor 57 (42.2)
+ Nurse 35 (25.9)
+ Clinical Officer 38 (28.2)
+ Not reported 5 (3.7)
+ Years working with YLHIV 3 (1–5)
+ Any prior training in adolescent-friendly services 68 (50.4)
+ https://doi.org/10.1371/journal.pgph.0001765.t003 
+<iend>
+
+ 
+<section> Baseline characteristics
+ 
+<section> Among the 24 participating facilities, 9 (38%) were in Nairobi, 7 (29%) in Kiambu, 4 (17%) in
+ Kisumu, and 4 (17%) in Homa Bay county. Most (n = 10, 42%) were sub-county level hospi-
+ tals, with 5 (21%) county-level hospitals or higher, and 8 (33%) health centers (Table 3). At
+ baseline, facilities reported a median number of 1,707 clients enrolled in HIV care, including
+ median of 83 YLHIV. Prior to start of study activities, 5 facilities (21%) had participated in any
+ previous AFHS training.
+ Among 139 HCWs completing the training, 135 participants completed demographic sur-
+ veys. They were a median age of 33 years and 72% female. Most (42%) were counselors, clinical
+ officers (28%), and nurses (26%). HCWs reported a median of 3 years of experience caring for
+ YLHIV (IQR = 1–5) and half (50%) had received any prior training in AFHS (S1 Data).
+ Among 6,043 YLHIV in care during the study time frame, 1,448 who were continuing care
+ were excluded and the primary analysis was restricted to 4,595 YLHIV: 3,540 newly enrolled
+ and 1,055 recently returned clients (Table 4). The median number of YLHIV per facility clus-
+ ter was 218 (IQR = 107–243). Most YLHIV (65%) were age 20–24, 24% were 15–19, and 11%
+ were 10–14; 82% were female. Overall, 75% of newly enrolled and recently returned YLHIV 
+<insert> Table 4. Adolescent EMR records (n = 4,595).
+ Overall
+ N (%) or Median (IQR)
+ Intervention exposed
+ N = 2,123
+ Intervention unexposed
+ N = 2,472
+ Female 3,782 (82.3) 1,761 (83.0) 2,021 (81.8)
+ Male 812 (17.7) 362 (17.0) 450 (18.2)
+ 10–14 498 (10.8) 220 (10.4) 278 (11.3)
+ 15–19 1,113 (24.2) 474 (22.3) 639 (25.9)
+ 20–24 2,984 (64.9) 1,429 (67.3) 1,555 (62.9)
+ 21.1 (18.9–22.7) 21.3 (19.1–22.8) 20.9 (18.7–22.6)
+ Married 1,174 (25.6) 529 (24.9) 645 (26.1)
+ Not married 1,517 (33.0) 670 (31.6) 847 (34.3)
+ Widowed 15 (0.3) 2 (0.1) 13 (0.5)
+ Not reported 1,889 (41.1) 922 (43.4) 967 (39.1)
+ New 3,540 (77.0) 1,504 (70.8) 2,036 (82.4)
+ Recently returned 1,055 (23.0) 619 (29.2) 436 (17.7)
+ Baseline 899 (19.6) 0 (0.0) 899 (36.4)
+ Wave 1,049 (22.8) 251 (11.8) 798 (32.3)
+ Wave 1,064 (23.2) 588 (27.7) 476 (19.3)
+ Wave 1,350 (29.4) 1,051 (49.5) 299 (12.1)
+ Wave 233 (5.1) 233 (11.0) 0 (0.0)
+ 3,425 (74.5) 1,570 (74.0) 1,855 (75.0)
+ Characteristic
+ Gender
+ Age
+ Age (median years, IQR)
+ Marital status
+ Enrollment in care
+ First eligible visit during study wave
+ Returned within 3 months after first visit
+ https://doi.org/10.1371/journal.pgph.0001765.t004
+ returned for a second visit within 90 days of their first visit on record (range across all facili-
+ ties = 49.8% to 93.8%).
+ Early engagement in care
+ Among the 4,595 adolescents and youth across 24 clusters, YLHIV presenting for care during
+ the exposed period had similar probability of return for a second visit as those who presented
+ during unexposed periods [74% in exposed, 75% in unexposed group; adjusted prevalence ratio
+ (aPR) = 0.95, 95% confidence interval (CI) = 0.88–1.02] (Table 5). There was a trend for overall
+ improved retention over time (global Wald p = 0.10) with significant improvement comparing
+ baseline engagement to wave 2 (aPR = 1.08, 95%CI = 1.00–1.16) and to wave 3 (aPR = 1.15,
+ 95%CI = 1.04–1.27). Newly enrolled clients had significantly higher engagement compared to
+ those who had previous gaps in care across all time periods (aPR = 1.18, 95%CI = 1.05–1.33).
+ Sensitivity analyses restricted to 10–19 year old YLHIV and among all YLHIV, including those
+ continuing in care, were similarly null when comparing exposed and unexposed time periods
+ (aPR = 0.91, 95%CI = 0.81–1.04 and aPR = 0.98, 95%CI = 0.90–1.07 respectively). 
+<iend>
+
+ 
+<section> Satisfaction with care
+ 
+<section> Across all 24 clusters, 925 YLHIV completed satisfaction with care exit surveys (S2 Data).
+ YLHIV were a median of 16 years old, 58% female, and 73% enrolled in school. The majority
+ of YLHIV presented to care alone (68%), 27% attended with a parent, and 5% with a friend or 
+<insert> Table 5. Intervention exposure on early engagement (n = 4,595) and satisfaction with care (n = 925).
+ Primary Outcome –
+ Early engagement in care
+ Prevalence ratio 95% Confidence interval p-value
+ Intervention exposure 0.95 0.88–1.02 0.15
+ Time
+ Baseline Ref
+ Wave 1.05 0.98–1.13 0.14
+ Wave 1.08 1.00–1.16 0.04
+ Wave 1.15 1.04–1.27 0.007
+ Wave 1.14 0.99–1.31 0.06
+ Newly enrolled 1.18 1.05–1.33 0.006
+ Process Measure –
+ Satisfaction with care
+ Coefficient 95% Confidence interval p-value
+ Intervention exposure -0.06 -0.19–0.07 0.37
+ Time*
+ Baseline Ref
+ Wave 0.23** 0.09–0.37 0.001
+ Wave 0.29 0.10–0.48 0.003
+ Wave 0.38 0.19–0.57 <0.001
+ Age
+ 10–14 Ref
+ 15–19 0.13 0.04–0.21 0.005
+ 20–24 0.04 -0.08–0.16 0.49
+ Female 0.86 -0.04–0.11 0.11
+ *Wave 4 surveys not conducted due to COVID-19.
+ **Increase from baseline score on a 5-pt Likert scale.
+ https://doi.org/10.1371/journal.pgph.0001765.t005 
+<iend>
+
+ 
+<section> other support person. YLHIV reported general overall satisfaction, with a median score of 4
+ baseline at 5 at the end of wave 3. The largest differences were seen in the very satisfied cate-
+ gory, with 47% reporting being very satisfied with care at baseline and 78% being very satisfied
+ at the end of wave 3. Those presenting for care during exposed time periods had higher satis-
+ faction (69.8% very satisfied) than those who were unexposed to trained providers (60.4% very
+ satisfied), however in models adjusted for time, intervention exposure was not significantly
+ associated with increased satisfaction (adjusted coefficient = -0.06, 95%CI = -0.19–0.07).
+ 
+<section> Harms
+ 
+<section> The study team monitored for social harms that could have resulted from altered counseling
+ approaches by providers following the training. None were reported.
+ 
+<section> Health provider retention at study sites
+ 
+<section> Nine months after each training wave, we assessed whether trained providers were still practic-
+ ing at their respective study sites. Overall, 54% (75/139) were still working at the same facility
+ (facility-specific range: 20%-100%).
+ 
+<section> Discussion
+ 
+<section> This stepped wedge randomized trial of a standardized patient training intervention was
+ highly acceptable and improved provider confidence in care of YLHIV [37], however it did 
+<section> not result in improved early engagement in care among YLHIV. Several measurement chal-
+ lenges limited ability to detect effectiveness on the YLHIV population including substantial
+ temporal changes in study outcomes, truncated final wave ascertainment of YLHIV measures
+ due to the COVID-19 pandemic, and turnover of trained HCWs resulting in diffusion of the
+ intervention across sites.
+ Encouragingly, we found significant improvements over time in both retention and satisfac-
+ tion with care outcomes, suggesting that Kenya’s national investment in adolescent-friendly care
+ is contributing to improved YLHIV outcomes. During the trial period Kenya’s National AIDS
+ and STD Control Programme launched a 2015 Adolescent Package of Care which aimed to mini-
+ mize barriers and improve health service provision for adolescents [38,39], the Ministry of Health
+ issued updated 2016 national guidance for adolescent friendly services [14], and PEPFAR sus-
+ tained and prioritized investment in study counties and adolescent populations [40–42]. The sub-
+ sequent 2018 Kenya Population-based HIV Impact Assessment (KENPHIA) found that
+ adolescent (15–24 years) viral suppression was 79% compared to adult suppression at 72% [43].
+ is possible that these national gains contributed to dilution of the overall intervention effect.
+ We also found that those with previous gaps in care were more likely to be lost to follow up
+ again. This may have been in part because of longer visit intervals, though the study period
+ pre-dated roll out of differentiated care and standardized longer visit intervals. It is also likely
+ that adolescents have longer visit intervals related to school attendance. Previous gaps in care,
+ however, could be a signal for health providers to allocate more intensive support services to
+ prevent future loss to care.
+ At the individual level, YLHIV face numerous barriers to adherence and engagement in care,
+ including depression, stigma, and other psychosocial factors [44–46]. While evidence suggests
+ that investment in adolescent friendly services addresses many of these barriers and contributes
+ to improved clinical outcomes among YLHIV [47–50], interventions for more challenging men-
+ tal health conditions are still largely lacking for this population [51]. It is also possible that
+ YLHIV in the intervention period no longer received exposure to the intervention due to the
+ large degree of HCW turnover. Shifting training delivery to pre-service settings for all new
+ HCWs may be useful to ensure consistent training coverage in priority topics and skills. In addi-
+ tion, evaluation of a more proximal measures (provider communication skills, judgmental behav-
+ ior, or adherence to guidelines) or linking trained HCW with specific YLHIV in analyses rather
+ than assessing clinic-level effect could enable a clearer understanding of intervention effect.
+ This study was unique in that we attempted to determine whether an SP training interven-
+ tion had a long-term patient effect using a stepped wedge RCT design. While SPs are increas-
+ ingly used to assess quality of care in low-resource settings [52–58], studies of patient actor
+ training interventions have primarily taken place in high-resource settings with proximal out-
+ comes of provider skill or performance [19,59,60]. Indeed, our intervention was effective in
+ improving self-rated provider skills [32,37]. Our use of routine electronic medical records as
+ tool to assess patient outcomes was also innovative. Although a promising approach to mea-
+ sure trial and program outcomes, there were numerous challenges with completeness of EMR
+ data and implementation of EMR systems. Next visit dates were not an established entry at the
+ time of the study, thus assumptions had to be made about expected return dates. Similarly, dis-
+ ruptions in use of the 4 different electronic platforms across 6 implementing partners and 24
+ clinics, incompleteness of clinical variables such as viral load and adherence in the EMR.
+ 
+<section> Conclusion
+ 
+<section> In conclusion, the standardized patient actor training intervention did not result in a measur-
+ able effect on adolescent satisfaction or early engagement in care among YLHIV in Kenya. 
+<section> There was however high acceptability among health providers, and previous analyses demon-
+ strated improvements in provider confidence and performance. Future research could target
+ more proximal measures of patient-centered care as well as effectiveness for other key popula-
+ tions or other care systems. Training HCWs in their pre-service, rather than in-service, period
+ may address facility turnover however may need to be reinforced over time with evolving
+ guidelines and priorities.
+ 
+<section> Supporting information
+ 
+<section> S1 Checklist. Reporting checklist for stepped wedge cluster randomized trials (SW-CRT).
+ 
+<section> (PDF)
+ 
+<section> S1 Data. Health care worker survey data. Health care worker codebook.
+ 
+<section> (CSV)
+ 
+<section> S2 Data. Adolescent satisfaction survey data. Adolescent satisfaction survey codebook.
+ 
+<section> (CSV)
+ 
+<section> Author Contributions
+ 
+<section> Conceptualization: Pamela K. Kohler, Cyrus Mugo, Kate S. Wilson, Barbra A. Richardson,
+ David Bukusi, Grace John-Stewart, Dalton Wamalwa.
+ 
+<section> Data curation: Alvin Onyango, Kenneth Tapia, Kenneth Pike, Margaret Nduati.
+ 
+<section> Formal analysis: Pamela K. Kohler, Kate S. Wilson, Kenneth Tapia, Kenneth Pike.
+ 
+<section> Funding acquisition: Pamela K. Kohler.
+ 
+<section> Investigation: Pamela K. Kohler, Cyrus Mugo, Hellen Moraa, Alvin Onyango, Caren Mburu,
+ Margaret Nduati, David Bukusi, Irene Inwani, Dalton Wamalwa.
+ 
+<section> Methodology: Pamela K. Kohler, Kate S. Wilson, Brandon Guthrie, Barbra A. Richardson,
+ Tamara Owens, Grace John-Stewart.
+ 
+<section> Supervision: Pamela K. Kohler, Irene Inwani, Dalton Wamalwa.
+ 
+<section> Writing – original draft: Pamela K. Kohler.
+ 
+<section> Writing – review & editing: Cyrus Mugo, Kate S. Wilson, Hellen Moraa, Alvin Onyango,
+ Caren Mburu, Margaret Nduati, Brandon Guthrie, Barbra A. Richardson, Tamara Owens,
+ David Bukusi, Irene Inwani, Grace John-Stewart, Dalton Wamalwa.
+ 
+<section> References
+ 
+<section> UNICEF. HIV and AIDS in Adolescents 2020 [Available from: https://data.unicef.org/topic/adolescents/
+ hiv-aids/.
+ Koech E, Teasdale CA, Wang C, Fayorsey R, Alwar T, Mukui IN, et al. Characteristics and outcomes
+ HIV-infected youth and young adolescents enrolled in HIV care in Kenya. Aids. 2014; 28(18):2729–38.
+ https://doi.org/10.1097/QAD.0000000000000473 PMID: 25493599
+ Auld AF, Agolory SG, Shiraishi RW, Wabwire-Mangen F, Kwesigabo G, Mulenga M, et al. Antiretroviral
+ Therapy Enrollment Characteristics and Outcomes Among HIV-Infected Adolescents and Young Adults
+ Compared with Older Adults—Seven African Countries, 2004–2013. MMWR Morb Mortal Wkly Rep.
+ 
+<section> 2014; 63(47):1097–103. PMID: 25426651
+ Han W, Law M, Egger M, Wools-Kaloustian K, Moore R, McGowan C, et al. Global estimates of viral
+ suppression in children and adolescents and adults on antiretroviral therapy adjusted for missing viral
+ load measurements: a multiregional, retrospective cohort study in 31 countries. The lancet HIV. 2021;8 
+<section> Mwau M, Syeunda C, Adhiambo M, Bwana P, Kithinji L, Mwende J, et al. Scale-up of Kenya’s national
+ 
+<section> HIV viral load program: Findings and lessons learned. PloS one. 2018; 13(1). https://doi.org/10.1371/
+ 
+<section> journal.pone.0190659 PMID: 29324811
+ UNAIDS. Confronting Inequalities: Global AIDS Update 2021. Geneva; 2021.
+ Blakemore SJ. Development of the social brain in adolescence. Journal of the Royal Society of Medi-
+ cine. 2012; 105(3):111–6. https://doi.org/10.1258/jrsm.2011.110221 PMID: 22434810
+ WHO U. Adolescents falling through gaps in HIV services 2013 [Available from: http://www.who.int/
+ mediacentre/news/releases/2013/hiv-adolescents-20131125/en/.
+ WHO. Adolescent HIV testing, counselling and care. Implementation guidance for health providers and
+ planners. 2013.
+ WHO. Strengthening the health sector response to care, support, treatment and prevention for young
+ people living with HIV. 2006.
+ Mavhu W, Berwick J, Chirawu P, Makamba M, Copas A, Dirawo J, et al. Enhancing psychosocial sup-
+ port for HIV positive adolescents in Harare, Zimbabwe. PLoS One. 2013; 8(7):e70254. https://doi.org/
+ 10.1371/journal.pone.0070254 PMID: 23894625
+ World Health Organization. Making health services adolescent friendly. 2012.
+ World Health Organization. Global Standards for Quality Health-care Services for Adolescents.
+ Geneva; 2015.
+ Kenya Ministry of Health. National Guidelines for Provision of Adolescent and Youth Friendly Services
+ in Kenya. Nairobi; 2016.
+ Godia PM, Olenja JM, Lavussa JA, Quinney D, Hofman JJ, van den Broek N. Sexual reproductive
+ health service provision to young people in Kenya; health service providers’ experiences. BMC Health
+ Serv Res. 2013; 13:476. https://doi.org/10.1186/1472-6963-13-476 PMID: 24229365
+ Wilson KS, Beima-Sofie KM, Moraa H, Wagner AD, Mugo C, Mutiti PM, et al. "At our age, we would like
+ to do things the way we want: " a qualitative study of adolescent HIV testing services in Kenya. Aids.
+ 2017; 31 Suppl 3:S213–s20. https://doi.org/10.1097/QAD.0000000000001513 PMID: 28665879
+ Weaver M, Erby L. Standardized patients: a promising tool for health education and health promotion.
+ Health Promot Pract. 2012; 13(2):169–74. https://doi.org/10.1177/1524839911432006 PMID:
+ 
+<section> 22382493
+ Peabody JW, Luck J, Glassman P, Dresselhaus TR, Lee M. Comparison of vignettes, standardized
+ patients, and chart abstraction: a prospective validation study of 3 methods for measuring quality.
+ Jama. 2000; 283(13):1715–22. https://doi.org/10.1001/jama.283.13.1715 PMID: 10755498
+ Eid A, Petty M, Hutchins L, Thompson R. "Breaking bad news": standardized patient intervention
+ improves communication skills for hematology-oncology fellows and advanced practice nurses. J Can-
+ cer Educ. 2009; 24(2):154–9. https://doi.org/10.1080/08858190902854848 PMID: 19431034
+ Elley CR, Clinick T, Wong C, Arroll B, Kennelly J, Doerr H, et al. Effectiveness of simulated clinical
+ teaching in general practice: randomised controlled trial. J Prim Health Care. 2012; 4(4):281–7. PMID:
+ 
+<section> 23205376
+ Walker D, Fritz J, Olvera M, Lamadrid H, Cohen S, Fahey J. PRONTO Low-Tech Obstetric Simulation
+ and Team Training in Mexico Improves Patient Outcomes, and Evidence-Based Care at Birth. Obstet
+ Gynecol. 2014; 123 Suppl 1:176s–7s.
+ Walker D, Cohen S, Fritz J, Olvera M, Lamadrid H, Carranza L. PRONTO Low-Tech Obstetric Simula-
+ tion and Team-Training for Obstetric and Neonatal Emergencies in Mexico Leads to a Decrease in
+ Cesarean Delivery Rates. Obstet Gynecol. 2014; 123 Suppl 1:177s.
+ Walker D, Cohen S, Fritz J, Olvera M, Lamadrid-Figueroa H, Cowan J, et al. Team training in obstetric
+ and neonatal emergencies using highly realistic simulation in Mexico: impact on process indicators.
+ BMC Pregnancy Childbirth. 2014; 14(1):367. https://doi.org/10.1186/s12884-014-0367-1 PMID:
+ 
+<section> 25409895
+ Aday LA, Andersen R. A framework for the study of access to medical care. Health Serv Res. 1974;
+ (3):208–20. PMID: 4436074
+ Andersen RM. Revisiting the behavioral model and access to medical care: does it matter? J Health
+ Soc Behav. 1995; 36(1):1–10. PMID: 7738325
+ Wilson K, Mugo C, Bukusi D, Inwani I, Wagner A, Moraa H, et al. Simulated patient encounters to
+ improve adolescent retention in HIV care in Kenya: study protocol of a stepped-wedge randomized con-
+ trolled trial. Trials. 2017; 18(1). https://doi.org/10.1186/s13063-017-2266-z PMID: 29282109
+ Hemming K, Taljaard M. Reflection on modern methods: when is a stepped-wedge cluster randomized
+ trial a good study design choice? International journal of epidemiology. 2020;49(3). 
+<section> Hemming K, Haines T, Chilton P, Girling A, Lilford R. The stepped wedge cluster randomised trial: ratio-
+ nale, design, analysis, and reporting. BMJ (Clinical research ed). 2015;350. https://doi.org/10.1136/
+ 
+<section> bmj.h391 PMID: 25662947
+ Kolb D. Experiential learning: Experience as the source of learning and development. Englewood Cliffs,
+ NJ: Prentice-Hall; 1984.
+ Bandura A. Social Learning Theory. Englewood Cliffs, NJ: Prentice Hall; 1977.
+ Lewis K, Bohnert C, Gammon W, Hölzer H, Lyman L, Smith C, et al. The Association of Standardized
+ Patient Educators (ASPE) Standards of Best Practice (SOBP). Advances in simulation (London,
+ England). 2017;2.
+ Mugo C, Wilson K, Wagner A, Inwani I, Means K, Bukusi D, et al. Pilot evaluation of a standardized
+ patient actor training intervention to improve HIV care for adolescents and young adults in Kenya. AIDS
+ care. 2019; 31(10). https://doi.org/10.1080/09540121.2019.1587361 PMID: 30810351
+ Makoul G. Essential elements of communication in medical encounters: the Kalamazoo consensus
+ statement. Acad Med. 2001; 76(4):390–3. https://doi.org/10.1097/00001888-200104000-00021 PMID:
+ 
+<section> 11299158
+ Woods E, Klein J, Wingood G, Rose E, Wypij D, Harris S, et al. Development of a new Adolescent
+ Patient-Provider Interaction Scale (APPIS) for youth at risk for STDs/HIV. The Journal of adolescent
+ health: official publication of the Society for Adolescent Medicine. 2006; 38(6). https://doi.org/10.1016/j.
+ jadohealth.2005.08.013 PMID: 16730606
+ Hussey MA, Hughes JP. Design and analysis of stepped wedge cluster randomized trials. Contempo-
+ rary clinical trials. 2007; 28(2):182–91. https://doi.org/10.1016/j.cct.2006.05.007 PMID: 16829207
+ Ivers NM, Halperin IJ, Barnsley J, Grimshaw JM, Shah BR, Tu K, et al. Allocation techniques for balance
+ at baseline in cluster randomized trials: a methodological review. Trials. 2012; 13:120. https://doi.org/
+ 10.1186/1745-6215-13-120 PMID: 22853820
+ Okinyi HM, Wachira CM, Wilson KS, Nduati MN, Onyango AD, Mburu CW, et al. ". J Int Assoc Provid
+ AIDS Care. 2022; 21:23259582221075133.
+ Mburu M, Guzé M, Ong’wen P, Okoko N, Moghadassi M, Cohen C, et al. Evaluating the effectiveness
+ of the HIV adolescent package of care (APOC) training on viral load suppression in Kenya. Public
+ health. 2019;173.
+ Njuguna I, Beima-Sofie K, Mburu C, Black D, Evans Y, Guthrie B, et al. What happens at adolescent
+ and young adult HIV clinics? A national survey of models of care, transition and disclosure practices
+ Kenya. Tropical medicine & international health: TM & IH. 2020; 25(5). https://doi.org/10.1111/tmi.
+ 
+<section> 13374 PMID: 31984597
+ PEPFAR. Kenya Country Operational Plan: Strategic Direction Summary. Washington DC; 2016.
+ PEPFAR. Kenya Country Operational Plan: Strategic Direction Summary. 2017.
+ PEPFAR. Kenya Country Operational Plan: Strategic Direction Summary. Washington DC; 2018.
+ National AIDS and STI Control Programme (NASCOP). Kenya Population-based HIV Impact Assess-
+ ment (KENPHIA) 2018: Final Report. August, 2022.
+ Enane L, Apondi E, Omollo M, Toromo J, Bakari S, Aluoch J, et al. "I just keep quiet about it and act as
+ everything is alright"—The cascade from trauma to disengagement among adolescents living with HIV
+ in western Kenya. Journal of the International AIDS Society. 2021; 24(4).
+ Filiatreau L, Pettifor A, Edwards J, Masilela N, Twine R, Xavier G-OF, et al. Associations Between Key
+ Psychosocial Stressors and Viral Suppression and Retention in Care Among Youth with HIV in Rural
+ South Africa. AIDS and behavior. 2021;25(8). https://doi.org/10.1007/s10461-021-03198-9 PMID:
+ 
+<section> 33624194
+ Boyes M, Pantelic M, Casale M, Toska E, Newnham E, Cluver L. Prospective associations between bul-
+ lying victimisation, internalised stigma, and mental health in South African adolescents living with HIV.
+ Journal of affective disorders. 2020;276. https://doi.org/10.1016/j.jad.2020.07.101 PMID: 32871672
+ Njuguna I, Neary J, Mburu C, Black D, Beima-Sofie K, Wagner A, et al. Clinic-level and individual-level
+ factors that influence HIV viral suppression in adolescents and young adults: a national survey in
+ Kenya. AIDS (London, England). 2020; 34(7). https://doi.org/10.1097/QAD.0000000000002538 PMID:
+ 
+<section> 32287060
+ Wilson K, Mugo C, Moraa H, Onyango A, Nduati M, Inwani I, et al. Health provider training is associated
+ with improved engagement in HIV care among adolescents and young adults in Kenya. AIDS (London,
+ England). 2019; 33(9). https://doi.org/10.1097/QAD.0000000000002217 PMID: 30932957
+ Wilson K, Onyango A, Mugo C, Guthrie B, Slyker J, Richardson B, et al. Kenyan HIV Clinics With
+ Youth-Friendly Services and Trained Providers Have a Higher Prevalence of Viral Suppression Among
+ 
+<section> Adolescents and Young Adults: Results From an Observational Study. The Journal of the Association 
+<section> of Nurses in AIDS Care: JANAC. 2022; 33(1). https://doi.org/10.1097/JNC.0000000000000302 PMID:
+ 
+<section> 34939987
+ 
+<section> Zanoni B, Sibaya T, Cairns C, Haberer J. Barriers to Retention in Care are Overcome by Adolescent-
+ Friendly Services for Adolescents Living with HIV in South Africa: A Qualitative Analysis. AIDS and
+ behavior. 2019; 23(4). https://doi.org/10.1007/s10461-018-2352-6 PMID: 30535836
+ Haines C ME L, Coetzee B, Higson-Sweeney N. Which HIV-infected youth are at risk of developing
+ depression and what treatments help? A systematic review focusing on Southern Africa. International
+ journal of adolescent medicine and health. 2019; 33(5).
+ 
+<section> Cazabon D, Pande T, Sen P, Daftary A, Arsenault C, Bhatnagar H, et al. User experience and patient
+ satisfaction with tuberculosis care in low- and middle-income countries: A systematic review. Journal
+ clinical tuberculosis and other mycobacterial diseases. 2020; 19. https://doi.org/10.1016/j.jctube.2020.
+ 
+<section> 100154 PMID: 32140571
+ 
+<section> Kwan A, Daniels B, Bergkvist S, Das V, Pai M, Das J. Use of standardised patients for healthcare quality
+ research in low- and middle-income countries. BMJ global health. 2019; 4(5). https://doi.org/10.1136/
+ 
+<section> bmjgh-2019-001669 PMID: 31565413
+ 
+<section> Salomon A, J B, Moyo S, Chikovore J, Sulis G, Daniels B, et al. Prescribing practices for presumptive
+ TB among private general practitioners in South Africa: a cross-sectional, standardised patient study.
+ BMJ global health. 2022; 7(1). https://doi.org/10.1136/bmjgh-2021-007456 PMID: 35042710
+ Boffa J, Moyo S, Chikovore J, Salomon A, Daniels B, Kwan A, et al. Quality of care for tuberculosis and
+ 
+<section> HIV in the private health sector: a cross-sectional, standardised patient study in South Africa. BMJ
+ global health. 2021; 6(5). https://doi.org/10.1136/bmjgh-2021-005250 PMID: 33990360
+ Mugo PM, Duncan S, Mwaniki SW, Thiong’o AN, Gichuru E, Okuku HS, et al. Cross-sectional survey
+ treatment practices for urethritis at pharmacies, private clinics and government health facilities in
+ coastal Kenya: many missed opportunities for HIV prevention. Sex Transm Infect. 2013; 89(7):583–9.
+ https://doi.org/10.1136/sextrans-2012-050979 PMID: 23698510
+ 
+<section> Rowe AK, Onikpo F, Lama M, Deming MS. Evaluating health worker performance in Benin using the
+ simulated client method with real children. Implementation Science. 2012; 7(1):95. https://doi.org/10.
+ 
+<section> 1186/1748-5908-7-95 PMID: 23043671
+ 
+<section> Kohler P, Marumo E, Jed S, Mema G, Galagan S, Tapia K, et al. A national evaluation using standard-
+ ised patient actors to assess STI services in public sector clinical sentinel surveillance facilities in South
+ Africa. Sexually transmitted infections. 2017; 93(4). https://doi.org/10.1136/sextrans-2016-052930
+ 
+<section> PMID: 28130505
+ 
+<section> Kleber C, Cwojdzinski D, Strehl M, Poloczek S, Haas NP. Results of in-hospital triage in 17 mass casu-
+ alty trainings: underestimation of life-threatening injuries and need for re-triage. Am J Disaster Med.
+ 2013; 8(1):5–11. https://doi.org/10.5055/ajdm.2013.0106 PMID: 23716369
+ Schneider A, Messerer D, Kühn V, Horneffer A, Bugaj T, Nikendei C, et al. Randomised controlled
+ monocentric trial to compare the impact of using professional actors or peers for communication training
+ in a competency-based inverted biochemistry classroom in preclinical medical education. BMJ open.
+ 2022; 12(5). https://doi.org/10.1136/bmjopen-2021-050823 PMID: 35618331

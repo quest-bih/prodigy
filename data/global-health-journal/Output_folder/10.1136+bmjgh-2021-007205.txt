@@ -1,0 +1,1282 @@
+
+<section> To cite: Yang JE, Lassala D,
+ Liu JX, et al. Effect of mobile
+ application user interface
+ improvements on minimum
+ expected home visit coverage
+ by community health workers
+ in Mali: a randomised controlled
+ 
+<section> trial. BMJ Global Health
+ 2021;6:e007205. doi:10.1136/
+ 
+<section> bmjgh-2021-007205
+ 
+<section> Handling editor Seye Abimbola
+ 
+<section> ► Additional supplemental
+ material is published online only.
+ To view, please visit the journal
+ online (http://​dx. d oi.​org/​10.​
+ 1136/ b mjgh-​2021- 07205).
+ 
+<section> Received 17 August 2021
+ Accepted 18 October 2021
+ 
+<section> © Author(s) (or their
+ employer(s)) 2021. Re-­use
+ permitted under CC BY.
+ Published by BMJ.
+ For numbered affiliations see
+ end of article.
+ 
+<section> Correspondence to
+ 
+<section> Jane E Yang;
+ ​jemilieyang@​gmail. c om
+ 
+<section> Effect of mobile application
+ 
+<section> interface improvements
+ 
+<section> expected home visit coverage
+ 
+<section> community health workers
+ 
+<section> randomised controlled
+ 
+<section> Jane E Yang , 1 Diego Lassala , 2 Jenny
+ Isaac Holeman , 4,5,6 Youssouf Keita, 2 Yasamba
+ Sory Ibrahima N’Diaye, 2 Fatou Fall, 7 Kassoum
+ 
+<section> ABSTRACT
+ 
+<section> Background Proactive community case management
+ (ProCCM) has shown promise to advance goals of universal
+ health coverage (UHC). ProCCM community health workers
+ (CHWs) face operational challenges when pursuing their
+ goal of visiting every household in their service area at
+ least twice monthly to proactively find sick patients. We
+ developed a software extension (UHC Mode) to an existing
+ CHW mobile application featuring user interface design
+ improvements to support CHWs in planning daily home
+ visits. We evaluated the effect of UHC Mode on minimum
+ expected home visit coverage.
+ 
+<section> Methods We conducted a parallel-­group, two-­arm
+ randomised controlled trial of ProCCM CHWs in two
+ separate regions in Mali. CHWs were randomly assigned
+ to UHC Mode or the standard mobile application (control)
+ with a 1:1 allocation. Randomisation was stratified by
+ health catchment area. CHWs and other programme
+ personnel were not masked to arm allocation. CHWs
+ used their assigned intervention for 4 months. Using a
+ difference-­in-­differences analysis, we estimated the mean
+ change in minimum expected home visit coverage from
+ preintervention to postintervention between arms.
+ 
+<section> Results Enrolment occurred in January 2019. Of
+ eligible CHWs randomised to the intervention or control
+ arm, 196 were enrolled and 195 were included in the
+ analysis. Households whose CHW used UHC Mode had
+ 2.41 times higher odds of minimum expected home visit
+ coverage compared with households whose CHW used
+ the control (95% CI 1.68 to 3.47; p<0.0005). Minimum
+ expected home visit coverage in the UHC Mode arm
+ increased 13.6 percentage points (95% CI 8.1 to 19.0)
+ compared with the control arm.
+ 
+<section> Conclusion Our findings suggest UHC Mode is an
+ effective tool that can improve home visit coverage and
+ promote progress towards UHC when implemented in
+ the ProCCM context. User interface design of health
+ information systems that supports health workers’ daily
+ practices and meets their requirements can have a positive
+ impact on health worker performance and home visit
+ coverage.
+ 
+<section> Trial registration number NCT04106921.
+ 
+<section> user
+ 
+<section> on minimum
+ 
+<section> by
+ 
+<section> in Mali: a
+ 
+<section> trial
+ 
+<section> X Liu , 3 Caroline Whidden ,
+ 
+<section> Djiguiba,
+ Kayentao , 2,8 Ari D Johnson 1,9
+ 
+<section> Key questions
+ 
+<section> What is already known?
+ 
+<section> ► There are few published studies that have evaluat-
+ ed the effect of digital user interface design inter-
+ ventions on health worker performance or health
+ service delivery in low-­income and middle-­income
+ country settings.
+ 
+<section> ► Most studies of user interface design have method-
+ ological limitations and focus on qualitative surveys
+ of the acceptability and usability of health informa-
+ tion systems.
+ 
+<section> ► This research gap is notable given existing strate-
+ gies to improve service coverage and access to care
+ through community health workers (CHWs), and
+ considering CHWs may have more limited access to
+ technical literacy training opportunities than is the
+ norm among physicians and nurses.
+ 
+<section> What are the new findings?
+ 
+<section> ► This randomised controlled trial is one of the first to
+ evaluate the effect of digital user interface design
+ improvements on CHW performance, specifically
+ minimum expected home visit coverage.
+ 
+<section> ► Use of universal health coverage (UHC) Mode, a soft-
+ ware extension to an existing mobile application for
+ CHWs, resulted in an increase in minimum expected
+ home visit coverage.
+ 
+<section> ► Across two study areas, results were similarly posi-
+ tive, though the separate analysis for the rural health
+ catchment area was limited by its small sample size.
+ 
+<section> INTRODUCTION
+ Achieving universal health coverage (UHC),
+ a critical sustainable development goal and
+ a precursor to meeting other health-­related
+ sustainable development goals such as ending
+ preventable child and maternal deaths,
+ requires monitoring population coverage of
+ essential health services and attaining high 
+<section> Key questions
+ 
+<section> What do the new findings imply?
+ 
+<section> ► As countries pursue their 2030 UHC goals, digitally supported CHWs
+ can advance these goals at the local level.
+ 
+<section> ► UHC Mode should be considered an effective tool that can improve
+ minimum expected home visit coverage and promote progress to-
+ wards UHC when implemented in the proactive community case
+ management context.
+ 
+<section> ► User interface design of health information systems that supports
+ health workers in their daily practice and meets their requirements
+ can have a positive impact on health worker performance and
+ home visit coverage.
+ 
+<section> rates of coverage and access. 1 To make progress towards
+ UHC in sub-­Saharan Africa and improve child health and
+ survival, many governments have implemented a strategy
+ of community-­based service delivery known as integrated
+ community case management (iCCM) via community
+ health worker (CHW) programmes at varying levels of
+ scale. 2 This strategy consists of the delivery of essential
+ health services by trained health workers who live in the
+ communities they serve. Although a range of studies
+ show that CHWs can effectively deliver services, 3–5 many
+ low-­income and middle-­income country (LMIC) settings
+ have observed low coverage of home visits and other
+ health services. 6–10
+ Proactive CCM (ProCCM) is an alternative iCCM
+ model that aims to increase coverage, speed and quality
+ of health service delivery and improve maternal and child
+ health outcomes. ProCCM CHWs integrate into existing
+ health systems, receive monthly dedicated supervision,
+ conduct active case-­finding home visits to all households
+ in their service area, provide doorstep care free-­of-­charge
+ to patients, and evacuate patients with danger signs to
+ redesigned government primary care clinics. After
+ promising findings from recent observational studies,
+ ProCCM and the causal effects of proactive case detec-
+ tion on access to care and child mortality are being eval-
+ uated in rural Mali. 12 CHW workflow for service delivery,
+ the effect of home visits on access to care, and ways to
+ optimally support CHW performance remain research
+ priorities in the community health field. 13–15
+ Digital technologies such as mobile applications are
+ recommended as a best practice for high-­functioning
+ CHW programmes to improve the speed, quality and
+ equity of CHW services via more timely and usable
+ data. 16 Digital health interventions may increase adher-
+ ence to case management guidelines, 17 18 increase time-
+ liness of care, 19 and improve the effectiveness of CHW
+ supervision. 15 Yet they also face complex implemen-
+ tation challenges, including the need for better align-
+ ment with health worker routines and interoperability
+ with local infrastructure. 20 Poor accessibility of user
+ interfaces may limit the benefits of health information
+ systems and has been cited as a source of medical and
+ user errors and health worker burnout. 21–23 There are
+ still very few studies of the effects of improved user inter-
+ face design on digitally supported care in LMICs. This
+ gap is notable given existing strategies to improve service
+ coverage and access to care through CHWs, and consid-
+ ering CHWs may have more limited access to technical
+ literacy training opportunities than is the norm among
+ physicians and nurses.
+ In a CHW programme in Mali, ProCCM CHWs are often
+ each responsible for 100–200 households depending
+ on the setting (rural or urban) and population density.
+ Given their context-­specific knowledge of their communi-
+ ties and responsibilities for triaging a wide array of tasks,
+ including urgent patient evacuations, ProCCM CHWs
+ maintain complete autonomy in determining their daily
+ workflows (eg, the sequence of visiting households in the
+ service area). Still, they face unique operational chal-
+ lenges as they pursue meeting the programmatic goal of
+ visiting every household in their service area at least twice
+ monthly, including lack of functionality in their existing
+ mobile application to monitor their progress and orga-
+ nise their workflow. We developed a software extension
+ (UHC Mode) to address these challenges by providing
+ CHWs with real-­time data to support CHWs in planning
+ their daily home visits. This study’s primary objective
+ was to evaluate the effect of UHC Mode on minimum
+ expected home visit coverage.
+ 
+<section> METHODS
+ Study design and participants
+ We conducted a parallel-­ group, two-­ arm randomised
+ controlled trial in the community setting in two health
+ catchment areas in separate regions in Mali, from August
+ 2018 to July 2019 (see figure 1 for Consolidated Stand-
+ ards of Reporting Trials diagram).
+ CHWs in Tori and Yirimadio providing health services
+ based on the ProCCM model were eligible. Although
+ this study took place in a larger context of ProCCM care
+ delivery, a full description of which is published else-
+ where, 11 12 it is unrelated to the separate ProCCM trial.
+ Tori, a rural area in the Mopti region in central Mali,
+ had a population of 29 029 in 2019, while Yirimadio, a
+ periurban area in Bamako, the nation’s capital, had an
+ estimated population of 176 089. Both areas were each
+ served by one public sector primary health centre at the
+ time of the trial.
+ Three CHWs delivering ProCCM in Yirimadio were
+ randomly selected to pilot test UHC Mode before its
+ launch. CHWs who did not provide written informed
+ consent, or had to drop out of the study before inter-
+ vention launch, or were involved in pilot testing, were
+ excluded from the trial.
+ Although additional secondary outcomes were orig-
+ inally planned, these were dropped due to operational
+ constraints and unforeseen challenges in study imple-
+ mentation (described in the Data preparation section of
+ online supplemental materials). 
+<insert> Figure 1 Trial profile. CHWs, community health workers; UHC, 
+<iend>
+
+ 
+<section> 213 CHWs assessed
+ 
+<section> Allocation 
+<section> 199 randomized
+ 
+<section> 100 allocated to UHC Mode
+ 
+<section> Tori: 14 allocated 
+<section> Yirimadio:
+ to intervention 
+<section> allocated to 3 not evrolled
+ 
+<section> intervention
+ 
+<section> Enrollment 
+<section> 97 enrolled
+ 
+<section> Tori: 14 enrolled 
+<section> Yirimadio:
+ 
+<section> Follow-Up 
+<section> enrolled 1 lost to
+ 
+<section> Analysis 96 included in analysis
+ 
+<section> Tori: 13 analyzed 
+<section> Yirimadio:
+ analyzed
+ 
+<section> Randomisation and masking
+ Eligible CHWs not involved in pilot testing were
+ randomly assigned to the control or UHC Mode arm
+ with a 1:1 allocation using a computer-­generated random
+ number. Randomisation was stratified by health catch-
+ ment area, and performed by a research team member
+ who was not involved in study recruitment. Due to oper-
+ ational constraints, randomisation was done before study
+ recruitment. The nature of UHC Mode precluded CHW
+ participants, CHW supervisors and other study personnel
+ from being masked to arm allocation. To avoid contam-
+ ination, two training sessions were held before interven-
+ tion launch: one for all eligible CHWs to discuss standard
+ definitions of households and home visit protocols, and a
+ second for CHWs randomised to UHC Mode, to provide
+ an overview of its features, and discourage discussions
+ about UHC Mode with CHWs in the control arm.
+ 
+<section> Procedures and study period
+ During the study period, eligible CHWs followed the
+ standard ProCCM protocol: conduct home visits for a
+ minimum of 2 hours per day, 6 days per week, in order to
+ visit each household in their service area with the minimum
+ expected frequency (at least twice monthly). 11 12 During
+ their home visits, CHWs reinforced the importance of
+ rapid care-­seeking and encouraged community members
+ to call their mobile telephone number or visit them right
+ away if their child became symptomatic. CHWs were
+ expected to be on call to provide care outside of their
+ regular home visiting hours.
+ CHWs were also expected to register and maintain
+ information on all households and patients in their
+ service area and to document each home visit and sick
+ 
+<section> for eligibility
+ 
+<section> 14 ineligible
+ 
+<section> 11 did not meet inclusion criteria
+ 3 pre-tested UHC Mode
+ 
+<section> 99 allocated to control
+ 
+<section> Tori: 13 allocated 
+<section> Yirimadio:
+ to control 
+<section> allocated to
+ 
+<section> control
+ 
+<section> 99 enrolled
+ 
+<section> Tori: 13 enrolled 
+<section> Yirimadio:
+ follow-up 
+<section> enrolled 0 lost to follow-up
+ 
+<section> 99 included in analysis
+ 
+<section> Tori: 13 analyzed 
+<section> Yirimadio:
+ analyzed
+ 
+<section> universal health coverage.
+ 
+<section> patient evaluation using a CHW application preinstalled
+ on Android phones. CHWs maintained autonomy and
+ flexibility in planning their daily home visit workflows,
+ including what order they visited households. Preinter-
+ vention (baseline) was defined as August 2018 to March
+ 2019. In the latter half of preintervention (December
+ 2018–March 2019), a CHW Supervision Dashboard was
+ implemented in both arms to enable dedicated CHW
+ supervisors to monitor CHW performance indicators
+ related to timeliness and quantity of monthly home visits
+ and quality of care. 15 For 4 months postintervention
+ (April–July 2019), eligible CHWs used their randomised
+ intervention: the standard CHW application (control) or
+ the CHW application with UHC Mode (intervention).
+ UHC Mode was deployed in Yirimadio on 8 March 2019
+ and in Tori on 13 March 2019.
+ 
+<section> The intervention and control
+ UHC Mode is an add-­ on (software extension) to the
+ CHW application consisting of user interface design
+ improvements to support CHWs to achieve their
+ minimum expected home visit coverage of each house-
+ hold in their service area each month. It features four
+ main design elements: First, each household’s date of last
+ visit is displayed on individual household profiles, which
+ show households’ primary contact information and regis-
+ tered members. This information is displayed on the
+ household list as the time elapsed (in days or months)
+ since the last home visit and colour coded red (if the
+ date of last visit was 30 or more days ago) or black (if
+ the date of last visit was fewer than 30 days ago). Second,
+ red exclamation point icons appear on the household
+ list to emphasise households with fewer than two visits in 
+<insert> Figure 2 Display of information on the household list in the standard CHW application (A1–A2) versus UHC Mode (B1–B2)
+ and on individual household profiles in the standard application (A3) versus UHC Mode (B3). A1 shows the household list
+ in the standard CHW application. A2 shows the household list in the standard CHW application, with default alphabetical
+ ordering. B1 shows the household list in UHC Mode, which displays the time elapsed in days since the last home visit (colour
+ coded red if the date of last visit was 30 or more days ago, and black if the date of last visit was fewer than 30 days ago).
+ Red exclamation point icons emphasise households with fewer than two visits in the month, and a modified traffic light colour
+ scheme (red, orange, light blue) show households receiving zero, one, or two or more visits in the month. B2 shows the
+ household list in UHC Mode, with default chronological ordering by date of last home visit. A3 shows an individual household
+ profile in the standard CHW application. B3 shows an individual household profile in UHC Mode, with information about the
+ date of last visit and the monthly home visit count. CHW, community health worker; UHC, universal health coverage. 
+<iend>
+
+ 
+<section> BMJ Global Health
+ 
+<section> the month. Third, a modified traffic light colour scheme
+ (red, orange, light blue) shows households receiving
+ zero, one or two or more visits during the month. Finally,
+ the default ordering of the household list was changed
+ from alphabetical by name to chronological by least
+ recent visit date (figure 2).
+ UHC Mode was the result of an iterative, human-­centred
+ design process, 20 which involved direct observations of
+ CHWs planning their daily home visits, focus groups with
+ CHWs and CHW supervisors to elicit feedback on design
+ features to promote higher minimum expected home
+ visit coverage, and months of iterative pilot testing to
+ incorporate CHW feedback into prototype development.
+ The initial prototype focused on redesigning the patient
+ lists feature, which CHWs had identified in focus groups
+ as a bottleneck to managing their daily home visit work-
+ flows. Prototype development was informed by key user
+ experience principles discussed in design literature :
+ visibility, feedback and positive reinforcement. The aim
+ was to increase the visibility of minimum expected home
+ visit coverage information, to provide users with clear
+ feedback whenever their actions had contributed to the
+ goal of minimum expected home visit coverage, and to
+ provide feedback in a way that positively reinforced prac-
+ tices conducive to high coverage rates.
+ The control was the standard CHW application used
+ by all eligible CHWs before the study, which was built
+ with the open-­ source Community Health Toolkit.
+ Key features include job aids for each care protocol, a
+ task list, a report tab summarising CHW performance
+ related to predefined targets, and a patient list organ-
+ ised by household, with access to patients’ longitudinal
+ records. CHWs can organise their daily workflow using
+ the task management, targets and patient list features, 
+<section> and administer clinical care protocols with job aids at the
+ point of care. The application is designed to work while
+ offline and to sync data to a central server when connec-
+ tivity is available.
+ Important preconditions to UHC Mode’s successful
+ implementation identified during pilot testing were
+ incorporated into the CHW application by interven-
+ tion launch and available to CHWs in both arms. These
+ included faster application performance, and new func-
+ tionality (household ‘muting’ forms) to enable CHWs to
+ deactivate (and reactivate) households that moved from
+ the CHW service area (temporarily or permanently),
+ declined CHW services, or no longer required CHW
+ services for other reasons.
+ 
+<section> Data collection
+ Data on home visits were collected using the CHW appli-
+ cation preintervention and via the assigned intervention
+ postintervention, and extracted more than 3 months
+ after the study period. We counted a maximum of one
+ visit per unique household per day, to reduce the poten-
+ tial for report duplication. If a CHW recorded more
+ than one visit for the same household on the same day,
+ then only one of those visits was counted. Observations
+ were included in the analysis if households were regis-
+ tered and visits were conducted within the study period,
+ and households were considered active (household still
+ present based on household muting form information)
+ for at least 2 days in the month. Data were prepared and
+ analysed using Stata V.15 (Stata). Additional informa-
+ tion on data sources and preparation are given in online
+ 
+<section> supplemental appendix
+ 
+<section> Outcomes
+ 
+<section> We used a binary primary outcome variable, whether
+ an individual household in the CHW service area had
+ minimum expected home visit coverage (at least two
+ home visits by the CHW) in the month.
+ 
+<section> Statistical analysis
+ The primary outcome measure was the mean change
+ in minimum expected home visit coverage (defined as
+ an individual household’s receipt of at least two visits in
+ the month) from preintervention to postintervention
+ between arms. We also calculated the service area coverage
+ of minimum expected home visits (the percentage of
+ households visited at least twice in a month) by arm
+ and the unadjusted difference from preintervention to
+ postintervention between arms.
+ Study sample size was primarily determined by oper-
+ ational constraints; all available ProCCM CHWs in Tori
+ and Yirimadio were eligible for the study.
+ We first performed a descriptive analysis to assess
+ comparability between arms in terms of CHWs’ sociode-
+ mographic characteristics, baseline service area coverage,
+ actual household load and the wealth quintile distribu-
+ tion among households in the service area. Calculation of
+ actual household load (the number of active households
+ in the CHW service area) was enabled by the household
+ muting functionality incorporated into the CHW appli-
+ cation in both arms by intervention launch. To allow
+ sufficient time for CHWs to implement the functionality,
+ we used the number of active households in the final
+ month of the postintervention period and applied it to
+ all earlier months, assuming this was constant during the
+ study period. We next calculated the unadjusted differ-
+ ence in CHW service area coverage from preintervention
+ to postintervention between arms. Service area coverage
+ was graphed to compare trends by arm and month, and
+ preintervention versus postintervention. Comparisons
+ were done with health catchment areas combined and
+ stratified given that baseline service area coverage varied
+ by health catchment area.
+ To analyse the primary outcome measure and estimate
+ UHC Mode’s effect on CHW coverage of a given house-
+ hold in the service area with minimum expected home
+ visits, we conducted a difference-­ in-­ differences anal-
+ ysis using a logit model for panel data with CHW-­level
+ 
+<section> random effects:
+ 
+<section> 	﻿‍ Y hiam = α + β 1 T i + β 2 P m + β 3 T i ∗ P m + β 4 Z a + e hiam
+ 
+<section> where Y is the log odds of coverage of minimum expected
+ home visits observed for household h by CHW i in health
+ catchment area a in month m; T is an indicator variable
+ i
+ 
+<section> for a CHW’s arm allocation; P is an indicator variable for
+ m
+ 
+<section> the postintervention period; Z is an indicator variable for
+ a
+ 
+<section> health catchment area; and e is the idiosyncratic error
+ term. The β coefficient on the him interaction term, T *P ,
+ 3 i m
+ 
+<section> estimates the difference-­in-­differences in the log odds
+ of minimum expected home visit coverage, comparing
+ the mean change (from preintervention to postinterven-
+ tion) in the log odds of minimum expected home visit
+ coverage in households whose CHW used UHC Mode
+ versus the mean change in households whose CHW used
+ the control. We used the margins command in Stata to
+ estimate the absolute change in the predicted probabil-
+ ities of minimum expected home visit coverage in the
+ UHC Mode versus the control arm. SEs were clustered by
+ CHW, the unit of randomisation. Sensitivity analyses were
+ performed to check the robustness of our regression
+ model to controlling for: month fixed effects (to account
+ for any systematic variations over time); alternative defi-
+ nitions of the preintervention period (ie, 4 months with
+ the CHW Supervision Dashboard and dropping the tran-
+ sition month when UHC Mode launched); and including
+ zero home visit counts for households indicated by CHWs
+ to be temporarily or permanently inactive (to account
+ for bias from potential under-­reporting in the event that
+ CHWs who used UHC Mode were more likely than CHWs
+ who used the control to report inactive households).
+ In additional exploratory analyses, we assessed differ-
+ ences in intervention effects by health catchment
+ area (Tori vs Yirimadio), levels of baseline service area
+ coverage, and levels of actual household load. We also
+ performed a subgroup analysis to evaluate whether UHC
+ Mode improved minimum expected home visit coverage 
+<insert> Table 1 CHW baseline characteristics
+ UHC mode
+ (n=96)
+ Control
+ (n=99)
+ P
+ value
+ Age, years
+ No of children
+ 32.0 (8.7)
+ 2.9 (2.1)
+ 33.0 (9.6)
+ 3.2 (2.3)
+ 0.46
+ 0.48
+ Household size 6.4 (3.0) 6.2 (2.6) 0.60
+ No of spoken languages 1.3 (0.8) 1.2 (0.6) 0.36
+ 0.27
+ Sex
+  Male 10 (10%) 6 (6%)
+  Female 86 (90%) 93 (94%)
+  Muslim 92 (96%) 95 (96%)
+  Catholic 4 (4%) 2 (2%)
+  Other 0 (0%) 2 (2%)
+  Single 15 (16%) 15 (15%)
+  Married/free union 76 (79%) 81 (82%)
+  Divorced/widow/
+ separated
+ 5 (5%) 3 (3%)
+  Bambara 83 (86%) 88 (89%)
+  French 7 (7%) 8 (8%)
+  Sorai 6 (6%) 3 (3%)
+  Yes 84 (88%) 87 (88%)
+  No 12 (12%) 12 (12%)
+ 95 (99%)
+ 1 (1%)
+ 97 (98%)
+ 2 (2%)
+ Religion
+ 0.26
+ Marital status
+ 0.74
+ Language
+ 0.56
+ Has children
+ 0.94
+ Went to school
+  Yes
+  No
+ 0.58
+ Data are n (%) or mean (SD). Statistical tests were performed
+ using a two-­sided t-­test of means for continuous variables and
+ Pearson’s χ 2 test for categorical variables.
+ CHW, community health worker; UHC, universal health coverage. 
+<iend>
+
+ of households in the poorest wealth quintile compared
+ with richer households and potentially improved equity
+ in service delivery. This subgroup analysis was limited to
+ Tori because household wealth information was unavail-
+ able for Yirimadio, and programme records showed that
+ households in the poorest wealth quintile in Tori had
+ significantly lower odds of minimum expected home visit
+ coverage compared with households in higher wealth
+ quintiles.
+ For exploratory analyses, we repeated the overall main
+ effects analysis, adding a three-­ way interaction term
+ including one of the following: a dichotomous variable
+ for health catchment area; a categorical indicator variable
+ for baseline service area coverage quartiles; a categorical
+ indicator variable for actual household load quintiles;
+ or a categorical indicator variable for household wealth
+ quintiles (Tori only). The percentile variables for base-
+ line service area coverage and actual household load
+ were calculated separately by health catchment area. We
+ obtained household wealth quintile information for Tori
+ by conducting a principal component analysis of house-
+ hold survey data on household assets, 12 adapted from the
+ Demographic and Health Survey.
+ 
+<section> Patient and public involvement
+ Design of the intervention was informed by engaging
+ with, and soliciting input from, CHWs and CHW super-
+ visors. Patients and the public were not directly involved
+ in the study design, conduct, reporting or dissemina-
+ tion plans of this research. The two study sites are long-
+ standing operational research sites, where Muso and
+ its partners have worked in close partnership with local
+ communities for years. Muso began operational research
+ to improve access to care, maternal health, and child
+ survival in Yirimadio in 2005, and in Tori in 2016. In each
+ area, Muso works closely with local Ministry of Health
+ officials and community members via the Associations
+ de Santé Communitaire, Community Health Associa-
+ tions. These community partners have authorised Muso
+ to conduct operational research related to ProCCM, and
+ actively engage as partners in this research.
+ 
+<section> RESULTS
+ 
+<section> Of 213 CHWs assessed for eligibility, 199 were eligible and
+ randomised to receive UHC Mode (n=100) or control
+ (n=99) in early January 2019 (figure 1). Of eligible and
+ randomised CHWs, 196 (97 UHC Mode, 99 control)
+ were recruited in CHW meetings held 2 January 2019–16
+ January 2019 (Yirimadio) and 25 January 2019–26
+ January 2019 (Tori). Three eligible CHWs in Yirimadio
+ randomised to UHC Mode were unable to attend the
+ CHW meetings when study enrolment occurred due to
+ health reasons. There were 195 CHWs (96 UHC Mode,
+ 99 control) included in this analysis; one CHW in Tori
+ randomised to UHC Mode dropped out of the study
+ before intervention launch due to health reasons.
+ CHWs served a total of 45 873 unique households (4288
+ in Tori, 41 585 in Yirimadio) during the study period.
+ CHW sociodemographic and service provision character-
+ istics at baseline are shown in tables 1 and 2.
+ The mean cumulative number of households regis-
+ tered, actual household load, and baseline service area
+ coverage did not differ between arms, but did differ by
+ health catchment area (table 2). In the UHC Mode arm,
+ mean baseline service area coverage across CHWs was
+ 44.0% (SD=20.9%) in Yirimadio compared with 63.2%
+ (SD=17.3%) in Tori; the mean number of cumulative
+ households registered by CHWs was 239.8 (SD=83.7) in
+ Yirimadio compared with 167.0 (SD=45.4) in Tori; and
+ the mean actual household load was 196.8 (SD=67.0) in
+ Yirimadio compared with 162.5 (SD=43.2) in Tori.
+ The unadjusted difference in CHW service area
+ coverage in the UHC Mode arm from preinterven-
+ tion to postintervention was 15.5 (95% CI 9.8 to 21.2; 
+<insert> Table 3 Percentage of households visited at least twice in a month by arm and preintervention and postintervention periods,
+ and differences in differences from preintervention to postintervention between arms, with health catchment areas combined
+ and stratified
+ Preintervention* (August
+ 2018–March 2019)
+ Postintervention* (Apri–July
+ 2019) DID % point change* DID OR†
+ UHC mode Control
+ (n=68 154) (n=67 364)
+ UHC mode
+ (n=52 562) DID (95% CI) P value OR (95% CI) P value
+ Control
+ (n=42 293)
+ Households visited at least twice in a month
+ Combined 43.1 (38.7, 39.5 (34.4, 44.8) 70.9 (64.7,
+ 47.7) 76.4)
+ 51.8 (45.2, 58.3) 15.5 (9.8 to
+ 21.2)
+ <0.0005 2.41 (1.68 to
+ 3.47)
+ <0.0005
+ Yirimadio n=36 <0.0005 2.40 (1.66 to
+ 3.49)
+ <0.0005
+ Tori 0.23 0.098
+ n=57 n=58 n=44
+ 40.9 (36.3–
+ 45.6)
+ 38.1 (32.7, 43.7) 68.6 (61.9,
+ 74.5)
+ 49.6 (42.7, 56.6)
+ 16.1 (10.2 to
+ 22.0)
+ n=10
+ 61.5 (49.1,
+ 72.6)
+ n=8884 n=7565
+ 52.6 (40.0, 64.8) 89.3 (81.7,
+ 94.0)
+ n=5949
+ 70.4 (54.4, 82.5)
+ 10.0 (-­5.9 to
+ 25.9)
+ 3.31 (0.80 to
+ 13.67)
+ All estimates are adjusted for clustering at the CHW level.
+ *Preintervention and postintervention service area coverage and DID percentage point changes are unadjusted for covariates.
+ †Estimates for a random effects panel regression, with a treatment indicator that takes value 0 for the control arm and value
+ 1 for the intervention arm. Combined estimates control for health catchment area.
+ CHW, community health worker; DID, difference-­in-­differences; UHC, universal health coverage. 
+<iend>
+
+ 
+<insert> Table 2 Baseline service provision characteristics
+ Cumulative household registrations UHC mode (n=96) Control (n=99) P value
+  Overall
+  Yirimadio
+ 230.0 (83.3)
+ 239.8 (83.7)
+ 240.4 (131.7)
+ 252.1 (136.6)
+ 0.51
+ 0.48
+  Tori 167.0 (45.4) 162.8 (44.7) 0.82
+  Overall 192.1 (65.2) 206.1 (103.9) 0.26
+  Yirimadio 196.8 (67.0) 212.7 (108.8) 0.25
+  Tori 162.5 (43.2) 162.5 (44.6) 1.0
+  Overall 46.6 (21.4) 44.7 (21.3) 0.54
+  Yirimadio
+  Tori
+ 44.0 (20.9)
+ 63.2 (17.3)
+ 43.2 (21.1)
+ 54.7 (20.3)
+ 0.80
+ 0.26
+ Household wealth quintile distribution UHC Mode (n=1719) Control (n=1782) P value
+ Actual household load
+ Service area coverage
+  Quintile 1 (lowest)
+  Quintile
+ 262 (15%)
+ 270 (16%)
+ 263 (15%)
+ 306 (17%)
+  Quintile 342 (20%) 372 (21%)
+  Quintile
+  Quintile 5 (highest)
+ 414 (24%)
+ 431 (25%)
+ 405 (23%)
+ 436 (25%)
+ 0.64
+ Data are mean (SD) or n (%).
+ CHW, community health worker; UHC, universal health coverage. 
+<iend>
+
+ p<0.0005) percentage points higher than in the control
+ arm (table 3).
+ In the UHC Mode arm, baseline service area coverage
+ was 43%, increasing to 71% postintervention. In the
+ control arm, baseline service area coverage was 40%,
+ increasing to 52% postintervention (table 3, figure 3).
+ 
+<section> BMJ Global Health
+ 
+<section> Households whose CHW used UHC Mode had 2.41
+ times higher odds of minimum expected home visit
+ coverage from preintervention to postintervention
+ compared with households whose CHWs used the
+ control (95% CI 1.68 to 3.47; p<0.0005) (table 3). On
+ average, minimum expected home visit coverage in 
+<insert> Figure 3 Monthly and preintervention versus
+ postintervention CHW service area coverage of minimum
+ expected home visits (percentage of households visited at
+ least twice in a month), by arm, with health catchment areas
+ combined (A) and stratified (B–C). Vertical blue dotted lines
+ show the formal start of the postintervention period. Gray-­
+ shaded areas show the roll-­out of UHC Mode in March 2019.
+ CHWs, community health workers; UHC, universal health
+ coverage. 
+<iend>
+
+ the UHC Mode arm increased 13.6 percentage points
+ (95% CI 8.1 to 19.0) compared with the control arm.
+ The odds of minimum expected home visit coverage
+ significantly increased in both arms from preinterven-
+ tion to postintervention (OR 1.88, 95% CI 1.54 to 2.30;
+ p<0.0005). In both health catchment areas, households
+ whose CHW used UHC Mode had increased odds of
+ minimum expected home visit coverage compared with
+ households whose CHW used the control; however, the
+ effect was only statistically significant in the larger health
+ catchment area (Yirimadio: OR 2.40; 95% CI 1.66 to
+ 3.49; p<0.0005 and Tori: OR=3.31; 95% CI 0.80 to 13.67;
+ p=0.098) (table 3). We found no difference in the effect
+ of UHC Mode by health catchment area (online supple-
+ mental appendix 3).
+ The effect of UHC Mode on minimum expected home
+ visit coverage was significantly greater for households whose
+ intervention CHW had the highest baseline service area
+ coverage (>75th percentile) vs households whose interven-
+ tion CHW had lower baseline service area coverage (25th
+ to <75th percentile) (OR=3.28; 95% CI 1.30 to 8.26; p=0.012)
+ (table 4 and online supplemental appendix 3).
+ There were no differences in UHC Mode’s effect by actual
+ household load (online supplemental appendix 4). In Tori,
+ UHC Mode had a larger effect on minimum expected home
+ visit coverage of households in the middle wealth quintile
+ compared with those in the poorest and richest wealth quin-
+ tiles, but estimated effects across quintiles were not signifi-
+ cantly different from each other (table 4).
+ In sensitivity analyses, estimated effects of UHC Mode
+ were robust to accounting for month fixed effects, alter-
+ native definitions of the preintervention period, and
+ including zero home visit counts for inactive households
+ (online supplemental appendix 2).
+ 
+<section> DISCUSSION
+ 
+<section> Use of UHC Mode more than doubled the odds of, and
+ increased by 13 percentage points, minimum expected
+ home visit coverage. Across two study areas, results were
+ similarly positive, and suggest that UHC Mode was effec-
+ tively designed for use across both types of settings.
+ Service area coverage of minimum expected home visits
+ was consistently lower in the periurban versus the rural
+ area during the study period. There are several possible
+ explanations for this observation. First, due to rapid
+ population growth and mixed migration dynamics in
+ Bamako, 27 maintaining accurate household registrations
+ in the CHW application is more challenging for CHWs in
+ the periurban area; this was the primary impetus that led
+ to the development of the household muting form func-
+ tionality. Although this functionality supports CHWs to
+ maintain more accurate lists of active households in their
+ service area, it still requires additional work to implement.
+ Second, mean actual household load was higher in the
+ periurban area vs the rural. Lastly, we suspect that family
+ cohabitation structures in the rural area, where multiple
+ related families reside together in a larger structural unit,
+ were likely to be more conducive to conducting efficient
+ home visits compared with the periurban area.
+ Although measures were taken to minimise potential
+ contamination between study arms, which would bias results
+ toward finding a null effect, positive spillover effects could
+ have occurred between arms due to the nature of 360 Super-
+ vision : UHC Mode and control CHWs shared supervisors,
+ attended weekly group supervision sessions where they
+ discussed common challenges and potential solutions, and
+ received performance feedback via a CHW Supervision
+ Dashboard featuring comparative metrics that may have
+ promoted competition between CHWs. Although CHWs
+ were informed during study recruitment that intervention 
+<insert> Table 4 Exploratory analyses assessing differential effects of UHC Mode by baseline CHW service area coverage and
+ household wealth (Tori only)
+ Minimum expected home visit coverage
+ OR 95% CI P value
+ Differential effects by CHW baseline service area coverage
+  Treatment x post x CHW performance quartile
+  <25th percentile 1.59 (0.73 to 3.43) 0.24
+  25th to <75th percentile (ref) – – –
+  ≥75th percentile 3.28 (1.30 to 8.26) 0.012
+ Differential effects by household wealth (Tori only)
+  Treatment × post × household wealth quintile
+  <20th percentile 0.46 (0.20 to 1.06) 0.069
+  20th to <40th percentile 0.47 (0.17 to 1.31) 0.15
+  40th to <60th percentile (ref) – – –
+  60th to <80th percentile
+  ≥80th percentile
+ 0.39
+ 0.43
+ (0.18 to 0.82)
+ (0.18 to 1.06)
+ 0.013
+ 0.067
+ Overall main effects model with the addition of a three-­way interaction term.
+ CHW, community health worker; UHC, universal health coverage. 
+<iend>
+
+ assignment was not based on CHW performance, competi-
+ tion may still have influenced CHW behaviours, as previously
+ reported.
+ The temporal increase in minimum expected home visit
+ coverage observed in both arms was likely due to software
+ improvements made to both UHC Mode and control inter-
+ ventions by intervention launch, which included faster appli-
+ cation performance and the ability for CHWs to temporarily
+ or permanently inactivate households when they move from
+ the service area. The household muting functionality was
+ relevant given mixed migration in periurban Yirimadio and
+ population movement in rural Tori, where violent conflict
+ was an emerging issue. 27
+ UHC Mode had different effects on minimum expected
+ home visit coverage depending on CHW baseline service
+ area coverage. UHC Mode’s effects were strongest for
+ households whose CHW had the highest baseline service
+ area coverage (>75th percentile). Although CHWs pilot
+ testing UHC Mode were randomly selected, CHW selec-
+ tion and participation in focus groups and prototype
+ development were biased toward the highest performers.
+ Future product development should consider engaging
+ more CHWs across the performance spectrum during
+ prototype development and pilot testing. Lower-­
+ performing CHWs may also need more comprehensive
+ support extending beyond a software tool. This under-
+ scores the importance of other critical programmatic
+ strategies to address CHW performance disparities.
+ Previous programme records of the small area of Tori iden-
+ tified an important equity gap in minimum expected home
+ visit coverage of households in the poorest wealth quintile,
+ and we explored whether UHC Mode had any potential
+ equity-­enhancing effect. A subgroup analysis showed UHC
+ Mode had similar effects in the poorest and richest house-
+ hold wealth quintiles, but this result was inconsistent across
+ 
+<section> BMJ Global Health
+ 
+<section> wealth quintiles and thus inconclusive. UHC Mode was
+ not specifically designed to improve equity in minimum
+ expected home visit coverage by household socioeconomic
+ status. Further research and product development may test
+ approaches to build on UHC Mode’s core design principles
+ to identify and visually emphasise households considered
+ more vulnerable within household lists.
+ Although this study’s results did not show that the effect
+ of UHC Mode differed by actual household load, our
+ analysis had limited ability to evaluate the impact of actual
+ household load on minimum expected home visit coverage
+ over time. The household muting functionality was imple-
+ mented in both arms postintervention and CHWs required
+ time to implement the feature. Measurement of actual
+ household load over time was thus limited and subject to
+ error. Our assumption that household loads were constant
+ during the study period was flawed given mixed migration
+ and population displacement that impacted study areas
+ during the study period. 27 28 The effect of UHC Mode is
+ likely limited when the CHW-­ population ratio becomes
+ unmanageable. Routine assessment and mapping of
+ service areas to maintain optimal CHW-­population ratios
+ is important for preventing excessive workloads, which may
+ result in decreased CHW motivation and performance. 29
+ This study has certain limitations resulting from challenges
+ in conducting operational research. The small sample size at
+ Tori resulted in this site being underpowered. In addition,
+ this study relied on CHWs to accurately and systematically
+ record home visits, use the household muting functionality,
+ and manage household registrations in the CHW application
+ including registering new households in the service area.
+ Although monthly audits of home visits were conducted by
+ CHW supervisors (via in-­person visits of randomly selected
+ households as part of routine supervision) and study
+ personnel (via telephone-­based audits of randomly selected 
+<section> households to verify home visits and deactivations of house-
+ holds), audits were not systematically done for all CHWs. It
+ is likely that calculations of service area coverage over time
+ were subject to some measurement error. It was not possible
+ to mask CHW participants and other programme personnel
+ to arm allocation, which may have led to bias by supervisors
+ and/or CHWs altering their behaviour. CHWs who used
+ UHC Mode may have been less likely than CHWs who used
+ the control to register new households, which would result
+ in an overestimate of UHC Mode’s effect. The 4-­ month
+ duration of the postintervention period was also relatively
+ brief. Future research should evaluate whether UHC Mode
+ can sustain improvements in minimum expected home visit
+ coverage over a longer duration.
+ This study also has strengths that support its internal
+ validity and potential generalisability. The nature of the
+ intervention ensured CHWs adhered to their interven-
+ tion assignment, and few CHWs were lost to follow-­up.
+ Positive results were observed across two study areas,
+ one rural and one periurban, in different regions of the
+ country. This study also featured a rigorous study meth-
+ odology: a randomised design, which enhanced compa-
+ rability between arms and minimised confounding and
+ selection bias, and a difference-­ in-­ differences analysis,
+ which controlled for any potential baseline differences
+ between arms despite randomisation.
+ UHC Mode is a complement to, and not a substitute
+ for, other important design elements of community
+ health programmes, such as performance management
+ and manageable CHW-­ population ratios. 14 16 While
+ our findings are contextually dependent on ProCCM,
+ it is possible that UHC Mode may have similar positive
+ effects in other areas of application requiring CHW
+ follow-­ up, such as multiple-­ dose mass vaccination
+ campaigns, prenatal care, and treatment of malnutrition
+ or tuberculosis.
+ 
+<section> CONCLUSION
+ As countries pursue their 2030 UHC goals, digitally
+ supported CHWs can advance these goals at the local
+ level. This trial is one of the first to test the effect of
+ digital user interface design improvements on CHW
+ performance, specifically minimum expected home
+ visit coverage. Use of UHC Mode resulted in an increase
+ in minimum expected home visit coverage. UHC
+ Mode should be considered an effective tool that can
+ improve minimum expected home visit coverage and
+ promote progress towards UHC when implemented in
+ the ProCCM context. Our positive results suggest that
+ user interface design of health information systems that
+ supports health workers in their daily practice and meets
+ their requirements can have a positive impact on CHW
+ performance and home visit coverage. In addition, the
+ design and evaluation of community health information
+ systems and tools that better support such operational
+ tasks is a promising area of future research.
+ 
+<section> Author affiliations
+ 
+<section> Muso, San Francisco, California, USA
+ 
+<section> Muso, Bamako, Mali
+ Department of Social and Behavioral Sciences, University of California San
+ Francisco, San Francisco, California, USA
+ Medic, San Francisco, California, USA
+ Department of Human Centered Design & Engineering, University of Washington,
+ 
+<section> Seattle, Washington, USA
+ Department of Global Health, University of Washington, Seattle, Washington, USA
+ 
+<section> Medic, Dakar, Senegal
+ Malaria Research & Training Centre, University of Sciences Techniques and
+ 
+<section> Technologies, Bamako, Mali
+ Department of Medicine, Institute for Global Health Sciences, University of
+ California San Francisco, San Francisco, CA, USA
+ 
+<section> Twitter Jane E Yang @jemilieyang, Isaac Holeman @isaacholeman, Sory Ibrahima
+ N’Diaye @sory_diaye and Ari D Johnson @musohealth
+ 
+<section> Acknowledgements The study authors would like to acknowledge the CHWs
+ and CHW supervisors in Tori and Yirimadio for their contributions to developing
+ the UHC Mode prototype, participation in the study, and their continued service to
+ their communities. We thank the Muso programme and training and innovation
+ teams for their role in implementing UHC Mode, and Dr Awa Sidibe and the Muso
+ research team for their role in obtaining ethical approval, and administering
+ informed consent and the CHW demographic survey. We are grateful to Marème
+ Soda Gaye and the Medic team for their role in designing UHC Mode and to
+ Amanda Yembrick for her role in the design of UHC Mode, obtaining funding, and
+ providing project administrative and technical support. We thank the Community
+ Health Center clinical teams and the communities in Tori and Yirimadio for their
+ collaboration.
+ 
+<section> Contributors CW, DL, IH, JEY, JXL, KK and YK had a role in the concept of the
+ study. FF and IH designed UHC Mode with input from DL, JEY, SIN’D, YD and YK.
+ CW, DL, and KK sought ethical approval. DL oversaw study implementation. CW,
+ DL, JEY, and JXL had a role in developing study methodology and the analysis plan.
+ JEY extracted, managed, analysed and interpreted the quantitative data with input
+ from AJ, CW, DL, JXL, KK, YD and YK. JEY and DL verified the data analyses. JEY
+ wrote the first draft of the manuscript. All authors reviewed and critically revised
+ the manuscript and approved the final version to be published. AJ and IH obtained
+ funding. All authors provided administrative, technical and material support. AJ,
+ CW, DL, FF, IH and YK supervised. JEY is the guarantor.
+ 
+<section> Funding This study was funded by the Bill and Melinda Gates Foundation.
+ 
+<section> Competing interests AJ, CW, DL, JEY, KK, SIN’D, YD and YK are employed
+ by the non-­profit organisation, Muso. The Muso team designed the Proactive
+ Community Case Management approach. FF and IH are employed by the
+ non-­profit organisation, Medic. The Medic team serves as lead developer of the
+ Community Health Toolkit open source project. Both Medic and Muso participated
+ in the development of UHC Mode, as described in the manuscript. Both the CHT
+ and UHC Mode are public goods to be made available open-­source. All authors
+ have completed the Unified Competing Interest form at http://www.​icmje.​org/​
+ downloads/​coi_​disclosure.​docx (available on request from the corresponding
+ author) and declare no other conflicts of interest.
+ 
+<section> Patient consent for publication Not applicable.
+ 
+<section> Ethics approval Institutional Review Board (IRB) approval was obtained from
+ the University of Sciences, Techniques, and Technologies of Bamako, Faculté de
+ Médecine, de Pharmacie et d’Odonto-­Stomatologie Ethical Committee (Reference
+ 
+<section> # 2018/186/CE/FMPOS).
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data availability statement Data are available on reasonable request.
+ Investigators agree to share deidentified individual participant data, the study
+ protocol, statistical analysis plan and analytical code (Stata) 6 months after
+ publication and following the completion of a data use agreement. Proposals
+ should be directed to ​info@​musohealth.​org.
+ 
+<section> Supplemental material This content has been supplied by the author(s). It has
+ not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been
+ peer-­reviewed. Any opinions or recommendations discussed are solely those
+ of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and
+ responsibility arising from any reliance placed on the content. Where the content
+ includes any translated material, BMJ does not warrant the accuracy and reliability
+ of the translations (including but not limited to local regulations, clinical guidelines, 
+<section> terminology, drug names and drug dosages), and is not responsible for any error
+ and/or omissions arising from translation and adaptation or otherwise.
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution 4.0 Unported (CC BY 4.0) license, which permits
+ others to copy, redistribute, remix, transform and build upon this work for any
+ purpose, provided the original work is properly cited, a link to the licence is given,
+ and indication of whether changes were made. See: https://​creativecommons.​org/​
+ licenses/​by/​4. /.
+ 
+<section> ORCID iDs
+ 
+<section> Jane E Yang http://​orcid.​org/​0000-​0001- 083-​6319
+ Diego Lassala http:// o rcid.​org/​0000-​0002-​0976-​8417
+ Jenny X Liu http:// o rcid.​org/​0000-​0002-​3929-​0135
+ Caroline Whidden http://​orcid.​org/​0000-​0003-​0570-​4632
+ Isaac Holeman http://​orcid.​org/ 000-​0002-​9072-​4162
+ Kassoum Kayentao http:// o rcid.​org/​0000-​0001-​6877-​0093
+ Ari D Johnson http://​orcid.​org/ 000-​0002-​7048-​5467
+ 
+<section> REFERENCES
+ 1 Hogan DR, Stevens GA, Hosseinpoor AR, et al. Monitoring universal
+ health coverage within the sustainable development goals:
+ development and baseline data for an index of essential health
+ services. Lancet Glob Health 2018;6:e152–68.
+ 2 Rasanathan K, Muñiz M, Bakshi S, et al. Community case
+ management of childhood illness in sub-­Saharan Africa - findings
+ from a cross-­sectional survey on policy and implementation. J Glob
+ Health 2014;4:020401.
+ 3 Lewin S, Munabi-­Babigumira S, Glenton C, et al. Lay health workers
+ in primary and community health care for maternal and child health
+ and the management of infectious diseases. Cochrane Database
+ Syst Rev 2010:CD004015.
+ 4 Okwundu CI, Nagpal S, Musekiwa A, et al. Home- or community-­
+ based programmes for treating malaria. Cochrane Database Syst
+ Rev 2013:CD009527.
+ 5 Lassi ZS, Bhutta ZA. Community-­Based intervention packages
+ for reducing maternal and neonatal morbidity and mortality and
+ improving neonatal outcomes. Cochrane Database Syst Rev
+ 2015:CD007754.
+ 6 Guenther T, Nsona H, Makuluni R, et al. Home visits by community
+ health workers for pregnant mothers and newborns: coverage
+ plateau in Malawi. J Glob Health 2019;9.
+ 7 Tesfau YB, Kahsay AB, Gebrehiwot TG, et al. Postnatal home visits
+ by health extension workers in rural areas of Ethiopia: a cross-­
+ sectional study design. BMC Pregnancy Childbirth 2020;20:305.
+ 8 Munos M, Guiella G, Roberton T, et al. Independent evaluation of the
+ rapid scale-­up program to reduce Under-­Five mortality in Burkina
+ Faso. Am J Trop Med Hyg 2016;94:584–95.
+ 9 Amouzou A, Hazel E, Shaw B, et al. Effects of the integrated
+ community case management of childhood illness strategy on child
+ mortality in Ethiopia: a cluster randomized trial. Am J Trop Med Hyg
+ 2016;94:596–604.
+ 10 Sitrin D, Guenther T, Murray J, et al. Reaching mothers and babies
+ with early postnatal home visits: the implementation realities
+ of achieving high coverage in large-­scale programs. PLoS One
+ 2013;8:e68930.
+ 11 Johnson AD, Thiero O, Whidden C, et al. Proactive community case
+ management and child survival in periurban Mali. BMJ Glob Health
+ 2018;3:e000634.
+ 12 Whidden C, Treleaven E, Liu J, et al. Proactive community case
+ management and child survival: protocol for a cluster randomised
+ controlled trial. BMJ Open 2019;9:e027487.
+ 
+<section> 13 Whidden C, Thwing J, Gutman J, et al. Proactive case detection
+ of common childhood illnesses by community health workers: a
+ systematic review. BMJ Glob Health 2019;4:e001799.
+ 14 World Health Organization. WHO guideline on health policy and
+ system support to optimize community health worker programmes,
+ 2018.
+ 15 Whidden C, Kayentao K, Liu JX, et al. Improving community health
+ worker performance by using a personalised feedback dashboard
+ for supervision: a randomised controlled trial. J Glob Health
+ 2018;8:020418.
+ 16 Ballard M, Bonds M, Burey J. CHW AIM: updated program
+ functionality matrix for optimizing community health programs.
+ community health impact coalition, 2018. Available: https://​static1.​
+ squarespace.​com/​static/​5a05​07ca​6f4c​a346​d3a11552/​t/​5c10​
+ f3f2​4d7a​9cec​045e0284/​1544614899673/​CHW+​AIM+​Updated+​
+ Program+​Functionality+​Matrix_​Dec-​2018.​pdf [Accessed 19 Feb
+ 2021].
+ 17 Keitel K, D'Acremont V. Electronic clinical decision algorithms
+ for the integrated primary care management of febrile children in
+ low-­resource settings: review of existing tools. Clin Microbiol Infect
+ 2018;24:845–55.
+ 18 Zurovac D, Sudoi RK, Akhwale WS, et al. The effect of mobile phone
+ text-­message reminders on Kenyan health workers’ adherence to
+ malaria treatment guidelines: a cluster randomised trial. Lancet
+ 2011;378:795–803.
+ 19 DeRenzi B, Findlater L, Payne J. Improving community health
+ worker performance through automated SMS. In: Proceedings of
+ the fifth International Conference on information and communication
+ technologies and development. New York, NY, USA: Association for
+ 
+<section> Computing Machinery, 2012: 25–34.
+ 20 Holeman I, Kane D. Human-­centered design for global health equity.
+ 
+<section> Inf Technol Dev 2020;26:477–505.
+ 21 Ash JS, Berg M, Coiera E. Some unintended consequences
+ of information technology in health care: the nature of patient
+ care information system-­related errors. J Am Med Inform Assoc
+ 2004;11:104–12.
+ 22 Middleton B, Bloomrosen M, Dente MA, et al. Enhancing patient
+ safety and quality of care by improving the usability of electronic
+ health record systems: recommendations from AMIA. J Am Med
+ Inform Assoc 2013;20:e2–8.
+ 23 Gardner RL, Cooper E, Haskell J, et al. Physician stress and burnout:
+ the impact of health information technology. J Am Med Inform Assoc
+ 2019;26:106–14.
+ 24 Wasunna B, Holeman I, Geniets A. Digital health interventions
+ for community health worker training, ongoing education, and
+ supportive supervision: Insights from a human-­centered design
+ approach. In: Training for community health: bridging the global
+ health care gap. Oxford, UK: Oxford University Press, 2021: 1–71.
+ 
+<section> 25 Norman DA. The design of everyday things. revised and expanded
+ editon. Cambridge, MA, London: The MIT Press, 2013:
+ 26 Community Health Toolkit. Community health toolkit. Available:
+ https://​comm​unit​yhea​ltht​oolkit.​org [Accessed 15 Feb 2021].
+ 27 Urban Mixed Migration. Mixed migration centre. Available: http://
+ www.​mixedmigration.​org/​resource/​urban-​case-​study-​bamako/
+ [Accessed 16 Feb 2021].
+ 28 Human Rights Watch. 'How much more blood must be spilled?',
+ 2020. Available: https://www.​hrw.​org/​report/​2020/​02/​11/​how-​much-​
+ more-​blood-​must-​be-​spilled/​atrocities-​against-​civilians-​central-​mali
+ [Accessed 16 Feb 2021].
+ 29 Bhattacharyya K, Winch P, LeBan K. Community health worker
+ incentives and Disincentives: how they affect motivation, retention
+ and sustainability, 2001. Available: https://​pdf.​usaid.​gov/​pdf_​docs/​
+ PNACQ722.​pdf [Accessed 18 Feb 2021].
+ 30 Pallas SW, Minhas D, Pérez-­Escamilla R, et al. Community
+ health workers in low- and middle-­income countries: what do we
+ know about scaling up and sustainability? Am J Public Health
+ 2013;103:e74–82.

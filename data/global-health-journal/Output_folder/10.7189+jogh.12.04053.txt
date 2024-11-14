@@ -1,0 +1,1031 @@
+
+<section> Effectiveness of a complex,
+ intervention to reduce the
+ by reducing adiposity in
+ in Malaysia: The Jom Mama
+ 
+<section> A randomised controlled
+ 
+<section> Ainul NM Hanafiah , Jens Aagaard-Hansen 2,3 ,
+ Julius CH Cheah , Shane A Norris , Zulkarnain BA
+ Karim , Jutta KH Skau , Zainudin M Ali 5,6 , Regien
+ Biesma , Priya Matzen , Lokman H Sulaiman 9,10 ,
+ 
+<section> Mark Hanson
+ 
+<section> 1 Institute for Health Systems Research, National Institutes of
+ Health, Ministry of Health Malaysia, Selangor, Malaysia
+ 2 Health Promotion Research, Steno Diabetes Center
+ Copenhagen, Herlev, Denmark
+ 3 SA MRC Developmental Pathways for Health Research Unit,
+ Department of Paediatrics, School of Clinical Medicine,
+ Faculty of Health Sciences, University of the Witwatersrand,
+ Johannesburg, South Africa
+ 4 School of Medicine and Health Sciences, Monash University
+ Malaysia, Selangor, Malaysia
+ 5 Negeri Sembilan State Health Department, Seremban, Negeri
+ 
+<section> Sembilan, Malaysia
+ 6 Universiti Teknologi Malaysia Kuala Lumpur, Kuala Lumpur,
+ 
+<section> Malaysia
+ 7 Global Health Unit, Department of Health Sciences, Faculty
+ of Medical Sciences, University of Groningen, Groningen, the
+ 
+<section> Netherlands
+ 8 Human Development and Health, Faculty of Medicine,
+ University of Southampton, Southampton, UK
+ 9 Office of the Deputy Director General of Health (Public Health),
+ Ministry of Health, Putrajaya, Malaysia
+ 10 Institute for Research, Development and Innovation, International
+ Medical University Malaysia, Kuala Lumpur, Malaysia
+ 11 Institute of Developmental Sciences, British Heart Foundation
+ Professor of Cardiovascular Sciences, Faculty of Medicine and
+ NIHR Biomedical Research Centre, University of Southampton,
+ 
+<section> Southampton, UK
+ 
+<section> Correspondence to:
+ 
+<section> Jens Aagaard-Hansen
+ 
+<section> Health Promotion Research
+ Steno Diabetes Center Copenhagen
+ 
+<section> Herlev
+ 
+<section> Denmark
+ jens.aagaard-hansen@regionh.dk
+ 
+<section> pre-conception
+ 
+<section> risk of diabetes
+ 
+<section> young adults
+ 
+<section> project –
+ 
+<section> trial
+ 
+<section> Background Pre-conception interventions have the po-
+ tential to lower non-communicable disease risk in pro-
+ spective parents and reduce transmission of risk fac-
+ tors such as obesity to the next generation. The Jom
+ Mama project in Malaysia investigated the effectiveness
+ of a combined behaviour change communication and
+ e-health intervention in young married couples prior to
+ first pregnancy. This paper reports the evaluation of the
+ effectiveness of this trial.
+ 
+<section> Methods Jom Mama was a non-blinded, randomised
+ controlled trial (RCT) conducted in Seremban, Ma-
+ laysia, over a period of 33 weeks, covering six contact
+ points between trained community health workers and
+ newly married couples before the conception of a first
+ child. Out of 2075 eligible nulliparous women,
+ participated and 305 completed the intervention, with
+ 145 women in the intervention and 160 in the con-
+ trol group. The intervention group received a complex
+ behavioural change intervention, combining behaviour
+ change communication provided by community health
+ promoters and access to a habit formation mobile ap-
+ plication, while the control group received the standard
+ care provided by public health clinics in Malaysia. The
+ primary outcome was a change in the woman’s waist cir-
+ cumference. Secondary outcomes were anthropometric
+ and metabolic measures, dietary intake (Food Frequen-
+ cy Questionnaire, FFQ), physical activity (Internation-
+ al Physical Activity Questionnaire, IPAQ) and mental
+ health (Depression Anxiety Stress Scale, DASS 21). An
+ extensive process evaluation was conducted alongside
+ the trial in order to aid the interpretation of the main
+ findings.
+ 
+<section> Results There were no significant differences of change
+ in the woman’s waist circumference between interven-
+ tion and control groups at the start and end of the in-
+ tervention. While the weight, waist circumference and
+ Body Mass Index (BMI) of women in both groups in- 
+<section> creased, there was a significantly lower increase in the intervention vs the control group over the peri-
+ od of the trial among women who are obese (0.1 kg vs 1.7 kg; P = 0.023, in the intervention and control
+ group respectively). In terms of BMI, the obese intervention subgroup showed a slight reduction (0.01)
+ compared to the obese control subgroup whose BMI increased by 0.7 (P = 0.015). There were no changes
+ in the other secondary outcomes.
+ 
+<section> Conclusions The Jom Mama pre-conception intervention did not lead to a reduction in waist circumfer-
+ ence or significant changes in other secondary outcomes over the eight months prior to conception. How-
+ ever, there was a significantly smaller weight gain in the intervention vs the control group, predominantly
+ in women with pre-existing obesity.
+ 
+<section> Non-communicable diseases (NCDs) account for over 70% of deaths globally each year, especially in low- and
+ middle-income countries undergoing socioeconomic transitions to Western lifestyles and diets [1]. Diabetes
+ mellitus (DM) is one of the most common, but also least recognised NCDs worldwide. Today, 387 million peo-
+ ple are living with diabetes, of whom 46.3% remain undiagnosed [1]. DM is an important public health con-
+ cern in Malaysia, a middle-income country which has witnessed an increase in DM prevalence among adults
+ aged 18 years and above from 11.2% in 2011 to 18.3% in 2019, with a higher prevalence of known diabetes
+ among women (9.8%) vs men (9.0%) [2]. Parallel to this is an equally high prevalence of gestational diabetes,
+ affecting close to one-third (27.9%) of Malaysian women. Similar trends have also been shown for hyperten-
+ sion and obesity [3].
+ 
+<section> Epidemiological data and findings from basic science research suggest that intervening to stop negative be-
+ haviours affecting both men’s and women’s weight, nutrition, physical activity, and health behaviours, such
+ as smoking, alcohol consumption and stress, can substantially improve health indicators [4]. From the life-
+ course perspective, the pre-conception period offers the opportunity to reduce NCD risk in both parents and
+ children [5,6]. However, motivating young people to change behaviour at that point in life is challenging, re-
+ quiring more than just the provision of information and opportunities [4].
+ 
+<section> Consequently, the Malaysian complex pre-conception intervention, Jom Mama (translated as “Come on, moth-
+ er” in Bahasa Malaysia), was designed to “reduce adiposity” in young, recently married, nulliparous women and
+ their partners. Malaysia was chosen as a site for a pre-conception intervention trial because of its well-established
+ public health system based around regional health clinics serving specific populations. Additionally, couples
+ in Malaysia planning to marry routinely seek health screening, especially for Human Immunodeficiency Virus
+ (HIV) status, prior to obtaining a marriage licence. Finally, the average age for marriage is 26 years for women
+ and 28 years for men [7], and many couples are planning to start a family soon after marriage.
+ The Jom Mama project was initiated in 2012 and conducted in three phases: 1) a formative phase to under-
+ stand the problem, the lifestyle of young couples, and identify barriers to and facilitators of health [8-11]; 2)
+ development of an intervention package based on the results from phase 1; and 3) phase for evaluating the
+ intervention package through an RCT [12]. We tested the hypothesis that a complex lifestyle intervention de-
+ livered to women and their spouses for 8 months prior to pregnancy would lead to a decrease in the woman’s
+ waist circumference.
+ 
+<section> METHODS
+ 
+<section> Design and sampling
+ 
+<section> The trial (conducted from November 2015 to December 2017) was designed as a non-blinded RCT to assess
+ the effectiveness of a complex behaviour change intervention in improving the overall health of young wom-
+ en prior to their first pregnancy. All women planning to get married in the district of Seremban, in the state
+ of Negeri Sembilan, Malaysia were targeted for participation. The inclusion criteria for participation were: 1)
+ female and between 20-39 years of age; 2) nulliparous; 3) not pregnant at the time of signing the informed
+ consent form; 4) owning a smartphone, with either an Android operating system version 4.1 and above or an
+ iOS operating system 7.0 and above; and 5) having internet access. Women undergoing treatment for type
+ or 2 diabetes mellitus or not residing in the district of Seremban were excluded.
+ Seremban district has a similar ethnic composition and diabetes prevalence to the national average [9]. Five
+ health clinics in Seremban were identified as data collection sites. A group of primary health care nurses was Effectiveness of a complex intervention to reduce diabetes
+ 
+<section> appointed as data collectors and they received specialised training in data collection. They were not the same
+ nurses who were trained to carry out behaviour change communication (BCC), as they were part of the inter-
+ vention team. The intervention follow-up period was approximately 33 weeks. The trial was designed follow-
+ ing the Standard Protocol Items: Recommendations for Interventional Trials (SPIRIT) 2013 statement [12].
+ Women were randomised into the intervention and control arms at the baseline measurement visit with a 1:1
+ allocation ratio, using computer-generated random allocation sequences with block sizes of six subjects. Each
+ clinic was provided with a sufficient number of identification (ID) numbers with randomisation codes. When
+ a subject was enrolled in the trial, the study nurse assigned the lowest available ID number to the subject from
+ the list of ID numbers. The Institute for Health System Research (IHSR) of the Malaysian Ministry of Health
+ (the main implementation partner) prepared the randomisation lists which were then distributed to the five
+ designated primary health clinics in Seremban. A copy was maintained by IHSR. Subjects in the control arm
+ received standard care as provided by public health clinics in Malaysia, which did not involve contact with a
+ community health promoter (CHP) or access to the Jom Mama app. Control subjects received one phone call
+ from a research officer towards the end of the trial period to remind them of their endpoint visit. This paper’s
+ authors were blinded to the randomisation codes.
+ 
+<section> Outcome measures
+ 
+<section> The primary outcome of the RCT was a change in the woman’s WC from baseline to after 33 weeks. Secondary
+ outcomes were differences between intervention and control groups in any change from baseline to after
+ weeks or between the groups at the endpoint in the following variables: weight; body mass index (BMI) follow-
+ ing the WHO Asian population cut-off of underweight (<18.5 kg/m ), normal (18.5-22.9 kg/m ), overweight
+ (23.0-27.4 kg/m ), obese (≥27.5 kg/m ); waist-to-height ratio; waist-to-hip ratio; glycated haemoglobin A1c
+ (HbA1c); fasting lipid profile (total cholesterol, low-density lipoprotein cholesterol, high-density lipoprotein
+ cholesterol, and triglycerides); systolic and diastolic blood pressure; diet as measured by a Food Frequency
+ Questionnaire (FFQ) adapted from a locally validated version [13]; physical activity and sedentary behaviour
+ as measured by the International Physical Activity Questionnaire (IPAQ); and mental health as measured by
+ the Depression Anxiety and Stress Scale 21-item (DASS-21) [12]. Participants answered the FFQ, IPAQ, and
+ DASS-21 self-reported questionnaire prior to having their anthropometric measurements and blood samples
+ taken by the study nurse. Measurements for waist circumference, hip circumference, weight, height, and blood
+ pressure followed standardised procedures based on World Health Organisation (WHO) STEPS surveillance.
+ For lipid profile and HbA1c, a 10ml fasting (minimum 9 hours) blood sample was taken by the study nurse
+ at the study sites. These procedures followed the trial protocol outlined in Skau et al. [12].
+ 
+<section> Sample size
+ 
+<section> The calculation was based on the primary outcome of achieving a 2 cm reduction in change in waist circum-
+ ference (WC) between intervention and control groups at intervention completion (33 weeks). Assuming a
+ 5% level of significance, a statistical power of 90% and a standard deviation (SD) of WC of 5 cm, and using a
+ two-tailed t test, 132 women per arm were required. Assuming a 20% attrition rate and an exclusion of 20% of
+ participants due to them becoming pregnant before the trial’s completion period, a total of 660 women would
+ be required to ensure a minimum of 264 subjects split between the intervention and control arms.
+ 
+<section> Intervention components
+ 
+<section> The intervention aimed to encourage healthy lifestyle changes in young married couples through a combined
+ behaviour change communication method implemented by community health promoters (CHPs) during six
+ contact points (CPs), along with continuous access to a tailored mobile application. The 48 CHPs were re-
+ cruited from within the public health care system and comprised 37 community health nurses, 10 staff nurses,
+ and one nursing sister. They were given a four-day training course prior to the intervention, which introduced
+ them to the national guidelines for nutrition and physical activity, as well as how to carry out BCC and use the
+ Jom app. The course curriculum was developed by local communication experts through a series of consulta-
+ tions with multiple stakeholders and assessments of trainees’ prior levels of knowledge and skills. The course
+ participants were given a handbook explaining the course content and the outcomes were evaluated using a
+ pre-post design. A system was established to provide “peer support” for the CHPs during the intervention. The
+ Jom app was developed specifically for the Jom Mama study by an external commercial software developer
+ (Cognizant Technology Solutions) and included a function which provided lifestyle challenges that the young
+ couples could select. The challenges were focused either on healthy food or physical activity. The app also
+ provided a resource section where the couples could access information on healthy lifestyles. Physical activity 
+<insert> Figure 1. Jom Mama consort diagram illustrating the number of participants
+ eligible and recruited during the trial as well as the attrition. 
+<iend>
+
+ challenge examples included brisk walking for
+ planks; healthy food challenges included avoiding
+ avoiding soft drinks [12]. The intervention included
+ 2, and 5) at a site of their choice and three via
+ 
+<section> Control components
+ 
+<section> The control group received standard care which
+ platform. By eight months after the baseline visit,
+ ficer reminding them of their endpoint visit.
+ 
+<section> Statistical analysis
+ 
+<section> Based on the primary outcome, the null hypothesis
+ tion and the control group in any change in WC
+ activity, and sedentary behaviour (IPAQ) were
+ vention and control groups. As all the variables
+ independence between intervention and control
+ as normal, moderate, and severe, in accordance
+ ate, ≥11 = severe), anxiety (0-3 = normal, 4-7 =
+ ≥13 = severe). Bootstrapping was used to control
+ ary analysis. The data analyses were conducted
+ 
+<section> Research ethics
+ 
+<section> The study protocol version 4.0 dated August
+ Medical Research and Ethics Committee of the
+ 904-21963) on September 21, 2015. The study
+ sinki [14]. All subjects provided written informed
+ was voluntary and the subjects could elect to
+ tiality of participants were assured. The trial
+ on November 30, 2015.
+ 
+<section> RESULTS
+ 
+<section> Study population characteristics
+ 
+<section> 15 minutes, using the stairs instead of the elevator, and doing
+ oily food, drinking plain water/non-sweetened beverages and
+ a total of six CPs with the CHP; three face-to-face (CPs 1,
+ phone (CPs 3, 4, and 6) over a period of about 33 weeks [12].
+ did not include contact with a CHP or access to the E-health
+ the control couples would receive a call from a research of-
+ was that there would be no difference between the interven-
+ over the period of the trial. The secondary outcomes, physical
+ analysed using an independent sample t test between the inter-
+ for diet (FFQ) and mental health (DASS-21) were ordinal, the
+ groups was tested with the χ 2 test. We categorised DASS scores
+ with the scores for depression (0-4 = normal, 5-10 = moder-
+ moderate, ≥8 severe), and stress (0-7 = normal, 8-12 = moderate,
+ for key sociodemographic factors in the primary and second-
+ 
+<section> in IBM SPSS version
+ 
+<section> 12, 2015, received ethical and governance approvals by the
+ Ministry of Health, Malaysia (protocol number NMRR-14-
+ was performed in accordance with the Declaration of Hel-
+ consent prior to participation in the trial. All participation
+ withdraw from the trial at any time. Anonymity and confiden-
+ was registered at clinicaltrials.gov (identifier: NCT02617693)
+ 
+<section> Of the 5053 women approached for in-
+ clusion, 2075 women were found eligi-
+ ble, and out of these 548 women were
+ randomised into either the intervention
+ or control group (Figure 1) (response rate
+ of 26.4%). Of these women, 305 (55.6%)
+ completed the study. The main reason for
+ loss to follow-up was pregnancy occurring
+ during the study period.
+ 
+<section> Randomisation resulted in a near equiva-
+ lence in baseline variables (Table 1), except
+ that the mean age of women was higher in
+ the intervention compared to the control
+ group (29.1 years vs 27.9 years; P = 0.008).
+ 
+<section> Anthropometric outcome
+ 
+<section> measures
+ 
+<section> During the 33-week intervention period,
+ all women in the intervention group re-
+ ceived the required six CHP session dose
+ approached, and downloaded the app, but there was no
+ statistical reduction in WC between the in- 
+<insert> Characteristics
+ Age, years, mean (SD)
+ Waist circumference, cm, mean (SD)
+ Waist circumference above 80 cm, n (%)
+ Weight, kg, mean (SD)
+ BMI, m/kg2, mean (SD)
+ HbA1C, mean (SD)
+ Ethnicity, Malay, n (%)
+ Length of education
+ 10-11 y, n (%)
+ 12 y, n (%)
+ Tertiary degree*, n (%)
+ Employed, n (%)
+ Family history of diabetes, yes, n (%)
+ Intervention n = 145) Control (n = 160) P-values
+ 29.1 (4.3)
+ 81.4 (13.6)
+ 69 (52.4)
+ 65.1(19.0)
+ 26.9 (7.5)
+ 5.3 (0.5)
+ 132 (91.0)
+ 27.4 (4.1)
+ 80.7 (13.5)
+ 77 (48.1)
+ 63.8 (17.4)
+ 26.3 (6.8)
+ 4.7 (1.7)
+ 137 (85.6)
+ 0.008
+ 0.640
+ 0.928
+ 0.528
+ 0.701
+ 0.126
+ 0.144
+ 0.457
+ 29 (20.0)
+ 57 (39.3)
+ 59 (40.7)
+ 123 (84.8)
+ 70 (48.3)
+ 30 (18.8)
+ 74 (46.3)
+ 56 (35.0)
+ 141 (88.1)
+ 63 (39.4)
+ 0.183
+ 0.090
+ BMI – body mass index, SD – standard deviation, HbA1C – haemoglobin A1c test
+ *Tertiary degree means undergraduate degree (or similar) and above.
+ Table 1. Baseline sociodemographic characteristics and values of anthropometric measures of study participants in inter-
+ vention and control (standard care) groups of trial 
+<iend>
+
+ 
+<insert> Table 2. Anthropometric outcomes for all participants: change in waist circumference, weight and BMI in intervention
+ and control (standard of care) groups of the trial* 
+<iend>
+
+ 
+<insert> Table 3. Subgroup analysis for changes in waist circumference, weight and BMI 
+<iend>
+
+ Effectiveness of a complex intervention to reduce diabetes
+ 
+<section> tervention and control groups (Table 2). In fact, WC increased by 1.2 cm in the intervention group and 1.0 cm
+ in the control group, although this difference was not statistically significant (P = 0.811). Weight increased by
+ 0.8 kg and BMI by 0.3 kg/m -2 in the intervention group and 1.6 kg and 0.7 kg/m -2 in the control group. These
+ increases were significantly smaller in the intervention compared to the control group (Table 2).
+ 
+<section> A subgroup analysis was conducted on the anthropometric measures according to the categories: underweight/
+ normal weight, overweight, and obese (Table 3). No difference was found in the change in WC between the
+ subgroups. However, the weight gain was significantly less in the obese intervention group compared to the
+ 
+<section> Outcome variable Intervention (n = 145) Control (n = 160) P-values
+ 
+<section> WC†, cm, mean (SD) 
+<section> 82.6 (13.9) 
+<section> 81.7 (13.9) 
+<section> 0.547
+ Change in WC‡ (baseline minus endpoint assessment) -1.19 (6.6) -1.02 (5.6) 0.811
+ 
+<section> Weight†, kg, mean (SD) 
+<section> 66.7 (18.8) 
+<section> 65.4 (17.5) 
+<section> 0.528
+ Change in weight‡ (baseline minus endpoint assessment) -0.83 (3.4) -1.6 (2.6) 0.025
+ 
+<section> BMI†, mean (SD) 
+<section> 27.3 (7.4) 
+<section> 27.0 (7.0) 
+<section> 0.701
+ Change in BMI‡ (baseline minus endpoint assessment) -0.33 (1.4) -0.66 (1.1) 0.019
+ 
+<section> WC – waist circumference, BMI – body mass index, SD – standard deviation
+ *BMI according to the WHO Asian definition of underweight/normal weight; overweight and obese.
+ †Controlled for age-group by bootstrapping.
+ ‡A negative change result indicates a positive gain in the parameter between baseline and endpoint assessment.
+ 
+<section> Outcome variable* Intervention (n = 145) Control (n = 160) P-values
+ Change in WC†, cm (baseline minus endpoint assessment) 0.907
+ 
+<section> Under/normal, mean (SD) 
+<section> -1.8 (5.5) 
+<section> -0.9 (5.2)
+ 
+<section> Overweight, mean (SD) 
+<section> -0.6 (6.9) 
+<section> -0.6 (5.8)
+ 
+<section> Obese, mean (SD) 
+<section> -1.2 (7.2) 
+<section> -1.5 (5.7)
+ Change in Weight†, kg (baseline minus endpoint assessment) 0.023
+ 
+<section> Under/normal, mean (SD) 
+<section> -1.3 (2.3) 
+<section> -0.1 (2.0)
+ 
+<section> Overweight, mean (SD) 
+<section> -1.2 (2.7) - 2.1 (2.7)
+ 
+<section> Obese, mean (SD) - 0.1 (4.5) 
+<section> -1.7 (2.9)
+ Change in BMI†, kg/m 2 (baseline minus endpoint assessment) 0.015
+ 
+<section> Under/normal, mean (SD) 
+<section> -0.5 (0.9) 
+<section> -0.5 (0.9)
+ 
+<section> Overweight, mean (SD) 
+<section> -0.5 (1.1) 
+<section> -0.9 (1.1)
+ 
+<section> Obese, mean (SD) 
+<section> 0.01 (1.9) 
+<section> -0.7 (1.2)
+ 
+<section> WC – waist circumference, BMI – body mass index, SD – standard deviation
+ *Data were analysed by an ANOVA-test and presented as mean differences.
+ †A negative change result indicates a positive gain in the parameter between baseline and endpoint assessment. 
+<insert> Table 4. Comparison of metabolic outcomes between the intervention and control groups 
+<iend>
+
+ 
+<insert> Table 5. Post-intervention outcome of dietary intake of selected food items post-intervention measured by the Food Fre-
+ quency Questionnaire (FFQ) in intervention and control groups of the trial 
+<iend>
+
+ obese control subgroup (0.1 kg vs 1.7 kg; P = 0.023).
+ a slight reduction (0.01) compared to the obese control
+ 
+<section> Secondary outcomes
+ 
+<section> Secondary outcomes were monitored in several domains,
+ take (Table 5), physical activity (Table 6) and depression,
+ For dietary intake, the only difference was that 71.7%
+ rice, as compared to 50% in the control group (P
+ ference in job-related physical activity between the
+ lent for Task (MET)/week vs 153.8 MET/week of
+ MET/week of moderate activities (P = 0.058) (Table
+ 
+<section> Outcome variables* Intervention (n
+ BP (systolic), mean (SD) 107.6 (14.0)
+ BP (diastolic), mean (SD) 72.3 (10.5)
+ Elevated BP, n (%) 11 (7.6)
+ HbA1C, mean (SD) 5.3 (0.6)
+ >6.5mmol/l, n (%) 2 (1.4)
+ Total cholesterol, mean (SD) 4.86 (0.9)
+ >5.2mmol/l, n (%) 46 (32.2)
+ HDL, mean (SD) 1.45 (0.4)
+ <1.2mmol/l, n (%) 34 (23.8%)
+ Triglycerides, mean (SD) 0.90 (0.5)
+ >1.7mmol/l, n (%) 11 (7.7)
+ 
+<section> BP – blood pressure, SD – standard deviation, HBA1c – haemoglobin
+ *Data were analysed by the null-hypothesis that there would
+ were controlled for age-group by bootstrapping.
+ 
+<section> Food items Intervention
+ Vegetable intake per week, mean (SD)
+ Fruit intake per week, mean (SD)
+ Rice, Portion size, n (%)
+ 
+<section> ¼ plate
+ 
+<section> ½ plate
+ 
+<section> ¾ plate
+ 
+<section> 1 plate
+ Noodles, Portion size, n (%)
+ 
+<section> ¼ plate
+ 
+<section> ½ plate
+ 
+<section> ¾ plate
+ 
+<section> 1 plate
+ Bread, Portion size, n (%)
+ 
+<section> Fried Foods, Frequency, n (%)
+ 
+<section> Rarely (1-3/mo)
+ Occasionally (1-2/week)
+ Frequently (3-6/week)
+ 
+<section> Daily
+ Fast food, Frequency, n (%)
+ Rarely (1-3/mo) 105
+ Occasionally (1-2/week)
+ Frequently (3-6/week)
+ 
+<section> Daily
+ 
+<section> In terms of BMI, the obese intervention subgroup
+ subgroup, whose BMI increased by 0.7 (P
+ including metabolic outcomes (Table 4),
+ anxiety, and stress levels (Table 7).
+ 
+<section> in the intervention group took half servings
+ 
+<section> = 0.001) (Table 5). Furthermore, there was a significant
+ intervention and control groups; 259.9 Metabolic
+ vigorous activities (P = 0.03) and 749.0 MET/week
+ 
+<section> 6).
+ 
+<section> = 145) Control (n = 160) P-values
+ 
+<section> 104.7 (10.6)
+ 
+<section> 70.9 (9.1)
+ 
+<section> 5 (3.1)
+ 
+<section> 5.2 (0.5)
+ 
+<section> 4.79 (0.9)
+ 
+<section> 44 (27.7)
+ 
+<section> 1.43 (0.4)
+ 
+<section> 45 (28.3%)
+ 
+<section> 0.85 (0.4)
+ 
+<section> 6 (3.8)
+ 
+<section> A1c test, HDL – high-density lipoprotein
+ be no difference between the intervention and control group;
+ 
+<section> (n = 145) Control (n = 160) P-values
+ 
+<section> 9.4 (7.8) 
+<section> 8.7 (6.1)
+ 
+<section> 5.8 (4.8) 
+<section> 5.1 (4.2)
+ 
+<section> 38 (26.2) 
+<section> 23 (14.4)
+ 
+<section> 66 (45.5) 
+<section> 57 (35.6)
+ 
+<section> 38 (26.2) 
+<section> 70 (43.8)
+ 3 (2.1) 
+<section> 10 (6.3)
+ 
+<section> 35 (25.7) 
+<section> 31 (20.8)
+ 
+<section> 70 (51.5) 
+<section> 70 (47.0)
+ 
+<section> 30 (22.1) 
+<section> 47 (31.5)
+ 1 (0.7) 1 (0.7)
+ 
+<section> 24 (16.9) 
+<section> 19 (12.0)
+ 
+<section> 91 (64.1) 
+<section> 97 (61.0)
+ 
+<section> 27 (19.0) 
+<section> 43 (27.0)
+ 
+<section> 17 (11.7) 
+<section> 15 (9.4)
+ 
+<section> 43 (29.7) 
+<section> 40 (25.0)
+ 
+<section> 65 (44.8) 
+<section> 80 (50.0)
+ 
+<section> 20 (13.8) 
+<section> 25 (15.6)
+ 
+<section> (75.5) 
+<section> 110 (71.9)
+ 
+<section> 28 (20.1) 
+<section> 36 (23.5)
+ 6 (4.3) 7 (4.6)
+ 
+<section> showed
+ = 0.015).
+ 
+<section> dietary in-
+ 
+<section> or less of
+ 
+<section> dif-
+ 
+<section> Equiva-
+ 
+<section> vs 550.0
+ 
+<section> 0.031
+ 
+<section> 0.230
+ 
+<section> 0.081
+ 
+<section> 0.093
+ 
+<section> 0.133
+ 
+<section> 0.527
+ 
+<section> 0.394
+ 
+<section> 0.632
+ 
+<section> 0.372
+ 
+<section> 0.364
+ 
+<section> 0.140
+ 
+<section> all variables
+ 
+<section> 0.458
+ 
+<section> 0.199
+ 
+<section> 0.001
+ 
+<section> 0.333
+ 
+<section> 0.175
+ 
+<section> 0.803
+ 
+<section> 0.770 
+<insert> Table 5. continued 
+<iend>
+
+ 
+<insert> Table 6. Post-intervention physical activity outcomes measured by IPAQ in intervention and control groups of the trial 
+<iend>
+
+ 
+<insert> Table 7. Post-intervention outcome measurements on depression, anxiety and stress measured by DASS-21 in the trial’s
+ intervention and control groups
+ Item
+ Depression, n (%)
+ Normal
+ Moderate
+ Severe
+ Anxiety, n (%)
+ Normal
+ Moderate
+ Severe
+ Stress, n (%)
+ Normal
+ Moderate
+ Severe
+ Intervention (n = 145) Control (n = 160)
+ 114 (78.6)
+ 29 (20.0)
+ 2 (1.4)
+ 124 (77.5)
+ 31 (19.4)
+ 5 (3.1)
+ 77 (53.1)
+ 50 (34.5)
+ 18 (12.4)
+ 81 (50.6)
+ 53 (33.1)
+ 26 (16.3)
+ 119 (82.1)
+ 23 (15.9)
+ 3 (2.1)
+ 124 (77.5)
+ 26 (16.3)
+ 10 (6.3)
+ P-values
+ 0.595
+ 0.635
+ 0.190 
+<iend>
+
+ Effectiveness of a complex intervention to reduce diabetes
+ 
+<section> Food items Intervention (n = 145) Control (n = 160) P-values
+ 
+<section> Carbonated drinks, Frequency, n (%) 
+<section> 0.179
+ 
+<section> Rarely (1-3/mo) 
+<section> 88 (80.0) 
+<section> 93 (69.9)
+ 
+<section> Occasionally (1-2/week) 
+<section> 17 (15.5) 
+<section> 33 (24.8)
+ 
+<section> Frequently (3-6/week) 5 (4.5) 7 (5.3)
+ 
+<section> Daily
+ 
+<section> Pastries, Frequency, n (%) 
+<section> 0.491
+ 
+<section> Rarely (1-3/mo) 
+<section> 87 (64.6) 
+<section> 81 (57.0)
+ 
+<section> Occasionally (1-2/week) 
+<section> 36 (26.7) 
+<section> 46 (32.4)
+ 
+<section> Frequently (3-6/week) 
+<section> 12 (8.9) 
+<section> 14 (9.9)
+ 
+<section> Daily 
+<section> 1 (0.7)
+ 
+<section> Sweet local delicacies (‘kuih’), Frequency, n (%) 
+<section> 0.336
+ 
+<section> Rarely (1-3/mo) 
+<section> 21 (14.9) 
+<section> 33 (21.3)
+ 
+<section> Occasionally (1-2/week) 
+<section> 57 (40.4) 
+<section> 50 (32.3)
+ 
+<section> Frequently (3-6/week) 
+<section> 53 (37.6) 
+<section> 62 (40.0)
+ 
+<section> Daily 
+<section> 10 (7.3) 
+<section> 10 (6.5)
+ 
+<section> SD – standard deviation
+ 
+<section> Item Intervention (n = 145) Control (n = 160) P-values
+ Vigorous* job related physical activity, mins/week, mean (SD) 259.9 (389.7) 153.8 (280.2) 0.032
+ Moderate† job-related physical activity, mins/week, mean (SD) 749.0 (822.0) 550.0 (725.4) 0.058
+ Transport, mins/week, mean (SD) 495.0 (983.5) 480.0 (794.7) 0.908
+ Vigorous* leisure physical activity, mins/week, mean (SD) 120.5 (143.6) 138.5 (164.7) 0.417
+ Moderate† leisure physical activity, mins/week, mean (SD) 271.8 (463.2) 328.6 (607.0) 0.434
+ Sitting‡, mins/week, mean (SD) 273.9 (225.0) 321.9 (270.8) 0.133
+ 
+<section> SD – standard deviation
+ *Activities that take hard physical effort and make you breathe much harder than normal.
+ †Activities that take moderate physical effort and make you breathe somewhat harder than normal.
+ ‡Time spent sitting at a desk, visiting friends, reading, or sitting or lying down to watch television.
+ 
+<section> DISCUSSION
+ 
+<section> To the best of our knowledge, Jom Mama is one of the few complex pre-conception interventions that attempt-
+ ed to change health in young adults in a middle-income country. The combination of administering the trial
+ through the health system, with support from academia and the private sector, offered a unique opportunity
+ to capitalise on the outcomes by taking Jom Mama to scale, if appropriate. Furthermore, the trial was prepared
+ in collaboration with end-users, the local government, and the health system managers, based on the provi-
+ sion of resources necessary for its administration. It was developed systematically, by mapping and including
+ relevant preparatory studies. The consort diagram (Figure 1) shows a sufficient number of study participants
+ were recruited, so the trial remained adequately powered. 
+<section> The baseline data for the trial showed that this sample of young adults recruited in the Seremban region had
+ a high prevalence of overweight and obesity (Table 1), as is the case for Malaysia nationally [2]. They were
+ also relatively physically inactive, with most activity occurring in the workplace rather than during leisure
+ (Table 6).
+ 
+<section> Over eight months, the Jom Mama intervention trial did not result in differences in change in WC between
+ the intervention vs the control group. There were, however, statistically significant, albeit small differences in
+ weight gain and BMI, where the intervention group had smaller increases than the control group. Subgroup
+ analysis showed that this effect was primarily present among obese women in the cohort. There were no sig-
+ nificant effects on the other anthropometric, cardiovascular, metabolic, behavioural, and mental health sec-
+ ondary outcomes. This suggests that, while the intervention had only a small effect on the population’s overall
+ weight, the intervention was beneficial for those women who were already obese.
+ While the importance of intervening in the pre-conception period to reduce NCD risk in both women and
+ their offspring is widely recognised [15], few interventions were tested in this period rather than in pregnan-
+ cy [16]. This is partly due to the definition of the pre-conception period, which offers different opportunities
+ depending on the degree of intent to conceive [17].
+ 
+<section> One limitation of our study comes from the challenge of implementing nutritional and other relevant clinical
+ guidelines in the population, especially in a low resource setting. Similar challenges were faced in other studies
+ [18,19]. The intervention was also delivered to young couples who deemed themselves as healthy individuals
+ without a need for encounters with health care services except for acute episodes, which may have resulted in
+ a lower level of completion of intervention activities. This trial’s strength is the systematic development of the
+ intervention [8-11], staff receiving appropriate training and subsequent support, and the development of a
+ dedicated e-health app. A concurrent process evaluation allowed lessons to be learned about the trial’s poten-
+ tial limitations, including aspects of BCC and e-health implementation, which may have influenced the trial’s
+ outcomes [20]. Furthermore, important lessons were learned about the challenges of recruitment and attri-
+ tion, which allowed changes to be made, ensuring an adequate sample size. Despite considerable effort, using
+ publicity and numerous promotional materials and exploring several recruitment sites (including communi-
+ ty health clinics and marriage registry offices), a low percentage of couples approached agreed to participate
+ in the trial. It is clearly challenging to engage this group and ensure active participation to change behaviour.
+ This finding has important public health implications, discussed in depth in the accompanying process eval-
+ uation paper [20].
+ 
+<section> Despite considerable efforts to train and support the CHPs in delivering the intervention, many did not feel
+ comfortable doing so [20]. This may be due to the BCC principles being antithetical to their training as trans-
+ mission-focused rather than interaction-focused information communicators. Furthermore, although significant
+ resources were invested in developing the Jom app, our analysis showed that it was not widely accessed [20].
+ Though the effect on the obese subgroup of women offers hope that an approach similar to Jom Mama might
+ have greater beneficial health effects if amplified in various ways, the scale and the cost of the intervention
+ make this unlikely, at least in its present form. Further discussion of the public health conclusions is present-
+ ed in an accompanying paper [20].
+ 
+<section> The establishment of a novel private-public partnership, comprising the Malaysian Ministry of Health, aca-
+ demic researchers from several universities, and a private sector funding partner with an interest in metabolic
+ health, was found to be essential in taking on a task of this magnitude. The rationale for pre-conception in-
+ terventions is strong, so more research is needed in different parts of the world and with different health care
+ systems. However, as the Jom Mama intervention shows, the magnitude of this undertaking is considerable.
+ 
+<section> CONCLUSIONS
+ 
+<section> From a life-course perspective, there is a strong rationale for interventions to improve health among young
+ people for themselves now and in the future, and for their future children. In a Malaysian context, the high
+ levels of overweight and obesity and low levels of physical activity in young married adults, along with other
+ priorities at this time in their lives, make significant lifestyle and health changes difficult. A successful inter-
+ vention will depend on striking the balance between sufficient intensity to alter metabolic risk over a short
+ time period and designing it in such a way that it is compatible with the target population’s daily life. Despite
+ the use of local community health workers, a dedicated app, and considerable effort to sustain follow-up, the
+ modest effects of the Jom Mama intervention, primarily on reducing ongoing weight gain in already obese Effectiveness of a complex intervention to reduce diabetes
+ 
+<section> women, make it clear that this is a very challenging problem. The findings of the Jom Mama trial and the ac-
+ companying process evaluation [20] provide some guidance to inform future public health policies and health
+ promotion programmes.
+ 
+<section> Acknowledgements: Many thanks to the young couples who engaged themselves in Jom Mama, and to the many staff
+ members that conducted the intervention and the evaluation. We would like to thank the Director General of Health, Min-
+ istry of Health Malaysia for permission to publish this study. The Jom Mama project consortium included many resource
+ persons who have provided support during the various phases of the project. Charlotte Ersbøll, Bjarne Bruun Jensen and
+ Maimunah Hamid were instrumental in the study design. Nazar Ibrahim was instrumental in providing extensive project
+ management support at various phases of the project and the publication of related academic papers. Ramli Zainal, Noor
+ Safiza Mohd Nor, Haniza Mohd Anuar, and Hamid Jan Mohamed conducted the Phase 1 formative research. Aswir Abdul
+ Rashed and Vibeke Vinding supported the Phase 2 intervention development. Roslinah Ali, Awatef Amer Nordin, Iman
+ Aimullah Roslan, and Nur Hani Zainudin from the Institute for Health Systems Research coordinated the trial implemen-
+ tation. Adilius Manual and Masrol Hafizal Ismail provided data management support. Mohamed Paid Yusof, Mohammad
+ Faid Abdul Rashid, Mimi Rodzaimah Abdul Karim, Zamzaireen Zainal Abidin, Zaahirah Mohammad, and Nur Adibah
+ Shaharul from the Seremban District Health office provided extensive support and leadership in executing the trial. The
+ Trial Governance Core Group consisting of Lokman Hakim Sulaiman, Zainudin Mohd Ali, Tahir Aris, Ramli Zainal, Ro-
+ szaini Omar, Faridah Abu Bakar, Feisul Idzwan Mustafa, and Iliza Idris advised on trial implementation. The Process Eval-
+ uation team consisting of Shakirah Md Sharif, Ainul Nadziha Mohd Hanafiah, Diane Chong Woei Quan, Mohamad Zaidan
+ Zulkepli, Norazlin Muharam, Nur Hidayati Abdul Halim, Nurul Salwana Abu Bakar, Nur Azmiah Zainuddin, Syatirah
+ Fatin Aini Zulbahari, Patricia Jonoi, Nur Hani Zainudin, and Muhd Zulfadli Hafiz Ismail conducted the qualitative study
+ on the trial implementation processes, and the Economic Evaluation team members Nur Hidayati Abdul Halim, Nur Az-
+ miah Zainuddin, and Nurul Salwana Abu Bakar performed the Economic Evaluation sub-study to assess the cost-benefit
+ analysis of the intervention for a health system scale-up.
+ 
+<section> Funding: The Jom Mama Project was co-funded by Novo Nordisk and the Ministry of Health Malaysia. The authors
+ would also like to thank the State Health Director of Negeri Sembilan as well as the staff of the Seremban District Health
+ Office for the continuous support during the study period. Trial execution was a combined effort of the staff members of
+ the five public clinics (study sites) in the district of Seremban, and we would like to acknowledge the efforts of the project
+ recruiters, site coordinators, site nurses, Community Health Promoters, and Family Medicine Specialists of the five sites
+ in supporting the trial implementation. The Jom Mama project is a public-private partnership with the Ministry of Health
+ Malaysia, Novo Nordisk (Denmark), the University of Southampton (UK) and the University of the Witwatersrand (South
+ Africa) and the Steno Diabetes Center Copenhagen (Denmark) to address diabetes prevention in Malaysia. The UK MRC/
+ DFID African Research Leader Scheme supports SAN. MH is supported by the British Heart Foundation.
+ 
+<section> Authorship contributions: SN provided the overall guidance on trial design. PM conceptualised the overall study in col-
+ laboration with SN, JAH, JS, and MH and contributed to the development and implementation of the trial. ANMH, JS,
+ and JCH were responsible for the overall trial management and execution. JCH supported the development of trial ma-
+ terials. ZAK conducted the trial data analysis. JAH contributed with overall supervision of process evaluation. ZMA and
+ LHS provided institutional support to execute the trial. SAN, JAH, and MAH drafted the manuscript, ANMH provided
+ the results section, and all authors commented on and approved the final manuscript.
+ 
+<section> Competing interests: The study is a part of the Jom Mama project in Malaysia. The Jom Mama project is a public-private
+ partnership with the Ministry of Health Malaysia, Novo Nordisk (Denmark), the University of Southampton (UK), the
+ University of Witwatersrand (South Africa), and the Steno Diabetes Center (Denmark) to address diabetes prevention in
+ Malaysia. The development of the intervention package, project management and the costs of the CRO have been fund-
+ ed by an unrestricted grant from Novo Nordisk. The Ministry of Health Malaysia is providing the funding for human re-
+ sources and trial implementation. JS and JCHC are employed by Novo Nordisk. MAH is supported by the British Heart
+ Foundation. The authors completed the ICMJE Unified Competing Interest Form (available upon request from the cor-
+ responding author) and declare no further conflicts of interest.
+ 
+<section> 1 NCD  Risk Factor Collaboration (NCD-RisC). Worldwide trends in diabetes since 1980: a pooled analysis of 751 popula-
+ tion-based studies with 4·4 million participants. Lancet. 2016;387:1513-30. Medline:27061677
+ 
+<section> REFERENCES 
+<section> 2 Institute  for Public Health (IPH), National Institutes of Health, Ministry of Health Malaysia. National Health and Morbidity
+ 
+<section> Survey (NHMS) 2019: Vol. I: NCDs – Non-Communicable Diseases: Risk Factors and other Health Problems. 2020.
+ 
+<section> 3 Logakodie  S, Azahadi O, Fuziah P, Norizatti BIB, Tan SF, Zienna ZZR, et al. Gestational diabetes mellitus: The prevalence, as-
+ sociated factors and foeto-maternal outcome of women attending antenatal care. Malays Fam Physician. 2017;12:9-17. Med-
+ 
+<section> line:29423124
+ 
+<section> 4 Hemsing  N, Greaves L, Poole N. Preconception health care interventions: A scoping review. Sex Reprod Healthc. 2017;14:24-
+ 32. Medline:29195631 doi:10.1016/j.srhc.2017.08.004
+ 
+<section> 5 Barker  M, Dombrowski SU, Colbourn T, Fall CHD, Kriznik NM, Lawrence WT, et al. Intervention strategies to improve nutrition
+ and health behaviours before conception. Lancet. 2018;391:1853-64. Medline:29673875 doi:10.1016/S0140-6736(18)30313-1 
+<section> 6  van Elten TM, Karsten MDA, Geelen A, van Oers AM, van
+ tervention in obese infertile women on diet and physical
+ 
+<section> REFERENCES
+ 
+<section> One. 2018;13:e0206888. Medline:30403756 doi:10.1371/journal.pone.0206888
+ 
+<section> 7  Department of Statistics Malaysia. Marriage and divorce
+ able: https://www.dosm.gov.my/v1/index.php?r = column/cthemeByCat&cat
+ JTQWl4dz09&menu_id = L0pheU43NWJwRWVSZklWdzQ4TlhUUT09.
+ 
+<section> 8  Norris SA, Ho JCC, Rashed AA, Vinding V, Skau JKH,
+ ples in Malaysia: application of intervention mapping.
+ s12889-016-3827-x
+ 
+<section> 9  Institute for Health Systems Research. An exploratory
+ the future prevention of obesity, cardiovascular diseases
+ try of Health Malaysia. 2013.
+ 
+<section> 10  Norris SA, Anuar H, Matzen P, Cheah JCH, Jensen BB,
+ results from a stakeholder consensus and engagement
+ Health. 2014;14 Suppl 2:S6. Medline:25080995 doi:10.1186/1471-2458-14-S2-S6
+ 
+<section> 11  Jan Mohamed HJ, Yap RWK, Loy SL, Norris SA, Biesma
+ obesity, and type 2 diabetes mellitus in adults in Malaysia.
+ doi:10.1177/1010539514562447
+ 
+<section> 12  Skau JKH, Nordin ABA, Cheah JCH, Ali R, Zainal R, Aris
+ of diabetes and prediabetes in the pre-conception period
+ 2016;17:215. Medline:27117703 doi:10.1186/s13063-016-1345-x
+ 
+<section> 13  Institute for Public Health (IPH). National Health and Morbidity
+ odology and General Findings. 2014.
+ 
+<section> 14  WHO. World Medical Association Declaration of Helsinki.
+ Bull World Health Organ. 2001;79:373-4. Medline:11357217
+ 
+<section> 15  Hanson M, Barker M, Dodd JM, Kumanyika S, Norris
+ conception, during pregnancy, and post partum. Lancet
+ 
+<section> S2213-8587(16)30108-5
+ 
+<section> 16  Jacob CM, Newell ML, Hanson M. Narrative review of
+ obesity and non-communicable diseases in children. Obes
+ 
+<section> 17  Barker M, Dombrowski SU, Colbourn T, Fall CH, Kriznik
+ and health behaviours before conception. Lancet. 2018;391:1853-64.
+ 
+<section> 18  Jacob CM, Killeen SL, McAuliffe FM, Stephenson J, Hod
+ interventions in the preconception period: A FIGO position
+ stet. 2020;151:6-15. Medline:32894587 doi:10.1002/ijgo.13331
+ 
+<section> 19  Kumaran K, Yajnik P, Lubree H, Joglekar C, Bhat D, Katre
+ study: design and methods of a randomised controlled
+ 
+<section> 017-0143-5
+ 
+<section> 20  Sharif SMd, Hanson M, Chong DW, Hanafiah ANM, Zulkepli
+ complex, pre-conception randomised controlled trial in
+ doi:10.29392/001c.34228
+ 
+<section> Poppel MNM, Groen H, et al. Effects of a preconception lifestyle in-
+ activity; A secondary analysis of a randomized controlled trial. PLoS
+ statistics Malaysia, 2019. Department of Statistics Malaysia. Avail-
+ = 453&bul_id = d1BZVzBZYXVwOTBPdXhGVE-
+ 
+<section> Accessed: 24 April 2022.
+ Biesma R, et al. Pre-pregnancy community-based intervention for cou-
+ BMC Public Health. 2016;16:1167. Medline:27855663 doi:10.1186/
+ study to inform the development of a pre-pregnancy intervention for
+ and diabetes. Malaysia Institute for Health Systems Research, Minis-
+ Hanson M. The life and health challenges of young Malaysian couples:
+ study to support non-communicable disease prevention. BMC Public
+ 
+<section> R, Aagaard-Hansen J. Prevalence and determinants of overweight,
+ Asia Pac J Public Health. 2015;27:123-35. Medline:25524952
+ 
+<section> T, et al. A complex behavioural change intervention to reduce the risk
+ in Malaysia: study protocol for a randomised controlled trial. Trials.
+ 
+<section> Survey 2014: Malaysian Adult Nutrition Survey. Vol. 1: Meth-
+ Ethical Principles for Medical Research Involving Human Subjects.
+ 
+<section> S, Steegers E, et al. Interventions to prevent maternal obesity before
+ Diabetes Endocrinol. 2017;5:65-76. Medline:27743974 doi:10.1016/
+ reviews of preconception interventions to prevent an increased risk of
+ Rev. 2019;20:5-17. Medline:31419048 doi:10.1111/obr.12769
+ NM, Lawrence WT, et al. Intervention strategies to improve nutrition
+ Medline:29673875 doi:10.1016/S0140-6736(18)30313-1
+ M, Diaz Yamal I, et al. Prevention of noncommunicable diseases by
+ paper for action by healthcare practitioners. Int J Gynaecol Ob-
+ 
+<section> P, et al. The Pune Rural Intervention in Young Adolescents (PRIYA)
+ trial. BMC Nutr. 2017;3:41. Medline:32153821 doi:10.1186/s40795-
+ 
+<section> MZ, Zulbahari SF, et al. Learning from the process evaluation of a
+ 
+<section> Malaysia: the Jom Mama project. J Glob Health Rep. 2022;6:e2022025.

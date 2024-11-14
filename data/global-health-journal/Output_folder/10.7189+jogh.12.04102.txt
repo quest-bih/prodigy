@@ -1,0 +1,1061 @@
+
+<section> © 2022 The Author(s)
+ 
+<section> JoGH © 2022 ISoGH
+ 
+<section> Effectiveness of
+ therapy in improving
+ caregivers of children
+ Uganda: A cluster-randomized
+ 
+<section> Mariam Namasaba 1 ,
+ Sumaya Nabunje 2 ,
+ Ali Ayub Baguwemu
+ 
+<section> 1 Department of Psychology,
+ Kyambogo University, Kampala,
+ 
+<section> Uganda
+ 2 Sanlam Life Insurance Limited,
+ 
+<section> Kampala, Uganda
+ 
+<section> Correspondence to:
+ 
+<section> Correspondence to:
+ Ali Ayub Baguwemu
+ Kyambogo University,
+ 
+<section> P.O. Box 1 Kampala
+ 
+<section> Uganda
+ alibaguwemu@kyu.ac.ug
+ 
+<section> Cite as: Namasaba M, Nabunje S, Baguwemu AA. Effectiveness of multi-modal cognitive behaviour-
+ al therapy in improving mental well-being among caregivers of children with disabilities in urban
+ 
+<section> Uganda: A cluster-randomized controlled trial. J Glob Health 2022;12:04102.
+ 
+<section> multi-modal cognitive behavioural
+ mental well-being among
+ with disabilities in urban
+ controlled trial
+ 
+<section> Background In Sub-Saharan Africa, 41 to 58% of the caregivers of children with
+ disabilities experience psychological distress and have poor mental well-being.
+ Cognitive behavioural therapy (CBT) has a moderate effect on improving mental
+ well-being. However, no study has examined its effects among caregivers of chil-
+ dren with disabilities at home and in schools. This study evaluated the effectiveness
+ of CBT in improving mental well-being among caregivers of children with disabil-
+ ities in urban Uganda.
+ 
+<section> Methods We conducted a two-arm cluster-randomized controlled trial in 11 schools
+ across the Kampala district of Uganda. The intervention was a multi-modal CBT
+ training program conducted for six months among 392 home and school caregivers
+ of children with disabilities. In the first three months, caregivers received group-
+ based CBT, and in the next three months, they received phone-based CBT. We used
+ generalized linear mixed-effects regression to examine the differences in the men-
+ tal well-being of caregivers in the control group vs those in the intervention group.
+ 
+<section> Results Home caregivers’ mental well-being was significantly higher after phone-
+ based CBT (unstandardized coefficient of the estimate (B) = 4.31, 95% CI = 1.18-
+ 
+<section> 6.82; P < 0.001, Cohen’s D (d) = 0.27). School caregivers’ mental well-being was sig-
+ nificantly higher after group-based CBT (B = 3.98, 95% CI = 0.22-7.47; P = 0.038,
+ d = 0.25).
+ 
+<section> Conclusions Group-based CBT improved mental well-being among school care-
+ givers, and phone-based CBT improved mental well-being among home caregivers.
+ Interventions targeting school caregivers of children with disabilities should employ
+ group settings and those targeting home caregivers should utilize peer-to-peer net-
+ works to enhance the caregivers’ mental well-being.
+ 
+<section> Registration The study protocol was registered with UMIN Clinical Trials Registry
+ (UMIN-CTR). Trial ID: UMIN000040912.
+ The mental well-being of caregivers of children with disabilities is a global health con-
+ cern. Globally, over 38% of caregivers of children with disabilities have clinical depres-
+ sion [1,2], and 41 to 58% in Sub-Saharan Africa face psychological distress [3]. In low-
+ and middle-income countries (LMICs), the caregivers face up to 15% increased financial
+ burden because of their children’s disabilities [4]. The burden of poor mental well-be-
+ ing among caregivers of children with disabilities is amplified in LMICs because of 1)
+ a lack of financial resources, 2) scarcity of trained mental health professionals, and 3) a
+ negative outlook on disability [5,6]. These precarious dynamics cause heightened stress
+ and anxiety for home and school caregivers, resulting in poor mental well-being [5,7]. 
+<section> In Sub-Saharan Africa, only about 10% of the population can access mental health care or evidence-based
+ treatments [3]. The lack of access is partly due to insufficient numbers of trained mental health care profes-
+ sionals. For instance, one occupational therapist is available for every 100 families of children with disabili-
+ ties in Uganda [8]. Moreover, approximately 88% of the families cannot meet their daily necessities, let alone
+ afford professional health care for their children [8,9]. In addition, many communities in Sub-Saharan Africa
+ still harbour negative attitudes towards disability and consider having a child with a disability a curse [10,11].
+ In response to these challenges, home caregivers in Sub-Saharan Africa, including Uganda, sometimes send
+ their children to schools because they believe schools are a safe abode for them.
+ 
+<section> At school, children with disabilities receive care primarily from school caregivers [12,13]. School caregivers
+ are those designated to support children with disabilities at school or teachers of the children [13]. In Uganda,
+ school caregivers often feel ill-equipped to provide adequate care for children with disabilities because most do
+ not receive formal training in special needs education [11,12]. They sometimes face difficulties bonding with
+ children with disabilities due to sudden changes in the children’s behaviour [14,15], face unrealistic expec-
+ tations, and feel unappreciated by home caregivers [16,17]. Upon the recommendation of the World Health
+ Organization, the government of Uganda adopted community-based rehabilitation (CBR) to overcome these
+ challenges [18]. However, because of financial and infrastructural constraints, few (35% of 2 million) families
+ of children with disabilities in Uganda can access CBR services at local health centres [19,20]. A lack of access
+ to CBR services perpetuates the challenge of poor mental well-being among caregivers. Interventions, such as
+ cognitive behavioural therapy (CBT), could democratize access to mental health care and improve caregivers’
+ mental well-being and their ability to care for children with disabilities [21-23].
+ 
+<section> CBT is a treatment package that aims to reduce individuals’ negative beliefs about themselves or their capabil-
+ ities [24,25]. A meta-analysis of 16 systematic reviews spanning 322 clinical trials found that CBT interven-
+ tions were moderately superior to anti-depressants for treating depression in adults [26]. Moreover, one study
+ reported that CBT interventions effectively reduced 16 psychological disorders, including generalized anxiety
+ and psychological distress [26]. However, there remains much uncertainty about how the benefits of CBT may
+ vary among different groups, such as home and school caregivers of children with disabilities.
+ Understanding the effectiveness of different CBT modalities is crucial for researchers and policymakers to plan
+ effective interventions for caregivers of children with disabilities. Previous studies offer no insight into the ef-
+ fectiveness of different modalities of CBT among groups of people who face similar challenges [24-27]. No
+ study has investigated the efficacy of CBT delivered by trained therapists vs peer mentors. There is also no ev-
+ idence on the effects of non-treatment aspects of CBT, such as group settings vs phone-based settings, on the
+ mental well-being of caregivers of children with disabilities [27]. We hypothesized that group-based CBT, led
+ by trained therapists, and phone-based CBT, led by peer mentors, would have distinct benefits for home and
+ school caregivers. Thus, this study examined the effectiveness of a multi-modal CBT intervention for improv-
+ ing the mental well-being of caregivers of children with disabilities in Kampala district, Uganda.
+ 
+<section> METHODS
+ 
+<section> Study design and setting
+ 
+<section> The study was a cluster-randomized controlled trial to examine the effectiveness of multi-modal CBT in im-
+ proving the mental well-being of caregivers of children with disabilities. We followed a two-group, parallel-arm
+ design with equal allocation and variable cluster sizes [28,29]. The clusters were schools of children with dis-
+ abilities registered by the Kampala Capital City Authority. At the time of the study, Kampala district had
+ schools for children with disabilities, with a potential population of 1000 home caregivers and 350 school
+ caregivers. Of the 14 schools, two were recruited for a pilot study and the remaining 12 for the main study. Of
+ the 12 schools, six were allocated to the intervention group and six to the control group.
+ Home and school caregivers in the intervention group joined a six-month multi-modal CBT program. In the
+ first three months (April-June 2021), the caregivers received group-based CBT led by trained therapists. In
+ the next three months (July-September 2021), the caregivers received phone-based CBT led by peer mentors.
+ Caregivers in the control group received treatment as usual.
+ 
+<section> Study participants and enrolment
+ 
+<section> The eligibility criteria of the schools and caregivers are shown in 
+<section> Table 1. A sample size of 960 caregivers was
+ estimated in OpenEpi version 3, using an intra-cluster correlation coefficient of 0.03, an effect size of 0.35, a
+ 95% confidence interval (CI), and a power of 80% [30]. An additional 25% was included to account for poten- 
+<insert> Table 1. Eligibility criteria of the clusters and participants enrolled in the study
+ Eligibility criteria Exclusion criteria
+ Clusters (schools)
+ Located in the Kampala district
+ Licensed and registered with Uganda National Examinations Board (UNEB)
+ to conduct primary-leaving examinations
+ Did not participate in the pilot study
+ Admits children with disabilities
+ School caregivers
+ Had a direct caring role for a child with a disability in the invited school
+ Had at least six months of experience working in the selected school
+ Aged 18 years or older
+ Proficient in either Luganda or English
+ Home caregivers
+ Were the primary caregiver of a child with a disability at home
+ Provided care for a child with a disability for at least six months
+ Aged 18 years or older
+ Proficient in either Luganda or English
+ Was not a home caregiver of a child with disabilities
+ Did not meet any one of the eligibility criteria
+ Was not a school caregiver of a child with disabilities
+ Had a child with a disability who was not enrolled in the selected school
+ Did not meet any one of the eligibility criteria
+ Did not meet any one of the inclusion criteria 
+<iend>
+
+ Cognitive behavioural therapy and mental well-being
+ 
+<section> tial attrition. Home and school caregivers in the participating schools were invited to an information seminar
+ by researchers and school administrators. Caregivers who did not wish to be contacted were requested to in-
+ form the school’s administration to remove their contacts from the lists before they were available to research-
+ ers. After obtaining the contact lists, all caregivers were invited to an information seminar to join the study.
+ 
+<section> Randomization and masking
+ 
+<section> Schools were stratified based on their type (inclusive or special needs) and potential population size. A com-
+ puterized program, “Randomization in Treatment Arms,” with a 1:1 allocation ratio was used to assign schools
+ to either the control group (n = 6) or the intervention group (n = 6). Allocation was concealed from schools,
+ trainers, research assistants, and participants until recruitment was completed. Study participants and train-
+ ers were not blinded due to the educational nature of the intervention [31]. Caregivers gave their consent
+ to participate in the study before randomization, and they received an intervention based on the allocation
+ of the school.
+ 
+<section> Intervention
+ 
+<section> The intervention was a multi-modal CBT program conducted over six months [32]. The CBT modules were
+ selected from the manual “a therapist’s guide to CBT” [33]. Trained therapists and peer mentors delivered the
+ modules separately in two distinct phases. The structure of the CBT program is shown in 
+<section> Table 2.
+ 
+<section> Phase one: Group-based cognitive behavioural therapy
+ 
+<section> Caregivers were divided into groups of 15-20 and received the intervention in their assigned cohorts. One oc-
+ cupational therapist and a clinical psychiatric officer delivered the CBT modules following a standard training
+ manual. Home and school caregivers received bi-monthly sessions for an hour. The caregivers used exercise
+ books and pencils for taking notes or drawing pictures to depict emotions that were difficult to express ver-
+ bally. They also used the exercise books to complete homework assignments at the end of each group session.
+ The caregivers used both English and Luganda during the group activities. Each group-based CBT session
+ lasted 60-80 minutes.
+ 
+<section> Phase two: Phone-based cognitive behavioural therapy
+ 
+<section> Peer mentors delivered phone-based CBT by making phone calls at the beginning of each month and send-
+ ing follow-up messages at the end of the month. The peer mentors used a logbook detailing topics for phone
+ discussions and structured text messages. Peer mentors then made monthly reports that were used for guided
+ group discussions with their mentees.
+ 
+<section> Intervention development
+ 
+<section> The modules for group-based and phone-based CBT were examined for cultural relevance and acceptability
+ in a pilot study. Four experts, two from Kyambogo University and two from local non-governmental organi- 
+<insert> Table 2. Structure of the multi-modal cognitive behavioural therapy (CBT) program
+ Session content Module Mode of delivery
+ Phase one: group-based CBT, led by a trained therapist
+ Session Introduce caregivers to the CBT modules Conceptualizing existing challenges
+ Goal setting
+ Reframing negative attitudes toward caring
+ Session Identify the coping skills used by caregivers
+ for children with disabilities
+ Setting individual and group goals
+ Identify real-world situations to apply Adapting solutions to context-specific
+ Session
+ identified solutions problems (at school and at home)
+ Session Assess group concerns Conceptualizing existing challenges
+ Goal setting
+ Integrate individuals’ concerns with group
+ Sessions 5 and 6 Modification of the group modules
+ goals
+ Assignment of mentors to small groups
+ Phase two: phone-based CBT, led by peer mentors
+ Training in non-confrontative Providing emotional support to address
+ First month
+ communication specific challenges
+ Reporting on mentor-mentee relationship Group discussion of the play Ensiitaano
+ and progress (chaos)
+ Directive support to create individual
+ Development of personalized coping plans
+ Second month plans and setting specific outcomes for all
+ for school and home challenges
+ caregivers
+ Setting individual-specific monthly goals
+ Gaining insight on specific problems and
+ Third month Solution-focused dialogue
+ brainstorming solutions as a group
+ Group discussions
+ Role plays to practice positive reframing as
+ a coping skill
+ Group discussions and role plays
+ Small-group discussions with a therapist
+ Role-plays and group discussions
+ Phone calls and text messages
+ Individual counselling
+ Reflective writing or dictation using phone
+ recorders
+ Feedback from a peer mentor
+ CBT – cognitive behavioural therapy 
+<iend>
+
+ zations (Cheshire services and L’Arche Uganda), monitored and evaluated the pilot study and recommended
+ substituting activities such as breathing and meditation with singing, dancing, and using local dramas to stim-
+ ulate discussions among caregivers.
+ 
+<section> Conditions for the control group
+ 
+<section> Caregivers in the control group received treatment as usual from schools. Typically, schools for children with
+ disabilities in the Kampala district, Uganda, provide directive and non-directive counselling through guidance,
+ emotional support, and sign language classes for home and school caregivers. Counselling is provided only by
+ school nurses who do not use specific psychotherapeutic treatments but can write hospital referrals for caregiv-
+ ers who need mental health care services. At the time of the study, the nurses conducted counselling services
+ on the phone. Phone calls between nurses and caregivers lasted an average of 20 minutes.
+ 
+<section> Outcome measures
+ 
+<section> The primary outcome was mental well-being, measured by the Warwick Edinburgh Mental Well-being Scale
+ (WEMWBS) [34]. We assessed mental well-being scores at the individual level rather than the cluster level.
+ We examined differences in caregivers’ mental well-being at three intervals: baseline, three months follow-up
+ (immediately after phase one; group-based CBT), and six months follow-up (immediately after phase two;
+ phone-based CBT).
+ 
+<section> Two language experts from Makerere University, Uganda, translated the WEMWBS from English to Luganda
+ (the most spoken language in urban Uganda). A third translator from Naruto university, Japan, back-translated
+ it for confirmation. The forward and back translation processes underwent five iterations through discussions
+ among the three language experts and researchers. The final draft of the translated questionnaire was pre-test-
+ ed in a pilot study with 20 caregivers from two schools. The Luganda WEMWBS contained 14 items rated on
+ a 4-point Likert scale. Caregivers used a questionnaire either in Luganda or English.
+ 
+<section> Socio-demographic characteristics
+ 
+<section> Caregivers’ socio-demographic characteristics were assessed at baseline. The data were categorized into con-
+ tinuous variables (age and years of education) and categorical variables (sex, religious affiliation, employment,
+ forms of social support, and family type). Cognitive behavioural therapy and mental well-being
+ 
+<section> Data collection
+ 
+<section> Data were collected using a self-reported questionnaire. Three trained research assistants facilitated data col-
+ lection by reading aloud questions for caregivers who could not read or preferred to have the questions read
+ to them. The research assistants demonstrated how to select responses by circling or ticking. Caregivers used
+ 40-60 minutes to complete the survey.
+ 
+<section> Statistical analysis
+ 
+<section> Intention-to-treat analyses were conducted separately for school caregivers and home caregivers. Data from
+ clusters in the intervention group and 5 clusters from the control group were used in the analysis.
+ 
+<section> Preliminary analyses
+ 
+<section> First, we used histograms to gain a high-level view of the distribution of the outcome variable: mental well-be-
+ ing. Then we performed a Shapiro-Wilk test to examine the normality of the residues of the outcome variable
+ [35,36]. We considered data to be normally distributed if the P-value was above 0.05 or skewed if the P-val-
+ ue was below 0.05. We used the Wilcoxon rank-sum tests with continuity correction to check for differences
+ in median outcomes of caregivers in the intervention group and control group at baseline, three months, and
+ six months.
+ 
+<section> Mixed-effects regression analysis
+ 
+<section> Variables that were significantly associated with the outcome (based on the Wilcoxon rank-sum tests) were en-
+ tered into generalized linear mixed-effects regression models to assess the effectiveness of the intervention on
+ caregivers’ mental well-being. All analyses were conducted using RStudio (Packages: Tidyverse, lme4, Lavaan,
+ sensemakr, and simr) at 5% significance level [37]. We considered the results statistically significant when the
+ 
+<section> P value was lower than 0.05.
+ 
+<section> Ethical considerations
+ 
+<section> The study conformed with the principles outlined in the Declaration of Helsinki for clinical trials. Participa-
+ tion was voluntary, and caregivers could withdraw from the study at any time. All caregivers who participated
+ in the study provided written informed consent. Those who could not write used a fingerprint on the consent
+ forms. All data were collected in private classrooms. Research assistants and field coordinators were recruited
+ from Kyambogo University Uganda from the special needs education faculty to promote diversity and inclu-
+ sion. Moreover, the peer mentors who led phone-based CBT were selected from the study’s participants. The
+ study findings have been shared with all participating schools and the Kampala Capital City Authority.
+ 
+<section> RESULTS
+ 
+<section> Flow of participants through the study
+ 
+<section> Of 852 caregivers that were invited, 573 (67.2%) accepted to join the study. Of them, 447 were home caregiv-
+ ers, and 126 were school caregivers. After allocation, one school in the control group (55 caregivers) dropped
+ out, citing administrative reasons. Thus, the study included 11 schools and analysed data from 392 caregiv-
+ ers. Before the intervention, the intra-cluster correlation was 0.067. The baseline characteristics of the clusters
+ (schools) are presented in Table S1 in the 
+<section> Online Supplementary Document.
+ 
+<section> Baseline characteristics of the participants
+ 
+<section> Out of 392 caregivers, 50.7% of the home caregivers and 48.3% of the school caregivers attended all six group-
+ based CBT sessions. Of all, 80% of the caregivers received phone-based CBT. At three months follow-up, 84.7%
+ responded to the survey, while 83.9% responded at six months follow-up. There were no statistically signif-
+ icant differences among caregivers lost to follow-up in the intervention group vs those in the control group.
+ The flow of participants through the study is shown in 
+<section> Figure 1.
+ 
+<section> Table 3 shows the baseline characteristics of the caregivers. Home caregivers in the intervention and control
+ groups were similar across education levels and religious affiliations. More than 50.0% had vocational educa-
+ tion, and approximately one-third (34.0%) were protestant by religion. Home caregivers in the intervention
+ group had a mean age of 42.3 (standard deviation (SD) = 11.4) years, and those in the control group had a
+ mean age of 40.8 (SD = 11.4) years. About one-third (27.9%) of the caregivers in the intervention group were
+ unemployed. 
+<insert> Figure 1. Flow of participants through the main study. 
+<iend>
+
+ School caregivers in the intervention and control groups were also similar in their levels of education and re-
+ ligious affiliations. The lowest level of education among them was incomplete secondary school (9.9%), and
+ 50.0% of them had completed university. Of all, 46.2% were protestant by religion. School caregivers in the
+ intervention group had a mean age of 36.6 (SD = 10.1) years, and those in the control group had a mean age
+ of 38.5 (SD = 9.9) years.
+ 
+<section> Caregivers in the intervention and control groups had children similar in gender and severity of the disability.
+ Approximately 60.0% of them had female children, and 43% considered their children’s disabilities moder-
+ ate. Caregivers in the intervention group had children with a mean age of 11.5 (SD = 3.8) years. Also, 16.8%
+ of the caregivers in the intervention group had children with intellectual disabilities compared to 9.4% in the
+ control group. 
+<insert> Variables
+ Home caregivers
+ Age (years), mean (SD)
+ Education level
+ Religion
+ Employment status
+ School caregivers
+ Age (years), mean (SD)
+ Education level
+ Religion
+ Description Control n (%) Intervention n (%) Total n (%)
+ Incomplete primary
+ Complete primary
+ Incomplete secondary
+ Complete secondary
+ Vocational education
+ Protestant
+ Catholic
+ Muslim
+ Pentecostal
+ Employed
+ Unemployed
+ 40.8 (11.4)
+ 37 (13.9)
+ 16 (6.0)
+ 19 (7.1)
+ 13 (4.9)
+ 31 (11.7)
+ 40 (15.0
+ 25 (9.4)
+ 24 (9.0)
+ 26 (9.8)
+ 78 (29.3)
+ 37 (13.9)
+ 42.3 (11.1)*
+ 47 (17.6)
+ 27 (10.2)
+ 34 (12.8)
+ 16 (6.0)
+ 28 (42.4)
+ 53 (19.9)
+ 40 (15.3)
+ 38 (14.3)
+ 19 (7.1)
+ 72 (27.1)*
+ 79 (29.7)
+ 78 (29.3)
+ 43 (16.6)
+ 53 (19.9)
+ 29 (10.9)
+ 59 (54.1)
+ 93 (34.1)
+ 65 (24.4)
+ 62 (23.3)
+ 45 (16.9)
+ 150 (56.4)
+ 116 (43.6)
+ Incomplete secondary
+ Complete secondary
+ Vocational school
+ Complete university
+ Protestant
+ Catholic
+ Muslim
+ Pentecostal
+ 38.5 (9.9)
+ 7 (5.3)
+ 3 (2.3)
+ 12 (9.1)
+ 29 (21.1)
+ 27 (20.5)
+ 14 (10.6)
+ 2 (1.5)
+ 8 (6.1)
+ 36.6 (10.1)†
+ 6 (4.6)
+ 4 (3.0)
+ 28 (21.2)
+ 37 (28.0)
+ 34 (25.8)
+ 25 (18.9)
+ 8 (6.1)
+ 8 (6.1)
+ 13 (9.9)
+ 7 (5.3)
+ 40 (30.3)
+ 66 (50.0)
+ 61 (46.2)
+ 39 (29.6)
+ 10 (7.6)
+ 16 (12.1)
+ 11.9 (3.5)
+ 84 (21.4)
+ 43 (10.9)
+ 30(7.6)
+ 40 (10.2)
+ 35 (8.9)
+ 96 (24.3)
+ 5 (1.3)
+ 69 (17.6)
+ 56 (14.3)
+ 36 (9.2)
+ 69 (17.6)
+ 97 (24.7)
+ 166 (42.3)
+ 11.5 (3.8)†
+ 156 (39.8)
+ 47 (12.0)
+ 32 (00.8)
+ 64 (16.3)†
+ 88 (22.4)
+ 69 (17.6)
+ 14 (3.6)
+ 99 (25.3)
+ 70 (17.9)
+ 43 (11.0)
+ 96 (24.5)
+ 130 (33.2)
+ 226 (57.7)
+ 240 (61.2)
+ 90 (22.9)
+ 62 (8.1)
+ 104 (26.5)
+ 123 (31.4)
+ 165 (42.1)
+ 19 (4.9)
+ 168 (42.9)
+ 126 (32.2)
+ 79 (20.2)
+ 165 (42.1)
+ 227 (57.9)
+ Children
+ Age (years), mean (SD)
+ Disability category
+ Disability severity
+ Children’s gender
+ 6-13 (Ref)
+ 14-15
+ 16-18
+ Intellectual
+ Physical
+ Sensory
+ Mild
+ Moderate
+ Severe
+ Very severe
+ Male children
+ Female children
+ Total n (%)
+ SD – standard deviation, Ref – reference group
+ *P < 0.05.
+ †P < 0.001.
+ Table 3. Baseline characteristics of caregivers by allocation and subgroup (n = 392) 
+<iend>
+
+ Cognitive behavioural therapy and mental well-being
+ 
+<section> Comparison of the difference in median scores of school caregivers’ outcomes by
+ 
+<section> allocation group and subgroup
+ 
+<section> Table 4 shows a comparison of the median differences in caregivers’ mental well-being at three time points.
+ There were no statistically significant differences in home caregivers’ mental well-being at baseline and three
+ months follow-up. However, at six months follow-up, home caregivers in the intervention group had higher
+ mental well-being than those in the control group.
+ 
+<section> There were no statistically significant differences in school caregivers’ mental well-being at baseline. At three
+ months follow-up, school caregivers in the intervention group had higher mental well-being than those in
+ the control group. At six months follow-up, no statistically significant differences in school caregivers’ mental
+ well-being were found.
+ 
+<section> Effect of the intervention on caregivers’ mental well-being
+ 
+<section> Table 5 shows the results of a generalized linear mixed-effect analysis of caregivers’ mental well-being by al-
+ location, time, and subgroup. Immediately after group-based CBT (three months follow-up), home caregivers 
+<insert> Table 5. Generalized linear mixed-effects analysis for the effect of the intervention on caregivers’ mental well-being (mental well-being score
+ range = 14-56)
+ Home caregivers
+ Mental well-being at baseline
+ Mental well-being at three months
+ Mental well-being at six months
+ School caregivers
+ Mental well-being at baseline
+ Mental well-being at three months
+ Mental well-being at six months
+ Control,
+ mean (SD)
+ Intervention,
+ mean (SD)
+ 46.0 (6.51)
+ 44.5 (6.14)
+ 45.2 (6.78)
+ 49.9(4.15)
+ 44.8 (5.09)
+ 46.6 (5.87)
+ Mixed-effects analysis Effect size
+ Model 1*, B†
+ (95% CI)
+ Model 2*, B†
+ (95% CI)
+ Model 3*, B†
+ (95% CI)
+ Cohen’s d
+ 45.7 (6.33)
+ 45.1 (5.77)
+ 47.5 (5.49)
+ -
+ 0.61 (-0.79 to 2.00)
+ 4.31 (1.18-6.82)§
+ -
+ 0.20 (0.12-0.29)
+ 4.34 (1.46-7.40)‡
+ -
+ 0.13 (0.05-0.2)
+ 4.40 (-2.49 to 5.28)
+ 0.13
+ 0.27
+ 50.3(4.11)
+ 45.4 (6.09)
+ 46.6 (5.72)
+ -
+ 3.98 (0.26-7.70)‡
+ 1.60 (-1.54 to 4.75)
+ -
+ 3.98 (0.26-7.74)‡
+ 1.60 (-1.54 to 4.75)
+ -
+ 2.78 (-1.52 to 5.09)
+ 2.29 (0.58-5.16)
+ 0.25
+ 0.10
+ SD – standard deviation, CI – confidence interval
+ *Model 1: Complete case analysis; fixed effects: age (caregiver and child), disability category, time, allocation, employment status; random effects: caregiver’s
+ identification number (ID). Model 2: Complete case analysis; fixed effects: age (caregiver and child), disability category, time, allocation, employment status;
+ random effects: caregiver’s ID, cluster (school ID). Model 3: Multiple imputation; fixed effects: age (caregiver and child), disability category, time, allocation,
+ employment status; random effects: caregiver’s ID and cluster (school ID).
+ †Unstandardized coefficient of the estimate.
+ ‡P < 0.05.
+ §P < 0.001. 
+<iend>
+
+ 
+<insert> Table 4. Between-group comparison of caregivers’ mental well-being over time (mental well-being score range = 14-56)
+ Outcomes
+ Home caregivers
+ Mental well-being at baseline
+ Mental well-being at three months
+ Mental well-being at six months
+ School caregivers
+ Mental well-being at baseline
+ Mental well-being at three months
+ Mental well-being at six months
+ Control
+ median (IQR)
+ Intervention
+ median (IQR)
+ Rank difference
+ (95% CI)
+ Test-statistic
+ (Wilcoxon)
+ 46.0 (9.0)
+ 45.0 (10.0)
+ 47.0 (9.0)
+ 46.0 (9.3)
+ 46.0 (7.0)
+ 48.0 (8.0)
+ 1. 8 (-1.0 to 2.0)
+ -0.1 (-2.0 to 0.1)
+ 2.0 (4.1-3.1)*
+ 6622
+ 5498
+ 6779
+ 51.0 (6.3)
+ 46.0 (5.0)
+ 47.0 (6.0)
+ 51.0 (6.0)
+ 47.0 (8.0)
+ 47.0 (6.0)
+ -1.2 (-1.1 to 1.0)
+ -0.1 (-2.1 to 1.0)*
+ 0.1 (-1.0 to 2.0)
+ 1281
+ 1419
+ 2064
+ IQR – interquartile rage, CI – confidence interval
+ *P < 0.05. 
+<iend>
+
+ in the intervention group had higher mental well-being scores than those in the control group, although it was
+ not statistically significant in models 1 and 3. Immediately after phone-based CBT (six months follow-up),
+ home caregivers in the intervention group had higher mental well-being than those in the control group, based
+ on models 1 and 2.
+ 
+<section> Following group-based CBT (three months follow-up), school caregivers in the intervention group had high-
+ er mental well-being than those in the control group, based on models 1 and 2. However, after phone-based
+ CBT (six months follow-up), there were no statistically significant differences in the school caregivers’ mental
+ well-being.
+ 
+<section> Factors associated with caregivers’ mental well-being
+ 
+<section> The study also performed exploratory analyses to determine the associations between caregivers’ baseline char-
+ acteristics and their mental well-being.
+ 
+<section> The factors associated with home caregivers’ mental well-being are presented in Table S2 in the 
+<section> Online Sup-
+ 
+<section> plementary Document. Home caregivers of children with sensory disabilities had higher mental well-being
+ than those of children with physical or intellectual disabilities. In addition, home caregivers of older children
+ had higher mental well-being than those of younger children.
+ 
+<section> The associations between school caregivers’ baseline characteristics and their mental well-being are present-
+ ed in Table S3 in the 
+<section> Online Supplementary Document. There were no statistically significant associations
+ among school caregivers’ characteristics and their mental well-being. Cognitive behavioural therapy and mental well-being
+ 
+<section> DISCUSSION
+ 
+<section> The study examined the effectiveness of multi-modal CBT in improving the mental well-being of caregivers of
+ children with disabilities in urban Uganda. School caregivers’ mental well-being was higher after group-based
+ CBT and home caregivers’ mental well-being was higher after phone-based CBT. Thus, the study confirms the
+ hypothesis that CBT has distinct benefits for home and school caregivers of children with disabilities, based
+ on its mode of delivery.
+ 
+<section> Group-based CBT effectively improved school caregivers’ mental well-being. However, there was no signif-
+ icant change in the caregivers’ mental well-being after phone-based CBT. Like this study, a previous study
+ reported that group-based CBT was effective for managing work-related stress among adults with depres-
+ sion [38]. The school caregivers in the current study may have been more receptive to group-based CBT
+ than phone-based CBT because they faced similar challenges and could quickly build a shared identity and
+ social cohesiveness [39]. In group-based CBT, social cohesiveness acts as a springboard that launches par-
+ ticipants toward improved mental well-being [27]. Therefore, the individualized nature of phone-based
+ CBT was not a good crucible for managing the work-related stress that school caregivers of children with
+ disabilities commonly face.
+ 
+<section> Home caregivers’ mental well-being was higher after phone-based CBT but not group-based CBT. This finding
+ contrasts with a previous study among caregivers of people with dementia and depression, where the effects
+ of group-based CBT gradually improved but not for phone-based CBT [40]. The contrast is likely because in
+ this study, phone-based CBT was led by peer mentors who were also caregivers of children with disabilities.
+ Given that caregivers of children with disabilities face varied challenges, the peer mentors in this study were
+ well-equipped to provide targeted psychosocial support, improving their mentees’ well-being [41]. It follows
+ that group-based CBT may not have been sensitive to the vast challenges associated with caring for children
+ with varied disabilities, as was the case for home caregivers in this study [27]. The influence of variation in
+ home caregivers’ challenges was reflected in the differences in their mental well-being, based on the type of
+ disability of their children.
+ 
+<section> Unlike previous studies, this study combined four CBT techniques of cognitive reframing, problem-solv-
+ ing, relaxation, and behavioural activation. Earlier studies focused on either one or a combination of the four
+ techniques [42,43]. This study shows that incorporating all four CBT techniques in an intervention improves
+ mental well-being of caregivers of children with disabilities at home and school. Thus, the study highlights
+ the possibility of expanding CBT’s current application beyond single techniques and delivery by trained thera-
+ pists. Moreover, the study’s approach increases the potential to reach more people needing mental health care
+ services, including caregivers of children with disabilities.
+ 
+<section> Strengths and limitations
+ 
+<section> The study’s findings have been interpreted considering the following biases. First, the study could not achieve
+ the targeted sample size of 960 participants. The low recruitment rate was caused by the prolonged closure
+ of schools and a total ban on internal travel in Uganda during the study period. Second, the study employed
+ self-reported measures. Respondents may have exaggerated or underreported their responses, affecting the
+ validity of estimates [44] However, the translated WEMWBS used in the study showed good internal validity.
+ Therefore, this study has availed tools that other researchers can use in Uganda. Third, the study was conduct-
+ ed for a short time. Given that the intervention and time interaction was positive and statistically significant
+ for home caregivers’ mental well-being, it is possible that the actual effect of the intervention is greater than
+ what was observed in this study [45] Future studies could conduct the intervention for a longer time span to
+ determine its effects over time. Fourth, the study included only caregivers of children in schools. These care-
+ givers may be different from those whose children are not enrolled in school and therefore experience differ-
+ ent effects of the intervention. Future studies can now explore the effects of multi-modal CBT among caregiv-
+ ers of children with disabilities in school and in the community. Lastly, the absence of blinding of participants
+ and therapists may have caused contamination between caregivers in the intervention group and those in the
+ control group [32]. Such contamination lowers a study’s ability to conclude on the effectiveness of a trial [46].
+ However, contamination reflects the reality of caregivers and indicates that the intervention is relevant and ac-
+ ceptable for them. 
+<section> CONCLUSIONS
+ 
+<section> Group-based CBT was effective in improving
+ CBT was effective in improving the mental well-being
+ interventions for school caregivers should employ
+ peer-to-peer networks to improve the caregivers’
+ and policymakers should apply the study’s approach
+ ginalized populations in low-income countries,
+ 
+<section> Acknowledgements: We are grateful to Dr Rogie Royce
+ Jimba, and Dr Florence Ene, professors at the University
+ 
+<section> Ethics statement: The study obtained ethics approval
+ Medicine, University of Tokyo (2020322N1-1), Institutional
+ ence (MAKSHSREC-2020-29), and the Uganda National
+ 
+<section> Data availability: All the individual-participant data
+ able on Open Science Framework via (https://osf.io/gk6a9/?view_only=e0947cddeb344b3e8050dee0237e4650).
+ will be available for five years following the publication
+ been reviewed by an independent review committee
+ proposals. Proposals should be directed to the corresponding
+ to gain access to the data.
+ 
+<section> Funding: None.
+ 
+<section> Authorship contributions: AAB was an academic supervisor
+ uscript draft and conducted data collection and analysis.
+ data collection, and analysis. All the authors have read
+ 
+<section> Disclosure of interest: The authors completed the
+ corresponding author) and disclose no relevant interests.
+ 
+<section> Additional material
+ Online Supplementary Document
+ 
+<section> 1  Narayan-Parker D, Patel R. Voices of the poor: Can anyone
+ torymethods.org/sites/participatorymethods.org/files/can%20anyone%20hear%20us_Narayan.pdf.
+ 
+<section> REFERENCES
+ 
+<section> 2  Vadivelan K, Sekar P, Sruthi SS, Gopichandran V. Burden
+ sis of gender, poverty, stigma, and public policy. BMC
+ 
+<section> 020-08808-0
+ 
+<section> 3  Adugna MB, Nabbouh F, Shehata S, Ghahari S. Barriers,
+ and middle income sub-Saharan African countries: a scoping
+ doi:10.1186/s12913-019-4822-6
+ 
+<section> 4  Mitra S, Posarac A, Vick BC. Disability and poverty in
+ cial Protection Discussion Paper, 1109. World Bank Group.
+ 
+<section> 24 August 2022.
+ 
+<section> 5  Chibanda D, Abas M, Musesengwa R, Merritt C, Sorsdahl
+ sub-Saharan Africa: The African mental health research
+ doi:10.1017/gmh.2019.32
+ 
+<section> 6  Abbo C, Ekblad S, Waako P, Okello E, Musisi S. The prevalence
+ in two districts in Uganda. Afr Health Sci. 2009;9 Suppl
+ 
+<section> 7  Mbazzi FB, Nalugya R, Kawesa E, Nimusiima C, King
+ with disabilities and their families in Uganda. Scand J Disabil
+ 
+<section> 8  Lang R, Murangira MA. Disability Scoping Study. Department
+ able: https://afri-can.org/wp-content/uploads/2016/04/DISABILITY-STUDY-DFID_UG.-REPORT-2009.pdf.
+ 2022.
+ 
+<section> 9  Rohwerder B. Disability stigma in developing countries:
+ velopment Studies; 2018. Available: https://www.ids.ac.uk/publications/disability-stigma-in-developing-countries.
+ 
+<section> 4 November 2022.
+ 
+<section> 10  Scior K. Public awareness, attitudes, and beliefs regarding
+ 2011;32:2164-82. Medline:21798712 doi:10.1016/j.ridd.2011.07.005
+ 
+<section> 11  Ojok P, Wormnæs S. Inclusion of pupils with intellectual
+ rural area in Uganda. Int J Incl Educ. 2013;17:1003-21.
+ the mental well-being of school caregivers, and phone-based
+ of home caregivers of children with disabilities. CBT
+ group settings and those for home caregivers should utilize
+ mental well-being. Mental health practitioners, researchers,
+ to enhance access to mental health care services for mar-
+ including caregivers of children with disabilities in Uganda.
+ Carandang, Dr Junko Kiriya, Dr Akira Shibanuma, Dr Masamine
+ of Tokyo, for their assistance in developing the study’s strategies.
+ from the Research Ethics Committee of the Graduate School of
+ Review Board of Makerere University School of Health Sci-
+ Council of Science and Technology (HS1027ES).
+ collected during the study has been de-identified and made avail-
+ 
+<section> The data
+ of this article. All researchers whose proposed use of the data has
+ will be able to access the data to achieve the aims in their approved
+ author. Data requesters must sign a data access agreement
+ of the first author of the study. MN wrote the original man-
+ AAB and SN reviewed the research methods, including sampling,
+ and affirmed the final manuscript.
+ ICMJE Disclosure of Interest Form (available upon request from the
+ hear us? World Bank Group. 2000. Available: https://www.participa-
+ 
+<section> Accessed: 24 August 2022.
+ of caregivers of children with cerebral palsy: an intersectional analy-
+ Public Health. 2020;20:645. Medline:32384875 doi:10.1186/s12889-
+ and facilitators to healthcare access for children with disabilities in low
+ review. BMC Health Serv Res. 2020;20:15. Medline:31906927
+ developing countries: a snapshot from the World Health Survey. So-
+ 2011. Available: http://hdl.handle.net/10986/27369. Accessed:
+ 
+<section> K, Mangezi W, et al. Mental health research capacity building in
+ initiative. Glob Ment Health (Camb). 2020;7:e8. Medline:32346483
+ and severity of mental illnesses handled by traditional healers
+ 1:S16-22. Medline:20589155
+ R, van Hove G, et al. The impact of COVID-19 measures on children
+ Res. 2022;37: 1173-96. doi:10.1080/09687599.2020.1867075
+ for International Development, Uganda. Kampala, 2009. Avail-
+ 
+<section> Accessed: 26 July
+ 
+<section> k4D help desk report. Brighton, United Kingdom: Institute of De-
+ 
+<section> Accessed:
+ 
+<section> intellectual disability: a systematic review. Res Dev Disabil.
+ disabilities: primary school teachers’ attitudes and willingness in a
+ doi:10.1080/13603116.2012.728251 
+<section> 12  Miles S, Singal N. The education for all and inclusive
+ 2010;14:1-15. doi:10.1080/13603110802265125
+ 
+<section> REFERENCES 13 Ministry  of Gender, Labour, and Social Development.
+ Ministry of Gender Labour, and Social Development:
+ FINAL_National_Integrated_ECD_ACTION_PLAN_Approved.pdf.
+ 
+<section> 14  MacFarlane K, Woolfson LM. Teacher attitudes and
+ havioral difficulties in mainstream schools: An application
+ 52. doi:10.1016/j.tate.2012.08.006
+ 
+<section> 15  Metsala JL, Harkins MJ. An examination of preservice
+ Spec Educ. 2020;43:178-92. doi:10.1177/0888406419873060
+ 
+<section> 16 Nketsia  W, Saloviita T. Pre-service teachers’ views on
+ 
+<section> 080/02607476.2013.797291
+ 
+<section> 17  Paget A, Mallewa M, Chinguo D, Mahebere-Chirambo
+ on the rehabilitation of children with neuro-disability
+ 
+<section> 0.3109/09638288.2015.1035458
+ 
+<section> 18  World Health Organisation. Guidelines approved by
+ Achu K, Al Jubah K, Brodtkorb S, Chervin P, et al., editors.
+ Health Organization; 2010.
+ 
+<section> 19  Hartley S, Ojwang P, Baguwemu A, Ddamulira M, Chavuta
+ tive. Child Care Health Dev. 2005;31:167-80. Medline:15715696
+ 
+<section> 20  Katahoire AR, Banura C, Muhwezi WW, Bastien S, Wubs
+ cy and quality of adolescent-parent/caregiver sexuality
+ AIDS Behav. 2019;23:91-104. Medline:30117077 doi:10.1007/s10461-018-2249-4
+ 
+<section> 21  Lambert MJ. Bergin and Garfield’s handbook of psychotherapy
+ 
+<section> 22  Ellis A. Group rational-emotive and cognitive-behavioral
+ doi:10.1080/00207284.1992.11732580
+ 
+<section> 23  Butler AC, Chapman JE, Forman EM, Beck AT. The
+ ses. Clin Psychol Rev. 2006;26:17-31. Medline:16199119
+ 
+<section> 24  Cuijpers P, Berking M, Andersson G, Quigley L, Kleiboer
+ for adult depression, alone and in comparison, with
+ doi:10.1177/070674371305800702
+ 
+<section> 25  Hofmann SG, Asnaani A, Vonk IJJ, Sawyer AT, Fang
+ Cognit Ther Res. 2012;36:427-40. Medline:23459093
+ 
+<section> 26  Kwon OY, Ahn HS, Kim HJ, Park KW. Effectiveness
+ a systematic review and meta-analysis. J Clin Neurol.
+ 
+<section> 27  Dimidjian S, Arch JJ, Schneider RL, Desormeau P, Felder
+ systematic review and critical examination of “third
+ Medline:27993339 doi:10.1016/j.beth.2016.07.002
+ 
+<section> 28  Brocklehurst P, Hoare Z. How to design a randomised
+ doi:10.1038/sj.bdj.2017.411
+ 
+<section> 29  Hemming K, Eldridge S, Forbes G, Weijer C, Taljaard
+ Medline:28710062 doi:10.1136/bmj.j3064
+ 
+<section> 30  Mathews C, Eggers SM, Townsend L, Aarø LE, de Vries
+ school-based HIV, and intimate partner violence (IPV)
+ ter randomised controlled trial. AIDS Behav. 2016;20:1821-40.
+ 
+<section> 31  Ferrante di Ruffano L, Deeks J. Barriers to blinding:
+ 2015;16:O30. doi:10.1186/1745-6215-16-S2-O30
+ 
+<section> 32  Curwen B, Palmer S, Ruddell P. Brief cognitive behavior
+ 
+<section> 33  Cully JATA. Therapists’ guide to brief cognitive behavioral
+ 
+<section> 34  Tennant R, Hiller L, Fishwick R, Platt S, Joseph S, Weich
+ development and UK validation. Health Qual Life Outcomes.
+ 
+<section> 35 E  veritt BS. The Analysis of Repeated Measures: A Practical
+ doi:10.2307/2348622
+ 
+<section> 36 T  ooze JA, Grunwald GK, Jones RH. Analysis of repeated
+ 2002;11:341-55. Medline:12197301 doi:10.1191/0962280202sm291ra
+ 
+<section> 37  Team RC. R: A language and environment for statistical
+ 
+<section> 38  Khatri N, Marziali E, Tchernikov I, Shepherd N. Comparing
+ apy for adults with depression and anxiety: a pilot study.
+ 
+<section> CIA.S57832
+ 
+<section> 39  Whitfield G. Group cognitive–behavioural therapy
+ doi:10.1192/apt.bp.108.005744
+ 
+<section> 40  Glueckauf RL, Davis WS, Willis F, Sharma D, Gustafson
+ African American dementia caregivers with depression:
+ doi:10.1037/a0028688
+ 
+<section> Cognitive behavioural therapy and mental well-being
+ 
+<section> education debate: conflict, contradiction, or opportunity? Int J Incl Educ.
+ National Integrated Early Child Development Action Plan. 2016-2021.
+ Kampala, 2016. Available: https://www.health.go.ug/sites/default/files/
+ 
+<section> Accessed: 26 July 2022.
+ behavior toward the inclusion of children with social, emotional, and be-
+ of the theory of planned behavior. Teach Teach Educ. 2013;29:46-
+ teachers’ self-efficacy and beliefs about inclusive education. Teach Educ
+ inclusive education in Ghana. J Educ Teach. 2013;39:429-41. doi:10.1
+ 
+<section> C, Gladstone M. “It means you are grounded” – caregivers’ perspectives
+ in Malawi. Disabil Rehabil. 2016;38:223-34. Medline:25879468 doi:1
+ the Guidelines Review Committee. In: Khasnabis C, Heinicke Motsch K,
+ Community-Based Rehabilitation: CBR Guidelines. Geneva: World
+ A. How do carers of disabled children cope? The Ugandan perspec-
+ doi:10.1111/j.1365-2214.2004.00464.x
+ A, Klepp K-I, et al. Effects of a school-based intervention on frequen-
+ communication: results from a randomized controlled trial in Uganda.
+ 
+<section> and behavior change. New Jersey: Wiley; 2013.
+ therapy. Int J Group Psychother. 1992;42:63-80. Medline:1563904
+ empirical status of cognitive-behavioral therapy: a review of meta-analy-
+ doi:10.1016/j.cpr.2005.07.003
+ A, Dobson KS. A Meta-analysis of cognitive-behavioural therapy
+ other treatments. Can J Psychiatry. 2013;58:376-85. Medline:23870719
+ A. The efficacy of cognitive behavioral therapy: a review of meta-analyses.
+ doi:10.1007/s10608-012-9476-1
+ of cognitive behavioral therapy for caregivers of people with dementia:
+ 2017;13:394-404. Medline:29057632 doi:10.3988/jcn.2017.13.4.394
+ JN, Segal ZV. Considering meta-analysis, meaning, and metaphor: a
+ wave” cognitive and behavioral therapies. Behav Ther. 2016;47:886-905.
+ controlled trial. Br Dent J. 2017;222:721-6. Medline:28496211
+ M. How to design efficient cluster randomised trials. BMJ. 2017;358:j3064.
+ 
+<section> PJ, Mason-Jones AJ, et al. Effects of PREPARE, a multi-component,
+ prevention program on adolescent sexual risk behaviour and IPV: a clus-
+ Medline:27142057 doi:10.1007/s10461-016-1410-1
+ an analysis of the feasibility of blinding in test-treatment RCTs. Trials.
+ therapy. 2nd Edition. Washington DC: Sage; 2018.
+ therapy. Department of Veterans Affairs South Central MIRECC; 2008.
+ S, et al. The Warwick-Edinburgh Mental Well-being Scale (WEMWBS):
+ 2007;5:63. Medline:18042300 doi:10.1186/1477-7525-5-63
+ Review with Examples. J Royal Stat Soc Series. 1995;44:113-35.
+ measures data with clumping at zero. Stat Methods Med Res.
+ 
+<section> computing. 2013.
+ telehealth-based and clinic-based group cognitive behavioral ther-
+ Clin Interv Aging. 2014;9:765-70. Medline:24855345 doi:10.2147/
+ for anxiety and depression. Adv Psychiatr Treat. 2010;16:219-27.
+ 
+<section> DJ, Hayes J, et al. Telephone-based, cognitive-behavioral therapy for
+ initial findings. Rehabil Psychol. 2012;57:124. Medline:22686551 
+<section> 41 N  amazzi G, Hanson C, Nalwadda C, Tetui M, Nampijja
+ ity: experiences from caretakers and health workers in rural
+ 
+<section> REFERENCES
+ 
+<section> doi:10.1371/journal.pone.0236488
+ 
+<section> 42 W  ebb CA, Beard C, Kertz SJ, Hsu KJ, Björgvinsson
+ bility in predicting depressive versus anxiety symptom
+ doi:10.1016/j.brat.2016.03.006
+ 
+<section> 43 W  ebb CA, Stanton CH, Bondy E, Singleton P, Pizzagalli
+ pressed adolescents: disaggregating within-patient versus
+ 2019;87:484-90. Medline:30998049 doi:10.1037/ccp0000393
+ 
+<section> 44 P  rince SA, Adamo KB, Hamel ME, Hardt J, Connor Gorber
+ sures for assessing physical activity in adults: a systematic
+ doi:10.1186/1479-5868-5-56
+ 
+<section> 45 R  iegelman R, Verme D, Rochon J, El-Mohandes A. Interaction,
+ impact of multiple interventions. Ann Epidemiol. 2002;12:151-6.
+ 
+<section> 46 D  ron L, Taljaard M, Cheung YB, Grais R, Ford N, Thorlund
+ global health. Lancet Glob Health. 2021;9:e701-10. Medline:33865475
+ 
+<section> M, Waiswa P, et al. Caring for children with neurodevelopmental disabil-
+ eastern Uganda. PLoS One. 2020;15:e0236488. Medline:32716925
+ T. Differential role of CBT skills, DBT skills and psychological flexi-
+ improvement. Behav Res Ther. 2016;81:12-20. Medline:27057997
+ 
+<section> DA, Auerbach RP. Cognitive versus behavioral skills in CBT for de-
+ between-patient effects on symptom change. J Consult Clin Psychol.
+ 
+<section> S, Tremblay M. A comparison of direct versus self-report mea-
+ review. Int J Behav Nutr Phys Act. 2008;5:56. Medline:18990237
+ and intervention modeling: predicting and extrapolating the
+ Medline:11897172 doi:10.1016/S1047-2797(01)00306-4
+ K, et al. The role and challenges of cluster randomised trials for
+ doi:10.1016/S2214-109X(20)30541-6

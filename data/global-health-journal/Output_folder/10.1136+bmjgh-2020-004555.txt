@@ -1,0 +1,1273 @@
+
+<section> To cite: Harvey S, Abramsky T,
+ 
+<section> Mshana G, et al. A cluster
+ randomised controlled trial to
+ evaluate the impact of a gender
+ transformative intervention
+ on intimate partner violence
+ against women in newly formed
+ neighbourhood groups in
+ Tanzania. BMJ Global Health
+ 2021;6:e004555. doi:10.1136/
+ 
+<section> bmjgh-2020-004555
+ 
+<section> Handling editor Seye Abimbola
+ 
+<section> ► 
+<section> Additional online
+ supplemental material is
+ published online only. To view,
+ please visit the journal online
+ (http://​dx.​doi.​org/​10.​1136/​
+ bmjgh-​2020-​004555).
+ 
+<section> Received 25 November 2020
+ Accepted 16 March 2021
+ 
+<section> © Author(s) (or their
+ employer(s)) 2021. Re-­use
+ permitted under CC BY-­NC. No
+ commercial re-­use. See rights
+ and permissions. Published by
+ BMJ.
+ For numbered affiliations see
+ end of article.
+ 
+<section> Correspondence to
+ 
+<section> Dr Sheila Harvey;
+ ​sheila.​harvey@ l shtm.​ac. u k
+ 
+<section> A cluster randomised
+ 
+<section> evaluate the impact of
+ 
+<section> transformative intervention
+ 
+<section> partner violence against
+ 
+<section> newly formed neighbourhood
+ 
+<section> in Tanzania
+ 
+<section> Sheila Harvey, 1,2 Tanya Abramsky , 1 Gerry
+ Grace J Mtolela, 2 Flora Madaha, 2 Ramadhan
+ Charlotte Watts, 1 Shelley Lees , 1 Saidi Kapiga
+ 
+<section> ABSTRACT
+ 
+<section> Introduction Violence against women is a global
+ public health concern; around a quarter of women will
+ experience intimate partner physical or sexual violence
+ during their lifetime. We assessed the impact of a gender
+ transformative intervention for women designed to prevent
+ intimate partner violence (IPV).
+ 
+<section> Methods We conducted a cluster randomised controlled
+ trial in Mwanza city, Tanzania, among women in newly
+ formed neighbourhood groups to evaluate a 10-­session
+ participatory intervention that aims to empower women,
+ prevent IPV and promote healthy relationships. Following
+ a baseline interview, groups were randomly assigned (1:1
+ ratio) to the intervention or control arm. An intention-­to-­
+ treat analysis was conducted to assess the impact of the
+ intervention on the main outcomes, assessed 24 months
+ postintervention. These included past-­year physical IPV
+ and sexual IPV (primary); past-­year emotional abuse; and
+ acceptability and tolerance of IPV.
+ 
+<section> Results Between September 2015 and February 2017,
+ 1265 women were recruited in 66 neighbourhoods and
+ randomly allocated to intervention (n=627 women in
+ 33 neighbourhoods) or control (n=638 women in
+ neighbourhoods). Assessment of outcomes was completed
+ for 551 (88%) intervention and 575 (90%) control women.
+ Among intervention women, 113 (21%) reported physical
+ IPV compared with 117 (20%) control women (adjusted OR
+ (aOR) 0.98, 95% CI 0.72 to 1.33, p=0.892), and 109 (20%)
+ intervention women reported sexual IPV compared with
+ 121 (21%) control women (aOR 0.98, 95% CI 0.72 to 1.32,
+ p=0.881). Intervention women reported less emotional
+ abuse (aOR 0.74, 95% CI 0.56 to 0.98, p=0.035), and were
+ less likely to express attitudes accepting of IPV (aOR 0.49,
+ 95% CI 0.36 to 0.66, p<0.001), and beliefs that IPV is a
+ private matter (aOR 0.54, 95% CI 0.38 to 0.78, p=0.001),
+ or should be tolerated (aOR 0.48, 95% CI 0.34 to 0.66, impacting
+ p<0.001). 
+<section> sufficient
+ 
+<section> Conclusion These results indicate that the intervention Trial
+ was effective in reducing emotional abuse and positively
+ 
+<section> controlled trial to
+ 
+<section> a gender
+ 
+<section> on intimate
+ 
+<section> women in
+ 
+<section> groups
+ 
+<section> Mshana, 3 Christian Holm Hansen,
+ Hashim, 2 Imma Kapinga,
+ 
+<section> 2,3
+ 
+<section> Key questions
+ 
+<section> What is known already?
+ 
+<section> ► Global estimates based on prevalence data from
+ 2000 to 2018 indicate that around a quarter of
+ women who have ever been in a relationship have
+ experienced physical and/or sexual violence from a
+ current or former intimate partner.
+ 
+<section> ► There is a growing body of evidence from ran-
+ domised controlled trials that interventions for
+ women that combine social empowerment or gen-
+ der transformative interventions with economic
+ strengthening are effective in preventing intimate
+ partner violence.
+ 
+<section> ► A previous trial of the MAISHA gender transforma-
+ tive intervention, delivered to women in established
+ microfinance groups, showed a positive impact on
+ women’s past-­year experience of physical intimate
+ partner violence and on their attitudes and beliefs
+ about intimate partner violence.
+ 
+<section> What are the new findings?
+ 
+<section> ► In this second trial of the MAISHA intervention, wom-
+ en living in the same neighbourhood were formed
+ into groups to receive the intervention. There was
+ a positive impact on women’s attitudes and beliefs
+ about violence, and on their past-­year experience of
+ emotional abuse from an intimate partner.
+ 
+<section> ► Though there were anecdotal reports from interven-
+ tion arm women of improvements in their relation-
+ ships, the intervention did not lead to measurable
+ reductions in their past-­year experiences of physical
+ or sexual intimate partner violence.
+ 
+<section> attitudes and beliefs condoning IPV, but was not
+ to reduce physical or sexual IPV.
+ 
+<section> registration number NCT02592252. 
+<section> Key questions
+ 
+<section> What do the new findings imply?
+ 
+<section> ► This trial, combined with the first MAISHA trial, provides evidence
+ that while a gender transformative intervention alone may not be
+ sufficient to reduce physical or sexual intimate partner violence,
+ the same intervention in the context of economic strengthening of
+ women is effective in reducing physical violence.
+ 
+<section> ► These findings add to mounting evidence that combining gender
+ transformative interventions with economic strengthening pro-
+ grammes has a positive impact on intimate partner violence.
+ 
+<section> INTRODUCTION
+ Violence against women has been described by WHO as a
+ ‘global public health problem of epidemic proportions’.
+ The most common form of violence against women is
+ intimate partner violence (IPV) with the most recent
+ estimates from population surveys indicating that, world-
+ wide, around a quarter of women have experienced phys-
+ ical and/or sexual violence from an intimate partner in
+ their lifetime. 2 The negative impacts of IPV on physical
+ and mental health are considerable for women and their
+ families. 
+<section> 1 3–5
+ There is a growing body of rigorous evidence demon-
+ strating that IPV is preventable. 6 7 Much of this research
+ has been conducted in sub-­ Saharan Africa, 8 which is
+ among the world regions with the highest rates of IPV.
+ One of the first randomised controlled trials (RCTs)
+ was the Intervention with Microfinance for AIDS and
+ Gender Equity (IMAGE) trial, implemented in rural
+ South Africa. 10 The intervention combined group-­based
+ microfinance with a participatory gender and HIV
+ training programme. In a cluster RCT IMAGE was shown
+ to reduce women’s past year experience of physical and/
+ or sexual IPV by 55% over a 2-­year period. In addition,
+ levels of household poverty were significantly reduced,
+ and participants were more empowered as evidenced by
+ greater self-­confidence, autonomy in decision making,
+ and increased ability to challenge gender norms when
+ compared with women in the control population.
+ Population surveys have revealed high levels of IPV
+ against women in Tanzania, with almost 30% of ever-­
+ partnered women having experienced physical and/
+ or sexual IPV in the year prior to the survey. 11 Recent
+ estimates from WHO indicate that violence remains high
+ in Tanzania: 38% (95% uncertainty interval: 28%–50%)
+ of ever-­married or partnered women aged 15–49 years
+ have experienced physical and/or sexual IPV in their
+ lifetime, and 24% (95% uncertainty interval: 16%–35%)
+ have experienced it in the past 12 months. 2 Effective
+ prevention interventions are urgently needed to address
+ this public health crisis. Because the IMAGE model was
+ a combined microfinance-­ training intervention, it was
+ difficult to know the extent to which the observed effect
+ on IPV was attributable to the different components of
+ the intervention. Inspired by the IMAGE study, we aimed
+ to better understand the relative and combined effects
+ of economic and social empowerment interventions in
+ Tanzania on women’s experience of IPV. We previously
+ reported the results of a trial investigating the effect of
+ the MAISHA social empowerment group-­based interven-
+ tion on experiences of IPV among women taking part in
+ a microfinance loan scheme. We found that the interven-
+ tion was associated with a reduction in reported physical
+ or sexual IPV, although the effect was greater for physical
+ IPV. 12 In this second separate trial, we assessed the effect
+ of the same intervention on experiences of IPV among
+ women living in the same neighbourhood who were not
+ engaged in a formal microfinance loan scheme.
+ 
+<section> METHODS
+ 
+<section> Trial design
+ 
+<section> We conducted a cluster RCT in Mwanza city, north-­
+ western Tanzania in close collaboration with local commu-
+ nity leaders. The background, design and methods are
+ described in detail elsewhere. 13 The trial team worked
+ with community leaders to identify suitable neighbour-
+ hoods across the city in which to form groups of women
+ who would be eligible to participate in the trial. Once a
+ potential neighbourhood had been identified, MAISHA
+ team members worked with local leaders to identify and
+ visit households in the neighbourhood in order to invite
+ potentially eligible women to attend information meet-
+ ings. Women who were interested in taking part were
+ invited to attend subsequent meetings to obtain detailed
+ information about the trial, including the overall aim
+ and objectives, eligibility criteria and trial procedures.
+ Women were eligible for inclusion if they were aged
+ 20–50 years, resident in Mwanza for 2 years or more, not
+ a member of formal microfinance loan group scheme
+ in the past 12 months, and were fluent in Swahili. We
+ excluded women who were formally employed so the
+ population would be more comparable with the previous
+ MAISHA CRT01 trial population, 12 and be available to
+ attend intervention sessions. Research staff met with
+ potentially eligible women to go through the participant
+ information sheet explaining the purpose of the trial and
+ the procedures. Women who demonstrated comprehen-
+ sion of the trial procedures and agreed to take part were
+ invited to sign the consent form (online supplemental
+ material 1). Within each neighbourhood, we aimed to
+ recruit around 15–20 women.
+ 
+<section> Safety
+ 
+<section> The trial was designed following WHO recommenda-
+ tions on researching violence against women. 14 To ensure
+ women’s safety, trained staff interviewed participants
+ in private, and maintained regular contact with them
+ throughout the trial. A referral system was established
+ to assist women who reported experiencing violence to
+ access appropriate services and support. Information
+ about local support services was provided to all partici-
+ pants irrespective of whether they reported experiencing
+ violence. 
+<section> Randomisation and masking
+ Over 18 months, women in 66 neighbourhoods were
+ recruited and the neighbourhood clusters then
+ randomised in blocks of six as they were enrolled into
+ the trial. For each block of six neighbourhood clusters,
+ community randomisation ceremonies were conducted
+ as a two-­stage process that was both participatory and
+ transparent involving the research team and represent-
+ atives nominated by members from each of the neigh-
+ bourhood clusters to be randomised. First, representa-
+ tives from each of the six clusters were randomly divided
+ equally into two sets (A and B). This was done by each
+ representative drawing a folded sheet of paper (with A or
+ B written on it) from a box. Second, one of the represent-
+ atives from either A or B was asked to call (heads or tails)
+ for her set to be allocated to immediate intervention. A
+ trial team member then tossed a coin to randomly allo-
+ cate each set of three clusters to either the intervention
+ or to control (to receive the intervention after the trial).
+ It was not possible to mask participants or the research
+ team involved in day-­to-­day operations and delivery of
+ the intervention.
+ 
+<section> Procedures
+ 
+<section> The trial timeline is outlined in figure 1. Prior to rando-
+ misation, we conducted a face-­to-­face interview with each
+ participant using a structured questionnaire adapted
+ from the WHO Violence Against Women instrument,
+ which has also been widely used in Demographic and
+ Health Surveys and other IPV prevention interven-
+ tion trials. 10 15 16 The questionnaire was translated into
+ Swahili (the national language) and independently back-­
+ translated into English for validation. Interviews were
+ conducted in private by female interviewers trained in
+ interviewing techniques, gender issues, violence and
+ ethical issues related to research on IPV.
+ Women in neighbourhoods allocated to the inter-
+ vention arm participated as a group in the 10-­session
+ MAISHA intervention following the Wanawake na Maisha
+ (which means ‘women and life’ in Swahili) curriculum,
+ which was developed by EngenderHealth (an inter-
+ national non-­ profit organisation focussing on gender
+ equity and reproductive health—www.​ engenderhealth.​
+ org) in collaboration with the research team, drawing
+ on other published curricula, including Sisters for Life
+ from IMAGE. The MAISHA intervention was designed to
+ be participatory and reflective, and aimed to empower
+ women, prevent IPV, and promote healthy relationships
+ by: increasing knowledge and awareness (eg, of the
+ consequences of normative attitudes to gender and IPV);
+ developing relationship skills (eg, communication and
+ conflict resolution); and improving group dynamics and
+ stability (eg, increased peer support and social capital).
+ The 10-­ session MAISHA intervention (outlined in
+ figure 2) was delivered to the 33 intervention arm groups
+ on alternate weeks over a 20-­week period. Each session
+ lasted between 1.5 and 2 hours. Venues were selected
+ to be convenient to participants, with sessions generally
+ taking place at the group leader’s house or in a quiet area
+ of a local café or guesthouse. Sessions were delivered by
+ trained female facilitators, following the Wanawake Na
+ Maisha curriculum which provides detailed guidance for
+ each session. Facilitators were recruited and trained by the
+ research team and EngenderHealth, allowing them time
+ to become very familiar with the curriculum materials
+ and to practise and develop effective facilitation skills.
+ Refresher training was provided by EngenderHealth
+ during the trial. Intervention delivery was monitored by
+ the trial coordinator and senior research team members.
+ Curriculum facilitators maintained session attendance
+ registers to monitor attendance and ensure that sessions
+ were attended by intervention arm women only, thereby
+ minimising the potential for contamination.
+ The curriculum facilitators had no contact with women
+ in neighbourhoods allocated to the control arm. However,
+ to minimise the risk of attrition bias, the research team
+ maintained regular contact with both intervention and
+ control arm women during the 2-­year period between
+ the end of the intervention and assessment of outcomes.
+ The impact of the intervention was assessed through
+ interviews conducted 29 months postrandomisation
+ with both trial arms (24 months after groups completed
+ intervention activities). Interviews were conducted face-­
+ to-­ face using the same structured questionnaire as at
+ baseline, and following the same procedures. Wanawake
+ Na Maisha curriculum facilitators were not involved in
+ collection of baseline data or trial outcome assessments.
+ 
+<section> Outcomes
+ 
+<section> The primary outcomes were women’s reports of past
+ year physical IPV and past-­year sexual IPV. The original
+ primary outcome was a composite of past year physical
+ and sexual IPV. However, this was revised in light of the
+ results of MAISHA CRT01 12 and evidence from other
+ violence prevention trials 15 16 indicating limited impact
+ on sexual IPV, a pattern that was hypothesised from the
+ outset of the SASA! trial. 17 It was decided, therefore, that
+ reported past year experience of physical IPV and sexual
+ IPV should be evaluated as separate primary outcomes
+ at 29 months postrandomisation (24 months postint-
+ ervention). A favourable opinion for this amendment
+ was received from the ethics committee before the end
+ of follow-­ up and prior to analysis of data. Secondary
+ outcomes were emotional abuse, three measures of IPV
+ related attitudes and beliefs, and past year disclosure of
+ IPV among women who reported past year experience of
+ physical/sexual IPV. Details of questionnaire items used
+ to construct the outcomes are presented in Table 1.
+ 
+<section> Sample size
+ 
+<section> It was calculated that a sample size of 33 neighbourhood
+ clusters per trial arm with an average of 20 participants
+ per cluster (allowing for 10% loss to follow-­up) would
+ provide 80% power to detect a reduction of 33% in past
+ year IPV, and 90% power to detect a reduction of 38%,
+ assuming an intracluster correlation (ICC) of 0.035. Even timeline. Trial 1 Figure 
+<section> curriculum.
+ Maisha
+ Na
+ intervention—Wanawake
+ 
+<section> MAISHA
+ 
+<section> 2
+ Figure 
+<insert> Outcome Questions
+ Physical IPV (primary)
+ (yes/no)
+ Reported that her current or any other partner has done at least one of the following things
+ to her in the past 12 months:
+ ► ► Slapped her or thrown something at her that could hurt her.
+ ► ► Pushed her or shoved her or pulled her hair.
+ ► ► Hit her with his fist or something else that could hurt her.
+ ► ► Kicked her, dragged her or beat her up.
+ ► ► Choked or burnt her on purpose.
+ ► ► Threatened to use or actually used a gun, knife or other weapon against her.
+ Sexual IPV (primary)
+ (yes/no)
+ Reported that at least one of the following things has happened to her in the past
+ months:
+ ► ► Current or any other partner forced her to have sexual intercourse by threatening her,
+ holding her down or hurting her in some way.
+ ► ► She had sexual intercourse when she did not want to because she was afraid that her
+ partner would hurt her or someone she cared about if she refused.
+ ► ► She had sexual intercourse when she did not want to because she was afraid that her
+ partner would leave her or take another girlfriend if she refused.
+ Emotional abuse*
+ (yes/no)
+ Reported that her current or any other partner has done at least one of the following things
+ to her in the past 12 months:
+ ► ► Insulted her or made her feel bad about herself
+ ► ► Belittled or humiliated her in front of other people.
+ ► ► Done things to scare or humiliate her on purpose (eg, by the way he looked at her, by
+ yelling and smashing things).
+ ► ► Verbally threatened to hurt her or someone she cares about.
+ Disclosure of IPV (among women Reported that she has told someone within the past 12 months about her partner’s
+ who physical and/or sexual IPV behaviour (violence/abuse) towards her.
+ in the past 12 months)
+ (yes/no)
+ Attitudes accepting of IPV
+ (yes/no)
+ Reported that she ‘strongly agrees’ or ‘agrees’ that a man has good reason to hit his wife in
+ at least one of the following scenarios:
+ ► ► She does not complete her household work to his satisfaction.
+ ► ► She disobeys him.
+ ► ► She refuses to have sexual intercourse with him.
+ ► ► She protests because he has other girlfriends.
+ ► ► He suspects that she is unfaithful in marriage.
+ ► ► He finds out that she has been unfaithful in marriage.
+ Believes a woman should Reported that she ‘strongly agrees’ or ‘agrees’ with the statement:
+ tolerate violence in order to keep ‘A woman should tolerate violence in order to keep her family together’
+ her family together
+ Believes IPV is a private matter Reported that she ‘strongly agrees’ or ‘agrees’ with the statement:
+ ‘Violence between husband and wife is a private matter and others should not intervene.’
+ *High intensity emotional abuse defined as having experienced at least one of the items many times in the past 12 months.
+ IPV, intimate partner violence.
+ Table 1 Questions used to construct primary and secondary outcomes assessed at 29 months postrandomisation (24
+ months postintervention) 
+<iend>
+
+ with an ICC of 0.05, the trial would have 80% power to
+ detect a reduction in past year physical IPV of 35%.
+ 
+<section> Data management and statistical analyses
+ All data collected at baseline and at follow-­ up were
+ recorded directly onto tablet computers with in-­ built
+ checks to minimise missing or erroneous data. At the
+ end of each day, data were uploaded from the tablet
+ computers to a secure database and checked by the data
+ manager. Data queries were sent to the field team leader
+ to be resolved with the data collectors. Data analysis
+ was performed using STATA V.16 following a prespeci-
+ fied analysis plan (online supplemental material 1), by
+ analysts who were blind to cluster allocation. The primary
+ analysis was conducted following the intention-­to-­treat
+ (ITT) principle, whereby participants were analysed
+ according to the trial arm to which they were randomly
+ allocated, irrespective of whether or not they participated
+ in the intervention (or control) activities. All participants 
+<section> who provided both baseline and follow-­ up data were
+ included in the analysis, to allow for adjustment of base-
+ line characteristics. The crude intervention effect, odds
+ ratio (OR) with 95% CI, for each outcome was estimated
+ using a logistic regression model with random intercepts
+ for neighbourhood cluster (unit of randomisation) to
+ account for the clustered nature of the data. Adjusted
+ ORs (aORs) were estimated in the same way, except the
+ models included terms for age (modelled as a linear
+ effect), baseline measure of the respective outcome, and
+ education (secondary/higher vs primary/none).
+ In a real-­world setting, it is inevitable that participants
+ will not be able to attend every session. As for the previous
+ MAISHA trial, we considered attendance at seven or
+ more sessions would constitute a good “dose” of the
+ intervention. We, therefore, performed a per-­protocol
+ analysis in which we restricted the analysis to interven-
+ tion arm women who attended seven or more interven-
+ tion sessions, and propensity score matched control arm
+ women. Dose response effects on attitudinal outcomes
+ were further explored by adding number of interven-
+ tion sessions (as a linear term) to the logistic regression
+ model used for the primary analysis.
+ We also conducted several sensitivity analyses to assess
+ the robustness of the primary analysis: (1) adding a
+ random intercepts term for interviewer to control for
+ possible heterogeneity in outcome reporting between
+ interviewers; and (2) including all participants who
+ completed the baseline questionnaire, using multiple
+ imputation to simulate missing endline data. Since
+ the trial commenced, more sophisticated measures of
+ emotional/psychological abuse have been proposed. We,
+ therefore, conducted a sensitivity analysis with a measure
+ of ‘high intensity psychological abuse’ 18 in addition to
+ the original prespecified measure (table 1).
+ 
+<section> Changes to the protocol
+ There were three amendments to the trial protocol
+ described in detail elsewhere. 13 Briefly, these were: (1)
+ outcome assessments, originally planned at 17 months
+ postrandomisation (12 months postintervention), were
+ extended to 29 months postrandomisation (24 months
+ postintervention) to allow comparability with the IMAGE
+ trial results; (2) the original trial design was to invite male
+ partners of trial participants to participate in a similar
+ intervention designed for men. In light of poor accrual
+ and poor participation in the intervention by enrolled
+ men, the trial design was revised to include only women;
+ and (3) the primary outcome was changed as previously
+ described.
+ 
+<section> Participant and public involvement
+ The design of the MAISHA study was inspired by IMAGE
+ and aimed to address questions raised by the trial in
+ South Africa. Although there was not specific public
+ involvement in development of the research question
+ and outcomes, discussions were held with local commu-
+ nity leaders and representatives about the purpose of the
+ study. Throughout the trial, the research team worked
+ in collaboration with local community leaders to identify
+ neighbourhoods across the city in which to form groups.
+ Within each neighbourhood, the research team worked
+ closely with local leaders to identify and invite women to
+ local community information meetings about the study.
+ The process of randomisation was a participatory process
+ that involved participant representatives to ensure trans-
+ parency in allocation of neighbourhoods to each arm of
+ the trial.
+ Community advisory committees were established
+ comprising local leaders, religious leaders, trial partici-
+ pants and other relevant stakeholders. These commit-
+ tees met regularly to facilitate effective communication
+ between the research team and study communities, and
+ to ensure that any concerns from members of the commu-
+ nity were addressed promptly. The COVID-19 pandemic
+ has impacted on dissemination activities, however the
+ MAISHA team continues to work with the community
+ advisory committees on plans to safely disseminate the
+ trial results to participants and stakeholders in Tanzania.
+ 
+<section> RESULTS
+ 
+<section> Between September 2015 and February 2017, we identi-
+ fied 81 neighbourhoods and sought approval from local
+ leaders to conduct research activities. Research activities
+ were discontinued in 15 neighbourhoods when it became
+ apparent that high numbers of women were members
+ of formal microfinance loan schemes (n=12 neighbour-
+ hoods) or there were insufficient numbers of women who
+ wished to take part (n=3 neighbourhoods). Across the
+ remaining 66 neighbourhoods, 1912 women attended
+ the information meetings. Of these, 1478 expressed
+ interest in participating and were assessed for eligibility,
+ of whom 1265 were ultimately enrolled (figure 3). A
+ baseline interview was completed prior to randomisation
+ by 1248 (99%) women. Between May 2018 and August
+ 2019, 551 (88%) women in the intervention arm and
+ 575 (90%) women in the control arm also completed the
+ follow-­up interview and were included in the ITT analysis
+ (figure 3). There was no difference in baseline character-
+ istics between women included in the ITT and those lost
+ to follow-­up.
+ Table 2A shows the baseline characteristics of partici-
+ pants by trial arm. The mean age of women was similar
+ in both arms, around 33 years. Almost all participants
+ (n=1123, 99.8%) reported having had a partner (regular
+ or casual) at some point in their lives, with most married/
+ living as married at baseline (80%–81%). The two arms
+ were broadly similar, although there was a slight differ-
+ ence in education, with control arm women more likely
+ to have attended secondary or higher education (22% vs
+ 19%). In addition, control arm women reported higher
+ median monthly income compared with intervention
+ arm women (table 2A). Table 2B shows participants’ base-
+ line reports of IPV and attitudes by trial arm. At baseline,
+ control arm women were more likely to have reported 
+<section> Figure 3 Trial profile. ITT, intention-­to-­treat.
+ 
+<section> past year sexual IPV (23% vs 19%) but were less likely to
+ have attitudes accepting of IPV compared with interven-
+ tion arm women (51% vs 58%)(table 2B). The ICC for
+ baseline past year physical IPV was 0.0230 (SE 0.0211)
+ and for past year sexual IPV 0.0001 (SE 0.0172).
+ Of the 551 intervention women, 85% (n=466) partic-
+ ipated in at least seven of the 10 intervention sessions.
+ In Table 3A, we present the results of the ITT analyses.
+ At follow-­ up, past year physical IPV was reported by
+ 21% of intervention arm women and 20% of control
+ arm women. The aOR was 0.98 (95% CI 0.72 to 1.33,
+ p=0.892). In addition, past year sexual IPV was reported
+ by 20% of intervention arm women and 21% of control
+ arm women. The aOR was 0.98 (95% CI 0.72 to 1.32,
+ p=0.881). With respect to secondary outcomes, there
+ was evidence of an impact on past year emotional abuse,
+ which was reported by 39% of intervention arm women
+ compared with 45% of control arm women (aOR 0.74,
+ 95% CI 0.56 to 0.98, p=0.035). Furthermore, there was
+ also evidence of impact on attitudes accepting of IPV
+ (aOR 0.49, 95% CI 0.36 to 0.66, p<0.001), the belief that
+ a woman should tolerate violence in order to keep her
+ family together (aOR 0.48, 95% CI 0.34 to 0.66, p<0.001),
+ and the belief that IPV is private matter and others should
+ not intervene (aOR 0.54, 95% CI 0.38 to 0.78, p=0.001).
+ Among the women reporting past year physical or sexual
+ IPV, results are suggestive of decrease in odds of disclo-
+ sure of IPV in the intervention arm, however, the CI is
+ wide, and inference is severely limited by the restricted
+ sample size for this outcome (table 3A).
+ Measures of effect were not affected by inclusion of a
+ random intercepts term for interviewer online supple-
+ mental table S1), or when multiple imputation was
+ used to impute missing outcome data for participants
+ who only completed the baseline questionnaire (online
+ supplemental table S2). In contrast to when the prespec-
+ ified measure of emotional abuse was used, there was
+ less evidence of an impact on emotional abuse using the
+ ‘high intensity’ measure (aOR 0.79, 95% CI 0.55 to 1.12).
+ As with the ITT analysis, there was no impact on the
+ primary outcomes when the analysis was restricted to
+ women who participated in seven or more sessions and
+ propensity scored matched controls (per-­protocol anal-
+ ysis, Table 3B). While intervention impacts on the attitu-
+ dinal outcomes were similar in this ‘high-­dose’ group to
+ those observed in the ITT analysis, the effect on emotional
+ abuse was slightly stronger in the high dose group (aOR
+ of 0.65, 95% CI 0.48 to 0.87, p=0.004), (table 3B). We
+ found no evidence of a dose response effect on attitu-
+ dinal outcomes among intervention arm women who
+ attended one or more sessions (online supplemental
+ figures S1-3 and table S3).
+ There were no reports that participation in the trial had
+ led to new episodes of violence or worsening of ongoing
+ violence and abuse. The trial team provided assistance
+ to 43 women who wished to seek help and support for
+ ongoing IPV and abuse.
+ 
+<section> DISCUSSION
+ 
+<section> In this trial, we found no evidence of an impact on either
+ reported past year physical or sexual IPV among women
+ who participated in the MAISHA intervention. There was,
+ however, evidence of a reduction in past-­year emotional
+ abuse, and intervention women were much less likely to
+ express attitudes accepting of IPV, express beliefs that
+ IPV is a private matter, or that a woman should tolerate
+ IPV in order to keep her family together.
+ The lack of an effect on past-­year physical IPV is in
+ contrast to the findings of a previous trial we conducted
+ evaluating the impact of the MAISHA social empower-
+ ment intervention among women taking part in a formal
+ microfinance scheme (MAISHA CRT01), where physical 
+<insert> Intervention (N=551)
+ Characteristic n (%)
+ Control (N=575)
+ n (%)
+ Age (years) Mean (SD) (range) 33.2 (8.1) (20–50) 33.0 (8.0)(18–50)
+ Marital status Married 445 (81%) 461 (80%)
+   Divorced/separated 52 (9%) 62 (11%)
+   Widowed 26 (5%) 26 (5%)
+   Never married 28 (5%) 26 (5%)
+ Partnered in past year   503 (91%) 527 (92%)
+ Highest level of education completed None/incomplete primary 100 (18%) 114 (20%)
+   Completed primary 344 (62%) 336 (58%)
+   Attended secondary/higher 107 (19%) 125 (22%)
+ Partner’s age (years) Mean (SD) (range) 39.6 (9.6)(20–77) 39.4 (9.5)(22–68)
+ Partner’s education None/incomplete primary 45 (8%) 36 (6%)
+   Completed primary 332 (60%) 331 (58%)
+   Attended secondary or
+ higher
+ 153 (28%) 178 (31%)
+   Unknown 19 (3%) 29 (5%)
+ No of children
+ (<18 years)
+ None 24 (4%) 29 (5%)
+   1–2 186 (34%) 234 (41%)
+   3–4 225 (41%) 213 (37%)
+   5+ 116 (21%) 99 (17%)
+ Household experienced financial hardship in past year 385 (65%) 344 (60%)
+ Respondent worked for money during past 12 months 443 (80%) 461 (80%)
+ Respondent’s monthly income (Tanzanian shillings) Median
+ (IQR)
+ 88 000*
+ (55 000 to 154 000)
+ 110 000†
+ (55 000 to 195 000)
+ *Equivalent to approximately US$38 (US$24 to US$66).
+ †Equivalent to US$47 (US$24 to US$84).
+ Table 2A Baseline characteristics of participants included in the intention to treat analysis, by trial arm 
+<iend>
+
+ 
+<insert> Table 2B Baseline reports of intimate partner violence, and attitudes and beliefs among ever-­partnered participants included
+ in the intention-­to-­treat analysis, by trial arm
+ Intervention (N=549)*
+ n (%)
+ Control (N=574)
+ n (%)
+  Ever 320 (58%) 325 (57%)
+  Past year 141 (26%) 140 (24%)
+  Ever 215 (39%) 239 (42%)
+  Past year 105 (19%) 130 (23%)
+  Ever 407 (74%) 406 (71%)
+  Past year 249 (45%) 252 (44%)
+ Type of intimate partner violence/abuse
+ Physical
+ Sexual
+ Emotional
+ Disclosed violence in past year (among those experiencing physical/sexual IPV 138/187 (74%)
+ in past year)
+ 147/203 (72%)
+ Attitude/belief (N=551) (N=575)
+ Attitudes accepting of IPV 319 (58%) 296 (51%)
+ Believes a woman should tolerate violence in order to keep her family together 496 (90%) 497 (86%)
+ Believes IPV is a private matter and others should not intervene 64 (12%) 69 (12%)
+ *Three women (intervention n=2, control n=1) reported at baseline never being partnered, so excluded from the analysis.
+ IPV, intimate partner violence. 
+<iend>
+ 
+<insert> Type of intimate partner violence/abuse
+ Intervention
+ (n=550)*
+ N (%)
+ Control
+ (n=575)
+ N (%)
+ Physical (primary) 113 (21%)
+ Sexual (primary)
+ Crude OR (95% CI) p
+ value
+ Adjusted OR
+ (95% CI) p value
+ 117 (20%)  1.1 (0.75 to 1.36)
+  0.934
+ 0.98 (0.72 to 1.33)
+ 0.892
+ 109 (20%) 121 (21%) 0.93 (0.69 to 1.26)
+ 0.648
+ 0.98 (0.72 to 1.32)
+ 0.881
+ Emotional 216 (39%) 259 (45%) 0.79 (0.61 to 1.03)
+ 0.079
+ 0.74 (0.56 to 0.98)
+ 0.035
+   n=170 n=177    
+ Disclosed IPV in past year (among those
+ experiencing physical/sexual IPV in past year)
+ 118 (69%) 135 (76%) 0.71 (0.44 to 1.14)
+ 0.151
+ 0.75 (0.46 to 1.21)
+ 0.239
+ Attitude/belief (n=551) (n=575)    
+ Attitudes accepting of IPV 282 (51%) 373 (65%) 0.56 (0.42 to 0.74)
+ <0.001
+ 0.49 (0.36 to 0.66)
+ <0.001
+ Believes a woman should tolerate violence in
+ order to keep her family together
+ 82 (15%) 148 (26%) 0.50 (0.37 to 0.69)
+ <0.001
+ 0.48 (0.34 to 0.66)
+ <0.001
+ Believes IPV is a private matter and others should
+ not intervene
+ 58 (11%) 100 (17%) 0.56 (0.39 to 0.81)
+ 0.002
+ 0.54 (0.38 to 0.78)
+ 0.001
+ *One woman reported never being partnered so excluded from the analysis.
+ IPV, intimate partner violence.
+ Table 3A Intention-­to-­treat analysis of intervention impact on primary and secondary outcomes reported 29 months
+ postrandomisation among ever partnered women 
+<iend>
+
+ 
+<insert> Table 3B Intervention impacts on primary and secondary outcomes among those attending seven or more intervention
+ sessions, compared with controls matched on propensity for high intervention attendance*
+ Adjusted OR‡
+ Crude OR† (95% CI) (95% CI)
+ Type of intimate partner violence/abuse P value P value
+ Intervention
+ (n=464)
+ N (%)
+ Control (n=464)
+ N (%)
+ Physical 95 (20%) 98 (21%) 0.96 (0.70 to 1.32)
+ 0.808
+ 0.96 (0.69 to 1.34)
+ 0.812
+ Sexual 91 (20%) 98 (21%) 0.92 (0.65 to 1.29)
+ 0.616
+ 0.97 (0.70 to 1.36)
+ 0.873
+ Emotional 171 (37%) 214 (46%) 0.68 (0.51 to 0.90)
+ 0.008
+ 0.65 (0.48 to 0.87)
+ 0.004
+ 109/145 (75%) 0.76 (0.45 to 1.29)
+ 0.305
+ 0.80 (0.47 to 1.38)
+ 0.425
+    
+ Disclosed violence in past year (among those
+ experiencing physical/sexual IPV in past year)
+ 99/142 (70%)
+ Attitude/belief
+ Attitudes accepting of IPV 235 (51%) 296 (64%) 0.57 (0.42 to 0.78)
+ <0.001
+ 0.51 (0.37 to 0.71)
+ <0.001
+ Believes a woman should tolerate violence in
+ order to keep her family together
+ 69 (15%) 123 (27%) 0.48 (0.34 to 0.69)
+ <0.001
+ 0.47 (0.33 to 0.67)
+ <0.001
+ Believes IPV is a private matter and others should
+ not intervene
+ 48 (10%) 84 (18%) 0.52 (0.35 to 0.78)
+ 0.001
+ 0.52 (0.35 to 0.77)
+ 0.001
+ *Propensity score predicted based on a logistic regression model fitted to women in the intervention arm, with 7+ sessions as the
+ dependent variable and independent variables comprising baseline measures of cluster size, age, religion, marital status, highest level
+ of education attended, number of children, experience of sexual and/or physical IPV (never/ ever but not past yr/ past year), past year
+ experience of controlling behaviour, and poor mental health.
+ †Crude OR point and interval estimates and p value are from a logistic regression with cluster-­level random intercepts but no
+ adjustment for baseline covariates.
+ ‡Adjusted OR point and interval estimates and p-­value are from a logistic regression with cluster-­level random intercepts and
+ adjustment for baseline measure of outcome (Y/N/NA), secondary or higher education (Y/N) and age (linear).
+ IPV, intimate partner violence. 
+<iend>
+
+ 
+<section> IPV was reduced by around a third. 12 There are several
+ potential reasons for these contrasting findings.
+ First, important differences in the underlying risk
+ factors for IPV of the two trial populations could explain
+ the different intervention effects observed. Women
+ (and their partners) in the current trial were on average
+ younger than those in the previous trial (women’s mean
+ age at baseline 33.1 years, (SD 8.1 years) vs 39.6 years, 
+<section> (9.5 years)), and reported higher levels of past year phys-
+ ical and/or sexual IPV at baseline (35% vs 26%). Another
+ key difference between the two populations is level of
+ education, which is well-­recognised as a risk factor for
+ IPV. 19 Overall, participants in the current trial were less
+ educated with 19% having received no education or
+ incomplete primary education compared with 14% of
+ CRT01 participants. 12 Having less formal education does
+ not seem to have impacted on women’s participation in
+ the intervention; the facilitators reported that women
+ were very engaged and interactive during the sessions.
+ However, they may have faced more challenges in imple-
+ menting changes at home to reduce violence.
+ Second, participants in the previous trial were recruited
+ and participated in the MAISHA intervention in their pre-­
+ established microfinance groups. It is likely, therefore, that
+ they had already developed strong social ties with their fellow
+ group members. Evidence suggests that social capital, such
+ as that gained through group membership, may provide
+ women with some forms of protection, as well as the confi-
+ dence to address physical IPV. 20 It is possible that this support
+ combined with a slightly higher level of formal education,
+ meant that these women were already further along a trajec-
+ tory of empowerment at the outset of the trial, that is, thinking
+ about and challenging social norms that promote gender
+ inequalities. 21 Conversely, for the current trial, women
+ living in the same neighbourhood were formed into groups
+ specifically for the purpose of the intervention, and may not
+ have had pre-­existing social ties with other group members.
+ Perhaps these women needed more time to bond as a group
+ and develop social trust and solidarity before participating in
+ the MAISHA intervention. Even so, we are aware that there
+ were tensions within some of the microfinance groups over
+ the collective responsibility for individual debt, which some-
+ times impacted negatively on group cohesiveness.
+ Third, in addition to being less educated than women
+ in the previous trial, other indicators suggest that women
+ in the current trial experienced greater levels of poverty.
+ They were more likely to report household economic hard-
+ ship, as measured by difficulty in covering basic household
+ needs such as food and medicine (62% vs 47%). The rela-
+ tionship between poverty and women’s experience of IPV is
+ complex and the evidence suggests multiple ways in which
+ poverty drives IPV both directly and indirectly. 19 Indirectly,
+ growing up in poverty increases the likelihood of experi-
+ encing recognised risk factors for IPV, including poorer
+ educational outcomes, and adverse childhood experi-
+ ences such as physical, sexual and emotional abuse, and
+ neglect. 22 23 More directly, high levels of stress in households
+ struggling to manage scarce resources, can lead to conflict
+ and violence. 24 25 A number of studies have demonstrated
+ associations between food insecurity (an indicator of acute
+ poverty) and women’s experience of IPV. 19 23 26 Any effects
+ of the MAISHA intervention may not have been sufficient to
+ counteract these additional stressors present in the current
+ trial.
+ Fourth, as well as overall levels of household poverty,
+ women’s lack of access to and control over economic
+ resources is also a driver of IPV risk, limiting women’s power
+ within relationships as well as their ability to leave abusive
+ relationships. Women in the current trial were not partici-
+ pating in formal microfinance, were less likely than those in
+ the previous trial to report personally earning money (80% vs
+ 97%), and where they did so their income was lower (median
+ of 110 000 vs 220 000 Tanzanian shillings per month). Starting
+ from a point of greater financial independence from their
+ male partners, the MAISHA intervention may have enabled
+ women in the previous trial to enact change within their rela-
+ tionships. For women in the current trial, however, greater
+ economic dependence on male partners might have limited
+ the extent to which they were able to translate changes in
+ personal ‘empowerment’ into relationship-­level change.
+ Given the ways in which poverty increases women’s
+ vulnerability to IPV, there has been considerable research
+ focused on economic interventions to prevent women’s
+ experience of IPV. 7 Much of the research addresses whether
+ economic interventions alone are sufficient to reduce IPV,
+ or whether they should be delivered in combination with
+ social empowerment or gender transformative interven-
+ tions. The evidence indicates that programmes combining
+ economic strengthening with social empowerment for
+ women tend to lead to positive outcomes, 7 27 with cash
+ transfer interventions more consistently linked to reduc-
+ tions in IPV than microfinance interventions for which the
+ evidence is more mixed. 28 The related but conceptually
+ opposite question of whether social empowerment inter-
+ ventions alone can work in the absence of economic inter-
+ ventions, has received less attention. This trial suggests that
+ a social empowerment intervention alone for women is not
+ sufficient to reduce IPV. However, we cannot comment on
+ whether these results can be generalised to other women
+ in Tanzania. For example, women in higher socioeco-
+ nomic groups.
+ It is possible that we might have seen an intervention
+ effect on physical and sexual violence if male partners
+ had also participated in the intervention, as originally
+ planned. There is good evidence that couples’ interven-
+ tions, which are well designed and well implemented,
+ are effective in reducing IPV against women. 7 Such inter-
+ ventions require careful consideration of the population
+ being targeted, including understanding how mascu-
+ linities operate and are related to IPV perpetration in
+ specific contexts.
+ The MAISHA intervention had a considerable impact
+ on women’s attitudes and beliefs about violence. Although
+ we cannot exclude the possibility of social desirability bias,
+ it is worth noting anecdotal evidence from the field team
+ suggesting that women seemed more confident about chal-
+ lenging violence in their communities.
+ Similar to the previous MAISHA trial and other trials,
+ there was no effect on sexual IPV in this trial. We did not
+ assess women’s acceptance of sexual IPV, however, social
+ norms supporting sexual entitlement of men are deeply
+ entrenched in Tanzania. The lack of impact on sexual IPV in
+ both MAISHA trials indicates the need to engage more with
+ men. Although they did not refer to sexual IPV explicitly, 
+<section> the trial participants highlighted the need to include men in
+ violence prevention interventions.
+ In contrast to the previous trial there was a reduction in
+ reports of emotional abuse by intervention arm women
+ compared with control arm women. This is an encour-
+ aging finding given the link between mental ill health and
+ emotional abuse. 29 The overall prevalence of emotional
+ abuse was high in both MAISHA trial populations; however,
+ it is not clear why there was an impact of the intervention on
+ this form of abuse in the current trial but not in the previous
+ trial. Secondary analyses are underway to explore potential
+ explanations for the different intervention effects in the two
+ trials, alongside questions of how mechanisms of change
+ may have differed in the two trials. These exploratory anal-
+ yses augmented by rich data from the longitudinal qualita-
+ tive study of a subsample of trial participants, 21 will provide
+ valuable insights into these results, and provide an oppor-
+ tunity to better understand the potential for the MAISHA
+ intervention to be transferred and adapted to other settings.
+ We observed a slightly stronger effect on emotional abuse
+ when we restricted the analysis to women who attended
+ seven or more sessions; however, we did not observe any
+ strengthened impact on other outcomes in this ‘high-­dose’
+ group. This is perhaps unsurprising given the high atten-
+ dance at sessions, which of itself is encouraging and suggests
+ the MAISHA intervention is acceptable to women.
+ There are some limitations. Women who participated
+ in the trial are among the poorest in Mwanza city, and
+ the results are possibly not generalisable to women who
+ are more economically advantaged. Reporting bias is a
+ concern, particularly as under-­reporting of IPV is common.
+ It is possible that exposure to the intervention might have
+ increased sensitisation of women to IPV leading to increased
+ reports of violence among women in the intervention arm,
+ and thereby an underestimate of the effect size. Given the
+ nature of the intervention, it was not possible to mask the
+ research team to group allocation. To reduce the risk of
+ reporting bias, we assessed outcomes using questions that
+ are standardised and widely used in violence research 11 with
+ face-­to-­face interviews conducted by interviewers who had
+ received extensive training and had not been involved in
+ implementation of the intervention.
+ The trial has many strengths. Randomisation of groups
+ ensured that there was no bias in programme placement.
+ Women were enrolled from a large number of neigh-
+ bourhoods across Mwanza city ensuring that the trial was
+ adequately powered. Engagement with the intervention was
+ very good and most participants attended at least seven of
+ the 10 sessions, suggesting that the intervention is acceptable
+ to women. Retention rates were high for both arms (88%
+ intervention arm vs 90% control). Although it is possible that
+ the women lost to follow-­up differed from those included in
+ the analysis, baseline comparisons with the ITT population
+ do not support this suggestion. Furthermore, the impact of
+ the intervention remained much the same when those lost
+ to follow-­up were included in the outcomes analysis using
+ multiple imputation. Data were analysed following the ITT
+ principle and a pre-­specified analysis plan, with data analysts
+ blinded to trial allocation. Baseline data enabled us to adjust
+ for baseline imbalances between the trial arms (according to
+ the pre-­specified analysis plan). The mixed-­methods design
+ of the trial, utilising quantitative and qualitative approaches,
+ will allow us to gain a better understanding of the effect of
+ the intervention, and how it is experienced by participants.
+ Data from the complementary longitudinal qualitative study
+ will be invaluable in exploring women’s experiences of the
+ intervention and format, processes of change, and potential
+ reasons for its impact or lack of impact on different forms of
+ violence and abuse.
+ In summary, IPV is a major problem globally. This trial is
+ an important addition to the body of evidence on what works
+ to prevent violence. 6 7 It has shown that although this gender
+ transformative intervention did have a considerable impact
+ on attitudes and beliefs about violence, and on emotional
+ abuse experienced by women, it was not sufficient to reduce
+ physical or sexual IPV. Current evidence indicates positive
+ outcomes when social empowerment or gender transfor-
+ mative interventions are combined with economic strength-
+ ening for women. 7 27 However, it is also crucial to engage men
+ in strategies to prevent all forms of violence against women,
+ and there is accumulating evidence that couples’ interven-
+ tions, focussing on transforming gender relations within the
+ couple, are also effective in reducing women’s experiences
+ of IPV.
+ 
+<section> Author affiliations
+ Global Health and Development, Faculty of Public Health and Policy, London School
+ of Hygiene & Tropical Medicine, London, UK
+ Mwanza Intervention Trials Unit, National Institute for Medical Research Mwanza
+ 
+<section> Research Centre, Mwanza, Tanzania
+ Sexual and Reproductive Health, National Institute for Medical Research Mwanza
+ Research Centre, Mwanza, Mwanza, Tanzania
+ Infectious Disease Epidemiology, Faculty of Epidemiology and Population Health,
+ London School of Hygiene & Tropical Medicine, London, UK
+ 
+<section> Acknowledgements First and foremost, we wish to thank all study participants
+ for their time and commitment to the trial. We are also grateful to the MAISHA
+ research team for their contribution and tireless dedication to implementing the
+ trial in Tanzania, and to the administration teams at MITU and LSHTM for their
+ support. We dedicate this paper to our colleague Euphrasia Mwakalikamo, a highly
+ valued member of the MAISHA field team, who sadly died in April 2020.
+ 
+<section> Contributors SH provided methodological input, coordinated the trial and
+ managed the trial teams with assistance from IK, and wrote the first draft of the
+ trial report. TA did the statistical analysis and cowrote the first draft of the trial
+ report. GM contributed to the trial design and provided methodological input into
+ the qualitative study. CHH provided methodological input and statistical support.
+ GJM and FM led the field team responsible for recruitment of participants and
+ data collection. RH set up and managed the data management systems. CW
+ conceived the idea and design of the trial and provided methodological input. SL
+ contributed to the trial design and provided methodological input and oversight of
+ the qualitative study. SK contributed to the trial design, provided methodological
+ input and oversight of the trial. All authors contributed to interpreting the data and
+ writing the manuscript.
+ 
+<section> Funding The MAISHA study was funded by a donor who wishes to remain
+ anonymous and the STRIVE Consortium funded by UK Aid from the Department for
+ International Development.
+ 
+<section> Competing interests Following initiation of the trial, CW was seconded to
+ the UK Government Department for International Development as their chief
+ scientific advisor. Her ongoing role in this trial is in her academic capacity at
+ LSHTM.
+ 
+<section> Patient consent for publication Not required. 
+<section> Ethics approval The trial was approved by the Tanzanian National Health Research
+ Ethics Committee of the National Institute for Medical Research (Ref: NIMR/HQ/R.8a/
+ Vol. IX/1512), and the London School of Hygiene & Tropical Medicine research ethics
+ committee (LSHTM, Ref: 11642). It was implemented by the Mwanza Intervention
+ Trials Unit (MITU), the Tanzania National Institute for Medical Research (NIMR) and
+ LSHTM in close collaboration with local leaders and members of the communities
+ where the trial was conducted.
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data availability statement Data are available on request. Study data in this
+ paper, including anonymised individual participant data, will be made available
+ upon publication to members of the scientific and medical community for
+ non-­commercial use only. Request should be made to the corresponding author.
+ Data will be stored in Data Compass, the London School of Hygiene and Tropical
+ Medicine’s digital data repository.
+ 
+<section> Supplemental material This content has been supplied by the author(s). It has
+ not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been
+ peer-­reviewed. Any opinions or recommendations discussed are solely those
+ of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and
+ responsibility arising from any reliance placed on the content. Where the content
+ includes any translated material, BMJ does not warrant the accuracy and reliability
+ of the translations (including but not limited to local regulations, clinical guidelines,
+ terminology, drug names and drug dosages), and is not responsible for any error
+ and/or omissions arising from translation and adaptation or otherwise.
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution Non Commercial (CC BY-­NC 4.0) license, which
+ permits others to distribute, remix, adapt, build upon this work non-­commercially,
+ and license their derivative works on different terms, provided the original work is
+ properly cited, appropriate credit is given, any changes made indicated, and the
+ use is non-­commercial. See: http:// c reativecommons.​org/​licenses/​by-​nc/​4.​0/.
+ 
+<section> ORCID iDs
+ 
+<section> Tanya Abramsky http://​orcid.​org/​0000-​0002-​0271-​8492
+ Shelley Lees http://​orcid.​org/​0000-​0003-​0062-​7930
+ 
+<section> REFERENCES
+ 1 World Health Organization. Global and regional estimates of violence
+ against women: prevalence and health effects of intimate partner
+ violence and non-­partner sexual violence, 2013. Available: https://
+ www.​who.​int/​publications/​i/​item/​9789241564625 [Accessed 29 Mar
+ 2021].
+ 2 World Health Organization. Violence against women prevalence
+ estimates, 2018, executive summary, 2021. Available: https://www.​
+ who.​int/​publications/​i/​item/​violence-​against-​women-​prevalence-​
+ estimates [Accessed 29 Mar 2021].
+ 3 Devries KM, Mak JY, Bacchus LJ, et al. Intimate partner violence and
+ incident depressive symptoms and suicide attempts: a systematic
+ review of longitudinal studies. PLoS Med 2013;10:e1001439.
+ 4 Ellsberg M, Jansen HAFM, Heise L, et al. Intimate partner violence
+ and women's physical and mental health in the who multi-­country
+ study on women's health and domestic violence: an observational
+ study. Lancet 2008;371:1165–72.
+ 5 Bacchus LJ, Ranganathan M, Watts C, et al. Recent intimate partner
+ violence against women and health: a systematic review and meta-­
+ analysis of cohort studies. BMJ Open 2018;8:e019995.
+ 6 Heise L. What works to prevent partner violence: an evidence
+ overview, 2011. Available: http://​strive.​lshtm.​ac.​uk/​resources/​what-​
+ works-​prevent-​partner-​violence-​evidence-​overview [Accessed
+ Mar 2021].
+ 7 Kerr-­Wilson A, Gibbs A, Fraser E. A rigorous global evidence review
+ of interventions to prevent violence against women and girls, 2020.
+ 
+<section> Available: https://www.​whatworks.​co.​za/​documents/​publications/​
+ 374-​evidence-​reviewfweb/​file [Accessed 29 Mar 2021].
+ 8 Ellsberg M, Arango DJ, Morton M, et al. Prevention of violence
+ against women and girls: what does the evidence say? Lancet
+ 2015;385:1555–66.
+ 9 Devries KM, Mak JYT, García-­Moreno C, et al. Global health. the
+ global prevalence of intimate partner violence against women.
+ 
+<section> Science 2013;340:1527–8.
+ 10 Pronyk PM, Hargreaves JR, Kim JC, et al. Effect of a structural
+ intervention for the prevention of intimate-­partner violence and
+ 
+<section> HIV in rural South Africa: a cluster randomised trial. Lancet
+ 2006;368:1973–83.
+ 11 Garcia-­Moreno C, Jansen HAFM, Ellsberg M, et al. Prevalence of
+ intimate partner violence: findings from the WHO multi-­country
+ study on women’s health and domestic violence. The Lancet
+ 2006;368:1260–9.
+ Kapiga S, Harvey S, Mshana G, et al. A social empowerment
+ intervention to prevent intimate partner violence against women in a
+ microfinance scheme in Tanzania: findings from the MAISHA cluster
+ randomised controlled trial. Lancet Glob Health 2019;7:e1423–34.
+ Harvey S, Lees S, Mshana G. A cluster randomised controlled trial
+ to assess the impact on intimate partner violence of a 10-­session
+ participatory social empowerment intervention for women in
+ 
+<section> Tanzania (MAISHA CRT02): study protocol, 2019. Available: http://​
+ strive.​lshtm.​ac.​uk/​resources/​cluster-​randomised-​controlled-​trial-​
+ assess-​impact-​intimate-​partner-​violence-​10-​session [Accessed
+ Mar 2021].
+ Watts C, Heise L, Garcia-­Moreno C. Putting women first: ethical and
+ safety recommendations for research on domestic violence against
+ women. Geneva, Switzerland, 2001. https://​apps.​who.​int/​iris/​handle/​
+ 
+<section> 10665/​65893
+ Abramsky T, Devries K, Kiss L, et al. Findings from the Sasa! study:
+ a cluster randomized controlled trial to assess the impact of a
+ community mobilization intervention to prevent violence against
+ women and reduce HIV risk in Kampala, Uganda. BMC Med
+ 2014;12:122.
+ Wagman JA, Gray RH, Campbell JC, et al. Effectiveness of
+ an integrated intimate partner violence and HIV prevention
+ intervention in Rakai, Uganda: analysis of an intervention in
+ an existing cluster randomised cohort. Lancet Glob Health
+ 2015;3:e23–33.
+ Abramsky T, Devries K, Kiss L, et al. A community mobilisation
+ intervention to prevent violence against women and reduce HIV/
+ AIDS risk in Kampala, Uganda (the Sasa! study): study protocol for a
+ cluster randomised controlled trial. Trials 2012;13:96.
+ Heise L, Pallitto C, García-­Moreno C, et al. Measuring psychological
+ abuse by intimate partners: constructing a cross-­cultural indicator
+ for the sustainable development goals. SSM Popul Health
+ 2019;9:100377.
+ Gibbs A, Jewkes R, Willan S, et al. Associations between poverty,
+ mental health and substance use, gender power, and intimate
+ partner violence amongst young (18-30) women and men in urban
+ informal settlements in South Africa: a cross-­sectional study and
+ structural equation model. PLoS One 2018;13:e0204956.
+ Benavides M, León J, Etesse M, et al. Exploring the association
+ between segregation and physical intimate partner violence in Lima,
+ Peru: the mediating role of gender norms and social capital. SSM
+ Popul Health 2019;7:100338.
+ Lees S, Marchant M, Selestine V, et al. The transformative
+ effects of a participatory social empowerment intervention in the
+ MAISHA intimate partner violence trial in Tanzania. Cult Health Sex
+ 2020:1–16.
+ Fulu E, Miedema S, Roselli T, et al. Pathways between childhood
+ trauma, intimate partner violence, and Harsh parenting: findings
+ from the un Multi-­country study on men and violence in Asia and the
+ Pacific. Lancet Glob Health 2017;5:e512–22.
+ Jewkes R, Fulu E, Tabassam Naved R, et al. Women's and men's
+ reports of past-­year prevalence of intimate partner violence and
+ rape and women's risk factors for intimate partner violence: a
+ multicountry cross-­sectional study in Asia and the Pacific. PLoS
+ Med 2017;14:e1002381.
+ Buller AM, Hidrobo M, Peterman A, et al. The way to a man's
+ heart is through his stomach?: a mixed methods study on causal
+ mechanisms through which cash and in-­kind food transfers
+ decreased intimate partner violence. BMC Public Health
+ 2016;16:488.
+ Buller AM, Peterman A, Ranganathan M. A mixed methods review
+ of cash transfers and intimate partner in low and middle-­income
+ countries, 2018. Available: https://www.​unicef-​irc.​org/​publications/​
+ 938-​a-​mixed-​method-​review-​of-​cash-​transfers-​and-​intimate-​
+ partner-​violence-​in-​low-​and.​html [Accessed 29 Mar 2021].
+ Gibbs A, Dunkle K, Mhlongo S, et al. Which men change in intimate
+ partner violence prevention interventions? A trajectory analysis in
+ Rwanda and South Africa. BMJ Glob Health 2020;5:e002199.
+ Gibbs A, Jacobson J, Kerr Wilson A. A global comprehensive review
+ of economic interventions to prevent intimate partner violence and
+ 
+<section> HIV risk behaviours. Glob Health Action 2017;10:1290427.
+ Peterman A, Palermo TM, Ferrari G. Still a leap of faith: microfinance
+ initiatives for reduction of violence against women and children
+ in low-­income and middle-­income countries. BMJ Glob Health
+ 2018;3:e001143.
+ Jina R, Jewkes R, Hoffman S, et al. Adverse mental health
+ outcomes associated with emotional abuse in young rural South
+ 
+<section> African women: a cross-­sectional study. J Interpers Violence
+ 2012;27:862–80.

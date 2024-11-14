@@ -1,0 +1,660 @@
+
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> OPEN ACCESS
+ 
+<section> Citation: Benade M, Nichols BE, Fatti G,
+ Kuchukhidze S, Takarinda K, Mabhena-Ngorima N,
+ et al. (2023) Economic evaluation of a cluster
+ randomized, non-inferiority trial of differentiated
+ service delivery models of HIV treatment in
+ Zimbabwe. PLOS Glob Public Health 3(3):
+ e0000493. https://doi.org/10.1371/journal.
+ 
+<section> pgph.0000493
+ 
+<section> Editor: Madhukar Pai, McGill University, CANADA
+ 
+<section> Received: November 29, 2021
+ 
+<section> Accepted: January 30, 2023
+ 
+<section> Published: March 13, 2023
+ 
+<section> Copyright: © 2023 Benade et al. This is an open
+ access article distributed under the terms of the
+ Creative Commons Attribution License, which
+ permits unrestricted use, distribution, and
+ reproduction in any medium, provided the original
+ author and source are credited.
+ 
+<section> Data Availability Statement: The data contain
+ sensitive patient information and are not available
+ publicly due to ethical restrictions. Requests for
+ data may be directed to the Zimbabwe Medical
+ Research Council (mrcz@mrcz.org.zw) as well as
+ the Zimbabwe Ministry of Health and Child Care
+ (pr@mohcc.gov.zw) who are the custodians of the
+ data.
+ 
+<section> Funding: This study was supported by the United
+ States Agency for International Development/
+ 
+<section> RESEARCH ARTICLE
+ 
+<section> Economic evaluation of a cluster randomized,
+ non-inferiority trial of differentiated service
+ delivery models of HIV treatment in
+ 
+<section> Zimbabwe
+ 
+<section> Mariet Benade ID *, Brooke E. Nichols ID 1,2,3 , Geoffrey Fatti ID 4,5 , Salome Kuchukhidze ID
+ Kudakwashe Takarinda ID , Nicoletta Mabhena-Ngorima , Ashraf Grimwood ,
+ 
+<section> Sydney Rosen ID 
+<section> 1,2
+ 
+<section> 1 Department of Global Health, School of Public Health, Boston University, Boston, Massachusetts, United
+ States of America, 2 Health Economics and Epidemiology Research Office, Department of Internal Medicine,
+ School of Clinical Medicine, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg,
+ South Africa, 3 Department of Medical Microbiology, Amsterdam University Medical Center, Amsterdam, The
+ Netherlands, 4 Kheth’Impilo AIDS Free Living, Cape Town, South Africa, 5 Division of Epidemiology and
+ Biostatistics, Department of Global Health, Faculty of Medicine and Health Sciences, Stellenbosch University,
+ Cape Town, South Africa, 6 AIDS & TB Department, Ministry of Health & Child Care, Harare, Zimbabwe
+ 
+<section> * mbenade@bu.edu
+ 
+<section> Abstract
+ 
+<section> About 85% of Zimbabwe’s >1.4 million people living with HIV are on antiretroviral treatment
+ (ART). Further expansion of its treatment program will require more efficient use of existing
+ resources. Two promising strategies for reducing resource utilization per patient are multi-
+ month medication dispensing and community-based service delivery. We evaluated the costs
+ to providers and patients of community-based, multi-month ART delivery models in Zimbabwe.
+ We used resource and outcome data from a cluster-randomized non-inferiority trial of three
+ ferentiated service delivery (DSD) models targeted to patients stable on ART: 3-month facility-
+ based care (3MF), community ART refill groups (CAGs) with 3-month dispensing (3MC), and
+ CAGs with 6-month dispensing (6MC). Using local unit costs, we estimated the annual cost
+ 2020 USD of providing HIV treatment per patient from the provider and patient perspectives.
+ the trial, retention at 12 months was 93.0% in the 3MF, 94.8% in the 3MC, and 95.5% in the
+ 6MC arms. The total average annual cost of HIV treatment per patient was $187 (standard
+ deviation $39), $178 ($30), and $167 ($39) in each of the three arms, respectively. The annual
+ cost/patient was dominated by ART medications (79% in 3MF, 87% in 3MC; 92% in 6MC), fol-
+ lowed by facility visits (12%, 5%, 5%, respectively) and viral load (8%, 8%, 2%, respectively).
+ When costs were stratified by district, DSD models cost slightly less, with 6MC the least expen-
+ sive in all districts. Savings were driven by differences in the number of facility visits made/
+ year, as expected, and low uptake of annual viral load tests in the 6-month arm. The total
+ annual cost to patients to obtain HIV care was $10.03 ($2) in the 3MF arm, $5.12 ($0.41) in the
+ 3MC arm, and $4.40 ($0.39) in the 6MF arm. For stable ART patients in Zimbabwe, 3- and 6-
+ month community-based multi-month dispensing models cost less for both providers and
+ patients than 3-month facility-based care and had non-inferior outcomes. 
+<section> President’s Emergency Plan for AIDS Relief
+ through EQUIP Health (agreement number AID-
+ OAA-A-15-00070 to Right to Care) and by the Bill &
+ Melinda Gates Foundation through OPP1192640 to
+ Boston University.
+ 
+<section> Competing interests: The authors have declared
+ that no competing interests exist.
+ 
+<section> Introduction
+ 
+<section> Zimbabwe, a country in southern Africa of just under 15 million people, has a high burden of
+ HIV infection, with a prevalence of more than 10% among adults [1, 2]. Great progress has
+ been made in expanding access to testing and treatment, care, with an estimated 78% of all
+ people living with HIV (PLHIV) on antiretroviral therapy (ART) [2]. Achieving the UNAIDS
+ 95-95-95 targets, however, will require both further expansion of the treatment program and
+ more efficient use of existing resources, as global donor support for HIV programs has pla-
+ teaued [3, 4].
+ One promising strategy for expanding access to HIV treatment, improving outcomes, and
+ increasing efficiency is the implementation and scale-up of differentiated service delivery
+ (DSD) models. DSD models aim to move away from a “one-size-fits-all” approach to HIV ser-
+ vice delivery and tailor care delivery to patient needs [5]. DSD models typically adjust the loca-
+ tion and frequency of service delivery, as well as the cadres of healthcare staff involved and
+ specific services provided [6]. Examples include, but are not limited to, community adherence
+ groups (CAGs), community-based medication pickup points, and multi-month dispensing
+ (MMD) of medications.
+ In addition to reducing the burden of care on patients and achieving (at least) non-inferior
+ clinical outcomes DSD models are expected to reduce costs for both patients and providers
+ [7–9]. A small number of recent studies from southern Africa suggest that some but not all
+ DSD models allow for modest provider cost savings; some models have been found to increase
+ provider costs–mostly due to a higher number of interactions required in the models of care
+ than observed in standard of care [10]. Nearly all DSD models studied have substantially
+ reduced costs to patients, but by varying amounts [7, 11]. To our knowledge, no estimates of
+ actual costs of DSD models in Zimbabwe have been published. Using data from a cluster ran-
+ domized trial, we evaluated the costs to providers and patients of community-based, multi-
+ month ART delivery models in Zimbabwe.
+ 
+<section> Methods
+ 
+<section> Study setting and interventions
+ 
+<section> We used resource and outcome data from a cluster randomized, non-inferiority trial of DSD
+ models for patients in Zimbabwe who met criteria as being stable on ART (S1 Table). The trial
+ has previously been described in detail [12]. ART is provided free of charge to eligible resi-
+ dents. Patients were considered stable if they had an undetectable viral load and had remained
+ on the same treatment regimen for at least 6 months. A total of 30 healthcare facilities (clus-
+ ters) were randomized to offer one of three DSD models: three-month dispensing at the facility
+ (3MF); three-month dispensing through a community ART refill group (3MC); or six-month
+ dispensing through a community ART refill group (6MC). 3MF was an enhanced version of
+ the standard of care at the time of the study in which patients visited a health facility every
+ months and received both a clinical consultation and a 3-month supply of ART at every visit.
+ The 3MF arm was thus more resource intensive than actual standard of care, which required
+ at least annual consultations only. The 3MC and 6MC arms utilized community ART refill
+ groups (CAGs) of 6–12 patients each. A rotating patient representative of the CAG visited the
+ facility and collected medications for all patients in the group every 3 or 6 months and then
+ distributed medications to other group members at quarterly community meetings. All
+ patients enrolled in CAGs were required to make a routine clinic visit for a consultation every
+ 12 months. Ethical permission for the study was granted by the Medical Research Council of 
+<section> Zimbabwe, together with approvals provided by the Research Council of Zimbabwe and the
+ Zimbabwe Ministry of Health and Child Care.
+ 
+<section> Outcomes
+ 
+<section> The primary study outcome was retention in care at 12 months, defined as 1-attrition. Attri-
+ tion included loss to follow-up and all-cause mortality; loss to follow-up was defined as not
+ collecting ART for �90 days during the follow-up period [12]. For this economic analysis, we
+ calculated: 1) the annual cost to the provider (healthcare system) per patient treated and per
+ patient retained; and 2) the annual cost to access care from the patient perspective.
+ 
+<section> Provider cost data collection and analysis
+ 
+<section> For the analysis from the provider perspective, we followed the same methodology as reported
+ in a sister study conducted in Lesotho [11]. We collected resource utilisation (visits, ART dis-
+ pensed and laboratory tests performed) from patient records over the study period. Our data
+ collection tool did not allow us to discern between scheduled facility and scheduled CAG visits.
+ To calculate the number of visits by type, we assumed that all scheduled visits in the conven-
+ tional care arm (3MF) were facility based. For the CAG arms, we assumed that two and one
+ the visits were facility visits for 3MC and 6MC, respectively.
+ 
+<section> Unit cost estimates
+ 
+<section> Costs are reported in 2020 USD (S2 Table). Provider costs included the ART provided, labora-
+ tory costs, facility costs and the cost of delivering a CAG interaction [13]. The cost of visits
+ were calculated as the average cost of delivering a facility visit and CAG interaction as found
+ microcosting studies in two other countries [10, 11]. Equipment costs were annualized at a dis-
+ count rate of 5% over their useful life years.
+ 
+<section> Patient cost data collection and analysis
+ 
+<section> For the costs incurred by patients, we considered the transport costs to and from facility and
+ CAG interactions, wages lost due to time seeking care and the total time patients spent access-
+ ing care. Data on patient costs were collected from a subset of 1,082 participants in all 3 study
+ arms through semi-structured interviews with an 11-item questionnaire at study enrolment
+ and the end of the 12-month follow-up period. Patients were asked about the number of visits
+ to DSD interactions, the time spent on travel to access care, travel cost and distance travelled.
+ We then used these data to estimate the average amount transport costs incurred for a patient
+ to access a facility visit or a CAG meeting. These costs were then multiplied, at the patient
+ level, by the respective number of facility visits and CAG meetings an individual attended.
+ We assigned a value of lost wages to the opportunity costs of accessing care either at a facil-
+ ity or a CAG visit. To do this, we assumed an average daily wage of daily GDP per capita,
+ which amounted to $1.50 per day, because Zimbabwe does not have a stated minimum wage
+ [14]. We assigned a full day’s wages lost for each facility visit and a quarter of a day’s wages lost
+ for each CAG meeting. This assumption was based on interviews with DSD implementors and
+ includes travel and waiting time for each DSD interaction [11].
+ 
+<section> Sensitivity analysis
+ 
+<section> To account for diffences in viral load availability at the time of the study, we calculated the
+ total provider cost if all participants who met the primary outcome (retained in care) were to
+ receive a viral load. In this analysis we therefore included the cost of one viral load and 
+<section> associated clinic visit for all patients who were retained in care but for whom no viral load was
+ recorded in the resource utilization dataset.
+ 
+<section> Results
+ 
+<section> The trial enrolled 4,800 participants (1,919 in 3MF, 1,335 in 3MC, and 1,546 in 6MC) (S1
+ Table). A detailed description of participants is provided elsewhere [12]. Of relevance to this
+ economic evaluation, most participants attended facilities in rural settings (80% in the 3MF
+ arm, 71% in the 3MC arm, and 78% in the 6MC arm). Employment differed significantly
+ between arms; 52% of 6MC, 40% of 3MF, and 24% of 3MC patients were employed. Most par-
+ ticipants in all arms lived within 9 km of the nearest healthcare facility, but a significant minor-
+ ity (27% in 3MF, 18% in both 3MC and 6MC) lived 9 km or more from the nearest facility.
+ The trial demonstrated non-inferiority of outcomes in the two community CAG arms,
+ compared to the facility-based arm. Retention in care at 12 months was highest in the 6MC
+ arm (95.5%), followed by 3MC (94.8%) and 3MF (93.0%).
+ 
+<section> Resource utilization and unit costs
+ 
+<section> Table 1 (panel a) presents average resource utilization per patient by study arm. The numbers
+ of interactions with the healthcare system per patient per year were roughly consistent with
+ model design: 5.01 visits per year in 3MF, 5.02 in 3MC, and 3.13 in 6MC. All five 3MF interac-
+ tions were visits to the healthcare facility, while only two were facility visits in the 3 and
+ 6-monthly CAG arms. CAG interactions (group meetings) in the two community-based arms
+ differed, with a mean of 3.05/patient/year in 3MC and 1.18/patient/year in 6MC.
+ Months of ART dispensed did not differ significantly among any of the arms, with partici-
+ pants receiving 11.39 months in 3MF, 11.51 in 3MC, and 11.28 in 6MC. The number of viral
+ load tests conducted—intended to average 1 per year—was very low in 6MC, with only 0.08
+ tests done per patient over the 12-month study period. This number rose to 0.49 and 0.45 in
+ the 3MC and 3MF arms, respectively.
+ We estimated the all-inclusive cost of a facility visit as $4.62 and of a CAG interaction as
+ $1.88. From existing literature, we assumed a cost of $14.42 per viral load test and $13.81 for
+ month of first-line ART [15].
+ 
+<section> Provider costs per patient
+ 
+<section> As shown in Table 1 (panel b), the mean annual cost to the provider per patient enrolled in the
+ study was highest in the 3MF arm at $187.04 (95% CI $185.31-$188.78), followed by 3MC at
+ $177.83 ($181.80–183.83) and 6MC at $167.40 (CI $165.44-$169.36). The same pattern held
+ for those retained in care, with the 3MF arm costing $195.06 (95% CI $194.11-$195.99) per
+ patient retained compared to $182.81 ($181.80-$183.83) in the 3MC arm and $172.81
+ ($171.30-$174.31) in the 6MC arm. Differences in costs (Table 1 panel c) between the facility-
+ based arm (3MF) and the two community-based arms were driven by differences in visit costs
+ —$23.98/patient/year in the 3MF arm compared to $9.23 and $9.22 in the 3MC and 6MC
+ arms respectively. The difference in cost between the 3MF and 6 MF models reflects both the
+ smaller number of CAG meetings in the 6MC model and, importantly, the small proportion
+ patients in 6MC who completed viral load tests during the year-long follow up period. This
+ further explored in the district-level analysis.
+ When stratified by setting (Table 2), we found that participants in urban settings inccurred
+ higher costs than those in rural settings (3MF: $196.35 vs $184.69, 3MC: $189.39 vs $173.11
+ 6MC: $171.00 vs $166.40) across all arms. Cost savings were more pronounced in the urban 
+<insert> Table 1. Average resource utilization, cost per patient per year and per patient retained, and cost to patients.
+ Outcome 3MF 3MC 6MC
+ n = 1,919 n = 1,335 n = 1,546
+ 5 to 3 to
+ Observed interactions per year 5.01 (1.00) 5.02 (0.84) 3.13 (0.71)
+ Facility visits per year 5.01 (1.01) 1.99 (0.12) 1.98 (0.15)
+ CAG meetings per year NA 3.05 (0.74) 1.18 (0.63)
+ Months of ART dispensed 11.39 (2.38) 11.51 (1.96) 11.28 (2.77)
+ Viral load tests conducted 0.49 (0.49) 0.45 (0.49) 0.08 (0.27)
+ $187.04 (185.31; 188.78) $177.83 (176.19; 179.46) $167.40 (165.44; 169.36)
+ ref -4.9% -10.5%
+ $195.06 (194.11; 195.99) $182.81 (181.80; 183.83) $172.81 (171.30; 174.31)
+ ref -6.3% -11.4%
+ $164.17 (163.39; 164.95) $163.45 (162.60; 164.30) $161.08 (159.60; 162.56)
+ $6.90 (6.57; 7.24) $6.43 (6.03; 6.82) $1.08 (0.89; 1.28)
+ $23.98 (23.82; 24.13) $9.23 (9.22; 9.24) $9.22 (9.21; 9.24)
+ $3.70 (3.67; 3.75) $1.42 (1.39; 1.46)
+ a. Resource utilization (mean, SD)
+ Expected interactions per year as per model design
+ b. Provider costs (mean, 95% CI)
+ Total annual cost per patient
+ Percent reduction
+ Total annual cost per patient retained
+ Percent reduction
+ c. Breakdown of costs for those retained in care
+ Annual cost of first line ART
+ Laboratory costs
+ Annual facility visit costs
+ CAG meeting costs
+ d. Costs to patients/year
+ Travel cost to facility $2.51 (2.48; 2.53) $0.99 (0.99;0.99) $0.99 (0.98; 0.99)
+ Wages lost due to facility visits $7.52 (7.45; 7.59) $2.98 (2.97; 2.99) $2.97 (2.95; 2.98)
+ Wages lost due to CAG meetings NA $1.14 (1.13; 1.16) $0.44 (0.43; 0.45)
+ Total per patient per year in care $10.03 (9.94; 10.12) $5.12 (5.09; 5.14) $4.40 (4.37; 4.42)
+ Percent reduction
+ Time spent travelling to clinic per year (hours)
+ ref -48.9% -56.1%
+ 13.35 (13.23;13.47) 5.29 (2.27;5.30) 5.26 (5.24;5.28)
+ 0.00 1.03 (1.02; 1.05) 24 (23; 25)
+ 13.35 (13.23;13.47) 6.32 (6.30; 6.35) 5.66 (5.64; 5.68)
+ Time spent travelling to CAG meetings per year (hours)
+ Total travel time per year (hours)
+ https://doi.org/10.1371/journal.pgph.0000493.t001 
+<iend>
+
+ 
+<section> setting between the 6MC and 3MF arm, while larger reductions in costs were observed among
+ rural participants when comparing the 3MC arm to 3MF.
+ 
+<section> Costs to patients
+ 
+<section> The average annual cost to patients to receive ART care was $10.03 (95% CI $9.94-$10.12) in
+ the 3MF arm, $5.12 ($5.09-$5.14) in the 3MC arm and $4.40 ($4.37–4.42) in the 6MC arm
+ (Table 1, panel d). Patient costs were driven by wages lost in attending facility visits, as each
+ visit was associated with losing an entire day’s wages, while CAG meetings only resulted in a
+ quarter of a day’s wages lost. Travel time followed a similar pattern: participants in the 3MF
+ arm averaged 13.35 hours (95% CI 13.23–13.47) of travel time for healthcare interactions per
+ year, while those in the 3MC and 6MC arms averaged only 6.32 (6.30–6.35) and 5.66 (5.64–
+ 
+<section> 5.68) hours, respectively.
+ 
+<section> Variability among districts
+ 
+<section> To understand variability in provider costs by location, we also estimated average provider
+ cost/patient retained in care by geographic district. Costs varied among districts by roughly
+ 10% in the 3MC arm, 7% in the 3MF arm; and 3% in the 6MC arm (Table 3). Variability
+ among districts was driven mainly by differences in viral load test utilization. The proportion 
+<insert> Table 2. Average resource utilization, cost per patient per year and per patient retained, and cost to patients by setting.
+ Outcome 3MF 3MC 6MC
+ Urban Rural Urban Rural Urban Rural
+ n = 1,532 n = n = 1,209
+ 5 to 5 to 3 to 3 to
+ a. Resource utilization (mean, SD)
+ Expected interactions per year as
+ per model design
+ Observed interactions per year 4.89 (0.61) 5.05 (1.08) 4.93 (0.46) 5.06 (0.95) 2.96 (0.43) 3.18 (0.76)
+ Facility visits per year 4.89 (0.61) 5.05 (1.08) 1.99 (0.10) 1.98 (0.12) 1.99 (0.11) 1.97 (0.16)
+ CAG meetings per year NA NA 2.95 (0.3) 3.09 (0.85) 0.98 (0.38) 1.23 (0.67)
+ Months of ART dispensed 11.63 (1.85) 11.34 (2.50) 11.82 (1.43) 11.38 (2.13) 11.59 (3.57) 11.19 (2.50)
+ Viral load tests conducted 0.96 (0.19) 0.36 (0.48) 0.96 (0.19) 0.22 (0.42) 0.03 (0.18) 0.09 (0.28)
+ $196.35
+ (193.42;199.47)
+ $184.69
+ (182.68;186.71)
+ $189.39
+ (187.13;191.64)
+ $173.11
+ (171.07;175.14)
+ $171.00
+ (165.68;176.34)
+ $166.40
+ (164.38;168.41)
+ b. Provider costs (mean, 95% CI)
+ Total annual cost per patient
+ Percent reduction ref ref -3.5% -6.3% -12.9% -9.9%
+ $200.59
+ (198.46;202.72)
+ $193.59
+ (192.55;194.63)
+ $192.03
+ (168.73;178.72)
+ $178.88
+ (177.63;180.14)
+ $173.72
+ (168.73;178.72)
+ $172.54
+ (171.24;173.85)
+ ref ref -4.3% -7.6% -13.4% -10.9%
+ Annual cost of first line ART $164.02
+ (162.24;165.79)
+ $164.21
+ (163.34;165.08)
+ $165.46
+ (164.36;166.57)
+ $162.59
+ (161.47;163.71)
+ $162.83
+ (157.86;167.80)
+ $160.58
+ (159.31;161.84)
+ Laboratory costs $13.61
+ (13.26;13.95)
+ $5.13 (4.77;5.49) $13.81
+ (13.52;14.10)
+ $3.28 (2.89;3.68) $0.48 (0.19;0.76) $1.26 (1.02;1.49)
+ Annual facility visit costs $22.96
+ (22.77;23.16)
+ $24.25
+ (24.06;24.43)
+ $9.23 (9.20;9.25) $9.23 (9.22;9.24) $9.24 (9.21;9.27) $9.22 (9.20; 9.24)
+ $3.53 (3.51;3.55) $3.78 (3.72;3.84) $1.17 (1.12;1.22) $1.49 (1.45;1.54)
+ Travel cost to facility $2.44 (2.41;2.47) $2.52 (2.50;2.55) $0.99 (0.98;1.00) $0.99 (0.99;1.00) $0.99 (0.98;1.00) $0.99 (0.98;0.99)
+ $2.97 (2.95; 2.98)
+ Total annual cost per patient
+ retained
+ Percent reduction
+ c. Breakdown of costs for those retained in care
+ CAG meeting costs
+ d. Costs to patients/year
+ Wages lost due to facility visits $7.33 (7.24;7.42) $7.56 (7.49;7.65) $2.98 (2.97;2.99) $2.98 (2.97;2.99) $2.97 (2.96; 3.00)
+ Wages lost due to CAG meetings NA NA $1.11 (1.10;1.12) $1.16 (1.14;1.18) $0.37 (0.35;0.38) $0.46 (0.45;0.48)
+ Total per patient per year in care $9.78 (9.66;9.90) $10.09 (9.98;10.20) $5.09 (5.06;5.12) $5.13 (5.10;5.16) $4.34 (4.32;4.37) $4.41 (4.39;4.43)
+ Percent reduction
+ Time spent travelling to clinic per
+ year (hours)
+ ref ref -47.9% -57.19% -55.62% -56.29%
+ 13.01 (12.85;13.18) 13.43 (13.29;13.58) 5.30
+ (5.27;5.32)
+ 5.27
+ (5.26;5.30
+ 5.29
+ (5.26; 5.32)
+ 5.25
+ (5.23; 5.28)
+ 0.00 0.00 1.00
+ (0.99; 1.01)
+ 1.05
+ (1.03;1.07)
+ 0.33
+ (0.32; 0.35)
+ 0.48
+ (0.41; 0.43)
+ 13.01 (12.85;13.18) 13.43 (13.29;13.58) 6.30
+ (6.26;6.33)
+ 6.33
+ (6.30;6.36)
+ 5.62
+ (5.59;5.66)
+ 5.67
+ (5.64;5.70)
+ Time spent travelling to CAG
+ meetings per year (hours)
+ Total travel time per year (hours)
+ https://doi.org/10.1371/journal.pgph.0000493.t002 
+<iend>
+
+ 
+<insert> Table 3. District level viral load utilization and provider costs.
+ District Gutu (n = 535) Zaka (n = 1,017) Mberengwa (n = 1,661) Beitbridge (n = 813) Chitingwiza (n = 774)
+ Proportion of participants receiving a viral load test during the 12-month follow up period (n, %)
+ 3MF 64 (20) 134 (25) 151 (43) 164 (88) 352 (96)
+ 3MC 13 (17) 131 (55) 26 (7) 34 (18) 362 (96)
+ 6MC 11 (17) 43 (24) 41 (5) 18 (4) –
+ Average provider cost per patient retained
+ 3MF $188.97 (1.6; 330) $192.31 (0.7; 546) $194.92 (0.8; 347) $202.98 (1.0; 188) $200.59 (1.1; 373)
+ 3MC $182.71 (0.8; 75) $186.40 (0.5; 238) $175.79 (0.9; 381) $174.45 (2.1; 193) $192.03(0.6; 378)
+ 6MC $177.43 (2.4; 66) $ 175.98 (1.3; 179) $171.75 (0.7; 816) $172.80 (2.2; 416) –
+ https://doi.org/10.1371/journal.pgph.0000493.t003 
+<iend>
+ 
+<insert> Table 4. Provider cost breakdown for those retained if all patients who were retained in care received viral load
+ testing.
+ Annual cost of first line ART
+ Laboratory costs
+ Annual facility visit costs
+ 3MF 3MC 6MC
+ n = 1,784 n = 1,265 n = 1,477
+ $164.17 (163.39; 164.95) $163.45 (162.60; 164.30) $161.08 (159.60; 162.56)
+ 14.42 14.42 14.42
+ $ 26.39 (26.21; 26.57) $11.79 (11.66; 11.92) $13.49 (13.43; 13.56)
+ CAG meeting costs $3.70 (3.67; 3.75) $1.42 (1.39; 1.46)
+ Total provider costs $204.98 (204.13; 205.83) 193.36 (192.49; 194.24) $190.42 (188.94; 191.90)
+ Percent reduction ref -5.7% -7.1%
+ https://doi.org/10.1371/journal.pgph.0000493.t004 
+<iend>
+
+ of patients receiving a viral load test varied widely by geographic district, as well as by study
+ arm, from a low of just 4% of patients in Beitridge District, which is primarily rural, in the
+ 6MC arm to a high of 96% of patients in Chintingwiza District, which is primarily urban, in
+ both study arms implemented there [12]. Differences in viral load utilization stemmed in part
+ from differential access to testing equipment—viral load testing capacity was being rolled out
+ in Zimbabwe at the time of the study and had not yet reached all the study districts. Even in
+ districts that appear to have had viral load testing capacity, however, such as Beitbridge,
+ patients in community models were generally less likely to have tests than were patients in the
+ facility-based model.
+ 
+<section> Sensitivity analysis
+ 
+<section> When assuming that all individuals retained in care receive a viral load (Table 4), the total
+ average cost to the provider increased across all arms (from $195.06 to $204.98 in 3MF;
+ $182.81 to $193.36 in 3MC; $172.81 to $190.42 in 6MC). The 3MF arm remained the most
+ costly at $204.98 (95% CI $204.13-$205.83) compared to $193.36 ($192.49-$194.24) and
+ $190.42 ($188.94-$191.90) in the 3MC and 6MC arm, respectively. Differences between arms
+ were smaller, with the 3MC decreasing from 6.3% in the primary analysis to a difference of
+ 5.7% when assuming full viral load access. The difference between the costs in the 3MF and
+ 6MC arms decreased from 11.4% in the primary analysis to 7.1% when assuming full viral load
+ access.
+ 
+<section> Discussion
+ 
+<section> In this economic evaluation of three differentiated models of ART delivery in Zimbabwe, we
+ found that both 3- and 6-monthly dispensing through community ART groups reduced costs
+ for both providers and patients, primarily by reducing the number of visits required to a
+ healthcare facility. For patients who meet eligibility criteria—those who are regarded as “sta-
+ ble” on ART—the two community models also achieved non-inferior retention in care, as pre-
+ viously reported [12]. They can thus both be regarded as cost-effective alternatives to facility-
+ based care with 3 month dispensing.
+ In interpreting this finding of cost-effectiveness, a number of provisos should be kept in
+ mind. First, cost savings per patient in the community models were relatively modest (5–
+ 10% less than the facility model), and, importantly, these savings will only be realized if
+ resource allocation at facilities is also adjusted. Fewer patient visits to a clinic, for example,
+ will only reduce healthcare budgets if the change allows the facility to pay for fewer human
+ and physical resources. In most cases, clinics do not have the ability to match their physical
+ space, staff complement, or other resources to relatively modest changes in demand for 
+<section> services, at least in the short term. Instead, the “savings” from enrolling patients in less
+ intensive models of care—here defined to mean those requiring fewer clinic visits—are
+ likely to be seen in shorter waiting times for patients, higher quality of care from clinicians,
+ more time available for activities including record-keeping and outreach, and/or more time
+ for staff breaks or shorter working hours. These changes (with the possible exception of the
+ last one) may be of great value to the health system and its patients, but they will not result
+ in monetary savings.
+ A second consideration is that one reason for the lower cost of the 6MC model, in particu-
+ lar, was the poor uptake of viral load testing in this arm. We believe the reasons to be a combi-
+ nation of geographic access—some districts did not yet have viral load testing capacity, and
+ 6MC was overrepresented in these districts—and the small number of clinic visits made by
+ 6MC patients. While we cannot be certain of the latter reason, the fact that two districts, Mber-
+ engwa and Beitridge, tested far more 3MF patients than 3MC or 6MC patients may indicate
+ need for more investment in compliance with annual viral load testing guidelines if patients
+ receive services in the community, rather than at a facility. A sensitivity analysis in which we
+ assumed that all patients who were retained in care received a viral load still showed cost-sav-
+ ings in the CAG arms, albeit more modest.
+ And third, while the trial and this analysis used the 3MF arm to represent standard of care
+ in Zimbabwe, the 3MF model in fact provided more care than currently is recommended by
+ national guidelines in Zimbabwe, which require only one clinical consultation a year. We thus
+ cannot be sure that true standard of care costs as much as the 3MF model analyzed here,
+ though our study design accounts for WHO guidelines that recommend clinical visits 3-
+ 6monthly for patients stable on ART [16].
+ Our findings that DSD models are potentially cost saving to both the provider and patient
+ while achieving similar results in retaining patients in care add to a small but growing evidence
+ base that at least some DSD models cost less than conventional, facility-based care. A parallel
+ study conducted in Lesotho reported a similar saving (6%) to providers and substantial savings
+ to patients [11], and a trial of facility-based MMD in Malawi and Zambia found that increasing
+ the dispensing interval can lead to small cost savings even if all interactions occur at a health
+ facility [7, 17]. A study of a variety of DSD models in Zambia, however, found that the models
+ considered were slightly more expensive than conventional care, probably because the models
+ did not reduce the resources required per patient treated. In all studies that have measured
+ them, savings to patients in time and money tend to be large, an important consideration even
+ if providers’ budgets are not affected [7, 18].
+ In addition to the considerations above, our study had two other limitations. First, the total
+ number of interactions per participant was captured in the study, but not the type of visit. The
+ breakdown of visits was therefore based on the model as recommended. Second, we did not
+ collect patient cost data on all patients and therefore had to assign costs on a per-visit basis by
+ visit type, based on average costs reported by the subset of participants who completed the
+ patient cost questionnaire.
+ Despite these limitations, this study demonstrates that in Zimbabwe, community ART
+ groups can save money for both providers and patients, particularly when combined with
+ 6-month dispensing, without compromising patient outcomes. The consistency of this finding
+ with those of other studies suggests that for stable, adult ART patients, offering community-
+ based models of care makes sense for the healthcare system. The next challenge will be to iden-
+ tify cost-effective models of care for patients who do not meet current criteria for stability,
+ such as a suppressed viral load or experience on ART, and for children, adolescents, and other
+ groups. 
+<section> Supporting information
+ 
+<section> S1 Table. Baseline characteristics of participants.
+ 
+<section> (DOCX)
+ 
+<section> S2 Table. Unit costs.
+ 
+<section> (DOCX)
+ 
+<section> S1 File. Inclusivity in global research questionnaire.
+ 
+<section> (PDF)
+ 
+<section> Author Contributions
+ 
+<section> Conceptualization: Brooke E. Nichols, Geoffrey Fatti, Sydney Rosen.
+ 
+<section> Data curation: Brooke E. Nichols, Salome Kuchukhidze, Kudakwashe Takarinda, Nicoletta
+ Mabhena-Ngorima, Ashraf Grimwood.
+ 
+<section> Formal analysis: Mariet Benade, Brooke E. Nichols, Salome Kuchukhidze, Sydney Rosen.
+ 
+<section> Investigation: Geoffrey Fatti, Sydney Rosen.
+ 
+<section> Methodology: Mariet Benade, Brooke E. Nichols, Sydney Rosen.
+ 
+<section> Project administration: Geoffrey Fatti.
+ 
+<section> Resources: Geoffrey Fatti.
+ 
+<section> Writing – original draft: Mariet Benade.
+ 
+<section> Writing – review & editing: Mariet Benade, Brooke E. Nichols, Geoffrey Fatti, Salome
+ Kuchukhidze, Kudakwashe Takarinda, Nicoletta Mabhena-Ngorima, Ashraf Grimwood,
+ Sydney Rosen.
+ 
+<section> References
+ 
+<section> World Bank. Population, total—Zimbabwe | Data. [cited 2 Nov 2021]. Available: https://data.worldbank.
+ org/indicator/SP.POP.TOTL?locations=ZW
+ UNAIDS. Zimbabwe | UNAIDS. [cited 11 May 2021]. Available: https://www.unaids.org/en/
+ 
+<section> regionscountries/countries/zimbabwe
+ UNAIDS. Fast-Track:Ending the AIDS Epidemic by 2030. 2014. Available: https://www.unaids.org/en/
+ resources/documents/2014/JC2686_WAD2014report
+ AVERT. Funding for HIV and AIDS. [cited 2 Nov 2021]. Available: https://www.avert.org/professionals/
+ 
+<section> hiv-around-world/global-response/funding
+ The CQUIN Project for Differentiated Service Delivery. ICAP Approach to Differentiated Service Deliv-
+ ery. New York; 2017. Available: https://cquin.icap.columbia.edu/resources/icap-approach-to-
+ 
+<section> differentiated-service-delivery/
+ World Health Organization (WHO). Consolidated guidlines on the use of antiretroviral drugs for treating
+ and preventing HIV infection. Geneva; 2016. Available: https://www.who.int/publications/i/item/
+ 
+<section> 9789241549684
+ Hoffman RM, Moyo C, Balakasi KT, Siwale Z, Hubbard J, Bardon A, et al. Multimonth dispensing of up
+ to 6 months of antiretroviral therapy in Malawi and Zambia (INTERVAL): a cluster-randomised, non-
+ blinded, non-inferiority trial. Lancet Glob Heal. 2021; 9: e628–e638. https://doi.org/10.1016/S2214-
+ 
+<section> 109X(21)00039-5 PMID: 33865471
+ Long L, Kuchukhidze S, Pascoe S, Nichols B, Cele R, Govathson C, et al. Differentiated models of ser-
+ vice delivery for antiretroviral treatment of HIV in sub-Saharan Africa: A rapid review protocol. Syst Rev.
+ 2019; 8. https://doi.org/10.1186/s13643-019-1210-6 PMID: 31810482
+ Long L, Kuchukhidze S, Pascoe S, Nichols BE, Fox MP, Cele R, et al. Retention in care and viral sup-
+ pression in differentiated service delivery models for HIV treatment delivery in sub-Saharan Africa: a 
+<section> rapid systematic review. J Int AIDS Soc. 2020; 23: e25640. https://doi.org/10.1002/jia2.25640 PMID:
+ 
+<section> 33247517
+ 
+<section> Nichols BE, Cele R, Jamieson L, Long LC, Siwale Z, Banda P, et al. Community-based delivery of HIV
+ treatment in Zambia: costs and outcomes. AIDS. 2021; 35: 299–306. https://doi.org/10.1097/QAD.
+ 
+<section> 0000000000002737 PMID: 33170578
+ 
+<section> Nichols BE, Cele R, Lekodeba N, Tukei B, Ngorima-Mabhena N, Tiam A, et al. Economic evaluation
+ differentiated service delivery models for HIV treatment in Lesotho: costs to providers and patients. J
+ AIDS Soc. 2021; 24: e25692. https://doi.org/10.1002/jia2.25692 PMID: 33838012
+ Fatti G, Ngorima-Mabhena N, Mothibi E, Muzenda T, Choto R, Kasu T, et al. Outcomes of Three- Ver-
+ sus Six-Monthly Dispensing of Antiretroviral Treatment (ART) for Stable HIV Patients in Community
+ 
+<section> ART Refill Groups: A Cluster-Randomized Trial in Zimbabwe. J Acquir Immune Defic Syndr. 2020; 84:
+ 162–172. https://doi.org/10.1097/QAI.0000000000002333 PMID: 32097252
+ Drummond MF, Sculpher MJ, Claxton K, Stoddart GL, Torrance GW. Methods for the Economic Evalu-
+ ation of Health Care Programmes. 4th ed. Oxford, United Kingdom; 2015. Available: https://books.
+ google.com/books?hl=en&lr=&id=yzZSCwAAQBAJ&oi=fnd&pg=PP1&ots=_bPbiI0rDL&sig=
+ STExm0X3ckTLWbojLXhf15fBVJs#v=onepage&q&f=false
+ 
+<section> World Bank. GDP (current US$)—Zimbabwe | Data. [cited 23 Jun 2021]. Available: https://data.
+ worldbank.org/indicator/NY.GDP.MKTP.CD?locations=ZW
+ 
+<section> Mavhu W, Willis N, Mufuka J, Bernays S, Tshuma M, Mangenah C, et al. Effect of a differentiated ser-
+ vice delivery model on virological failure in adolescents with HIV in Zimbabwe (Zvandiri): a cluster-ran-
+ domised controlled trial. Lancet Glob Heal. 2020; 8: e264–e275. https://doi.org/10.1016/S2214-109X
+ 
+<section> (19)30526-1 PMID: 31924539
+ 
+<section> World Health Organization. Consolidated guidelines on HIV prevention, testing, treatment, service
+ delivery and monitoring: recommendations for a public health approach. Geneva; 2021. Available:
+ https://www.who.int/publications/i/item/9789240031593
+ 
+<section> Prust ML, Banda CK, Nyirenda R, Chimbwandira F, Kalua T, Jahn A, et al. Multi-month prescriptions,
+ fast-track refills, and community ART groups: results from a process evaluation in Malawi on using dif-
+ ferentiated models of care to achieve national HIV treatment goals. J Int AIDS Soc. 2017; 20: 21650.
+ https://doi.org/10.7448/IAS.20.5.21650 PMID: 28770594
+ 
+<section> Prust ML, Kamanga A, Ngosa L, McKay C, Muzongwe CM, Mukubani MT, et al. Assessment of inter-
+ ventions to attract and retain health workers in rural Zambia: A discrete choice experiment. Hum Resour
+ Health. 2019; 17: 26. https://doi.org/10.1186/s12960-019-0359-3 PMID: 30943995

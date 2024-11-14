@@ -1,0 +1,1482 @@
+
+<section> RESEARCH
+ 
+<section> The 18‑month efficacy of
+ LifeStyle Modification Program
+ type 2 diabetes risk among
+ a cluster randomized controlled
+ 
+<section> Qinyi Zhong 1,2† Yao Chen 1† Mengchun Luo Qian Lin
+ Jyu‑Lin Chen Robin Whittemore 8 and Jia Guo 1*
+ 
+<section> Abstract
+ 
+<section> Background Many lifestyle interventions have demonstrated
+ improvements at longer-term follow-up is a well-recognized
+ The purpose of this study is to compare the 18-month efficacy
+ usual care in reducing the risk for type 2 diabetes (T2D) among
+ (GDM).
+ 
+<section> Methods We conducted a two-arm, cluster randomized
+ China. A total of 16 towns (clusters) in two distinct rural areas
+ per area) and assigned (1:1) to the intervention (Intensive
+ with stratification in the two rural areas. The strategies for
+ setting recursive goals and providing a supportive environment,
+ The primary outcome was a change in T2D risk; secondary
+ and psychological variables. All outcomes were collected
+ intention-to-treat analysis. Data were analyzed via generalized
+ the individual level, with subgroup analysis included in the
+ 
+<section> Results The sample included 320 women from 16 clusters
+ group demonstrated a significant improvement in T2D risk
+ circumference, intention to eat low glycemic index food, perceived
+ ronmental domains, and social support over time (p < 0.05)
+ analysis showed a significant interaction effect on T2D risk
+ and blood glucose (p < 0.05).
+ 
+<section> Conclusions Over 18 months, the Intensive LifeStyle Modification
+ with a history of GDM in China. Women who were overweight,
+ 
+<section> † Qinyi Zhong and Yao Chen contributed equally to this work.
+ 
+<section> *Correspondence:
+ 
+<section> Jia Guo
+ 
+<section> guojia621@163.com
+ Full list of author information is available at the end of the article
+ 
+<section> © The Author(s) 2023. 
+<section> Open Access This article
+ permits use, sharing, adaptation, distribution
+ original author(s) and the source, provide a
+ other third party material in this article are
+ to the material. If material is not included in
+ regulation or exceeds the permitted use, you
+ licence, visit http://​creat​iveco​mmons.​org/​licen​ses/​by/4.​0/.
+ mmons.​org/​publi​cdoma​in/​zero/1.​0/) applies
+ 
+<section> Open Access
+ 
+<section> an Intensive
+ 
+<section> (ILSM) to reduce
+ 
+<section> rural women:
+ 
+<section> trial
+ 
+<section> Jianghong Tan Shuiyuan Xiao James Allen Willey
+ efficacy up to one-year follow-up, yet maintaining
+ worldwide challenge, especially in underserved areas.
+ of an Intensive LifeStyle Modification Program to
+ women with a history of gestational diabetes mellitus
+ controlled trial among women with a history of GDM in
+ in south-central China were randomly selected (8 towns
+ LifeStyle Modification Program) or control (usual care) group
+ maintaining intervention effects were used (including
+ etc.) under the guidance of social cognitive theory.
+ outcomes included glycemic, weight-related, behavioral,
+ at baseline, 6, and 18 months. All participants entered the
+ estimation equation models (accounting for clusters) at
+ model.
+ (20 women per cluster). At 18 months, the intervention
+ score, fasting blood glucose, body mass index (BMI), waist
+ stress, quality of life in psychological and envi‑
+ based on the intention-to-treat analysis set. Subgroup
+ score in subgroups of different BMI, waist circumference,
+ Program reduced T2D risk among rural women
+ had high abdominal adiposity, or had blood glucose
+ 
+<section> is licensed under a Creative Commons Attribution 4.0 International License, which
+ and reproduction in any medium or format, as long as you give appropriate credit to the
+ link to the Creative Commons licence, and indicate if changes were made. The images or
+ included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+ the article’s Creative Commons licence and your intended use is not permitted by statutory
+ will need to obtain permission directly from the copyright holder. To view a copy of this
+ The Creative Commons Public Domain Dedication waiver (http://​creat​iveco​
+ to the data made available in this article, unless otherwise stated in a credit line to the data. 
+<section> intolerance benefited more from this intervention. This program
+ women with a history of GDM in low-resource settings worldwide.
+ 
+<section> Trial registration Registered on Chinese Clinical Trial Registry
+ chictr.​org.​cn/​showp​roj.​aspx?​proj=​25569
+ 
+<section> Keywords Woman, Gestational diabetes, Less-developed area,
+ controlled trial
+ 
+<section> Background
+ Type 2 diabetes (T2D) affects approximately 425 mil-
+ lion people worldwide and is projected to rise to
+ million by 2045, posing major health and economic
+ consequences [1]. Gestational diabetes mellitus (GDM)
+ history, as an independent T2D risk factor, confers a
+ seven-fold risk of developing T2D, with the prevalence
+ of GDM continuously increasing globally [2]. Inter-
+ national Diabetes Federation (IDF) recommends life-
+ style modification for individuals at elevated T2D risk
+ because of the low cost and scalability without side
+ effects. Many large-scale lifestyle trials around the world,
+ including Finland, Australia, India, and China, etc., have
+ successfully reduced the onset of diabetes among high-
+ risk people and/or their risk factors, such as overweight,
+ or obesity [3]. For women with a history of GDM, several
+ large landmark clinical trials such as the Diabetes Pre-
+ vention Program Outcomes Study also have shown that
+ lifestyle interventions can effectively prevent or delay the
+ onset of T2D [4].
+ However, maintaining lifestyle change over time is
+ a well-recognized worldwide challenge, and few stud-
+ ies investigated the sustainability of lifestyle change in
+ response to interventions [5, 6]. In a recent umbrella
+ review, the maximum benefit of lifestyle interventions for
+ weight management was typically achieved at 6-month
+ with a plateau or relapse reported over time, which sug-
+ gests that lifestyle intervention effects may diminish over
+ time [7]. In addition, according to a recent systematic
+ review, over 90% of existing lifestyle interventions were
+ conducted within 12-month follow-ups [8]. Current evi-
+ dence to support the longer-term (> 12 months) efficacy
+ of lifestyle interventions is limited.
+ In China, 15.5% of the total population is at high risk
+ of diabetes with the incidence of GDM reached 14.8% in
+ 2020 [9–11]. Among them, the vast majority live in rural
+ areas and are underserved due to socioeconomic dis-
+ advantages [12], which is not only reflected on limited
+ access to diabetes prevention services, but also deriving
+ less benefit from these services than urban population
+ [13]. It was estimated that the medical expenditures of
+ urban residents for diabetes prevention and treatment
+ are 2.97 times that of rural residents, with about
+ serves as a potential diabetes prevention model for
+ (ChiCTR1800015023) on 1st March 2018, http://​www.​
+ Prevention, Type 2 diabetes mellitus, Randomized
+ healthcare providers per thousand in urban areas com-
+ pared to six per thousand in rural areas in China [14],
+ which is often the case in other developing areas such as
+ Mexico, India, and Africa [15]. In addition, due to lower
+ level of health literacy [16], rural residents tend to have
+ difficulties in adopting and maintaining recommended
+ behavior changes after lifestyle interventions, which
+ may explain the rural-urban inequality of obtained ben-
+ efit from lifestyle interventions [17]. Therefore, more
+ sustainable diabetes prevention programs tailoring
+ underserved high-risk groups are urgently needed.
+ Before evidence-based interventions are imple-
+ mented into practice, it is necessary to consider modi-
+ fying the intervention for subgroups of the population
+ [18]. In a recent meta-analysis, lifestyle interventions
+ were more effective in women with both glycemic
+ intolerance and a history of GDM [19]. Yet, the relative
+ magnitude of the lifestyle intervention efficacy in spe-
+ cific subgroups (e.g., BMI and ethnicity) has not been
+ reported. Our research team contextually tailored the
+ Intensive LifeStyle Modification Program (ILSM) for
+ women with a history of GDM in low-resource rural
+ areas of China. It was guided by the Social Cognitive
+ Theory with active ingredients included promoting
+ behavior initiation and maintenance [20]. The detailed
+ description of the intervention is described in the
+ methods section. Our preliminary 6-month efficacy of
+ the ILSM showed significant improvement in glycemic
+ status, waist circumference, and quality of life (p < .001)
+ [21, 22]. Further subgroup analysis is needed to identify
+ the impact of ILSM to specific high-risk populations
+ along with determining its longer-term effects of ILSM
+ on sustained T2D risk reduction among an under-
+ served population.
+ The purpose of this study was to evaluate the
+ 18-month efficacy of ILSM for women with a history of
+ GDM on T2D risk score (as primary outcome), physi-
+ ological (including glycemic and weight-related out-
+ comes), and behavioral and psychosocial outcomes
+ compared to the control group. We also conducted sub-
+ group analyses, comparing women with different BMI,
+ waist circumference, and blood glucose to determine
+ the differential benefits of the ILSM. 
+<section> Methods
+ 
+<section> Study design
+ This study utilized a cluster randomized controlled
+ trial design to investigate the 18-month health impact
+ of ILSM among 320 women with a history of GDM in
+ rural China. The study was approved by the local ethics
+ committee and registered at the Chinese Clinical Trial
+ Registry. The details of the rationale, study and results
+ of the 6-month follow-up have been published else-
+ where [22, 23].
+ 
+<section> Setting and randomization
+ The study was conducted in Yongding County and You
+ County, Hunan Province in south-central China. Yong-
+ ding County comprising 17 towns, has a large ethnic
+ minority population (~ 50%, mainly Tujia and Miao pop-
+ ulation) in western Hunan Province; and You County
+ comprising 14 towns, has a large ethnic Han population
+ in eastern Hunan Province. The diversity (i.e., application
+ to different geographic locations, ethnic groups, health
+ care systems) of the included populations was used to
+ test whether the ILSM program could be generalized to
+ diverse underserved populations.
+ The town (cluster) was the unit of randomization, and a
+ randomization protocol available on the internet (http://​
+ statt​rek.​com/​stati​stics/​random-​number-​gener​ator.​aspx)
+ was used. No specific eligibility criteria for towns were
+ identified. Eight towns were randomly selected from each
+ county, yielding 16 towns. Following recruitment, the
+ towns were randomly allocated in a 1:1 ratio to either
+ the intervention or the control group with stratification
+ for the two counties, and each group included 8 towns
+ (4 towns per county). Considering the realistic resource
+ restriction in these towns (e.g., lack of resources in town-
+ level hospitals, shortage of health care providers), two
+ local county-level hospitals with the highest number
+ of pregnant and birth-giving women (one per county),
+ located in the center of the counties within a close dis-
+ tance from these towns, was chosen as the research sites
+ to implement the study.
+ 
+<section> Participants
+ 
+<section> Inclusion criteria were: 1) adult women with a history of
+ GDM; 2) 6 weeks to 10 years postpartum; 3) living in the
+ allocated towns and intending to live in these towns for
+ at least 3 years; 4) having telephone access, and 5) able
+ to read and speak in Mandarin Chinese. Exclusion crite-
+ ria were: 1) women who were pregnant or planned to be
+ pregnant within the next 3 years; 2) a diagnosis of diabe-
+ tes; and 3) other serious health problems, such as physi-
+ cal or cognitive disability.
+ Eligible women who delivered babies within the past
+ 10 years at the two research sites were identified through
+ a medical record review. Local registered nurses who
+ received standardized research protocol training con-
+ tacted potential participants via telephone or in-person
+ at a clinical visit. Nurses explained the research study
+ to interested women, confirmed their eligibility, and
+ obtained consent.
+ 
+<section> Interventions
+ The timeline of the intervention activities and measure-
+ ments for ILSM group and control group is showed in
+ Table 1. Both groups received usual care based on cur-
+ rent clinical guidelines, including general education
+ about their T2D risk as well as a T2D prevention educa-
+ tion brochure provided to each participant.
+ The intervention group also received the ILSM pro-
+ gram from eight trained local nurses following the ILSM
+ protocol reported elsewhere [23]. Before the ILSM pro-
+ gram, the nurses received a structured five-day train-
+ ing from the research team using the Train the Trainer
+ Model, which engages master trainers (research team
+ members) in coaching new trainers (eight local nurses)
+ to be competent to carry out the ILSM intervention. The
+ ILSM training entailed self-study, class sessions, and live
+ practice, with homework and practice between training.
+ The nurses were required to pass a final evaluation held
+ by our research team, which included a scenario simu-
+ lation test and a personal interview to ensure they were
+ equipped with essential intervention delivery skills.
+ Each nurse conducted the intervention for a group of
+ ~ 20 participants from the same town at the research-
+ designated hospitals. Participants were invited to attend
+ six biweekly group seminars (90 minutes) and eight tel-
+ ephone consultation sessions (20 minutes each). The
+ topics of group seminars included orientation and goal-
+ setting, healthy eating patterns, physical activity, stress
+ management, family support, family lifestyle patterns,
+ and relapse prevention and farewell [23]. All content in
+ the ILSM program was tailored to the context of rural
+ women with a history of GDM. During the intervention
+ period, a research assistant acted as a resource person
+ at each research site and attended all sessions to assess
+ intervention fidelity via a checklist (including evaluation
+ concerning four domains: adherence, exposure, qual-
+ ity of delivery, and participant responsiveness). More
+ details about the fidelity checklist are provided in Addi-
+ tional file 1: Appendix I.
+ To promote the long-term efficacy of the intervention,
+ a series of strategies such as setting recursion goals and
+ providing a environmental support, was used. For exam-
+ ple, participants were required to set various small and
+ easy-to-implement goals concerning health behavior at
+ the early stage of intervention to ensure their early behav-
+ ioral wins. These early wins help convince participants 
+<section> Measurement
+ 
+<section> point
+ 
+<section> ✓ □ □ □ □ □ □ □ □ □ □ □ □ ✓ ✓
+ 
+<section> h-OGTT; 
+<section> waist 
+<section> activity, 
+<section> intention 
+<section> perceived 
+<section> self-efficacy,
+ 
+<section> BMI, physical foods;
+ 
+<section> 2 FBG, outcomes: consumption, outcomes: general
+ glycemic-index
+ outcomes: outcomes:
+ score; 
+<section> life,
+ 
+<section> Measurements 
+<section> Outcomes 
+<section> risk 
+<section> T2D glycemic 
+<section> (3)weight-related circumference; 
+<section> behavior fruit/vegetable 
+<section> low 
+<section> psychological of quality support.
+ 
+<section> the eat stress, social
+ (1) (2) (4) to (5)
+ 
+<section> T2D 
+<section> to 
+<section> at 
+<section> group
+ their T2D 
+<section> provided
+ 
+<section> inform general control
+ 
+<section> was
+ the
+ to of education
+ session brochure in
+ participants
+ 
+<section> Group
+ 
+<section> Control care 
+<section> individual a and prevention baseline.
+ 
+<section> Usual risk, each
+ 
+<section> A
+ 
+<section> mins) lifestyle 
+<section> lifestyle 
+<section> lifestyle
+ 
+<section> 20 I-11 
+<section> healthy healthy healthy
+ 
+<section> (Each I-3 
+<section> I-5 
+<section> I-7 
+<section> I-9
+ 
+<section> for for for for for
+ 
+<section> measurements 
+<section> consultation prepare prepare prepare prepare prepare to to to
+ stick stick stick
+ 
+<section> and and and and and to to to
+ 
+<section> I-1 I-3 I-5 I-7 I-9 encourage encourage encourage
+ 
+<section> and Group 
+<section> Telephone review review review review review
+ 
+<section> activities (ILSM) □ □ 
+<section> I-2: □ 
+<section> I-4: □ 
+<section> I-6: □ 
+<section> I-8: □ 
+<section> I-10: I-12: I-13: □ 
+<section> I-14:
+ 
+<section> patterns farewell
+ 
+<section> Modification
+ 
+<section> intervention mins) 
+<section> goal-setting
+ 
+<section> 90 patterns 
+<section> lifestyle and
+ 
+<section> (Each management 
+<section> prevention
+ 
+<section> the LifeStyle and eating activity 
+<section> & support
+ 
+<section> seminar
+ 
+<section> of orientation
+ 
+<section> flowchart Intensive healthy physical stress family relapse
+ 
+<section> Group
+ 
+<section> □ 
+<section> I-1: □ 
+<section> I-3: □ 
+<section> I-5: □ 
+<section> I-7: □ 
+<section> I-9: □ 
+<section> I-11: □ □ □
+ 
+<section> The
+ 
+<section> 1-Week 
+<section> 2-Week 
+<section> 3-Week 
+<section> 4-Week 
+<section> 5-Week 
+<section> 6-Week 
+<section> 7-Week 
+<section> 8-Week 
+<section> 9-Week 
+<section> 10-Week 
+<section> 4-Month 
+<section> 5-Month 
+<section> 6-Month 
+<section> 18-Month 
+<section> that behavior change is possible, thus induced into a
+ recursive process and eventually sparking a positive and
+ continual behavior change loop. In addition, participants
+ were equipped with resources of health behavior change
+ during the intervention, and these resources create sup-
+ portive physical and psychological environment after
+ intervention. By interacting with these essential elements
+ and repeatedly reinforcing the desired behavior via envi-
+ ronment, long-term benefits will tend to persist and rein-
+ force the behavior change.
+ Due to the nature of educational and behavioral inter-
+ ventions, it was not feasible to blind participants and
+ local nurses (investigators), though data assessors were
+ blinded. Nurses and study participants were asked to sign
+ an agreement that they would not share the intervention
+ materials or protocol with others before the completion
+ of the study.
+ 
+<section> Outcome measures
+ Data were collected at baseline, 6-month, and 18-month.
+ At each visit, all participants were invited to complete
+ questionnaires on T2D risk assessment, lifestyle behavior,
+ and psychological outcomes. At baseline, all participants
+ also completed a demographic and clinical questionnaire.
+ Data were collected in a quiet room at the research site
+ by trained research assistants. At the same time, local
+ nurses collected blood samples and completed physical
+ examinations for physiological data. Data for women in
+ intervention and control groups were collected on sepa-
+ rate days to avoid contamination.
+ 
+<section> The demographic and clinical data included age, eth-
+ nicity, education, occupation, family income, and the
+ number of months after delivery.
+ 
+<section> Primary outcome: T2D risk score was the primary out-
+ come, as our target population was high T2D risk groups
+ with normal glycemia rather than populations with
+ impaired glucose tolerance. Adults with a high risk for
+ T2D and normal glycemia have limited room to improve
+ glycemic outcomes; thus, glycemic outcomes are unsuit-
+ able as a primary outcome. The T2D risk score was devel-
+ oped based on specific modifiable diabetes risk factors
+ (such as BMI, waist circumference, physical activity, and
+ dietary intake), and also includes some unmodifiable risk
+ factors, which is in line with the theoretical mechanism
+ of most diabetes prevention programs [24].
+ The T2D risk score was measured by the Chinese Dia-
+ betes Risk Scale (CHINARISK) [25], adapted from the
+ Canadian Diabetes Risk Questionnaire [26]. This scale
+ systematically combines modifiable and unmodifiable
+ diabetes risk factors in order to identify people who may
+ develop T2D in the next 10 years. Total scores range
+ from 0 to 88; higher scores represent a greater risk of
+ T2D. The questionnaire has a positive predictive value
+ of 57% and a negative predictive value of 78%, with a
+ sensitivity of 73% [25].
+ 
+<section> Secondary outcome: Glycemic outcomes included fast-
+ ing blood glucose (FBG) and 2 h Oral Glucose Tolerance
+ Test (OGTT) [27]. Venous blood samples were collected
+ after overnight fasting, followed by blood samples taken
+ 2 hours after consuming 75 g of glucose.
+ Weight-related outcomes included BMI and waist cir-
+ cumference. BMI was calculated by dividing body weight
+ (kilograms) by height squared (meters); Waist circumfer-
+ ence was measured at the midpoint between the highest
+ point of the iliac crest and the lowest rib according to
+ WHO standard [28].
+ 
+<section> Behavioral outcomes: Physical activity was assessed by
+ the validated Chinese version of the International Physi-
+ cal Activity Questionnaire (Short Form) [29]; Fruit/veg-
+ etable consumption was measured by an item on the
+ CHINARISK scale; The Intention to Eat Low Glycemic-
+ index Foods was assessed with a 24-item questionnaire
+ that uses a 7-point Likert scale, on which higher scores
+ indicate a greater intention to eat low glycemic-index
+ foods [30].
+ 
+<section> Psychological outcomes: Perceived stress was meas-
+ ured by the 14-item perceived stress scale [31]. Quality
+ of life was assessed using the WHOQOL-BREF question-
+ naire, which includes 26 items and evaluates physiologi-
+ cal, psychological, social relations, and environmental
+ domains of quality of life. General self-efficacy was meas-
+ ured using the 10-item general self-efficacy question-
+ naires [32]. Social support was measured using the
+ 10-item social support rating scale (SSRS) [33]. All the
+ measurements used in this study with well-documented
+ psychometric properties and have been used in Chinese
+ populations in China [34–37].
+ 
+<section> Statistical analysis
+ The analyses were done at the individual level in SPSS
+ (Version 22.0; Armonk, NY, United States). The double-
+ entry data method was adopted to ensure data accu-
+ racy via the EpiData 3.0 software (EpiData Association,
+ Odense, Denmark). All randomly assigned participants
+ 
+<section> (N = 320) entered the intention-to-treat analysis, which
+ means that the randomization groups were used in this
+ analysis, irrespective of any protocol violations. We
+ ensured that the outcomes for participants who withdrew
+ from the trial prior to the 6- or 18-month were retained
+ in the analysis.
+ The data were presented as means with SDs or as
+ counts with percentages. Descriptive statistics were used
+ to describe demographic and clinical characteristics. The
+ demographic and clinical data of the intervention and
+ control groups were compared using two independent
+ samples t-tests and Chi-square tests. Repeated measure 
+<section> analyses (three points) were conducted using a general-
+ ized estimating equation (GEE) model to compare the
+ differences between two groups in T2D risk scores, gly-
+ cemic, weight-related, behavioral, and psychological
+ variables from baseline to 18-month follow-up. GEEs
+ were developed as an extension of the general linear
+ model to analyze longitudinal and other correlated data.
+ GEE models take into account the correlation between
+ repeated measurements in the same subject; models do
+ not require complete data and can be fitted even when
+ individuals do not have observations at all time points
+ [38]. We added an interaction term (group by time) to
+ each model to investigate the interactive effects of inter-
+ vention and time. Models were performed unadjusted
+ and adjusted for age, months after delivery, ethnicity,
+ education, marriage, occupation, and family income. To
+ assess the potential effects of clustering, we calculated
+ the ­eta 2 coefficient for each of the three outcomes and
+ three time periods. The ­eta 2 values for FBG ranged from
+ 0.319 to 0.491. Coefficients for OGTT-2 h and the T2D
+ risk score were substantially smaller, ranging from 0.049
+ to 0.114. In general, larger e ­ ta 2 values are associated with
+ larger standard errors, wider confidence intervals, and
+ more conservative p-values. In order to adjust for such
+ effects, we used fixed effects GEE regression models
+ where the cluster itself is included as a factor within the
+ model.
+ To assess if the intervention effect was statisti-
+ cally different between subgroups, we conducted sev-
+ eral subgroup analyses for T2D risk scores: research
+ site (You County, Yongding County), ethnicity (Han,
+ minority), BMI (≤24 kg/ m2, > 24 kg/ m2), waist cir-
+ cumference (≤80 cm, > 80 cm), glucose dysregulation
+ 
+<section> (FBG ≤6.1 mmol/L or OGTT-2 h ≤7.8 mmol/L, FBG
+ > 6.1 mmol/L or OGTT-2 h > 7.8 mmol/L) and months
+ after delivery (≤12, > 12). We included interaction terms
+ (group by subgroup) in the GEE models to assess differ-
+ ences between subgroups.
+ 
+<section> Results
+ 
+<section> Baseline characteristics and participant retention
+ Eight towns were selected from each county, yielding a
+ total of 16 towns for this study. Recruitment included
+ a screening of 1789 individuals from these towns, of
+ which 757 (42.3%) were excluded due to not meeting the
+ inclusion criteria, 440 (24.6%) could not be reached; the
+ remaining 592 (33.1%) were eligible for further assess-
+ ment. Of these, 272 (45.95%) people declined partici-
+ pation due to lack of interest (215, 36.3%) or schedule
+ difficulties (57, 9.6%), and 320 with an average of
+ women per town enrolled. Followed by the intention-to-
+ treat principle, data analyses included all participants ran-
+ domly assigned to the intervention group (8 towns,
+ participants) or control group (8 towns, 160 participants),
+ no matter whether they completed follow-up measure-
+ ments or received assigned interventions. Participant flow
+ is presented in the CONSORT diagram (Fig. 1).
+ In the overall intention-to-treat sample, the mean age
+ (± SD) was 31.92 (± 4.91) years. About 55.3% were of
+ Han nationality, 48.8% had a senior high school or lower
+ level of education, and 20% lived with a monthly family
+ income lower than 425 dollars (~ 471 dollars, consid-
+ ered a low family income in China). The mean time after
+ delivery was 17.4 (± 7.2) months. Half of the participants’
+ waist circumference was over 80 cm, and the mean BMI
+ was 23.56 kg/m 2 (SD = 3.71). Demographic and clinical
+ characteristics did not differ between intervention and
+ control groups at baseline (p > 0.05). More detailed data
+ are provided in Table 2.
+ At the 6-month follow-up, 245 participants (76.6%)
+ completed measurements (127 in the ILSM group and
+ 118 in the control group); 287 participants (89.7%) com-
+ pleted measurements at 18-month follow-up (138 in the
+ ILSM group and 149 in the control group). The overall
+ attendance rate was 72% for the in-person sessions and
+ telephone consultations of the ILSM program. The final
+ program fidelity was 98%. There were no significant dif-
+ ferences between participants who completed measure-
+ ments and missed measurements on demographic and
+ clinical characteristics (p > 0.05).
+ 
+<section> Changes in T2D risk scores
+ Taking into account the three-time points and adjust-
+ ing for baseline variables and the cluster effect, there
+ was a significant decline in T2D risk scores in the inter-
+ vention group compared to the control group over time
+ (β = − 0.411 [95%CI -0.815, − 0.008]; p = 0.046, adjusted)
+ (Table 3 and Fig. 2).
+ 
+<section> Changes in glycemic and weight‑related outcomes
+ Participants in the intervention group experienced a
+ significant decline of 0.37 mmol/L in FBG compared
+ with 0.09 mmol/L in the control group from baseline to
+ 18-month follow-up (β = −.169 [95%CI −.252, −.087];
+ p<.001, adjusted). There were no significant differences
+ in OGTT-2 h between groups over time, yet OGTT-2 h
+ had a 0.1 mmol/L decline in the intervention group with
+ an increase of 1.11 mmol/L in the control group (β = .034
+ 
+<section> [95%CI −.081, −.031]; p = .157, adjusted).
+ There was a significant decrease of 1.07 kg/m 2 in BMI
+ in the intervention group compared with a decrease of
+ 0.64 kg/m 2 in the control group (β = −.194 [95%CI −.373,
+ 
+<section> −.015]; p = 0.034, adjusted) at 18-month follow up. The
+ percentage of participants with a waist circumference
+ over 80 cm also significantly declined (β = −.182 [95%CI
+ 
+<section> −.358, −.004]; p = .045, adjusted) in the intervention 
+<insert> Fig. 1 CONSORT flow diagram 
+<iend>
+
+ group compared to the control group (18.90% in interven-
+ tion group vs. 4.30% in control group) (Table 3 and Fig. 2).
+ 
+<section> Changes in behavioral outcomes
+ We found a significant improvement of the intention
+ to eat low-glycemic index food in the intervention
+ group, whereas it declined in the control group over
+ 18 months (+ 6.64 points vs. -2.28 points; β = 2.879
+ 
+<section> [95%CI −.776, .224]; p = 0.003, adjusted) (Table 3).
+ However, no significant differences were observed in
+ moderate and high physical activity levels (β = − 0.129
+ 
+<section> [95%CI -0.485, 0.227]; p = .477, adjusted).
+ 
+<section> Changes in psychosocial outcomes
+ The intervention group participants reported a significant
+ decrease in perceived negative stress, while the control 
+<insert> Table 2 Baseline characteristic by groups
+ Variables Total (N = 320) Intervention group (n = 160) Control group (n = 160)
+ Age, years 31.92 (4.91) 32.14 (5.03) 31.71 (4.79)
+ Han ethnic group 177 (55.3%) 85 (53.1%) 92 (57.5%)
+ Ethinic minority (non-Han) 143 (44.7%) 75 (46.9%) 68 (42.5%)
+ Junior high school and below 68 (21.3%) 30 (18.8%) 38 (23.7%)
+ Senior high school 88 (27.5) 42 (26.2) 46 (28.8)
+ College and above 164 (51.2%) 88 (55.0%) 76 (47.5%)
+ Part-time job or no job 123 (38.4%) 54 (33.8%) 69 (43.1%)
+ Full-time job 197 (61.6%) 106 (66.2%) 91 (56.9%)
+ b Ethnicity
+ Education
+ Occupation
+ c Family income per month
+ < 3000 RMB (425 dollars) 63 (19.7%) 30 (18.8%) 33 (20.6%)
+    ≥ 3000 RMB (425 dollars) 257 (80.3%) 130 (81.3%) 127 (79.4%)
+ Months after delivery 17.62 (17.17) 17.43 (16.50) 17.84 (17.99)
+ T2D Risk score, points (Range 0–88) 24.72 (6.82) 24.77 (6.47) 24.68 (7.18)
+ FBG, mmol/L 5.13 (0.60) 5.23 (0.61) 5.04 (0.58)
+ OGTT-2 h, mmol/L 6.22 (1.47) 6.48 (1.44) 5.96 (1.47)
+ BMI, kg/m 23.65 (3.57) 23.75 (3.44) 23.56 (3.71)
+ Waist circumference > =80 cm 160 (50%) 87 (54.1%) 73 (49.1%)
+ Moderate-high physical activity 250 (78.1%) 124 (77.5%) 126 (78.8%)
+ Perceived Stress, points 24.34 (7.18) 25.15 (6.83) 23.54 (7.45)
+ negative domain (Range 7–35) 11.85 (4.15) 12.26 (4.02) 11.44 (4.25)
+ positive domain (Range 7–35) 12.49 (4.78) 12.88 (4.80) 12.09 (4.74)
+ Physiological domain (Range 4–20) 13.19 (1.69) 13.01 (1.65) 13.37 (1.71)
+ Psychological domain (Range 4–20) 13.27 (1.92) 12.83 (1.81) 13.69 (1.94)
+ Social relationship domain (Range 4–20) 14.89 (2.04) 14.65 (2.07) 15.12 (1.98)
+ Environmental domain (Range 4–20) 12.49 (1.80) 12.18 (1.59) 12.79 (1.94)
+ Social Support, points (Range 12–66) 44.70 (5.59) 44.44 (5.62) 44.97 (5.57)
+ General Self-Efficacy, points (Range 10–40) 25.44 (5.87) 25.69 (5.91) 25.20 (5.83)
+ Quality of Life, points
+ a Data are presented as n (%) or n/N (%), or mean (SD)
+ b We divided the ethnicity into two categories: Han ethnic group and Ethnic minorities (non-Han, including Tujia, Miao, Hui and other 52 minorities). Compared with
+ Han ethnic group, ethnic minorities have their own distinctive ways of lifestyle, culture, religions, and history
+ c The average number of family members is 4.86 for the total sample, 4.71 for ILSM group, and 5.01 for control group 
+<iend>
+
+ group reported an increase in perceived negative stress over
+ time (β = −.444 [95%CI −.858, −.029]; p = 0.036, adjusted).
+ A significant improvement in quality of life in psychologi-
+ cal and environmental domains was demonstrated in the
+ intervention group compared to the control group over
+ time (β = .464 [95%CI .219, .709]; p<.001, adjusted; β = .335
+ 
+<section> [95%CI .116, .554]; p = .003, adjusted, respectively). The
+ intervention group also reported significantly more social
+ support compared to the control group over time (β = .747,
+ 
+<section> [95%CI .131, 1.364]; p = .018, adjusted). (Table 3).
+ 
+<section> Changes in T2D risk scores by subgroups
+ In the subgroup analysis, the intervention was more
+ effective for women with BMI > 24 kg/ m2 (95% CI − 4.42
+ to − 1.98, p = .049), waist circumference > 80 cm (95%
+ 
+<section> CI, − 4.55 to − 2.19, p = .012) and blood glucose intoler-
+ ance (95% CI, − 1.85 to 1.46, p = .044) compared to those
+ who had relatively normal BMI, waist circumference and
+ blood glucose at 18 months. Figure 3 displays the results
+ of the subgroup analyses in T2D risk scores and BMI at
+ 18-month. 
+<insert> Table 3 The 18-Month Efficacy of the Intensive Lifestyle Modification Program on T2D risk scores, Glycemic, Weight-related,
+ Behavioral, and Psychosocial Outcomes: the GEM ­trial a
+ Intervention
+ Group
+ (n = 160)
+ Control Group (n = 160) Generalized Estimation Equation Model
+ Unadjusted Intervention Effect
+ β (95%CI)
+ Adjusted Intervention Effect
+ p-value β (SE) p-value 
+<iend>
+
+ 
+<section> T2D Risk Score, points 
+<section> −0.379 (−0.753 to − 0.004) 0.047 
+<section> − 0.411 (− 0.815 to − 0.008) 0.046
+ 
+<section> Baseline 
+<section> 24.77 (6.47) 
+<section> 24.68 (7.18)
+ 
+<section> 6-Month 
+<section> 21.99 (4.65) 
+<section> 23.27 (6.30)
+ 
+<section> 18-Month 
+<section> 22.04 (5.68) 
+<section> 22.85 (6.13)
+ 
+<section> FBG, mmol/L 
+<section> −0.172 (− 0.240 to − 0.104) <.001 
+<section> − 0.169 (− 0.252 to − 0.087) <.001
+ 
+<section> Baseline 
+<section> 5.23 (0.61) 
+<section> 5.04 (0.58)
+ 
+<section> 6-Month 
+<section> 4.93 (0.99) 
+<section> 5.06 (0.77)
+ 
+<section> 18-Month 
+<section> 4.86 (0.70) 
+<section> 5.13 (0.89)
+ 
+<section> OGTT-2 h, mmol/L 
+<section> −0.090 (−0.241 to 0.061) 
+<section> 0.241 
+<section> −0.101 (− 0.293 to 0.091) 
+<section> 0.303
+ 
+<section> Baseline 
+<section> 6.48 (1.44) 
+<section> 5.96 (1.47)
+ 
+<section> 6-Month 
+<section> 6.00 (1.60) 
+<section> 6.12 (1.72)
+ 
+<section> 18-Month 
+<section> 6.38 (1.62) 
+<section> 6.07 (1.93)
+ 
+<section> BMI, kg/m 
+<section> −0.188 (−0.367 to −0.009) 0.039 
+<section> −0.194 (− 0.373 to − 0.015) 0.034
+ 
+<section> Baseline 
+<section> 23.75 (3.44) 
+<section> 23.56 (3.71)
+ 
+<section> 6-Month 
+<section> 22.37 (3.94) 
+<section> 21.83 (3.56)
+ 
+<section> 18-Month 
+<section> 22.70 (2.92) 
+<section> 22.90 (3.22)
+ 
+<section> Waist Circumference > =80 cm, rate% 
+<section> −0.179 (−0.357 to −0.002) 0.047 
+<section> −0.182 (− 0.358 to − 0.004) 0.045
+ 
+<section> Baseline 
+<section> 54.10% 
+<section> 49.10%
+ 
+<section> 6-Month 
+<section> 33.60% 
+<section> 35.30%
+ 
+<section> 18-Month 
+<section> 35.20% 
+<section> 44.80%
+ 
+<section> Total physical activity level, moderate or high, rate% week 
+<section> −0.185 (−0.444 to 0.074) 
+<section> 0.161 
+<section> −0.129 (− 0.485 to 0.227) 
+<section> 0.477
+ 
+<section> rate%
+ 
+<section> Baseline 
+<section> 124 (77.5%) 
+<section> 126 (78.8%)
+ 
+<section> 6-Month 
+<section> 138 (86.3%) 
+<section> 135 (84.3%)
+ 
+<section> 18-Month 
+<section> 145 (90.6%) 
+<section> 137 (85.6%)
+ Intention to eat low glycemic index food 2.714 (0.897 to 4.531) 0.003 2.879 (0.650 to 5.107) 0.011
+ 
+<section> Baseline 
+<section> 108.98 (20.67) 
+<section> 106.78 (21.15)
+ 
+<section> 6-Month 
+<section> 111.37 (17.60) 
+<section> 107.98 (20.15)
+ 
+<section> 18-Month 
+<section> 115.62 (17.41) 
+<section> 104.5 (21.16)
+ 
+<section> Perceived Stress 
+<section> −0.539 (−1.143 to 0.066) 
+<section> 0.081 
+<section> −0.605 (−1.355 to 0.145) 
+<section> 0.114
+ 
+<section> Baseline 
+<section> 25.15 (6.83) 
+<section> 23.54 (7.45)
+ 
+<section> 6-Month 
+<section> 23.91 (7.16) 
+<section> 24.06 (6.53)
+ 
+<section> 18-Month 
+<section> 23.34 (6.46) 
+<section> 23.71 (7.23)
+ Negative domain 
+<section> −0.339 (−0.697 to 0.019) 0.064 
+<section> −0.444 (− 0.858 to − 0.029) 0.036
+ 
+<section> Baseline 
+<section> 12.26 (4.02) 
+<section> 11.44 (4.25)
+ 
+<section> 6-Month 
+<section> 12.01 (4.52) 
+<section> 11.68 (3.64)
+ 
+<section> 18-Month 
+<section> 11.56 (3.95) 
+<section> 12.02 (3.68)
+ Positive domain 
+<section> −0.245 (−0.685 to 0.194) 0.274 0.128 (−0.689 to 0.433) 0.654
+ 
+<section>   Baseline 
+<section> 12.88 (4.80) 
+<section> 12.09 (4.74)
+ 
+<section>   6-Month 
+<section> 11.90 (4.79) 
+<section> 12.38 (4.94)
+ 
+<section>   18-Month 
+<section> 11.78 (4.96) 
+<section> 11.68 (5.14)
+ 
+<section> Quality of life
+ 
+<section> Physiological domain 0.057 (−0.128 to 0.242) 0.548 0.165 (− 0.060 to 0.390) 0.150
+ 
+<section>   Baseline 
+<section> 13.01 (1.65) 
+<section> 13.37 (1.71)
+ 
+<section>   6-Month 
+<section> 14.72 (1.97) 
+<section> 14.73 (1.82)
+ 
+<section>   18-Month 
+<section> 14.70 (1.98) 
+<section> 14.97 (1.89) 
+<insert> Table 3 (continued)
+ Intervention
+ Group
+ (n = 160)
+ Control Group (n = 160)
+   Baseline 12.83 (1.81) 13.69 (1.94)
+   6-Month 14.24 (2.13) 14.23 (2.03)
+   18-Month 14.55 (2.20) 14.28 (2.10)
+   Baseline 14.65 (2.07) 15.12 (1.98)
+   6-Month 15.09 (2.46) 15.27 (1.93)
+   18-Month 15.14 (2.13) 15.33 (1.71)
+   Baseline 12.18 (1.59) 12.79 (1.94)
+   6-Month 14.03 (2.11) 13.77 (2.05)
+   18-Month 14.43 (2.23) 14.24 (1.93)
+ Baseline 44.44 (5.62) 44.97 (5.57)
+ 6-Month 44.13 (6.41) 44.23 (6.47)
+ 18-Month 45.99 (6.08) 45.29 (6.00)
+ Baseline 25.69 (5.91) 25.20 (5.83)
+ 6-Month 24.64 (5.03) 24.89 (5.00)
+ 18-Month 25.42 (5.89) 25.71 (5.35)
+ Psychological domain
+ Social relationship domain
+ Environmental domain
+ Social Support
+ General Self-Efficacy
+ a Models were adjusted for age, months after delivery, ethnicity, education (two levels:
+ (two levels: part-time job or no job, and full-time job), family income (two levels:≤3000 
+<iend>
+
+ 
+<section> Discussion
+ In this study, we demonstrated that ILSM significantly
+ reduced T2D risk scores and obtained statistically sig-
+ nificant benefits for FBG, BMI, and intention to eat low-
+ index glycemic food at an 18-month follow-up based
+ on the intention-to-treat analysis. This is encouraging
+ as previous studies reported that the benefit of lifestyle
+ interventions for diabetes prevention was typically sus-
+ tained at 6 to 12 months [7]. This exciting result may
+ suggest that early behavior interventions are expected to
+ touch off a series of reciprocally reinforcing recursions
+ and interactions via goal setting and ongoing environ-
+ mental support, eventually driving intervention influence
+ over time. Also, we found that women who were over-
+ weight, had abdominal adiposity, or had blood glucose
+ intolerance at baseline benefited more from the ILSM,
+ thus identifying the targeted population for future imple-
+ mentation. In addition, this program indicated the poten-
+ tial of local nurses in providing lifestyle and preventive
+ interventions in primary care centers. Overall, the tai-
+ lored lifestyle intervention program was demonstrated to
+ be effective in diabetes prevention for women with prior
+ GDM in a low-resource rural setting. The model of care
+ may be considered in other settings and counties.
+ 
+<section> Generalized Estimation Equation Model
+ 
+<section> Unadjusted Intervention Effect Adjusted Intervention Effect
+ 
+<section> β (95%CI) p-value β (SE) p-value
+ 
+<section> 0.380 (0.177 to 0.583) <.001 0.464 (0.219 to 0.709) <.001
+ 
+<section> 0.113 (−0.078 to 0.304) 0.245 0.151 (−0.083 to 0.385) 0.206
+ 
+<section> 0.293 (0.110 to 0.476) 0.002 0.335 (0.116 to 0.554) 0.003
+ 
+<section> 0.371 (−0.121 to 0.864) 0.139 0.747 (0.131 to 1.364) 0.018
+ 
+<section> −0.250 (−0.793 to 0.293) 0.367 −0.113 (− 0.784 to 0.558) 0.742
+ Senior high school and below and College and above) marriage, occupation
+ RMB and > 3000RMB per month), and cluster
+ 
+<section> Consistent with our result in the six-month follow-
+ up, the intervention effect on reducing T2D risk scores
+ was sustained at 18-month [21]. The longer-term main-
+ tenance of reduction in T2D risk score could be attrib-
+ uted to the lasting improvement of these modifiable T2D
+ risk factors, such as behavioral and psychosocial factors.
+ Our results are similar to prior studies that support the
+ mediating effect of improvement of health behaviors
+ and psychosocial variables on T2D risk reduction [39].
+ Subsequent decreases in BMI and waist circumference
+ which were classified as modifiable T2D risk factors also
+ decreased T2D risk scores.
+ Improvement of glucose markers has been identified as
+ the key indicator of delaying progression to T2D among
+ people with dysglycemia [40]. In this study, we observed
+ significant improvement for FBG at 18-month, which was
+ also found in our 6-month result. The long-lasting effect
+ of ILSM may be explained by sustained lifestyle changes
+ of rural women with prior GDM after intervention [41].
+ However, the long-term glycemic benefits obtained
+ in ILSM was inconsistent with the finding of a recent
+ meta-analysis, in which no benefit was found regard-
+ ing measures of glycemia [42]. The plausible explana-
+ tion is included interventions lacked explicit theoretical 
+<insert> Fig. 2 Indicated the change in FBG (fast blood glucose), BMI (body mass index), waist circumference and diabetes risk between two groups over
+ 18-months 
+<iend>
+
+ 
+<insert> Fig. 3 Forest plot of intervention effect at 18 months on T2D risk scores and BMI by subgroup. Interaction between intervention group and
+ subgroup 
+<iend>
+ 
+<section> frameworks of behavior change maintenance, which
+ could provide guidance on the development and evalu-
+ ation of interventions promoting sustained change in
+ health behaviors [43, 44]. In terms of OGTT-2 h, the sig-
+ nificant difference between two groups was not detected
+ at 18-month follow up, though it was improved at
+ 6-months. The differential efficacy may be due to limited
+ improvement room for OGTT-2 h [21], as the majority
+ of women with GDM returned to normal glycemic lev-
+ els without specific intervention in the year after delivery
+ based on current evidence [45]. The early return to nor-
+ mal glycemic levels could potentially reduce the adverse
+ effect of high glycemic levels on women’s health [46].
+ Over 18 months, a significant reduction in BMI and
+ waist circumference were determined in the intervention
+ group compared with the control group. However, con-
+ sistent with most previous studies, the maximum reduc-
+ tion was achieved at 6-month with a plateau occurred
+ after 6 months [47, 48]. According to the American Dia-
+ betes Association’s Adult Weight Management Evidence-
+ Based Nutrition Practice Guideline, interventions for
+ weight loss should last at least 6 months with a weight-
+ maintenance program [47]. In our study, we provided
+ three-month intensive core intervention as well as three
+ monthly phone calls as the maintenance component
+ for participants, in order to prevent weight regain with-
+ out ongoing support [49]. As a result, the maintenance
+ of BMI and waist circumference was demonstrated in
+ the ILSM group, while these weight-related outcomes
+ returned to baseline in the control group.
+ At 18-month, we found that women in the ILSM group
+ have increased intentions to eat low glycemic-index
+ food (e.g., dark green leafy vegetables, fish and seafood,
+ whole grains or mixed) compared with the control group,
+ although this difference between groups was not dem-
+ onstrated at 6-months [50]. This may be because the
+ adaptation of new eating habits is a complex and gradual
+ process, and the increased intention to eat low glycemic-
+ index food intake may have taken longer. In the dietary
+ sessions of the ILSM, the optimization of carbohydrate
+ composition was also included in the ILSM intervention
+ by recommending low glycemic-index food to avoid fluc-
+ tuations in post prandial blood glucose levels [51].
+ The difference in physical activity was not statistically
+ significant between the two groups over 18 months.
+ Similar results were also reported in other lifestyle inter-
+ ventions for women with a history of GDM. According
+ to literature, barriers to exercise among this population
+ include competing demands for childcare, career pres-
+ sure and family responsibility as well as an established
+ ethic of care that prioritizes the needs of others (e.g.,
+ family and friends) above their own [6, 42], although
+ they believe that physical activity is important in the
+ prevention of T2DM. It also suggests additional strate-
+ gies, such as activity monitoring or group support, may
+ be needed to increase physical activity in this population.
+ We found significant improvement in social support
+ and perceived stress over 18 months, which is con-
+ sistent with other studies [6, 52]. The ILSM program
+ included sessions on family support and stress coping.
+ The importance of involving all family members in dia-
+ betes prevention efforts was emphasized and a wide
+ range of psychological strategies were provided, in
+ order to develop sustainable healthy lifestyles with the
+ help of their family [53] and help participants magnify
+ their positive experiences and contribute to women’
+ confidence in coping with stressful situations [23, 54].
+ Consequently, the ILSM group participants obtained
+ more psychological resources; thus, their QoL in the
+ psychological domain also improved at longer-term
+ follow-up.
+ The results of our subgroup analyses suggest that
+ women with glycemic intolerance and overweight or
+ abdominal obese women are more sensitive to the
+ ILSM than women with relatively normal blood glucose,
+ weight, and waist circumference in reducing T2D risk
+ score. As glycemic markers and weight-related outcomes
+ are important predictive indicators for future T2D risk,
+ and women with glycemic intolerance or weight issues
+ have a higher risk for T2DM. This intervention is particu-
+ larly helpful in reducing their risk. Thus, we can reason-
+ ably infer that higher-risk groups may benefit more from
+ lifestyle intervention programs as their physical health is
+ in jeopardy, and they have more room for improvement
+ in terms of glycemic level and weight [55].
+ This study is one of the few intervention studies with
+ a long-term follow-up. This study has several strengths.
+ First, we conducted a multi-dimensional evaluation of
+ an evidence-based intervention, adapted to the local
+ context, and adhered to the theoretical framework of
+ behavior maintenance. Second, we designed a contex-
+ tually-tailored lifestyle intervention, which was imple-
+ mented effectively by local nurses with few resources;
+ thus, it provides the possibility to improve primary
+ healthcare in impoverished health system. More impor-
+ tantly, the ILSM may be used as a model for design-
+ ing health-related interventions at underserved public
+ health settings. Lastly, a robust RCT study design, includ-
+ ing cluster randomization, excellent protocol imple-
+ mentation, and well-validated questionnaires are study
+ strengths.
+ There were several study limitations. Due to budget
+ and energy constraints, the sample size was calculated
+ based on the power of our primary outcome; thus,
+ we may not have enough power to detect meaning-
+ ful, significant differences in all outcomes. Second, the 
+<section> improvement of the ILSM group may be due to the fact
+ that they were given more attention (six biweekly group
+ seminars and eight telephone consultation sessions)
+ than the control group who did not have the same time
+ engagement. Thirdly, the self-report measurements for
+ physical activity may have recall bias. Lastly, the findings
+ of subgroup analysis should be considered exploratory
+ and should not be over-interpreted given the number of
+ comparisons reported. Future researches are needed to
+ 
+<section> confirm our findings.
+ 
+<section> Despite these limitations, our findings have several
+ implications. First, it is important to modify lifestyle
+ interventions to the context of women’s lives and to
+ address their barriers to long-term lifestyle change. For
+ example, maintenance interventions via smartphones
+ may be feasible in this population; and strategies that
+ promote self-directed behavior change could be incor-
+ porated [56]. In addition, studies with larger sample sizes
+ to detect changes in behavioral or other outcomes are
+ needed. Lastly, the ILSM program has the potential to be
+ served as an effective model of diabetes prevention for
+ high-risk groups in underserved settings.
+ 
+<section> Conclusion
+ 
+<section> In conclusion, the ILSM provided robust evidence to
+ support lifestyle interventions in preventing T2D wasn’t
+ weakened by time, but can preserve and strengten it
+ over 18 months in women with a history of GDM in low-
+ resource rural settings in China. Women with a history
+ of GDM who are currently overweight, have abdominal
+ adiposity, or have blood glucose intolerance may benefit
+ more from a lifestyle program and should be the targeted
+ population for further dissemination and implemen-
+ tation. This program is a promising model of diabetes
+ prevention, reducing health disparities in low-resource
+ settings about diabetes prevention globally.
+ 
+<section> Abbreviations
+ 
+<section> BMI	Body mass index
+ CHINARISK	Chinese Diabetes Risk Scale
+ FBG	Fasting blood glucose
+ GDM	Gestational diabetes mellitus
+ GEE	Generalized estimation equation
+ ILSM	Intensive LifeStyle Modification Program
+ OGTT​	Oral glucose tolerance test
+ RCT​	Randomized controlled trial
+ 
+<section> T2D	Type 2 diabetes
+ 
+<section> Supplementary Information
+ 
+<section> The online version contains supplementary material available at https://​doi.​
+ org/​10.​1186/​s12992-​023-​00910-3.
+ 
+<section> Additional file 1: Appendix I. Fidelity Checklist of Intensive LifeStyle
+ Modification Program.
+ 
+<section> Acknowledgements
+ The authors thank Mrs. Shuangyan Yang, the chair of People’s Hospital of Youx‑
+ ian for her support and valuable input to recruitment and implementation.
+ The authors also thank all the local healthcare providers and the participants
+ involved in this work.
+ 
+<section> Authors’ contributions
+ The study was initially designed and conceptualized by JG, RW, JC, SX and QL
+ but all authors contributed to the final concept. QZ, YC, ML and JT collected
+ the data. JW, QZ, and YC analyzed the data. All authors interpreted the data.
+ QZ and YC drafted the manuscript. All authors critically revised the manuscript
+ and have given final approval of the version to be published. JG is the guaran‑
+ tor of this work.
+ 
+<section> Funding
+ 
+<section> This work was supported by the China Medical Board (grant number:16–256)
+ and the Natural Science Fund of Changsha City (grant number: kq2202120).
+ The study sponsors were not involved in the design of the study, the collec‑
+ tion, analysis, and interpretation of data, writing the report or the decision to
+ submit the report for publication.
+ 
+<section> Availability of data and materials
+ The datasets used during the current study are available from the correspond‑
+ ing author on reasonable request.
+ 
+<section> Declarations
+ 
+<section> Ethics approval and consent to participate
+ The trial was approved by the local ethics committee (IRB #2016034) and
+ registered at the Chinese Clinical Trial Registry (No. ChiCTR1800015023). At the
+ start of the study, local nurses explained the program to interested women,
+ confirmed their eligibility, and obtained consent.
+ 
+<section> Consent for publication
+ Not applicable.
+ 
+<section> Competing interests
+ The authors declare that they have no competing interests.
+ 
+<section> Author details
+ 
+<section> Xiangya School of Nursing, Central South University, 172 Tongzipo Road,
+ Changsha 410013, Hunan, China. 2 Manchester Centre for Health Psychol‑
+ ogy, School of Health Science, University of Manchester, Manchester, Greater
+ Manchester M13 9PL, UK. 3 Maternal and Child Health Hospital of Yongding,
+ Zhangjiajie, Hunan 427000, People’s Republic of China. 4 Xiangya School
+ of Public Health, Central South University, Changsha, Hunan 410013, People’s
+ Republic of China. 5 Zhuzhou Central Hospital, Zhuzhou, Hunan 412000,
+ People’s Republic of China. 6 Department of Family and Community Medicine,
+ University of California, San Francisco, CA 94118, USA. 7 School of Nursing,
+ University of California, San Francisco, CA 94118, USA. 8 School of Nursing, Yale
+ University, New Haven, CT 06520, USA.
+ 
+<section> Received: 21 November 2022 Accepted: 20 January 2023
+ 
+<section> References
+ 
+<section> 1. Sun H, Saeedi P, Karuranga S, Pinkepank M, Ogurtsova K, Duncan BB, et al.
+ 
+<section> IDF diabetes atlas: global, regional and country-level diabetes prevalence
+ estimates for 2021 and projections for 2045. Diabetes Res Clin Pract.
+ 2022;183;109–19.
+ 2. McMillan B, Easton K, Goyder E, Delaney B, Madhuvrata P, Abdelgalil R,
+ et al. Reducing risk of type 2 diabetes after gestational diabetes: a qualita‑
+ tive study to explore the potential of technology in primary care. Br J Gen
+ Pract. 2018;68(669):e260–e7.
+ 3. Uusitupa M, Khan TA, Viguiliouk E, Kahleova H, Rivellese AA, Hermansen
+ K, et al. Prevention of type 2 diabetes by lifestyle changes: a systematic
+ review and Meta-analysis. Nutrients. 2019;11(11):2611–632. 
+<section> Aroda VR, Christophi CA, Edelstein SL, Zhang P, Herman WH, Barrett-
+ Connor E, et al. The effect of lifestyle intervention and metformin on
+ preventing or delaying diabetes among women with and without
+ gestational diabetes: the diabetes prevention program outcomes study
+ 10-year follow-up. J Clin Endocrinol Metab. 2015;100(4):1646–53.
+ Gilinsky AS, Kirk AF, Hughes AR, Lindsay RS. Lifestyle interventions for
+ type 2 diabetes prevention in women with prior gestational diabetes: a
+ systematic review and meta-analysis of behavioural, anthropometric and
+ metabolic outcomes. Prev Med Rep. 2015;2:448–61.
+ O’Dea A, Tierney M, McGuire BE, Newell J, Glynn LG, Gibson I, et al. Can
+ the onset of type 2 diabetes be delayed by a group-based lifestyle
+ intervention in women with prediabetes following gestational diabetes
+ mellitus (GDM)? Findings from a randomized control mixed methods trial.
+ J Diabetes Res. 2015;2015:798460.
+ Epton T, Keyworth C, Goldthorpe J, Calam R, Armitage CJ. Are interven‑
+ tions delivered by healthcare professionals effective for weight manage‑
+ ment? A systematic review of systematic reviews. Public Health Nutr.
+ 2022;25(4):1071–83.
+ Nguyen LH, Tran BX, Rocha LEC, Nguyen HLT, Yang C, Latkin CA, et al. A
+ systematic review of eHealth interventions addressing HIV/STI prevention
+ among men who have sex with men. AIDS Behav. 2019;23(9):2253–72.
+ Nguyen CL, Pham NM, Binns CW, Duong DV, Lee AH. Prevalence of ges‑
+ tational diabetes mellitus in eastern and southeastern Asia: a systematic
+ review and Meta-analysis. J Diabetes Res. 2018;2018:6536974.
+ Gao C, Sun X, Lu L, Liu F, Yuan J. Prevalence of gestational diabetes mel‑
+ litus in mainland China: a systematic review and meta-analysis. J Diabetes
+ Investig. 2019;10(1):154–62.
+ Juan J, Yang H. Prevalence, prevention, and lifestyle intervention of
+ gestational diabetes mellitus in China. Int J Environ Res Public Health.
+ 2020;17(24):154–62.
+ Feng R, Li K, Cheng J, Xie S, Chai J, Wei P, et al. Toward integrated and
+ sustainable prevention against diabetes in rural China: study rationale
+ and protocol of eCROPS. BMC Endocr Disord. 2013;13:28.
+ Jiang L, Johnson A, Pratte K, Beals J, Bullock A, Manson SM. Long-term
+ outcomes of lifestyle intervention to prevent diabetes in American Indian
+ and Alaska native communities: the special diabetes program for Indians
+ diabetes prevention program. Diabetes Care. 2018;41(7):1462–70.
+ Zong L. Research on justice of diabetes health care in China [doctor]:
+ Dalian Medical University; 2021.
+ Smokovski I. Managing diabetes in low income countries providing
+ sustainable diabetes care with limited resources. Cham: Springer Nature;
+ 2021.
+ Wang W, Zhang Y, Lin B, Mei Y, Ping Z, Zhang Z. The urban-rural disparity
+ in the status and risk factors of health literacy: a cross-sectional survey in
+ Central China. Int J Environ Res Public Health. 2020;17(11):38–48.
+ Song S, Yuan B, Zhang L, Cheng G, Zhu W, Hou Z, et al. Increased inequali‑
+ ties in health resource and access to health Care in Rural China. Int J
+ Environ Res Public Health. 2018;16(1):49–58.
+ Sun X, Ioannidis JP, Agoritsas T, Alba AC, Guyatt G. How to use a subgroup
+ analysis: users’ guide to the medical literature. JAMA. 2014;311(4):405–11.
+ Zhang X, Imperatore G, Thomas W, Cheng YJ, Lobelo F, Norris K, et al.
+ Effect of lifestyle interventions on glucose regulation among adults
+ without impaired glucose tolerance or diabetes: a systematic review and
+ meta-analysis. Diabetes Res Clin Pract. 2017;123:149–64.
+ Bandura A. Social foundations of thought and action a social cognitive
+ theory. Englewood Cliffs: Prentice-Hall; 1986.
+ Chen Y, Zhong Q, Luo J, Tang Y, Li M, Lin Q, et al. The 6-month efficacy
+ of an intensive lifestyle modification program on type 2 diabetes risk
+ among rural women with prior gestational diabetes mellitus: a cluster
+ randomized controlled trial. Prev Sci. 2022;23:1156–68
+ Guo J, Long Q, Yang J, Lin Q, Wiley J, Chen JL. The efficacy of an intensive
+ lifestyle modification program on psychosocial outcomes among rural
+ women with prior gestational diabetes mellitus: six months follow-
+ up of a randomized controlled trial. Int J Environ Res Public Health.
+ 2021;18(4):1519–28.
+ Guo J, Tang Y, Wiley J, Whittemore R, Chen JL. Effectiveness of a diabetes
+ prevention program for rural women with prior gestational diabetes mel‑
+ litus: study protocol of a multi-site randomized clinical trial. BMC Public
+ Health. 2018;18(1):809.
+ Kolb H, Martin S. Environmental/lifestyle factors in the pathogenesis and
+ prevention of type 2 diabetes. BMC Med. 2017;15(1):131.
+ 25. Guo J, Shi Z, Chen JL, Dixon JK, Wiley J, Parry M. Translation and validation
+ of the Canadian diabetes risk assessment questionnaire in China. Public
+ Health Nurs. 2018;35(1):18–28.
+ 26. Robinson CA, Agarwal G, Nerenberg K. Validating the CANRISK prognostic
+ model for assessing diabetes risk in Canada’s multi-ethnic population.
+ Chronic Dis Inj Can. 2011;32(1):19–31.
+ 27. Phillips PJ. Oral glucose tolerance testing. Aust Fam Physician.
+ 2012;41(6):391–3.
+ 28. Ostchega Y, Seu R, Sarafrazi N, Zhang G, Hughes JP, Miller I. Waist Circum‑
+ ference Measurement Methodology Study: National Health and nutrition
+ examination survey, 2016. Vital Health Stat 2. 2019;21(182):1–20.
+ 29. Qu NNLK. Study on the reliability and validity of international physical
+ activity questionnaire (Chinese Vision, IPAQ). Zhonghua liu xing bing xue
+ za zhi = Zhonghua liuxingbingxue zazhi. 2004;25(3):265–8.
+ 30. Li M, Li F, Lin Q, Shi J, Luo J, Long Q, et al. Cultural adaptation, validation,
+ and primary application of a questionnaire to assess intentions to eat
+ low-glycemic index foods among rural Chinese women. Int J Environ Res
+ Public Health. 2020;17(20):7577–94.
+ 31. Huang F, Wang H, Wang Z, Zhang J, Du W, Su C, et al. Psychometric prop‑
+ erties of the perceived stress scale in a community sample of Chinese.
+ BMC Psychiatry. 2020;20(1):130.
+ 32. Hu YQ, Zhou LZ. Reliability and validity of self-rated abilities for health
+ practices scale in Chinese version. Chin J Nurs. 2012;47(3):261–2.
+ 33. Xiao S. Theoretical basis and research application of social support rating
+ scale. J Clin Psychiatry. 1994;4:98–100.
+ 34. Lee EH. Review of the psychometric evidence of the perceived stress
+ scale. Asian Nurs Res (Korean Soc Nurs Sci). 2012;6(4):121–7.
+ 35. Skevington SM, Lotfy M, O’Connell KA. The World Health Organization’s
+ 
+<section> WHOQOL-BREF quality of life assessment: psychometric properties and
+ results of the international field trial A report from the WHOQOL group.
+ Qual Life Res. 2004;13(2):299–310.
+ 36. Leung DY, Leung AY. Factor structure and gender invariance of the
+ Chinese general self-efficacy scale among soon-to-be-aged adults. J Adv
+ Nurs. 2011;67(6):1383–92.
+ 37. Xiao S, Shi L, Dong F, Zheng X, Xue Y, Zhang J, et al. The impact of chronic
+ diseases on psychological distress among the older adults: the mediating
+ and moderating role of activities of daily living and perceived social sup‑
+ port. Aging Ment Health. 2021;26:1–7.
+ 38. Koivusalo SB, Rönö K, Klemetti MM, Roine RP, Lindström J, Erkkola M, et al.
+ Gestational diabetes mellitus can be prevented by lifestyle intervention:
+ the Finnish gestational diabetes prevention Study (RADIEL): a rand‑
+ omized controlled trial. Diabetes Care. 2016;39(1):24–30.
+ 39. Soltero EG, Ayers SL, Avalos MA, Peña A, Williams AN, Olson ML, et al.
+ Theoretical mediators of diabetes risk and quality of life following a
+ diabetes prevention program for Latino youth with obesity. Am J Health
+ Promot. 2021;35(7):939–47.
+ 40. WHO. Global report on diabetes. Geneva; 2016.
+ 41. Goveia P, Cañon-Montañez W, Santos DP, Lopes GW, Ma RCW, Duncan BB,
+ et al. Lifestyle intervention for the prevention of diabetes in women with
+ previous gestational diabetes mellitus: a systematic review and Meta-
+ analysis. Front Endocrinol (Lausanne). 2018;9:583.
+ 42. Balducci S, D’Errico V, Haxhi J, Sacchetti M, Orlando G, Cardelli P, et al.
+ Effect of a behavioral intervention strategy on sustained change in physi‑
+ cal activity and sedentary behavior in patients with type 2 diabetes: the
+ IDES_2 randomized clinical trial. JAMA. 2019;321(9):880–90.
+ 43. Cradock KA, ÓLaighin G, Finucane FM, Gainforth HL, Quinlan LR, KAM G.
+ Behaviour change techniques targeting both diet and physical activity in
+ type 2 diabetes: a systematic review and meta-analysis. Int J Behav Nutr
+ Phys Activity. 2017;14(1):18.
+ 44. Farmer AJ, McSharry J, Rowbotham S, McGowan L, Ricci-Cabello I,
+ French DP. Effects of interventions promoting monitoring of medica‑
+ tion use and brief messaging on medication adherence for people with
+ type 2 diabetes: a systematic review of randomized trials. Diabet Med.
+ 2016;33(5):565–79.
+ 45. Montero D, Breenfeldt-Andersen A, Oberholzer L, Haider T. Effect of
+ exercise on arterial stiffness: is there a ceiling effect? Am J Hypertens.
+ 2017;30(11):1069–72.
+ 46. Wu Y, Ding Y, Tanaka Y, Zhang W. Risk factors contributing to type 2 diabe‑
+ tes and recent advances in the treatment and prevention. Int J Med Sci.
+ 2014;11(11):1185–200. 
+<section> 47. Franz MJ, VanWormer JJ, Crain AL, Boucher JL, Histon T, Caplan W, et al.
+ 
+<section> Weight-loss outcomes: a systematic review and meta-analysis of weight-
+ loss clinical trials with a minimum 1-year follow-up. J Am Diet Assoc.
+ 2007;107(10):1755–67.
+ 48. Johnston BC, Kanters S, Bandayrel K, Wu P, Naji F, Siemieniuk RA, et al.
+ Comparison of weight loss among named diet programs in overweight
+ and obese adults: a meta-analysis. JAMA. 2014;312(9):923–33.
+ 49. Salas-Salvadó J, Díaz-López A, Ruiz-Canela M, Basora J, Fitó M, Corella
+ D, et al. Effect of a lifestyle intervention program with energy-restricted
+ Mediterranean diet and exercise on weight loss and cardiovascular
+ risk factors: one-year results of the PREDIMED-plus trial. Diabetes Care.
+ 2019;42(5):777–88.
+ 50. Li M, Lin Q, Shi J, Xi Y, Xiang C, Yong C, et al. The impact of lifestyle
+ intervention on dietary quality among rural women with previous
+ gestational diabetes mellitus-a randomized controlled Study. Nutrients.
+ 2021;13(8):2642–53.
+ 51. Ojo O, Ojo OO, Adebowale F, Wang XH. The effect of dietary Glycae‑
+ mic index on glycaemia in patients with type 2 diabetes: a systematic
+ review and Meta-analysis of randomized controlled trials. Nutrients.
+ 2018;10(3)373–87.
+ 52. Jelsma JGM, van Poppel MNM, Smith BJ, Cinnadaio N, Bauman A, Tapsell
+ L, et al. Changing psychosocial determinants of physical activity and diet
+ in women with a history of gestational diabetes mellitus. Diabetes Metab
+ Res Rev. 2018;34(1)2942–50.
+ 53. Dennison RA, Ward RJ, Griffin SJ, Usher-Smith JA. Women’s views on
+ lifestyle changes to reduce the risk of developing type 2 diabetes after
+ gestational diabetes: a systematic review, qualitative synthesis and
+ recommendations for practice. Diabet Med. 2019;36(6):702–17.
+ 54. Ni Y, Liu S, Li J, Dong T, Tao L, Yuan L, et al. The effects of nurse-led multi‑
+ disciplinary team management on glycosylated hemoglobin, quality of
+ life, hospitalization, and help-seeking behavior of people with diabetes
+ mellitus. J Diabetes Res. 2019;2019:9325146.
+ 55. Unamuno X, Gómez-Ambrosi J, Rodríguez A, Becerril S, Frühbeck G,
+ Catalán V. Adipokine dysregulation and adipose tissue inflammation in
+ human obesity. Eur J Clin Investig. 2018;48(9):e12997.
+ 56. Bandyopadhyay M. Attendance for postpartum glucose tolerance testing
+ following gestational diabetes among south Asian women in Australia: a
+ qualitative Study. J Womens Health Issues Care. 2015;04(1):178–85.
+ 
+<section> Publisher’s Note
+ 
+<section> Springer Nature remains neutral with regard to jurisdictional claims in pub‑
+ lished maps and institutional affiliations.
+ 
+<section> Ready to submit your research Choose BMC and benefit from:
+ 
+<section> • fast, convenient online submission
+ 
+<section> • thorough peer review by experienced researchers in your field
+ 
+<section> • rapid publication on acceptance
+ 
+<section> • support for research data, including large and complex data types
+ 
+<section> • gold Open Access which fosters wider collaboration and increased citations
+ 
+<section> • maximum visibility for your research: over 100M website views per year

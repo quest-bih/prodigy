@@ -1,0 +1,1169 @@
+
+<section> Effect of home-­based
+ 
+<section> neonatal and infant
+ 
+<section> randomised trial in
+ 
+<section> Reeta Rasaily, 1 NC Saxena, 1 Sushma Pandey,
+ Sharad D Iyengar, 5 Vinita Das, 6 Sheela Sinha,
+ Shiv Kumar, 1 Arvind Pandey, 7 Ravindra Mohan
+ Mari Jeeva Sankar, 8 Siddarth Ramji, 10 Vinod
+ the ICMR-­HBMYI Study Group
+ 
+<section> To cite: Rasaily R, Saxena NC, Abstract
+ 
+<section> Pandey S, et al. Effect of Background Home-­based newborn care has been found
+ home-­based newborn care on to reduce neonatal mortality in rural areas. Study evaluated
+ neonatal and infant mortality: effectiveness of home-­based care delivered by specially
+ a cluster randomised trial
+ recruited newborn care workers- Shishu Rakshak (SR) and
+ 
+<section> in India. BMJ Glob Health
+ 2020;5:e000680. doi:10.1136/ existing workers- anganwadi workers (AWW) in reducing
+ bmjgh-2017-000680 neonatal and infant mortality rates.
+ 
+<section> Methods This three-­arm, community-­based, cluster
+ 
+<section> Handling editor Stephanie M randomised trial was conducted in five districts in India.
+ Topp Intervention package consisted of pregnancy surveillance,
+ health education, care at birth, care of normal/low birthweight
+ Received 12 December 2017 neonates, identification and treatment of sick neonates
+ Revised 14 June 2018 and young infants using oral and injectable antibiotics
+ Accepted 13 July 2018 and community mobilisation. The package was similar in
+ both intervention arms—SR and AWW; difference being
+ healthcare provider. The control arm received routine health
+ services from the existing health system. Primary outcomes
+ were neonatal and young infant mortality rates at ‘endline’
+ period (2008–2009) assessed by an independent team from
+ January to April 2010 in the study clusters.
+ 
+<section> Findings A total of 6623, 6852 and 5898 births occurred in
+ the SR, AWW and control arms, respectively, during the endline
+ period; the proportion of facility births were 69.0%, 64.4%
+ and 70.6% in the three arms. Baseline mortality rates were
+ comparable in three arms. During the endline period, the risk of
+ neonatal mortality was 25% lower in the SR arm (adjusted OR
+ 0.75, 95% CI 0.57 to 0.99); the risks of early neonatal mortality,
+ young infant mortality and infant mortality were also lower by
+ 32%, 27%, and 33%, respectively. The risks of neonatal, early
+ neonatal, young infant, infant mortality in the AWW arm were
+ not different from that of the control arm.
+ 
+<section> Interpretation Home-­based care is effective in reducing
+ neonatal and infant mortality rates, when delivered by a
+ dedicated worker, even in settings with high rates of facility
+ © Author(s) (or their births.
+ 
+<section> employer(s)) 2020. Re-­use
+ permitted under CC BY-­NC. No Trial registration number The study was registered with
+ commercial re-­use. See rights Clinical Trial Registry of India (CTRI/2011/12/002181).
+ 
+<section> and permissions. Published by
+ BMJ.
+ 
+<section> For numbered affiliations see
+ 
+<section> end of article. 
+<section> Introduction
+ The global burden of neonatal deaths
+ 
+<section> Correspondence to
+ Dr Reeta Rasaily; is estimated to be 2.6 million, of which
+ 
+<section> ​reeta.​rasaily@ g mail.​com 0.76 million—more than a quarter—occur in
+ 
+<section> newborn care on
+ 
+<section> mortality: a cluster
+ 
+<section> India
+ 
+<section> 2 Bishan S Garg, 3 Saraswati Swain,
+ 2 Subodh Gupta, 3 Anju Sinha,
+ Pandey, 8 Harshpal Singh Sachdev,
+ K Paul, 8 Abhay T Bang, 11 On behalf of
+ 
+<section> Key questions
+ 
+<section> What is already known?
+ 
+<section> ► Pooled analysis of trials from South Asia found a sig-
+ nificant reduction in neonatal mortality rate (NMR)
+ following home-­ based newborn care (pooled RR
+ 0.75; 95% CI 0.61 to 0.92) suggesting greater ben-
+ eficial effect with a higher baseline NMR (>50 per
+ 1000 live births) based on the results of subgroup
+ and meta-­regression analyses.
+ 
+<section> What are the new findings?
+ 
+<section> ► We found a similar magnitude of reduction in NMR
+ when home-­based newborn care is delivered by
+ dedicated worker even in settings with low NMR
+ (low ‘endline’ NMR—of 33.5 per 1000 live births—
+ in the control arm) and high facility birth.
+ 
+<section> What do the new findings imply?
+ 
+<section> ► Home-­based newborn care is effective in reducing
+ neonatal mortality including deaths within first week
+ of life and infant mortality particularly when deliv-
+ ered by dedicated worker even in setting with high
+ facility births.
+ 
+<section> India. 1 With a neonatal mortality rate (NMR)
+ of 26 per 1000 live births and infant mortality
+ rate of 39 per 1000 live births, 2 deaths in the
+ neonatal period alone contribute to two-­
+ thirds of infant deaths in India. Even among
+ postneonatal infant deaths (1–12 months),
+ a major proportion of deaths occur in the
+ second month of life. Any further reduction
+ in infant mortality is therefore intricately
+ linked to a major reduction of neonatal and
+ young infant (0–59 days) deaths.
+ Various attempts have been made to imple-
+ ment innovative approaches for newborn care
+ at community/home level. The Cochrane
+ review on community-­ based interventions
+ found a significant reduction—by about
+ 25%—in neonatal mortality with community 
+<section> mobilisation and antenatal and postnatal home visits
+ by health workers. 3 The Lancet Every Newborn Study
+ Group estimated that immediate scaling up of various
+ community-­ based and primary care interventions can
+ avert almost a third of all neonatal deaths by 2017 and
+ one-­fifth by 2025.
+ One of the key components of community-­based inter-
+ ventions for neonatal health is the home-­based newborn
+ care (HBNC), that is, care provided at homes by health
+ workers in the antenatal, intrapartum and postnatal
+ periods. An earlier study by the Society for Education,
+ Action and Research in Community Health (SEARCH)
+ in Gadchiroli district of Maharashtra, India, demon-
+ strated that HBNC by trained female village health
+ workers significantly reduced the NMR by up to 62% in
+ settings with high baseline NMRs. 5 The effectiveness of
+ this approach in diverse rural settings with varying NMRs
+ needs to be assessed given the profound implications of
+ this intervention. If effective, such an approach must be
+ incorporated into the existing health systems.
+ In this background, we conducted a community-­based
+ cluster randomised effectiveness trial at multiple sites
+ across India to evaluate the effect of home-­based care
+ for neonates and young infants delivered by community-­
+ based workers on neonatal and young infant mortality
+ rates (YIMR). The primary research question was whether
+ a package of interventions for young infants (0–59 days of
+ age) delivered through home visits by (1) existing village-­
+ level community workers and (2) specially recruited
+ village-­level workers tasked to perform newborn/young
+ infant care would reduce their mortality rates.
+ 
+<section> Methods
+ Study area and existing health system
+ This community-­ based cluster randomised trial was
+ conducted in five districts in the north, east and western
+ states of India: Barabanki (Uttar Pradesh), Cuttack
+ (Odisha), Patna (Bihar), Rajsamand (Rajasthan) and
+ Yavatmal (Maharashtra). The study was implemented by
+ non-­governmental organisations at two districts (Action
+ Research and Training for Health, Udaipur (Rajsamand)
+ and National Institute of Applied Human Research and
+ Development, Cuttack) and by government institutions
+ at the other three districts (King George Medical College,
+ Lucknow (Barabanki), Patna Medical College (Patna)
+ and Mahatma Gandhi Institute of Medical Sciences,
+ Wardha (Yavatmal).
+ The public healthcare infrastructure at these districts
+ comprised a hierarchical system of district hospital(s),
+ community health centres (CHC), primary health centres
+ (PHC) and subcentres (SC). Typically, the health services
+ are provided by medical officers, nurses and auxiliary
+ nurse midwives (ANM) at facility level, and by ANM and
+ anganwadi workers (AWWs) at the community level. An
+ ANM usually caters to a population of 5000–7000 and
+ provides antenatal check-­ups, counselling of pregnant
+ women and childhood immunisation. The AWW serves
+ approximately a population of 1000 and is responsible
+ for supplementary nutrition to pregnant and lactating
+ women and preschool children and non-­formal educa-
+ tion to preschool children.
+ 
+<section> Study design and ethical considerations
+ The study was designed as a three-­arm cluster randomised
+ controlled trial, with PHC being the unit of randomi-
+ sation. The intervention package in the two interven-
+ tion arms was delivered by either a specially recruited
+ community-­based worker—Shishu Rakshak (SR)—or
+ by the already existing AWW. The control arm received
+ routine health services from the public and private
+ health system.
+ 
+<section> Selection of clusters
+ The study sites were selected in consultation with the
+ state and district health authorities, the essential criteria
+ for selection being a high NMR (>40 per 1000 live births)
+ and high incidence of home deliveries (>70%). A base-
+ line survey was undertaken in nine conveniently selected
+ PHCs in each district to estimate NMRs and home deliv-
+ eries in the year preceding survey (2002–2003). From
+ these nine, six PHCs (in each district) that fulfilled the
+ criteria were selected to participate in the study. Usually,
+ one PHC served a population of about 30 000. In case
+ a PHC catered to more than 30 000 individuals, only a
+ limited number of SC enough to cover 30 000 population
+ were included.
+ 
+<section> Randomisation, consent and ethics
+ The PHCs were paired to arrive at matched three sets
+ (two PHCs in each) with comparable NMRs in each
+ study district. These were then randomly allocated to
+ the two intervention arms and control arm with the help
+ of computer generated random numbers (generated by
+ an independent statistician). Thus, two PHCs in each
+ district constituted 10 clusters in five districts in each arm.
+ Informed verbal consent was obtained from the village
+ leaders, mukhiyas (chiefs) and heads of the panchayats
+ prior to beginning of the study. At each site, a safety
+ monitoring committee monitored the safety of the inter-
+ vention. A central Data Safety Monitoring Board (DSMB)
+ monitored the overall study progress and results.
+ 
+<section> Intervention
+ 
+<section> Preparatory phase
+ The preparatory phase of the study began in January
+ 2003 with the baseline house-­to-­house survey by trained
+ local field workers who collected information on preg-
+ nancy history in women of reproductive age group and
+ the number of neonatal deaths in the last year. This was
+ followed by selection of the SR in those sites that were
+ randomised to SR arm. Selection was done in 3-­day resi-
+ dential camps, the eligibility criteria being (1) resident
+ of the village, (2) education of at least 5th standard and
+ uptil 10th standard (3) has been a mother herself and
+ (4) willing to attend delivery at night and undergo resi-
+ dential training. For the other intervention (AWW) arm, 
+<insert> Table 1 List of interventions in the three arms
+ Intervention Shishu Rakshak Anganwadi worker Control
+ Pregnancy surveillance every 2 months
+ Three antenatal home visits for health education
+ +
+ +
+ +
+ +
+ –
+ –
+ Presence at delivery + + –
+ Care at birth + + As per programme
+ Postnatal home visits, identification of high risk and
+ sick neonates
+ + + –
+ Management of hypothermia, feeding, umbilical and
+ skin infection, eye care
+ + + –
+ Cotrimoxazole and IM injections for probable sepsis + – –
+ Training of MOs/PPs + + –
+ Training of TBAs + + –
+ Awareness of community leaders
+ Group health education and community mobilisation
+ +
+ +
+ +
+ +
+ –
+ –
+ IM, intramuscular; MO, medical officer; PP, private practitioners; TBAs, traditional birth attendants. 
+<iend>
+
+ the AWWs already in place were deployed. These workers
+ were employed by the state government (salary approx-
+ imately US$50) and had varying level of training and
+ experience.
+ The workers from both the categories were trained in
+ the same manner by using competency-­based training
+ curriculum, modules and manual developed by SEARCH,
+ Gadchiroli. Initially, the SEARCH team trained the
+ master trainers-­cum-­field supervisors from all five study
+ sites in three training workshops of 15–17 days each.
+ The master trainers in turn conducted training of SRs
+ and AWWs at respective study sites in seven workshops
+ of 5 days duration each, interspersed by field practice
+ of 1 month. The training involved classroom sessions
+ followed by hands-­on in the field, and was accomplished
+ in a step-­ladder fashion, that is, one set of skills at a time.
+ The whole training package was covered in 17 modules.
+ In addition to SRs and AWWs, the ANMs from the health
+ system were also trained on supportive supervision
+ for two days apart from their regular training. In both
+ the intervention arms, 2-­ day training workshops were
+ conducted for the traditional birth attendants (TBAs)
+ (on safe delivery practices) and for medical officers of
+ PHCs and private practitioners (orientation training).
+ Training of master trainers began in October 2003 and
+ was completed in August 2004, while training of SR/
+ AWW/ANM began in November 2003 and got completed
+ in December 2004 (save for AWW arm of one centre, which
+ got completed by April 2005). The workers were assessed
+ after each training session and a final evaluation was done
+ at the end of training. A joint team of Indian Council of
+ Medical Research (ICMR) and SEARCH conducted the
+ end-­of-­training assessment. Because many workers did
+ not acquire the skills necessary for giving intramuscular
+ (IM) injections after a single training session, additional
+ training sessions were conducted by using dummies and
+ having hands-­on sessions in the health facilities. Regular
+ reorientation training and on-­job training for the SR/
+ AWWs were undertaken during monthly meetings.
+ 
+<section> Intervention phase
+ In the next phase, the trained workers (SRs or AWWs)
+ performed house-­ to-­ house surveys every 2 months to
+ identify eligible women. Pregnant women thus identified
+ were registered at around fifth month of pregnancy and
+ were provided the package of interventions. Briefly, the
+ package consisted of the following interventions—health
+ education, care at birth, care of normal/low birthweight
+ neonates, identification and treatment of sick neonates
+ and young infants, and community mobilisation (table 1;
+ further details provided in online supplementary web
+ table 1). The package essentially remained the same in
+ both the intervention arms (save for the provision of IM
+ injection for sepsis in the SR arm; Table 1)—only the
+ healthcare provider was different.
+ Health education messages during antenatal period
+ and on the second day after delivery comprised of
+ care and nutrition during pregnancy, birth prepared-
+ ness (antenatal care (ANC), tetanus toxoid immunisa-
+ tion, safe delivery), early initiation and exclusive breast
+ feeding, prevention of infection, prevention and manage-
+ ment of hypothermia and recognising danger signs
+ during pregnancy and danger signs in the neonates and
+ seeking immediate help from health worker. The village-­
+ level worker—SR/AWW as per the intervention arm—
+ attended delivery along with the TBA and provided care
+ at birth (if the women chose to deliver at home). She
+ did suctioning with an oral mucus sucker and if required,
+ bag and mask ventilation for newborns with weak/absent
+ cry or slow breathing at birth. She weighed them within
+ 6 hours of birth using Salter weighing scale (with sensi-
+ tivity of 100 g) and counselled the mothers regarding
+ thermal care and early initiation of breast feeding and
+ duration of exclusive breast feeding. She also assessed 
+<section> for high-­risk status to decide on the number of follow-­up
+ visits at home. For health education, a flipchart and a
+ 1-­hour long digital versatile disc (DVD)—‘Nanhisi Jan’
+ (tiny life)—produced by SEARCH were used in the
+ intervention clusters. Information gathered from focus
+ group discussions during preparatory phase was used as
+ resource information for health education messages.
+ Home visits were made on days 1, 2, 3, 5, 7, 14, 21, 28,
+ 35, 42, 49 and 56 for normal newborns, and on days 1,
+ 2, 3, 4, 5, 6, 7, 9, 12, 15, 18, 21, 28, 35, 42, 48 and 56
+ for high-­risk newborns (defined as birth weight <2000 g
+ or preterm or breastfeeding problems on the first day of
+ life). Gestation was determined using the last menstrual
+ period method, confirmed with the help of local events
+ calendar. During home visits, the workers assessed the
+ newborns for any signs of illness, recorded temperature
+ using a digital thermometer, provided treatment for
+ minor illnesses and offered referral services for those with
+ severe disease like suspected sepsis. Newborns with hypo-
+ thermia (axillary temperature <35°C) were managed by
+ keeping in a warm bag or by covering with blankets; those
+ with hyperthermia (temperature >37.2°C) were managed
+ with adequate breast feeding, oral paracetamol and
+ optimal room temperature and ventilation. Sepsis was
+ suspected in the presence two or more of the following
+ conditions: weak or abnormal cry, poor suck or inability
+ to suck, drowsy or unconsciousness, temperature >37.2°C
+ or <35°C, multiple skin pustules or pus draining from
+ umbilicus, persistent vomiting or abdominal distension
+ and fast breathing (respiratory rate more than 60/min
+ in a quiet infant). All infants with probable sepsis were
+ referred to a health facility. If the family refused or was
+ unable to go to a health facility but consented to home
+ treatment, the worker managed the infant at home with
+ oral cotrimoxazole and IM gentamicin. The project team
+ at the sites ensured supplies of equipment and drugs
+ for managing newborns at home in both the interven-
+ tion arms. All the SRs and AWWs were provided a kit
+ containing weighing scale, thermometer, bag and mask,
+ syringes and medicines (box 1). They were also provided
+ performance-­linked remuneration up to Rs.350 (US$6)
+ per month.
+ In the control arm, the ANM/AWWs provided antenatal
+ and newborn care services through antenatal contacts
+ and three postnatal home visits as per the ongoing
+ Reproductive and Child Health programme. All study
+ clusters—irrespective of the random group allocation—
+ were open to concomitant improvements and changes
+ in the healthcare and developmental activities driven by
+ the respective state governments. For example, as a part
+ of the National Rural Health Mission (NRHM), facility
+ strengthening took place, accredited social and health
+ activists (ASHA) got deployed and Janani Suraksha
+ Yojana (JSY) got scaled up in all the three arms during
+ implementation of the trial.
+ Implementation of the intervention began in January
+ 2005 (figure 1). However, the full package of interven-
+ tions including IM injections for probable sepsis could
+ 
+<section> Box Components of Shishu Rakshak kit during visits
+ 
+<section> 1. Weighing scale.
+ 2. Thermometer.
+ 3. Wrist watch.
+ 4. Cotton balls for wiping thermometer.
+ 5. Soap.
+ 6. Booklet of forms.
+ 7. Extra forms.
+ 8. Warm bag.
+ 9. Blanket.
+ 10. Health education flip chart.
+ 11. High-­risk information sheets (3).
+ 12. A square piece of clean cloth to spread and keep the items.
+ 
+<section> Medicines
+ 
+<section> 1. Syr. Cotrimoxazole.
+ 2. Inj. Gentamicin.
+ 3. Spirit soaked cotton balls.
+ 4. Gentian violet paint.
+ 5. Syr. Paracetamol.
+ 6. Syringes.
+ 7. Chloramphenicol eye-­drops.
+ 8. Syr. Salbutamol.
+ 9. Tea spoon/pallady for teaching feeding newborns with expressed
+ breast milk.
+ 
+<section> be implemented from only 2007 because of the delay in
+ obtaining ethical clearance for this particular interven-
+ tion and the longer time required to acquire the skills
+ by the workers. In the AWW arm, injection component
+ could not be imparted because permission was not
+ granted for AWWs to administer IM injections. A district
+ steering committee was constituted at each site that met
+ every 6–12 months to address issues related to imple-
+ mentation. The health authorities at the district level
+ were involved in the study from the planning stage. The
+ District Health Officer was designated as coinvestigator
+ in this study and ANMs, LHVs were envisaged to provide
+ supportive supervision to SRs/AWWs.
+ 
+<section> Data collection
+ During the intervention phase, the SRs and AWWs
+ collected data and maintained records of past pregnancy,
+ problems during current pregnancy and delivery details
+ including duration of labour, place of delivery, personnel
+ conducting delivery, type of delivery, birth outcomes for
+ all pregnant women. They also recorded the need for
+ resuscitation at birth, time of first visit to the baby, time of
+ initiation of breastfeeding, birth weight and morbidities
+ detected on follow-­up visits for all the babies. They were
+ monitored by a supervisor (1 for every 20–30 workers)
+ who crosschecked the information collected by them
+ on randomly identified cases and validated all the births
+ and deaths by visiting the households and/or verifying
+ with other sources. The supervisor also provided on-­job
+ training to the workers and refresher training during
+ monthly meetings. He/she did not fill-­up any separate
+ forms. 
+<insert> Figure 1 Study timeline. AWW, anganwadi workers; SR, Shishu 
+<iend>
+
+ In addition, the coverage data for other key indicators
+ such as home visits for health education during antenatal
+ period, home deliveries attended by SRs and AWWs, first
+ examination of infant within 24 hours of birth (only for
+ home deliveries), postnatal home visits and sepsis cases
+ managed were recorded from the self-­reported service
+ delivery records of SR and AWW.
+ 
+<section> Outcomes and their measurement
+ Primary outcome measures were the endline neonatal
+ and YIMR at the end of the intervention period (2008–
+ 2009). NMR and YIMR were defined as the number of
+ deaths within 28 days and within 59 days of life, respec-
+ tively per 1000 live births. The secondary outcomes
+ were early-­NMR (deaths within 6 days of life/1000 live
+ births), infant mortality rate (IMR; deaths from 0 to
+ days/1000 live births), stillbirth rate (stillbirths per 1000
+ births) and perinatal mortality rate (stillbirths plus early
+ neonatal deaths per 1000 births).
+ Evaluation of the intervention was done by means of an
+ endline cross-­sectional survey conducted from January
+ 2010 to April 2010. The survey got delayed by about
+ months due to practical reasons (the intervention phase
+ was over by March 2009; last follow-­up home visit was
+ done in May 2009). An independent team who had no
+ role in implementation of the intervention conducted
+ the survey using similar methods and tools as the baseline
+ survey. The team was provided names of all the PHCs/
+ villages and the data collection tools of the baseline
+ survey. Extensive efforts were made to ensure complete
+ enumeration of all households in the intervention and
+ control arms.
+ The survey team collected information on births,
+ deaths and other key demographic indicators for all the
+ births in the clusters as well as for those births in which the
+ mothers delivered outside the cluster areas but returned
+ within 2 months of the date of delivery. For convenience
+ of enrolled mothers, information was collected for the
+ period from Holi festival in March 2008 to Holi in March
+ 2009. Process outcome: In addition to the mortality
+ indicators, coverage in the intervention arms was also
+ assessed by recording the proportion of births attended
+ 
+<section> BMJ Global Health
+ 
+<section> Rakshak; MT, master trainer.
+ 
+<section> by the SRs and AWWs for the period from 22 March 2008
+ to 21 March 2009 in the two intervention arms.
+ 
+<section> Quality control of data
+ Data were double entered in CSpro database that had
+ built-­in range and consistency checks. The surveillance
+ supervisors–1 for every 5–6 field workers of the survey
+ team–independently filled up the forms of 5% infants
+ and then cross-­checked with the forms submitted by the
+ field workers. They also checked all details of randomly
+ selected 5% households by through spot checks and
+ reinterviews. In addition, the members of central coor-
+ dinating team also independently validated the details of
+ births and deaths in a randomly selected sample during
+ their field visits. The central team also observed a few
+ interviews conducted by the field workers.
+ 
+<section> Statistical analysis
+ Assuming a baseline NMR of 40/1000 live births, design
+ effect of 1.5, 95% level of confidence (one sided), and
+ 80% power, we had to enrol 1500 live births in each arm
+ to detect 50% reduction in NMR in the two intervention
+ arms. The estimated sample size was more than enough
+ to detect the same quantum of reduction in the other
+ primary outcome (young infant mortality with baseline
+ rate of 50/1000 live births) also. With the prevailing birth
+ rate of 25/1000 population, it was expected that two
+ PHCs with an average population of 30 000 each had to
+ be included for enrolling 1500 live births in a year. There-
+ fore, two PHCs were included in each of the three arms.
+ This sample size calculation was for each state. However,
+ the mid-­ term survey—planned a priori to inform the
+ Project Advisory Committee (PAC) and DSMB—showed
+ a secular trend with lower NMR and YIMR in all the
+ arms including the control arm (see online supplemen-
+ tary web table 2). In view of the low baseline NMR than
+ expected, the PAC recommended to analyse the results
+ from all five sites together to have a single effect size at
+ the end of the study.
+ Analysis was by intention to treat at cluster and partici-
+ pant levels. We analysed the data from all the sites together
+ with adjustment for clusters, as per the DSMB approved 
+<insert> Figure 2
+ SR, AWW or control arms.
+ Study profile. NMR, neonatal mortality rate. 
+<iend>
+
+ 
+<insert> Table 2 Demographic characteristics and baseline mortality rates (2002–2003)
+ Characteristics SR arm AWW arm Control arm
+ Population
+ Households
+ 269
+ 50
+ 303
+ 57
+ 281
+ 54
+ Births 6349 6650 6365
+  Live births 6210 6519 6223
+  Still births
+ Caste
+ SC/ST 17 802 (35.1) 20 404 (35.3) 19 772 (36.6)
+  Others 32 914 (64.9) 37 339 (64.7) 34 249 (63.4)
+ Illiterate 3968 (62.5) 3937 (59.2) 3673 (57.7)
+ Literate 2381 (37.5) 2713 (40.8) 2692 (42.3)
+  Home 4710 (74.2) 4894 (73.6) 4423 (69.5)
+  Facility 1639 (25.8) 1756 (26.4) 1942 (30.5)
+ Delivery by skilled birth attendant 2013 (31.1) 2082 (31.1) 2091 (32.7)
+ Maternal education
+ Place of delivery
+ NMR per 1000 live births
+ Young infant mortality rate per 1000 live births
+ 52.9 (47.4–58.6)
+ 61.0 (55.0–67.0)
+ 53.7 (48.2–59.2)
+ 61.1 (55.3–66.9)
+ 55.0 (49.3–60.7)
+ 59.6 (53.7–65.5)
+ Data presented as n (%) or mean (95% CI).
+ AWW, anganwadi workers; NMR, neonatal mortality rate; SC/ST, scheduled caste/scheduled tribe; SR, Shishu Rakshak. 
+<iend>
+
+ plan of analysis (see ‘online supplementary: Plan of anal-
+ ysis’). Means and proportions of background characteris-
+ tics were compared using analysis of variance and X 2 test.
+ Mortality rates were adjusted for religion, caste, resident
+ status (resident/visitor), and education at the individual
+ level, and distance to district hospital (<25 km), access
+ to PHC or CHC, presence of private clinics, provision
+ of JSY and presence of ASHA at the cluster level. The
+ adjusted ORs, along with 95% CIs, of mortality rates were
+ estimated for each intervention arm—after adjusting for
+ cluster design—by using ‘logistic’ model in Stata V.11.2
+ (StataCorp). For cluster adjustment, we considered each
+ village as a ‘cluster’ because the outcomes were more
+ likely to be correlated within the village than the PHCs
+ (which were only 10 in each arm).
+ The study was registered with Clinical Trial Registry of
+ India (CTRI/2011/12/002181).
+ 
+<section> Role of funding source
+ The ICMR, the central research organisation under
+ the aegis of the Ministry of Health and family Welfare,
+ Government of India, conducted the present study as a
+ Task Force study. The organisation did not receive any
+ external funding for this study.
+ 
+<section> Results
+ 
+<section> Figure 2 shows the trial profile. Out of the 45 clusters (ie,
+ PHCs) assessed for eligibility, 30 were chosen based on
+ NMR and home births and were randomly allocated to
+ 
+<section> Demographic characteristics and baseline mortality rates
+ Table 2 shows the demographic characteristics of enrolled
+ clusters at baseline period (2002–2003).
+ The baseline survey covered 50 716, 57 803 and 54
+ households in SR, AWW and control arms, respectively. The
+ level of maternal education and the proportion of women 
+<insert> Table 3 Coverage of study interventions in SR and AWW arms
+ Intervention
+ Home visits
+ Deliveries at home attended by the concerned health worker
+ First examination of infant within 24 hours after birth (in home
+ Postnatal home visits for newborns
+  No of high-­risk visits (median)
+  No of normal visits (median)
+ Probable sepsis
+  Total infants suspected
+  Received only oral cotrimoxazole
+  Received oral cotrimoxazole and IM gentamicin*
+  Referred to a health facility
+ Data presented as n (%).
+ *IM gentamicin was administered in only SR clusters.
+ AWW, anganwadi workers; IM, intramuscular; SR, Shishu Rakshak. 
+<iend>
+
+ from socially disadvantaged groups were similar in the three
+ arms. Only one-­fourth of deliveries happened at a health
+ facility, and less than one-­third were attended by a skilled
+ birth attendant in all the arms. The NMR ranged from
+ to 55 per 1000 live births while the YIMR varied from 60 to
+ 61 per 1000 live births in the three arms (table 2).
+ 
+<section> Coverage of interventions
+ Table 3 shows the coverage of study interventions in the
+ two intervention arms. The source of this information was
+ the service delivery record of SRs and AWWs (available for
+ 4788 and 3956 deliveries, respectively). When compared
+ with AWW arm, more women received home visits during
+ the antenatal period, a higher proportion of deliveries at
+ home were attended by the worker, more newborns were
+ examined within 24 hours after birth, and more infants
+ were suspected to have sepsis in the SR arm. About one-­
+ third (39.8%) of infants with probable sepsis in the SR arm
+ received oral cotrimoxazole and IM gentamicin; another
+ one-­fifth received oral cotrimoxazole alone. In the AWW
+ arm, about half of the infants (53.2%) with probable sepsis
+ received oral cotrimoxazole alone; no IM injections were
+ administered in this arm. When compared with SR arm,
+ the proportion of infants being referred to a health facility
+ was higher in the AWW arm (table 3). No adverse events
+ related to IM injection administration were documented in
+ the SR arm. Out of the 259 SRs recruited, 82% (212) had
+ acquired desired injection skills.
+ 
+<section> Endline survey
+ The endline survey (for 2008–2009 period) covered
+ 848, 66 888 and 61 042 households in SR, AWW and
+ control arms, respectively (table 4). Maternal age and
+ religion were similar in the three arms but there was
+ significant difference in the caste distribution—about
+ 21% of women in the control arm belonged to general
+ category (‘others’) in contrast to 14% of the women in
+ SR and AWW arms. More villages in the control arm had
+ 
+<section> BMJ Global Health
+ 
+<section> SR (n=4788) AWW (n=3956)
+ 
+<section> 4546 (94.9) 
+<section> 3427 (86.6)
+ 959/1448 (64.4) 340/1267 (26.8)
+ deliveries only) 1120/1378 (81.3) 701/1272 (55.1)
+ 
+<section> n=4600 
+<section> n=3805
+ 
+<section>   
+<section>  
+ 
+<section> 462 (10.0) 
+<section> 329 (8.6)
+ 
+<section> 90 (19.5) 
+<section> 175 (53.2)
+ 
+<section> 184 (39.8) 
+<section> Nil
+ 
+<section> 188 (40.7) 
+<section> 154 (46.8)
+ 
+<section> a district hospital within 25 km radius, an ASHA provider,
+ and a functioning JSY programme as compared with the
+ villages in the two intervention arms. More villages in the
+ AWW arm had access to a private health facility (table 4).
+ 
+<section> Key indicators during endline period (2008–2009)
+ Most women had at least one antenatal visit by ANM in
+ all the three arms; the proportion of women who had
+ three or more antenatal visits by ANMs was, however,
+ low in the SR arm when compared with the other two
+ arms (table 4). About two-­thirds of deliveries occurred in
+ health facilities, though the proportion of facility births
+ was lower in the AWW arm. More than 90% of women
+ received tetanus immunisation in all the arms. A higher
+ proportion of mothers who delivered in health facilities
+ in the SR and AWW arms than those in the control arm
+ received payment under JSY programme (table 4).
+ 
+<section> Outcomes: mortality rates
+ Table 5 provides the mortality rates in the three arms.
+ There were 173, 202 and 194 neonatal deaths, respectively,
+ in the SR, AWW and control arms during the final year of
+ intervention. The risk of neonatal mortality was 25% lower
+ in the SR arm than the control arm (adjusted OR 0.75,
+ 95% CI 0.57 to 0.99). There was also a significant reduc-
+ tion in the risks of early neonatal mortality, young infant
+ mortality and infant mortality—by 32%, 27% and 33%,
+ respectively—in infants in the SR arm when compared
+ with those in the control arm (table 5). The stillbirth rate
+ was not different between the SR and control arms, but
+ the perinatal mortality rate was significantly lower in the
+ former (adjusted OR 0.73, 95% CI 0.57 to 0.93).
+ The risks of neonatal mortality, early neonatal mortality,
+ young infant mortality and infant mortality in infants
+ born in the AWW arm were, however, not different from
+ those born in the control arm; similarly, there was no
+ difference in the stillbirth rate or perinatal mortality rate
+ between the AWW and control arms (table 5). 
+<insert> Table 4 Demographic characteristics during ‘endline’ period (2008–2009)
+ SR arm AWW arm Control arm
+ Population 309 337 314
+ Households 59 66 61
+ Births 6623 6852 5898
+  Live births 6525 6728 5797
+  Still births
+ Religion      
+  Hindu 6207 (93.7) 6351 (92.7) 5329 (90.3)
+  Muslim 346 (5.2) 438 (6.4) 508 (8.6)
+  Others 70 (1.1) 63 (0.9) 61 (1.1)
+ Caste      
+  Scheduled caste 1417 (21.3) 1443 (21.0) 1285 (21.7)
+  Scheduled tribe 755 (11.4) 1036 (15.2) 659 (11.2)
+  Other backward castes 3522 (53.2) 3402 (49.6) 2740 (46.4)
+  Others 929 (14.0) 971 (14.2) 1214 (20.7)
+ Maternal education      
+  Illiterate 1331 (20.0) 1346 (19.7) 1379 (23.4)
+  Primary to middle school 1348 (20.4) 1475 (21.5) 1412 (24.0)
+  High school and above 3844 (59.6) 4031 (58.8) 3107 (52.6)
+ Proportion of villages with n=351 n=430 n=344
+ Access to primary health centre* 27 (7.8) 50 (11.6) 31 (8.8)
+ Access to community health centre* 21 (6.1) 37 (8.0) 10 (2.8)
+ Distance to district hospital <25 km 38 (11.0) 103 (23.9) 164 (46.7)
+ Private clinic/nursing home 13 (2.8) 23 (5.3) 10 (2.8)
+ ASHA provider 299 (86.9) 346 (80.5) 312 (88.9)
+ Functioning JSY programme 307 (89.2) 350 (81.4) 326 (92.8)
+ Antenatal visit(s) by ANM n=6341 n=6560 n=5688
+  At least 1 visit 5892 (92.9) 5740 (87.5) 5270 (92.6)
+  >3 visits 2129 (33.6) 2702 (41.2) 2698 (47.4)
+ Tetanus immunisation 6037/6448 (93.6) 6019/6643 (90.6) 5350/5717 (93.6)
+ Place of delivery      
+  Home 2057 (31.0) 2440 (35.6) 1737 (29.4)
+  Facility 4566 (69.0) 4412 (64.4) 4161 (70.6)
+ Delivery attended by n=5515 n=5675 n=5015
+  Unskilled personnel 807 (14.6) 924 (16.3) 719 (14.3)
+  Skilled birth attendant 4708 (85.4) 4751 (83.7) 4296 (85.7)
+ Mother received payment under JSY (for deliveries at health facility) 3208/4566 (70.3) 3285/4412 (74.5) 2633/4161 (63.3)
+ Data are number (%).
+ *Access to health facility means that the village is connected by all-­weather road to a health facility.
+ ANM, auxiliary nurse midwives; ASHA, accredited social health activist; AWW, anganwadi workers; JSY, Janani Suraksha Yojana; SR,
+ Shishu Rakshak. 
+<iend>
+
+ 
+<section> BMJ Global Health
+ 
+<section> Discussion
+ 
+<section> The present study showed a significant reduction in the
+ neonatal, young infant and infant mortality rates in the
+ SR arm—but not in the AWW arm—when compared
+ with the control arm (table 5). The coverage of intended
+ interventions like home visits for health education during
+ AN period, deliveries at home attended by SR/AWW and
+ postnatal visits within 24 hours of birth was significantly
+ higher in the SR arm than the AWW arm (table 3). The
+ study, therefore, confirms the effectiveness of HBNC
+ package, if delivered by a dedicated village level worker
+ and a reasonably high coverage is achieved.
+ The findings of the present study are not entirely
+ ‘new’; rather they reaffirm the results of the previous
+ community-­ based cluster RCTs on HBNC from South
+ Asia 6–9 and Africa. 10 An earlier systematic review that 
+<insert> Table 5 Mortality rates of infants born in the final year of intervention*
+ SR AWW Control
+ SR versus control;
+ adjusted OR† (95% CI)
+ AWW versus control;
+ adjusted OR† (95% CI)
+ Neonatal mortality rate
+ (per 1000 live births)
+ Early neonatal mortality rate
+ (per 1000 live births)
+ 26.5 30.0 33.5 0.75 (0.57 to 0.99) 0.85 (0.65 to 1.09)
+ 17.9 22.9 24.8 0.68 (0.52 to 0.90) 0.87 (0.66 to 1.16)
+ Young infant mortality rate
+ (per 1000 live births)
+ 28.3 33.7 37.3 0.73 (0.56 to 0.95) 0.86 (0.66 to 1.10)
+ Infant mortality rate
+ (per 1000 live births)
+ 37.7 46.1 52.4 0.67 (0.54 to 0.83) 0.81 (0.65 to 1.02)
+ Stillbirth rate
+ (per 1000 births)
+ Perinatal mortality rate
+ (per 1000 births)
+ 14.8 18.1 17.3 0.81 (0.56 to 1.16) 1.06 (0.79 to 1.41)
+ 32.5 40.6 41.5 0.73 (0.57 to 0.93) 0.94 (0.75 to 1.19)
+ *Between Holi festival in March 2008 and next Holi in March 2009.
+ †Adjusted for religion, caste, resident status and education at the individual level, and distance to district hospital (<25 km), access to PHC
+ or CHC, presence of private clinics, provision of Janani Suraksha Yojana and ASHA in the village; cluster adjusted for villages.
+ ASHA, accredited social and health activists; AWW, anganwadi workers; CHC, community health centres; PHC, primary health centres; SR,
+ Shishu Rakshak. 
+<iend>
+
+ included five such trials from South Asia 6–9 11 found a
+ significant reduction in NMR following HBNC (pooled
+ RR 0.75; 95% CI 0.61 to 0.92). 12 It had suggested a greater
+ beneficial effect with a higher baseline NMR (>50 per
+ 1000 live births) based on the results of subgroup and
+ meta-­regression analyses. 12 We found a similar magni-
+ tude of reduction in NMR in the SR arm—adjusted OR
+ 0.75; 95% CI 0.57 to 0.99. Our results are particularly
+ noteworthy because of the low ‘endline’ NMR—33.5 per
+ 1000 live births—in the control arm. The updated meta-­
+ analysis including the trial from Africa 10 and the present
+ study revealed 22% reduction in NMR following home
+ based care (seven studies; pooled effect size 0.78; 95% CI
+ 0.67 to 0.90; see ‘online supplementary web figure 1’).
+ Of the two intervention arms, only one (SR) showed
+ a significant reduction in the neonatal and YIMR while
+ the other (AWW) did not. This apparent discrepancy
+ in beneficial effects between the SR and AWW arms is
+ unlikely due to underlying differences in baseline char-
+ acteristics between the two arms (given the similar demo-
+ graphic characteristics like NMR and place of birth;
+ table 2). The key components of intervention were also
+ the same, except for IM injections for probable sepsis
+ (table 1). The major difference between the two arms,
+ apparently, was the presence of a new, dedicated health
+ worker—SR—in the SR arm. It seems that her presence
+ ensured much higher coverage of key interventions like
+ home visits during AN period and first postnatal home
+ visit within 24 hours after birth in the SR arm than in the
+ AWW arm (table 3). About 40% of infants with probable
+ sepsis in the SR arm did receive IM gentamicin along
+ with oral cotrimoxazole whereas no IM injections were
+ administered in the AWW arm. But provision of IM injec-
+ tions alone is unlikely to explain the difference in effect
+ between the two arms given that only 40% of eligible
+ infants received IM injections in the SR arm. Hence, the
+ 
+<section> BMJ Global Health
+ 
+<section> discrepancy observed in beneficial effects between the
+ SR and AWW arms was most likely due to delivery of the
+ interventions by a dedicated health worker and not by
+ the ‘routine’ staff. Interestingly, the subgroup analysis
+ in the updated meta-­analysis based on the presence of
+ dedicated/specially recruited health worker showed 36%
+ and 12% reduction in NMR, respectively, in the studies
+ with and without dedicated health worker (see online
+ supplementary web figures 1 and 2). The magnitude of
+ benefit observed in the AWW arm—15% reduction—is
+ consistent with the pooled effect size of the studies that
+ employed only existing health staff. Indeed, the present
+ study has possibly addressed a major policy dilemma
+ faced by most governments in low-­income and middle-­
+ income countries—whether to deliver the home-­based
+ package of newborn interventions by a dedicated health
+ worker or by the existing village level worker. Unlike the
+ SR, the AWW had to take care of her routine tasks like
+ child development and nutrition, in addition to deliv-
+ ering the study interventions. The modest and non-­
+ significant benefits observed in the AWW arm despite
+ training, incentive, and supervision demonstrates that
+ there are limits to expanding the multitasking role by a
+ given class of providers beyond their primary mandate.
+ The other interesting and programme-­relevant finding
+ of the study relates to the effects of the intervention on
+ early NMR and infant mortality rates. Infants in the SR
+ arm had 32% lower mortality in the first week of life—the
+ observed effect size for early NMR was more than that
+ of NMR (32% vs 25%; table 5). The beneficial effects in
+ early NMR were observed in facility births also (online
+ supplementary web table 3), which underscores the need
+ for postnatal home visits by the health workers in the first
+ few days of life, irrespective of the place of birth. Infants
+ in the SR arm had 27% lower mortality in 0–59 days
+ (young infant mortality) and 33% reduction in 0–364 
+<section> days (infant mortality; table 5). This could be due to
+ the ‘lasting’ effect of the family and provider-­counsellor
+ contact, in the crucial days including antenatal and post-
+ natal period, on healthy behaviours like exclusive breast-
+ feeding and care-­seeking. Newborns are likely to fall sick
+ even if they are delivered at facility when they return
+ home after discharge from the hospital. HBNC ensures
+ continuam of care beginning from care during antenatal
+ period, through labour and birth, followed by care at
+ postnatal period. This is an additional convincing argu-
+ ment in favour of scaling up HBNC for further reduction
+ in neonatal including early NMR.
+ 
+<section> Strengths and limitations
+ The major strengths of the study are the cluster
+ randomised study design, having two intervention arms
+ to address the pertinent question on the need to have a
+ dedicated health worker to deliver the package of inter-
+ ventions, the package of interventions being similar to
+ the original HBNC package in the Gadchiroli study,
+ similar and independent measurement of outcomes in
+ the intervention and control clusters, and large sample
+ size.
+ The study has important limitations too. First, the
+ outcomes were measured by a survey and not by ongoing
+ surveillance of births and deaths in the clusters. Also, the
+ survey was conducted almost a year after the completion
+ of intervention phase. The risk of recall bias and bias in
+ categorising the deaths—neonatal ersus postneonatal
+ mortality—cannot be ruled out. But given the nature of
+ the outcome (death) and the overall pattern in reduction
+ of different mortality rates in the SR clusters, the risk of
+ these biases is likely to be low; also, the recall bias is likely
+ to be similar in three arms. Second, the trial included
+ only 10 clusters per arm. A smaller unit of randomisation,
+ such as villages, would have improved the efficiency of
+ cluster randomisation. Third, the coverage of interven-
+ tions in both the SR and AWW arms was not optimal—a
+ small but considerable proportion of infants did not
+ receive the whole package of interventions in both the
+ arms; less than half of the infants with probable sepsis
+ received IM injections in the SR arm. If the coverage of
+ interventions were almost universal, the observed benefi-
+ cial effects could have been more striking.
+ With the launch of NRHM, several efforts were made to
+ improve maternal child survival that resulted in substan-
+ tial increase in numbers of institutional delivery at the
+ time of endline evaluation. The proportion of facility
+ births in the present study was around 67%—more than
+ double the rate at baseline. Therefore, we did post hoc
+ subgroup analysis based on the place of birth, which
+ revealed results similar to that of overall study cohort
+ for facility births—the risks of neonatal, early neonatal,
+ infant, young infant and perinatal mortality were found
+ to be significantly lower in the SR arm but there was no
+ difference in the mortality rates between the AWW and
+ control arms. Among home births, no difference was
+ found in the mortality rates between either the SR and
+ control arms or the AWW and control arms (possibly
+ because of the small numbers and subsequent low power;
+ online supplementary web table 3).
+ 
+<section> Implications for policy-makers
+ The findings of the present study have three major impli-
+ cations for the policy-­makers. First, the HBNC package,
+ if delivered optimally, has the potential to reduce both
+ neonatal (including early neonatal) and infant mortality
+ rates. The effect on early neonatal mortality is particu-
+ larly important because of the high proportion of deaths
+ occurring in the first week of life and the general lack of
+ interventions known to reduce the early NMR. Second,
+ to achieve maximum benefits, presence of a dedicated
+ health worker is a must. Third, the intervention is rele-
+ vant even in settings with high rates of facility births.
+ 
+<section> Conclusions
+ This cluster randomised community-­ based trial
+ conducted at five sites across India confirms that the
+ HBNC package is feasible to deliver and is effective in
+ reducing neonatal and YIMR, particularly when deliv-
+ ered by a dedicated worker devoted to only maternal/
+ neonatal care. The intervention package was effective
+ even in settings with high rates of institutional births.
+ 
+<section> Author affiliations
+ Indian Council of Medical Research (ICMR), New Delhi, India
+ Patna Medical College Hospital (PMCH), Patna, India
+ Mahatma Gandhi Institute of Medical Sciences (MGIMS), Wardha, India
+ National Institute of Applied Human Research & Development (NIAHRD), Cuttack,
+ 
+<section> India
+ Action Research and Training for Health (ARTH), Udaipur, India
+ King George Medical University (KGMU), Lucknow, India
+ National Institute of Medical Statistics, New Delhi, India
+ All India Institute of Medical Sciences (AIIMS), New Delhi, India
+ Sitaram Bhartia Institute of Science and Research (SBISR), New Delhi, India
+ Maulana Azad Medical College (MAMC), New Delhi, India
+ Society for Education, Action and Research in Community Health (SEARCH),
+ 
+<section> Gadchiroli, India
+ 
+<section> Acknowledgements We are grateful to Dr. MK Bhan (Department of
+ Biotechnology (DBT) New Delhi -Chair, project advisory group), Dr. S Bhargava
+ (New Delhi), Dr. R Kumar (PGIMER Chandigarh),Dr. AT Bang (SEARCH Gadchiroli) for
+ ongoing review of the study and constructive suggestions. We also acknowledge
+ contribution of DSMB members –Dr. VI Mathan (Chennai), Dr. S Ghosh (New Delhi)
+ 
+<section> Ϯ, Dr. P Singh (EPOS Health India, Delhi). Coordinating unit: We acknowledge the
+ technical assistance provided by KK Ganguly, S Chauhan, Arnab, Ajitha, Barnali,
+ Meenakshi, Sonia, Mohan and Garima during implementation of the project and
+ technical guidance received from Dr. M. Roy. We acknowledge the contribution of
+ I Kambo (ICMR) and S Datey (ICMR), Dr. N Bhandari (Society for Applied Studies,
+ New Delhi), Dr. R Bahl (WHO, Geneva), during project planning and implementation.
+ We are grateful to SEARCH for technical contents of HBNC, designing and
+ providing training to master trainers and supervisors. We acknowledge the
+ training support (for master trainers) provided by Priya Paranjpe, Pradip Paranjpe,
+ S Baitule, MD Deshmukh (SEARCH). We are grateful to the family members as
+ well as Department of Health & Family Welfare, governments of Bihar, Odisha,
+ Maharashtra, Rajasthan and Uttar Pradesh for their support and cooperation during
+ implementation of the study.
+ 
+<section> Collaborators ICMR-­HBMYI Study Group: Investigators team:D Ganguly, S Kumar,
+ R P Singh, SK Jha, U Prasad, U K Singh, M S Bharambe, P V Bahulekar, A Mohanty,
+ H K Dash, L Kanungo, R K Dattatreya, J K George, K Sen, A Dadhich; A Srivastava, N
+ Agarwal, S Shakir, S Singh; Endline survey team: R J Yadav, R K Gupta, T Adhikari, A
+ Juneja, A Kumar, D Sahu, J Singh, R K Sharma. 
+<section> Contributors NCS, RR, SR VKP and ATB conceptualised and contributed
+ significantly to the design of the study. Collaborating sites: Investigators
+ implemented the study in the field at five sites. NCS and RR coordinated the study.
+ AT Bang, Priya Paranjpe and Pradip Paranjpe, S Baitule trained master trainers,
+ monitored training at sites. SR, VKP, R Kumar, AT Bang, NCS, RR, AS contributed
+ to study implementation and monitoring. SK, NCS, AP, RMP, HSS, D Sahu, J Singh,
+ MJS, RR, AS, VKP, SR helped in analysis and interpretation of data. RR wrote the
+ first draft of the manuscript. RR and MJS did literature review. MJS and VKP
+ analysed research in context. RR, VKP, MJS, SR finalised the draft manuscript. All
+ other authors provided input, reviewed results, contributed to the final manuscript.
+ Central Coordinating Unit—Indian Council of Medical Research (ICMR), Ansari
+ 
+<section> Nagar, New Delhi: NCS, RR, AS, SK, M Roy. Investigators: Patna Medical College
+ 
+<section> Hospital (PMCH), Patna, Bihar: S Pandey (site principal investigator), S Sinha, D
+ Ganguly, S Kumar, R P SinghϮ, SK Jha, U Prasad, U K Singh: Mahatma Gandhi
+ Institute of Medical Sciences (MGIMS), Sevagram, Wardha, Maharashtra: BS Garg
+ (site principal investigator), S Gupta, M S Bharambe, P V Bahulekar: National
+ Institute of Applied Human Research & Development (NIAHRD), Cuttack, Odisha:
+ S Swain (Site Principal Investigator), A MohantyϮ, H K Dash, L Kanungo. Action
+ Research and Training for Health, (ARTH), Udaipur, Rajasthan: SD Iyengar (Site
+ Principal Investigator), R K Dattatreya, J K George, K Sen, A Dadhich. King
+ George Medical University (KGMU), Lucknow, Uttar Pradesh: V Das (site principal
+ investigator), G K MalikϮ, A Srivastava, N Agarwal, S Shakir, S Singh. Project
+ 
+<section> Implementation Committee: S Ramji (Maulana Azad Medical College (MAMC), New
+ Delhi, VKP (All India Institute of Medical Sciences (AIIMS), New Delhi), R Kumar
+ (Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh),
+ A T Bang (Society for Education, Action and Research in Community Health
+ (SEARCH), Gadchiroli, Maharashtra), RR, AS, NCS, M Roy. Data Management Team:
+ (ICMR)- S Kumar (coordinator), NCS, RR, AS. Endline evaluation team (National
+ Institute of Medical Statistics (NIMS), New Delhi): - A Pandey (Coordinator), R J
+ Yadav, R K Gupta, T Adhikari, A Juneja, A Kumar, D Sahu, J Singh; Regional Medical
+ Research Center for Tribals (RMRCT), Jabalpur–R K Sharma. Data analysis and
+ interpretation: A Pandey (NIMS), RMP (AIIMS), NCS (ICMR), SK (ICMR), MJS (AIIMS),
+ RR (ICMR), AS (ICMR), VKP (AIIMS), SR (MAMC), HSS, Sitaram Bhartia Institute
+ of Science and Research (SBISR) New Delhi. Systematic review for research in
+ context: MJS, VKP. Project Investigator and team leader: NCS and RR. Writing
+ committee: MJS, RR, SR and VKP.
+ 
+<section> Funding This study was funded by Ministry of Health and family Welfare,
+ Government of India and Indian Council of Medical Research (ICMR).
+ 
+<section> Competing interests None declared
+ 
+<section> Patient consent for publication Not Required
+ 
+<section> Ethics approval The Central Ethics Committee of Indian Council of Medical
+ Research (ICMR) as well as institutional ethics committees at each participating
+ centre approved the project.
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data availability statement The full data set is available from the corresponding
+ 
+<section> author
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution Non Commercial (CC BY-­NC 4.0) license, which
+ permits others to distribute, remix, adapt, build upon this work non-­commercially,
+ and license their derivative works on different terms, provided the original work is
+ properly cited, appropriate credit is given, any changes made indicated, and the
+ use is non-­commercial. See: http://​creativecommons.​org/​licenses/​by-​nc/​4.​0/.
+ 
+<section> References
+ 1 Wang H, Bhutta ZA, Coates MM, et al. Global, regional, National,
+ and selected subnational levels of stillbirths, neonatal, infant, and
+ under-5 mortality, 1980-2015: a systematic analysis for the global
+ burden of disease study 2015. Lancet 2016;388:1725–74.
+ 2 Registrar General of India. Sample registration system (SRS)
+ statistical report 2014. New Delhi, 2016.
+ 3 Lassi ZS, Bhutta ZA. Community-­based intervention packages
+ for reducing maternal and neonatal morbidity and mortality and
+ improving neonatal outcomes. Cochrane Database Syst Rev
+ 2015:CD007754.
+ 4 Bhutta ZA, Das JK, Bahl R, et al. Can available interventions end
+ preventable deaths in mothers, newborn babies, and stillbirths, and
+ at what cost? Lancet 2014;384:347–70.
+ 5 Bang AT, Bang RA, Baitule SB, et al. Effect of home-­based neonatal
+ care and management of sepsis on neonatal mortality: field trial in
+ rural India. Lancet 1999;354:1955–61.
+ 6 Kumar V, Mohanty S, Kumar A, et al. Effect of community-­based
+ behaviour change management on neonatal mortality in Shivgarh,
+ Uttar Pradesh, India: a cluster-­randomised controlled trial. Lancet
+ 2008;372:1151–62.
+ 7 Baqui AH, El-­Arifeen S, Darmstadt GL, et al. Effect of community-­
+ based newborn-­care intervention package implemented through two
+ service-­delivery strategies in Sylhet district, Bangladesh: a cluster-­
+ randomised controlled trial. Lancet 2008;371:1936–44.
+ 8 Darmstadt GL, Choi Y, Arifeen SE, et al. Evaluation of a cluster-­
+ randomized controlled trial of a package of community-­based
+ maternal and newborn interventions in Mirzapur, Bangladesh. PLoS
+ One 2010;5:e9696.
+ 9 Bhutta ZA, Soofi S, Cousens S, et al. Improvement of perinatal and
+ newborn care in rural Pakistan through community-­based strategies:
+ a cluster-­randomised effectiveness trial. Lancet 2011;377:403–12.
+ 10 Kirkwood BR, Manu A, ten Asbroek AHA, et al. Effect of the
+ Newhints home-­visits intervention on neonatal mortality rate and
+ care practices in Ghana: a cluster randomised controlled trial. Lancet
+ 2013;381:2184–92.
+ 11 Bhandari N, Mazumder S, Taneja S, et al. Effect of implementation
+ of integrated management of neonatal and childhood illness (IMNCI)
+ programme on neonatal and infant mortality: cluster randomised
+ controlled trial. BMJ 2012;344:e1634.
+ 12 Gogia S, Sachdev HPS. Home-­based neonatal care by community
+ health workers for preventing mortality in neonates in low- and
+ middle-­income countries: a systematic review. J Perinatol
+ 2016;36(Suppl 1):S55–73.

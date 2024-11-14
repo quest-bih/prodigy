@@ -1,0 +1,1005 @@
+
+<section> Effect of kangaroo mother
+ 
+<section> in community settings
+ 
+<section> protection of low-­income
+ 
+<section> randomised controlled
+ 
+<section> Haryana, India
+ 
+<section> Tarun Shankar Choudhary , 1,2 Sarmila
+ Sunita Taneja, 2 Rajiv Bahl, 4 Jose Martines,
+ Ole Frithjof Norheim, 1,3 Halvor Sommerfelt,
+ Kjell Arne Johansson 1,3
+ 
+<section> To cite: Choudhary TS, ABSTRACT
+ Mazumder S, Haaland OA, Introduction Many families in low-­income and middle-­
+ et al. Effect of kangaroo mother income countries have high out-­of-­pocket expenditures
+ care initiated in community (OOPE) for healthcare, and some face impoverishment. We
+ 
+<section> settings on financial risk
+ aimed to assess the effect of Kangaroo Mother Care initiated
+ 
+<section> protection of low-­income
+ households: a randomised in community setting (ciKMC) on financial risk protection
+ controlled trial in Haryana, estimated by healthcare OOPE, catastrophic healthcare
+ India. BMJ Global Health expenditure (CHE) and impoverishment due to healthcare
+ 2022;7:e010000. doi:10.1136/ seeking for low birthweight infants, using a randomised
+ bmjgh-2022-010000 controlled trial design.
+ 
+<section> Methods We included 4475 low birthweight infants
+ 
+<section> Handling editor Valery Ridde randomised to a ciKMC (2491 infants) and a control (1984
+ infants) arm, in a large trial conducted between 2017 and
+ 
+<section> ► Additional supplemental 2018 in Haryana, India. We used generalised linear models
+ material is published online only.
+ of the Gaussian family with an identity link to estimate the
+ 
+<section> To view, please visit the journal
+ online (http://​dx. d oi.​org/​10.​ mean difference in healthcare OOPE, and Cox regression to
+ 1136/ b mjgh-​2022- 10000). estimate the HRs for CHE and impoverishment, between the
+ trial arms.
+ 
+<section> Results Overall, in the 8-­week observation period, the
+ Received 28 June 2022 mean healthcare OOPE per infant was lower (US$20.0) in
+ Accepted 23 October 2022 the ciKMC arm compared with the control arm (US$25.6)
+ that is, difference of −US$5.5, 95% CI −US$11.4 to US$0.3,
+ p=0.06). Among infants who sought care it was US$8.5
+ (95% CI −US$17.0 to −US$0.03, p=0.03) lower in the
+ ciKMC arm compared with the control arm. The HR for
+ impoverishment due to healthcare seeking was 0.56 (95% CI
+ 0.36 to 0.89, p=0.01) and it was 0.91 (95% CI 0.74 to 1.12,
+ p=0.37) for CHE.
+ 
+<section> Conclusion ciKMC can substantially reduce the cost of care
+ seeking and the risk of impoverishment for households. Our
+ © Author(s) (or their findings show that supporting mothers to provide KMC to
+ employer(s)) 2022. Re-­use low birthweight infants at home, in addition to reducing early
+ permitted under CC BY-­NC. No infant mortality, may provide financial risk protection.
+ commercial re-­use. See rights Trial registration number CTRI/2017/10/010114
+ 
+<section> and permissions. Published by
+ BMJ.
+ 
+<section> For numbered affiliations see
+ 
+<section> end of article. 
+<section> INTRODUCTION
+ In 2020, 2.4 million children died world-
+ 
+<section> Correspondence to
+ Dr Tarun Shankar Choudhary; wide within the first month of life; an esti-
+ 
+<section> ​tarun.​choudhary@​uib.​no mated 4 out of 5 of them in low-­income
+ 
+<section> care initiated
+ 
+<section> on financial risk
+ 
+<section> households: a
+ 
+<section> trial in
+ 
+<section> Mazumder, 2 Oystein A Haaland ,
+ 1 Maharaj Kishan Bhan,
+ 
+<section> 1,6 Nita Bhandari ,
+ 
+<section> WHAT IS ALREADY KNOWN ON THIS TOPIC
+ 
+<section> ⇒ Kangaroo mother care initiated in community set-
+ tings (ciKMC) reduces neonatal and early infant mor-
+ tality among low birthweight babies.
+ 
+<section> ⇒ Evidence is lacking on the impact of ciKMC on finan-
+ cial risk protection for households.
+ 
+<section> WHAT THIS STUDY ADDS
+ 
+<section> ⇒ This is the first study to assess the impact of kan-
+ garoo mother care on healthcare out of pocket ex-
+ penditure, catastrophic healthcare expenditure and
+ impoverishment of household due to healthcare
+ seeking for low birthweight infants.
+ 
+<section> ⇒ We show that ciKMC can substantially reduce the
+ cost of care seeking and the risk of impoverishment
+ for households.
+ 
+<section> HOW THIS STUDY MIGHT AFFECT RESEARCH,
+ 
+<section> PRACTICE OR POLICY
+ 
+<section> ⇒ Our findings support the inclusion and scale-­up of
+ kangaroo mother care in communities with high
+ burden of low birth weight.
+ 
+<section> ⇒ Inclusion of non-­health outcomes in randomised tri-
+ als should be considered, as this evidence is import-
+ ant for priority setting and benefit package design.
+ 
+<section> and middle-­ i ncome countries (LMICs).
+ Interventions which can reduce avoid-
+ able mortality exist, however, coverage
+ and quality for such interventions remain
+ modest in many LMICs. 2 Earlier, we have
+ shown that kangaroo mother care initi-
+ ated in community settings (community
+ initiated KMC or ciKMC) can substantially
+ reduce early infant mortality (HR 0.75,
+ 95% CI 0.60 to 0.93, p=0.01) and has bene-
+ ficial equity impact. 3 4 Poverty is a major
+ barrier in accessing healthcare in LMICs. 
+<section> Clinicians often find it difficult to provide optimal
+ care due to financial constraints in the households.
+ Disease and healthcare seeking may plunge a family
+ into poverty since much of health budgets in LMICs are
+ funded by direct out-­o f-­pocket expenditure (OOPE).
+ High-­ q uality evidence on interventions which can
+ prevent impoverishment are needed. Health benefits
+ should be supplemented with social welfare outcomes
+ in randomised controlled trials (RCTs) of healthcare
+ interventions.
+ The RCT methodology is ideal for assessing the
+ impact of healthcare on household economy. Still
+ few, if any, RCTs have used impoverishment and
+ catastrophic healthcare expenditure (CHE) as study
+ outcomes to assess the impact of interventions on
+ financial risk protection. 7 Modelling studies have
+ indicated that some health interventions provide dual
+ benefits in reducing disease incidence and disease
+ severity, which results in fewer healthcare visits and
+ thereby reduced costs for families. 8 9 An RCT design
+ could be used to provide direct evidence for the
+ extent to which an intervention can provide financial
+ risk protection in addition to health benefits.
+ In 2019, India accounted for approximately one-­
+ fourth of all neonatal deaths globally. 10 In 2020,
+ the health expenditure in India was estimated to be
+ US$73 per capita, of which 65% were OOPE, a regres-
+ sive method of health financing. 11 Healthcare seeking
+ in India, therefore, imposes a substantial financial
+ cost for households. Each year, between 14% and 44%
+ of households in India experience CHE, defined as
+ healthcare OOPE above a specified level of the total
+ household expenditure (THE) (typically 10%) and
+ around 5% of households become impoverished. 12
+ High OOPE for care seeking of sick infants is a major
+ barrier to accessing healthcare, especially among
+ poor families. 13–15 Health systems should ensure that
+ people have access to services which improve health
+ but without detrimental impact on other aspects of
+ well-­ b eing. Financial risk protection is an integral
+ component of universal health coverage and an
+ important health policy goal. CHE and impoverish-
+ ment due to healthcare seeking, which are measures
+ of financial risk, are indicators for monitoring
+ sustainable development goals targets. 11 Protection
+ from financial hardships can be ensured through a
+ well-­ f unctioning social health insurance or by tax-­
+ financed health systems. 16 However, such health
+ financing mechanisms are currently not available in
+ most resource constrained settings. 7 Hence, assessing
+ the financial risk protection from standard health-
+ care interventions is particularly important in coun-
+ tries with poorly functioning welfare systems.
+ To our knowledge, this is the first RCT which directly
+ assesses the impact of a health intervention on financial
+ risk protection. More specifically, we evaluated the effect
+ of ciKMC on healthcare OOPE, the risk of CHE and
+ impoverishment during the first half of infancy, among
+ low birthweight (LBW) infants in the Indian state of
+ Haryana.
+ 
+<section> METHODS
+ Study design, setting and participants
+ This unmasked, parallel arm individually randomised
+ superiority trial was a preplanned substudy of a
+ randomised trial, which extended data capture, enabling
+ the assessment of the impact of ciKMC on financial risk
+ protection. 3 The trial was undertaken to estimate the
+ effect of ciKMC on postenrolment neonatal and early
+ infant mortality among infants who weighed between
+ 1500 and 2250 g within 72 hours after birth. 3 It was
+ conducted in rural and semiurban, low-­income popu-
+ lations of Faridabad and Palwal districts in the state of
+ Haryana, India from July 2015 to October 2018. 3 17 In the
+ substudy, which collected data on healthcare expendi-
+ tures and household consumption, infants were enrolled
+ from September 2017 to October 2018.
+ A written individual informed consent was obtained
+ prior to enrolment. The consent form was translated
+ into the local language and administered by a trained
+ interviewer. For those unable to read, it was read out by
+ the worker administering consent. In those unable to
+ sign, a thumb imprint witnessed and countersigned by
+ an impartial literate witness was taken. We ensured equi-
+ table authorship in the publication (online supplemental
+ appendix S1 – Reflexivity Statement).
+ 
+<section> Patient and public involvement
+ In the formative research conducted prior to trial initia-
+ tion, qualitative research methods such as in-­depth inter-
+ views, focus group discussions and observations were
+ used to ascertain practices around birth and to assess the
+ feasibility and acceptability of ciKMC. A prototype inter-
+ vention package and delivery strategy were designed, and
+ household trials were conducted to ascertain adoption
+ rates among mothers of LBW babies.
+ 
+<section> Randomisation and masking
+ We randomly assigned LBW infants to either the ciKMC
+ arm or the control arm in the trial. Infants from the
+ same household were allocated to the ciKMC arm if a
+ previously enrolled infant from the household had been
+ allocated to the ciKMC arm; otherwise, assignment was
+ done as per the randomisation sequence. The sequence
+ was prepared by an independent statistician not involved
+ with other trial activities using random permuted blocks
+ of variable size. Detailed methods of the ciKMC trial have
+ been published earlier. 3
+ 
+<section> Procedures
+ 
+<section> The intervention was promotion of and support for
+ KMC defined as prolonged skin-­to-­skin contact between
+ neonates and their mothers or surrogates for as long as
+ possible during the day and night, and exclusive breast
+ feeding. An intervention delivery team made nine home
+ visits in the ciKMC arm to initiate, promote and support 
+<insert> Table 1 Items for which household consumption and cost
+ of care seeking data were collected
+ Household consumption
+ (collected at enrolment)
+ Healthcare expenditure
+ (Collected at 28-­day*, 90-­day†
+ and 180-­day† visit)
+ Per month
+ ► Food and supplies‡
+ ► Utilities (electricity, water,
+ telephone)
+ ► Rent for house/land/shop
+ ► Maintenance and fuel for
+ vehicles
+ ► Replacements of household
+ appliances
+ ► Payment of loans
+ Outpatient care seeking
+ ► Drugs
+ ► Investigations
+ ► Consultation fees
+ ► Transportation
+ ► Extra food costs
+ ► Wage loss
+ ► Traditional healer costs
+ ► Home treatment
+ expenditures
+ Per three months Inpatient care seeking
+ ► Education for children or self ► Admission fees
+ ► Healthcare ► Hospital beds
+ Per year ► Drugs
+ ► Health insurance/ESI premium ► Transportation extra food
+ ► Goods and utensils for the cost
+ household ► Wage loss
+ ► Clothes
+ ► Others
+ *Data were collected for a recall period of 4 weeks at the visit on
+ days of life.
+ †Data were collected for a recall period of 2 weeks at 90-­day and
+ 180-­day of life visits.
+ ‡Includes value of home-­produced food or goods which were a major
+ component of household consumption in the study setting as families
+ did farming and/or raised cattle for milk.
+ ESI, Employee State Insurance. 
+<iend>
+
+ 
+<section> KMC during the first 28 days of life. During the visits, the
+ worker observed the mother practising KMC, enquired
+ about skin-­ to-­ skin contact and breast feeding in the
+ preceding 24-­ hour period and supported the mother
+ and family to solve any problems or overcome barriers to
+ effective KMC. No intervention was given to the control
+ families but families in both the ciKMC and control arms
+ of the trial continued to receive routine home-­based care
+ from the public health system.
+ Due to the nature of the intervention, mothers were
+ not masked to allocation; however, efforts were made
+ to keep the independent outcome assessors unaware
+ of the intervention allocation and the study hypoth-
+ esis. We collected information on socioeconomic and
+ demographic variables for the household, mother, and
+ father of the study infant as well as on different goods
+ and services consumed by the members of the house-
+ hold during enrolment (table 1). Household consump-
+ tion of goods and services is an important reflection of
+ economic well-­being and thereby of living standards. For
+ infants who had received medical attention, information
+ on healthcare OOPE related to each event of outpatient
+ and inpatient care seeking were collected at the 28-­day,
+ 90-­day and 180-­day visits (table 1). A limited number of
+ expenditure items were included in the questionnaire
+ and the recall period was 4 weeks for the visit on 28th day
+ of life and 2 weeks for visits on 90th and 180th day of life.
+ 
+<section> BMJ Global Health
+ 
+<section> The short recall period was intended to improve accuracy,
+ as recommended in surveys on household economy.
+ 
+<section> Study outcomes
+ The primary outcomes of the study were healthcare
+ OOPE, CHE and impoverishment of the household due
+ to healthcare expenditure for the study infant. Secondary
+ outcomes were THE, household healthcare OOPE for an
+ episode of non-­severe (ie, outpatient care) or severe (ie,
+ in-­patient care) illness and healthcare utilisation.
+ All the costs associated with care seeking during each
+ visit (table 1) to a healthcare provider were considered
+ an event of care seeking. Hence, a single episode of
+ illness could lead to multiple events of care seeking if
+ care was sought from different care providers or from a
+ single provider multiple time. Financial risk protection
+ was measured in two ways. The first considered the risk
+ of falling below the national poverty line due to health-
+ care OOPE for households which were above the poverty
+ line at baseline, and the second considered the risk of
+ experiencing CHE from enrolment till 6 months of
+ infant age. Healthcare expenditures were considered to
+ be catastrophic at three different levels: ≥10% of THE,
+ 
+<section> ≥25% of THE and ≥40% of the non-­food expenditures
+ as suggested by the World Bank and WHO. 19 We also
+ assessed the distribution of gross THE, and net household
+ expenditure in the study arms. Net household expendi-
+ ture was calculated by subtracting healthcare OOPE from
+ THE. Because we only had data on healthcare expen-
+ ditures for eight out of the 26 weeks of follow-­up, total
+ household consumption was calculated for a duration of
+ 8 weeks, based on the items listed in table 1. We used the
+ Indian urban threshold of US$0.72 per capita per day in
+ total household consumption to calculate the number of
+ people falling below the poverty line.
+ 
+<section> Sample size
+ 
+<section> Literature suggests that CHE for different health condi-
+ tions in India range between 14% and 44% and these esti-
+ mates are sensitive to the source of care seeking (public
+ vs private and inpatient vs outpatient). 21 Data specific to
+ CHE for healthcare seeking among families with LBW
+ infants less than 6 months of age for the study setting was
+ unavailable. Since we included both public and private
+ sources of care seeking and included both inpatient and
+ outpatient care seeking, we used a conservative CHE esti-
+ mate of 15% for our control arm. 15 To be able to esti-
+ mate a minimum 25% relative risk reduction in CHE with
+ ciKMC promotion and support, with a two-­sided alpha
+ of 0.05 and 90% power, we needed a minimum sample
+ size of 1702 infants in each trial arm. We used a two-­
+ proportion test for calculating the sample size using the
+ above assumptions. 22 However, because the background
+ CHE estimate was conservative and to enhance statis-
+ tical precision of our estimates, we continued to enrol
+ participants until the enrolment in the primary trial was
+ completed. 
+<insert> Figure 1 Trial profile. Note: The data safety and monitoring board stopped the trial before the last enrolled child could
+ complete 180 days follow-­up. Hence, at the time the trial ended, we missed eight weeks of information on care seeking
+ expenditures if the child was younger than 28 days, 4 weeks if the child was younger than 90 days, and 2 weeks if the child age
+ was younger than 180 days old. ciKMC, Kangaroo Mother Care initiated in community setting. 
+<iend>
+
+ 
+<section> BMJ Global Health
+ 
+<section> Statistical analysis
+ We used Stata V.16.1 (StataCorp) and R statistical environ-
+ ment for all analyses. We summarised baseline character-
+ istics using percentages, means with SD and median with
+ IQR. We show the distribution of THE and net house-
+ hold expenditure in a Pen’s parade, which is generally
+ used to show the income distribution in a population.
+ We used generalised linear models of the Gaussian family
+ with an identity link to estimate the mean difference with
+ 95% CIs in healthcare OOPE. We calculated the effect of
+ ciKMC promotion and support on CHE and impoverish-
+ ment due to care seeking using Cox regression models to
+ estimate HRs with 95% CIs. We used robust SEs to account
+ for clustering due to more than one infant within a single
+ household. 23 Estimates for inpatient, outpatient and total
+ costs were generated separately for all infants as well as
+ for the infants who had at least one event of care seeking.
+ Costs are reported in 2017 US$, with a conversion rate
+ US$1=INR65.12.
+ 
+<section> RESULTS
+ 
+<section> Between September 2017 and Oct 2018, 4475 infants
+ were enrolled into the study. The infants were randomly
+ assigned to either the ciKMC (n=2491) or control
+ (n=1984) arm (figure 1). Table 2 shows the baseline char-
+ acteristics of the infants, their mothers and their families.
+ Randomisation effectively balanced important baseline
+ characteristics of the study participants.
+ Tables 3 and 4 show the impact of ciKMC on health-
+ care OOPE, and the HR of CHE and impoverishment of
+ families due to care seeking for study infants. During the
+ 8 weeks when patient cost data were available, the average
+ healthcare OOPE was US$5.54 (95% CI −11.38 to 0.30)
+ lower in the ciKMC arm compared with the control arm.
+ The percentage of households experiencing CHE was
+ high during the first 180 days of life, ranging between
+ 4.7% and 7.9% in the control arm and between 3.7% and
+ 7.2% in the intervention arm at different cut-­offs. The
+ risk of CHE was only 9% (HR 0.91) to 21% (HR 0.79)
+ lower in the ciKMC arm as compared with the control
+ arm for the different cut-­offs used. ciKMC promotion
+ and support caused a reduction in the risk of impoverish-
+ ment due to healthcare expenditures of 44% (HR 0.56;
+ 95% CI 0.36 to 0.89).
+ Figure 2 shows the distribution of THE and the net
+ of healthcare OOPE, which was derived by subtracting
+ healthcare OOPE (drop lines) from THE in the two trial
+ arms. The plot shows participants ranked based on THE
+ and the net of healthcare OOPE through droplines.
+ Although participants across the whole gradient have
+ healthcare expenses, the ones on the left-­hand side of
+ the distribution, that is, the marginalised population 
+<insert> Table 2 Baseline characteristics of the participants
+ ciKMC arm Control arm
+ Characteristics of infants (n=2491) (n=1984)
+ Sex
+  Female 1419 (57.0%) 1108 (55.9%)
+  Male 1072 (43.0%) 876 (44.1%)
+  Nuclear family† 758 (30.5%) 586 (29.5%)
+  Joint family 1730 (69.5%) 1398 (70.5%)
+ Twins enrolled 90 (3.6%) 55 (2.8%)
+  First baby 1007 (40.5%) 817 (41.2%)
+  2 April 1285 (51.7%) 1024 (51.6%)
+  >4 196 (7.9%) 143 (7.2%)
+  Home delivery 366 (14.7%) 295 (14.9%)
+  Hospital birth 2125 (85.3) 1689 (85.1%)
+ Family type*
+ Birth order*
+ Place of birth
+ Family has below poverty line card‡;§
+  Yes 448 (18.0%) 365 (18.4%)
+  No 2038 (82.0%) 1619 (81.6%)
+  Hindu 2036 (81.8%) 1628 (82.1%)
+  Others 452 (18.2%) 356 (17.9%)
+  General 510 (20.5%) 425 (21.4%)
+  OBC/SC/ST 1978 (79.5%) 1559 (78.6%)
+ Mean (SD) weight at
+ enrollment in grams
+ 2081 (165) 2083 (159)
+  1.50–1.80 kg 196 (7.9%) 145 (7.3%)
+  1.81–2.00 kg 516 (20.7%) 415 (20.9%)
+  2.01–2.25 kg 1779 (71.4%) 1424 (71.8%)
+  28 days 2012 (80.8%) 1548 (78.0%)
+  90 days 234 (9.4%) 215 (10.8%)
+  180 days 245 (9.8%) 221 (11.1%)
+ Mean years of schooling
+ among mothers (SD)
+ 6.3 (5.1) 6.6 (5.2)
+ Family religion*
+ Family caste¶;*
+ Enrolled at
+ Mother working outside home
+  Yes 39 (1.6%) 18 (0.9%)
+  No 2452 (98.4%) 1966 (99.1%)
+ Monthly household consumption in US$
+  Mean (SD) 307.8 (434.1) 309.9 (331.8)
+  Median (IQR) 228 (150–356) 227 (154–364)
+ Median (IQR) monthly household consumption in US$
+  Poorest (Lowest) 153 (113–236) 157 (108–239)
+  Very poor (second)
+  Poor (middle)
+ 175 (127–256) 179 (127–272)
+ 211 (148–313) 211 (156–325)
+ Continued 
+<iend>
+
+ 
+<insert> Table 2 Continued
+ Median (IQR) monthly non-­food consumption in US$
+  Poorest 71 (41–121) 73 (42–114)
+  Very poor 81 (55–139) 89 (57–146)
+  Poor 110 (70–178) 112 (74–182)
+  Less poor
+  Least poor
+ 136 (85–224) 140 (87–242)
+ 169 (107–306) 171 (105–290)
+ ciKMC arm Control arm
+ Characteristics of infants (n=2491) (n=1984)
+  Less poor (fourth) 263 (182–376) 271 (186–416)
+  Least poor (highest) 352 (233–514) 330 (230–514)
+ Data presented are n (%) unless stated otherwise.
+ *Data on family type, birth order, religion, caste were missing for
+ three infants in the ciKMC arm.
+ †A nuclear family consists of a man and a woman and their
+ children.
+ ‡Below poverty line has been defined as a per capita income
+ below US$0.72 (INR47) for a family in urban areas.
+ §Data on whether a family were below the poverty line was
+ missing for 5 infants in the ciKMC arm.
+ ¶The SCs and STs are officially designated groups of historically
+ disadvantaged people in India. OBC is a collective term used by
+ the Government of India to classify castes which are educationally
+ or socially disadvantaged.
+ ciKMC, Kangaroo Mother Care initiated in community setting;
+ OBC, other backward caste; SC, scheduled caste; ST, scheduled
+ tribe. 
+<iend>
+
+ 
+<section> BMJ Global Health
+ 
+<section> closer to poverty line, have higher risks of impoverish-
+ ment or being further pushed into poverty due to health-
+ care seeking. Note that we see from figure 2 that some
+ households have extremely high healthcare OOPE (seen
+ by the long drop lines). These high expenses were more
+ common among those seeking inpatient care and are
+ presented in greater detail in table
+ As seen in table 5, the average number of out-­patient
+ care seeking events per infant was 0.07 or 9% (0.07/0.74)
+ lower in the ciKMC arm than the control arm, whereas
+ the number of inpatient care-­seeking episodes per infant
+ were similar. Importantly, families in the ciKMC arm
+ sought care 3.5 hours earlier compared with the fami-
+ lies in the control arm. The families who sought inpa-
+ tient care spent an average of US$79 in the ciKMC as
+ compared with US$106 in the control arm, suggesting
+ that ciKMC induced a US$27 or 25% (26.9/106.0) reduc-
+ tion in inpatient cost per infant.
+ 
+<section> DISCUSSION
+ 
+<section> In the current analysis, we showed that supporting
+ mothers of LBW infants (1500–2250 g) to provide ciKMC
+ had two important financial benefits to households:
+ reduced risk of impoverishment due to care seeking for
+ the infant and reduction in healthcare OOPE, especially
+ for inpatient visits. Although estimated with limited statis-
+ tical precision, the risk of catastrophic healthcare OOPE 
+<insert> Table 4 Catastrophic HCE at various cut-­offs and poverty impact of ciKMC in the first 180 days of life in both arms
+ ciKMC (%) Control (%) HR(95% CI)
+ Households which dropped below poverty line due to healthcare OOPE 1.28 2.27
+ Households with CHE at 10% cut-­off
+ (HCE are ≥10% of THE)
+ 7.23 7.92
+ Households with CHE at 25% cut-­off
+ HCE is ≥25% of the THE
+ Households with CHE at 40% cut-­off
+ HCE is ≥40% of the non-­food household expenditure
+ 3.73 4.69
+ 4.38 5.14
+ P value
+ 0.56
+ (0.36 to 0.89)
+ 0.91
+ (0.74 to 1.12)
+ 0.01
+ 0.79
+ (0.60 to 1.05)
+ 0.85
+ (0.65 to 1.11)
+ 0.11
+ 0.37
+ 0.23
+ Analysis adjusted for clustering within households.
+ CHE, catastrophic healthcare expenditure; ciKMC, Kangaroo Mother Care initiated in community setting; HCE, healthcare expenditure;
+ OOPE, out-­of-­pocket expenditure; THE, total household expenditures. 
+<iend>
+
+ 
+<insert> Table 3 Healthcare OOPE in the first 180 days of life in both arms
+ Outcome ciKMC mean n=2491 Control mean n=1984 Difference (95% CI) P value
+ Mean healthcare OOPE per infant
+ (In US$, 8 weeks observation period)
+ Mean healthcare OOPE per infant who sought care
+ (In US$, 8 weeks observation period)
+ 20.02 25.54
+ 33.13 41.66
+ −5.54
+ (−11.38 to 0.30)
+ −8.53
+ (−17.03 to -0.03)
+ 0.06
+ 0.03
+ ciKMC, Kangaroo Mother Care initiated in community setting; OOPE, out of pocket expenditure. 
+<iend>
+
+ 
+<section> BMJ Global Health
+ 
+<section> tended to be lower in the ciKMC arm at all thresholds
+ examined.
+ Healthcare OOPE for study infants seeking inpatient
+ care were 25% lower in the intervention group leading to
+ considerable savings of family resources. This translates
+ to a 12% increase in the median household consumption
+ of US$228 that could be used to meet other household
+ needs. ciKMC also protected families of study infants from
+ the risk of impoverishment due to healthcare OOPE.
+ This is particularly important in settings like India where
+ coverage of public health insurance is low and around
+ 65% of all total healthcare is financed through OOPE.
+ Results from this RCT, therefore, provides important
+ economic arguments for strengthening KMC to LBW
+ infants in India and similar settings.
+ Financial risk protection of healthcare programmes
+ and interventions have so far been assessed in model-
+ ling studies or data from cross-­ sectional and cohort
+ studies. 9 25–28 This study demonstrates, for the first time,
+ that individual-­level data from an RCT can be used to
+ estimate the financial risk protection of an intervention.
+ An RCT provides an excellent platform for including
+ non-­ health outcomes in addition to the traditional
+ clinical endpoints as the estimates are less likely to be
+ unbiased. 29 30 The true benefit of an intervention is best
+ estimated when both health and non-­health outcomes
+ are taken into consideration. Using RCT methodology
+ to provide better assessment of financial risk protection
+ is relevant when assessing health technologies targeting
+ conditions with high financial risk. Such RCTs may aid
+ policy makers in assigning weight to poverty reduc-
+ tion and financial risk protection when setting priority
+ between various health interventions for inclusion in
+ national programmes and benefit packages. 31
+ Household cost savings due to ciKMC, especially for
+ vulnerable households at risk of outright poverty, can
+ be attributed to several factors. We found that ciKMC
+ reduced the number of illness episodes for which care
+ was sought and led to early care seeking. These are
+ particularly relevant for understanding how ciKMC
+ reduces household healthcare expenses. The progres-
+ sion of illness is much faster in early life, especially
+ among infants. Illness is also likely to be less severe in
+ the early stages. Prompt care seeking for illness, as seen
+ in the ciKMC arm, can therefore have both a survival
+ and a cost reducing effect, especially by reducing
+ the risk of hospitalisation. ciKMC has been shown to
+ reduce neonatal and early infant mortality. 3 Our anal-
+ yses showed additional non-­health benefits in the form
+ of reduced healthcare OOPE and lower risk of impov-
+ erishment, further supporting the inclusion of ciKMC
+ in the national health programme in India.
+ Globally, there are few healthcare interventions that
+ provide as much health benefits per US$ invested as
+ KMC initiated in hospital settings. 33 34 Ruiz et al, reported
+ that baseline case incremental cost utility ratio as cost
+ saving (−US$1546), showing that KMC was dominant
+ that is, less expensive, and more effective than standard
+ care, and it was far below the willingness to pay threshold
+ for Columbia. 34 Lowson et al, concluded that the benefit
+ to cost ratio of KMC ranged between 7.4:1 and 21.7:1 that
+ is, the net return on investment was positive.
+ Our findings should be interpreted considering
+ the following strengths. We collected detailed data 
+<insert> Figure 2 Pen’s parade graph of the distribution of total household expenditure and the net of healthcare OOPE for the ciKMC
+ and control arm households. ciKMC, Kangaroo Mother Care initiated in community setting; OOPE, out-­of-­pocket expenditures. 
+<iend>
+
+ 
+<insert> Table 5 Mean and mean difference (95% CI) in inpatient and outpatient healthcare OOPE; inpatient and outpatient care
+ seeking event per infant and average time to care seeking per infant in the first 180 days of life in the study arms
+ ciKMC (n=2491) Control (n=1984)
+ Mean Mean
+  Average no of care-­seeking events per infant 0.91 0.97 −0.07
+ (−0.13 to to -0.01)
+ 0.03
+  Average no of care-­seeking events among those who sought care 1.50 1.59 −0.08
+ (−0.15 to -0.02)
+ 0.01
+  Time between identification of signs and symptoms and care
+ seeking (in hours)
+ 8.92 12.40 −3.48
+ (−5.75 to -1.21)
+ < 0.01
+  Healthcare OOPE of in-­patient care seeking per infant in the study
+ (in US$)
+ 16.51 21.56 −5.05
+ (−10.77 to 0.68)
+ 0.08
+  Healthcare OOPE of in-­patient care seeking per infant who sought
+ care (in US$)
+ 79.04 105.97 −26.93
+ (−52.39 to -1.46)
+ 0.04
+ 0.23 0.01
+ (−0.02 to 0.04)
+ 0.68
+ Outcome
+ Difference
+ (95% CI) P value
+ Overall
+ Inpatient care seeking
+  Average no of inpatient care seeking episodes per infant in the study 0.24
+ Outpatient care seeking
+  Healthcare OOPE of outpatient care seeking per infant in the study
+ (in US$)
+ 3.97 4.70 −0.73
+ (−1.55 to 0.09)
+ 0.08
+  Healthcare OOPE of outpatient care seeking per infant who sought
+ care (in US$)
+ 7.88 8.84 −0.96
+ (−2.44 to 0.53)
+ 0.21
+  Average no of outpatient care seeking episodes per infant in the
+ study
+ 0.67 0.74 −0.07
+ (−0.12 to -0.02)
+ < 0.01
+ ciKMC, Kangaroo Mother Care initiated in community setting; OOP, out-­of-­pocket expenditure. 
+<iend>
+
+ on the cost of care seeking including inpatient and
+ outpatient costs. Data on household consumption was
+ collected using a limited number of different items in
+ the questionnaire and short recall periods to ensure
+ better data quality. The large sample size, balanced
+ randomisation and negligible lost to follow-­ up indi-
+ cate a well-­conducted RCT. Our estimates of household
+ 
+<section> BMJ Global Health
+ 
+<section> consumption are similar to previous estimates from the
+ study setting. 35 Nonetheless, our study suffers from the
+ limitation that we only collected data for 8 out of the
+ 26 weeks of follow-­up. Assuming that the care-­seeking
+ patterns and associated costs for the 26-­week follow-­up
+ period were similar to the 8-­week sampling period, the
+ actual savings would be higher than our estimates. Due 
+<section> to the nature of the intervention, it was not possible to
+ mask mothers to allocation of the intervention.
+ 
+<section> CONCLUSION
+ ciKMC can substantially reduce the cost of care seeking
+ and the risk of impoverishment for households. Our
+ findings show that supporting mothers at home to
+ provide KMC to LBW infants may, in addition to
+ enhancing infant survival, provide financial risk protec-
+ tion.
+ 
+<section> Author affiliations
+ Centre for Intervention Science in Maternal and Child Health, Department of Global
+ Public Health and Primary Care, University of Bergen, Bergen, Norway
+ Centre for Health Research and Development, Society for Applied Studies, New
+ 
+<section> Delhi, India
+ Bergen Centre for Ethics and Priority Setting, Department of Global Public Health
+ and Primary Care, University of Bergen, Bergen, Norway
+ Department of Maternal, Newborn, Child and Adolescent Health, World Health
+ 
+<section> Organization, Geneva, Switzerland
+ 5 
+<section> IIT Delhi, New Delhi, India
+ Cluster for Global Health, Division for Health Services, Norwegian Institute of
+ 
+<section> Public Health, Oslo, Norway
+ 
+<section> Twitter Tarun Shankar Choudhary @tarunschoudhary, Oystein A Haaland
+ @DoctorHaaland and Kjell Arne Johansson @KA_Johansson
+ 
+<section> Acknowledgements We acknowledge the contribution and support of the
+ mothers and families of participating children. We acknowledge the hard
+ work of all the data collectors and study team. The Society for Applied Studies
+ acknowledges the core support provided by the Department of Maternal, Newborn,
+ Child and Adolescent Health, WHO, Geneva (WHO Collaborating Centre IND‐158);
+ the Centre for Intervention Science in Maternal and Child Health, Centre for
+ International Health, University of Bergen (Norway); and Knowledge Integration and
+ Translational Platform (KnIT), a Grand Challenges Initiative of the Biotechnology
+ Industry Research Assistance Council (BIRAC), Department of Biotechnology,
+ Government of India and Bill & Melinda Gates Foundation (USA).
+ 
+<section> Contributors All authors contributed substantially to the conception or design of
+ the study or to the data acquisition, analysis or interpretation. TSC, SM and ST were
+ responsible for the day-­to-­day implementation of the study, data management
+ and analysis. TSC, OH, HS and KAJ performed the statistical analysis. TSC, OFN,
+ OH, KAJ, HS and SM drafted the manuscript. NB, RB, JM, MKB and HS provided
+ technical support, monitoring, and coordination for the trial. All authors critically
+ revised the manuscript for important intellectual content. TSC is the guarantor and
+ corresponding author. He attests that all listed authors meet authorship criteria
+ and that no others meeting the criteria have been omitted. The manuscript was
+ reviewed and has final approval from all authors.
+ 
+<section> Funding A grant for the study was received from the Norwegian Research Council
+ through its Centres of Excellence scheme and the University of Bergen to the
+ Centre of Intervention Science in Maternal and Child Health (project No. 223269)
+ and Equifinance (project no. 316354).
+ 
+<section> Disclaimer The funder of the study had no role in study design, data collection, data
+ analysis, data interpretation, or writing of the report. The corresponding author had
+ full access to all the data in the study and takes responsibility for the integrity of the
+ data and the accuracy of the data analysis.
+ 
+<section> Competing interests None declared.
+ 
+<section> Patient and public involvement Patients and/or the public were involved in the
+ design, or conduct, or reporting, or dissemination plans of this research. Refer to
+ the Methods section for further details.
+ 
+<section> Patient consent for publication Consent obtained from parent(s)/guardian(s).
+ 
+<section> Ethics approval This study involves human participants and was approved by
+ Institutional Ethics Committee, Society for Applied StudiesReference No—SAS/ERC/
+ PEIE/2017. Participants gave informed consent to participate in the study before
+ taking part.
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data availability statement Data are available on reasonable request. The
+ dataset pertaining to the results reported in the manuscript will be made available
+ to others only for health and medical research, subject to constraints of the
+ consent under which the data were collected. Deidentified individual participant
+ data will be made available along with the data dictionary, study protocol and
+ informed consent form. Data will be available beginning 12 months and ending
+ years after publication of this article. Requests for data should be made to TSC (​
+ tarun.​choudhary@​sas.​org.​in). The requester should provide a methodologically
+ sound secondary research proposal, approved by an independent review
+ committee. The requester must be able to show their ability to carry out the
+ proposed use of the requested dataset through their peer review publications and
+ declare conflicts of interest in relation to the requested dataset and their funding
+ sources. The authors reserve the right to refuse sharing of data in the face of
+ potential adversarial conflicts of interest. A Data Sharing Agreement that meets
+ the data sharing requirements of the Society for Applied Studies (New Delhi, India)
+ and Centre for International Health, University of Bergen (Norway) will be signed
+ with the data requester. Data must only be used for the purpose described in the
+ secondary research proposal as further stipulated in the Data Sharing Agreement.
+ Data will be transferred only to requesters named in the original proposal and as
+ specified in the relevant data sharing agreement.
+ 
+<section> Supplemental material This content has been supplied by the author(s). It has
+ not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been
+ peer-­reviewed. Any opinions or recommendations discussed are solely those
+ of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and
+ responsibility arising from any reliance placed on the content. Where the content
+ includes any translated material, BMJ does not warrant the accuracy and reliability
+ of the translations (including but not limited to local regulations, clinical guidelines,
+ terminology, drug names and drug dosages), and is not responsible for any error
+ and/or omissions arising from translation and adaptation or otherwise.
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution Non Commercial (CC BY-­NC 4.0) license, which
+ permits others to distribute, remix, adapt, build upon this work non-­commercially,
+ and license their derivative works on different terms, provided the original work is
+ properly cited, appropriate credit is given, any changes made indicated, and the
+ use is non-­commercial. See: http://creativecommons.org/licenses/by-nc/4.0/.
+ 
+<section> ORCID iDs
+ 
+<section> Tarun Shankar Choudhary http://orcid.org/0000-0003-0093-8341
+ Oystein A Haaland http://orcid.org/0000-0001-5288-7879
+ Nita Bhandari http://orcid.org/0000-0003-0349-087X
+ Kjell Arne Johansson http://orcid.org/0000-0001-8912-8710
+ 
+<section> REFERENCES
+ 1 United Nations Inter-­agency Group for Child Mortality Estimation
+ (UNIGME). Levels & Trends in Child Mortality: Report 2021,
+ Estimates developed by the United Nations Inter-­agency Group for
+ Child Mortality Estimation, United Nations Children’s Fund. New
+ York; 2021.
+ 2 Kruk ME, Gage AD, Joseph NT, et al. Mortality due to low-­
+ quality health systems in the universal health coverage era: a
+ systematic analysis of amenable deaths in 137 countries. Lancet
+ 2018;392:2203–12.
+ 3 Mazumder S, Taneja S, Dube B, et al. Effect of community-­initiated
+ kangaroo mother care on survival of infants with low birthweight: a
+ randomised controlled trial. Lancet 2019;394:1724–36.
+ 4 Choudhary TS, Mazumder S, Haaland Øystein Ariansen, et al. Health
+ equity impact of community-­initiated kangaroo mother care: a
+ randomized controlled trial. Int J Equity Health 2021;20:263.
+ 5 Miljeteig I, Sayeed SA, Jesani A, et al. Impact of ethics and
+ economics on end-­of-­life decisions in an Indian neonatal unit.
+ 
+<section> Pediatrics 2009;124:e322–8.
+ 6 Terwindt F, Rajan D, Soucat A. Chapter 4. Prioritysetting for national
+ health policies, strategies and plans. In: Schmets G, Rajan D,
+ Kadandale S, eds. Strategizing National health in the 21st century: a
+ Handbook. Geneva: World Health Organization, 2016.
+ 7 Ottersen T, Norheim OF, World Health Organization Consultative
+ Group on Equity and Universal Health Coverage. Making fair choices
+ on the path to universal health coverage. Bull World Health Organ
+ 2014;92:389.
+ 8 Verguet S, Murphy S, Anderson B, et al. Public finance of rotavirus
+ vaccination in India and Ethiopia: an extended cost-­effectiveness
+ analysis. Vaccine 2013;31:4902–10. 
+<section> 9 Verguet S, Olson ZD, Babigumira JB, et al. Health gains and financial
+ risk protection afforded by public financing of selected interventions
+ in Ethiopia: an extended cost-­effectiveness analysis. Lancet Glob
+ Health 2015;3:e288–96.
+ 10 Hug L, Alexander M, You D, et al. National, regional, and global
+ levels and trends in neonatal mortality between 1990 and 2017, with
+ scenario-­based projections to 2030: a systematic analysis. Lancet
+ Glob Health 2019;7:e710–20.
+ 11 World Health Organisation. Global health expenditure database,
+ 2021. Available: https://apps.who.int/nha/database/ViewData/​
+ 
+<section> Indicators/en https://apps.who.int/nha/database/ViewData/​
+ 
+<section> Indicators/en: [Accessed 05 Aug 2021].
+ 12 Mohanty SK, Dwivedi LK. Addressing data and methodological
+ limitations in estimating catastrophic health spending and
+ impoverishment in India, 2004-­18. Int J Equity Health 2021;20:85.
+ 13 Xu K, Evans DB, Kawabata K, et al. Household catastrophic health
+ expenditure: a multicountry analysis. Lancet 2003;362:111–7.
+ 14 Patil SS, Berad AS, Angadi MM. A study to assess catastrophic
+ household expenditure on childhood illness in an urban slum in
+ bijapur. Indian J Community Med 2009;34:335–7.
+ 15 Raban MZ, Dandona R, Dandona L. Variations in catastrophic health
+ expenditure estimates from household surveys in India. Bull World
+ Health Organ 2013;91:726–35.
+ 16 WHO. Health financing. Geneva World Health Organization; 2022.
+ https://www.who.int/health-topics/health-financing#tab=tab_1
+ [Accessed 05 Mar 2022].
+ 17 Mazumder S, Taneja S, Dalpath SK, et al. Impact of community-­
+ initiated kangaroo mother care on survival of low birth weight infants:
+ study protocol for a randomized controlled trial. Trials 2017;18:262.
+ 18 Heijink R, Xu K, Saksena P. Validity and comparability of out-­of-
+ pocket health expenditure from household surveys: a review of the
+ literature and current survey instruments. Geneva World Health
+ Organization; 2011.
+ 19 O'Donnel O, van Doorslaer E, Wagstaff A. Analyzing health equity
+ using household survey data. A guide to techniques and their
+ implementation. Washington DC: The World Bank, 2008.
+ 20 Government of India. Report of the expert group to review the
+ methodology for measurement of poverty. New Delhi Planning
+ Commission; 2014.
+ 21 Sriram S, Albadrani M. A study of catastrophic health expenditures
+ in India - evidence from Nationally Representative Survey Data:
+ 2014-­2018. F1000Res 2022;11:141.
+ 22 Donner A. Approaches to sample size estimation in the design of
+ clinical trials--a review. Stat Med 1984;3:199–214.
+ 
+<section> 23 Mansournia MA, Nazemipour M, Naimi AI, et al. Reflection
+ on modern methods: demystifying robust standard errors for
+ epidemiologists. Int J Epidemiol 2021;50:346–51.
+ 24 Bank W. World development indicators. Washington, DC The
+ World Bank; 2019. http://data.worldbank.org/data-catalog/world-​
+ development-indicators [Accessed 25 Jan 2019].
+ 25 Johansson KA, Memirie ST, Pecenka C, et al. Health gains and
+ financial protection from pneumococcal vaccination and pneumonia
+ treatment in Ethiopia: results from an extended cost-­effectiveness
+ analysis. PLoS One 2015;10:e0142691.
+ 26 Pecenka CJ, Johansson KA, Memirie ST, et al. Health gains and
+ financial risk protection: an extended cost-­effectiveness analysis
+ of treatment and prevention of diarrhoea in Ethiopia. BMJ Open
+ 2015;5:e006402.
+ 27 Prinja S, Jagnoor J, Chauhan AS, et al. Estimation of the economic
+ burden of injury in North India: a prospective cohort study. Lancet
+ 2015;385 Suppl 2:S57.
+ 28 Tolla MT, Norheim OF, Verguet S, et al. Out-­of-­pocket expenditures
+ for prevention and treatment of cardiovascular disease in general
+ and specialised cardiac hospitals in addis ababa, Ethiopia: a cross-­
+ sectional cohort study. BMJ Glob Health 2017;2:e000280.
+ 
+<section> 29 Daly J. Evidence-­Based medicine and the search for a science of
+ clinical care. Berkeley: University of California Press, 2005.
+ 30 Timmermans S, Berg M. The gold standard: the challenge of
+ evidence-­based medicine and standardization in health care.
+ 
+<section> Philadelphia: Temple University Press, 2003.
+ 31 O'Donnell JC, Pham SV, Pashos CL, et al. Health technology
+ assessment: lessons learned from around the world--an overview.
+ 
+<section> Value Health 2009;12 Suppl 2:S1–5.
+ 32 O'Rourke B, Oortwijn W, Schuller T, et al. The new definition
+ of health technology assessment: a milestone in international
+ collaboration. Int J Technol Assess Health Care 2020;36:187–90.
+ 33 Lowson K, Offer C, Watson J, et al. The economic benefits of
+ increasing kangaroo skin-­to-­skin care and breastfeeding in neonatal
+ units: analysis of a pragmatic intervention in clinical practice. Int
+ Breastfeed J 2015;10:11.
+ 34 Ruiz JG, Charpak N, Castillo M, et al. Latin American clinical
+ epidemiology network series - paper 4: economic evaluation
+ of Kangaroo Mother Care: cost utility analysis of results from a
+ randomized controlled trial conducted in Bogotá. J Clin Epidemiol
+ 2017;86:91–100.
+ 35 GDP per capita (current US$) - India Data. ​Data.​worldbank.​org,
+ 2022. Available: https://data.worldbank.org/indicator/NY.GDP.PCAP.​
+ CD?locations=IN [Accessed 04 Feb 2022].

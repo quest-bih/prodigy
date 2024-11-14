@@ -1,0 +1,835 @@
+nct_id,agency_class,lead_or_collaborator,name
+NCT04012580,OTHER,lead,University of Regina
+NCT04169334,OTHER,lead,"Copenhagen University Hospital, Hvidovre"
+NCT05676918,OTHER,lead,Universidad Complutense de Madrid
+NCT05676918,OTHER,collaborator,Universidad Pontificia de Salamanca
+NCT01386086,OTHER,lead,Lawson Health Research Institute
+NCT01386086,INDUSTRY,collaborator,Bristol-Myers Squibb
+NCT04685148,OTHER,lead,"Vibe G Frøkjær, MD, PhD"
+NCT04685148,OTHER,collaborator,Herlev Hospital
+NCT04685148,OTHER,collaborator,Hvidovre University Hospital
+NCT03470675,OTHER,lead,Northwestern University
+NCT04847362,OTHER,lead,Saglik Bilimleri Universitesi
+NCT01407783,OTHER,lead,Washington University School of Medicine
+NCT01407783,OTHER,collaborator,Nurses for Newborns Foundation
+NCT01423331,OTHER,lead,Shin Kong Wu Ho-Su Memorial Hospital
+NCT01423331,OTHER_GOV,collaborator,"Department of Health, Executive Yuan, R.O.C. (Taiwan)"
+NCT05907213,OTHER,lead,"Grace Lim, MD, MS"
+NCT05907213,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT05484999,OTHER,lead,Texas Tech University Health Sciences Center
+NCT06004232,OTHER,lead,Henry Ford Health System
+NCT06004232,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT06004232,OTHER,collaborator,"University of Colorado, Boulder"
+NCT06237569,OTHER,lead,Inonu University
+NCT04820920,OTHER,lead,Nottingham Trent University
+NCT04820920,OTHER,collaborator,University of Manchester
+NCT04820920,OTHER,collaborator,Teesside University
+NCT04820920,OTHER,collaborator,Sheffield Hallam University
+NCT01453114,OTHER,lead,Massachusetts General Hospital
+NCT01482832,OTHER,lead,Women and Infants Hospital of Rhode Island
+NCT01482832,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT01482832,OTHER,collaborator,Pacific Institute for Research and Evaluation
+NCT01482832,OTHER,collaborator,Brown University
+NCT00560027,OTHER,lead,Johns Hopkins University
+NCT00560027,UNKNOWN,collaborator,Leonard & Helen R. Stulman Charitable Foundation
+NCT01507649,OTHER,lead,The University of Hong Kong
+NCT04730570,OTHER,lead,IWK Health Centre
+NCT04730570,OTHER,collaborator,Dalhousie University
+NCT01527448,OTHER,lead,BC Women's Hospital & Health Centre
+NCT01527474,OTHER,lead,BC Women's Hospital & Health Centre
+NCT01527786,OTHER,lead,BC Women's Hospital & Health Centre
+NCT06342310,INDUSTRY,lead,Reunion Neuroscience Inc
+NCT05137925,OTHER,lead,University of Pittsburgh
+NCT05137925,OTHER,collaborator,American Psychological Foundation
+NCT05137925,OTHER,collaborator,The Pittsburgh Foundation
+NCT05693792,INDUSTRY,lead,Woebot Health
+NCT05551195,INDUSTRY,lead,Woebot Health
+NCT05551195,INDUSTRY,collaborator,Iqvia Pty Ltd
+NCT06070168,OTHER,lead,Ondokuz Mayıs University
+NCT06305325,OTHER,lead,Brock University
+NCT06305325,OTHER,collaborator,University of Toronto
+NCT05949190,OTHER,lead,Washington University School of Medicine
+NCT05949190,OTHER,collaborator,Project Peanut Butter
+NCT05949190,OTHER,collaborator,Open Philanthropy
+NCT05949190,FED,collaborator,United States Department of Agriculture (USDA)
+NCT05949190,OTHER_GOV,collaborator,"Ministry of Health and Sanitation, Sierra Leone"
+NCT05268588,OTHER,lead,"University of California, San Francisco"
+NCT05268588,OTHER,collaborator,"Post Graduate Institute of Medical Education and Research, Chandigarh"
+NCT05268588,UNKNOWN,collaborator,Indraprastha Institute of Information Technology
+NCT05268588,NIH,collaborator,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)
+NCT05268588,OTHER,collaborator,Sangath
+NCT04644081,OTHER,lead,Nottingham Trent University
+NCT04644081,OTHER,collaborator,University of Manchester
+NCT04644081,OTHER,collaborator,Teesside University
+NCT04644081,OTHER,collaborator,Sheffield Hallam University
+NCT04644081,UNKNOWN,collaborator,University of Jos
+NCT04657107,OTHER,lead,Beijing Obstetrics and Gynecology Hospital
+NCT04657107,UNKNOWN,collaborator,China Health Promotion Foundation
+NCT04657107,OTHER,collaborator,Beijing Haidian Maternal and Child Health Hospital
+NCT04657107,OTHER,collaborator,Obstetrics & Gynecology Hospital of Fudan University
+NCT04657107,OTHER,collaborator,Fourth Hospital of Shijiazhuang City
+NCT04657107,UNKNOWN,collaborator,Changzhi Maternal and Child Health Hospital
+NCT04657107,UNKNOWN,collaborator,Linfen Maternity&Child Healthcare Hospital
+NCT04657107,OTHER,collaborator,"Maternal and Child Health Hospital, Jiading District"
+NCT04657107,UNKNOWN,collaborator,Tongzhou Maternal and Child Healthcare Hospital of Beijing
+NCT04657107,UNKNOWN,collaborator,Beijing Chaoyang District Maternal and Child Health Care Hospital
+NCT05830955,OTHER,lead,Mustafa Kemal University
+NCT05830955,OTHER,collaborator,Istanbul University - Cerrahpasa (IUC)
+NCT05830955,OTHER,collaborator,Yuzuncu Yıl University
+NCT05830955,OTHER_GOV,collaborator,Van Training and Research Hospital
+NCT00565032,OTHER,lead,Oklahoma State University Center for Health Sciences
+NCT04580901,OTHER,lead,McMaster University
+NCT04580901,OTHER,collaborator,Hamilton Academic Health Sciences Organization
+NCT01658098,OTHER,lead,Hospital Universitario Dr. Jose E. Gonzalez
+NCT01660165,OTHER,lead,Universidade Federal do Rio de Janeiro
+NCT03283254,OTHER,lead,Columbia University
+NCT03283254,NIH,collaborator,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)
+NCT05595512,OTHER,lead,University of Jordan
+NCT05830266,OTHER,lead,Tilburg University
+NCT05894681,OTHER,lead,Yasemin Ozhuner
+NCT03593473,OTHER,lead,"University of North Carolina, Chapel Hill"
+NCT03593473,NIH,collaborator,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)
+NCT01646463,OTHER,lead,"University of California, San Francisco"
+NCT05295069,OTHER,lead,Ataturk University
+NCT05217251,OTHER,lead,Zhujiang Hospital
+NCT04950868,OTHER,lead,Verinder Sharma
+NCT03285139,OTHER,lead,McMaster University
+NCT03285139,UNKNOWN,collaborator,Kids Can Fly Brantford
+NCT04516668,OTHER,lead,Assistance Publique - Hôpitaux de Paris
+NCT03615794,OTHER,lead,Johns Hopkins University
+NCT03615794,OTHER,collaborator,University of Virginia
+NCT04017442,OTHER,lead,Icahn School of Medicine at Mount Sinai
+NCT05356026,OTHER,lead,Gazi University
+NCT01379781,OTHER,lead,New York State Psychiatric Institute
+NCT00601757,OTHER,lead,Women and Infants Hospital of Rhode Island
+NCT00601757,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT01298778,OTHER,lead,Wake Forest University Health Sciences
+NCT02142972,OTHER,lead,Universidad Rey Juan Carlos
+NCT05657886,OTHER,lead,Trakya University
+NCT02769858,OTHER,lead,University of Michigan
+NCT03024645,OTHER,lead,University of Coimbra
+NCT01842542,OTHER,lead,Neuronetics
+NCT05937867,INDUSTRY,lead,"Jiangsu Hansoh Pharmaceutical Co., Ltd."
+NCT06048263,OTHER,lead,Washington University School of Medicine
+NCT06056609,OTHER,lead,York Teaching Hospitals NHS Foundation Trust
+NCT06056609,OTHER,collaborator,University of York
+NCT06046456,OTHER,lead,"Mental Health Services in the Capital Region, Denmark"
+NCT06046456,OTHER,collaborator,University of Copenhagen
+NCT00001481,NIH,lead,National Institute of Mental Health (NIMH)
+NCT00816725,OTHER,lead,"University of California, San Francisco"
+NCT00816725,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT01883479,OTHER,lead,University of Minnesota
+NCT01883479,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT01908959,OTHER,lead,Arizona State University
+NCT01912833,OTHER,lead,"University of North Carolina, Chapel Hill"
+NCT01935375,OTHER,lead,Drexel University
+NCT05826327,OTHER,lead,Women's Hospital School Of Medicine Zhejiang University
+NCT05826327,OTHER,collaborator,Peking University First Hospital
+NCT05826327,OTHER,collaborator,Obstetrics & Gynecology Hospital of Fudan University
+NCT05826327,OTHER,collaborator,Beijing Obstetrics and Gynecology Hospital
+NCT06014892,OTHER,lead,Massachusetts General Hospital
+NCT06014892,OTHER,collaborator,Brigham and Women's Hospital
+NCT06014892,OTHER,collaborator,Boston Children's Hospital
+NCT06014892,OTHER,collaborator,Beth Israel Deaconess Medical Center
+NCT02454322,OTHER,lead,Northwestern University
+NCT02818075,OTHER,lead,University of Toronto
+NCT01947244,OTHER,lead,University of Chicago
+NCT01947244,FED,collaborator,Health Resources and Services Administration (HRSA)
+NCT01947244,UNKNOWN,collaborator,Illinois Department of Human Services
+NCT04998721,OTHER,lead,University of Washington
+NCT04998721,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT06049433,OTHER,lead,University of Utah
+NCT06049433,NIH,collaborator,National Institute of Nursing Research (NINR)
+NCT01967394,OTHER,lead,University of Louisville
+NCT01967394,NIH,collaborator,National Institute of Nursing Research (NINR)
+NCT01977326,OTHER,lead,University of Cape Town
+NCT01977326,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT02538497,OTHER,lead,University of Tromso
+NCT02538497,UNKNOWN,collaborator,Public Health Sisters in the Tromsø municipality
+NCT02538497,OTHER,collaborator,University Hospital of North Norway
+NCT06310720,OTHER,lead,Weill Medical College of Cornell University
+NCT06301087,OTHER,lead,Weprom
+NCT06301087,INDUSTRY,collaborator,Kelindi
+NCT03809572,OTHER,lead,Oregon Health and Science University
+NCT03703219,OTHER,lead,NMP Medical Research Institute
+NCT03703219,OTHER,collaborator,Warwick Research Services
+NCT03703219,UNKNOWN,collaborator,"Mothers Touch Foundation, India"
+NCT05762133,OTHER,lead,Northwestern University
+NCT04211467,OTHER,lead,ProgenaBiome
+NCT02710474,OTHER,lead,Columbia University
+NCT02710474,UNKNOWN,collaborator,Einhorn Family Charitable Trust
+NCT05700760,OTHER,lead,Michigan State University
+NCT05700760,OTHER,collaborator,Pacific Institute for Research and Evaluation
+NCT05700760,OTHER,collaborator,Henry Ford Health System
+NCT05700760,OTHER,collaborator,Butler Hospital
+NCT02867631,OTHER,lead,University of Pennsylvania
+NCT02867631,OTHER,collaborator,Robert Wood Johnson Foundation
+NCT02867631,INDUSTRY,collaborator,"Aetna, Inc."
+NCT05664529,OTHER,lead,Marmara University
+NCT02010840,OTHER,lead,The University of Hong Kong
+NCT02010840,OTHER_GOV,collaborator,"Education Bureau, The Government of the Hong Kong Special Administrative Region"
+NCT04193462,OTHER,lead,Interdisciplinary Center Herzliya
+NCT05595486,OTHER,lead,Women and Infants Hospital of Rhode Island
+NCT05595486,NIH,collaborator,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)
+NCT05662423,OTHER,lead,Massachusetts General Hospital
+NCT04285437,OTHER,lead,University of Medicine and Pharmacy at Ho Chi Minh City
+NCT03965572,OTHER,lead,Laniado Hospital
+NCT04167709,OTHER,lead,Lund University
+NCT04167709,OTHER,collaborator,Region Skane
+NCT04167709,OTHER,collaborator,Föreningen Mjölkdroppen Helsingborg
+NCT04368208,OTHER,lead,Poitiers University Hospital
+NCT05852314,OTHER,lead,Pakistan Institute of Living and Learning
+NCT05269732,OTHER,lead,McMaster University
+NCT04693585,OTHER,lead,"University of California, San Francisco"
+NCT04693585,OTHER,collaborator,"University of California, Los Angeles"
+NCT04693585,OTHER,collaborator,"Post Graduate Institute of Medical Education and Research, Chandigarh"
+NCT00277108,OTHER,lead,University of Rochester
+NCT00277108,INDUSTRY,collaborator,Forest Laboratories
+NCT04693585,UNKNOWN,collaborator,Indraprastha Institute of Information Technology Delhi
+NCT04693585,UNKNOWN,collaborator,Survival for Women and Children Foundation
+NCT06250933,OTHER,lead,Bilecik Seyh Edebali Universitesi
+NCT04693585,NIH,collaborator,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)
+NCT00633178,OTHER,lead,New York State Psychiatric Institute
+NCT00633178,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT00961402,OTHER,lead,University of Minnesota
+NCT00961402,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT02532504,OTHER,lead,Pakistan Institute of Living and Learning
+NCT04913584,OTHER,lead,McMaster University
+NCT04913584,UNKNOWN,collaborator,Kids Can Fly
+NCT02823418,OTHER,lead,Peking University First Hospital
+NCT02823418,OTHER,collaborator,Beijing Obstetrics and Gynecology Hospital
+NCT02823418,OTHER,collaborator,Beijing Haidian Maternal and Child Health Hospital
+NCT02059863,OTHER,lead,London School of Hygiene and Tropical Medicine
+NCT02059863,OTHER,collaborator,University of Liverpool
+NCT02059863,OTHER,collaborator,"University College, London"
+NCT02059863,OTHER,collaborator,"Human Development Research Foundation, Pakistan"
+NCT02059863,OTHER,collaborator,Sangath
+NCT04396509,OTHER,lead,Kanuni Sultan Suleyman Training and Research Hospital
+NCT05518162,OTHER,lead,University of Rochester
+NCT05518162,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT04639752,OTHER,lead,"National Institute of Mental Health, Czech Republic"
+NCT05806463,OTHER,lead,Johns Hopkins Bloomberg School of Public Health
+NCT05806463,FED,collaborator,United States Agency for International Development (USAID)
+NCT05806463,UNKNOWN,collaborator,Johns Hopkins Center for Communication Programs
+NCT05806463,OTHER,collaborator,Camber Collective
+NCT05806463,UNKNOWN,collaborator,DeepDive Consulting
+NCT05655104,OTHER_GOV,lead,Turku University Hospital
+NCT06355375,OTHER,lead,Federico II University
+NCT06277661,OTHER,lead,Ohio State University
+NCT02741206,OTHER,lead,NYU Langone Health
+NCT00392847,OTHER,lead,Assistance Publique - Hôpitaux de Paris
+NCT00392847,OTHER_GOV,collaborator,"Ministry of Health, France"
+NCT01178008,OTHER,lead,The University of Hong Kong
+NCT01178008,OTHER,collaborator,Kwong Wah Hospital
+NCT01178008,OTHER_GOV,collaborator,"Hospital Authority, Hong Kong"
+NCT03777046,OTHER,lead,Michelle Lopez
+NCT00276900,OTHER,lead,University of Pittsburgh
+NCT00276900,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT01309516,OTHER,lead,Pakistan Institute of Living and Learning
+NCT01309516,OTHER,collaborator,Dow University of Health Sciences
+NCT01309516,OTHER,collaborator,University of Manchester
+NCT04815044,OTHER,lead,Ostfold University College
+NCT04815044,OTHER,collaborator,Norwegian School of Sport Sciences
+NCT04815044,OTHER,collaborator,University of Tromso
+NCT04068662,OTHER,lead,University of Notre Dame
+NCT04068662,OTHER,collaborator,University of Memphis
+NCT04183582,OTHER,lead,National Society for the Prevention of Cruelty to Children
+NCT01909167,OTHER,lead,Imperial College London
+NCT01087112,OTHER,lead,Karolinska Institutet
+NCT03665038,INDUSTRY,lead,Sage Therapeutics
+NCT04427410,OTHER,lead,Cukurova University
+NCT04427410,UNKNOWN,collaborator,Ayseren Cevik
+NCT05815433,OTHER,lead,University of Calgary
+NCT05815433,OTHER,collaborator,University of British Columbia
+NCT05815433,OTHER,collaborator,University of Victoria
+NCT05815433,UNKNOWN,collaborator,NorthernStar Mothers Milk Bank
+NCT04860661,OTHER,lead,Ailin Luo
+NCT04860661,OTHER,collaborator,The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School
+NCT04860661,OTHER,collaborator,Central South University
+NCT04860661,OTHER,collaborator,The First Affiliated Hospital of Anhui Medical University
+NCT04860661,OTHER,collaborator,The First Affiliated Hospital of University of South China
+NCT04860661,OTHER,collaborator,Guangdong Women and Children Hospital
+NCT04860661,OTHER,collaborator,Third Affiliated Hospital of Zhengzhou University
+NCT04860661,OTHER,collaborator,First Affiliated Hospital of Guangxi Medical University
+NCT04860661,OTHER,collaborator,Dalian Municipal Central Hospital
+NCT04860661,OTHER,collaborator,Jining First People's Hospital
+NCT04860661,OTHER,collaborator,Maternal and Child Health Hospital of Hubei Province
+NCT04364646,OTHER,lead,Rhode Island Hospital
+NCT04364646,OTHER,collaborator,Northwell Health
+NCT04364646,OTHER,collaborator,"University of North Carolina, Chapel Hill"
+NCT00051246,OTHER,lead,"University of Wisconsin, Madison"
+NCT00051246,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT00056901,NIH,lead,National Institute of Mental Health (NIMH)
+NCT04487171,OTHER,lead,"Centre Hospitalier Universitaire, Amiens"
+NCT04487171,OTHER,collaborator,Centre Hospitalier de Beauvais
+NCT04487171,OTHER_GOV,collaborator,Central Hospital Saint Quentin
+NCT04487171,UNKNOWN,collaborator,Centre Hospitalier Compiègne
+NCT01280474,OTHER,lead,Taipei Medical University WanFang Hospital
+NCT02862444,OTHER,lead,Clalit Health Services
+NCT02862444,OTHER,collaborator,Ben-Gurion University of the Negev
+NCT02883686,OTHER,lead,"University of Colorado, Boulder"
+NCT02883686,OTHER,collaborator,Kaiser Permanente
+NCT02883686,OTHER,collaborator,Emory University
+NCT04278456,OTHER,lead,Erzincan University
+NCT04135612,OTHER_GOV,lead,Wolfson Medical Center
+NCT00043602,OTHER,lead,University of Iowa
+NCT00043602,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT04933708,OTHER,lead,University of Pennsylvania
+NCT02235064,OTHER,lead,The Cooper Health System
+NCT00053651,OTHER,lead,Butler Hospital
+NCT00053651,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT00183547,OTHER,lead,Johns Hopkins University
+NCT00183547,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT03417960,OTHER,lead,Medical University of South Carolina
+NCT01217658,OTHER,lead,"The University of Texas Health Science Center, Houston"
+NCT01217658,NIH,collaborator,National Institutes of Health (NIH)
+NCT01217658,NIH,collaborator,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)
+NCT03924492,INDUSTRY,lead,Sage Therapeutics
+NCT04296734,OTHER,lead,Northwestern University
+NCT04296734,OTHER,collaborator,Ann & Robert H Lurie Children's Hospital of Chicago
+NCT04296734,NIH,collaborator,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)
+NCT04852757,OTHER,lead,Fondation Hôpital Saint-Joseph
+NCT05362305,OTHER,lead,IWK Health Centre
+NCT02505984,OTHER,lead,Massachusetts General Hospital
+NCT02505984,NIH,collaborator,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)
+NCT03949465,OTHER,lead,University of Calgary
+NCT03837392,OTHER,lead,University of Iowa
+NCT02121015,OTHER,lead,University of Illinois at Chicago
+NCT02121015,OTHER,collaborator,Northwestern University
+NCT02121015,OTHER,collaborator,University of Iowa
+NCT02121015,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT02133963,OTHER,lead,"University of North Carolina, Chapel Hill"
+NCT02133963,OTHER,collaborator,North Carolina Translational and Clinical Sciences Institute
+NCT05543746,OTHER,lead,"University of North Carolina, Chapel Hill"
+NCT05543746,OTHER,collaborator,Baszucki Brain Research Fund
+NCT05543746,INDUSTRY,collaborator,Sage Therapeutics
+NCT05997953,OTHER,lead,Al-Azhar University
+NCT03427528,OTHER,lead,Northwestern University
+NCT03427528,NIH,collaborator,National Institute on Minority Health and Health Disparities (NIMHD)
+NCT03460756,INDUSTRY,lead,Marinus Pharmaceuticals
+NCT04617132,OTHER,lead,British Columbia Children's Hospital
+NCT05186272,OTHER,lead,Kaiser Permanente
+NCT05097586,OTHER,lead,Women's College Hospital
+NCT05097586,OTHER,collaborator,Centre for Addiction and Mental Health
+NCT05097586,OTHER,collaborator,Sunnybrook Health Sciences Centre
+NCT04680585,OTHER,lead,Women's College Hospital
+NCT05520580,OTHER,lead,Hannover Medical School
+NCT01762943,OTHER,lead,"University of North Carolina, Chapel Hill"
+NCT01762943,OTHER,collaborator,"Foundation of Hope, North Carolina"
+NCT01762943,OTHER,collaborator,North Carolina Translational and Clinical Sciences Institute
+NCT01762943,NIH,collaborator,National Institutes of Health (NIH)
+NCT01762943,OTHER,collaborator,National Alliance for Research on Schizophrenia and Depression
+NCT01762943,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT02323152,OTHER_GOV,lead,Basque Health Service
+NCT01452321,OTHER,lead,University of Sao Paulo General Hospital
+NCT04273191,INDUSTRY,lead,Sage Therapeutics
+NCT05059600,INDUSTRY,lead,Sage Therapeutics
+NCT03228394,INDUSTRY,lead,Marinus Pharmaceuticals
+NCT05400161,OTHER,lead,Children's Hospital of Philadelphia
+NCT05400161,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT05044546,OTHER,lead,M.D. Anderson Cancer Center
+NCT00436150,OTHER,lead,Women and Infants Hospital of Rhode Island
+NCT00436150,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT05873569,OTHER,lead,Northwestern University
+NCT05873569,OTHER,collaborator,Johns Hopkins University
+NCT05873569,OTHER,collaborator,Palo Alto University
+NCT02213601,OTHER,lead,University of Iowa
+NCT05784116,OTHER,lead,IRCCS San Raffaele
+NCT05784116,OTHER_GOV,collaborator,"Ministry of Health, Italy"
+NCT03221556,OTHER,lead,Boston Medical Center
+NCT03221556,OTHER,collaborator,Patient-Centered Outcomes Research Institute
+NCT03221556,OTHER,collaborator,Boston University
+NCT04485000,OTHER,lead,McMaster University
+NCT02682004,OTHER,lead,Zeynep Kamil Maternity and Pediatric Research and Training Hospital
+NCT01328613,NIH,lead,National Institute on Aging (NIA)
+NCT00402389,OTHER,lead,University of Arizona
+NCT00402389,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT06231602,OTHER,lead,National Taiwan University Hospital
+NCT04745494,OTHER,lead,"University College, London"
+NCT04037085,OTHER,lead,"Grace Lim, MD, MS"
+NCT04037085,OTHER,collaborator,University of Pittsburgh
+NCT03709004,OTHER,lead,"University of California, Davis"
+NCT03709004,OTHER,collaborator,Benedictine University
+NCT03709004,OTHER,collaborator,Yale University
+NCT06246214,OTHER,lead,Hospital de Clinicas de Porto Alegre
+NCT06246214,OTHER,collaborator,Federal University of Rio Grande do Sul
+NCT02391870,OTHER,lead,"University of Colorado, Boulder"
+NCT02391870,OTHER,collaborator,Emory University
+NCT02391870,OTHER,collaborator,Kaiser Permanente
+NCT02391870,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT05891717,OTHER,lead,Riphah International University
+NCT02614547,INDUSTRY,lead,Sage Therapeutics
+NCT02387424,OTHER,lead,"University of Colorado, Boulder"
+NCT02387424,OTHER,collaborator,Emory University
+NCT02387424,OTHER,collaborator,Kaiser Permanente
+NCT02387424,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT01587729,INDUSTRY,lead,GlaxoSmithKline
+NCT04045132,OTHER,lead,Children's Hospital of Philadelphia
+NCT04045132,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT02370576,OTHER,lead,Rambam Health Care Campus
+NCT03793569,OTHER,lead,Milton S. Hershey Medical Center
+NCT05800509,OTHER,lead,National Taiwan University Hospital
+NCT05800509,OTHER,collaborator,Mackay Memorial Hospital
+NCT05800509,OTHER,collaborator,Taiwan Adventist Hospital
+NCT05800509,OTHER_GOV,collaborator,"Taipei Veterans General Hospital, Taiwan"
+NCT00518830,OTHER_GOV,lead,"Fondo Nacional de Desarrollo Científico y Tecnológico, Chile"
+NCT05654987,OTHER,lead,Universidad Nacional de Educación a Distancia
+NCT05654987,OTHER,collaborator,University of Gdansk
+NCT05654987,OTHER,collaborator,Taras Shevchenko National University of Kyiv
+NCT04925765,OTHER,lead,"Grace Lim, MD, MS"
+NCT02121496,OTHER,lead,New York State Psychiatric Institute
+NCT02121496,UNKNOWN,collaborator,The Robin Hood Foundation
+NCT02020148,OTHER,lead,Northwestern University
+NCT02020148,OTHER,collaborator,Northwestern Memorial Hospital
+NCT05206552,OTHER,lead,Rabin Medical Center
+NCT05077644,INDUSTRY,lead,"Curio Digital Therapeutics, Inc."
+NCT04964206,OTHER,lead,Dong-Xin Wang
+NCT04964206,OTHER,collaborator,Beijing Obstetrics and Gynecology Hospital
+NCT04964206,UNKNOWN,collaborator,Ningxia Women and Children's Hospital
+NCT04964206,UNKNOWN,collaborator,Taiyuan central hospital
+NCT04414943,OTHER,lead,Peking University First Hospital
+NCT04414943,OTHER,collaborator,Peking University International Hospital
+NCT04414943,OTHER,collaborator,Hunan Provincial Maternal and Child Health Care Hospital
+NCT04414943,UNKNOWN,collaborator,Women's Hospital of Nanjing Medical University
+NCT04414943,OTHER,collaborator,Women's Hospital School Of Medicine Zhejiang University
+NCT03927378,OTHER,lead,Peking University First Hospital
+NCT03927378,OTHER,collaborator,Peking University International Hospital
+NCT03927378,OTHER,collaborator,Hunan Provincial Maternal and Child Health Care Hospital
+NCT03927378,UNKNOWN,collaborator,Women's Hospital of Nanjing Medical University
+NCT03927378,OTHER,collaborator,Women's Hospital School Of Medicine Zhejiang University
+NCT03027037,OTHER,lead,"University of Colorado, Boulder"
+NCT03027037,OTHER,collaborator,John Templeton Foundation
+NCT03027037,OTHER,collaborator,Emory University
+NCT03027037,OTHER,collaborator,University of Michigan
+NCT03027037,OTHER,collaborator,Columbia University
+NCT03027037,OTHER,collaborator,Queen's University
+NCT06293274,OTHER,lead,Kocaeli University
+NCT06148831,OTHER,lead,Nurturely
+NCT06057012,INDUSTRY,lead,Brii Biosciences Limited
+NCT00602355,OTHER,lead,Women and Infants Hospital of Rhode Island
+NCT00602355,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT05353491,OTHER,lead,"Human Development Research Foundation, Pakistan"
+NCT05353491,OTHER,collaborator,Shifa Tameer-e-Millat University
+NCT05353491,OTHER,collaborator,University of Liverpool
+NCT03654261,OTHER,lead,McMaster University
+NCT06042166,OTHER,lead,Montefiore Medical Center
+NCT06042166,OTHER,collaborator,American Psychological Foundation
+NCT00548743,OTHER,lead,Olmsted Medical Center
+NCT05314361,OTHER,lead,McMaster University
+NCT04051320,OTHER,lead,"University of North Carolina, Chapel Hill"
+NCT04051320,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT04437342,OTHER,lead,General and Maternity Hospital of Athens Elena Venizelou
+NCT04437342,OTHER,collaborator,National and Kapodistrian University of Athens
+NCT04437342,OTHER,collaborator,"Alexandra Hospital, Athens, Greece"
+NCT04437342,OTHER,collaborator,University of Ioannina
+NCT04437342,OTHER,collaborator,Larissa University Hospital
+NCT04146025,OTHER,lead,University of Pennsylvania
+NCT03381495,OTHER,lead,Deng Dongrui
+NCT04348929,OTHER,lead,"Central Hospital, Nancy, France"
+NCT04384887,OTHER,lead,Kanuni Sultan Suleyman Training and Research Hospital
+NCT04384887,UNKNOWN,collaborator,Ayşegül Bestel
+NCT04384887,UNKNOWN,collaborator,İbrahim Polat
+NCT04384887,UNKNOWN,collaborator,Merve Aldıkaçtıoğlu Talmaç
+NCT03596879,OTHER,lead,Henry Ford Health System
+NCT01838889,NETWORK,lead,Lancashire Care NHS Foundation Trust
+NCT01838889,OTHER,collaborator,University of Manchester
+NCT04355091,OTHER,lead,Istanbul University - Cerrahpasa (IUC)
+NCT04506489,OTHER,lead,Centre Hospitalier Universitaire de Besancon
+NCT03351465,OTHER,lead,"University of California, Los Angeles"
+NCT03351465,OTHER,collaborator,"University of California, San Francisco"
+NCT03346551,OTHER,lead,CHU de Reims
+NCT05382884,OTHER,lead,University of British Columbia
+NCT05382884,OTHER,collaborator,Women's Health Research Institute of British Columbia
+NCT05382884,OTHER_GOV,collaborator,Canadian Institutes of Health Research (CIHR)
+NCT04442529,OTHER,lead,Sidra Medicine
+NCT04442529,OTHER,collaborator,Northwestern University
+NCT03499756,OTHER,lead,The Hong Kong Polytechnic University
+NCT06042972,OTHER,lead,Centre Médical Porte Verte
+NCT06131255,OTHER,lead,"Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico"
+NCT06221280,OTHER,lead,Kahramanmaras Sutcu Imam University
+NCT05055674,OTHER,lead,University of Sao Paulo
+NCT02122393,OTHER,lead,University of Melbourne
+NCT02122393,INDUSTRY,collaborator,Pfizer
+NCT00228033,OTHER,lead,Oregon Health and Science University
+NCT00228033,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT03247491,OTHER,lead,Javier Garcia Campayo
+NCT03247491,OTHER,collaborator,Universidad Nacional de Educación a Distancia
+NCT03573713,OTHER,lead,Food for the Hungry
+NCT03573713,OTHER,collaborator,"Teachers College, Columbia University"
+NCT03573713,OTHER,collaborator,Johns Hopkins University
+NCT06253676,OTHER,lead,George Washington University
+NCT06253676,OTHER,collaborator,Transcultural Psychosocial Organization Nepal
+NCT06253676,OTHER,collaborator,"University of Witwatersrand, South Africa"
+NCT06253676,OTHER,collaborator,Yale University
+NCT06253676,OTHER,collaborator,Duke University
+NCT02053649,OTHER,lead,Rhode Island Hospital
+NCT02053649,OTHER,collaborator,The Depressive and Bipolar Disorder Alternative Treatment Foundation
+NCT02053649,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT02057627,OTHER,lead,Spaulding Rehabilitation Hospital
+NCT02057627,OTHER,collaborator,Robert Wood Johnson Foundation
+NCT06253390,OTHER,lead,CHU de Reims
+NCT06252155,OTHER,lead,Trakya University
+NCT04663243,OTHER,lead,University of the Punjab
+NCT03715218,OTHER,lead,NMP Medical Research Institute
+NCT03715218,OTHER,collaborator,Warwick Research Services
+NCT03715218,UNKNOWN,collaborator,"Mothers Touch Foundation, India"
+NCT02526433,OTHER,lead,Royal College of Music
+NCT02526433,OTHER,collaborator,Imperial College London
+NCT03212547,OTHER,lead,Clinica Alemana de Santiago
+NCT04923698,OTHER,lead,Cairo University
+NCT02661789,OTHER,lead,Gitte Moos Knudsen
+NCT02661789,OTHER,collaborator,"Center for Integrated Molecular Brain Imaging, Copenhagen, Denmak"
+NCT02661789,UNKNOWN,collaborator,Fertility Clinic Rigshospitalet
+NCT02661789,UNKNOWN,collaborator,"CNSR, Glostrup Psychiatric Center"
+NCT02661789,UNKNOWN,collaborator,Danish Multiple Sclerosis Center Rigshospitalet
+NCT02661789,UNKNOWN,collaborator,"Dept. of Clinical Immunology, Rigshospitalet"
+NCT02441595,OTHER,lead,Karolinska Institutet
+NCT04285684,OTHER,lead,The Ketamine Research Foundation
+NCT04472065,OTHER,lead,Elizabeth Austen Lawson
+NCT03039530,OTHER,lead,McMaster University
+NCT03039530,UNKNOWN,collaborator,Niagara Region Public Health
+NCT05399784,OTHER,lead,Women and Infants Hospital of Rhode Island
+NCT04834622,OTHER,lead,King's College London
+NCT04834622,OTHER,collaborator,"University College, London"
+NCT02978326,INDUSTRY,lead,Biogen
+NCT00744328,OTHER,lead,Northwestern University
+NCT05400382,OTHER,lead,University of Illinois at Urbana-Champaign
+NCT05400382,OTHER,collaborator,University of Pittsburgh Medical Center
+NCT05400382,OTHER,collaborator,Southern Illinois University
+NCT05400382,OTHER,collaborator,Arrowhead Regional Medical Center
+NCT05400382,OTHER,collaborator,Northwestern University Feinberg School of Medicine
+NCT00745537,OTHER,lead,University of Pittsburgh
+NCT04836585,OTHER,lead,Women's College Hospital
+NCT05698394,OTHER,lead,Peking University First Hospital
+NCT03763435,OTHER_GOV,lead,Bartin State Hospital
+NCT02191423,OTHER_GOV,lead,Tel-Aviv Sourasky Medical Center
+NCT00602732,OTHER,lead,Butler Hospital
+NCT00602732,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT04441879,OTHER,lead,University of Coimbra
+NCT04441879,OTHER,collaborator,Fundação para a Ciência e a Tecnologia
+NCT04576754,INDUSTRY,lead,Woebot Health
+NCT02148965,OTHER,lead,Federal University of Pelotas
+NCT04227704,OTHER,lead,Washington University School of Medicine
+NCT00604604,OTHER,lead,University of Toronto
+NCT00604604,OTHER_GOV,collaborator,Canadian Institutes of Health Research (CIHR)
+NCT02285504,INDUSTRY,lead,Sage Therapeutics
+NCT02526407,OTHER,lead,Royal College of Music
+NCT02526407,OTHER,collaborator,Chelsea and Westminster NHS Foundation Trust
+NCT02526407,OTHER,collaborator,Imperial College London
+NCT00251342,OTHER,lead,Chinese University of Hong Kong
+NCT00251342,UNKNOWN,collaborator,Hong Kong Department of Health
+NCT00251342,OTHER,collaborator,The University of Hong Kong
+NCT01175603,OTHER,lead,Johns Hopkins University
+NCT01175603,OTHER,collaborator,Abell Foundation
+NCT02221895,FED,lead,Madigan Army Medical Center
+NCT02272387,OTHER,lead,St. Luke's-Roosevelt Hospital Center
+NCT01602913,INDUSTRY,lead,GlaxoSmithKline
+NCT05215028,OTHER,lead,Weprom
+NCT05215028,INDUSTRY,collaborator,Kelindi
+NCT04847076,OTHER,lead,Universidad del Desarrollo
+NCT04847076,OTHER,collaborator,Instituto Milenio para Investigación en Depresión y Personalidad
+NCT04847076,UNKNOWN,collaborator,"Peñalolén County Corporation, Chile"
+NCT04818047,OTHER,lead,University of Calgary
+NCT04818047,OTHER,collaborator,Alberta Health services
+NCT02495350,OTHER,lead,Rabin Medical Center
+NCT03052374,OTHER,lead,University of Calgary
+NCT03052374,OTHER,collaborator,Alberta Health services
+NCT00298311,OTHER,lead,Canadian Research Institute for Social Policy
+NCT00298311,UNKNOWN,collaborator,Women's Health Research Unit
+NCT00298311,UNKNOWN,collaborator,Social Support Research Program
+NCT00298311,OTHER,collaborator,"University Health Network, Toronto"
+NCT00298311,UNKNOWN,collaborator,Edmonton Mental Health Services
+NCT00298311,OTHER,collaborator,Canadian Mental Health Association
+NCT00298311,UNKNOWN,collaborator,Pediatric Rehabilitation Services
+NCT00298311,UNKNOWN,collaborator,"Department of Health and Wellness, NB"
+NCT04845347,OTHER,lead,University of Michigan
+NCT04845347,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT04264520,OTHER,lead,Medical University of South Carolina
+NCT04264520,UNKNOWN,collaborator,MUSC Specialized Center of Research Excellence
+NCT06258655,OTHER,lead,University of Turku
+NCT06258655,OTHER,collaborator,University of Tartu
+NCT05285215,OTHER_GOV,lead,KK Women's and Children's Hospital
+NCT03803189,OTHER,lead,Women's College Hospital
+NCT03803189,OTHER_GOV,collaborator,Canadian Institutes of Health Research (CIHR)
+NCT03803189,OTHER,collaborator,Michael Garron Hospital
+NCT05764213,OTHER,lead,Medical University of South Carolina
+NCT05764213,OTHER,collaborator,Patient-Centered Outcomes Research Institute
+NCT03336541,OTHER,lead,Peking University First Hospital
+NCT03791021,OTHER_GOV,lead,Sheba Medical Center
+NCT03791021,OTHER,collaborator,University of Haifa
+NCT01312883,OTHER,lead,Icahn School of Medicine at Mount Sinai
+NCT01312883,NIH,collaborator,National Institute on Minority Health and Health Disparities (NIMHD)
+NCT04928742,OTHER,lead,McMaster University
+NCT00282776,OTHER,lead,University of Pittsburgh
+NCT00282776,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT06208852,OTHER,lead,Children's Hospital of Philadelphia
+NCT06208852,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT06207916,OTHER,lead,Region Östergötland
+NCT04366817,OTHER,lead,Assistance Publique - Hôpitaux de Paris
+NCT04853693,OTHER,lead,"National Institute of Mental Health, Czech Republic"
+NCT05897619,OTHER,lead,Weill Medical College of Cornell University
+NCT03438071,OTHER,lead,Poitiers University Hospital
+NCT04350333,OTHER,lead,University of Rome G. Marconi
+NCT03415321,OTHER,lead,Necmettin Erbakan University
+NCT03420755,OTHER,lead,Northwestern University
+NCT03420755,NIH,collaborator,National Institute on Minority Health and Health Disparities (NIMHD)
+NCT01648816,OTHER,lead,Assistance Publique - Hôpitaux de Paris
+NCT05573009,OTHER,lead,Istanbul University
+NCT05573009,OTHER,collaborator,Istanbul University - Cerrahpasa (IUC)
+NCT01744041,OTHER,lead,Washington University School of Medicine
+NCT01744041,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT05772897,OTHER,lead,"University of Colorado, Denver"
+NCT03120208,OTHER,lead,"University Hospital, Clermont-Ferrand"
+NCT00804739,OTHER,lead,University of Rochester
+NCT00804739,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT04442503,INDUSTRY,lead,Biogen
+NCT03196726,OTHER_GOV,lead,"Ministry of Health, Malaysia"
+NCT02843022,OTHER,lead,Saint Anselm College
+NCT02843022,OTHER,collaborator,Catholic Medical Center
+NCT00833469,OTHER,lead,Massachusetts General Hospital
+NCT00833469,INDUSTRY,collaborator,Forest Laboratories
+NCT04043533,OTHER,lead,Didem Kucukkelepce
+NCT03990389,OTHER,lead,University of Chicago
+NCT03990389,OTHER,collaborator,NorthShore University HealthSystem
+NCT04087317,OTHER,lead,Rambam Health Care Campus
+NCT03887910,OTHER,lead,Northwell Health
+NCT05046405,OTHER,lead,Ana Ganho Ávila
+NCT05046405,OTHER,collaborator,"Centro Hospitalar e Universitário de Coimbra, E.P.E."
+NCT03309163,OTHER,lead,Xinqiao Hospital of Chongqing
+NCT02791932,OTHER,lead,University of Minnesota
+NCT03357965,OTHER_GOV,lead,Yildiz Atadag
+NCT05453734,OTHER,lead,Istanbul University - Cerrahpasa (IUC)
+NCT03791749,OTHER,lead,"University College, London"
+NCT04347499,OTHER,lead,Peshawar Medical College
+NCT04347499,OTHER,collaborator,Pakistan Association of Cognitive Therapists
+NCT00373750,OTHER,lead,Johns Hopkins Bloomberg School of Public Health
+NCT00373750,NIH,collaborator,National Institute on Drug Abuse (NIDA)
+NCT04376021,OTHER,lead,Nurturely
+NCT04376021,OTHER,collaborator,Project Concern International
+NCT05643898,OTHER,lead,Pontificia Universidad Catolica de Chile
+NCT05643898,OTHER,collaborator,Agencia Nacional de Investigación y Desarrollo
+NCT05643898,OTHER,collaborator,Instituto Milenio para Investigación en Depresión y Personalidad
+NCT04934488,OTHER,lead,McMaster University
+NCT04845230,OTHER,lead,Washington University School of Medicine
+NCT04845230,UNKNOWN,collaborator,Operation Food Search Inc.
+NCT04011592,OTHER,lead,"The University of Texas Health Science Center, Houston"
+NCT02953626,OTHER,lead,Women's College Hospital
+NCT02953626,OTHER,collaborator,Centre for Addiction and Mental Health
+NCT02953626,OTHER,collaborator,Sunnybrook Health Sciences Centre
+NCT02953626,OTHER,collaborator,University of Toronto
+NCT02352142,OTHER,lead,Columbia University
+NCT02352142,OTHER,collaborator,Newark Beth Israel Medical Center
+NCT04108533,OTHER,lead,University of Pennsylvania
+NCT05225025,OTHER,lead,University of Rochester
+NCT05225025,OTHER,collaborator,Mae Stone Goode Foundation
+NCT02942004,INDUSTRY,lead,Sage Therapeutics
+NCT04297956,OTHER,lead,Wuerzburg University Hospital
+NCT03638687,OTHER,lead,Johns Hopkins University
+NCT03638687,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT02813174,OTHER,lead,i4Health
+NCT05845840,INDUSTRY,lead,Brii Biosciences Limited
+NCT05821569,OTHER,lead,IRCCS Burlo Garofolo
+NCT03416010,OTHER,lead,Ohio State University
+NCT03416010,NIH,collaborator,National Institutes of Health (NIH)
+NCT03416010,OTHER,collaborator,New York University
+NCT03416010,OTHER,collaborator,Jacobi Medical Center
+NCT03416010,OTHER,collaborator,Boston College
+NCT03416010,OTHER,collaborator,University of Arizona
+NCT03416010,OTHER,collaborator,Drexel University
+NCT03416010,NIH,collaborator,National Institute on Minority Health and Health Disparities (NIMHD)
+NCT03416010,OTHER,collaborator,University of South Florida
+NCT00942721,OTHER,lead,Oregon Research Institute
+NCT00942721,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT04093791,OTHER,lead,University of Roma La Sapienza
+NCT04813341,OTHER,lead,Riphah International University
+NCT02692404,OTHER,lead,University of Pittsburgh
+NCT04857593,OTHER,lead,King's College London
+NCT04857593,OTHER,collaborator,"University College, London"
+NCT05225987,OTHER,lead,Hacettepe University
+NCT00059228,NIH,lead,National Institute of Mental Health (NIMH)
+NCT04706442,OTHER,lead,National University of Singapore
+NCT05763537,OTHER,lead,University of Montana
+NCT05585164,OTHER,lead,Weill Medical College of Cornell University
+NCT04183946,OTHER,lead,University of Zurich
+NCT04183946,UNKNOWN,collaborator,Ambulatorium für kognitive Verhaltenstherapie und Verhaltensmedizin - UZH
+NCT04183946,UNKNOWN,collaborator,Lamprecht AG
+NCT06273423,OTHER,lead,Montana State University
+NCT06144294,OTHER,lead,Weill Medical College of Cornell University
+NCT02790905,OTHER,lead,University of Oxford
+NCT06053515,OTHER,lead,"University of Maryland, College Park"
+NCT06053515,NIH,collaborator,National Institutes of Health (NIH)
+NCT06053515,NIH,collaborator,National Institute on Minority Health and Health Disparities (NIMHD)
+NCT05622305,OTHER,lead,McMaster University
+NCT05503056,OTHER,lead,Medstar Health Research Institute
+NCT05044455,OTHER,lead,McMaster University
+NCT05044455,OTHER_GOV,collaborator,Canadian Institutes of Health Research (CIHR)
+NCT05209789,OTHER,lead,"University Hospital, Toulouse"
+NCT03880032,OTHER,lead,Johns Hopkins Bloomberg School of Public Health
+NCT03880032,OTHER,collaborator,"Human Development Research Foundation, Pakistan"
+NCT04138368,OTHER,lead,"HaEmek Medical Center, Israel"
+NCT02738021,OTHER,lead,NYU Langone Health
+NCT05299398,OTHER,lead,Verinder Sharma
+NCT05148260,OTHER,lead,Nottingham Trent University
+NCT00617045,OTHER,lead,Yale University
+NCT05423093,OTHER,lead,Johns Hopkins University
+NCT05423093,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT02094092,INDUSTRY,lead,Ferozsons Laboratories Ltd.
+NCT04279093,OTHER,lead,Emily Eisner
+NCT04279093,OTHER_GOV,collaborator,Manchester University NHS Foundation Trust
+NCT05766475,OTHER,lead,University of Denver
+NCT05766475,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT05766475,OTHER,collaborator,Denver Health Medical Center
+NCT05958095,INDUSTRY,lead,Healthcare Innovation Technology Lab
+NCT05958095,INDUSTRY,collaborator,"Curio Digital Therapeutics, Inc."
+NCT02516982,OTHER,lead,Imperial College London
+NCT00795652,OTHER,lead,IWK Health Centre
+NCT00795652,OTHER_GOV,collaborator,Canadian Institutes of Health Research (CIHR)
+NCT04741971,OTHER,lead,Buddhist Tzu Chi General Hospital
+NCT05038085,OTHER,lead,Gazi University
+NCT03856931,OTHER,lead,TARGetKids!
+NCT03856931,OTHER,collaborator,The Hospital for Sick Children
+NCT03856931,OTHER,collaborator,Unity Health Toronto
+NCT05159726,OTHER,lead,Yale University
+NCT03167905,OTHER_GOV,lead,KK Women's and Children's Hospital
+NCT04414696,OTHER,lead,Kaiser Permanente
+NCT04769700,OTHER_GOV,lead,Instituto Mexicano del Seguro Social
+NCT06348316,OTHER,lead,Trakya University
+NCT02566980,OTHER,lead,Michigan State University
+NCT02566980,OTHER,collaborator,Pine Rest Christian Mental Health Services
+NCT02566980,OTHER,collaborator,Van Andel Research Institute
+NCT02566980,OTHER,collaborator,Spectrum Health Hospitals
+NCT02566980,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT00929409,OTHER,lead,Norwegian University of Science and Technology
+NCT00929409,OTHER,collaborator,St. Olavs Hospital
+NCT00929409,OTHER,collaborator,Sykehuset Innlandet HF
+NCT00929409,OTHER,collaborator,Sykehuset Buskerud HF
+NCT00681668,INDUSTRY,lead,AstraZeneca
+NCT02559986,OTHER,lead,Indiana University
+NCT00951717,OTHER,lead,Icahn School of Medicine at Mount Sinai
+NCT00951717,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT02373709,OTHER_GOV,lead,KK Women's and Children's Hospital
+NCT02373709,OTHER,collaborator,"National University Hospital, Singapore"
+NCT00782912,OTHER,lead,Unity Health Toronto
+NCT03088319,OTHER_GOV,lead,Institut de Recherche Biomedicale des Armees
+NCT01002027,OTHER,lead,University of Melbourne
+NCT01002027,OTHER,collaborator,Beyondblue (The National Depression Initiative)
+NCT02726659,OTHER,lead,Lawson Health Research Institute
+NCT04940585,OTHER,lead,NYU Langone Health
+NCT05345834,OTHER,lead,Children's National Research Institute
+NCT05345834,OTHER,collaborator,George Washington University
+NCT05345834,OTHER,collaborator,Patient-Centered Outcomes Research Institute
+NCT04565730,OTHER,lead,Medipol University
+NCT03210155,INDIV,lead,"Christina Murphey, RN, PhD"
+NCT02355067,OTHER,lead,Children's Hospital of Philadelphia
+NCT02355067,UNKNOWN,collaborator,The Oscar G. & Elsa S. Mayer Family Foundation
+NCT02355067,OTHER,collaborator,University of Pennsylvania
+NCT01028482,OTHER_GOV,lead,Tel-Aviv Sourasky Medical Center
+NCT05322161,OTHER,lead,Seattle Children's Hospital
+NCT05322161,OTHER,collaborator,University of Washington
+NCT00361478,OTHER,lead,University of Melbourne
+NCT04073043,OTHER,lead,McGill University
+NCT00711971,OTHER,lead,University of Michigan
+NCT00711971,NIH,collaborator,National Center for Complementary and Integrative Health (NCCIH)
+NCT05588089,OTHER,lead,Hitit University
+NCT05444179,OTHER,lead,Universiti Teknologi Mara
+NCT05444179,OTHER,collaborator,Universiti Sains Islam Malaysia
+NCT00370903,OTHER,lead,Oklahoma State University Center for Health Sciences
+NCT04844138,OTHER,lead,University of Manitoba
+NCT03464630,OTHER,lead,Georgia State University
+NCT03464630,NIH,collaborator,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)
+NCT03464630,OTHER,collaborator,Oregon Research Institute
+NCT03464630,OTHER,collaborator,"The University of Texas Health Science Center, Houston"
+NCT03022526,OTHER,lead,"Grace Lim, MD, MS"
+NCT06282419,OTHER,lead,Ataturk University
+NCT06276647,OTHER,lead,University of Pennsylvania
+NCT06276647,NIH,collaborator,National Institutes of Health (NIH)
+NCT06276647,OTHER,collaborator,Columbia University
+NCT06276647,NIH,collaborator,National Institute on Minority Health and Health Disparities (NIMHD)
+NCT06275217,OTHER,lead,The Hong Kong Polytechnic University
+NCT06136520,OTHER,lead,Istanbul University - Cerrahpasa (IUC)
+NCT06242717,OTHER,lead,University of British Columbia
+NCT06242717,OTHER_GOV,collaborator,"Ministry of Health, British Columbia"
+NCT06242717,OTHER,collaborator,Providence Healthcare
+NCT06242717,OTHER,collaborator,"St. Paul's Hospital, Canada"
+NCT06242717,OTHER,collaborator,University of Victoria
+NCT06242717,OTHER,collaborator,Stanford University
+NCT04332146,OTHER,lead,The University of Hong Kong
+NCT05000879,OTHER,lead,"University of Colorado, Boulder"
+NCT05751746,OTHER,lead,Seoul National University Bundang Hospital
+NCT06316193,OTHER,lead,IRCCS Ospedale San Raffaele
+NCT00380419,OTHER,lead,University of Michigan
+NCT00380419,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT05173285,OTHER,lead,Hannah Palma Carlos
+NCT02210702,OTHER,lead,The Jones Institute
+NCT05229913,OTHER,lead,Qinghai University
+NCT05229913,OTHER,collaborator,Qinghai Red Cross Hospital
+NCT05133583,OTHER,lead,Adiyaman University Research Hospital
+NCT00384943,OTHER,lead,McGill University
+NCT00384943,OTHER_GOV,collaborator,Fonds de la Recherche en Santé du Québec
+NCT04636398,OTHER,lead,"University of California, San Francisco"
+NCT04636398,OTHER,collaborator,"University of California, Los Angeles"
+NCT04636398,OTHER,collaborator,"Post Graduate Institute of Medical Education and Research, Chandigarh"
+NCT04636398,UNKNOWN,collaborator,Indraprastha Institute of Information Technology Delhi
+NCT04636398,UNKNOWN,collaborator,Survival for Women and Children Foundation
+NCT04636398,NIH,collaborator,Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)
+NCT05040581,OTHER,lead,McMaster University
+NCT04998565,OTHER,lead,China Medical University Hospital
+NCT05275413,OTHER,lead,The Hong Kong Polytechnic University
+NCT05275413,OTHER,collaborator,Kwong Wah Hospital
+NCT05275413,OTHER,collaborator,The University of Hong Kong
+NCT05275413,OTHER,collaborator,University of Glasgow
+NCT05275413,UNKNOWN,collaborator,"Tsan Yuk Hospital, Hong Kong"
+NCT03267043,OTHER,lead,Columbia University
+NCT01439269,OTHER,lead,Columbia University
+NCT01439269,OTHER,collaborator,Williams College
+NCT01439269,OTHER,collaborator,New York State Psychiatric Institute
+NCT05893485,OTHER,lead,Christina Chianis Reed
+NCT05893485,OTHER,collaborator,The Methodist Hospital Research Institute
+NCT05753176,OTHER,lead,McMaster University
+NCT04741776,OTHER,lead,Dartmouth-Hitchcock Medical Center
+NCT04741776,NIH,collaborator,National Institute of Mental Health (NIMH)
+NCT03836430,OTHER,lead,Brigham and Women's Hospital
+NCT03836430,OTHER,collaborator,Child Trends
+NCT01925664,OTHER,lead,University of Chicago
+NCT01925664,FED,collaborator,HRSA/Maternal and Child Health Bureau
+NCT04129476,OTHER,lead,Gonabad University of Medical Sciences
+NCT01899534,OTHER,lead,University of Calgary
+NCT01899534,OTHER_GOV,collaborator,Canadian Institutes of Health Research (CIHR)
+NCT03004872,OTHER,lead,University of Michigan
+NCT05820958,OTHER,lead,The Jerzy Kukuczka Academy of Physical Education in Katowice
+NCT01463202,OTHER,lead,Beatrice Chen
+NCT01463202,OTHER,collaborator,Society of Family Planning
+NCT05804708,INDUSTRY,lead,GH Research Ireland Limited
+NCT03300713,OTHER,lead,"University Hospital, Lille"
+NCT03300713,OTHER_GOV,collaborator,"Ministry of Health, France"
+NCT05110456,OTHER,lead,St. Justine's Hospital
+NCT05110456,UNKNOWN,collaborator,Canadian Medical Association
+NCT05110456,UNKNOWN,collaborator,Hewitt Foundation
+NCT05813782,OTHER,lead,Tokat Gaziosmanpasa University
+NCT05813782,OTHER,collaborator,TC Erciyes University
+NCT02942017,INDUSTRY,lead,Sage Therapeutics
+NCT03267563,OTHER,lead,Michigan State University
+NCT03267563,OTHER,collaborator,Butler Hospital
+NCT03267563,OTHER,collaborator,Allegheny Singer Research Institute (also known as Allegheny Health Network Research Institute)
+NCT03267563,OTHER,collaborator,Palo Alto Veterans Institute for Research
+NCT03267563,OTHER,collaborator,University of Rochester
+NCT03267563,OTHER,collaborator,"University of Massachusetts, Worcester"
+NCT03267563,OTHER,collaborator,Pacific Institute for Research and Evaluation
+NCT06285916,INDUSTRY,lead,"Gerbera Therapeutics, Inc."
+NCT02979444,OTHER,lead,Northwestern University
+NCT04821544,OTHER,lead,University of Idaho
+NCT04821544,OTHER,collaborator,Oregon Health and Science University
+NCT04821544,OTHER,collaborator,Oregon State University
+NCT04821544,NIH,collaborator,National Institute of General Medical Sciences (NIGMS)
+NCT04821544,OTHER,collaborator,Kootenai Health
+NCT02497677,OTHER,lead,University of Copenhagen
+NCT02497677,OTHER,collaborator,University of Aarhus
+NCT05196152,OTHER,lead,University of Iowa
+NCT05196152,FED,collaborator,US Department of Veterans Affairs
+NCT05887115,OTHER,lead,"University of Colorado, Denver"
+NCT05887115,OTHER,collaborator,Nationwide Children's Hospital
+NCT05887115,OTHER,collaborator,University of Rochester
+NCT00360204,OTHER,lead,Milton S. Hershey Medical Center
+NCT00360204,FED,collaborator,Department of Health and Human Services
+NCT00360204,FED,collaborator,Health Resources and Services Administration (HRSA)
+NCT00360204,FED,collaborator,HRSA/Maternal and Child Health Bureau

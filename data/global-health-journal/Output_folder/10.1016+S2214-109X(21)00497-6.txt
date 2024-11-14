@@ -1,0 +1,1742 @@
+
+<section> Intradermal administration of fractional
+ 
+<section> inactivated poliovirus vaccine in a campaign:
+ 
+<section> open-label, non-inferiority trial in The
+ 
+<section> Adedapo O Bashorun, Mariama Badjie Hydara, Ikechukwu Adigweme, Ama Umesi, Baba
+ Sidat Fofana, Francis J Kanu, Visalakshi Jeyaseelan, Harish Verma, William C Weldon,
+ Miriam Wathuo, Ondrej Mach, Ed Clarke
+ 
+<section> Summary
+ 
+<section> Background A rapid increase in circulating vaccine-derived poliovirus
+ inactivated poliovirus vaccine (IPV) for routine immunisation, has
+ as a measure to prevent acute flaccid paralysis. However, the intradermal
+ prohibitive to outbreak response campaigns. We aimed to establish
+ intradermal fIPV with a disposable syringe jet injector (DSJI) or
+ standard administration with a BCG needle and syringe (N&S).
+ 
+<section> Methods This pragmatic, non-inferiority trial was undertaken
+ The Gambia. Children aged 4–59 months without contraindication
+ not individually randomly assigned; instead, the vaccination teams
+ administration methods. Parents and the field team were not masked,
+ Baseline demographic and anthropometric data were collected
+ experienced at intradermal immunisation, and nurses without
+ administration methods before the campaign. Participants were
+ use by the vaccination team in their community. Poliovirus serum
+ in children aged 24–59 months before and 4 weeks after vaccination.
+ were collected from all participants. The primary outcome was the
+ in seronegative [SNA titre <8] children plus a 4-fold titre rise in seropositive
+ immune response between the DSJI or IDA group versus the
+ A margin of –10% was used to define the non-inferiority of DSJI
+ analysis was done per protocol. The trial is registered with ClinicalTrials.gov
+ 
+<section> completed.
+ 
+<section> Findings Between Oct 28 and Dec 29, 2016, 3189 children aged 4–59
+ eligible. Over 3 days, 2720 children were vaccinated (N&S, 917; IDA,
+ 25–59 months with a baseline SNA available, 90·1% (95% CI 86·1–92·9;
+ had an immune response to type 2 compared with 93·8% (90·6–95·8;
+ 96·6% (94·0–98·0; 316/327) of those vaccinated with IDA. All (53/53)
+ polio type 2, non-inferiority was shown for both the IDA (adjusted difference
+ difference 2·9% [–0·9 to 6·8]) and DSJI (adjusted difference –3·3%
+ [–8·7 to 1·1]) compared with N&S. Non-inferiority was shown for type
+ quality nor the training and experience of the vaccinators had an effect
+ 
+<section> reported.
+ 
+<section> Interpretation In a campaign, intradermal fIPV is safe and generates
+ dependent on vaccinator experience or injection quality when administered
+ facing vaccine-derived poliovirus type 2 outbreaks should consider
+ and prevent cases of acute flaccid paralysis.
+ 
+<section> Funding World Health Organization and the Medical Research Council.
+ 
+<section> Copyright © 2021 The Author(s). Published by Elsevier Ltd. This is an
+ 
+<section> Introduction overcome.
+ Although the goal of global polio eradication is seemingly worldwide
+ within reach, there are still important hurdles to strains
+ 
+<section> Articles
+ 
+<section> doses of the
+ 
+<section> a pragmatic,
+ 
+<section> Gambia
+ 
+<section> Danso, Njilan Johnson, Ngally Aboubacarr Sambou,
+ M Steven Oberste, Roland W Sutter, David Jeffries,
+ 
+<section> type 2 outbreaks, and the need to reserve Lancet Glob Health 2022;
+ increased the value of fractional dose IPV (fIPV) 10: e257–68
+ route of administration has been viewed as Published 
+<section> Online
+ the immunogenicity and safety of administering December 21, 2021
+ an intradermal adaptor (IDA) compared with https://doi.org/10.1016/ S2214-109X(21)00497-6
+ 
+<section> Medical Research Council Unit,
+ 
+<section> The Gambia at the London
+ in a campaign setting in communities in School of Hygiene and Tropical
+ to vaccination were eligible. Children were Medicine, Banjul, The Gambia
+ were randomly assigned (1:1:1) to one of three (A O Bashorun MBBS,
+ M Badjie Hydara BMChB,
+ but laboratory personnel were masked. I Adigweme MBBS,
+ from the participants. Public health officers A Umesi MBBS, B Danso,
+ experience, had 2 h of training on each of the N Johnson BSc, F J Kanu,
+ vaccinated using the administration method in D E Clarke Jeffries PhD); PhD, M 
+<section> Ministry Wathuo of MSc,
+ 
+<section> neutralising antibodies (SNA) were measured Health, Government of
+ Adverse events and data on injection quality The Gambia, Banjul,
+ type 2 immune response rate (seroconversion The Gambia (N A Sambou MPhil,
+ 
+<section> S Fofana MSc); 
+<section> World Health
+ children). Adjusted differences in the Organization, Atlanta, GA, USA
+ N&S group were calculated with 97·5% CIs. (V Jeyaseelan PhD,
+ or IDA compared to N&S. Immunogenicity H Verma MBBS, R W Sutter MD,
+ 
+<section> NCT02967783 and has been O Mach MD); 
+<section> Centers for
+ 
+<section> Disease Control and
+ 
+<section> Prevention, Geneva,
+ 
+<section> Switzerland (W C Weldon PhD,
+ months were recruited, of whom 3170 were M S Oberste PhD)
+ 874; and DSJI, 929). Among 992 children aged 
+<section> Correspondence to:
+ 281/312) of those vaccinated using the DSJI Dr Ed Clarke, Medical Research
+ 331/353) of those vaccinated with N&S and Council London Unit, School The of Gambia Hygiene at and
+ type 2 seronegative children seroconverted. For Tropical Medicine, Banjul,
+ 0·7% [97·5% CI –3·3 to 4·7], unadjusted PO Box 273, The Gambia
+ [–8·3 to 1·5], unadjusted difference –3·7% ed.clarke@lshtm.ac.uk
+ 
+<section> 1 and 3 for the IDA and DSJI. Neither injection
+ on immune response. No safety concerns were
+ 
+<section> consistent immune responses that are not
+ using an N&S, DSJI, or IDA. Countries
+ fIPV campaigns to boost population immunity
+ 
+<section> Open Access article under the CC BY 4.0 license.
+ 
+<section> 1,2 Wild poliovirus type 2 has not been detected
+ since 1999, and type 3 since 2012, and these
+ were declared to have been eradicated in 2015 
+<section> Articles
+ 
+<section> Research in context
+ 
+<section> Evidence before this study
+ A PubMed search to identify articles published before
+ July 31, 2021, was conducted using the following search terms
+ with appropriate Boolean operators: “inactivated poliovirus
+ vaccine”, “intradermal”, “vaccine derived poliovirus”,
+ “campaign”, “pragmatic”, “meta-analysis”, “systematic review”,
+ “randomized controlled trial”, “clinical trial”, “immunogenicity”,
+ and “safety”. There were no language restrictions. Two meta-
+ analyses published in 2019 and 2021, albeit including only one
+ trial from a low-income country, which was conducted in
+ The Gambia, have compared equivalent full-dose and
+ fractional-dose inactivated poliovirus vaccine (IPV) schedules.
+ The seroconversion rates after a single fractional dose of IPV
+ delivered by the intradermal route were lower than the
+ seroconversion rates generated by a full intramuscular dose of
+ the vaccine. Any difference in seroconversion after the second
+ and third doses are progressively less than that after the
+ first dose. Median antibody titres are consistently lower after
+ fractional dose schedules than full-dose schedules. There are no
+ definitive trials comparing needle and syringe (N&S) with
+ intradermal adaptor (IDA) or the disposable syringe jet injector
+ (DSJI) for intradermal fractional IPV (fIPV) dose administration.
+ Nonetheless, two fIPV doses are more immunogenic that a
+ single full dose of the vaccine as well as being dose sparing.
+ In addition, intradermal fIPV boosts mucosal immunity in those
+ previously primed with oral poliovirus vaccine in the same way
+ as an intramuscular dose. Given progressive increases in
+ (for type 2) and 2019 (for type 3). 3 Furthermore, WHO’s
+ African Region was certified as being free of wild
+ polioviruses on Aug 25, 2020.
+ Both the oral poliovirus vaccine (OPV) and the inactivated
+ poliovirus vaccine (IPV) are essential to the Global Polio
+ Eradication Initiative’s endgame strategy. 2,4 OPV induces
+ systemic antibodies, protecting the individual from
+ paralytic disease, but it also generates mucosal immunity,
+ preventing the long-term excretion of the virus in the stool,
+ and hence community transmission. 5 However, two key
+ disadvantages of OPV are the occurrence, albeit rarely,
+ of vaccine-associated paralytic poliomyelitis and the
+ emergence of circulating vaccine-derived polioviruses
+ (cVDPV) that are genetically divergent from the parent
+ vaccine strain, are associated with person-to-person trans­
+ mission, and can also cause paralytic disease. 6,7 Although
+ IPV induces a systemic antibody response, it induces little
+ or no mucosal immunity in those who have not previously
+ received OPV. 5 In contrast, several studies have now shown
+ that IPV boosts mucosal immunity more effectively than
+ additional doses of OPV in those who have previously
+ 
+<section> received OPV. 
+<section> 8–10
+ In April, 2016, a switch from the use of trivalent to
+ bivalent OPV, containing only the Sabin type 1 and type
+ strains, occurred worldwide. The switch aimed to reduce
+ the occurrence of cVDPV, of which more than 85% of
+ 
+<section> circulating vaccine-derived poliovirus type 2 (cVDPV2)
+ outbreaks, waning type 2 population immunity, and the need to
+ reserve IPV for routine immunisations, data to support country
+ decisions regarding the use of intradermal fIPV in outbreak
+ campaigns, particularly in sub-Saharan Africa, are needed.
+ 
+<section> Added value of this study
+ Fractional doses of IPV can be delivered reliably by the
+ intradermal route using processes and personnel closely aligned
+ to those used during a community outbreak response
+ campaign in rural west Africa. The immune responses
+ generated against poliovirus type 2 as well as against the type
+ and 3 viruses are similar irrespective of whether the vaccine is
+ administered by an N&S, a DSJI, or using an IDA. These
+ responses are not substantially altered by injection quality and
+ are independent of the amount of previous experience the
+ vaccinator has at giving intradermal injections. Intradermal
+ immunisation in the community is safe and well tolerated.
+ 
+<section> Implications of all the available evidence
+ Strong data are available to support the use of intradermal fIPV
+ in community campaigns for cVDPV2 outbreaks, including in
+ rural sub-Saharan Africa and in settings with high amounts of
+ malnutrition, and also to support its use in campaigns designed
+ to address the immunity gap in under-immunised populations.
+ Countries facing cVDPV2 outbreaks should be encouraged to
+ grasp the opportunity intradermal fIPV campaigns provide
+ to prevent avoidable paralytic disease in this context.
+ 
+<section> cases were attributable to the type 2 vaccine virus at
+ the time. 2,6 However, although there were fewer than
+ 100 cVDPV2 cases in up to five different countries in 2017
+ and 2018, there has subsequently been a sustained
+ increase. More than 350 cases across 16 countries were
+ detected in 2019, while more than 1000 cases across
+ 24 countries were detected in 2020. 11 Given the necessity
+ to block community transmission, monovalent OPV
+ type 2 campaigns have been the only available method
+ of outbreak response. Consequently, although early
+ outbreaks were largely seeded from trivalent OPV use
+ before the switch, sequencing data confirm that new
+ outbreaks have arisen from the use of monovalent OPV
+ 
+<section> type
+ To maintain individual protection from type 2 paralytic
+ disease, the switch was supposed to be accompanied by
+ the introduction of a dose of IPV into the schedule of all
+ countries using only OPV. However, because of supply
+ constraints, many countries were unable to introduce
+ IPV or had vaccine stockouts. When combined with
+ poor routine immunisation coverage in many countries,
+ this has resulted in an estimated 143 million children
+ across serial cohorts born since 2016, most of them in
+ sub-Saharan Africa, who are yet to receive IPV and
+ therefore do not have any vaccine-induced immunity
+ 
+<section> against poliovirus type 1,12 
+<section> The provision of IPV to mitigate the risk of paralysis in International
+ cVDPV2 outbreaks, and for catch-up campaigns designed Practice
+ to fill the immunity gaps in non-immunised populations, Widespread
+ continues to be limited by the need to prioritise doses across
+ for routine immunisation. 13 However, considerable data Gambia
+ exist to support the use of fractional (a fifth; 0·1 mL) (appendix
+ IPV (fIPV) doses delivered by the intradermal route. the target
+ The WHO Strategic Advisory Group of Experts on invited
+ Immunization recommended that countries consider or clinic).
+ using two fIPV doses for routine immunisation as well demographic
+ as for outbreak response campaigns. 14 This schedule is schooling,
+ more immunogenic than a single full dose of IPV, in history,
+ addition to being dose-sparing. 15,16 In OPV-immunised were collected
+ individuals, fIPV also boosts mucosal immunity to a entry into
+ similar degree to full-dose IPV, making it suitable for A 2·0 mL
+ cVDPV2 outbreaks. 10,17 24–59 months.
+ A key concern with the use of intradermal fIPV in OPV as
+ campaigns is the feasibility of delivering intradermal switch
+ injections in the community on a large scale. Public keeping
+ health personnel across much of sub-Saharan Africa were eligible
+ routinely give the BCG vaccine by the intradermal route. vaccination
+ However, given the scale of the vaccination campaigns, Both
+ the use of additional personnel, generally with little or no vaccines
+ experience of giving intradermal injections, is essential were experienced
+ for their success. Although OPV can be given reliably and nurses,
+ after minimal training, the need to deliver IPV intra­ part as vaccinators
+ dermally rather than orally has been viewed as prohibitive widespread
+ to scale up. Several needle-free devices and other devices injectable
+ designed to facilitate intradermal vaccine delivery have health officers
+ been developed and assessed in clinical trials, producing prescribed
+ generally supportive results. 18 However, how these injection
+ finding translate when intradermal immunisations need officers
+ to be given rapidly as part of an outbreak response the basis
+ campaign is unknown. history
+ This pragmatic trial aimed to determine the non- confirmed
+ inferiority (in terms of immunogenicity) as well as the the nurses
+ safety of administering intradermal fIPV with a disposable 3 days
+ syringe jet injector (DSJI) or an intradermal adaptor (IDA) to 2 h
+ compared with standard BCG needle and syringe (N&S)- methods
+ based administration using processes and personnel having
+ normally employed to deliver vaccination campaigns with a period
+ injectable vaccines in The Gambia. required
+ use each
+ 
+<section> Methods 
+<section> Six vaccination
+ 
+<section> Study design and participants health officer
+ This was an open-label, non-inferiority trial. The trial was of the central
+ pragmatic in design, meaning it aimed to emulate, as in past
+ closely as possible, previous campaigns with parenteral clinics)
+ vaccines undertaken in The Gambia. 19 Therefore, public points were
+ health officers, who are normally responsible for the
+ conduct of such campaigns, were involved throughout 
+<section> Randomisation
+ the planning and implementation of the study. The trial To effectively
+ was approved by The Gambia Government/Medical campaigns,
+ Research Council Joint Ethics Committee, and the WHO assigned.
+ Research Ethics Review Committee. Clinical trial author­ assigned
+ isation was obtained from The Gambian Medicines establish
+ Control Agency. The trial was conducted according to the each day
+ 
+<section> Articles
+ 
+<section> Council for Harmonization Good Clinical
+ guidelines.
+ community sensitisation was undertaken
+ a rural setting in the western region of The
+ to inform families of the planned study
+ p 1). Families with children aged 4–59 months, See 
+<section> Online for appendix
+ group for IPV campaigns, were subsequently
+ to central points in their community (eg, a school
+ Once written informed consent was obtained,
+ information (sex, ethnic group, maternal
+ and maternal occupation), polio vaccination
+ and anthropometric data (weight and height)
+ on paper case report forms for subsequent
+ a validated OpenClinica clinical trial database.
+ blood sample was collected from children aged
+ This age group had received trivalent
+ part of their routine immunisations before the
+ but had not received IPV (appendix p 4). In
+ with procedures for campaigns, all children
+ unless they had a contraindication to
+ (ie, previous anaphylaxis).
+ public health officers, who administer all BCG
+ to newborn babies in The Gambia and hence
+ at administering intradermal injections,
+ who had little or no previous experience, took
+ in the campaign. This approach reflects
+ practice during national campaigns with
+ vaccines, given an insufficient number of public
+ to achieve national coverage within the
+ timeframe. The similarity of the intradermal
+ experience between individual public health
+ and between individual nurses was confirmed on
+ of their professional training and employment
+ as documented in their curriculum vitae and
+ verbally. Neither the public health officers nor
+ had used the DSJI or the IDA previously.
+ before the campaign, all vaccinators received up
+ of training on each of the three administration
+ (N&S, DSJI, and IDA). This training included
+ each method explained and shown, followed by
+ of hands-on practice. The vaccinators were
+ to confirm they felt confident in their ability to
+ method independently at the end of the training.
+ teams, each of which included one public
+ and one nurse, were then allocated to one
+ points in their community of the type used
+ campaigns (market areas, schools, and health
+ across the study area where the vaccination
+ set up.
+ 
+<section> and masking
+ 
+<section> replicate the flow of vaccinees during
+ children were not individually randomly
+ Instead, the vaccination teams were randomly
+ (1:1:1) to either the N&S, DSIJ, or IDA group, to
+ the administration method they would use on
+ of the campaign (appendix p 2). Randomisation, 
+<section> Articles
+ 
+<section> based on a sequence generated by a statistician not
+ otherwise involved in the study, was undertaken using
+ opaque, sealed, tamper-evident envelopes only after the
+ team make-up had been defined, training had been
+ completed, and the geographical areas and vaccination
+ points to be covered by each team had been decided.
+ Parents were subsequently asked to attend the vaccination
+ point most convenient for them during the 3-day
+ campaign. They did not know in advance which
+ administration method was being used but were not
+ masked at the time the vaccination occurred. The field
+ team assessing safety endpoints were not masked.
+ Laboratory personnel assessing serological endpoints
+ were masked.
+ 
+<section> Procedures
+ 
+<section> All children received a single 0·1 mL dose (a fifth of
+ a full dose) of IPV (Sanofi-Pasteur; Lyon, France) intra­
+ dermally using one of three administration methods:
+ by a 27 G × 10 mm fixed-needle, auto-disable N&S
+ (Helm Medical, Hamburg, Germany); by an IDA
+ (West Pharmaceutical Services, Eschweiler, Germany)
+ in combination with a 27 G × 13 mm fixed-needle, auto-
+ disable N&S (Helm Medical); or by a DSJI (Tropis;
+ Pharmajet Golden, CO, USA; appendix p 3). A 0·5 mL
+ dose of IPV contains IPV type 1 (Mahoney strain,
+ 40 D-antigen units), type 2 (MEF-1 strain, 8 D-antigen
+ units), and type 3 (Saukett strain, 32 D-antigen units).
+ Children were visited at home by trained field workers
+ 3 days after vaccination and solicited injection-site
+ (tender­ness, erythema, and induration) and systemic
+ (axillary temperature, vomiting, diarrhoea, reduced
+ feeding, drowsiness, and irritability) adverse events
+ data were collected and graded for severity according
+ to protocol-defined criteria (appendix p 5). Unsolicited
+ adverse events, including serious adverse events
+ (hospital­ isations, deaths, life-threatening events, and
+ events resulting in persistent incapacity), were recorded
+ for 4 weeks after vaccination by asking parents to attend
+ a study clinic in their community if their child had any
+ health complaints. Unsolicited adverse events were
+ graded for severity and relatedness to study vaccination.
+ During the campaign, data on the size of the intra­
+ dermal fluid bleb, fluid loss onto the skin, time taken to
+ administer each vaccine, and the amount of distress
+ apparent in the child were collected, as previously
+ described. 20,21 The number of fIPV doses obtained from
+ each vial according to administration method was
+ calculated to assess vaccine waste.
+ Children aged 24–59 months also had a follow-up
+ 2·0 mL blood sample collected 4 weeks after vaccination.
+ This sample, and the one taken at baseline, were used to
+ assess serum neutralising antibodies (SNA) titres against
+ poliovirus types 1, 2, and 3 according to established
+ protocols at the Centers for Disease Control and
+ Prevention (Atlanta, GA, USA). 22 SNA titres, estimated
+ using the Spearman-Kärber method, were reported as
+ the reciprocal of the calculated 50% endpoint titre and
+ reported to a maximum titre of 1448 or higher, which is
+ the upper limit of quantification for the assay.
+ 
+<section> Outcomes
+ 
+<section> The primary immunogenicity outcome was the immune
+ response to poliovirus type 2 generated after intradermal
+ fIPV administration with either the DSJI or the IDA
+ compared with the reference N&S. The percentage of
+ children with a SNA titre of 8 or more in their baseline
+ or post-vaccination blood samples defined the sero­
+ prevalence at these points in the trial. 23 Seroconversion
+ was defined as a baseline SNA titre of less than 8 and a
+ post-vaccination titre of 8 or more. Among the children
+ who had a baseline SNA titre of 8–362, the percentage
+ who had a four-fold rise in their SNA titre in the post-
+ vaccination sample was also established. The percentage
+ of children who had an immune response to the vaccine
+ was calculated by combining the percentage of children
+ who seroconverted with those who had a four-fold rise in
+ SNA titres. Children with a baseline titre of more than
+ 362 were excluded because a four-fold rise in SNA titres
+ would have been beyond the upper limit of quantification
+ for the assay.
+ Immune responses to poliovirus types 1 and 3
+ represented secondary immunogenicity objectives. Safety
+ outcomes were the number and severity of solicited
+ injection site and systemic adverse events on day 3 post-
+ vaccination; the occurrence, severity, and relatedness of
+ unsolicited adverse events; and serious adverse events in
+ the 4 weeks after vaccination. An injection was defined to
+ be of good quality if the fluid loss onto the skin was less
+ than 10 uL and the bleb size was 5 mm or more.
+ Additional qualitative data on vaccinator and parental
+ experience was collected and will be reported separately.
+ 
+<section> Statistical analysis
+ The immunogenicity analysis was done per protocol.
+ This included all participants who received a vaccine
+ during the campaign, had pre-vaccination and post-
+ vaccination serological results available, and had no
+ protocol deviations expected to affect the serological
+ endpoints. Newcombe CIs (ie, a modified Wilson score
+ for the difference between two proportions) were
+ calculated for the difference between two immune
+ response proportions. 24 Non-inferiority of the difference
+ between the percentage of children with an immune
+ responses in the DSJI group (IR ) or the IDA group
+ 
+<section> DSJI
+ (IR ) each compared with reference N&S group (IR )
+ 
+<section> IDA 
+<section> N&S
+ was declared if the lower limit of the two-sided
+ 97·5% Newcombe CI (Bonferroni correction to allow for
+ a multiplicity of 2; IR –IR or IR –IR ) was more
+ 
+<section> DSJI 
+<section> N&S IDA 
+<section> N&S
+ than the –10% non-inferiority margin. The non-inferiority
+ margin was defined based on the predicted public health
+ effect of such a reduction compared with the potential
+ benefits of the alternative administration methods. Given
+ that individuals were not individually randomly assigned, 
+<insert> Figure 1: Trial profile
+ Figure illustrating the number of infants and children who took part in the campaign separated
+ (baseline and post-vaccination serum neutralising antibody titres for poliovirus types 1, 2,
+ syringe jet injector. IDA=intradermal adapter. N&S=needle and syringe. 
+<iend>
+
+ 
+<section> 3189 assessed for eligibility
+ 
+<section> 1163 aged 4–23 months
+ 
+<section> 2026 aged 24–59 months
+ 
+<section> 19 ineligible
+ 
+<section> 6 withdrew
+ 10 left the
+ 2 contraindication
+ 1 older
+ 
+<section> 3170 eligible
+ 
+<section> 1158 aged 4–23 months
+ 
+<section> 2012 aged 24–59 months
+ 
+<section> 450 out-migrated
+ 
+<section> 2720 vaccinated in campaign
+ 
+<section> 970 aged 4–23 months
+ 
+<section> 1750 aged 24–59 months
+ 
+<section> Vaccinated the campaign during 917 (33·7%) 316 601 aged aged vaccinated 4–23 24–59 months months by N&S 929 (34·2%) 331 598 aged aged vaccinated 4–23 24–59 months months by DSJI
+ 
+<section> 915 (99·8%) vaccinated by N&S 920 (99·0%) vaccinated by DSJI
+ Solicited adverse 316 aged 4–23 months 329 aged 4–23 months
+ events on day 599 aged 24–59 months 591 aged 24–59 months
+ 
+<section> 907 (98·9%) vaccinated by N&S 912 (98·2%) vaccinated by DSJI
+ Study completion 315 aged 4–23 months 326 aged 4–23 months
+ 592 aged 24–59 months 586 aged 24–59 months
+ 
+<section> Serological analysis 582 (96·8%) vaccinated by N&S 574 (96·0%) vaccinated by DSJI
+ 
+<section> into those aged 4–23
+ and 3) was only undertaken
+ 
+<section> stratified CIs were calculated to account for the baseline clustering at the vaccination
+ differences between groups. The CIs were stratified by were not known a priori
+ age and sex, and for variables significantly associated training of the teams
+ (p value <0·2) with the immune response via multilevel be small. Instead, the
+ logistic regression, described later, separately for each that was feasible
+ serotype. The stratified Newcombe CIs were combined, sample size, were vaccinated
+ using continuity-corrected inverse variance weights, Multilevel logistic
+ resulting in adjusted CIs for each immune response identify the factors
+ non-inferiority comparison and serotype. A univariable analysis
+ A sample size of 510 per administration method provided unadjusted association
+ 80% power with an α of 2·5% to independently declare immune response.
+ either administration method (DSJI or IDA) non-inferior a multivariable model
+ to the N&S. The sample size was calculated from a procedure was performed
+ simulation of the design assuming an immune response variables with an overall
+ rate of 64% in each group based on previous data from was done separately
+ The Gambia 26 and allowed for 15% of those sampled to be combined analysis
+ excluded. The sample size was not adjusted for potential coefficients were
+ 
+<section> Articles
+ 
+<section> consent
+ 
+<section> campaign area
+ 
+<section> to vaccination
+ 
+<section> than 59 months
+ 
+<section> 874 (32·1%) vaccinated by IDA
+ 
+<section> 323 aged 4–23 months
+ 
+<section> 551 aged 24–59 months
+ 
+<section> 866 (99·1%) vaccinated by IDA
+ 
+<section> 320 aged 4–23 months
+ 
+<section> 546 aged 24–59 months
+ 
+<section> 858 (98·2%) vaccinated by IDA
+ 
+<section> 320 aged 4–23 months
+ 
+<section> 538 aged 24–59 months
+ 
+<section> 527 (95·6%) vaccinated by IDA
+ 
+<section> months and 24–59 months. Serological analysis
+ in those aged 24–59 months. DSJI=disposable
+ 
+<section> team level because the clusters
+ and, given that the experience and
+ was standardised, we expected it to
+ maximum number of participants
+ beyond the minimum, unadjusted
+ over the 3-day campaign.
+ regression models were fitted to
+ associated with the immune response.
+ 
+<section> was done to establish the
+ between each variable and the
+ All factors were then fitted into
+ and a backwards elimination
+ until the final model had only
+ p value of <0·2. This analysis
+ for each serotype and also in a
+ for all serotypes. Intraclass correlation
+ calculated to quantify any effect of 
+<insert> Table 1: Baseline demographic and anthropometric characteristics in all participants vaccinated during
+ the campaign 
+<iend>
+
+ 
+<section> Articles
+ 
+<section> Age (months)
+ 
+<section> 4–23 months
+ 
+<section> 24–59 months
+ 
+<section> Mean (SD)
+ 
+<section> Sex
+ 
+<section> Female
+ 
+<section> Male
+ 
+<section> Ethnic group
+ 
+<section> Mandinka
+ 
+<section> Jola
+ 
+<section> Other
+ 
+<section> Maternal schooling
+ 
+<section> No school
+ 1–9 years: lower or upper basic
+ >9 years: secondary or college
+ 
+<section> Maternal occupation
+ 
+<section> At-home housewife
+ Small trader or non-skilled worker
+ 
+<section> Professional and other
+ 
+<section> Height for age Z score <–2SD
+ Weight for height Z score <–2SD
+ Previous number of oral poliovirus
+ 
+<section> vaccine doses, median (IQR)
+ Data presented as n (%) unless otherwise
+ 
+<section> Needle and 
+<section> Disposable
+ 
+<section> syringe 
+<section> syringe jet
+ 
+<section> (n=917) 
+<section> injector
+ 
+<section> (n=929)
+ 
+<section> 316 (34·5%) 
+<section> 331 (35·6%)
+ 
+<section> 601 (65·5%) 
+<section> 598 (64·4%)
+ 
+<section> 31·9 (15·8) 
+<section> 31·0 (15·7)
+ 
+<section> 456 (49·7%) 
+<section> 460 (49·5%)
+ 
+<section> 461 (50·3%) 
+<section> 469 (50·5%)
+ 
+<section> 355 (38·7%) 
+<section> 470 (50·6%)
+ 
+<section> 266 (29·0%) 
+<section> 251 (27·0%)
+ 
+<section> 296 (32·3%) 
+<section> 208 (22·4%)
+ 
+<section> 449 (49·0%) 
+<section> 394 (42·4%)
+ 
+<section> 316 (34·5%) 
+<section> 302 (32·5%)
+ 
+<section> 152 (16·6%) 
+<section> 233 (25·1%)
+ 
+<section> 732 (79·8%) 
+<section> 664 (71·5%)
+ 
+<section> 115 (12·5%) 
+<section> 189 (20·3%)
+ 
+<section> 70 (7·6%) 
+<section> 76 (8·2%)
+ 
+<section> 204 (22·2%) 
+<section> 194 (20·9%)
+ 
+<section> 60 (6·5%) 
+<section> 80 (8·6%)
+ 
+<section> 6·0 
+<section> 6·0
+ 
+<section> (5·0–7·0) 
+<section> (5·0–7·0)
+ stated.
+ 
+<section> clustering within the teams on
+ and also to examine the correlation
+ three serotypes within individuals.
+ Binomial exact CIs were calculated
+ antibody titres. Safety and other
+ descriptively. 27 Statistical analysis
+ version 13.1. The trial is registered
+ NCT02967783 and has been completed.
+ data safety monitoring board oversaw
+ 
+<section> Role of the funding source
+ The trial was funded by WHO
+ Rotary International and by
+ Council (UK). The costs of the
+ met by the Centers for Disease
+ WHO personnel participated in
+ interpretation, and decision to submit
+ 
+<section> Results
+ 
+<section> Between Oct 28 and Dec 29, 2016,
+ between 4 and 59 months provided
+ the study, of whom 3170 (99·4%)
+ part in the campaign (figure
+ instability in The Gambia after
+ 
+<section> resulted in substantial out-migration from the campaign
+ 
+<section> Intradermal adapter Total (n=2720) area and delayed the campaign, which subsequently
+ 
+<section> (n=874) took place between Feb 7 and 9, 2017. At this
+ point, 450 children (14·2%) had not returned to their
+ previous place of residence and did not take part in the
+ 323 (37·0%) 970 (35·7%) campaign. A total of 2720 children were vaccinated
+ 551 (63·0%) 1750 (64·3%) during the campaign over 3 days (N&S, 917 [33·7%];
+ 30·4 (15·8) 31·1 (15·7) DSJI, 929 [34·2%]; and IDA, 874 [32·1%]). Of these,
+ 2701 (99·3%) had day 3 solicited reactogenicity collected,
+ 438 (50·1%) 1354 (49·8%) and 2677 (98·4%) completed the 4 four-week safety
+ 436 (49·9%) 1366 (50·2%) follow-up. Of the 1750 children aged 24–59 months,
+ 1683 (96·2%) had a baseline and post-vaccination
+ 
+<section> 450 (51·5%) 1275 (46·9%) serological result available.
+ 
+<section> 208 (23·8%) 725 (26·7%) The baseline characteristics of all children vaccinated
+ during the campaign are provided in table 1, and
+ 
+<section> 216 (24·7%) 
+<section> 720 (26·5%)
+ of those aged 24–59 months are provided in the
+ appendix (p 6). Overall, just under two-thirds of children
+ 
+<section> 404 (46·2%) 
+<section> 1247 (45·8%)
+ (1750 [64·3%] of 2720) were aged 24–59 months,
+ 
+<section> 297 (34·0%) 
+<section> 915 (33·6%)
+ 1366 (50·2%) were male, and 1354 (49·8%) were female.
+ 
+<section> 173 (19·8%) 
+<section> 558 (20·5%)
+ A fifth of children were stunted (height for age
+ 
+<section> Z score <–2SD; 545 [20·0%]) and 196 (7·2%) were
+ 
+<section> 563 (64·4%) 
+<section> 1959 (72·0%)
+ wasted (weight for height Z score <–2SD).
+ 
+<section> 248 (28·4%) 552 (20·3%) Children aged 24–59 months had received a median of
+ 63 (7·2%) 209 (7·7%) seven (IQR 6–7) previous doses of trivalent OPV. The
+ 147 (16·8%) 545 (20·0%) baseline seroprevalence in this group was 93·9% (95% CI
+ 56 (6·4%) 196 (7·2%) 92·5–94·9; 1580/1683) for type 1, 96·9% (95·9–97·5;
+ 
+<section> 6·0 6·0 1630/1683) for type 2, and 85·5% (83·8–87·1; 1440/1683)
+ 
+<section> (5·0–7·0) 
+<section> (5·0–7·0)
+ for type 3 (table 2). Baseline median antibody titres
+ were 362 (274–362) for type 1, 274 (274–274) for type 2,
+ and 91 (69–91) for type 3. There were no substantial
+ differences in the distribution of baseline antibody titres
+ across the three groups (figure 2).
+ The overall post-vaccination seroprevalence for polio­
+ the responses generated, virus type 1 was 99·2% (95% CI 98·5–99·5; 1669/1683)
+ of responses to the and was consistent across administration methods
+ (table 3). The immune response to type 1 ranged
+ around the median from 93·1% (95% CI 89·5–95·5; 268/288) in the DSJI
+ data were summarised group to 96·6% (94·0–98·0; 309/320) in the N&S group.
+ was done in Stata All children who were seronegative for type 2 at base­
+ with ClinicalTrials.gov line seroconverted, resulting in a 100% (99·8–100·0;
+ The WHO polio 1683/1683) post-vaccination seroprevalence in all groups.
+ the study. Among those vaccinated using the DSJI, 90·1%
+ (86·1–92·9; 281/312) had an immune response to
+ type 2 compared with 93·8% (90·6–95·8; 331/353) of
+ through a grant from those vaccinated with N&S, and 96·6% (94·0–98·0;
+ the Medical Research 316/327) of those vaccinated with IDA (table 3). The post-
+ serological analysis were vaccination seroprevalence for type 3 ranged from 94·7%
+ Control and Prevention. (92·4–96·3; 499/527) for the IDA group to 98·6%
+ the study design, data (97·3–99·3; 574/582) for the N&S group. Of the children
+ for publication. who had fIPV administered using an N&S, 96·8%
+ (94·5–98·0; 419/433) had an immune response to type 3,
+ compared with 92·4% (89·5–94·5; 414/448) of those
+ 3189 children aged vaccinated with DSJI and 91·2% (88·0–93·5; 375/411) of
+ the baseline data for those vaccinated with the IDA. There were no substantial
+ were eligible to take differences in the distribution of antibody titres among
+ 1). A period of political those who received intradermal fIPV by each of the three
+ baseline data collection administration methods (figure 2). 
+<insert> Table 2: Baseline poliovirus serum neutralising antibody seroprevalence
+ and median antibody titres in those aged 24–59 months
+ C Poliovirus type
+ 1·0 
+<iend>
+
+ 
+<insert> alternative administration methods were also non-inferior
+ to the immune response rates to the same types generated
+ after N&S administration. The inferences from the non-
+ inferiority tests were unchanged by adjust­ment for baseline
+ variables (appendix p 7).
+ Baseline seropositivity was associated with an increase
+ in immune response rates for types 1 and 3. There were
+ no other consistent associations with the other variables
+ analysed (appendix pp 8–10). Neither the designation of
+ the vaccinator (public health officers compared with
+ nurses, odds ratio [OR] 0·70 [95% CI 0·40–1·23]), nor the
+ time taken to administer the vaccine (1–<2 mins vs
+ <1 min, OR 1·05 [95% CI 0·67–1·64]; ≥2 mins vs <1 min,
+ OR 0·75 [95% CI 0·20–2·82]) affected on the immune
+ response rates (appendix p 11). The amount of clustering
+ at a team level was low (intraclass correlation coefficients:
+ type 1, 0·000; type 2, 0·003; and type 3, 0·012) for the
+ individual serotype analyses. For the combined serotype
+ analyses, the team-level clustering was again low (intra­
+ class correlation coefficient 0·030), whereas, as expected,
+ Figure 2: Distribution of SNA titres
+ Reverse cumulative distribution curves illustrating the distribution of poliovirus
+ type 1, poliovirus type 2, and poliovirus type 3 SNA titres at baseline and
+ post-vaccination after the administration of an intradermal fractional dose of
+ inactivated poliovirus vaccine using N&S, DSJI, or IDA. DSJI=disposable syringe
+ jet injector. IDA=intradermal adapter. N&S=needle and syringe. SNA=serum
+ neutralising antibody.
+ there was considerable clustering in the response to
+ the three poliovirus types within individuals (intraclass
+ correlation coefficient 0·520).
+ The median diameter of the intradermal fluid bleb
+ generated by the DSJI was 3 mm (IQR 1–5) compared with
+ 5 mm (4–7) with the IDA and 7 mm (5–8) with the N&S.
+ A fifth of children (172/864; 20·0%) lost at least 20 μL
+ of fluid onto the skin at the time of the injection with
+ the DSJI compared with only approximately 1% of children
+ who lost this volume with N&S (12/880; 1·4%) or IDA
+ (8/849; 0·9%; table 4). There was no independent
+ association between the size of the intradermal fluid bleb
+ and immune response once administration method had
+ been accounted for (appendix p 11). There was no 
+<iend>
+
+ 
+<section> Needle and Disposable Intradermal Total A
+ syringe syringe jet adapter (n=1683) 1·0
+ 
+<section> (n=582) 
+<section> injector 
+<section> (n=527)
+ 
+<section> (n=574) 
+<section> 0·8
+ 
+<section> Poliovirus type ≥titre
+ 
+<section> Seroprevalence 1580 
+<section> 0·6
+ 
+<section> (94·5%; 
+<section> (94·4%; 
+<section> (92·6%; 
+<section> (93·9%; 
+<section> Probability
+ 92·3–96·0) 92·1–96·0) 90·0–94·5) 92·5–94·9) 0·4
+ 
+<section> Median
+ antibody titres (274–362) (362–446) (223–362) (274–362) 0·2
+ 
+<section> Poliovirus type
+ 
+<section> Seroprevalence 1630
+ 
+<section> (97·4%; 
+<section> (96·3%; 
+<section> (96·8%; 
+<section> (96·9%;
+ 95·8–98·4) 94·5–97·5) 94·9–98·0) 95·9–97·5) 
+<section> B
+ Median 
+<section> 1·0
+ antibody titres (223–274) (274–362) (223–274) (274–274)
+ 
+<section> Poliovirus type 0·8
+ 
+<section> Seroprevalence 1440 
+<section> ≥titre
+ 
+<section> (89·3%; 
+<section> (84·5%; 
+<section> (82·5%; 
+<section> (85·6%; 
+<section> 0·6
+ 86·5–91·5) 81·3–87·1) 79·0–85·5) 83·8–87·1) Probability
+ Median 
+<section> 0·4
+ antibody titres (91–111) (69–111) (56–91) (69–91)
+ Data presented as n (%, 95% CI), or median (95% CI). Seroprevalence is defined as 0·2
+ the number of participants with a serum neutralising antibody titre of ≥8 as a
+ proportion of all participants tested.
+ 
+<section> 0·8
+ 
+<section> For the primary non-inferiority analysis, the type
+ immune response rates in those who received fIPV using ≥titre 0·6
+ either the DSJI or the IDA were non-inferior to the immune Probability
+ response rates in those who had the vaccine administered 0·4
+ with an N&S (figure 3). The adjusted difference was –3·3%
+ (97·5% CI –8·3 to 1·5) for DSJI, and 0·7% (–3·3 to 4·7) 0·2
+ for IDA administration. The unadjusted differences were
+ –3·7% (–8·7 to 1·1) for DSJI and 2·9% (–0·9 to 6·8) 2·5
+ for IDA. The adjusted difference in the immune response
+ to types 1 and 3 after administration by either of the
+ 
+<section> Articles
+ 
+<section> Poliovirus type
+ 
+<section> Baseline
+ 
+<section> Post-vaccination
+ 
+<section> N&S
+ 
+<section> DSJI
+ 
+<section> IDA
+ 
+<section> Poliovirus type
+ 
+<section> 3·5 
+<section> 4·5 
+<section> 5·5 
+<section> 6·5 
+<section> 7·5 
+<section> 8·5 
+<section> 9·5 
+<section> 10·5
+ 
+<section> Log 
+<section> SNA titre 
+<insert> Table 3: Post-vaccination poliovirus SNA responses and median antibody titres in those aged 24–59 months 
+<iend>
+
+ 
+<section> Articles
+ 
+<section> Needle
+ 
+<section> (n=582)
+ 
+<section> Poliovirus type
+ Seroprevalence
+ 
+<section> Seroprevalence %
+ Median antibody titres ≥1448
+ Seroconversion
+ 
+<section> Seroconversion %
+ Four-fold titre rise 280/288
+ 
+<section> Four-fold titre rise %
+ Immune response 309/320
+ 
+<section> Immune response %
+ 
+<section> Poliovirus type
+ Seroprevalence 
+<section> 582/582
+ 
+<section> Seroprevalence % 
+<section> 100·0%
+ Median antibody titres ≥1448
+ Seroconversion
+ 
+<section> Seroconversion % 
+<section> 100·0%
+ Four-fold titre rise 316/338
+ 
+<section> Four-fold titre rise %
+ Immune response 331/353
+ 
+<section> Immune response %
+ 
+<section> Poliovirus type
+ Seroprevalence 
+<section> 574/582
+ 
+<section> Seroprevalence %
+ Median antibody titres ≥1448
+ Seroconversion
+ 
+<section> Seroconversion %
+ 
+<section> Four-fold titre rise 
+<section> 365/371
+ 
+<section> Four-fold titre rise %
+ Immune response 419/433
+ 
+<section> Immune response %
+ Data presented as n/N, % (95% CI), or median
+ tested. The percentage of children who had
+ who underwent seroconversion (baseline
+ four-fold rise in SNA titres post-vaccination.
+ quantification the assay. SNA=serum neutralising
+ 
+<section> association between the amount
+ and immune response. There
+ between overall injection quality
+ for type 2 (OR 1·95; 95% CI 1·00–3·79)
+ for the other types on adjusted
+ More than half of injections
+ (507/929; 54·6%) were completed
+ with approximately a third of
+ N&S (300/917; 32·7%) and IDA
+ More than 95% of injections
+ 2 min. More than 80% of children
+ not cry when the intradermal
+ the DSJI compared with approximately
+ after N&S-based (427/917; 46·6%)
+ 44·9%) administration. More
+ receiving an injection with N&S
+ 
+<section> and syringe Disposable syringe
+ 
+<section> injector (n=574)
+ 
+<section> 99·3% (98·1–99·6) 99·3% (98·1–99·6)
+ (1448–1448) ≥1448 (1448–1448)
+ 
+<section> 29/32 
+<section> 28/32
+ 90·6% (75·8–96·8) 87·5% (71·9–95·0)
+ 
+<section> 240/256
+ 97·2% (94·5–98·5) 93·8% (90·0–96·0)
+ 
+<section> 268/288
+ 96·6% (94·0–98·0) 93·1% (89·5–95·5)
+ 
+<section> 574/574
+ (99·3–100·0) 100·0% (99·3–100·0)
+ (1448–1448) ≥1448 (1448–1448)
+ 
+<section> 15/15 
+<section> 21/21
+ (79·5–100·0) 100·0% (84·5–100·0)
+ 
+<section> 260/291
+ 93·5% (90·3–95·6) 89·3% (85·3–92·4)
+ 
+<section> 281/312
+ 93·8% (90·6–95·8) 90·1% (86·1–92·9)
+ 
+<section> 560/574
+ 98·6% (97·3–99·3) 97·6% (95·9–98·5)
+ (1448–1448) ≥1448 (1448–1448)
+ 
+<section> 54/62 
+<section> 75/89
+ 87·1% (76·5–93·3) 84·3% (75·3–90·4)
+ 
+<section> 339/359
+ 98·4% (96·5–99·3) 94·4% (91·5–96·4)
+ 
+<section> 414/448
+ 96·8% (94·5–98·0) 92·4% (89·5–94·5)
+ (95% CI). Seroprevalence is defined as the number
+ an immune response after intradermal fractional
+ SNA titres of <8 and a post-vaccination titre of
+ Children with a baseline titre of >362 were excluded
+ antibody.
+ 
+<section> of fluid lost onto the skin
+ was a weak association
+ and immune response
+ 
+<section> but no association
+ analysis (appendix pp 12–13).
+ administered by DSJI
+ in under 1 min compared
+ injections administered by
+ (294/874; 33·6%; table 4).
+ were completed in under
+ (771/929; 83·0%) did
+ fIPV was administered using
+ 
+<section> 45% of children
+ or IDA-based (392/874;
+ children were crying before
+ or IDA methods. A mean
+ 
+<section> jet Intradermal adapter Total
+ 
+<section> (n=527) 
+<section> (n=1683)
+ 
+<section> 1669
+ 98·9% (97·5–99·5) 99·2% (98·5–99·5)
+ ≥1448 (1448–1448) ≥1448 (1448–1448)
+ 
+<section> 34/39 
+<section> 91/103
+ 87·2% (73·3–94·4) 88·3% (80·6–93·1)
+ 
+<section> 250/260 
+<section> 770/804
+ 96·2% (93·0–97·9) 95·8% (94·0–97·0)
+ 
+<section> 284/299 
+<section> 861/907
+ 95·0% (91·9–96·9) 94·9% (93·3–96·1)
+ 
+<section> 527/527 
+<section> 1683/1683
+ 100·0% (99·3–100·0) 100·0% (99·8–100·0)
+ ≥1448 (1448–1448) ≥1448 (1448–1448)
+ 
+<section> 17/17 
+<section> 53/53
+ 100·0% (81·5–100·0) 100·0% (93·1–100·0)
+ 
+<section> 299/310 
+<section> 875/939
+ 96·5% (93·8–98·0) 93·2% (91·4–94·5)
+ 
+<section> 316/327 
+<section> 928/992
+ 96·6% (94·0–98·0) 93·5% (91·8–94·9)
+ 
+<section> 499/527 
+<section> 1633/1683
+ 94·7% (92·4–96·3) 97·0% (96·0–97·6)
+ ≥1448 (1448–1448) ≥1448 (1448–1448)
+ 
+<section> 70/92 
+<section> 199/243
+ 76·1% (66·4–83·5) 81·9% (76·5–86·1)
+ 
+<section> 305/319 
+<section> 1009/1049
+ 95·6% (92·8–97·4) 96·2% (94·8–97·1)
+ 
+<section> 375/411 
+<section> 1208/1292
+ 91·2% (88·0–93·5) 93·5% (92·0–94·6)
+ of participants with an SNA titre of ≥8 as a proportion of all participants
+ dose inactivated poliovirus vaccine was calculated combining the percentage
+ ≥8) with the percentage who were seropositive (SNA ≥8) at baseline and had a
+ from the analysis as a four-fold rise was beyond the upper limit of
+ 
+<section> of 63 (SD 5·0) fIPV doses were obtained from each 10-dose
+ vial using the DSJI compared with a mean of 50 (SD 2·7)
+ doses using the N&S.
+ Vaccinations were well tolerated. A low number of
+ solicited injection-site adverse events occurred irrespect­
+ ive of administration method (appendix pp 14–16). On
+ day 3, five (0·2%) of 2701 patients had any tenderness,
+ one (<0·1%) patient had any erythema, and seven (0·3%)
+ had any induration, and all reactions were resolved
+ without intervention. Overall, 99·4% (2684/2701) of
+ children had an axillary temperature of less than 37·5°C.
+ No child had a temperature of more than 39·0°C, and the
+ small number of children with a low-grade fever required
+ treatment with only simple antipyretics. The rates of
+ solicited systemic adverse events in children were also
+ low. Most complaints were mild or moderate in severity 
+<insert> Cried
+ Crying
+ Crying
+ Figure 3: Effects of administration method on type-specific immune
+ responses
+ Differences in the percentage of participants having an immune response
+ to poliovirus type 1, poliovirus type 2, or poliovirus type 3 after the
+ administration of an intradermal fractional dose of inactivated poliovirus
+ vaccine via IDA or DSJI, compared with the reference N&S method.
+ The percentage of children who had an immune response after intradermal
+ Data presented
+ vaccination. 
+<iend>
+
+ 
+<insert> fractional dose inactivated poliovirus vaccine was calculated combining the
+ percentage who underwent seroconversion (baseline SNA titres of <8 and a
+ post-vaccination titre of ≥8) with the percentage who were seropositive
+ (SNA≥8) at baseline and had a four-fold rise in SNA titres post-vaccination.
+ Children with a baseline titre of >362 were excluded from the analysis because
+ a four-fold rise was beyond the upper limit of quantification the assay (table 3).
+ Point estimates and 97·5% CI are illustrated. The 97·5% CI were adjusted for
+ age, sex, and variables associated with the immune response in a multivariable
+ regression model developed for each type (type 1: baseline seropositivity,
+ appendix p 8; type 2: number of previous oral poliovirus vaccine doses, time
+ taken to vaccinate, maternal occupation, appendix p 9; type 3: baseline
+ seropositivity, appendix p 10). DSJI=disposable syringe jet injector.
+ IDA=intradermal adapter. N&S=needle and syringe. SNA=serum
+ neutralising antibody.
+ and all resolved with no more than sympto­ matic
+ treatment. There were no notable differences in the rates
+ of solicited systemic adverse events between the three
+ administration methods. A total of 728 unsolicited
+ adverse events were recorded during the 4-week follow-
+ up period (appendix p 17): 234 in the N&S-based adminis­
+ tration group, 219 in the DSJI-based administration
+ group, and 275 in the IDA-based administration group.
+ Upper respiratory tract infections (196/728; 26·9%) and
+ gastroenteritis or diarrhoea (193/728; 26·5%) were the
+ most common adverse events. Overall, 181 of 917 partici­
+ pants (19·7%) in the N&S group, 178 of 929 participants
+ (19·2%) in the DSJI group, and 211 of 874 participants
+ (24·1%) in the IDA group had at least one unsolicited
+ adverse event. Six children, two who received fIPV by
+ each of the three administration methods, had a serious
+ adverse event during the study. Four children were
+ admitted to hospital with a diagnosis of gastroenteritis
+ or diarrhoea, one with a skin infection, and one with
+ contusions after a road traffic accident. None of the
+ serious adverse events were related to vaccination and all
+ made a full recovery without sequelae.
+ Table 4: Vaccine delivery outcomes
+ Discussion
+ This trial established the immunogenicity and safety
+ of intradermal fIPV when administered with an N&S,
+ a DSJI, and an IDA in The Gambia. These results should
+ allay concerns regarding the feasibility of delivering
+ intradermal injections in large-scale outbreak response
+ campaigns. For all three poliovirus types, the immuno­
+ genicity of intradermal fIPV administered with either
+ the DSJI or with the IDA was non-inferior to the
+ immunogenicity of the same vaccine administered with
+ an N&S. The vaccination was well tolerated by all three
+ administration methods.
+ The immunogenicity of intradermal fIPV has been
+ examined in previous randomised controlled trials, albeit
+ only one in sub-Saharan Africa. 10,15–18,26,28,29 Two meta-
+ analyses published in 2019 and 2021 compared equivalent
+ full-dose and fIPV dose schedules. Type 2 seroconversion
+ rates after one and in some cases two and three fIPV doses
+ are lower than after the equivalent full-dose schedules and
+ median antibody titres tend to be lower, irrespective of
+ the dose number. 18,30 Nonetheless, fIPV used to boost
+ immunity after OPV in infants results in substantially
+ higher type 2 immune response rates than further OPV
+ doses. 28 In trials conducted in low-income and middle-
+ income countries, type 2 seroprevalence in young children
+ boosted with intradermal fIPV after OPV ranges from
+ approximately 90% to close to 100%. 16,26,28,31 Two fractional
+ doses of IPV are more immunogenic than a single full
+ dose at the same time as being dose sparing. 15,29 Fractional
+ as well as full-dose IPV has also been shown to boost
+ mucosal immunity in those who have previously received
+ the oral vaccine, making it suitable for outbreak control. 10,17 
+<iend>
+
+ 
+<section> A Serotype
+ 
+<section> DSJI
+ 
+<section> IDA 
+<section> Intradermal
+ Fluid loss
+ 
+<section> B Serotype Dry
+ 
+<section> <5 μL
+ 
+<section> DSJI 
+<section> 5 to <10
+ IDA
+ 
+<section> 10 to
+ 
+<section> ≥20 μL
+ 
+<section> C Serotype
+ 
+<section> Time taken
+ DSJI 
+<section> <1 min
+ 
+<section> IDA 
+<section> 1 to <2
+ –20 
+<section> –10 
+<section> 2 to <3
+ Favours N&S Favours IDA or DSJI 
+<section> ≥3 min
+ 
+<section> Difference in proportion of children 
+<section> Distress
+ with immune response 
+<section> Did not
+ 
+<section> Articles
+ 
+<section> Needle and syringe Disposable syringe jet Intradermal adapter
+ 
+<section> (n=917) 
+<section> injector (n=929) 
+<section> (n=874)
+ 
+<section> fluid bleb size, mm 7 (5–8) 3 (1–5) 5 (4–7)
+ 
+<section> onto skin*
+ 317/880 (36·0%) 288/864 (33·3%) 546/849 (64·3%)
+ 505/880 (57·4%) 263/864 (30·4%) 258/849 (30·4%)
+ μL 25/880 (2·8%) 76/864 (8·8%) 26/849 (3·1%)
+ <20 μL 21/880 (2·4%) 65/864 (7·5%) 11/849 (1·3%)
+ 12/880 (1·4%) 172/864 (19·9%) 8/849 (0·9%)
+ 
+<section> to vaccinate
+ 300/917 (32·7%) 507/929 (54·6%) 294/874 (33·6%)
+ min 592/917 (64·6%) 409/929 (44·0%) 553/874 (63·3%)
+ min 23/917 (2·5%) 11/929 (1·2%) 24/874 (2·7%)
+ 
+<section> 2/917 (0·2%) 
+<section> 2/929 (0·2%) 
+<section> 3/874 (0·3%)
+ 
+<section> associated with injection
+ cry 427/917 (46·6%) 771/929 (83·0%) 392/874 (44·9%)
+ briefly, consoled easily 329/917 (35·9%) 66/929 (7·1%) 351/874 (40·2%)
+ for a long time 35/917 (3·8%) 12/929 (1·3%) 23/874 (2·6%)
+ before injection 126/917 (13·7%) 80/929 (8·6%) 108/874 (12·4%)
+ as median (IQR) or n/N (%). *Fluid loss was not collected on every participant because of the rate of 
+<section> Articles
+ 
+<section> Despite such supportive data, a persistent concern
+ regarding the rapid deployment of intradermal fIPV in
+ campaigns to control cVDPV2 outbreaks is the feasibility
+ of delivering intradermal injections on a large scale.
+ Hence, there are concerns that the immunogenicity and
+ safety data generated in trials might not be replicated
+ during an outbreak. In 2016, more than 300 000 children
+ were vaccinated with intradermal fIPV using N&S within
+ 14 days of detection of VDPV2 in Telangana, India.
+ Although successful in terms of coverage, a large number
+ of trained vaccinators had to be brought into the target
+ area from other districts, which will not be feasible in
+ many settings. 32 A report after another intradermal fIPV
+ campaign, undertaken in Hyderabad, Pakistan, recorded
+ little experience and incorrect vaccine administration as
+ limitations to the use of N&S. 33 A study conducted in
+ Karachi, Pakistan, during a catch-up campaign supported
+ the feasibility of DSJI use in this context and also
+ reported that 97·6% (578/592) of vaccinators and
+ 99·6% (4792/4813) of caregivers reported a preference
+ for DSJI over the previous experience of intramuscular
+ N&S vaccination. 34 Immunogenicity data were not col­
+ lected in these campaigns and safety data were limited to
+ the routine passive reporting of adverse events after
+ immunisation.
+ This study provides compelling data to support the
+ use of intradermal fIPV in cVDPV2 outbreak response
+ campaigns, particularly in sub-Saharan Africa where
+ they are most needed based on a rapidly increasing
+ number of cVDPV2 outbreaks being reported. Neither
+ the safety nor immunogenicity of intradermal fIPV was
+ affected by the administration method used. All children
+ who were seronegative to poliovirus type 2 at baseline
+ seroconverted in response to a single dose of intra­
+ dermal fIPV. High SNA titres were generated against all
+ three polio­virus types, irrespective of the administration
+ method. There was a weak association between injection
+ quality and the immune response for poliovirus type
+ However, the titres generated by all three administration
+ methods were consistently high despite the difference
+ in markers of injection quality. Because 20% of
+ injections with the DSJI were associated with more
+ than 20% vaccine loss, further dose reductions might be
+ possible. The little effect that the previous experience
+ administering intradermal injections of the vaccinator
+ had on immune response rates also suggests that this is
+ not a crucial determinant. The perceived importance of
+ injection quality, reflecting the delivery of fIPV into
+ the dermis rather than deeper tissue, is based on the
+ presence of distinct antigen-presenting cells in this
+ layer of the skin, considered able to compensate for
+ the reduced antigen dose. 35 Although some adult data
+ support this notion, a trial in infants suggests that fIPV
+ delivered intramuscularly might offer similar protection
+ to doses administered by the intradermal route. 36,37
+ Our study also suggests that the immune responses
+ generated by fIPV are robust and that the route of
+ administration should not be a barrier, even when there
+ are few experienced personnel.
+ More than 25% more doses were obtained from each
+ ten-dose vial when using the DSJI method than when
+ using the N&S method. This increase reflects the standard
+ requirement to overfill vials to account for the dead space
+ in an N&S. Dead space in the DSJI has been minimised,
+ with any overage drawn out of the vial during filling being
+ returned to the vial as part of the priming process. In an
+ outbreak campaign, the scale and focus of which are
+ necessarily established by IPV availability, this provides
+ the potential to increase campaign coverage by stretching
+ the vaccine supply.
+ Both the DSJI and the IDA have been endorsed by the
+ Strategy Committee of the Global Polio Eradication
+ Initiative for use in polio outbreak responses. The
+ DSJI has been prequalified by WHO for intradermal
+ immunisation. Although the unit cost of both delivery
+ methods is considerably higher than for N&S delivery,
+ analysis suggests that this cost might be largely offset
+ when the effect of dose sparing and of operational costs,
+ including the training of health workers, is included.
+ The pragmatic nature of the trial, aiming to align
+ procedures with those used to deliver campaigns with
+ parenteral vaccines in The Gambia and other countries in
+ sub-Saharan Africa, was a key strength of the study.
+ These are the first immunogenicity and systematically
+ collected safety data of intradermal fIPV delivered in
+ the context of a campaign. Indeed, to the best of our
+ knowledge, the trial design is novel and could be applied
+ to other vaccines used in outbreak control or delivered
+ through campaigns. Few children were excluded based on
+ ineligibility. Although approximately a fifth of children
+ were at least moderately stunted in height, this did not
+ affect immune response rates, which should reassure
+ those planning campaigns in other settings with high
+ rates of malnutrition. The sample size was also exceeded,
+ adding to the strength of the safety data and the confidence
+ that can be placed in the immunogenicity data.
+ The trial had some limitations. Participants were not
+ individually randomly assigned, but rather had the vaccine
+ administered using the method being used at the site
+ they attended. Similarly, the parents were not masked.
+ Although inherent to the trial design, both result in a risk
+ of selection bias. Although there were some differences in
+ the baseline demographic characteristics between groups,
+ adjusting for these variables did not alter the inference
+ from the non-inferiority analysis, and any effect is likely to
+ be small given that the laboratory assessment was blinded.
+ The number of vaccination teams was kept intentionally
+ low to ensure a continuous flow of vaccinees at each
+ vaccination point during the campaigns. We ensured
+ the previous vaccination experience within each of the
+ two vaccinator groups was similar. Nonetheless, each
+ vaccinator’s inherent proficiency might have been differ­
+ ent. The immunogenicity assessment was undertaken in
+ those between 24 and 59 months of age who had almost 
+<section> universally received previous trivalent OPV but who provided the
+ had not received IPV. In cVDPV2 outbreak campaigns, provided the
+ 
+<section> intradermal fIPV will be used in conjunction with a type WHO and
+ 
+<section> OPV. Thus, although increasingly few children will have 
+<section> References
+ 
+<section> been primed with trivalent OPV, intradermal fIPV will Macklin of poliovirus
+ still generally be given after at least one dose of a type poliovirus
+ OPV. In addition, children born since approximately 2015 WHO.
+ 
+<section> might, based on WHO recom­ mendations, have been to http://polioeradication.org/wp-content/uploads/2020/04/Strategy- type
+ 
+<section> primed with IPV, which is likely to enhance the humoral for-the-response-to-type-2-circulating-Vaccine-Derived-
+ responses to the intradermal fIPV boost. Poliovirus-20200406.pdf
+ 
+<section> A novel, more genetically stable type 2 OPV has been WHO.
+ Oct 24,
+ granted interim WHO Emergency Use Listing, allowing detail/two-out-of-three-wild-poliovirus-strains-eradicated
+ limited use in 2021 and, subsequently, after WHO Feb 27,
+ 
+<section> prequalification, on a more widespread basis. 2,39 Reversion WHO. certification
+ to virulence with novel OPV2 is expected to be less bitstream/handle/10665/329948/WHO-Polio-19.04-eng.
+ frequent than with monovalent OPV type 2. However, pdf?sequence=1&isAllowed=y
+ 
+<section> given the ongoing circulation of cVDPV2, West Africa and Hird
+ induced
+ other parts of sub-Saharan Africa, the need to optimally shedding
+ deploy IPV to prevent avoidable paralytic disease remains 8: e1002599.
+ 
+<section> high. This need has only been increased by the SARS- Burns
+ polioviruses.
+ CoV-2 pandemic given that campaigns have been halted
+ 
+<section> Global
+ and surveillance compromised. 40 This trial provides strong of vaccine-derived
+ data to support the use of intradermal fIPV in campaigns polioeradication.org/wp-content/uploads/2016/09/Reporting-and-
+ 
+<section> in sub-Saharan Africa and other similar settings, and Classification-of-VDPVs_Aug2016_EN.pdf
+ John
+ should assuage any persistent concerns that might limit poliovirus
+ the future use of this crucial public health intervention. children
+ controlled
+ 
+<section> Contributors 
+<section> Jafari
+ EC, AOB, OM, HV, RWS, and DJ contributed to the trial design. AOB, EC, Efficacy
+ OM, NAS, and SF oversaw the trial planning and implementation. 345:
+ MBH, IA, AU, BD, FJK, and NJ contributed to and coordinated the trial 10 Gamage
+ planning and implementation. WCW and MSO oversaw the serological immunity
+ analysis. MW, DJ, and VJ analysed the data. EC, AOB, OM, HV, RWS, J Infect
+ MW, and DJ contributed to the data interpretation. All authors provided 11 Global
+ input into the manuscript and approved the final manuscript. The findings polioviruses.
+ and conclusions in this report are those of the authors and do not polio-now/this-week/circulating-vaccine-derived-poliovirus/
+ necessarily represent the official position of the Centers for Disease (accessed
+ Control and Prevention. The corresponding author had full access to all 12 Mosser
+ the data in the study and had final responsibility for the decision to submit pertussis-tetanus
+ 
+<section> the manuscript for publication. and temporal
+ 
+<section> 13 WHO.
+ 
+<section> Declaration of interests immunization,
+ We declare no competing interests. Wkly
+ 
+<section> Data sharing 
+<section> 14 WHO.
+ 
+<section> The individual participant data that underlie the results reported in this Wkly
+ Article, after de-identification (in the text, tables, figures, and 15 Anand
+ appendices), from the time will the be manuscript shared. Individual is published. participant Supporting data will clinical be available Immunogenicity fractional sparing
+ documents including the study protocol and the informed consent form 16 Resik
+ will be available. Researchers who provide a scientifically sound proposal doses
+ will be allowed access to the individual participant data. Proposals intradermal
+ should be directed to the corresponding author. These proposals will be Vaccine
+ reviewed and approved by a panel of senior scientific personnel from the 17 Parker
+ Medical Research Council Unit in The Gambia at London School of Impact
+ Hygiene & Tropical Medicine and by the Gambian Government and implications
+ Medical Research Council Joint Ethics Committee. To gain access, data 2015;
+ requesters will need to sign a data access agreement. 18 Jaiswal
+ 
+<section> Acknowledgments intradermal of inactivated
+ We thank the infants, children, and parents who took part in this trial and Cochrane
+ their considerable communities expertise for their of all ongoing the public support. health personnel We acknowledge of the the 19 Ford
+ Government of The Gambia who were involved in the design and 20 Bibby intradermal
+ implementation of the trial as well as all members of the field, laboratory, with
+ data management, and supporting teams at the Medical Research Council 65: 851–54.
+ Unit in The Gambia. We recognise the support of PharmaJet who
+ 
+<section> Articles
+ 
+<section> disposable syringe jet injector and Helm Biomedical who
+ intradermal adapter, both without obligation. We thank
+ the Medical Research Council for funding the study.
+ 
+<section> GR, O’Reilly KM, Grassly NC, et al. Evolving epidemiology
+ serotype 2 following withdrawal of the serotype 2 oral
+ vaccine. Science 2020; 368: 401–05.
+ 
+<section> Global polio eradication initiative: strategy for the response
+ 2 circulating vaccine-derived poliovirus 2020-2021.
+ 
+<section> (accessed Feb 27, 2021).
+ Two out of three wild poliovirus strains eradicated.
+ 2019. https://www.who.int/news-room/feature-stories/
+ 
+<section> (accessed
+ 2021).
+ 
+<section> Polio endgame strategy 2019–2023: eradication, integration,
+ and containment. 2019. https://apps.who.int/iris/
+ 
+<section> (accessed Feb 27, 2021).
+ TR, Grassly NC. Systematic review of mucosal immunity
+ by oral and inactivated poliovirus vaccines against virus
+ following oral poliovirus challenge. PLoS Pathog 2012;
+ 
+<section> CC, Diop OM, Sutter RW, Kew OM. Vaccine-derived
+ 
+<section> J Infect Dis 2014; 210 (suppl 1): S283–93.
+ Polio Eradication Initiative. Classification and reporting
+ polioviruses (VDPV). August, 2015. http://
+ 
+<section> (accessed Feb 27, 2021).
+ J, Giri S, Karthikeyan AS, et al. Effect of a single inactivated
+ vaccine dose on intestinal immunity against poliovirus in
+ previously given oral vaccine: an open-label, randomised
+ trial. Lancet 2014; 384: 1505–12.
+ H, Deshpande JM, Sutter RW, et al. Polio eradication.
+ of inactivated poliovirus vaccine in India. Science 2014;
+ 922–25.
+ D, Mach O, Palihawadana P, et al. Boosting of mucosal
+ after fractional-dose inactivated poliovirus vaccine.
+ 
+<section> Dis 2018; 218: 1876–82.
+ Polio Eradication Initiative. Circulating vaccine-derived
+ Nov 2, 2021. https://polioeradication.org/polio-today/
+ 
+<section> Feb 27, 2021).
+ JF, Gagne-Maynard W, Rao PC, et al. Mapping diphtheria-
+ vaccine coverage in Africa, 2000–2016: a spatial
+ modelling study. Lancet 2019; 393: 1843–55.
+ Meeting of the strategic advisory group of experts on
+ 
+<section> October 2019: conclusions and recommendations.
+ 
+<section> Epidemiol Rec 2019; 94: 541–60.
+ 
+<section> Polio vaccines: WHO position paper—March, 2016.
+ 
+<section> Epidemiol Rec 2016; 91: 145–68.
+ A, Molodecky NA, Pallansch MA, Sutter RW.
+ to poliovirus type 2 following two doses of
+ intradermal inactivated poliovirus vaccine: a novel dose
+ immunization schedule. Vaccine 2017; 35: 2993–98.
+ S, Tejeda A, Mach O, et al. Immune responses after fractional
+ of inactivated poliovirus vaccine using newly developed
+ jet injectors: a randomized controlled trial in Cuba.
+ 
+<section> 2015; 33: 307–13.
+ EP, Molodecky NA, Pons-Salort M, O’Reilly KM, Grassly NC.
+ of inactivated poliovirus vaccine on mucosal immunity:
+ for the polio eradication endgame. Expert Rev Vaccines
+ 
+<section> 14: 1113–23.
+ N, Singh S, Agarwal A, et al. Equivalent schedules of
+ fractional dose versus intramuscular full dose
+ polio vaccine for prevention of poliomyelitis.
+ 
+<section> Database Syst Rev 2019; 12: 1465–858.
+ I, Norrie J. Pragmatic trials. N Engl J Med 2016; 375: 454–63.
+ J, Saidu Y, Umesi A, et al. The immunogenicity of fractional
+ doses of the inactivated poliovirus vaccine is associated
+ the size of the intradermal fluid bleb. Clin Infect Dis 2017; 
+<section> Articles
+ 
+<section> Resik S, Tejeda A, Mach O, et al. Needle-free jet injector intradermal
+ delivery of fractional dose inactivated poliovirus vaccine: association
+ between injection quality and immunogenicity. Vaccine 2015;
+ 
+<section> 33: 5873–77.
+ Weldon WC, Oberste MS, Pallansch MA. Standardized methods for
+ detection of poliovirus antibodies. Methods Mol Biol 2016; 1387: 145–76.
+ Plotkin SA. Vaccines: correlates of vaccine-induced immunity.
+ 
+<section> Clin Infect Dis 2008; 47: 401–09.
+ Newcombe RG. Interval estimation for the difference between
+ independent proportions: comparison of eleven methods. Stat Med
+ 
+<section> 1998; 17: 873–90.
+ Yan X, Gang Su X. Stratified Wilson and Newcombe confidence
+ intervals for multiple binomial proportions. Stat Biopharm Res 2010;
+ 
+<section> 2: 329–35.
+ Campbell MJ, Gardner MJ. Calculating confidence intervals for some
+ non-parametric analyses. Br Med J (Clin Res Ed) 1988; 296: 1454–56.
+ Clarke E, Saidu Y, Adetifa JU, et al. Safety and immunogenicity of
+ inactivated poliovirus vaccine when given with measles-rubella
+ combined vaccine and yellow fever vaccine and when given via
+ different administration routes: a phase 4, randomised, non-inferiority
+ trial in The Gambia. Lancet Glob Health 2016; 4: e534–47.
+ Estívariz CF, Jafari H, Sutter RW, et al. Immunogenicity of
+ supplemental doses of poliovirus vaccine for children aged
+ 6–9 months in Moradabad, India: a community-based, randomised
+ controlled trial. Lancet Infect Dis 2012; 12: 128–35.
+ Resik S, Tejeda A, Sutter RW, et al. Priming after a fractional dose
+ of inactivated poliovirus vaccine. N Engl J Med 2013; 368: 416–24.
+ Mashunye TR, Ndwandwe DE, Dube KR, Shey M, Shelton M,
+ Wiysonge CS. Fractional dose compared with standard dose
+ inactivated poliovirus vaccine in children: a systematic review and
+ meta-analysis. Lancet Infect Dis 2021; 21: 1161–74.
+ Snider CJ, Zaman K, Estivariz CF, et al. Immunogenicity of full and
+ fractional dose of inactivated poliovirus vaccine for use in routine
+ immunisation and outbreak response: an open-label, randomised
+ controlled trial. Lancet 2019; 393: 2624–34.
+ 
+<section> Bahl S, Verma H, Bhatnagar P, et al. Fractional-dose inactivated
+ poliovirus vaccine immunization campaign Telangana State, India,
+ June 2016. MMWR Morb Mortal Wkly Rep 2016; 65: 859–63.
+ Pervaiz A, Mbaeyi C, Baig MA, et al. Fractional-dose inactivated
+ poliovirus vaccine campaign Sindh Province, Pakistan, 2016.
+ 
+<section> MMWR Morb Mortal Wkly Rep 2017; 66: 1295–99.
+ Daly C, Molodecky NA, Sreevatsava M, et al. Needle-free injectors
+ for mass administration of fractional dose inactivated poliovirus
+ vaccine in Karachi, Pakistan: a survey of caregiver and vaccinator
+ acceptability. Vaccine 2020; 38: 1893–98.
+ Malissen B, Tamoutounour S, Henri S. The origins and functions
+ of dendritic cells and macrophages in the skin. Nat Rev Immunol
+ 
+<section> 2014; 14: 417–28.
+ Soonawala D, Verdijk P, Wijmenga-Monsuur AJ, et al. Intradermal
+ fractional booster dose of inactivated poliomyelitis vaccine with a jet
+ injector in healthy adults. Vaccine 2013; 31: 3688–94.
+ Resik S, Mach O, Tejeda A, et al. Immunogenicity of intramuscular
+ fractional dose of inactivated poliovirus vaccine. J Infect Dis 2020;
+ 
+<section> 221: 895–901.
+ Okayasu H, Sein C, Chang Blanc D, et al. Intradermal
+ administration of fractional doses of inactivated poliovirus vaccine:
+ a dose-sparing option for polio immunization. J Infect Dis 2017;
+ 
+<section> 216 (suppl 1): S161–67.
+ Van Damme P, De Coster I, Bandyopadhyay AS, et al. The safety
+ and immunogenicity of two novel live attenuated monovalent
+ (serotype 2) oral poliovirus vaccines in healthy adults: a double-
+ blind, single-centre phase 1 study. Lancet 2019; 394: 148–58.
+ Global Polio Eradication Initiative. Polio eradication in the context
+ of the COVID-19 pandemic: updated urgent country and regional
+ recommendations. May 21, 2020. http://polioeradication.org/wp-
+ content/uploads/2020/03/updated-POB-country-and-regional-
+ recommendations-20200526.pdf (accessed Feb 27, 2021).

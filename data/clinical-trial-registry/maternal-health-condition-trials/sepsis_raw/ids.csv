@@ -1,0 +1,794 @@
+nct_id,id_source,id_value,id_type,id_type_description,id_link
+NCT01905462,org_study_id,114101,NA,NA,NA
+NCT01915251,org_study_id,130181,NA,NA,NA
+NCT01915251,secondary_id,13-I-0181,NA,NA,NA
+NCT04910802,org_study_id,Catch-up vaccination,NA,NA,NA
+NCT02971007,org_study_id,MB-70005,NA,NA,NA
+NCT05908682,org_study_id,SCY-078-401,NA,NA,NA
+NCT04578015,org_study_id,2020H0476,NA,NA,NA
+NCT06070454,org_study_id,HSR230407,NA,NA,NA
+NCT02840825,org_study_id,API/2015/63,NA,NA,NA
+NCT02705495,org_study_id,SARUTI V1.6,NA,NA,NA
+NCT03008421,org_study_id,1001-2017,NA,NA,NA
+NCT04792710,org_study_id,PPS trial 1,NA,NA,NA
+NCT01640379,org_study_id,NA_00068846,NA,NA,NA
+NCT01640379,secondary_id,1R01NR013507-01,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/1R01NR013507-01
+NCT00214045,org_study_id,H-2004-0254,NA,NA,NA
+NCT00214045,nct_alias,NCT00590733,NA,NA,NA
+NCT00603603,org_study_id,07-0598,NA,NA,NA
+NCT04679675,org_study_id,00002344,NA,NA,NA
+NCT04679675,secondary_id,R01CA240375,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/R01CA240375
+NCT06231056,org_study_id,LUMHS/iNatal/20.01.2024,NA,NA,NA
+NCT02755012,org_study_id,A04-B01-12A,NA,NA,NA
+NCT01966653,org_study_id,13-014,NA,NA,NA
+NCT04187144,org_study_id,212390,NA,NA,NA
+NCT04187144,secondary_id,2020-000553-27,EudraCT Number,NA,NA
+NCT00303823,org_study_id,NCI-2009-00893,NA,NA,NA
+NCT00303823,secondary_id,NCI-2009-00893,Registry Identifier,CTRP (Clinical Trial Reporting Program),NA
+NCT00303823,secondary_id,CDR0000458081,NA,NA,NA
+NCT00303823,secondary_id,HSC 05-40,NA,NA,NA
+NCT00303823,secondary_id,05-0144-01,Other Identifier,Arizona Cancer Center - Tucson,NA
+NCT00303823,secondary_id,UAZ03-1-02,Other Identifier,DCP,NA
+NCT00303823,secondary_id,P30CA023074,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/P30CA023074
+NCT00303823,secondary_id,N01CN35158,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/N01CN35158
+NCT03362697,org_study_id,CSUB 0139,NA,NA,NA
+NCT01792973,org_study_id,PapilloV,NA,NA,NA
+NCT00386477,org_study_id,0509-55 (Study #),NA,NA,NA
+NCT00386477,secondary_id,0509-55,Other Identifier,IUPUI-Clarian IRB number,NA
+NCT04024046,org_study_id,Pro00034128,NA,NA,NA
+NCT04580927,org_study_id,MP-37-2021-7201: she MATTERS,NA,NA,NA
+NCT00700219,org_study_id,PGX01-OBX0006,NA,NA,NA
+NCT05702762,org_study_id,22-010,NA,NA,NA
+NCT00642070,org_study_id,31467-D,NA,NA,NA
+NCT00642070,secondary_id,NIDDK 1 P50 AR049475-06;,NA,NA,NA
+NCT00642070,secondary_id,06-4836-D,Other Identifier,University of Washington Human Subjects Division,NA
+NCT01988168,org_study_id,H13-03009,NA,NA,NA
+NCT04763486,org_study_id,0189-19-MMC,NA,NA,NA
+NCT01958073,org_study_id,130403,NA,NA,NA
+NCT05970783,org_study_id,Z-JCP-T-Ⅲ-2021-BJKC-01,NA,NA,NA
+NCT04165252,org_study_id,119S463,NA,NA,NA
+NCT03568942,org_study_id,206899,NA,NA,NA
+NCT03961178,org_study_id,CONE,NA,NA,NA
+NCT04032574,org_study_id,97.019/91,NA,NA,NA
+NCT04287504,org_study_id,2115-2019,NA,NA,NA
+NCT02996981,org_study_id,16-087,NA,NA,NA
+NCT04189744,org_study_id,ITDCZO83,NA,NA,NA
+NCT04998318,org_study_id,Pro00106169,NA,NA,NA
+NCT05929963,org_study_id,DTXY28,NA,NA,NA
+NCT05655936,org_study_id,STUDY22060056,NA,NA,NA
+NCT05655936,secondary_id,1R01MD017083-01A1,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/1R01MD017083-01A1
+NCT06131749,org_study_id,SNSF197831,NA,NA,NA
+NCT04825093,org_study_id,SVD-COVID-2020,NA,NA,NA
+NCT06131684,org_study_id,STUDY00024844,NA,NA,NA
+NCT02016118,org_study_id,RAISC-RUTI,NA,NA,NA
+NCT04285320,org_study_id,1565199,NA,NA,NA
+NCT02882360,org_study_id,106708,NA,NA,NA
+NCT03839875,org_study_id,MON564.130.1,NA,NA,NA
+NCT05124327,org_study_id,STUDY00001570,NA,NA,NA
+NCT00669994,org_study_id,100546,NA,NA,NA
+NCT00678028,org_study_id,0080-07-EMC,NA,NA,NA
+NCT03143920,org_study_id,HBOTurology.2017,NA,NA,NA
+NCT03789513,org_study_id,ANRS12375 AIMA-CC,NA,NA,NA
+NCT02094703,org_study_id,URO-SOL-01-2012,NA,NA,NA
+NCT05520684,org_study_id,6111449,NA,NA,NA
+NCT00929526,org_study_id,112949,NA,NA,NA
+NCT03093194,org_study_id,RAMBAMMV,NA,NA,NA
+NCT03354598,org_study_id,IT001-301,NA,NA,NA
+NCT03032003,org_study_id,Cranberries1,NA,NA,NA
+NCT00701350,org_study_id,PGX03-OBX0009,NA,NA,NA
+NCT04831086,org_study_id,OPTIM-PTL,NA,NA,NA
+NCT00000808,org_study_id,ACTG 250,NA,NA,NA
+NCT00000808,secondary_id,11227,Registry Identifier,DAIDS ES Registry Number,NA
+NCT00000862,org_study_id,ACTG 324,NA,NA,NA
+NCT00000862,secondary_id,11298,Registry Identifier,DAIDS ES Registry Number,NA
+NCT00000862,secondary_id,PACTG 324,NA,NA,NA
+NCT02454309,org_study_id,H15-00892,NA,NA,NA
+NCT03239223,org_study_id,ABI-1968-102,NA,NA,NA
+NCT05022212,org_study_id,LV-007,NA,NA,NA
+NCT03562156,org_study_id,VMT-VT-1161-CL-011,NA,NA,NA
+NCT03828994,org_study_id,NA_00068846-2,NA,NA,NA
+NCT03828994,secondary_id,R01NR013507-03,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/R01NR013507-03
+NCT05477953,org_study_id,21944,NA,NA,NA
+NCT00000751,org_study_id,ACTG 185,NA,NA,NA
+NCT04307069,org_study_id,Rambam Health-Care Center,NA,NA,NA
+NCT04753502,org_study_id,P20-070,NA,NA,NA
+NCT02845284,org_study_id,IRB00061475,NA,NA,NA
+NCT03838965,org_study_id,0101-18-HYMC,NA,NA,NA
+NCT00000828,org_study_id,ACTG 255,NA,NA,NA
+NCT05995106,org_study_id,B-2308-844-302,NA,NA,NA
+NCT05613283,org_study_id,NH-3004,NA,NA,NA
+NCT00000888,org_study_id,ACTG 354,NA,NA,NA
+NCT00000888,secondary_id,10604,Registry Identifier,DAIDS ES,NA
+NCT00000888,secondary_id,PACTG 354,NA,NA,NA
+NCT03055130,org_study_id,HHBY-YJFA-20160813,NA,NA,NA
+NCT06352970,org_study_id,LundU-2024,NA,NA,NA
+NCT00001041,org_study_id,ACTG 235,NA,NA,NA
+NCT00001041,secondary_id,AVEG 104,NA,NA,NA
+NCT00001041,secondary_id,11212,Registry Identifier,DAIDS ES Registry Number,NA
+NCT01108757,org_study_id,10-125,NA,NA,NA
+NCT05140941,org_study_id,STUDY21080043,NA,NA,NA
+NCT02087735,org_study_id,PACS-2013-SD,NA,NA,NA
+NCT05895162,org_study_id,2023VVC,NA,NA,NA
+NCT00391651,org_study_id,20580-A,NA,NA,NA
+NCT00391651,secondary_id,01-1002-A 07,NA,NA,NA
+NCT03898310,org_study_id,9977,NA,NA,NA
+NCT00017719,org_study_id,P1022,NA,NA,NA
+NCT00017719,secondary_id,10192,Registry Identifier,DAIDS ES,NA
+NCT00017719,secondary_id,ACTG P1022,NA,NA,NA
+NCT00017719,secondary_id,PACTG P1022,NA,NA,NA
+NCT00017797,org_study_id,ACTG A5084,NA,NA,NA
+NCT00017797,secondary_id,AACTG A5084,NA,NA,NA
+NCT05309122,org_study_id,EVUCC,NA,NA,NA
+NCT03185169,org_study_id,GSM,NA,NA,NA
+NCT03005353,org_study_id,CSE,NA,NA,NA
+NCT03151603,org_study_id,01579,NA,NA,NA
+NCT04823234,org_study_id,CEUR-2021-223,NA,NA,NA
+NCT02637986,org_study_id,0173-13-EMC,NA,NA,NA
+NCT05723601,org_study_id,IRB00092892,NA,NA,NA
+NCT04444440,org_study_id,Pro00101838,NA,NA,NA
+NCT03570112,org_study_id,18-08,NA,NA,NA
+NCT03914144,org_study_id,18/105/GHT,NA,NA,NA
+NCT03638427,org_study_id,IRB-47250,NA,NA,NA
+NCT03638427,secondary_id,NCI-2020-04139,Registry Identifier,CTRP,NA
+NCT03638427,secondary_id,GYNCVX0005,Other Identifier,Stanford OnCore,NA
+NCT00114712,org_study_id,RPR-1,NA,NA,NA
+NCT00116974,org_study_id,801404,NA,NA,NA
+NCT03548129,org_study_id,phosphomycin,NA,NA,NA
+NCT03019874,org_study_id,Cranberry,NA,NA,NA
+NCT03019172,org_study_id,UTIReuteri2016,NA,NA,NA
+NCT04936815,org_study_id,IRC/2121/021,NA,NA,NA
+NCT03009968,org_study_id,16-2888,NA,NA,NA
+NCT01361048,org_study_id,TV-01,NA,NA,NA
+NCT00740584,org_study_id,SPL7013-003,NA,NA,NA
+NCT00740584,secondary_id,NIH contract HHSN266200500042C,NA,NA,NA
+NCT00740584,secondary_id,DAIDS ES number 10730,NA,NA,NA
+NCT02972151,org_study_id,42501190,NA,NA,NA
+NCT00000758,org_study_id,ACTG 200,NA,NA,NA
+NCT00000758,secondary_id,11176,Registry Identifier,DAIDS ES Registry Number,NA
+NCT03996057,org_study_id,201804086,NA,NA,NA
+NCT04140669,org_study_id,18-005189,NA,NA,NA
+NCT06192966,org_study_id,AB-CYSCARE,NA,NA,NA
+NCT00397735,org_study_id,0603001228,NA,NA,NA
+NCT03861260,org_study_id,2018-FAM-99,NA,NA,NA
+NCT03854396,org_study_id,19.0075,NA,NA,NA
+NCT01095198,org_study_id,RCTself,NA,NA,NA
+NCT05040334,org_study_id,Cairo University Obygyn,NA,NA,NA
+NCT05590195,org_study_id,BVPFB2021,NA,NA,NA
+NCT05472779,org_study_id,STUDY22010147,NA,NA,NA
+NCT02860845,org_study_id,DOBO-01-16,NA,NA,NA
+NCT01891331,org_study_id,VMT-VT-1161-CL-004,NA,NA,NA
+NCT01637870,org_study_id,201109727,NA,NA,NA
+NCT00067249,org_study_id,F31AT001401-01,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/F31AT001401-01
+NCT00676533,org_study_id,100544,NA,NA,NA
+NCT03366207,org_study_id,IT004-401,NA,NA,NA
+NCT03284866,org_study_id,AMC-099,NA,NA,NA
+NCT03284866,secondary_id,NCI-2016-00841,Registry Identifier,CTRP (Clinical Trial Reporting Program),NA
+NCT03284866,secondary_id,AMC-099,Other Identifier,AIDS Malignancy Consortium,NA
+NCT03284866,secondary_id,AMC-099,Other Identifier,CTEP,NA
+NCT03284866,secondary_id,UM1CA121947,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/UM1CA121947
+NCT00000777,org_study_id,ACTG 234,NA,NA,NA
+NCT00000777,secondary_id,VEU 102,NA,NA,NA
+NCT00000777,secondary_id,11211,Registry Identifier,DAIDS ES Registry Number,NA
+NCT05242172,org_study_id,14/12/2021-2021/10-19,NA,NA,NA
+NCT05796921,org_study_id,113/2022/PO,NA,NA,NA
+NCT02993185,org_study_id,TP2AH000027,NA,NA,NA
+NCT04244526,org_study_id,Urinary tract infection,NA,NA,NA
+NCT04704908,org_study_id,HPV-PRO-006-3,NA,NA,NA
+NCT05429346,org_study_id,1873689,NA,NA,NA
+NCT00041964,org_study_id,ACTG A5150,NA,NA,NA
+NCT00041964,secondary_id,ACTG A5153s,NA,NA,NA
+NCT00041964,secondary_id,AACTG A5150,NA,NA,NA
+NCT00041964,secondary_id,AACTG A5153s,NA,NA,NA
+NCT03975569,org_study_id,16/7/66,NA,NA,NA
+NCT03975569,secondary_id,B300201628296,Other Identifier,Belgian Registration,NA
+NCT02812914,org_study_id,15-17003,NA,NA,NA
+NCT01808755,org_study_id,DMannose UTIs,NA,NA,NA
+NCT00021671,org_study_id,HIVNET 024,NA,NA,NA
+NCT00021671,secondary_id,11622,Registry Identifier,DAIDS ES,NA
+NCT02543827,org_study_id,MV140-SLG-003,NA,NA,NA
+NCT02543827,secondary_id,2013-001838-17,EudraCT Number,NA,NA
+NCT00868621,org_study_id,IRB 8848,NA,NA,NA
+NCT02787486,org_study_id,PRO-102-ENIGMA,NA,NA,NA
+NCT03045809,org_study_id,UoL001208,NA,NA,NA
+NCT00028145,org_study_id,PACTG P1025,NA,NA,NA
+NCT00028145,secondary_id,U01AI068632,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/U01AI068632
+NCT03954990,org_study_id,18-0103,NA,NA,NA
+NCT03819712,org_study_id,18-PP-05,NA,NA,NA
+NCT00783419,org_study_id,07-042,NA,NA,NA
+NCT00070746,org_study_id,GN 09,NA,NA,NA
+NCT00070746,secondary_id,U01HD040607,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/U01HD040607
+NCT00376493,org_study_id,APA 05-452,NA,NA,NA
+NCT03834571,org_study_id,AMC-102,NA,NA,NA
+NCT03834571,secondary_id,NCI-2018-01903,Registry Identifier,CTRP (Clinical Trial Reporting Program),NA
+NCT03834571,secondary_id,AMC-102,Other Identifier,AIDS Malignancy Consortium,NA
+NCT03834571,secondary_id,AMC-102,Other Identifier,CTEP,NA
+NCT03834571,secondary_id,UM1CA121947,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/UM1CA121947
+NCT00213031,org_study_id,Population Council #271,NA,NA,NA
+NCT00213031,secondary_id,CDC & Prevention #2485,NA,NA,NA
+NCT00216853,org_study_id,R-03-202,NA,NA,NA
+NCT00216853,secondary_id,9875E,NA,NA,NA
+NCT04077580,org_study_id,Eudract 2018-002235-15,NA,NA,NA
+NCT03519373,org_study_id,Pertussis,NA,NA,NA
+NCT05089175,org_study_id,ChiCTR2100048266,NA,NA,NA
+NCT00937547,org_study_id,CERVICAL CANCER AND HPV,NA,NA,NA
+NCT00046436,org_study_id,PACTG P1031,NA,NA,NA
+NCT02742636,org_study_id,P15.382,NA,NA,NA
+NCT02189291,org_study_id,00010603,NA,NA,NA
+NCT05630833,org_study_id,214144,NA,NA,NA
+NCT00158509,org_study_id,ANRS 1285,NA,NA,NA
+NCT00054041,org_study_id,NCI-2012-02513,NA,NA,NA
+NCT00054041,secondary_id,GOG-0197,NA,NA,NA
+NCT00054041,secondary_id,U10CA027469,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/U10CA027469
+NCT00054041,secondary_id,CDR0000269709,Registry Identifier,PDQ (Physician Data Query),NA
+NCT05730998,org_study_id,2207/01072022,NA,NA,NA
+NCT04624568,org_study_id,CHRO-2020-13,NA,NA,NA
+NCT03633994,org_study_id,TCH #18-12,NA,NA,NA
+NCT02358993,org_study_id,820117,NA,NA,NA
+NCT00186082,org_study_id,95339,NA,NA,NA
+NCT02986802,org_study_id,CN-16-2669,NA,NA,NA
+NCT06069102,org_study_id,STUDY23060147,NA,NA,NA
+NCT00194155,org_study_id,R01 17625-03-13,NA,NA,NA
+NCT00194311,org_study_id,801452,NA,NA,NA
+NCT00194311,secondary_id,R01HD042100-15,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/R01HD042100-15
+NCT05383521,org_study_id,2020PUSZH001,NA,NA,NA
+NCT01347632,org_study_id,D11115,NA,NA,NA
+NCT00239161,org_study_id,CAPSS-353,NA,NA,NA
+NCT00239161,secondary_id,LOF-UTI-2,NA,NA,NA
+NCT00000944,org_study_id,ACTG 358,NA,NA,NA
+NCT00000944,secondary_id,PACTG 358,NA,NA,NA
+NCT00000944,secondary_id,10606,Registry Identifier,DAIDS ES Registry Number,NA
+NCT00001046,org_study_id,ACTG 233,NA,NA,NA
+NCT00001046,secondary_id,11210,Registry Identifier,DAIDS ES Registry Number,NA
+NCT04163679,org_study_id,RHC-A-19-033,NA,NA,NA
+NCT04278326,org_study_id,CHRO-2019-08,NA,NA,NA
+NCT00068120,org_study_id,ORWHSCOR-dk64540 (compltd),NA,NA,NA
+NCT04719754,org_study_id,VD-WHH,NA,NA,NA
+NCT02733068,org_study_id,311-HPV-1003,NA,NA,NA
+NCT02323087,org_study_id,UCCAREWP4FLEX,NA,NA,NA
+NCT02673216,org_study_id,1-10-72-116-14,NA,NA,NA
+NCT02536872,org_study_id,19/06/2015,NA,NA,NA
+NCT00620984,org_study_id,5395,NA,NA,NA
+NCT04807894,org_study_id,702576,NA,NA,NA
+NCT02639520,org_study_id,CanUTI-7,NA,NA,NA
+NCT01152528,org_study_id,F-7-27.3-1,NA,NA,NA
+NCT00683865,org_study_id,10995,NA,NA,NA
+NCT00305071,org_study_id,ICMJE IRB NO：950113-1,NA,NA,NA
+NCT00087828,org_study_id,F31 AT000623-1,NA,NA,NA
+NCT05059015,org_study_id,C19010300532,NA,NA,NA
+NCT00121797,org_study_id,26-5.9.03-HMO-CTIL,NA,NA,NA
+NCT00121797,secondary_id,Women's health grant 8060101,NA,NA,NA
+NCT06002126,org_study_id,23-02025683,NA,NA,NA
+NCT06002126,secondary_id,U54CA242639,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/U54CA242639
+NCT05999851,org_study_id,346/2023/Oss/AOUBo,NA,NA,NA
+NCT05160649,org_study_id,S 280,NA,NA,NA
+NCT00000839,org_study_id,ACTG 249,NA,NA,NA
+NCT00000839,secondary_id,11226,Registry Identifier,DAIDS ES Registry Number,NA
+NCT00000887,org_study_id,ACTG 353,NA,NA,NA
+NCT00000887,secondary_id,10603,Registry Identifier,DAIDS ES,NA
+NCT00000887,secondary_id,PACTG 353,NA,NA,NA
+NCT04171388,org_study_id,2018P002479,NA,NA,NA
+NCT03151967,org_study_id,STUDY00000160,NA,NA,NA
+NCT03151967,secondary_id,1R01DK088830-01A1,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/1R01DK088830-01A1
+NCT05573334,org_study_id,MUTI0822,NA,NA,NA
+NCT00670020,org_study_id,18821,NA,NA,NA
+NCT04031664,org_study_id,Qianjin Capsule,NA,NA,NA
+NCT06261736,org_study_id,2107044-1,NA,NA,NA
+NCT03898167,org_study_id,H-44944,NA,NA,NA
+NCT03898167,secondary_id,R01MD013715,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/R01MD013715
+NCT03813576,org_study_id,2018/00846,NA,NA,NA
+NCT00091130,org_study_id,NCI-2012-02623,NA,NA,NA
+NCT00091130,secondary_id,UCI#02-55,NA,NA,NA
+NCT00091130,secondary_id,N01CN25139,Other Grant/Funding Number,US NIH Grant/Contract Award Number,NA
+NCT00091130,secondary_id,CDR0000383786,Registry Identifier,PDQ (Physician Data Query),NA
+NCT00093938,org_study_id,DK068527-01 (completed),NA,NA,NA
+NCT01691430,org_study_id,1112009472,NA,NA,NA
+NCT01691430,secondary_id,2P30AG021342-11,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/2P30AG021342-11
+NCT01691430,secondary_id,1R01AG041153-01A1,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/1R01AG041153-01A1
+NCT01322971,org_study_id,SU-03212011-7604,NA,NA,NA
+NCT01322971,secondary_id,IRB Protocol Number 20103,Other Identifier,Stanford IRB,NA
+NCT00100061,org_study_id,R01AT002090-01,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/R01AT002090-01
+NCT01456962,org_study_id,11-1265,NA,NA,NA
+NCT01456962,secondary_id,39423,Other Grant/Funding Number,Merck,NA
+NCT01450800,org_study_id,Pro00025269,NA,NA,NA
+NCT01450800,secondary_id,3913577,Other Grant/Funding Number,Charles B Hammond Research Fund,NA
+NCT05460546,org_study_id,Z-JCP-T-II-2020-HMZC-01,NA,NA,NA
+NCT03987620,org_study_id,SCY-078-306,NA,NA,NA
+NCT01064024,org_study_id,AM-PHN-001,NA,NA,NA
+NCT00352300,org_study_id,GOG-9919,NA,NA,NA
+NCT00352300,secondary_id,NCI-2009-00622,Registry Identifier,CTRP (Clinical Trial Reporting Program),NA
+NCT00352300,secondary_id,CDR0000486412,NA,NA,NA
+NCT00352300,secondary_id,GOG-9919,NA,NA,NA
+NCT00352300,secondary_id,GOG-9919,Other Identifier,Gynecologic Oncology Group,NA
+NCT00352300,secondary_id,GOG-9919,Other Identifier,CTEP,NA
+NCT00352300,secondary_id,U10CA027469,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/U10CA027469
+NCT06124820,org_study_id,302037,NA,NA,NA
+NCT00353743,org_study_id,05-452,NA,NA,NA
+NCT00353743,secondary_id,GPPG 05-452,NA,NA,NA
+NCT03840616,org_study_id,VMT-VT-1161-CL-017,NA,NA,NA
+NCT03561701,org_study_id,VMT-VT-1161-CL-012,NA,NA,NA
+NCT00115388,org_study_id,COHSR4PG,NA,NA,NA
+NCT00871494,org_study_id,A0661192,NA,NA,NA
+NCT03425396,org_study_id,PTK0796-UUTI-17201,NA,NA,NA
+NCT02693483,org_study_id,povidone iodine,NA,NA,NA
+NCT03129295,org_study_id,MPC-SHRC-002,NA,NA,NA
+NCT03729336,org_study_id,018-702,NA,NA,NA
+NCT03672214,org_study_id,1-10-72-113-17_2,NA,NA,NA
+NCT01241110,org_study_id,ClinicalTrials.gov,NA,NA,NA
+NCT01241110,secondary_id,R01DA013131,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/R01DA013131
+NCT04133610,org_study_id,343,NA,NA,NA
+NCT02702297,org_study_id,MuMFI-PPROM,NA,NA,NA
+NCT05585970,org_study_id,Soh-Med-22-10-06,NA,NA,NA
+NCT00663806,org_study_id,100534,NA,NA,NA
+NCT00194532,org_study_id,27085-D,NA,NA,NA
+NCT04836910,org_study_id,8032-20-SMC,NA,NA,NA
+NCT04769167,org_study_id,202002043,NA,NA,NA
+NCT05408624,org_study_id,RC21_0011,NA,NA,NA
+NCT02567812,org_study_id,2015-04-009,NA,NA,NA
+NCT04152278,org_study_id,fayoumUH,NA,NA,NA
+NCT00136370,org_study_id,CDC-NCID-3842,NA,NA,NA
+NCT00136370,secondary_id,"#U50 CCU021960, 02075",NA,NA,NA
+NCT00136370,secondary_id,RFA CI05-059,NA,NA,NA
+NCT01663181,org_study_id,413/2009,NA,NA,NA
+NCT01132131,org_study_id,2010/486,NA,NA,NA
+NCT03929991,org_study_id,1902,NA,NA,NA
+NCT01231737,org_study_id,002,NA,NA,NA
+NCT03397615,org_study_id,16,NA,NA,NA
+NCT00453349,org_study_id,11981,NA,NA,NA
+NCT00453349,secondary_id,2006-000874-56,EudraCT Number,NA,NA
+NCT05397782,org_study_id,rUTI0522,NA,NA,NA
+NCT02562508,org_study_id,HPV-PRO-006,NA,NA,NA
+NCT03099863,org_study_id,IRB15-00769,NA,NA,NA
+NCT03386695,org_study_id,TMHPO 1686,NA,NA,NA
+NCT05726318,org_study_id,STUDY22060176,NA,NA,NA
+NCT05726318,secondary_id,DK131273,Other Identifier,NIDDK,NA
+NCT02631863,org_study_id,FDZJALA-201510,NA,NA,NA
+NCT04333212,org_study_id,MA1103L9,NA,NA,NA
+NCT04095572,org_study_id,2019-01377; me19Bausch,NA,NA,NA
+NCT02527941,org_study_id,UTorontoBV,NA,NA,NA
+NCT00714792,org_study_id,23123,NA,NA,NA
+NCT05340322,org_study_id,Pro00106490,NA,NA,NA
+NCT04022148,org_study_id,C2018001F,NA,NA,NA
+NCT06243666,org_study_id,HPV-PRO-006-4,NA,NA,NA
+NCT06145724,org_study_id,AAAU3697 - Aim 1,NA,NA,NA
+NCT06145724,secondary_id,1UG3HD111247,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/1UG3HD111247
+NCT01290393,org_study_id,114176,NA,NA,NA
+NCT05669911,org_study_id,TLH-ED-004,NA,NA,NA
+NCT03800667,org_study_id,OGY.TB.09,NA,NA,NA
+NCT04488991,org_study_id,2020-74,NA,NA,NA
+NCT03108079,org_study_id,03082017,NA,NA,NA
+NCT03366077,org_study_id,CSUB0144,NA,NA,NA
+NCT06019715,org_study_id,202302470,NA,NA,NA
+NCT02074852,org_study_id,urinary catheter following CS,NA,NA,NA
+NCT03681678,org_study_id,2018-142,NA,NA,NA
+NCT01867164,org_study_id,CR100569,NA,NA,NA
+NCT01867164,secondary_id,TEROV8BAC4001,NA,NA,NA
+NCT02585115,org_study_id,UCCAREWP4Samples,NA,NA,NA
+NCT03345875,org_study_id,IRB00007974,NA,NA,NA
+NCT03347513,org_study_id,A15112017,NA,NA,NA
+NCT06148532,org_study_id,AAAU3697 - Aim 2,NA,NA,NA
+NCT06148532,secondary_id,1UG3HD111247,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/1UG3HD111247
+NCT02509403,org_study_id,TAI-WA-0707,NA,NA,NA
+NCT02267382,org_study_id,VMT-VT-1161-CL-006,NA,NA,NA
+NCT04718220,org_study_id,202012075,NA,NA,NA
+NCT06067386,org_study_id,RC22_0003,NA,NA,NA
+NCT02946346,org_study_id,UF 9554,NA,NA,NA
+NCT02515656,org_study_id,PGX 401-11,NA,NA,NA
+NCT02515656,secondary_id,2014-001759-22,EudraCT Number,NA,NA
+NCT04079218,org_study_id,2019-10529,NA,NA,NA
+NCT04079218,secondary_id,1K23AG062400-01A1,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/1K23AG062400-01A1
+NCT03818321,org_study_id,18-115,NA,NA,NA
+NCT06049693,org_study_id,129/20,NA,NA,NA
+NCT02203942,org_study_id,PRO14010349,NA,NA,NA
+NCT00616330,org_study_id,CBC-302-602-622467,NA,NA,NA
+NCT05015400,org_study_id,STUDY00014289,NA,NA,NA
+NCT04519502,org_study_id,HD36801 - MFMU COVID-19,NA,NA,NA
+NCT04519502,secondary_id,U01HD036801,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/U01HD036801
+NCT04385238,org_study_id,0002,NA,NA,NA
+NCT03229603,org_study_id,TMHPO1763,NA,NA,NA
+NCT06093035,org_study_id,5931,NA,NA,NA
+NCT03728790,org_study_id,AAAS0065,NA,NA,NA
+NCT05138822,org_study_id,212943,NA,NA,NA
+NCT04987164,org_study_id,C1671,NA,NA,NA
+NCT03306719,org_study_id,1115/2017,NA,NA,NA
+NCT03299387,org_study_id,11-002887,NA,NA,NA
+NCT01207999,org_study_id,109117,NA,NA,NA
+NCT00128128,org_study_id,R01AT002105-01,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/R01AT002105-01
+NCT01213459,org_study_id,111336,NA,NA,NA
+NCT00801021,org_study_id,H-23281,NA,NA,NA
+NCT00801021,secondary_id,1R41DK082089-01,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/1R41DK082089-01
+NCT01123603,org_study_id,09-923,NA,NA,NA
+NCT00803127,org_study_id,F-7-25.2-1,NA,NA,NA
+NCT04831840,org_study_id,20201198,NA,NA,NA
+NCT00536848,org_study_id,MRRC HIV-Probiotics15,NA,NA,NA
+NCT05788991,org_study_id,MNFM380119,NA,NA,NA
+NCT05788991,secondary_id,2020-002489-15,EudraCT Number,NA,NA
+NCT03644966,org_study_id,2017564,NA,NA,NA
+NCT04880343,org_study_id,FJD-URO-19-001,NA,NA,NA
+NCT05545514,org_study_id,IHO-0000-REN-0220-S,NA,NA,NA
+NCT05372016,org_study_id,9-HPV-3002,NA,NA,NA
+NCT03042273,org_study_id,PAC-001,NA,NA,NA
+NCT03206255,org_study_id,HPV-PRO-006-2,NA,NA,NA
+NCT04463758,org_study_id,APHP200513,NA,NA,NA
+NCT03749746,org_study_id,18080007,NA,NA,NA
+NCT01693783,org_study_id,NCI-2012-02877,NA,NA,NA
+NCT01693783,secondary_id,NCI-2012-02877,Registry Identifier,CTRP (Clinical Trial Reporting Program),NA
+NCT01693783,secondary_id,PHL-085,NA,NA,NA
+NCT01693783,secondary_id,PHL-085,Other Identifier,University Health Network Princess Margaret Cancer Center P2C,NA
+NCT01693783,secondary_id,9209,Other Identifier,CTEP,NA
+NCT01693783,secondary_id,N01CM00032,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/N01CM00032
+NCT01693783,secondary_id,N01CM00038,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/N01CM00038
+NCT01693783,secondary_id,N01CM00071,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/N01CM00071
+NCT01693783,secondary_id,U10CA180821,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/U10CA180821
+NCT01693783,secondary_id,UM1CA186705,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/UM1CA186705
+NCT02444975,org_study_id,NU369,NA,NA,NA
+NCT00878098,org_study_id,999909115,NA,NA,NA
+NCT00878098,secondary_id,09-E-N115,NA,NA,NA
+NCT05584657,org_study_id,IT001-310,NA,NA,NA
+NCT05509413,org_study_id,HPV-VG1,NA,NA,NA
+NCT03190421,org_study_id,209545,NA,NA,NA
+NCT01039051,org_study_id,2008BA158B07,NA,NA,NA
+NCT03187457,org_study_id,NH-03708,NA,NA,NA
+NCT05044156,org_study_id,Usak State Hospital,NA,NA,NA
+NCT01281319,org_study_id,SOR510010CTIL,NA,NA,NA
+NCT03167957,org_study_id,MB-70008,NA,NA,NA
+NCT01406587,org_study_id,PP4001.301,NA,NA,NA
+NCT00194142,org_study_id,803583,NA,NA,NA
+NCT00194142,secondary_id,R01 17625-03-14,NA,NA,NA
+NCT05435430,org_study_id,AOOR VILLA SOFIA CERVELLO,NA,NA,NA
+NCT05108675,org_study_id,51950,NA,NA,NA
+NCT05670535,org_study_id,E1-20-1290,NA,NA,NA
+NCT02346227,org_study_id,UA-IHU- 2012-01,NA,NA,NA
+NCT00767988,org_study_id,H-23245,NA,NA,NA
+NCT01219595,org_study_id,H-2010-0107,NA,NA,NA
+NCT01299259,org_study_id,10-007744,NA,NA,NA
+NCT04680325,org_study_id,Ocean Spray,NA,NA,NA
+NCT05545137,org_study_id,CS1046,NA,NA,NA
+NCT05371353,org_study_id,4-HPV-3003,NA,NA,NA
+NCT05027776,org_study_id,4-HPV-3002,NA,NA,NA
+NCT04895020,org_study_id,9-HPV-3003,NA,NA,NA
+NCT01236131,org_study_id,PRO10080491,NA,NA,NA
+NCT01236131,secondary_id,1U19AI084024-01,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/1U19AI084024-01
+NCT03779347,org_study_id,FreebiLyGAB,NA,NA,NA
+NCT04629001,org_study_id,12789,NA,NA,NA
+NCT05362955,org_study_id,UNCPM22120,NA,NA,NA
+NCT01067131,org_study_id,PCAN001,NA,NA,NA
+NCT05275257,org_study_id,274847,NA,NA,NA
+NCT05210348,org_study_id,Urine-hrHPV 2021,NA,NA,NA
+NCT03297216,org_study_id,17-1173,NA,NA,NA
+NCT03297216,secondary_id,1R01HD087119,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/1R01HD087119
+NCT00789464,org_study_id,H-23187,NA,NA,NA
+NCT00213018,org_study_id,Population Council #210,NA,NA,NA
+NCT00213018,secondary_id,R01AI045468-02,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/R01AI045468-02
+NCT01588301,org_study_id,INCA08-KH / APACHE-2,NA,NA,NA
+NCT00543543,org_study_id,V503-001,NA,NA,NA
+NCT00543543,secondary_id,2007_538,NA,NA,NA
+NCT03122704,org_study_id,NCKH/CGRH_09_2015,NA,NA,NA
+NCT03305991,org_study_id,LundU-2015,NA,NA,NA
+NCT03158220,org_study_id,V503-004,NA,NA,NA
+NCT03930017,org_study_id,R01ES026973,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/R01ES026973
+NCT06120205,org_study_id,CLN-TP-020,NA,NA,NA
+NCT06035601,org_study_id,853917,NA,NA,NA
+NCT00873626,org_study_id,P071208,NA,NA,NA
+NCT05895578,org_study_id,UTI/23.01,NA,NA,NA
+NCT01488955,org_study_id,20110512-BG,NA,NA,NA
+NCT04072913,org_study_id,CHUBX 2007/08,NA,NA,NA
+NCT00716183,org_study_id,Promast08,NA,NA,NA
+NCT00722735,org_study_id,FINA-003,NA,NA,NA
+NCT02572895,org_study_id,PACCANN_2015,NA,NA,NA
+NCT00731315,org_study_id,H12132-32499-02,NA,NA,NA
+NCT01507974,org_study_id,0068-11-EMC,NA,NA,NA
+NCT06137950,org_study_id,MNUMS2021100701,NA,NA,NA
+NCT06136702,org_study_id,ONZ-2022-0326,NA,NA,NA
+NCT03395288,org_study_id,201711120,NA,NA,NA
+NCT05283239,org_study_id,HIHP2201,NA,NA,NA
+NCT01525498,org_study_id,Foley,NA,NA,NA
+NCT00931190,org_study_id,95-240,NA,NA,NA
+NCT01539668,org_study_id,careHPV_2012,NA,NA,NA
+NCT00197561,org_study_id,HD43555,NA,NA,NA
+NCT01550783,org_study_id,7489,NA,NA,NA
+NCT01550783,secondary_id,NCI-2013-00745,Registry Identifier,CTRP (Clinical Trial Reporting Program),NA
+NCT01550783,secondary_id,7489,Other Identifier,Fred Hutch/University of Washington Cancer Consortium,NA
+NCT01550783,secondary_id,R01CA157469,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/R01CA157469
+NCT03697226,org_study_id,ABI-1968-103,NA,NA,NA
+NCT05570331,org_study_id,TJ-IRB20220142,NA,NA,NA
+NCT06075264,org_study_id,ART-VIN IIB,NA,NA,NA
+NCT06075264,secondary_id,23-889,Other Identifier,Cleveland Clinic IRB,NA
+NCT03168178,org_study_id,91955,NA,NA,NA
+NCT06332781,org_study_id,2126175,NA,NA,NA
+NCT06304610,org_study_id,ONZ-2024-0044,NA,NA,NA
+NCT06177236,org_study_id,stanbulUC,NA,NA,NA
+NCT04098744,org_study_id,ART-CIN IIB,NA,NA,NA
+NCT04098744,secondary_id,2020 0237,Other Identifier,MD Anderson IRB,NA
+NCT04098744,secondary_id,20 1148,Other Identifier,CCF IRB,NA
+NCT04092257,org_study_id,LCCC 1905,NA,NA,NA
+NCT04092257,secondary_id,R21CA236770,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/R21CA236770
+NCT04092257,secondary_id,AID-OAA-A-11-00012,Other Grant/Funding Number,USAID/NAS,NA
+NCT04305808,org_study_id,0014-20-HMO,NA,NA,NA
+NCT04558996,org_study_id,55/20,NA,NA,NA
+NCT04558996,secondary_id,COV20/0021,Other Grant/Funding Number,CARLOS III INSTITUTE,NA
+NCT00978848,org_study_id,PRO8120077,NA,NA,NA
+NCT00678041,org_study_id,SutkinAppic,NA,NA,NA
+NCT04552210,org_study_id,Mannose,NA,NA,NA
+NCT01593124,org_study_id,D11-119,NA,NA,NA
+NCT00892866,org_study_id,GOG-0237,NA,NA,NA
+NCT00892866,secondary_id,NCI-2009-01103,Registry Identifier,CTRP (Clinical Trial Reporting Program),NA
+NCT00892866,secondary_id,CDR0000632236,NA,NA,NA
+NCT00892866,secondary_id,GOG-0237,Other Identifier,Gynecologic Oncology Group,NA
+NCT00892866,secondary_id,GOG-0237,Other Identifier,DCP,NA
+NCT00892866,secondary_id,GOG-0237,Other Identifier,CTEP,NA
+NCT00892866,secondary_id,N01CM62201,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/N01CM62201
+NCT00892866,secondary_id,U10CA101165,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/U10CA101165
+NCT00892866,secondary_id,UG1CA189867,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/UG1CA189867
+NCT01597804,org_study_id,I 189910,NA,NA,NA
+NCT01597804,secondary_id,NCI-2012-00273,Registry Identifier,CTRP (Clinical Trial Reporting Program),NA
+NCT01597804,secondary_id,I 189910,Other Identifier,Roswell Park Cancer Institute,NA
+NCT00781625,org_study_id,S-08458d (REK),NA,NA,NA
+NCT00781625,secondary_id,08/7922(Shdir),NA,NA,NA
+NCT05966649,org_study_id,Z-2022080,NA,NA,NA
+NCT05254808,org_study_id,NL75841.041.20,NA,NA,NA
+NCT00365716,org_study_id,V501-007,NA,NA,NA
+NCT00365716,secondary_id,2006_516,NA,NA,NA
+NCT02746588,org_study_id,H-15011157,NA,NA,NA
+NCT06317688,org_study_id,TWU IRB-FY2023-157,NA,NA,NA
+NCT03287089,org_study_id,Pro00022622,NA,NA,NA
+NCT05085353,org_study_id,076.TRA.2019.D,NA,NA,NA
+NCT05762016,org_study_id,CIRB Ref:2021/2634,NA,NA,NA
+NCT06296615,org_study_id,2020-022,NA,NA,NA
+NCT05837962,org_study_id,Acta No 234 CEI-FE,NA,NA,NA
+NCT05666778,org_study_id,22040505,NA,NA,NA
+NCT05666778,secondary_id,R01AI170564,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/R01AI170564
+NCT00976963,org_study_id,34776,NA,NA,NA
+NCT05551949,org_study_id,IRB00314740,NA,NA,NA
+NCT05551949,secondary_id,R01DK130856,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/R01DK130856
+NCT00261248,org_study_id,1996-295,NA,NA,NA
+NCT00261248,secondary_id,DK-30808,NA,NA,NA
+NCT01337791,org_study_id,H200804IRB,NA,NA,NA
+NCT03522961,org_study_id,2017P002904,NA,NA,NA
+NCT03522961,secondary_id,016086,Other Grant/Funding Number,Brigham and Women's Hospital OB/GYN Department,NA
+NCT05127252,org_study_id,Dnr 2021-03765,NA,NA,NA
+NCT04261036,org_study_id,OGY.TB.09/BIO-2017-0609,NA,NA,NA
+NCT03597152,org_study_id,AMARU 001,NA,NA,NA
+NCT00270530,org_study_id,S1954-21/22-2,NA,NA,NA
+NCT05426148,org_study_id,HPV-PRO-010,NA,NA,NA
+NCT00417365,org_study_id,ARG105B,NA,NA,NA
+NCT00417365,secondary_id,Pre-IDE I060071,NA,NA,NA
+NCT01357369,org_study_id,SU-02252011-7482,NA,NA,NA
+NCT01357369,secondary_id,IRB 20231,NA,NA,NA
+NCT06273553,org_study_id,RG002-A1201,NA,NA,NA
+NCT06050148,org_study_id,FMT-UTI,NA,NA,NA
+NCT05414305,org_study_id,WRNMMC-EDO-2021-0728,NA,NA,NA
+NCT05234112,org_study_id,202100943,NA,NA,NA
+NCT01735006,org_study_id,HPV-PRO-003,NA,NA,NA
+NCT04035785,org_study_id,Kangfu,NA,NA,NA
+NCT00900653,org_study_id,4-2009-0022,NA,NA,NA
+NCT03614286,org_study_id,T V Genotyping,NA,NA,NA
+NCT06314113,org_study_id,EGCG-HPV,NA,NA,NA
+NCT06310720,org_study_id,23-10026618,NA,NA,NA
+NCT02733432,org_study_id,CD101.TP.2.01,NA,NA,NA
+NCT03959410,org_study_id,N.594,NA,NA,NA
+NCT02740777,org_study_id,311-HPV-1004,NA,NA,NA
+NCT05413811,org_study_id,IGHID12046,NA,NA,NA
+NCT05413811,secondary_id,1R01CA250850-01,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/1R01CA250850-01
+NCT03101371,org_study_id,16-1096,NA,NA,NA
+NCT01776021,org_study_id,PRV-1201,NA,NA,NA
+NCT04959331,org_study_id,IJG-SCOUT-2021,NA,NA,NA
+NCT05159726,org_study_id,2000031817,NA,NA,NA
+NCT01779193,org_study_id,A-BR-101-065,NA,NA,NA
+NCT02653118,org_study_id,V503-021,NA,NA,NA
+NCT02653118,secondary_id,2013-003549-40,EudraCT Number,NA,NA
+NCT03142295,org_study_id,NL60330.058.16,NA,NA,NA
+NCT05341284,org_study_id,HPV-RWS,NA,NA,NA
+NCT01055106,org_study_id,GW05-0904,NA,NA,NA
+NCT00330278,org_study_id,HR # 11120,NA,NA,NA
+NCT03176563,org_study_id,01970,NA,NA,NA
+NCT04699578,org_study_id,8453,NA,NA,NA
+NCT01375439,org_study_id,ddt1333,NA,NA,NA
+NCT03091777,org_study_id,GDC-229-002,NA,NA,NA
+NCT00353561,org_study_id,RHN/Adhoc/23/2003-2004,NA,NA,NA
+NCT01653392,org_study_id,EBS.AVA.010 / NHRC.2012.0003,NA,NA,NA
+NCT05958953,org_study_id,2022-002480-30,NA,NA,NA
+NCT01039545,org_study_id,254/09,NA,NA,NA
+NCT04226313,org_study_id,5850,NA,NA,NA
+NCT06281665,org_study_id,STUDY23080099,NA,NA,NA
+NCT06281665,secondary_id,K23HL168356,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/K23HL168356
+NCT00958295,org_study_id,2008/119/HP,NA,NA,NA
+NCT03077711,org_study_id,EH16-216,NA,NA,NA
+NCT03248297,org_study_id,CHI UAB MISP # 54628,NA,NA,NA
+NCT01021904,org_study_id,37207,NA,NA,NA
+NCT00520598,org_study_id,V505-001,NA,NA,NA
+NCT00520598,secondary_id,2007_567,NA,NA,NA
+NCT04694495,org_study_id,CALM2004,NA,NA,NA
+NCT05318144,org_study_id,COVID-19 and pregnancy,NA,NA,NA
+NCT06091670,org_study_id,ECaliskan1,NA,NA,NA
+NCT05990270,org_study_id,KahramanmaraşSIUU,NA,NA,NA
+NCT05469984,org_study_id,0103-22-NHR,NA,NA,NA
+NCT05913180,org_study_id,62/137-H/77-2023-25-2295,NA,NA,NA
+NCT00551187,org_study_id,V504-001,NA,NA,NA
+NCT00551187,secondary_id,2007_566,NA,NA,NA
+NCT04000503,org_study_id,H17-03332,NA,NA,NA
+NCT01230814,org_study_id,09-0070,NA,NA,NA
+NCT01230814,secondary_id,DMID STI CTG 09-0070 PVI,NA,NA,NA
+NCT05783167,org_study_id,R351-A20092,NA,NA,NA
+NCT06360965,org_study_id,Shoufa2024-3-7045,NA,NA,NA
+NCT02246270,org_study_id,8481,NA,NA,NA
+NCT05453006,org_study_id,FMCH-2019-27849,NA,NA,NA
+NCT02905890,org_study_id,QA906,NA,NA,NA
+NCT02888197,org_study_id,CD101.TP.2.02,NA,NA,NA
+NCT00337818,org_study_id,107476 (M18),NA,NA,NA
+NCT00337818,nct_alias,NCT00337844,NA,NA,NA
+NCT00337818,nct_alias,NCT00337857,NA,NA,NA
+NCT00337818,nct_alias,NCT00338169,NA,NA,NA
+NCT00337818,secondary_id,107477,Other Identifier,GSK,NA
+NCT00337818,secondary_id,107479,Other Identifier,GSK,NA
+NCT00337818,secondary_id,107481,Other Identifier,GSK,NA
+NCT01650051,org_study_id,AM-PHN-004,NA,NA,NA
+NCT04020341,org_study_id,204989,NA,NA,NA
+NCT04020341,secondary_id,2018-001801-98,EudraCT Number,NA,NA
+NCT01800799,org_study_id,TCGHUROL007,NA,NA,NA
+NCT03981458,org_study_id,HATPIN,NA,NA,NA
+NCT03981458,secondary_id,8904,Other Identifier,R&D Number Newcastle Hospitals,NA
+NCT04992104,org_study_id,CTOREB3512,NA,NA,NA
+NCT04992104,secondary_id,MRT-168043,Other Grant/Funding Number,CIHR,NA
+NCT00316706,org_study_id,104896 (month 18 FU),NA,NA,NA
+NCT00316706,secondary_id,104902,Other Identifier,GSK,NA
+NCT00316706,secondary_id,104904,Other Identifier,GSK,NA
+NCT00316706,secondary_id,104918,Other Identifier,GSK,NA
+NCT04433364,org_study_id,2020-02848 0604,NA,NA,NA
+NCT00564135,org_study_id,96-0424C,NA,NA,NA
+NCT00560924,org_study_id,VAG-1458,NA,NA,NA
+NCT00128661,org_study_id,CDR0000441189,NA,NA,NA
+NCT00128661,nct_alias,NCT00344357,NA,NA,NA
+NCT00128661,secondary_id,NCI-04-C-N191,NA,NA,NA
+NCT00128661,secondary_id,NCI-590299/009,NA,NA,NA
+NCT00128661,secondary_id,GSK-590299/009,Other Identifier,GSK Bio,NA
+NCT03960970,org_study_id,Prophylaxis Trial,NA,NA,NA
+NCT02124252,org_study_id,Pro00077442,NA,NA,NA
+NCT00262106,org_study_id,MDP301,NA,NA,NA
+NCT00262106,secondary_id,ISRCTN64716212,NA,NA,NA
+NCT01812889,org_study_id,11-0077,NA,NA,NA
+NCT01812889,secondary_id,HHSN272200800024C,NA,NA,NA
+NCT01812889,secondary_id,TOL-463,NA,NA,NA
+NCT02216253,org_study_id,UTI 2014,NA,NA,NA
+NCT06344884,org_study_id,23-2619,NA,NA,NA
+NCT01818180,org_study_id,2009/19,NA,NA,NA
+NCT03064789,org_study_id,IP-01-2016,NA,NA,NA
+NCT01820793,org_study_id,P120202,NA,NA,NA
+NCT01820793,secondary_id,2012-002730-36,EudraCT Number,NA,NA
+NCT05227937,org_study_id,2021-07-07,NA,NA,NA
+NCT03994055,org_study_id,CEI/1247/17,NA,NA,NA
+NCT01142752,org_study_id,KEK091/10,NA,NA,NA
+NCT02289794,org_study_id,GVXN EC-4V,NA,NA,NA
+NCT02289794,secondary_id,2013DR1205,Other Identifier,swissmedic,NA
+NCT03050515,org_study_id,2017-3541,NA,NA,NA
+NCT04246996,org_study_id,GIVEIT,NA,NA,NA
+NCT04246996,secondary_id,12297,Other Identifier,Kaiser Permanente Southern California IRB,NA
+NCT04246996,secondary_id,191835,Other Identifier,UC San Diego Health IRB,NA
+NCT05557318,org_study_id,A202203003,NA,NA,NA
+NCT05206500,org_study_id,IRB00073565,NA,NA,NA
+NCT01346774,org_study_id,R21DK085290,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/R21DK085290
+NCT01346774,secondary_id,HUM00041108,Other Identifier,University of Michigan IRBMED,NA
+NCT01346774,secondary_id,R21DK085290,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/R21DK085290
+NCT04969445,org_study_id,HPV-PRO-003-3,NA,NA,NA
+NCT05730387,org_study_id,H21-03709,NA,NA,NA
+NCT06353269,org_study_id,4255,NA,NA,NA
+NCT00598403,org_study_id,TM-ME1207/311,NA,NA,NA
+NCT00598403,secondary_id,2007-001486-15,NA,NA,NA
+NCT06052033,org_study_id,KY2023-188,NA,NA,NA
+NCT05488340,org_study_id,LBx-2001,NA,NA,NA
+NCT04832581,org_study_id,ECaliskan,NA,NA,NA
+NCT02869165,org_study_id,16.0428,NA,NA,NA
+NCT05282095,org_study_id,HPVZHCIN22021,NA,NA,NA
+NCT02859493,org_study_id,15E2899,NA,NA,NA
+NCT02304770,org_study_id,FDZJALA-201409,NA,NA,NA
+NCT04048356,org_study_id,19-039,NA,NA,NA
+NCT06268509,org_study_id,MONAS,NA,NA,NA
+NCT06268483,org_study_id,JalUrol,NA,NA,NA
+NCT06268483,secondary_id,Policlinico,Other Identifier,IRCCS Fondazione Ca' Granda Ospedale Maggiore Policlinico,NA
+NCT05055388,org_study_id,LM2020443,NA,NA,NA
+NCT02402907,org_study_id,GCO 14-1410,NA,NA,NA
+NCT04306731,org_study_id,College of Medicine,NA,NA,NA
+NCT05023954,org_study_id,262062version2,NA,NA,NA
+NCT05554081,org_study_id,216104,NA,NA,NA
+NCT02830321,org_study_id,FDAAA,NA,NA,NA
+NCT01235546,org_study_id,F090323006,NA,NA,NA
+NCT01235546,secondary_id,NIH 1R01HD064729-01A1,Other Grant/Funding Number,NICHD,NA
+NCT02811367,org_study_id,2016-00030,NA,NA,NA
+NCT02795845,org_study_id,0079-15,NA,NA,NA
+NCT04472377,org_study_id,HT19-HPV-01,NA,NA,NA
+NCT01160640,org_study_id,PRO10010112,NA,NA,NA
+NCT01160640,secondary_id,1U19AI084024-01,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/1U19AI084024-01
+NCT02751073,org_study_id,15-006300,NA,NA,NA
+NCT05197621,org_study_id,IRB00246472,NA,NA,NA
+NCT04496726,org_study_id,Pro00043294,NA,NA,NA
+NCT06160349,org_study_id,AAAU3697 - Aim 3,NA,NA,NA
+NCT06160349,secondary_id,1UG3HD111247,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/1UG3HD111247
+NCT04057924,org_study_id,CHUBX 2019/03,NA,NA,NA
+NCT04045652,org_study_id,IUCRO-0492,NA,NA,NA
+NCT03826342,org_study_id,HUM00143896,NA,NA,NA
+NCT03826342,secondary_id,1R01HD093611-01A1,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/1R01HD093611-01A1
+NCT06015854,org_study_id,Vvax001-UMCG-02,NA,NA,NA
+NCT05045755,org_study_id,HPV-PRO-003-2,NA,NA,NA
+NCT04385680,org_study_id,chlorhex. post cs endometritis,NA,NA,NA
+NCT04778722,org_study_id,LP2021/INF1.1,NA,NA,NA
+NCT05244967,org_study_id,20-022,NA,NA,NA
+NCT01022346,org_study_id,NV25025,NA,NA,NA
+NCT01022346,secondary_id,2008-006946-24,EudraCT Number,NA,NA
+NCT03127280,org_study_id,14-38,NA,NA,NA
+NCT03413774,org_study_id,24,NA,NA,NA
+NCT05415865,org_study_id,BTXA2021,NA,NA,NA
+NCT05711901,org_study_id,efferon-lps-2022-01,NA,NA,NA
+NCT00093054,org_study_id,R01AT002086,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/R01AT002086
+NCT01359046,org_study_id,10-007421,NA,NA,NA
+NCT05553652,org_study_id,H-22014666,NA,NA,NA
+NCT05334706,org_study_id,RIFT-HPV,NA,NA,NA
+NCT05334706,secondary_id,2021-005229-26,EudraCT Number,NA,NA
+NCT02309346,org_study_id,14-0328,NA,NA,NA
+NCT03497598,org_study_id,PUTIM,NA,NA,NA
+NCT05510830,org_study_id,TJ-IRB20220769,NA,NA,NA
+NCT02186145,org_study_id,MJ 3002-13,NA,NA,NA
+NCT03771651,org_study_id,9955,NA,NA,NA
+NCT05813184,org_study_id,6530,NA,NA,NA
+NCT00305227,org_study_id,28552,NA,NA,NA
+NCT00305227,secondary_id,5P01DK053369,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/5P01DK053369
+NCT00305227,secondary_id,UW/LB-001,Other Identifier,University of Washington,NA
+NCT05648747,org_study_id,826/2022/Oss/AOUFe,NA,NA,NA
+NCT05652374,org_study_id,111802,NA,NA,NA
+NCT05652374,secondary_id,NL76892.091.21,Other Identifier,algemeen beoordelings- en registratie,NA
+NCT01478620,org_study_id,CanUTI2,NA,NA,NA
+NCT01478620,secondary_id,2011-000838-11,EudraCT Number,NA,NA
+NCT02439632,org_study_id,Prulifloxacin aulut ZK-004,NA,NA,NA
+NCT04416373,org_study_id,COVID&PREG,NA,NA,NA
+NCT01832480,org_study_id,4042013,NA,NA,NA
+NCT05587283,org_study_id,LT-001,NA,NA,NA
+NCT04587050,org_study_id,19SM5242,NA,NA,NA
+NCT06296901,org_study_id,202310353,NA,NA,NA
+NCT05667207,org_study_id,109/22-sc,NA,NA,NA
+NCT01842100,org_study_id,QMHRC99 - 15 RC/B/121,NA,NA,NA
+NCT04414527,org_study_id,BC-06756,NA,NA,NA
+NCT06056947,org_study_id,MON580.130.3,NA,NA,NA
+NCT01799356,org_study_id,Asicioglu03,NA,NA,NA
+NCT01799356,secondary_id,treatment,Other Identifier,treatment pelvic inflammatuary disease,NA
+NCT01799356,secondary_id,treatment uPID,Other Identifier,we aimed this study treatment uPID,NA
+NCT00734968,org_study_id,1108717,NA,NA,NA
+NCT03443154,org_study_id,OBX0039,NA,NA,NA
+NCT03442218,org_study_id,MHST2014-20,NA,NA,NA
+NCT04723069,org_study_id,CRO-007-TCM-FKQJ -2020,NA,NA,NA
+NCT03391440,org_study_id,HS-10090-401,NA,NA,NA
+NCT04155294,org_study_id,IRAS Reference 259611,NA,NA,NA
+NCT04515108,org_study_id,E1-20-672,NA,NA,NA
+NCT01687114,org_study_id,HNRC2785,NA,NA,NA
+NCT05826925,org_study_id,00151518,NA,NA,NA
+NCT05826925,secondary_id,K23HL159316,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/K23HL159316
+NCT03490045,org_study_id,2000023616,NA,NA,NA
+NCT05907187,org_study_id,20170445,NA,NA,NA
+NCT05907187,secondary_id,NCI-2023-00177,Registry Identifier,NCI Clinical Trials Reporting Program (NCI CTRP),NA
+NCT03251898,org_study_id,BayiChildrens-01,NA,NA,NA
+NCT05591742,org_study_id,N-20200092,NA,NA,NA
+NCT04709601,org_study_id,STU-2020-0725,NA,NA,NA
+NCT03178734,org_study_id,908398,NA,NA,NA
+NCT01590017,org_study_id,AMC-081,NA,NA,NA
+NCT01590017,secondary_id,CDR0000732629,Other Identifier,NCI,NA
+NCT01590017,secondary_id,UM1CA121947,U.S. NIH Grant/Contract,NA,https://reporter.nih.gov/quickSearch/UM1CA121947
+NCT02366676,org_study_id,2013-07-170,NA,NA,NA
+NCT00682851,org_study_id,PRO08020012,NA,NA,NA
+NCT05632705,org_study_id,PPS trial 2,NA,NA,NA
+NCT05603624,org_study_id,21-09-FB-0206,NA,NA,NA
+NCT04096820,org_study_id,6026618,NA,NA,NA
+NCT03581617,org_study_id,PRUAlGR-2013-00000084,NA,NA,NA
+NCT03837015,org_study_id,CTN308,NA,NA,NA
+NCT03080389,org_study_id,FLA 16-108,NA,NA,NA
+NCT05580341,org_study_id,312-HPV-2002,NA,NA,NA
+NCT03585023,org_study_id,PRUA1GR-2013-00000220,NA,NA,NA
+NCT04353141,org_study_id,COVID-19: ILUSA (S63988),NA,NA,NA
+NCT01843166,org_study_id,102186,NA,NA,NA
+NCT01843166,secondary_id,18798,Other Identifier,HSREB,NA
+NCT04955717,org_study_id,HS-21-00245,NA,NA,NA
+NCT05537519,org_study_id,Phage Therapy 001,NA,NA,NA
+NCT04301934,org_study_id,18-002297,NA,NA,NA
+NCT03719755,org_study_id,17-000176,NA,NA,NA
+NCT03871491,org_study_id,CP Azithromycin,NA,NA,NA
+NCT06253169,org_study_id,V01,NA,NA,NA
+NCT05793970,org_study_id,561/2021/OSS/AOUPR,NA,NA,NA
+NCT05793814,org_study_id,AFCRO-138,NA,NA,NA
+NCT01874158,org_study_id,8115,NA,NA,NA
+NCT01881165,org_study_id,H13-01491,NA,NA,NA

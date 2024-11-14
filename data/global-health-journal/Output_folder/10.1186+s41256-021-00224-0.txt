@@ -1,0 +1,969 @@
+
+<section> RESEARCH 
+<section> Open Access
+ 
+<section> Experiences with a violence and mental
+ health safety protocol for a randomized
+ controlled trial to support youth living with HIV
+ 
+<section> Katherine G. Merrill 
+<section> 1,5* Jonathan K. Mwansa Sam Miti Virginia M. Burke Elizabeth A. Abrams
+ Christiana Frimpong Michele R. Decker Jacquelyn C. Campbell 4 and Julie A. Denison
+ 
+<section> Abstract
+ 
+<section> Background: Safety protocols are an essential component of studies addressing violence and mental health but are
+ rarely described in the published literature from Sub-Saharan Africa. We designed and implemented a safety protocol
+ within Project YES! (Youth Engaging for Success), which enrolled 276 youth living with HIV (ages 15–24 years) in a
+ randomized controlled trial of a peer-mentoring intervention across four HIV clinics in Ndola, Zambia.
+ 
+<section> Methods: Youth who reported severe violence and/or suicidal thoughts on research surveys or during meetings
+ with youth peer mentors (YPM) were referred to designated healthcare providers (HCP). We explored experiences
+ with the safety protocol using: a) monitoring data of referrals, and b) in-depth interviews with youth (n = 82), HCP
+ (n = 10), YPM (n = 8), and staff (n = 6). Descriptive statistics were generated and thematic analysis of coded transcripts
+ and written memos performed.
+ 
+<section> Results: Nearly half of youth enrolled (48% of females, 41% of males) were referred to a HCP at least once. The first
+ referral was most often for sexual violence (35%) and/or suicidal ideation/depression (29%). All referred youth aged
+ 15–17 years and over 80% of referred youth aged 18 + agreed to see a HCP. HCP referred 15% for additional services
+ outside the clinic. Twenty-nine youth, all HCP, all YPM, and all staff interviewed discussed the safety protocol. Most
+ youth felt “encouraged,” “helped,” “unburdened,” and “relieved” by their meetings with HCP; some expressed concerns
+ about meeting with HCP. The safety protocol helped HCP recognize the need to integrate care for violence and men-
+ tal health with medication adherence support. HCP, YPM, and study staff raised implementation challenges, including
+ youth choosing not to open up to HCP, time and resource constraints, deficiencies in HCP training, and stigma and
+ cultural norms inhibiting referrals outside the clinic for emotional trauma and mental health.
+ 
+<section> Conclusions: Implementing a safety protocol within an HIV clinic-based research study is possible and beneficial for
+ youth and HCP alike. Implementation challenges underscore that HCP in Zambia work in over-stretched healthcare
+ systems. Innovative strategies must address deficiencies in training and resources within HIV clinics and gaps in coor-
+ dination across services to meet the overwhelming need for violence and mental health services among youth living
+ with HIV.
+ 
+<section> Keywords: Safety protocol, Referral, Violence, Mental health, HIV, Youth, Zambia
+ 
+<section> Introduction
+ 
+<section> Adolescents and young adults face high levels of vio-
+ 
+<section> *Correspondence: kgm@uic.edu
+ Department of International Health, Johns Hopkins Bloomberg School lence victimization in Sub-Saharan Africa (SSA), with
+ of Public Health, 615 N. Wolfe Street, Baltimore, MD 21205, USA the prevalence of physical, emotional, or sexual violence
+ 
+<section> Full list of author information is available at the end of the article
+ 
+<section> © The Author(s) 2021. 
+<section> Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which
+ permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the
+ original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or
+ other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line
+ to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory
+ regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this
+ licence, visit http://​creat​iveco​mmons.​org/​licen​ses/​by/4.​0/. 
+<section> ranging from about 30 to 50 percent in some African set-
+ tings [1, 2]. The prevalence of mental health problems in
+ this population is also high. Roughly 20 to 30 percent of
+ adolescents in SSA experience suicidal ideation, depres-
+ sion, and anxiety [3]. Violence victimization and mental
+ health problems are related with each other and inter-
+ sect with other developmental and health risks among
+ youth, including increased substance use, lower educa-
+ tional achievement, and poorer sexual and reproductive
+ health [4–6]. Among youth living with HIV, experiences
+ of violence and mental health problems have been associ-
+ ated with negative HIV outcomes, including incomplete
+ antiretroviral therapy (ART) adherence and virologic fail-
+ ure [7–10].
+ With the expansion of violence and mental health
+ research has come a growing body of evidence on ethi-
+ cal and methodological considerations. Adhering to the
+ fundamental ethical principles of respect for persons,
+ beneficence, and justice is critical to protecting the safety
+ of study participants and facilitating quality data [11].
+ Guidelines have been developed to promote safety, con-
+ fidentiality, training, and informed consent in studies of
+ violence [11, 12]. Recommendations target specific study
+ populations, including children [13, 14], adolescents [15],
+ trafficked women [16], women in conflict settings [17],
+ and women with disabilities [18]. However, we identi-
+ fied few studies describing safety protocol implementa-
+ tion experiences in SSA for violence [19] or mental health
+ [20], which is critical for building consensus around best
+ practices for safety planning in these research areas [21].
+ Moreover, we found no guidance on researching vio-
+ lence and mental health among youth living with HIV in
+ the region. In addition to the violence and mental health
+ symptoms they commonly experience [7–9, 22], these
+ youth are vulnerable due to the high levels of stigma and
+ discrimination associated with HIV infection [23–25]
+ and their developmental stage, which can make them
+ prone to impulsivity and risky behavior [26].
+ We designed and implemented a safety protocol within
+ the Project YES! (Youth Engaging for Success) rand-
+ omized controlled trial (RCT) [27, 28]. The RCT assessed
+ the impact of a peer mentoring intervention on viral sup-
+ pression, ART adherence, and self-stigma among youth
+ living with HIV. Youth were consecutively recruited and
+ enrolled from four HIV clinics (a children’s hospital,
+ an adult hospital, and two primary health facilities) in
+ Ndola, Zambia [27]. The intervention consisted of indi-
+ vidual and group meetings over six months with a youth
+ peer mentor (YPM) who had successfully transitioned
+ to HIV self-management. Youth who reporte d experi-
+ ences of severe violence and/or suicidal thoughts dur-
+ ing the research surveys (at baseline, 6 months post, and
+ 12 months post), in their YPM meetings, or at another
+ time during the study, were referred to designated health-
+ care providers (HCP) at the HIV clinics. In this analysis,
+ we examine experiences with the safety protocol using
+ quantitative descriptive statistics and qualitative in-depth
+ interviews (IDI) with youth participants, HCP, YPM, and
+ study staff. We aim to: (a) characterize youth’s first refer-
+ rals, and (b) explore successes and challenges with the
+ protocol’s implementation.
+ 
+<section> Methods
+ 
+<section> Study design
+ We employed a convergent, parallel mixed-methods
+ design [29], with quantitative and qualitative data col-
+ lected concurrently, analyzed independently, and inter-
+ preted jointly. Quantitative process data were meant
+ to generate summary information on the numbers and
+ types of referrals made. Qualitative IDI data were meant
+ to facilitate a multidimensional view of the protocol’s
+ implementation by capturing experiences, opinions,
+ and perspectives from the youth themselves and those
+ administering the safety protocol (i.e., HCP, YPM, and
+ study staff ). Data from each method was equally consid-
+ ered when triangulating the study findings.
+ 
+<section> Safety protocol development
+ To create a safety protocol, we consulted recommenda-
+ tions from the World Health Organization [12] and safety
+ protocol experiences from other settings [19, 20, 30].
+ We also sought and incorporated feedback from HCP
+ at each participating clinic. The protocol provided step-
+ by-step guidance for addressing reports of violence and/
+ or suicidal ideation (Fig. 1 and Additional File 1). When
+ an issue was identified, YPM or study staff completed a
+ form documenting the participant’s connection with the
+ designated HCP (i.e., a “referral”). HCP handled cases
+ according to clinical practice, local policy, and Zambian
+ law. Where appropriate, HCP referred participants for
+ services outside of the clinic (i.e., an “external referral”).
+ We provided initial and ongoing safety protocol training
+ for HCP, YPM, and study staff, in line with ethical guide-
+ lines [11].
+ Several adjustments were made throughout implemen-
+ tation to maintain our ethical obligations beyond the
+ most basic “duty of care” [21]. At the request of HCP, Pro-
+ ject YES! developed “community maps,” with resources
+ on where youth could be referred outside of the clinic.
+ To help facilitate external referrals, Project YES! provided
+ transport and YPM accompanied youth who wanted it.
+ Three months into the project, it became clear that youth
+ often did not wish to discuss issues with the HCP at their
+ clinic. In response, Project YES! hired and trained a men-
+ tal health nurse on study procedures to be based at the 
+<insert> Fig. 1 Summary of referral procedures for staff and youth peer mentors 
+<iend>
+
+ children’s hospital but remain independent from the four
+ participating HIV clinics.
+ 
+<section> Data collection procedures
+ Referral forms tracked key information about the referral
+ (e.g. date, role of person referring, etc.). HCP recorded
+ notes about the meetings held and external referrals
+ made in notebooks. Referral forms and HCP notebooks
+ were stored under lock and key at each clinic. Informa-
+ tion was regularly input into a secure, customized Excel
+ database.
+ Questions about experiences with the safety protocol
+ were integrated into semi-structured IDI with 82 youth
+ participants, 10 HCP, and 8 YPM. Two groups of youth
+ participants were sampled. Forty-one youth (22 female,
+ 19 male) were interviewed about their experiences with
+ Project YES!. These youth were purposively sampled
+ from the intervention arm to achieve diversity in sex, age,
+ change in virologic results between baseline and 6-month
+ follow-up, and clinic. An additional 41 youth (24 female,
+ 17 male) were interviewed about their experiences with
+ violence victimization and HIV self-management. These
+ youth were purposively sampled from both study arms
+ to achieve maximum variation in their experiences of
+ violence (moderate or severe), virologic results (failure
+ or not), sex (male or female), and age group (15–19 or
+ 20–24 years), using baseline survey data [31]. Youth were
+ asked to describe what happened when they were asked
+ to see a HCP and how they felt about the steps taken.
+ These IDI were conducted by three Zambian interview-
+ ers who were not involved in the Project YES! interven-
+ tion and had previous research experience with youth
+ living with HIV. Prior to the project, they completed nine
+ days of training, which included content on the study’s
+ safety protocol. Interviewers and youth were matched by
+ sex, and IDI were conducted in participants’ preferred
+ language (English or Bemba).
+ All HCP (7 female, 3 male) and YPM (4 female, 4 male)
+ were invited and agreed to participate in IDI (see further
+ details elsewhere [32, 33]). Additionally, 6 IDI were held
+ with consenting study staff involved in implementing
+ the safety protocol (2 female, 4 male), including 3 sur-
+ vey administrators, the project coordinator, and 2 study
+ investigators. HCP, YPM, and study staff were asked
+ a series of open-ended questions to learn about their
+ experiences with the referral procedures, including any
+ successful and challenging cases, and what (if anything)
+ they would change about the safety protocol. These IDI
+ were conducted in English by study team members with 
+<section> extensive training in qualitative methods and a compre-
+ hensive understanding of the project (KM, VB, and EA).
+ IDI were held in a private location in or near one of
+ the clinics between January and April, 2019. IDI were
+ audio-recorded, transcribed verbatim, and translated
+ into English where needed. Interviewers wrote memos to
+ self-reflect on and document their roles in the research
+ process through reflexivity [34, 35] and to record their
+ reflections on the interview guide, any methodologi-
+ cal issues arising, and preliminary findings [35]. Memos
+ were also used to document the research process, gener-
+ ating an “audit trail” to strengthen the dependability of
+ findings [35].
+ 
+<section> Analyses
+ 
+<section> Referral data were merged with baseline survey data to
+ obtain the age and sex of those referred. Descriptive sta-
+ tistics were generated using counts and percentages. Dif-
+ ferences in referral characteristics by youths’ sex were
+ assessed using chi-square tests or Fisher’s exact tests for
+ variables with small frequencies, and p values less than
+ or equal to 0.05 were considered statistically significant.
+ Thematic analysis was performed of coded transcripts
+ in conjunction with written memos. The study team
+ first developed a set of deductive codes based on the
+ interview guides. One team member (KM) coded the
+ transcripts, adding inductive codes iteratively based on
+ emerging themes [36]. Coding was conducted with the
+ support of NVivo 12. The study team jointly interpreted
+ the quantitative and qualitative data, discussing findings
+ extensively to refine interpretations. This involved con-
+ sideration of points of convergence, divergence, contra-
+ dictions, and relationships both within and between the
+ methods [29]. Analyses were carried out in consultation
+ with the Zambian research team members to support
+ contextually-appropriate interpretation and enhance the
+ credibility and confirmability of findings [35]. The goal
+ was for “completeness,” [35] whereby the possibility of
+ multiple realities would be recognized in an effort to gen-
+ erate a more nuanced understanding of the safety proto-
+ col’s implementation.
+ 
+<section> Informed consent and ethics
+ Prior to enrollment in the RCT, study staff obtained
+ informed consent, including consent to participate in
+ qualitative IDI. In line with Zambian law, written paren-
+ tal/caregiver permission and youth assent was required
+ for 15–17-year-olds [37]. The consent process for car-
+ egivers described the research in broad terms (e.g. health,
+ safety) to protect minors who might be experiencing
+ violence from the caregiver, while minors were provided
+ greater detail, including that if they disclosed certain
+ experiences (e.g., severe violence, suicidal ideation) they
+ would be required to see a HCP. Youth aged 18–24, as
+ legal adults, had the option of declining a HCP visit. Con-
+ sent forms explained that YPM would be informed of
+ any referrals made to a HCP (though not of the details)
+ so that YPM could provide follow-up support. Informed
+ consent for participating in an IDI was also obtained
+ from HCP, YPM, and study staff.
+ Zambia’s Anti-Gender Based Violence (GBV) Act of
+ 2011 requires medical practitioners to r eport situations
+ of GBV [38]. This study did not trigger any mandatory
+ reports. This research was reviewed and approved by the
+ Zambia Ministry of Health through the National Health
+ Research Authority, and the Johns Hopkins Bloomberg
+ School of Public Health and Zambian ERES Converge
+ 
+<section> ethical review boards
+ 
+<section> Results
+ 
+<section> Descriptive statistics
+ Almost half of youth enrolled in the RCT (45%,
+ n = 124/276) were referred to a HCP at least once,
+ including 41% (n = 46/111) of male and 48% (n = 78/165)
+ of female youth; of these, 27 (22%) were referred on two
+ separate occasions and 4 (n = 3%) on three separate
+ occasions. Of the youth referred, about two-thirds were
+ female and over a quarter were minors (ages 15–17 years)
+ (Table 1). There were no statistically significant differ-
+ ences in characteristics of first referrals based on the
+ youth’s sex. Three-quarters of referrals were made by sur-
+ vey interviewers and about 17% by YPM. The reason for
+ the referral to a HCP was most often for sexual violence
+ (35%), suicidal ideation/depression (29%), and physical
+ violence (17%). Of those aged 18 and over, three quarters
+ agreed to see a HCP, 7% declined to see a HCP but agreed
+ to see the mental health nurse brought on by Project
+ YES!, and 18% declined any referral. HCP referred 15% of
+ youth participants externally for additional services.
+ 
+<section> Qualitative findings
+ All 10 HCP, 8 YPM, 6 staff, and 29 out of 82 youth par-
+ ticipants interviewed (20 female, 9 male) described their
+ experiences with the safety protocol. Four key themes
+ came out of the IDI.
+ 
+<section> Theme 1: Youths’ appreciation for their meetings with HCP
+ As the most salient theme from the youth IDI, youth
+ welcomed the opportunity to meet with HCP through
+ the safety protocol. Both male and female youth partici-
+ pants highlighted the benefits of speaking openly with a
+ trained professional about the issues they were facing,
+ which made them feel “unburdened” and “relieved.” For
+ 
+<section> example: 
+<insert> Table 1 Characteristics of first referrals to a healthcare provider (n = 124 youth)
+ Total Male (n = 46) Female (n = 78) p value
+ 0.15
+ Age
+ 15–17 years 35 (28.2%) 17 (37.0%) 18 (23.1%)
+ 18–19 years 45 (36.3%) 17 (37.0%) 28 (35.9%)
+ 20–24 years 44 (35.5%) 12 (26.1%) 32 (41.0%)
+ Role of person making referral
+ Survey interviewer 93 (75.0%) 34 (73.9%) 59 (75.6%)
+ Youth peer mentor 21 (16.9%) 8 (17.4%) 13 (16.7%)
+ Other study staff 10 (8.1%) 4 (8.7%) 6 (7.7%)
+ 1.00*
+ Reason(s) for referral to provider**
+ Physical violence 26 (16.9%) 9 (15.8%) 17 (17.5%)
+ Sexual violence 54 (35.1%) 22 (38.6%) 32 (33.0%)
+ Emotional violence 10 (6.5%) 3 (5.3%) 7 (7.2%)
+ Suicidal ideation/depression 44 (28.6%) 16 (28.1%) 28 (28.9%)
+ Clinical/health issue 11 (7.1%) 2 (3.5%) 9 (9.3%)
+ Food insecurity/hunger 1 (1.0%) 0 (0.0%) 1 (1.0%)
+ Educational support 8 (5.2%) 5 (8.8%) 3 (3.1%)
+ 0.57*
+ Referral to provider at clinic^
+ Youth accepted referral 67 (75.3%) 21 (72.4%) 46 (76.7%)
+ Youth declined referral but agreed to see the mental health nurse 6 (6.7%) 2 (6.9%) 4 (6.7%)
+ Youth declined referral and declined to see the mental health nurse 16 (18.0%) 6 (20.7%) 10 (16.7%)
+ 0.92*
+ Provider referred youth elsewhere^^
+ No 92 (85.2%) 32 (80.0%) 60 (88.2%)
+ Yes 16 (14.8%) 8 (20.0%) 8 (11.8%)
+ 0.25
+ External referral location^*
+ Children’s hospital 6 (37.5%) 2 (25.0%) 4 (50.0%)
+ Hospital psychosocial counseling center 3 (18.9%) 2 (25.0%) 1 (12.5%)
+ Social welfare services 3 (18.9%) 2 (25.0%) 1 (12.5%)
+ NGO for education 1 (6.3%) 1 (12.5%) 0 (0%)
+ NGO for orphans and vulnerable children 1 (6.3%) 0 (0%) 1 (12.5%)
+ Primary school 1 (6.3%) 1 (12.5%) 0 (0%)
+ Gender-based violence one-stop center 1 (6.3%) 0 (0%) 1 (12.5%)
+ 0.75*
+ *Denotes Fisher’s exact test. All other p values are from chi square tests
+ **Denominator is 154 reasons, since youth could be connected to a provider for multiple reasons at once
+ ^Among those ages 18–24 (n = 89); youth ages 15–17 were minors and were required to see a provider
+ ^^Among those who met with a provider (of any age group) (n = 108)
+ ^*Among those referred elsewhere by a provider (n = 16)
+ NGO = non-governmental organization 
+<iend>
+
+ The counselor asked me to be free and I told her
+ everything and she advised me on the way forward.
+ Thereafter, I felt OK…I could handle what was hap-
+ pening…I talked to the counselor for an hour plus.
+ She asked me some questions which I answered and
+ some questions I did not answer, and she under-
+ stood…She gave me advice…I was open. I was free
+ with her. (Male participant, aged 18 years)
+ 
+<section> I had the feeling that now I have someone to share
+ my problems with. (Female participant, aged
+ years)
+ 
+<section> Some youth also described feeling “encouraged” by
+ their meetings, which helped them gain clarity on the
+ way forward. As one youth explained:
+ 
+<section> I was grateful because what [the healthcare pro-
+ vider] explained to me gave me a lot of knowl-
+ edge….She even told me, ‘You have a long way to
+ go…More opportunities are coming your way, so
+ don’t think negatively’…I felt it helped. She told
+ me, ‘If you have any problem, you should be com-
+ ing to see me.’ (Female participant, aged 18 years) 
+<section> Several said they planned to see a HCP again if
+ another issue were to arise in the future.
+ 
+<section> Theme 2: Youths’ concerns about HCP referrals
+ Some youth expressed discomfort with being referred to
+ a HCP, which was a less prominent but important theme
+ in the youth IDI. Of the few participants who explained
+ their reasons for declining the initial HCP referral, most
+ were afraid that their situation would be shared with oth-
+ ers at the clinic without their consent. For instance:
+ 
+<section> I never went to see the healthcare provider…
+ because…maybe the nurse would tell other peo-
+ ple, like the other nurses…[I have] a friend. She is a
+ nurse, and she kind of tells us stories. (Female par-
+ 
+<section> ticipant, aged 24 years)
+ 
+<section> One participant was “not comfortable” meeting with a
+ HCP given her previous experience with a HCP sharing
+ her HIV status with others at the clinic. A few partici-
+ pants described initially being hesitant but recognizing
+ the benefits after seeing the HCP. A young man explained
+ his transition in viewpoint as follows:
+ 
+<section> My reaction to the appointment I was given [is that]
+ I was just going to get shouted at. I thought they
+ would say bad things on me, but I realized they just
+ wanted to advise and also encourage me. (Male par-
+ 
+<section> ticipant, aged 22 years)
+ 
+<section> Theme 3: Referrals as a tool for strengthening HCP support
+ 
+<section> for youth
+ 
+<section> As in the youth participant IDI, the most prominent
+ theme in HCP, YPM, and study staff IDI concerned the
+ benefits of carving out protected time for youth to meet
+ with HCP about their problems. In IDI with HCP, the
+ predominant viewpoint was that the safety protocol had
+ helped HCP to better understand their youth clients’
+ situations. They came to recognize the many challenges
+ facing youth living with HIV, their unique needs, and the
+ importance of probing—or as one HCP explained, asking
+ “a lot of questions so that you get to understand where
+ they are, how they’re feeling, what problems they’re going
+ through.” In turn, HCP were able to integrate support for
+ ART adherence with interrelated issues, such as violence
+ and suicidal thoughts. A HCP summarized her change in
+ perspective as: “It’s more like we are putting everything
+ in one package to help these adolescents who are living
+ 
+<section> with HIV.”
+ The main theme in YPM and study staff IDI was that
+ the safety protocol had helped many youth receive ser-
+ vices by offering a protected time for HCP-youth inter-
+ action. Standard clinical review meetings do not typically
+ provide a sufficient opportunity to tackle the “burdens”
+ these youth face. YPM and survey interviewers appreci-
+ ated the protocol’s design since they were themselves not
+ equipped as counselors: “Once I [connect] them, they
+ will get relevant attention and resources. The healthcare
+ provider knows better of how to come up with a solu-
+ tion,” said one YPM. Several staff also noted the value of
+ documenting whether youth had completed an external
+ referral, since this feedback loop in standard care is typi-
+ cally missing.
+ 
+<section> Theme 4: Implementation challenges
+ Despite positive experiences with the safety protocol on
+ the whole, a common and notable thread across the HCP,
+ YPM, and study staff IDI concerned the challenges that
+ emerged during implementation. These challenges in
+ their order of salience included: (a) youth choosing not
+ to open up to HCP, (b) time and resource constraints, (c)
+ HCP training issues, and (d) stigma and cultural norms.
+ 
+<section> Youth choosing not to open up HCP, YPM, and study staff
+ explained that some youth chose not to share with a HCP
+ the experiences they reported on a survey or discussed
+ with their YPM. As a staff member said, “You’ll find that
+ when you get to the healthcare provider, this particular
+ client will show ignorance as though they did not respond
+ ‘Yes’ to some of the [survey] questions.” This reluctance to
+ share hindered the HCP’s ability to offer the youth sup-
+ port or connect them with other services. It also required
+ additional time from the HCP to develop a full picture of
+ the youth’s story. As a HCP explained, “Some youth didn’t
+ say much. They didn’t want to share…You often have to
+ work to get the young person to tell you what the problem
+ is. The healthcare provider has to probe a lot.”
+ According to YPM and study staff, youth were con-
+ cerned that HCP might share their experiences with oth-
+ ers at the clinic. They also noted that some youth feared
+ speaking openly since the HCP was “like a mother to
+ them” and “they were afraid to be judged.” As a study staff
+ 
+<section> member elaborated:
+ 
+<section> Some of them would refuse because there was some
+ familiarity with the healthcare providers at the cent-
+ ers. Because maybe the healthcare providers have
+ seen them grow and then maybe they tell them no
+ sex before marriage…It will be difficult to go to the
+ same provider. (Study staff member)
+ 
+<section> YPM and study staff felt that bringing on a mental
+ health nurse part-way through the study was valuable in
+ allowing the youth to meet with a counselor independent
+ from their clinic. Even though a small proportion of the
+ youth ultimately agreed to meet with the mental health
+ nurse, YPM and study staff received positive feedback
+ from these youth about their interactions with the nurse. 
+<section> Time and resource constraints HCP themselves, in
+ addition to YPM and study staff, noted their tendency to
+ be “overwhelmed” with their “work overload,” hindering
+ their ability to prioritize Project YES! youth. Wait times
+ with clients were sometimes very long, and if a HCP
+ was unavailable, the clinic would reschedule the client
+ for another day—except in emergencies. The nature and
+ duration of referral meetings lacked consistency across
+ clinics and providers. A few HCP were highlighted
+ across IDI as having provided extensive support dur-
+ ing the meetings. As one of these HCP explained, “Each
+ time you have a session with this client, you establish a
+ relationship which you cannot just get rid of. It becomes
+ a lifetime relationship.” However, many HCP only met
+ with a youth once about a given issue and did not for-
+ mally schedule follow-ups, though they encouraged the
+ youth to come see them again. Several study staff mem-
+ bers expressed concerns about the quality and longevity
+ of counseling provided. For example:
+ 
+<section> Healthcare providers were mostly busy …The par-
+ ticipants, when you refer them, I thought they
+ were not given much attention…Most of the refer-
+ rals they met, it was just for a short period of
+ time and usually the healthcare provider would
+ be like, ‘She’s OK,’ ‘We are done.’… There were very
+ few [youth] who had continuous referral…. Some
+ participants still had the same issues [during the
+ 6 and 12 month visits]…as reported at baseline.
+ 
+<section> (Study staff member)
+ 
+<section> These challenges were exacerbated by HCP turnover
+ at the clinics. It took time for the new HCP to become
+ accustomed to the safety protocol alongside other
+ responsibilities.
+ 
+<section> Healthcare provider training Some study staff described
+ recognizing over the course of the study that HCP were
+ not trained in handling all cases they encountered (e.g.
+ mental health, educational support) despite being the first
+ point of connection in the safety protocol. A staff member
+ described the dilemma as follows:
+ 
+<section> [One healthcare provider] failed to handle an issue
+ and then she told the youth peer mentor, ‘No, when
+ you see these cases, don’t bring them straight to me,
+ just take them to the psychiatric hospital’….In a way,
+ she’s not wrong because she knows she can’t handle
+ this. But then in our program, she is the primary
+ connection. (Study staff member)
+ 
+<section> HCP themselves expressed feeling “powerless” in cer-
+ tain situations and wanted a greater understanding of
+ community resources where they could refer youth
+ when the issue was beyond their capacity. One HCP, for
+ instance, described struggling with not knowing how
+ best to handle a case; she said the “biggest issue…itching
+ on me was the enablement to give them consistency of
+ help…a pathway to further access help.”
+ 
+<section> Stigma and cultural norms As a less prominent theme,
+ stigma and cultural norms were raised as influencing the
+ extent to which youth participants could receive the sup-
+ port they needed for violence and mental health problems.
+ One HCP, for instance, described not wanting to refer
+ youth externally for psychiatric services due to stigma
+ associated with the uptake of these services. She antici-
+ pated that youth would turn down the referral “because
+ they don’t want to be identified as crazy, nuts…” A study
+ staff member described how HCP may have been less
+ likely to refer youth elsewhere for services (e.g., to a GBV
+ center) if dealing with emotional rather than physical or
+ sexual violence, given cultural perceptions of what con-
+ stitutes “violence.” He highlighted the need to strengthen
+ HCP training on emotional forms of violence and mental
+ health broadly to ensure that youth experiencing these
+ challenges would universally receive the help they need:
+ Personal upbringing, culture…could affect the inter-
+ pretation of…what is violence…Usually, I will think
+ that healthcare providers may probably refer some-
+ one if they think the form of violence is severe…I
+ think that healthcare providers may not be likely to
+ refer a patient for services arising from emotional
+ trauma…as opposed to the way they will refer some-
+ body if they have physical injuries. I think that we
+ need to strengthen and capacity-build ourselves to
+ deal with emotional and mental health issues per-
+ taining to violence. (Study staff member)
+ 
+<section> Discussion
+ This study offers unique and practical insights into the
+ successes and challenges of integrating a responsive
+ safety system into a study measuring violence victimi-
+ zation and suicidal ideation among youth living with
+ HIV in a SSA setting. Both male and female youth par-
+ ticipants, alongside HCP, YPM, and study staff, described
+ the protocol’s added-value of helping youth connect with
+ HCP to talk through issues they are not typically able to
+ discuss. The protocol helped HCP recognize the impor-
+ tance of asking youth questions to more deeply under-
+ stand the intersectional issues they face. Implementation
+ challenges included: youths’ concerns with opening up to
+ HCP; constraints in time, resources, and training among
+ clinic staff to support youth-HCP meetings; and stigma
+ and cultural norms inhibiting external referrals for emo-
+ tional trauma and mental health issues. 
+<section> These findings contribute to the limited published
+ experiences of safety protocols in low-resource settings
+ [19, 20, 30] and should inform researchers’ safety plan-
+ ning—particularly when working with youth who are
+ living with HIV. Although the safety protocol for this
+ study was designed based on the resources and infra-
+ structure of the study setting, the challenges raised in
+ the IDIs echo findings from other studies in SSA on
+ the importance of: (a) strengthening referral networks
+ and coordination across services [19, 20, 39, 40]; (b)
+ increasing the capacity of clinic providers to respond
+ to a range of violence and mental health issues facing
+ youth [40, 41]; (c) tackling broader contextual factors
+ at play, such as cultural norms that minimize experi-
+ ences of emotional violence and stigma around mental
+ health [41]; and (d) encouraging an integrated approach
+ to care for youth at HIV clinics [39]. Researchers work-
+ ing in similar settings should be aware of these issues
+ when crafting their safety protocols and remain open
+ to adapting their protocols, as we did in this study. Our
+ findings also underscore the ethical responsibility of the
+ research team to carefully plan for participant safety.
+ This may require researchers to make difficult deci-
+ sions, for instance, around whether to hire a counselor
+ or social worker for the study or whether to work within
+ the existing infrastructure [19, 21].
+ Our findings highlight the critical need to address vio-
+ lence and mental health issues among youth living with
+ HIV, as almost half of both male and female youth were
+ referred to a HCP for severe violence and/or suicidal ide-
+ ation. Evidence is building on the links between experi-
+ ences of physical, sexual, and emotional violence, as well
+ as depression/suicidal thoughts, and virologic failure
+ among youth in SSA [7, 10, 42]. The fact that these youth
+ are in care represents an important opportunity to tackle
+ the violence and mental health “burdens” they face for
+ their personal wellbeing and to reach UNAIDS’ HIV tar-
+ get of 90% of those on treatment having suppressed viral
+ 
+<section> loads [43]
+ These findings have implications for addressing expe-
+ riences of violence among youth who attend HIV clin-
+ ics in Zambia. Zambia’s legal and policy environment
+ provides fertile ground for expanding violence preven-
+ tion and response efforts to youth living with HIV. The
+ government passed one of the most comprehensive gen-
+ der-based violence laws in SSA [44], runs a large net-
+ work of one-stop-centers for GBV [45], and has led and
+ supported large GBV-prevention initiatives [46–48].
+ While these efforts indicate the seriousness with which
+ the government aims to address rates of violence, our
+ findings reinforce literature that HCP in Zambia work
+ in resource-limited systems and referral structures in
+ place are minimal [49, 50]. Even though our study pro-
+ tocol helped HCP recognize the importance of tackling
+ violence, suicidal ideation, and adherence as “one pack-
+ age,” they struggle to meet these overwhelming needs.
+ Although sexual violence was the leading reason for
+ a referral, only one youth was referred to a GBV one-
+ stop center. Moreover, efforts to address violence in
+ Zambia tend to center on women and girls [51]. This
+ focus is indeed critical given the persistence of gender
+ inequality [51], but our findings also highlight a need to
+ address experiences of violence against adolescent boys
+ and young men living with HIV. We found no statisti-
+ cal differences by sex among those brought to a HCP for
+ violence, building on our previous findings of a relation-
+ ship between past-year violence victimization and viro-
+ logic failure among both male and female youth in this
+ study population [10].
+ This study fills an important gap in the literature on
+ implementing safety protocols with vulnerable popu-
+ lations—in this case, youth living with HIV. A study
+ strength is its use of both quantitative methods to
+ describe referral characteristics and qualitative meth-
+ ods to gain perspectives from a variety of stakeholders,
+ including the target population (i.e., youth) and imple-
+ menters (i.e., HCP, YPM, and study staff ). Given the sen-
+ sitive nature of the topics of violence and mental health
+ being discussed, participants may not have fully opened
+ up to interviewers about their experiences with the safety
+ protocol. Furthermore, social desirability bias may have
+ been present in HCP, YPM, and study staff IDI given
+ their roles in implementing the safety protocol, although
+ this bias is likely to have been counterbalanced by the
+ quantitative process data collected.
+ 
+<section> Conclusions
+ I integrating a safety protocol into a clinic-based study
+ addressing violence against youth living with HIV is
+ possible and beneficial to youth and HCP alike. How-
+ ever, youths’ concerns about HCP referrals and gaps in
+ resources and HCP capacity to handle all types of refer-
+ rals may pose implementation challenges. These find-
+ ings should inform the development of safety plans in
+ future studies within low-resource settings, as research-
+ ers seek to fulfill their ethical obligations. Youth liv-
+ ing with HIV need violence and mental health services
+ and referrals, and the fact that they are accessing care
+ at HIV clinics offers a critical entryway to meeting
+ these needs. Innovative strategies must be developed
+ to enhance HCP training, expand available resources,
+ and strengthen referral systems within HIV clinics in
+ Zambia. 
+<section> Supplementary Information
+ 
+<section> The online version contains supplementary material available at https://​doi.​
+ org/​10.​1186/​s41256-​021-​00224-0.
+ 
+<section> Additional file 1. Description of the Project YES! Safety Protocol.
+ 
+<section> Acknowledgements
+ We express our deepest thanks to the youth participants for sharing their
+ experiences with us. We also wish to thank the healthcare providers who
+ played a pivotal role in contributing to the design of the safety protocol,
+ carrying out safety protocol procedures, and participating in this research.
+ We further acknowledge the Project YES! youth peer mentors and study staff
+ for their essential support with implementing the safety protocol and their
+ invaluable feedback during this study.
+ 
+<section> Authors’ contributions
+ KGM, JKM, SM, JCC, and JAD designed the study. VMB, EAA, and CF contrib-
+ uted to the data collection and analysis. KGM drafted the manuscript. All
+ authors contributed to the interpretation of findings, and read, edited, and
+ approved the final manuscript.
+ 
+<section> Funding
+ 
+<section> Funding was provided by Project SOAR, a six-year cooperative agreement
+ funded by the U.S. President’s Emergency Plan for AIDS Relief (PEPFAR) and the
+ U.S. Agency for International Development (USAID, Agreement No. AID-OAA-
+ A-14-00060) and the Johns Hopkins Center for AIDS Research (P30AI094189).
+ KGM was supported by the National Institute of Mental Health of the National
+ Institutes of Health under Award Number F31MH116821-01A1.
+ 
+<section> Availability of data and materials
+ Data are available under Project SOAR’s subsection of the Harvard Dataverse:
+ https://​datav​erse.​harva​rd.​edu/​datav​erse/​proje​ctsoar.
+ 
+<section> Declarations
+ 
+<section> Ethical approval and consent to participate
+ The Zambia Ministry of Health through the National Health Research Author-
+ ity, and the Zambian ERES Converge and Johns Hopkins Bloomberg School of
+ Public Health ethical review boards, reviewed and approved this research. All
+ participants provided informed consent prior to taking part in this research.
+ Written parental/caregiver permission and youth assent was obtained for
+ minors (15–17-year-olds).
+ 
+<section> Consent for publication
+ Not applicable.
+ 
+<section> Competing interests
+ The authors have declared that no competing interests.
+ 
+<section> Author details
+ 
+<section> Department of International Health, Johns Hopkins Bloomberg School
+ of Public Health, 615 N. Wolfe Street, Baltimore, MD 21205, USA. 2 Arthur
+ Davison Children’s Hospital, Ndola, Zambia. 3 Department of Population, Family
+ and Reproductive Health, Johns Hopkins Bloomberg School of Public Health,
+ Baltimore, MD, USA. 4 Department of Community‑Public Health, Johns Hopkins
+ School of Nursing, Baltimore, MD, USA. 5 Present Address: Department of Medi-
+ cine, University of Illinois at Chicago, Chicago, IL, USA.
+ 
+<section> Received: 8 March 2021 Accepted: 3 October 2021
+ 
+<section> References
+ 
+<section> 1. Decker M, Latimore A, Yasutake S, Haviland M, Ahmed S, Blum R, et al.
+ Gender-based violence against adolescent and young adult women in
+ low- and middle-income countries. J Adolesc Health. 2015;56:188–96.
+ Hillis S, Mercy J, Amobi A, Kress H. Global prevalence of past-year
+ violence against children: a systematic review and minimum estimates.
+ Pediatrics. 2016;137(3):1–13.
+ 3. Jorns-Presentati A, Napp A-K, Dessauvagie A, Stein D, Jonker D, Breet
+ E, et al. The prevalence of mental health problems in Sub-Saharan
+ adolescents: a systematic review. PLoS ONE. 2020;16(5).
+ 4. Devries KM, Child JC, Allen E, Walakira E, Parkes J, Naker D. School
+ violence, mental health, and educational performance in Uganda.
+ Pediatrics. 2014;133(1):e129–37.
+ 5. Kiburi S, Molebatsi K, Obondo A, Kuria M. Adverse childhood experi-
+ ences among patients with substance use disorders at a referral
+ psychiatric hospital in Kenya. BMC Psychiatry. 2018;18(1):197.
+ 6. Richer L, Komarek A, Desmond C, Celentano D, Morin S, Sweat M, et al.
+ Reported physical and sexual abuse in childhood and adult HIV risk
+ behaviour in three African countries: findings from project accept
+ (HPTN-043). AIDS Behav. 2014;18(2):381–9.
+ 7. Cluver L, Meinck F, Toska E, Orkin F, Hodes R, Sherr L. Multitype violence
+ exposure and adolescent antiretroviral nonadherence in South Africa.
+ AIDS. 2018;32:975–83.
+ 8. Kidman R, Violari A. Dating violence against HIV-infected youth in
+ 
+<section> South Africa: Associations with sexual risk behavior, medication
+ adherence, and mental health. JAIDS J Acquired Immune Deficiency
+ Syndromes. 2018;77(1):64–71.
+ 9. Kim M, Mazenga A, Yu X, Ahmed S, Paul M, Kazembe P, et al. High self-
+ reported non-adherence to antiretroviral therapy amongst adolescents
+ living with HIV in Malawi: barriers and associated factors. J Int AIDS Soc.
+ 2017;20(21427).
+ 10. Merrill K, Campbell J, Decker M, McGready J, Burke V, Mwansa
+ J, et al. Past-year violence victimization is associated with viral
+ load failure among youth living with HIV in Zambia. AIDS Behav.
+ 2020;25(5):1373–83.
+ 11. World Health Organization. Putting women first: Ethical and safety
+ recommendations for research on domestic violence against women.
+ 
+<section> Geneva, Switzerland: Department of Gender and Women’s Health Fam-
+ ily and Community Health; 2001.
+ 12. Ellsberg M, Heise L. Researching violence against women: a practical
+ guide for researchers and activists. Washington: World Health Organi-
+ zation, PATH; 2005.
+ 13. Merg C. Ethical principles, dilemmas and risks in collecting data on
+ violence against children: a review of available literature. New York,
+ NY: Statistics and Monitoring Section/ Division of Policy and Strategy,
+ 
+<section> UNICEF; 2012.
+ 14. Laws S, Mann G. So You Want to Involve Children in Research? A toolkit
+ supporting children’s meaningful and ethical participation in resaerch
+ relating to violence against children. Sweden: Save the Children; 2004.
+ 15. World Health Organization. Responding to children and adolescents
+ who have been sexually abused: WHO clinical guidelines. Geneva,
+ Switzerland: 2017.
+ 16. Zimmerman C, Watts C. WHO ethical and safety recommendations for
+ interviewing trafficked women. Geneva: World Health Organization;
+ 2003.
+ 17. World Health Organization. WHO ethical and safety recommendations for
+ researching, documenting and monitoring sexual violence in emergen-
+ cies. Geneva, Switzerland; 2007.
+ 18. Van der Heijden I, Harries J, Abrahams N. Ethical considerations for
+ disability-inclusive gender-based violence research: Reflections from a
+ South African qualitative case study. Global Public Health. 2018.
+ 19. Child J, Naker D, Horton J, Walakira E, Devries K. Responding to abuse:
+ children’s experiences of child protection in a central district. Uganda
+ Child Abuse Negl. 2014;38:1647–58.
+ 20. Murray L, Skavenski S, Bass J, Wilcox H, Bolton P, Imasiku M, et al. Imple-
+ menting evidence-based mental health care in low-resources settings:
+ a focus on safety planning procedures. J Cognit Psychotherapy: Int Q.
+ 2014;28(3):168–85.
+ 21. Devries K, Child J, Elbourne D, Naker D, Heise L. "I never expected that it
+ would happen, coming to ask me such questions": ethical aspects of ask-
+ ing children about violence in resource-poor settings. Trials. 2015;16(516).
+ 22. Merrill K, Campbell J, Decker M, McGready J, Burke V, Mwansa J, et al.
+ Prevalence of physical and sexual violence and psychological abuse
+ among adolescents and young adults living with HIV in Zambia. PLoS
+ ONE. 2020;15(6). 
+<section> 23. Bond V, Chilikwela L, Clay S, Kafuma T, Nyblade L, Bettega N. Kanayaka
+ "The light is on": understanding HIV and AIDS related Stigma in Urban
+ and Rural Zambia. Lusaka, Zambia; 2003.
+ 24. Li R, Jaspan H, O’Brien V, Rabie H, Cotton M, Nattrass N. Positive futures: a
+ qualitative study on the needs of adolescents on antiretroviral therapy in
+ South Africa. AIDS Care. 2010;22(6):751–8.
+ 25. Ramaiya M, Sullivan K, O’Donnell K, Cunningham C, Shayo A, Mmbaga
+ B, et al. A Qualitative exploration of the mental health and psychosocial
+ contexts of HIV-positive adolescents in Tanzania. PLOS One. 2016;11(11).
+ 26. Luna B, Paulsen D, Padmanabhan A, Geier C. The teenage brain cognitive
+ control and motivation. Curr Direct Psychosocial Sci. 2013;22(2):94–100.
+ 27. Denison J, Burke V, Miti S, Nonyane B, Frimpong C, Merrill K, et al. Project
+ 
+<section> YES! Youth Engaging for Success: A randomized controlled trial assessing
+ the impact of a clinic-based peer mentoring program on viral suppres-
+ sion, adherence and internalized stigma among HIV-positive youth
+ (15–24 years) in Ndola, Zambia. PLOS ONE. 2020;15(4).
+ 28. Clinicaltrials.gov. Project YES! Youth Engaging for Success (Project YES!),
+ ClinicalTrials.gov Identifier: NCT04115813 Bethesda, MD.: National Library
+ of Medicine; October 2019. Available from: https://​clini​caltr​ials.​gov/​ct2/​
+ show/​NCT04​115813.
+ 29. Creswell J, Plano CV. Designing and conducting mixed methods research.
+ 
+<section> Thousand Oaks, CA: Sage; 2011. p.
+ 30. Anderson J, Glass N, Campbell J. Conducting clinically-based intimate
+ partner violence research: safety protocol recommendations. Nurs Res.
+ 2017;66(5):405–9.
+ 31. Merrill K, Campbell J, Kennedy C, Burke V, Miti S, Frimpong C, et al. ‘So
+ hurt and broken’: A qualitative study of experiences of violence and HIV
+ outcomes among Zambian youth living with HIV Global Public Health.
+ 2021;11:1–13.
+ 32. Abrams E, Burke V, Merrill K, Frimpong C, Miti S, Mwansa J, et al. “Adoles-
+ cents do not only require ARVs and adherence counseling”: a qualitative
+ investigation of health care provider experiences with an HIV youth peer
+ mentoring program in Ndola, Zambia. PLoS ONE. 2021;16(6).
+ 33. Burke V, Frimpong C, Abrams E, Merrill K, Miti S, Mwansa J, et al. “We
+ just need to continue”: youth peer mentors’ experiences implementing
+ Project YES! in Ndola, Zambia. International Conference on AIDS and STIs
+ in Africa; Kigali, Rwanda. 2019.
+ 34. Saldana J. Chapter 2: Writing analytic memos about narrative and visual
+ data. The coding manual for qualitative researchers: Sage Publications
+ Ltd; 2016.
+ 35. Tobin G, Begley C. Methodological rigour within a qualitative framework.
+ J Adv Nurs. 2004;48(4):388–96.
+ 36. Braun V, Clarke V. Using thematic analysis in psychology. Qual Res Psychol.
+ 2006;3(2):77–101.
+ 
+<section> 37. The National Health Research Act, 2013. National Assembly of Zambia.
+ 2013.
+ 38. WorldVision. Zambia: Policy progress to end violence against children.
+ 2019.
+ 39. Mark D, Armstrong A, Andrade C, Penezzato M, Hatane L, Taing L, et al.
+ HIV treatment and care services for adolescents: a situational analysis of
+ 218 facilities in 23 Sub-Saharan African countries. Journal of the Interna-
+ tional AIDS Society. 2017;20.
+ 40. Strasser S, Gibbons S. The development of HIV-related mental health
+ and psychosocial services for children and adolescents in Zambia:
+ The case for learning by doing. Children and Youth Services Review.
+ 2014;45(150–157).
+ 41. Lyambai K, Mwape L. Mental health problems experienced by HIV posi-
+ tive adolescents: a case of choma district. Zambia Open J Psychiatry.
+ 2018;8:97–114.
+ 42. Haas A, Technau K, Pahad S, Braithwaite K, Madzivhandila M, Sorour G,
+ et al. Mental health, substance use and viral suppression in adolescents
+ receiving ART at a paediatric HIV clinic in South Africa. J Int AIDS Soc.
+ 2020;23.
+ 43. UNAIDS. 90–90–90: An ambitious treatment target to help end the AIDS
+ epidemic. Geneva, Switzerland; 2014.
+ 44. Anti-Gender-Based Violence Act. National Assembly of Zambia; 2011.
+ 45. USAID. Zambia’s Ministry of Health integrates U.S.-funded one-stop
+ centers into fight against gender-based violence: USAID/PEPFAR and
+ UKAID partnership establishes 16 anti-GBV centers, housed in Zambian
+ government health facilities 2018. Available from: https://​www.​usaid.​
+ gov/​zambia/​press-​relea​ses/​05-​15-​2018-​zambi​as-​minis​try-​health-​integ​
+ rate-​us-​funded-​antig​bvcen​ters.
+ 46. DFID/USAID. Evaluation of the Stop GBV Programme: 2012–2018. Oxford
+ Policy Management; 2019.
+ 47. EU. European Union-Zambia Development Partnership: Factsheet
+ 2018/19. 2019.
+ 48. USAID. A Safer Zambia Program (ASAZA): Final Evaluation Report. 2011.
+ 49. Avocats Sans Frontieres. Challenges of implementation of the anti-gen-
+ der-based violence act 2011 in Zambia. Lusaka, Zambia: Advocats Sans
+ Frontieres; 2017.
+ 50. Zama M, Dennis M, Price JH, Topp S, Mwansa J, Keesbury J. Mitigating the
+ consequences of sexual violence in Zambia by decentralizing emergency
+ medical responses to police victim support units: Report on the feasibility
+ of police provision of post-exposure prophylaxis for HIV (PEP) in Zambia.
+ Lusaka; 2013.
+ 51. USAID/UKAID. Midterm evaluation: Stamping out and preventing
+ gender-based violence in Zambia. 2015.
+ 
+<section> Ready to submit your research Choose BMC and benefit from:
+ 
+<section> • fast, convenient online submission
+ 
+<section> • thorough peer review by experienced researchers in your field
+ 
+<section> • rapid publication on acceptance
+ 
+<section> • support for research data, including large and complex data types
+ 
+<section> • gold Open Access which fosters wider collaboration and increased citations
+ 
+<section> • maximum visibility for your research: over 100M website views per year

@@ -1,0 +1,1583 @@
+
+<section> HHS Public Access
+ 
+<section> Author manuscript
+ 
+<section> Lancet Glob Health. Author manuscript; available in PMC 2024 April
+ Author
+ 
+<section> Published in final edited form as:
+ Lancet Glob Health. 2023 December ; 11(12): e1899–e1910. doi:10.1016/S2214-109X(23)00436-9.
+ 
+<section> Manuscript
+ 
+<section> Financial incentives for reduced alcohol use and increased
+ 
+<section> isoniazid adherence during tuberculosis preventive therapy
+ 
+<section> among people with HIV in Uganda: an open-label, factorial
+ 
+<section> randomised controlled trial
+ 
+<section> Gabriel Chamie 
+<section> * 
+<section> ,
+ 
+<section> Author 
+<section> Judith A Hahn 
+<section> * 
+<section> ,
+ 
+<section> Allen Kekibiina,
+ 
+<section> Nneka I Emenyonu,
+ 
+<section> Manuscript
+ 
+<section> Brian Beesiga,
+ 
+<section> Kara Marson,
+ 
+<section> Robin Fatch,
+ 
+<section> Sara Lodi,
+ 
+<section> Julian Adong,
+ 
+<section> Harsha Thirumurthy,
+ 
+<section> Michael G McDonell,
+ 
+<section> Monica Gandhi,
+ 
+<section> Author
+ 
+<section> Kendall Bryant,
+ 
+<section> Diane V Havlir,
+ 
+<section> Manuscript 
+<section> Moses R Kamya,
+ 
+<section> This is an Open Access article under the CC BY-NC-ND 4.0 license.
+ 
+<section> Correspondence to: Dr Gabriel Chamie, Division of HIV, Infectious Diseases & Global Medicine, San Francisco General Hospital,
+ University of California San Francisco, San Francisco, CA 94143-0874, USA gabriel.chamie@ucsf.edu.
+ 
+<section> Contributors
+ GC and JAH conceptualised the study. GC, JAH, HT, MGM, and WRM contributed to the study design. AK, NIE, BB, KM, and
+ RF supervised trial implementation. GC, JAH, AK, NIE, BB, KM, RF, MRK, and WRM supervised data collection. SL was the lead
+ statistician and led the development of the statistical analysis plan. RF and SL directly accessed and verified the underlying data
+ reported in the manuscript and analysed the data. GC, JAH, MRK, and WRM led interpretation of the data, with support from RF,
+ 
+<section> Author SL, HT, and MGM. RF drafted the tables and figures, with input from GC, JAH, and SL. GC and JAH wrote the first draft of the
+ manuscript. AK, NIE, BB, KM, RF, SL, JA, HT, MGM, MG, KB, DVH, MRK, and WRM reviewed the manuscript and approved the
+ final draft. All authors had full access to all the data in the study and had final responsibility for the decision to submit for publication.
+ 
+<section> *Joint first authors
+ 
+<section> Manuscript 
+<section> Equitable partnership declaration
+ The authors of this paper have submitted an equitable partnership declaration (appendix 3). This statement allows researchers to
+ describe how their work engages with researchers, communities, and environments in the countries of study. This statement is part of
+ The Lancet Global Health’s broader goal to decolonise global health.
+ 
+<section> Declaration of interests
+ We declare no competing interests.
+ 
+<section> For the Runyankole translation of the abstract see 
+<section> Online for appendix
+ 
+<section> See 
+<section> Online for appendix 
+<section> Winnie R Muyindike
+ 
+<section> Author Division of HIV, Infectious Diseases & Global Medicine, University of California San Francisco,
+ San Francisco, CA, USA (G Chamie MD MPH, J A Hahn PhD, N I Emenyonu PhD, K Marson
+ MPH, R Fatch MPH, Prof M Gandhi MD, Prof D V Havlir MD); Global Health Collaborative,
+ 
+<section> Manuscript
+ Mbarara University of Science and Technology, Mbarara, Uganda (A Kekibiina MPH, J Adong
+ MMed, W R Muyindike MMed); Infectious Diseases Research Collaboration, Kampala, Uganda
+ (B Beesiga MBChB, Prof M R Kamya MMed); Department of Biostatistics, Boston University
+ School of Public Health, Boston, MA, USA (S Lodi PhD); Center for Health Incentives and
+ Behavioral Economics, University of Pennsylvania, Philadelphia, PA, USA (Prof H Thirumurthy
+ PhD); Department of Community and Behavioral Health, Elson S. Floyd College of Medicine,
+ Washington State University, Spokane, WA, USA (M G McDonell PhD); National Institute on
+ Alcohol Abuse and Alcoholism, Bethesda, MD, USA (K Bryant PhD); Department of Medicine,
+ Makerere University, Kampala, Uganda (Prof M R Kamya); Mbarara Regional Referral Hospital,
+ 
+<section> Author Mbarara, Uganda (W R Muyindike)
+ 
+<section> Summary
+ 
+<section> Manuscript
+ 
+<section> Background—Alcohol use is common among people with HIV and is a risk factor for
+ tuberculosis disease and non-adherence to isoniazid preventive therapy (IPT). Few interventions
+ exist to reduce alcohol use and increase IPT adherence in sub-Saharan Africa. The aim of this
+ study was to test the hypothesis that financial incentives conditional on point-of-care negative
+ urine alcohol biomarker testing and positive urine isoniazid testing would reduce alcohol use
+ and increase isoniazid adherence, respectively, in people with HIV who have latent tuberculosis
+ infection and hazardous alcohol use.
+ 
+<section> Methods—We conducted an open-label, 2×2 factorial randomised controlled trial in Uganda.
+ 
+<section> Author Eligible for the study were non-pregnant HIV-positive adults (aged ≥18 years) prescribed
+ antiretroviral therapy for at least 6 months, with current heavy alcohol use confirmed by urine
+ ethyl glucuronide (biomarker of recent alcohol use) and a positive Alcohol Use Disorders
+ 
+<section> Manuscript Identification Test—Consumption (AUDIT-C; ≥3 for women, ≥4 for men) for the past 3 months’
+ drinking, no history of active tuberculosis, tuberculosis treatment, or tuberculosis preventive
+ therapy, and a positive tuberculin skin test. We randomly assigned participants (1:1:1:1) initiating
+ 6 months of IPT to: no incentives (group 1); or incentives for recent alcohol abstinence (group
+ 2), isoniazid adherence (group 3), or both (group 4). Escalating incentives were contingent on
+ monthly point-of-care urine tests negative for ethyl glucuronide (groups 2 and 4), or positive on
+ IsoScreen (biomarker of recent isoniazid use; groups 3 and 4). The primary alcohol outcome was
+ non-hazardous use by self-report (AUDIT-C <3 for women, <4 for men) and phosphatidylethanol
+ (PEth; past-month alcohol biomarker) <35 ng/mL at 3 months and 6 months. The primary
+ 
+<section> Author isoniazid adherence outcome was more than 90% bottle opening of days prescribed. We performed
+ intention-to-treat analyses. This trial is registered with ClinicalTrials.gov (NCT03492216), and is
+ complete.
+ 
+<section> Manuscript
+ 
+<section> Findings—From April 16, 2018, to Aug 2, 2021, 5508 people were screened, of whom 680 were
+ randomly assigned: 169 to group 1, 169 to group 2, 170 to group 3, and 172 to group 4. The
+ median age of participants was 39 years (IQR 32–47), 470 (69%) were male, 598 (90%) of
+ had HIV RNA viral loads of less than 40 copies per mL, median AUDIT-C score was 6 (IQR 4–8), 
+<section> and median PEth was 252 ng/mL (IQR 87–579).
+ 
+<section> Author with alcohol use endpoint measures (group 1:
+ non-hazardous alcohol use was more likely in
+ (groups 2 and 4) versus no alcohol incentives
+ 
+<section> Manuscript
+ 
+<section> (9·9%) of 313, respectively; adjusted risk difference
+ Among 656 participants who completed the trial
+ (group 1: 158, group 2: 163, group 3: 168, group
+ not increase adherence: 244 (72·8%) of 335 in
+ versus 234 (72·9%) of 321 in the no isoniazid
+ CI −7·0 to 6·5, p=0·94). Overall, 53 (8%) of 680
+ 3 or higher adverse events. There was no significant
+ hepatotoxicity resulting in isoniazid discontinuation,
+ 
+<section> Interpretation—Escalating financial incentives
+ 
+<section> Author
+ 
+<section> significantly lower biomarker-confirmed alcohol
+ isoniazid adherence did not lead to changes in
+ 
+<section> Manuscript despite less intensive frequency of incentives
+ substance use, suggesting that pragmatic modifications
+ limited settings can have efficacy and that further
+ 
+<section> Introduction
+ 
+<section> Alcohol use is a major contributor to
+ has the highest burden of disease and
+ addition to direct effects of alcohol,
+ alcohol consumption has been associated
+ 
+<section> Author with HIV and people with tuberculosis—two
+ disproportionate burdens of disease
+ rates of alcohol use in sub-Saharan
+ 
+<section> Manuscript L annually in adults, and heavy episodic
+ has a high burden of tuberculosis and
+ person-years and an adult HIV prevalence
+ at levels that increase the risk of health
+ HIV, and contributes to worse HIV
+ to prevention and treatment for HIV
+ Both hazardous alcohol use and HIV
+ from latent tuberculosis infection to
+ consequences of hazardous alcohol
+ 
+<section> Author onward transmission of HIV and tuberculosis
+ 
+<section> Tuberculosis preventive therapy is a
+ 
+<section> Manuscript disease and mortality in people with
+ antiretroviral therapy (ART), for all
+ alcohol-induced hepatotoxicity, WHO
+ therapy (IPT; a commonly available
+ people with HIV who have “regular
+ 
+<section> Among 636 participants who completed the trial
+ 152, group 2: 159, group 3: 161, group 4: 164),
+ the groups with incentives for alcohol abstinence
+ (groups 1 and 3): 57 (17·6%) of 323 versus
+ (aRD) 7·6% (95% CI 2·7 to 12·5, p=0·0025).
+ with isoniazid adherence endpoint measures
+ 4: 167), incentives for isoniazid adherence did
+ the isoniazid incentive groups (groups 3 and 4)
+ incentive groups (groups 1 and 2); aRD −0·2% (95%
+ participants discontinued isoniazid due to grade
+ association between randomisation group and
+ after adjusting for sex and site.
+ 
+<section> contingent on recent alcohol abstinence led to
+ use versus control, but incentives for recent
+ adherence. The alcohol intervention was efficacious
+ and clinic visits than traditional programmes for
+ of contingency management for resource-
+ evaluation of implementation is merited.
+ 
+<section> morbidity and mortality globally; sub-Saharan Africa
+ injury attributable to alcohol use worldwide. 1 In
+ such as liver disease, traumatic injury, and violence,
+ with negative health outcomes among people
+ leading causes of death worldwide, with
+ in sub-Saharan Africa. Uganda has one of the highest
+ Africa with total alcohol per capita consumption of 9·5
+ alcohol use among 21% of adults. 1 Uganda also
+ HIV, with a tuberculosis incidence of 196 per 100
+ of 5·2%. 2,3 Hazardous alcohol use (ie, drinking
+ consequences) is common among people with
+ and tuberculosis outcomes through decreased adherence
+ 4 and tuberculosis, 5,6 among other causal pathways.
+ infection also greatly increase the risk of progression
+ tuberculosis disease. 7 Therefore, the public health
+ use among people with HIV are substantial, fuelling
+ and worsening health outcomes.
+ 
+<section> crucial tool for reducing the risk of tuberculosis
+ HIV, and WHO recommends its use, in addition to
+ adults with HIV. 8 However, due to concerns about
+ guidelines do not recommend isoniazid preventive
+ form of tuberculosis preventive therapy globally) in
+ and heavy alcohol consumption”, 8 despite increased 
+<section> risk of tuberculosis in this group. Given the high and overlapping prevalence of hazardous
+ 
+<section> Author alcohol use, HIV, and tuberculosis, effective interventions to reduce alcohol use and increase
+ IPT use and adherence among people with HIV with hazardous alcohol use in sub-Saharan
+ Africa are urgently needed.
+ 
+<section> Manuscript
+ 
+<section> Contingency management is an incentive-based intervention designed to reinforce drug and
+ alcohol abstinence that is associated with large reductions in drug and alcohol use. 9,10
+ However, a typical contingency management model is not feasible in many resource-limited
+ settings, given the high frequency of clinic visits required (eg, twice per week) in settings
+ where direct (eg, travel) and indirect (eg, time away from work) costs of attending clinic
+ are expensive. The effectiveness of pragmatic modifications to contingency management that
+ use incentive-based approaches for alcohol use, but with less frequent visits and rewards
+ to enhance feasibility, is unknown. Furthermore, contingency management relies on an
+ 
+<section> Author objective biomarker to confirm abstinence, such as point-of-care drug testing. A point-of-
+ care test to confirm alcohol abstinence only recently became available. To our knowledge,
+ contingency management has not yet been evaluated to treat alcohol use in sub-Saharan
+ 
+<section> Manuscript 
+<section> Africa.
+ 
+<section> Although incentive-based interventions have been shown to promote a wide range of health
+ behaviours, data supporting the use of incentives for medication adherence among people
+ with HIV—including tuberculosis preventive therapy —have been mixed. 
+<section> 11,12 Like alcohol
+ intervention studies, tuberculosis preventive therapy studies are subject to reporting biases,
+ including overestimation of adherence when relying on self-report. 
+<section> 13 Furthermore, a lack of
+ a point-of-care biomarker test to confirm isoniazid pill-taking has, until recently, presented
+ a challenge for offering incentives conditional on isoniazid adherence. Whether incentive-
+ based interventions can improve IPT adherence is unknown.
+ 
+<section> Author
+ 
+<section> To address these gaps, we conducted a trial to evaluate incentive-based interventions
+ to reduce alcohol use and increase IPT adherence among adults with HIV and latent
+ 
+<section> Manuscript
+ 
+<section> tuberculosis infection (hereafter HIV–tuberculosis co-infection) and hazardous alcohol use
+ in Uganda. For objective trial endpoint monitoring, we used an alcohol biomarker in
+ addition to self-report. For isoniazid adherence, we assessed pill-taking by electronic pill
+ bottle opening and self-report. Our trial tested the hypothesis that incentives conditional on
+ point-of-care negative urine alcohol biomarker testing and positive urine isoniazid testing
+ would reduce alcohol use and increase isoniazid adherence, respectively, among adults with
+ HIV–tuberculosis co-infection and hazardous alcohol use.
+ 
+<section> Methods
+ 
+<section> Author
+ 
+<section> Study design and participants
+ The Drinkers’ Intervention to Prevent Tuberculosis trial is a 2 × 2 factorial randomised
+ 
+<section> Manuscript controlled trial among adults with HIV and latent tuberculosis infection, and hazardous
+ alcohol use in southwestern Uganda. We conducted the trial at two rural and two urban
+ clinics. We also screened participants at 15 lower-level satellite clinics, with referral to the
+ four study clinics for enrolment and study visits. We previously published the study design,
+ procedures, and outcome measures, 14 and include the protocol in appendix 2 (p 16). 
+<section> We first screened people with HIV attending clinic appointments at study sites to identify
+ 
+<section> Author those reporting any current (past 3 months) alcohol use. Once we identified patients with
+ any alcohol use, study staff obtained written consent to participate in screening for trial
+ eligibility. Participants were eligible if they met the following inclusion criteria at screening:
+ 
+<section> Manuscript
+ 
+<section> adults (aged ≥18 years) with HIV prescribed ART for at least 6 months; current hazardous
+ alcohol use confirmed by ethyl glucuronide (EtG), a metabolite of alcohol use that can be
+ detected in urine for several days, using a commercial point-of-care dipstick test (Confirm
+ Biosciences, San Diego, CA, USA) with a detection cutoff (indicating alcohol use in the past
+ 48 h) of 300 ng/mL, 
+<section> 15 and the Alcohol Use Disorders Identification Test—Consumption
+ (AUDIT-C; ≥3 for women, ≥4 for men), 
+<section> 16 modified for the past 3 months’ drinking; no
+ history of active tuberculosis, tuberculosis disease treatment, or tuberculosis preventive
+ therapy; fluent in Runyankole (the local dialect in southwestern Uganda) or English;
+ residence within 2 h driving distance or 60 km of the study site; aspartate aminotransferase
+ 
+<section> Author (AST) and alanine aminotransferase (ALT) less than two times the upper limit of normal;
+ and positive tuberculin skin test (TST), defined as 5 mm induration or larger. TSTs were
+ only performed on participants who met all other eligibility criteria. Participants were
+ 
+<section> Manuscript excluded if they had suspected or confirmed active tuberculosis (determined by symptom
+ screening, followed by chest x-ray and sputum Xpert MTB/RIF assay [Cepheid, Sunnyvale,
+ CA, USA] testing, if symptomatic); use of medications not recommended during IPT by
+ Ugandan Ministry of Health guidelines, including nevirapine, anticonvulsants, or recent
+ initiation (past 3 months) of dolutegravir; plans to move out of the study clinic catchment
+ area within the next 6 months; pregnancy (by urine test) at the time of screening; or gross
+ inebriation or inability to provide informed consent. Individuals with severe alcohol use
+ disorder were not excluded, and with their consent, we notified their HIV providers (to
+ whom we provided training in the management of alcohol use disorders before the start of
+ 
+<section> Author the trial) about their level of alcohol use. Eligible individuals who provided written consent
+ were enrolled in the trial.
+ 
+<section> Manuscript The Mbarara University of Science and Technology Research and Ethics Committee, the
+ Makerere University School of Medicine Research and Ethics Committee, the Uganda
+ National Council for Science and Technology, and the University of California San
+ Francisco Committee on Human Research approved the study protocol. Our institutional
+ review board (IRB) applications noted that IPT is not recommended for individuals
+ considered “regular and heavy drinkers” in resource-limited settings (such as Uganda) per
+ WHO guidelines, and explicitly indicated that the trial would comprise individuals with
+ heavy alcohol use. However, given that people who consume alcohol at hazardous levels
+ are at increased risk of active tuberculosis and thus a high priority group for prevention,
+ we received IRB approvals to provide IPT to participants with hazardous alcohol use with
+ 
+<section> Author
+ 
+<section> several specific precautions: (1) we excluded anyone with ALT or AST values of more than
+ two times the upper limit of normal in pretreatment tests at baseline; (2) we implemented
+ 
+<section> Manuscript frequent monitoring of ALT and AST (every 2 weeks for the first month of IPT, and then
+ monthly); and (3) we increased the frequency of monitoring for those with grade 2 ALT
+ or AST elevations or symptoms, and discontinued IPT for grade 3 or higher adverse events
+ attributed to isoniazid. The trial was conducted with oversight from a data safety monitoring
+ board. 
+<section> Randomisation and masking
+ 
+<section> Author
+ 
+<section> We randomly assigned participants (1:1:1:1) initiating 6 months of IPT to: no incentives
+ (group 1) or incentives contingent on no recent alcohol use (group 2), recent isoniazid
+ adherence (group 3), or both (awarded independently, group 4). Randomisation was
+ 
+<section> Manuscript
+ 
+<section> stratified by sex (female vs male) and study site. We used permuted blocks with random
+ block sizes of 4 and 8 with the allocation sequence computer-generated before trial
+ initiation. Participants selected a preprinted scratch card from eight cards presented by
+ study staff that revealed randomisation assignment when scratched by the participant, with
+ replacement of each card taken with the next card in the sequence, to ensure transparency
+ and engagement in the randomisation process. Although participants and staff were not
+ masked to study assignment given the nature of the intervention, the investigators, including
+ the lead study statistician (SL), remained masked to participant randomisation assignment
+ until trial completion.
+ 
+<section> Author
+ 
+<section> Procedures
+ 
+<section> Manuscript Before randomisation, participants completed a questionnaire and blood draw for HIV
+ viral load (Xpert HIV-1 RNA assay; Cepheid, Sunnyvale, CA, USA), CD4 + cell count,
+ and phosphatidylethanol (PEth; by dried blood spot) measurement. PEth assays were
+ performed at the US Drug Testing Laboratory (Des Plaines, IL, USA) with a limit of
+ quantification of 8 ng/mL for the 16:0/18:1 analog. 
+<section> 17 Research assistants selected male
+ or female on the research form. The baseline questionnaire included screening for self-
+ reported other hazardous or illicit substance use in the past 3 months. In addition, we
+ repeated these screening questions to evaluate emergent substance use at the 6-month study
+ visit, midway through trial implementation (ie, for approximately half of participants).
+ The study provided isoniazid 300 mg by mouth daily and pyridoxine 25 mg by mouth
+ 
+<section> Author
+ 
+<section> daily (with the option to increase to pyridoxine 50 mg by mouth daily, at study clinician
+ discretion) for all participants at enrolment, with initial follow-up and refills at 2 weeks
+ and 1 month post-randomisation, and monthly thereafter, for a 6-month course of IPT. In
+ 
+<section> Manuscript
+ 
+<section> all groups, participants had liver function testing and screening for isoniazid side-effects
+ and symptoms of active tuberculosis at each study visit. We allowed participants up to
+ 9 months to complete a 6-month isoniazid course (180 tablets), to account for missed or
+ late visits; incentives were only given over the first 6 months. During Uganda’s initial
+ national COVID-19 lockdown, we halted study visits from April 1 to May 26, 2020, for
+ 180 participants, as participants could not travel to study clinics. Participants resumed study
+ visits, including intervention procedures, after the lockdown. All participants received brief
+ (5-min) alcohol counselling at their baseline visit, and transport reimbursement (≤40
+ Uganda shillings [USh]; approximately US$11·40) to cover costs of travel for study visits.
+ 
+<section> Author
+ 
+<section> Participants assigned to the incentive groups provided a urine sample for group-appropriate
+ testing at each refill visit. At these visits, they were given escalating financial incentives
+ 
+<section> Manuscript contingent on point-of-care urine tests that were negative for EtG (groups 2 and 4), or
+ positive on IsoScreen (GFC Diagnostics, Chipping Warden, UK), a biomarker of isoniazid
+ use over the previous 1–3 days (groups 3 and 4; appendix 2 p 2). 
+<section> 18 Participants assigned
+ to alcohol reduction incentives who had a negative urine EtG test, and those assigned to
+ isoniazid adherence incentives who had a positive urine isoniazid test, instantly won cash 
+<section> prizes, with prize value determined by drawing one or more lottery scratch cards. Scratch
+ 
+<section> Author cards revealed low-value, medium-value, and high-value cash prizes, valued at 5000 USh
+ (US$1·50; low), 10 000 USh (US$2·85; medium), and 50 000 USh (US$14·30; high),
+ with each card having at least a low-value prize. Probabilities of winning were 90% for
+ 
+<section> Manuscript
+ 
+<section> low-value, 7% for medium-value, and 3% for high-value prizes. The number of scratch
+ cards awarded per participant increased by one card at each subsequent visit with a negative
+ urine EtG or positive urine isoniazid test, thereby providing escalating prizes for sustained
+ reductions in alcohol use or sustained isoniazid adherence. Escalating prizes were used
+ based on previous studies demonstrating that escalating reinforcements maintain smoking
+ abstinence longer than fixed reinforcements. 
+<section> 19 If a participant had a positive urine EtG or
+ negative urine isoniazid test, no cards were given, and the participant “reset” to drawing one
+ card if meeting the incentive condition at the subsequent visit.
+ 
+<section> Author If participants discontinued isoniazid due to toxicity or pregnancy, they remained in the
+ study for follow-up monitoring. However, these participants were no longer eligible to
+ receive isoniazid adherence incentives if in groups 3 or 4, but were still eligible to
+ 
+<section> Manuscript receive alcohol reduction incentives (groups 2 and 4). In the isoniazid adherence group,
+ all participants on isoniazid who returned to the clinic for their first visit after the 8-
+ week COVID-19 lockdown (during which they could not obtain isoniazid refills) received
+ incentives for adherence according to their escalating schedules, independent of urine
+ isoniazid test results.
+ 
+<section> Outcomes
+ 
+<section> The primary alcohol outcome used to assess the alcohol intervention was non-hazardous
+ use by AUDIT-C (<3 in women and <4 in men, in the past 3 months) and PEth below
+ 
+<section> Author ng/mL at 3 months and 6 months post-enrolmentr. The PEth cutoff was chosen a priori based
+ on a previously recommended cutoff for no or low alcohol use. 
+<section> 20 The primary isoniazid
+ adherence outcome used to assess the adherence intervention was more than 90% electronic
+ 
+<section> Manuscript pill bottle cap opening (using medication event monitoring system [MEMS] caps [AARDEX
+ Group, Seraing, Belgium]) of days isoniazid prescribed. Secondary outcomes included PEth
+ and MEMS cap openings as continuous measures at 6 months, and isoniazid discontinuation
+ due to grade 3 or higher hepatotoxicity. Hepatotoxicity was defined as elevation of AST or
+ ALT to at least five times the upper limit of normal (grade 3) or at least ten times the upper
+ limit of normal (grade 4) or based on symptoms that met prespecified grade 3 or 4 criteria
+ for hepatotoxicity.
+ 
+<section> Statistical analysis
+ 
+<section> Author The trial sample size (n=680) was determined based on the a priori goal of detecting a 10–
+ 12% or greater difference in outcomes, comparing intervention to non-intervention groups
+ (eg, groups 2 and 4 vs groups 1 and 3 for the alcohol intervention). We found that we
+ 
+<section> Manuscript needed to enroll 680 participants (170 per group, 340 per intervention), assuming 10% loss
+ to follow-up for both 3-month and 6-month visits. For a two-sided χ2 test with continuity
+ correction and alpha=0·05, this sample size would have given our study 80% power to
+ detect a 10% absolute difference in the alcohol intervention versus no alcohol intervention
+ groups, assuming proportions of participants with non-hazardous drinking of 25% and 15%, 
+<section> respectively. This sample size would have given our study 80% power to detect a 12%
+ 
+<section> Author absolute difference in the isoniazid adherence versus no adherence intervention groups,
+ assuming proportions with adherence of 62% and 50%, respectively.
+ 
+<section> Manuscript For the alcohol outcome, we used a multivariable logistic regression model to estimate
+ the effect of the alcohol intervention while adjusting for the adherence intervention and
+ stratification randomisation factors (sex, study site). For the adherence outcome, we used
+ a multivariable logistic regression model to estimate the effect of the isoniazid adherence
+ intervention while adjusting for the alcohol intervention and stratification randomisation
+ factors. For each model, we used the parameter estimates to predict the probability of the
+ outcome under the intervention versus no intervention and obtain the adjusted absolute risk
+ (proportions with outcome value=1) for intervention and no intervention, the risk difference
+ (primary treatment effect measurement), and risk ratio, with 95% CIs and p values (two-
+ 
+<section> Author sided, α=0·05; appendix 2 pp 5–15 [statistical analysis plan, also available online]). For
+ both outcomes, we tested for effect modification by sex, very heavy alcohol use at baseline
+ (AUDIT-C ≥6 or PEth ≥200 ng/mL [a PEth level that corresponds to approximately 4–
+ 
+<section> Manuscript 5 drinks per day on a regular basis ]), and urban versus rural site, with p<0·10 being
+ considered significant.
+ 
+<section> For the secondary continuous PEth outcome, we log-transformed PEth, and fit a linear
+ regression model, with adjustment for baseline log PEth, sex, site, and randomisation
+ to isoniazid adherence incentives. When PEth was below the limit of quantification, we
+ substituted 0 for log PEth. For the secondary continuous MEMS cap opening outcome, we
+ fit a negative binomial model for the number of MEMS cap opening days with an offset term
+ defined as the natural logarithm of number of days of follow-up (given different follow-up
+ times due to isoniazid discontinuation), adjusting for sex, site, and randomisation to alcohol
+ 
+<section> Author
+ 
+<section> reduction incentives.
+ 
+<section> For the hepatotoxicity outcome, we used a logistic regression model including study group
+ 
+<section> Manuscript
+ 
+<section> and randomisation stratification factors (sex, study site). We conducted three pairwise
+ comparisons between groups 2, 3, and 4 versus control (group 1).
+ 
+<section> Statistical analyses were conducted using Stata version 14.2. All analyses were performed as
+ intention-to-treat analyses.
+ 
+<section> This trial is registered with ClinicalTrials.gov (NCT03492216).
+ 
+<section> Role of the funding source
+ The funder of the study had no role in study design, data collection, data analysis, data
+ 
+<section> Author
+ 
+<section> interpretation, or writing of the report.
+ 
+<section> Manuscript 
+<section> Results
+ 
+<section> From April 16, 2018, to Aug 2, 2021, 5508 people with HIV underwent initial screening
+ for eligibility: 1812 (33%) met eligibility for TST placement. Of individuals screened by
+ TST, 712 (39%) tested TST positive, of whom 680 (96%) enrolled in the trial. Reasons for
+ non-enrolment are shown in figure 1. At baseline, participant median age was 39 years (IQR 
+<section> 32–47), 470 (69%) were male, 598 (90%) of 663 had an HIV viral load below 40 copies per
+ 
+<section> Author mL, median AUDIT-C was 6 (IQR 4–8), and median PEth was 252 ng/mL (IQR 87–579). At
+ baseline, 181 (27%) of 680 participants reported smoking cigarettes, 22 (3%) used chewing
+ tobacco, two (0·3%) used e-cigarettes, 46 (7%) used khat, 17 (3%) used marijuana, 11 (2%)
+ 
+<section> Manuscript
+ 
+<section> used kuba, two (0·3%) sniffed petrol, and no participants reported use of cocaine, heroin,
+ speed (methamphetamine), or hookah. Baseline characteristics of participants are shown
+ in table 1. Participants with study visits impacted by the 2020 COVID-19 lockdown were
+ evenly distributed by group (appendix 2 p 3).
+ 
+<section> There were 636 (94%) participants who had self-report and PEth data measured at
+ months and 6 months post-enrolment and for whom the primary alcohol use outcome (ie,
+ reduction in drinking to non-hazardous use) could be evaluated (figure 1). The proportion
+ of participants with non-hazardous alcohol use was 17·6% (57 of 323) in the alcohol
+ 
+<section> Author reduction incentives groups (groups 2 and 4) and 9·9% (31 of 313) in the groups without
+ alcohol reduction incentives (groups 1 and 3): adjusted risk difference (aRD) 7·6% (95%
+ CI 2·7–12·5; p=0·0025, adjusting for sex, study site, and adherence intervention; figure
+ 
+<section> Manuscript 2). The number needed to treat with this intervention is 13·2 people for one person to
+ reduce their alcohol use to non-hazardous levels. In a prespecified sensitivity analysis in
+ which we assumed that the 44 participants with missing primary alcohol use endpoint
+ data continued to have hazardous alcohol use (ie, did not meet the primary outcome),
+ the effect of the alcohol intervention remained significant (aRD 7·1% [95% CI 2·5–11·8];
+ p=0·0027). Prespecified subgroup analyses evaluating the effect of the alcohol intervention
+ on the primary alcohol outcome by sex, rural versus urban site, and very heavy alcohol
+ use at baseline are shown in table 2. The proportions of participants with non-hazardous
+ alcohol use were higher in the alcohol intervention versus no alcohol intervention groups
+ in all subgroups, particularly for women, urban participants, and those with lower baseline
+ 
+<section> Author
+ 
+<section> PEth levels. In a post-hoc analysis that reanalysed the primary alcohol outcome while
+ adjusting for log PEth at baseline to account for higher baseline PEth level in group 1,
+ 
+<section> Manuscript non-hazardous alcohol use remained significantly more likely in the alcohol intervention
+ versus no intervention groups.
+ 
+<section> Median PEth measured at 6 months post-enrolment (n=645 participants) was 134·0 ng/mL
+ (IQR 25·0–379·0) in the alcohol intervention versus 170·5 ng/mL (58·5–483·5) in the
+ no alcohol intervention groups. In a linear regression model evaluating PEth (log
+ transformed) at 6 months post-enrolment, the alcohol intervention was associated with
+ lower PEth levels (β=–0·08 [95% CI −0·18 to 0·01]; p=0·084) after adjusting for sex, site,
+ randomisation to incentives for isoniazid adherence, and log PEth at baseline, but this
+ finding did not meet statistical significance. Among the subset of 286 participants who
+ 
+<section> Author underwent repeat screening for other substance use at 6 months post-randomisation, 57
+ (20%) reported smoking cigarettes, one (0·3%) used chewing tobacco, five (2%) used khat,
+ six (2%) used marijuana, one (0·3%) used kuba, and no participants reported use of cocaine,
+ 
+<section> Manuscript
+ 
+<section> heroin, speed (methamphetamine), hookah, sniffing petrol, or e-cigarettes.
+ 
+<section> For the primary isoniazid adherence outcome, 656 (96%) participants had data on isoniazid
+ adherence by MEMS cap opening. The proportion of participants with more than 90%
+ adherence by MEMS cap openings during IPT was 72·8% (244 of 335) in the isoniazid 
+<section> incentive groups (groups 3 and 4) and 72·9% (234 of 321) in the no isoniazid incentive
+ 
+<section> Author groups (groups 1 and 2): aRD −0·2% (95% CI −7·0 to 6·5; p=0·94, adjusting for sex, site,
+ and participation in the alcohol intervention; figure 2). There was no independent effect of
+ the alcohol incentives intervention on the isoniazid adherence endpoint. In a prespecified
+ 
+<section> Manuscript
+ 
+<section> sensitivity analysis in which we assumed that the 24 participants with missing isoniazid
+ adherence endpoint data did not achieve more than 90% adherence (ie, did not meet the
+ primary adherence outcome), the effect of the isoniazid adherence intervention remained
+ non-significant (aRD 0·2% [95% CI −4·8 to 8·9]; p=0·56). In subgroup analyses of the
+ primary isoniazid adherence outcome by sex, baseline alcohol use, and rural versus urban
+ site, there were no significant differences in proportion of participants with more than 90%
+ adherence by MEMS cap opening in the isoniazid incentive versus no incentive groups.
+ Median MEMS cap openings out of days prescribed isoniazid was 96·7% (IQR 89·4–99·4)
+ 
+<section> Author in the isoniazid incentive groups and 96·7% (89·4–99·4) in the no isoniazid incentive groups.
+ In a negative binomial regression model evaluating adherence as a continuous measure, there
+ was no significant association between the isoniazid intervention and isoniazid adherence
+ 
+<section> Manuscript (p=0·15), after adjusting for sex, site, and randomisation to incentives for reduced alcohol
+ use.
+ 
+<section> Isoniazid discontinuation due to a grade 3 or higher adverse event occurred in 53 (8%)
+ of 680 participants. Hepatotoxicity resulting in isoniazid discontinuation occurred in
+ (7%) participants. There was no significant association between randomisation group
+ and hepatotoxicity resulting in isoniazid discontinuation, after adjusting for sex and site
+ (table 3). There was significant heterogeneity in hepatotoxicity by site: one rural site had
+ significantly greater hepatotoxicity rates than the urban site used as a reference (appendix
+ 2 p 4). Grade 3 or higher adverse events and serious adverse events by group are shown in
+ 
+<section> Author
+ 
+<section> table
+ 
+<section> The distributions of participants receiving incentives for negative point-of-care urine EtG
+ 
+<section> Manuscript
+ 
+<section> tests and positive isoniazid tests at each visit are shown in figure 3. The proportion of
+ participants meeting incentive criteria for all visits was 31·4% (107 of 341) in the alcohol
+ intervention and 42·4% (145 of 342) in the isoniazid intervention groups. The proportion
+ meeting none of the incentive criteria was 3·8% (13 of 341) in the alcohol intervention and
+ 1·2% (four of 342) in the isoniazid intervention groups. Overall, 90% of prizes earned were
+ low-value prizes in both intervention groups. Median value of prizes received overall was
+ US$25·35 (IQR 8·85–44·70) in group 2, US$43·35 (22·20–54·80) in group 3, and US$68·13
+ (45·18–92·65) in group 4. There were no instances in which a participant met point-of-care
+ urine testing criteria but did not receive incentives.
+ 
+<section> Author
+ 
+<section> Discussion
+ 
+<section> Manuscript In this factorial randomised trial, escalating financial incentives contingent on recent alcohol
+ abstinence led to significantly lower biomarker-confirmed alcohol use compared with no
+ incentives over 6 months among adults with HIV–latent tuberculosis co-infection and
+ hazardous alcohol use in Uganda. In contrast, escalating incentives contingent on adherence
+ to isoniazid did not lead to significant increases in isoniazid use. The alcohol reduction 
+<section> intervention was efficacious despite less intensive frequency of incentives and clinic visits
+ 
+<section> Author than traditional contingency management programmes for substance use, suggesting that
+ pragmatic modifications of contingency management for resource-limited settings can have
+ efficacy. Despite an intervention effect, a large proportion of participants continued to
+ 
+<section> Manuscript
+ 
+<section> drink at hazardous levels. The lack of isoniazid adherence intervention effect adds to a
+ mixed literature on the effectiveness of incentives in promoting daily medication adherence,
+ suggesting other interventions are needed to support adherence to tuberculosis preventive
+ therapy among people with HIV at high tuberculosis risk (with >25% of participants not
+ achieving >90% daily IPT adherence), including those with hazardous alcohol use.
+ 
+<section> To our knowledge, this study is the first to demonstrate efficacy of incentives for reducing
+ alcohol use in sub-Saharan Africa. To date, strategies to reduce hazardous alcohol use
+ in sub-Saharan Africa have relied on counselling-based interventions ranging from brief
+ 
+<section> Author (one session) to lengthy (12 sessions) counselling, with mixed success. 
+<section> 22 Some studies
+ among people with HIV in sub-Saharan Africa have shown efficacy for counselling-based
+ interventions; 
+<section> 23,24 others have not. 
+<section> 25–27 However, alcohol use is frequently under-reported,
+ 
+<section> Manuscript which can lead to spurious results; only a few of these previous studies included an objective
+ alcohol use measure, such as PEth, as part of their main alcohol outcomes, 
+<section> 25,27 which
+ might explain, in part, the mixed findings. Our study is one of the first to show a biomarker-
+ confirmed effect of an intervention on alcohol use among people with HIV in sub-Saharan
+ Africa.
+ 
+<section> For our primary alcohol use outcome, we used a stringent definition of non-hazardous
+ use, defined by self-report and PEth below 35 ng/mL at both 3-month and 6-month visits:
+ only 18% of participants in the intervention group and 10% in the control group met this
+ definition. We chose this outcome with the goal of promoting very low levels of alcohol
+ 
+<section> Author
+ 
+<section> use to reduce risk of hepatotoxicity during IPT. Baseline severity of alcohol use was
+ high, with a mean PEth level of 252 ng/mL, above the suggested cutoff of 200 ng/mL
+ (akin to approximately four drinks per day) for chronic high-risk use. 
+<section> 21 Therefore, our
+ 
+<section> Manuscript
+ 
+<section> secondary analysis that showed greater declines in PEth levels in intervention versus control
+ (p=0·084) suggests intervention efficacy in reducing alcohol use, even without abstinence.
+ Our subgroup analyses found that people with HIV with lower baseline alcohol use (PEth
+ <200 ng/mL and AUDIT-C <6) experienced a greater intervention effect compared with
+ those with higher baseline alcohol use. More work is needed to confirm these findings
+ and their impacts on other health and psychosocial outcomes, including implementation
+ considerations and combining economic incentives with effective elements of counselling
+ interventions. Moreover, pharmacotherapy should be considered as a potential adjuvant, or
+ stepped intervention, in future studies. Additionally, several previous studies of incentive
+ 
+<section> Author interventions have found that incentivised behaviours might decrease after incentives
+ are withdrawn. 9 Long-term, post-intervention effects of our alcohol intervention merit
+ evaluation and are ongoing for this study at time of publication.
+ 
+<section> Manuscript
+ 
+<section> The isoniazid adherence intervention did not result in increased isoniazid pill bottle opening,
+ with overall high adherence. One explanation for this finding is that we enrolled people
+ with HIV engaged in care and with high baseline viral suppression. As such, we might
+ have selected for participants who were largely adherent to medications despite alcohol use, 
+<section> limiting our ability to detect an intervention effect. We also included reactive TST as an
+ 
+<section> Author inclusion criterion to identify people with HIV at very high risk of active tuberculosis.
+ Global guidelines recommend tuberculosis preventive therapy for people with HIV in
+ high tuberculosis prevalence settings without TST, due to benefits of IPT in TST-negative
+ 
+<section> Manuscript individuals and the logistical challenges of TST interpretation. 8 Anecdotally, study staff
+ noted that some participants reported motivation to take IPT after seeing their reactive TSTs
+ at baseline, considering it evidence of tuberculosis infection in need of preventive therapy.
+ Our findings add to the literature of interventions to promote adherence to tuberculosis
+ preventive therapy. In a systematic review of such interventions, incentives had mixed
+ results in increasing tuberculosis preventive therapy adherence, whereas use of short-course
+ preventive therapy had positive effects. 6 Increasing availability of short-course therapy for
+ people with HIV in sub-Saharan Africa, including weekly isoniazid and rifapentine for
+ 12 weeks or daily isoniazid and rifapentine for 4 weeks, might improve adherence to
+ 
+<section> Author tuberculosis preventive therapy among people with HIV with hazardous alcohol use. Our
+ results suggest incentives for isoniazid use are unlikely to impact IPT adherence in this
+ population.
+ 
+<section> Manuscript
+ 
+<section> We did not find significant differences in grade 3 or higher hepatotoxicity by study group,
+ although point estimates of hepatotoxicity were lower in the alcohol intervention group and
+ closer to expected hepatotoxicity rates among non-drinkers (around 3–5%). 
+<section> 28 We excluded
+ individuals with abnormal transaminase levels (more than two times the upper limit of
+ normal) and conducted monthly liver function testing during IPT, limiting generalisability of
+ our findings to people with abnormal baseline transaminase levels or settings where no liver
+ function testing is available. Our observed hepatotoxicity levels are consistent with other
+ recent studies from sub-Saharan Africa, 
+<section> 29,30 suggesting isoniazid might not increase the risk
+ for serious toxicity under these circumstances.
+ 
+<section> Author
+ 
+<section> Our study has limitations. First, bottle opening might not reflect pill ingestion. Long-term
+ biomarkers of adherence, such as hair isoniazid measures, could provide a more accurate
+ 
+<section> Manuscript
+ 
+<section> adherence measure, and analyses of hair measures in this trial are underway. Second,
+ we did not conduct cost-effectiveness analyses. Our goal was to evaluate efficacy of the
+ interventions. Based on our findings, cost-effectiveness modelling of the alcohol reduction
+ intervention is merited. Third, our results might not be generalisable to people with
+ HIV with hazardous alcohol use offered short-course tuberculosis preventive therapy or
+ isoniazid for active tuberculosis treatment. However, there are substantial health benefits
+ to reduced alcohol use, and incentives to reduce alcohol use merit further evaluation for
+ other health outcomes where periods of low (or no) alcohol use are needed, such as
+ active tuberculosis treatment or pregnancy. Fourth, intervention masking was not possible.
+ 
+<section> Author This could have discouraged control (group 1) participants from decreasing alcohol use
+ or increasing isoniazid adherence. We think this was unlikely, given the high retention
+ across groups. Furthermore, the relatively high attention provided to group 1, with surveys,
+ 
+<section> Manuscript
+ 
+<section> liver function testing, MEMS cap measures, and counselling, compared with standard care,
+ would probably bias the results towards a null effect (ie, greater reduction in alcohol use
+ in our control group than in an unobserved control receiving standard care), suggesting
+ that we might have observed a conservative estimate of our alcohol intervention. Lastly,
+ Uganda’s national COVID-19 lockdown resulted in an 8-week period during which study 
+<section> activities were paused for a subset of participants. However, the lockdown did not result in
+ 
+<section> Author participants missing study procedures, apart from delayed refills of isoniazid. Our study also
+ has strengths, including a randomised controlled trial design, high trial retention, objective
+ measures of alcohol use and isoniazid pill bottle opening, and measures of fidelity to
+ 
+<section> Manuscript
+ 
+<section> intervention implementation.
+ 
+<section> In conclusion, escalating financial incentives contingent on reduced alcohol use led to
+ significantly lower biomarker-confirmed alcohol use, whereas incentives based on recent
+ isoniazid adherence did not lead to changes in isoniazid adherence, among people with HIV
+ with latent tuberculosis infection and hazardous alcohol use receiving IPT. Given the high
+ prevalence of heavy alcohol use among people with HIV in this setting, the positive effect of
+ our intervention is promising and merits further study and implementation.
+ 
+<section> Author 
+<section> Supplementary Material
+ 
+<section> Refer to Web version on PubMed Central for supplementary material.
+ 
+<section> Manuscript
+ 
+<section> Acknowledgments
+ 
+<section> We acknowledge the participants involved in the trial, as well as our research staff, data safety monitoring board
+ members, and the communities involved in this study. This study was supported by grants from the National
+ Institute of Alcohol Abuse and Alcoholism at the US National Institutes of Health: grants U01AA026223 (to JAH),
+ U01AA026221 (to GC), and K24 AA022586 (to JAH). The content is solely the responsibility of the authors and
+ does not represent the views of the National Institute of Alcohol Abuse and Alcoholism.
+ 
+<section> Data sharing
+ 
+<section> De-identified participant data that were collected for this study can be obtained by
+ 
+<section> Author contacting the corresponding author. Data will be made available, beginning with
+ publication, after approval of a short proposal summarising the analyses to be done.
+ 
+<section> Manuscript 
+<section> References
+ 
+<section> 1. WHO. Global status report on alcohol and health. Geneva: World Health Organization, 2018.
+ 2. Centers for Disease Control and Prevention. Uganda country profile https://www.cdc.gov/
+ globalhivtb/where-we-work/uganda/uganda.html (accessed Feb 2, 2023).
+ 3. UNAIDS. Country: Uganda. https://www.unaids.org/en/regionscountries/countries/uganda (accessed
+ April 4, 2023).
+ 4. Velloza J, Kemp CG, Aunon FM, Ramaiya MK, Creegan E, Simoni JM. Alcohol use and
+ antiretroviral therapy non-adherence among adults living with HIV/AIDS in sub-Saharan Africa:
+ a systematic review and meta-analysis. AIDS Behav 2020; 24: 1727–42. [PubMed: 31673913]
+ 5. Muyindike WR, Fatch R, Cheng DM, et al. Unhealthy alcohol use is associated with suboptimal
+ 
+<section> Author adherence to isoniazid preventive therapy in persons with HIV in Southwestern Uganda. J Acquir
+ 
+<section> Immune Defic Syndr 2022; 91: 460–68. [PubMed: 36044285]
+ 6. Stuurman AL, Vonk Noordegraaf-Schouten M, van Kessel F, Oordt-Speets AM, Sandgren A, van
+ 
+<section> Manuscript der Werf MJ. Interventions for improving adherence to treatment for latent tuberculosis infection: a
+ systematic review. BMC Infect Dis 2016; 16: 257. [PubMed: 27268103]
+ 7. Imtiaz S, Shield KD, Roerecke M, Samokhvalov AV, Lönnroth K, Rehm J. Alcohol consumption as
+ a risk factor for tuberculosis: meta-analyses and burden of disease. Eur Respir J 2017; 50: 1700216.
+ 8. WHO. WHO consolidated guidelines on tuberculosis: module 1: prevention—tuberculosis
+ preventive treatment. Geneva: World Health Organization, 2020. 
+<section> 9. Davis DR, Kurti AN, Skelly JM, Redner R, White TJ, Higgins ST. A review of the literature on
+ 
+<section> Author contingency management in the treatment of substance use disorders, 2009–2014. Prev Med 2016;
+ 
+<section> 92: 36–46. [PubMed: 27514250]
+ 10. McDonell MG, Hirchak KA, Herron J, et al. Effect of incentives for alcohol abstinence in
+ partnership with 3 American Indian and Alaska Native communities: a randomized clinical trial.
+ 
+<section> Manuscript
+ 
+<section> JAMA Psychiatry 2021; 78: 599–606. [PubMed: 33656561]
+ 11. Thirumurthy H, Ndyabakira A, Marson K, et al. Financial incentives for achieving and maintaining
+ viral suppression among HIV-positive adults in Uganda: a randomised controlled trial. Lancet HIV
+ 
+<section> 2019; 6: e155–63. [PubMed: 30660594]
+ 12. Petry NM, Rash CJ, Byrne S, Ashraf S, White WB. Financial reinforcers for improving medication
+ adherence: findings from a meta-analysis. Am J Med 2012; 125: 888–96. [PubMed: 22800876]
+ 13. Kendall EA, Durovni B, Martinson NA, et al. Adherence to tuberculosis preventive therapy
+ measured by urine metabolite testing among people with HIV. AIDS 2020; 34: 63–71. [PubMed:
+ 
+<section> 31567163]
+ 14. Lodi S, Emenyonu NI, Marson K, et al. The Drinkers’ Intervention to Prevent Tuberculosis (DIPT)
+ trial among heavy drinkers living with HIV in Uganda: study protocol of a 2×2 factorial trial.
+ 
+<section> Author Trials 2021; 22: 355. [PubMed: 34016158]
+ 15. Lowe JM, McDonell MG, Leickly E, et al. Determining ethyl glucuronide cutoffs when detecting
+ self-reported alcohol use in addiction treatment patients. Alcohol Clin Exp Res 2015; 39: 905–10.
+ 
+<section> Manuscript 
+<section> [PubMed: 25866234]
+ 16. Bradley KA, DeBenedetti AF, Volk RJ, Williams EC, Frank D, Kivlahan DR. AUDIT-C as a brief
+ screen for alcohol misuse in primary care. Alcohol Clin Exp Res 2007; 31: 1208–17. [PubMed:
+ 
+<section> 17451397]
+ 17. Jones J, Jones M, Plate C, Lewis D. The detection of 1-palmitoyl-2-oleoyl-sn-glycero-3-
+ phosphoethanol in human dried blood spots. Anal Methods 2011; 3: 1101.
+ 18. Guerra RL, Conde MB, Efron A, et al. Point-of-care Arkansas method for measuring adherence to
+ treatment with isoniazid. Respir Med 2010; 104: 754–57. [PubMed: 20202806]
+ 19. Romanowich P, Lamb RJ. The effects of fixed versus escalating reinforcement schedules on
+ smoking abstinence. J Appl Behav Anal 2015; 48: 25–37. [PubMed: 25640764]
+ 20. Helander A, Hansson T. [National harmonization of the alcohol biomarker PEth]. Lakartidningen
+ 
+<section> Author 2013; 110: 1747–48. [PubMed: 24245431]
+ 21. Luginbühl M, Wurst FM, Stöth F, Weinmann W, Stove CP, Van Uytfanghe K. Consensus for the
+ use of the alcohol biomarker phosphatidylethanol (PEth) for the assessment of abstinence and
+ 
+<section> Manuscript alcohol consumption in clinical and forensic practice (2022 Consensus of Basel). Drug Test Anal
+ 
+<section> 2022; 14: 1800–02. [PubMed: 35851997]
+ 22. Francis JM, Cook S, Morojele NK, Swahn MH. Rarity and limited geographical coverage of
+ individual level alcohol interventions in sub Saharan Africa: findings from a scoping review. J
+ Subst Use 2020; 25: 11–19.
+ 23. Madhombiro M, Kidd M, Dube B, et al. Effectiveness of a psychological intervention delivered
+ by general nurses for alcohol use disorders in people living with HIV in Zimbabwe: a cluster
+ randomized controlled trial. J Int AIDS Soc 2020; 23: e25641. [PubMed: 33314786]
+ 24. Papas RK, Gakinya BN, Mwaniki MM, et al. A randomized clinical trial of a group
+ cognitive-behavioral therapy to reduce alcohol use among human immunodeficiency virus-infected
+ outpatients in western Kenya. Addiction 2021; 116: 305–18. [PubMed: 32422685]
+ 25. Hahn JA, Fatch R, Emenyonu NI, et al. Effect of two counseling interventions on self-reported
+ 
+<section> Author
+ 
+<section> alcohol consumption, alcohol biomarker phosphatidylethanol (PEth), and viral suppression among
+ persons living with HIV (PWH) with unhealthy alcohol use in Uganda: a randomized controlled
+ trial. Drug Alcohol Depend 2023; 244: 109783. [PubMed: 36706675]
+ 
+<section> Manuscript 26. Huis In ‘t Veld D, Ensoy-Musoro C, Pengpid S, Peltzer K, Colebunders R. The efficacy of a brief
+ intervention to reduce alcohol use in persons with HIV in South Africa, a randomized clinical trial.
+ 
+<section> PLoS One 2019; 14: e0220799. [PubMed: 31430313]
+ 27. Magidson JF, Joska JA, Belus JM, et al. Project Khanya: results from a pilot randomized type
+ 1 hybrid effectiveness-implementation trial of a peer-delivered behavioural intervention for ART 
+<section> adherence and substance use in HIV care in South Africa. J Int AIDS Soc 2021; 24 (suppl 2):
+ 
+<section> Author e25720. [PubMed: 34164935]
+ 28. National Institute of Diabetes and Digestive and Kidney Diseases. Isoniazid. In: LiverTox:
+ clinical and research information on drug-induced liver injury. Bethesda, MD: National Institute
+ of Diabetes and Digestive and Kidney Diseases, 2012. https://www.ncbi.nlm.nih.gov/books/
+ 
+<section> Manuscript
+ 
+<section> NBK548754/ (accessed April 4, 2023).
+ 29. Nanyonga SM, Kitutu FE, Kalyango J, Frank M, Kiguba R. High burden of adverse drug reactions
+ to isoniazid preventive therapy in people living with HIV at 3 tertiary hospitals in Uganda:
+ associated factors. J Acquir Immune Defic Syndr 2022; 89: 215–21. [PubMed: 34693930]
+ 30. Ngongondo M, Miyahara S, Hughes MD, et al. Hepatotoxicity during isoniazid preventive therapy
+ and antiretroviral therapy in people living with HIV with severe immunosuppression: a secondary
+ analysis of a multi-country open-label randomized controlled clinical trial. J Acquir Immune Defic
+ 
+<section> Syndr 2018; 78: 54–61. [PubMed: 29406428]
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript 
+<section> Research in context
+ 
+<section> Author
+ 
+<section> Evidence before this study
+ 
+<section> Manuscript Alcohol use, a major contributor to morbidity and mortality globally, is common among
+ people living with HIV and is a risk factor for tuberculosis. Sub-Saharan Africa has the
+ highest burden of disease and injury attributable to alcohol use, as well as the highest
+ prevalence of HIV and tuberculosis co-infection, worldwide. Hazardous alcohol use
+ contributes to worse HIV and tuberculosis outcomes due to non-adherence to isoniazid
+ preventive therapy (IPT) and antiretroviral therapy (both of which significantly reduce
+ the risk of tuberculosis disease among people with HIV) and hepatotoxicity during
+ IPT. Interventions are urgently needed to reduce hazardous alcohol use and improve
+ IPT adherence among people with HIV. We searched PubMed on June 14, 2023,
+ for literature on interventions to reduce hazardous alcohol use in sub-Saharan Africa,
+ 
+<section> Author
+ 
+<section> using the search terms (alcohol AND intervention AND Africa AND HIV), as well
+ as (alcohol AND [contingency management OR incentive] AND Africa AND HIV),
+ without language or date restrictions. We also searched PubMed on June 14, 2023, for
+ 
+<section> Manuscript
+ 
+<section> literature on interventions to increase adherence to tuberculosis preventive therapy, using
+ the search terms ([tuberculosis preventive therapy OR isoniazid preventive therapy] AND
+ adherence AND intervention), without language or date restrictions. To date, strategies
+ to reduce hazardous alcohol use in sub-Saharan Africa have relied on counselling-based
+ interventions with mixed success. In addition, alcohol use is frequently under-reported
+ which can lead to spurious results: only a few of these previous alcohol intervention
+ studies included an objective alcohol use measure as part of their main alcohol outcomes,
+ which possibly explains the mixed findings. To our knowledge, incentive-based strategies
+ to treat alcohol use have not previously been evaluated in sub-Saharan Africa. Similarly,
+ 
+<section> Author data supporting incentives to promote tuberculosis preventive therapy adherence are
+ limited, despite evidence that adherence to IPT is a challenge. In a 2016 systematic
+ review, mixed results were found for the use of incentives to promote tuberculosis
+ 
+<section> Manuscript
+ 
+<section> preventive therapy. Like alcohol use, tuberculosis preventive therapy studies are subject
+ to reporting biases, including overestimation of adherence when relying on self-report.
+ Whether incentive-based interventions can improve IPT adherence remains unknown.
+ 
+<section> Added value of this study
+ 
+<section> In this 2 × 2 factorial randomised trial that enrolled adults with HIV–tuberculosis
+ co-infection and hazardous alcohol use initiating a 6-month course of IPT in Uganda,
+ escalating financial incentives contingent on recent alcohol abstinence led to significantly
+ lower biomarker-confirmed alcohol use compared with no incentives. In contrast,
+ 
+<section> Author escalating incentives contingent on adherence to isoniazid did not lead to significant
+ increases in isoniazid use, as measured by electronic pill bottle opening monitoring.
+ The alcohol reduction intervention was efficacious despite less intensive frequency of
+ 
+<section> Manuscript
+ 
+<section> incentives and clinic visits than traditional contingency management programmes for
+ substance use, suggesting that pragmatic modifications of contingency management for
+ resource-limited settings can have efficacy. Our study is one of the first studies to show a
+ biomarker-confirmed effect of an intervention on alcohol use among people with HIV in
+ sub-Saharan Africa. 
+<section> Implications of all the available evidence
+ 
+<section> Author
+ 
+<section> To date, published interventions to reduce hazardous alcohol use in sub-Saharan Africa
+ have focused on counselling-based interventions, with mixed results, due in part to
+ 
+<section> Manuscript limited use of objective alcohol use measures. Our study demonstrates that escalating
+ financial incentives contingent on recent alcohol abstinence (a pragmatic modification
+ to traditional, more intensive, contingency management interventions) are efficacious in
+ lowering biomarker-confirmed alcohol use, adding a novel alcohol reduction intervention
+ for use in resource-limited settings to the literature. Despite an intervention effect,
+ a large proportion of participants continued to drink at hazardous levels, and more
+ work is needed, including evaluation of combination intervention approaches, to reduce
+ hazardous alcohol use. In addition, our study adds to mixed evidence in the literature on
+ the efficacy of incentive interventions to promote adherence to tuberculosis preventive
+ therapy. Our results suggest that incentives are not efficacious in increasing adherence to
+ 
+<section> Author
+ 
+<section> IPT, and other interventions are needed to support adherence to tuberculosis preventive
+ therapy among people with HIV at high risk of tuberculosis, including those with
+ 
+<section> Manuscript 
+<section> hazardous alcohol use.
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript 
+<insert> Figure 1: Trial profile
+ Author
+ EtG=ethyl glucuronide. TST=tuberculin skin test. ART=antiretroviral therapy. ALT=alanine
+ aminotransferase. AST=aspartate aminotransferase. ULN=upper limit of normal. AUDIT-
+ C=Alcohol Use Disorders Identification Test—Consumption. MEMS=medication event
+ monitoring system. *The individual numbers in this category do not add up to 4660 because
+ the 4660 ineligible individuals could have more than one reason for inegibility. 
+<iend>
+
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Manuscript 
+<insert> Figure 2: Primary endpoints
+ In the graphs, error bars show 95% CIs. Below the graphs, data in parentheses are 95%
+ CIs. PEth=phosphatidylethanol. AUDIT-C=Alcohol Use Disorders Identification Test—
+ Consumption. MEMS=medication event monitoring system. NA=not applicable. *p values
+ based on multivariable models controlling for sex, site, and other intervention group. 
+<iend>
+
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript 
+<insert> Figure 3: Proportion of participants receiving incentives for negative point-of-care urine EtG
+ tests and positive point-of-care urine isoniazid tests at each visit
+ Author
+ (A) Proportion of participants assigned to the alcohol intervention (groups 2 and 4) with
+ negative urine EtGs at each study visit (indicative of no recent drinking). (B) Proportion
+ of participants assigned to the isoniazid adherence intervention (groups 3 and 4) with
+ positive urine IsoScreen at each study visit (indicative of recent isoniazid use). EtG=ethyl
+ glucuronide. 
+<iend>
+
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript 
+<section> 000) 
+<section> (86·5–578·5)
+ 
+<section> (n=680) 
+<section> (30·9%) 
+<section> (69·1%) 
+<section> (32–47) 
+<section> (15·7%) 
+<section> (43·7%) 
+<section> (20·0%) 
+<section> (20·6%) 
+<section> (58·1%) 
+<section> (33·8%) 
+<section> (8·1%) 
+<section> (36·6%) 
+<section> (15·7%) 
+<section> (44·9%) 
+<section> (2·8%) 
+<section> (3000–10 (4–8) 
+<section> (76·4%) 
+<section> (3–8) 
+<section> (9·8%) 
+<section> (90·2%)
+ 
+<section> Author 
+<section> Overall 210 470 39 107 297 136 140 395 230 55 249 107 305 19 
+<section> 5000 251·5 6 516 5 65 598
+ 
+<section> (n=172)
+ 
+<section> Manuscript
+ 
+<section> for 
+<section> and 
+<section> 000) 
+<section> (75·0–469·5)
+ 
+<section> 4—Incentives 
+<section> abstinence adherence (30·8%) 
+<section> (69·2%) 
+<section> (31–46) 
+<section> (16·3%) 
+<section> (45·4%) 
+<section> (18·6%) 
+<section> (19·8%) 
+<section> (55·2%) 
+<section> (36·1%) 
+<section> (8·7%) 
+<section> (37·8%) 
+<section> (16·9%) 
+<section> (41·9%) 
+<section> (3·5%) 
+<section> (3000–10 (4–8) 
+<section> (76·0%) 
+<section> (3–9) 
+<section> (9·6%) 
+<section> (90·4%)
+ 
+<section> isoniazid 
+<section> 53 119 39 28 78 32 34 95 62 15 65 29 72 6 
+<section> 5000 219·0 6 130 5 16 150
+ 
+<section> Group alcohol
+ 
+<section> (n=170)
+ 
+<section> for 
+<section> 000) 
+<section> (95·0–597·0)
+ 
+<section> Author 
+<section> 3—Incentives adherence (31·2%) 
+<section> (68·8%) 
+<section> (32–48) 
+<section> (15·3%) 
+<section> (33·5%) 
+<section> (27·7%) 
+<section> (23·5%) 
+<section> (63·5%) 
+<section> (29·4%) 
+<section> (7·1%) 
+<section> (38·2%) 
+<section> (15·9%) 
+<section> (44·1%) 
+<section> (1·8%) 
+<section> (3000–10 (4–8) 
+<section> (75·2%) 
+<section> (2–8) 
+<section> (7·8%) 
+<section> (92·2%)
+ 
+<section> isoniazid 
+<section> 53 117 40 26 57 47 40 108 50 12 65 27 75 3 
+<section> 5000 249·5 6 127 5 13 154
+ 
+<section> Group
+ 
+<section> Manuscript
+ 
+<section> (n=169)
+ 
+<section> 1: 
+<section> for 
+<section> 000) 
+<section> (66·0–529·0)
+ 
+<section> Table 2—Incentives 
+<section> abstinence (31·4%) 
+<section> (68·6%) 
+<section> (32–46) 
+<section> (16·0%) 
+<section> (45·6%) 
+<section> (18·9%) 
+<section> (19·5%) 
+<section> (60·4%) 
+<section> (30·8%) 
+<section> (8·9%) 
+<section> (38·5%) 
+<section> (13·0%) 
+<section> (45·0%) 
+<section> (3·6%) 
+<section> (3000–10 (4–8) 
+<section> (75·5%) 
+<section> (3–8) 
+<section> (10·8%) 
+<section> (89·2%)
+ 
+<section> 53 116 38 27 77 32 33 102 52 15 65 22 76 6 
+<section> 5000 243·0 6 126 5 18 148
+ 
+<section> Group alcohol
+ 
+<section> Author
+ 
+<section> 000) 
+<section> (96·0–673·0)
+ 
+<section> 1—Control 
+<section> (30·2%) 
+<section> (69·8%) 
+<section> (33–46) 
+<section> (15·4%) 
+<section> (50·3%) 
+<section> (14·8%) 
+<section> (19·5%) 
+<section> (53·3%) 
+<section> (39·1%) 
+<section> (7·7%) 
+<section> (32·0%) 
+<section> (17·2%) 
+<section> (48·5%) 
+<section> (2·4%) 
+<section> (3000–10 (4–8) 
+<section> (79·2%) 
+<section> (3–9) 
+<section> (11·0%) 
+<section> (89·0%)
+ 
+<section> Manuscript
+ 
+<section> Group (n=169) 
+<section> 51 118 40 26 85 25 33 90 66 13 54 29 82 4 
+<section> 5000 333·0 6 133 5 18 146
+ 
+<section> characteristics 
+<section> together 
+<section> or 
+<section> ng/mL drinking 
+<section> per 
+<section> copies
+ 
+<section> (n=673)
+ 
+<section> school 
+<section> widowed 
+<section> living 
+<section> shillings 
+<section> months) 
+<section> ≥200 
+<section> (PEth 
+<section> of 
+<section> number (n=646) 
+<section> <40 
+<section> (RNA
+ 
+<section> participant school 
+<section> or not
+ 
+<section> Author 
+<section> attainment 
+<section> school 
+<section> primary separated, 
+<section> and employment 
+<section> Uganda 
+<section> 3 
+<section> (past use follow-back: weeks suppressed
+ 
+<section> Manuscript 
+<section> Baseline 
+<section> Sex 
+<section> Female 
+<section> Male 
+<section> years 
+<section> Age, 
+<section> Educational 
+<section> None 
+<section> primary 
+<section> Any 
+<section> Completed 
+<section> secondary 
+<section> Any 
+<section> status 
+<section> Marital 
+<section> Married 
+<section> Divorced, 
+<section> married 
+<section> Never 
+<section> Occupation 
+<section> Business 
+<section> Paid 
+<section> Agricultural 
+<section> Unemployed 
+<section> wage, 
+<section> Daily 
+<section> ng/mL 
+<section> PEth, 
+<section> score 
+<section> AUDIT-C 
+<section> alcohol 
+<section> High-risk 
+<section> ≥6) 
+<section> AUDIT-C Timeline 
+<section> 2 
+<section> past 
+<section> over 
+<section> days 
+<section> virally 
+<section> HIV 
+<section> (n=663) 
+<section> mL) No 
+<section> Yes 
+<section> Test—Consumption.
+ 
+<section> Author
+ 
+<section> Identification
+ 
+<section> Manuscript
+ Disorders
+ 
+<section> Use
+ AUDIT-C=Alcohol
+ 
+<section> PEth=phosphatidylethanol.
+ 
+<section> Author
+ Manuscript
+ 
+<section> (IQR).
+ median
+ or
+ (%)
+ n
+ are
+ Data
+ Author
+ Manuscript
+ Author
+ Manuscript 
+<section> value 
+<section> 0·089 
+<section> 0·0084 
+<section> 0·0094 
+<section> 0·12 
+<section> 0·011 
+<section> 0·030
+ 
+<section> p
+ 
+<section> Author (95%
+ 
+<section> difference 21·6) 
+<section> 11·2) 
+<section> 19·5) 
+<section> 8·7) 
+<section> 32·6) 
+<section> 9·2)
+ 
+<section> Manuscript 
+<section> to (−1·5 to (1·7 to (2·7 to (−1·0 to (4·1 to (0·5
+ 
+<section> risk 10·0% 6·4% 11·1% 3·9% 18·4% 4·8%
+ 
+<section> Adjusted
+ 
+<section> Test—Consumption.
+ 
+<section> CI)
+ 
+<section> group
+ 
+<section> incentive
+ 
+<section> at
+ 
+<section> AUDIT-C)
+ 
+<section> Identification
+ 
+<section> alcohol 31·9) 
+<section> 7·9) 
+<section> 23·4) 
+<section> 7·5) 
+<section> 40·5) 
+<section> 7·6)
+ 
+<section> Author non-hazardous to 15·2 to 2·2 
+<section> to 11·6 to 1·3 to 19·0 to 2·2
+ 
+<section> by (22·4%; (4·2%; (16·7%; (3·2%; (28·6%; (4·1%; Disorders
+ 
+<section> 3)
+ 
+<section> Manuscript 
+<section> use) 
+<section> alcohol and 
+<section> and 
+<section> 1 (groups 22/98 9/215 26/156 5/157 20/70 10/241 Use
+ 
+<section> ng/mL AUDIT-C=Alcohol
+ 
+<section> 2: 
+<section> Table (non-hazardous <35 Control
+ 
+<section> (PEth
+ 
+<section> use PEth=phosphatidylethanol.
+ 
+<section> alcohol
+ 
+<section> outcome
+ 
+<section> non-hazardous
+ 
+<section> Author 43·3) 
+<section> 15·5) 
+<section> 35·1) 
+<section> 12·3) 
+<section> 55·0) 
+<section> 13·5)
+ 
+<section> use to 24·6 to 7·3 to 21·4 to 3·9 to 32·8 to 6·0
+ 
+<section> Manuscript 
+<section> alcohol with 4) 
+<section> and (33·3%; (10·7%; (27·7%; (7·0%; (43·6%; (9·1%; CI).
+ 
+<section> 95%
+ 
+<section> primary proportion months 
+<section> 2 (groups 33/99 24/224 46/166 11/157 34/78 22/242 (%;
+ 
+<section> n/N
+ 
+<section> Unadjusted 6 and Intervention are
+ 
+<section> of 
+<section> analyses months data
+ 
+<section> columns,
+ 
+<section> subgroup AUDIT- 
+<section> proportion
+ 
+<section> Author use 
+<section> alcohol 
+<section> and 
+<section> ng/mL or ng/mL unadjusted
+ 
+<section> Prespecified
+ 
+<section> <6
+ 
+<section> Manuscript 
+<section> Sex 
+<section> Female 
+<section> Male 
+<section> Site 
+<section> Rural 
+<section> Urban 
+<section> Baseline <200 
+<section> PEth 
+<section> AUDIT-C ≥200 
+<section> PEth ≥6 
+<section> the
+ 
+<section> C For 
+<insert> Table 3:
+ Author
+ Manuscript
+ Hepatotoxicity resulting in isoniazid discontinuation, and serious adverse events
+ Group
+ (n=169)
+ Group 2 (n=169) Group
+ (n=170)
+ Group
+ (n=172)
+ Total (n=680)
+ Adverse events
+ All grade 3 and higher adverse events 18 (10·7%) 14 (8·3%) 25 (14·7%) 13 (7·6%) 70 (10·3%)
+ Hepatotoxicity resulting in isoniazid
+ discontinuation (grade 3 or higher
+ hepatotoxicity) *
+ 13 (7·7%) 10 (5·9%) 15 (8·8%) 9 (5·2%) 47 (6·9%)
+ Other grade 3 or higher adverse events
+ resulting in isoniazid discontinuation (ie, not
+ due to hepatotoxicity)
+ 1 (0·6%) 2 (1·2%) 3 (1·8%) 6 (0·1%)
+ 3 (1·8%) 2 (1·2%) 3 (1·8%) † (1·7%) 11 (1·6%)
+ 1 (0·6%) 2 (1·2%) 2 (1·2%) 1 (0·6%) 6 (0·9%)
+ ‡ (0·6%) 1 (0·1%)
+ Death § 1 (0·6%) 4 (2·4%) 5 (0·7%)
+ Total serious adverse events 5 (3·0%) 5 (3·0%) 9 (5·3%) 4 (2·3%) 23 (3·4%)
+ Serious adverse events
+ Severe hepatotoxicity (grade 4)
+ Hospitalisation
+ Author
+ Manuscript
+ Unrelated to isoniazid
+ Possibly related to isoniazid
+ *
+ Grade 3 hepatotoxicity defined by laboratory or clinical criteria as alanine aminotransferase or aspartate aminotransferase elevation ≥5 (but <10)
+ times the upper limit of normal or symptoms consistent with hepatotoxicity; and grade 4 as ≥10 times the upper limit of normal or potentially
+ life-threatening symptoms.
+ †
+ Two participants with severe hepatotoxicity diagnosed upon or after completing course of isoniazid.
+ ‡
+ Acute psychosis attributed to alcohol withdrawal-associated delirium.
+ §
+ Author
+ Causes of death: group 1—one participant with oesophageal cancer; group 3—one participant with haemorrhagic pancreatitis with pneumonia;
+ one participant with active tuberculosis disease; one participant with sepsis; one participant died of unknown cause (participant had completed
+ isoniazid). 
+<iend>
+
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript

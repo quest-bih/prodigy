@@ -1,0 +1,1497 @@
+
+<section> Hepcidin-guided screen-and-treat interventions
+ 
+<section> iron-deficiency anaemia in pregnancy:
+ 
+<section> controlled trial in The Gambia
+ 
+<section> Amat Bah, Abdul Khalie Muhammad, Rita Wegmuller, Hans Verhoef, Morgan M Goheen,
+ Sant-Rayn Pasricha, Andrew E Armitage, Hal Drakesmith, James H Cross, Sophie E Moore,
+ 
+<section> Summary
+ 
+<section> Background WHO recommends daily iron supplementation for pregnant
+ side-effects, effectiveness is low, and there are concerns about possible
+ can signal when an individual is ready-and-safe to receive iron. We tested
+ approach to combat iron-deficiency anaemia could achieve equivalent
+ lower exposure to iron.
+ 
+<section> Methods We did a three-arm, randomised, double-blind, non-inferiority
+ and Kiang East districts of The Gambia. Eligible participants were
+ 14 weeks and 22 weeks of gestation. We randomly allocated women
+ (ie, a daily UN University, UNICEF, and WHO international multiple-micronutrient
+ containing 60 mg iron), a 60 mg screen-and-treat approach (ie, daily
+ weekly hepcidin was <2·5 µg/L or UNIMMAP without iron if hepcidin
+ approach (ie, daily UNIMMAP containing 30 mg iron for 7 days if
+ without iron if hepcidin was ≥2·5 µg/L). We used a block design stratified
+ (above and below the median amount of haemoglobin on every enrolment
+ 19–22 weeks). Participants and investigators were unaware of the random
+ amount of haemoglobin at day 84 and was measured as the difference
+ compared with WHO’s recommended regimen; the non-inferiority
+ was assessed in the per-protocol population, which comprised all
+ registered with the ISRCTN registry, number ISRCTN21955180.
+ 
+<section> Findings Between June 16, 2014, and March 3, 2016, 498 participants
+ WHO’s recommended regimen, 166 were allocated to the 60 mg
+ allocated to the 30 mg per day screen-and-treat approach. 78 participants
+ study; thus, the per-protocol population comprised 140 women assigned
+ to the 60 mg screen-and-treat approach, and 147 allocated to the 30 mg
+ approaches did not exceed the non-inferiority margin. Compared with
+ in the amount of haemoglobin at day 84 was –2·2 g/L (95% CI –4·6
+ and –2·7 g/L (–5·0 to –0·5) with the 30 mg screen-and-treat approach.
+ events were similar between the three groups. The most frequent side-effect
+ the 60 mg screen-and-treat group (82 cases per 1906 person-weeks) and
+ per 1974 person-weeks; effect 1·0, 95% CI 0·7 to 1·6); in the 30
+ stomachache was slightly lower than with WHO’s recommended
+ 0·7, 95% CI 0·5 to 1·1). No participants died during the study.
+ 
+<section> Interpretation The hepcidin-guided screen-and-treat approaches had
+ regimen in terms of adherence, side-effects, or safety outcomes. Our
+ iron administration to pregnant women should remain unchanged
+ 
+<section> sought.
+ 
+<section> Funding Bill & Melinda Gates Foundation and the UK Medical Research
+ 
+<section> Copyright © 2019 The Author(s). Published by Elsevier Ltd. This is an
+ 
+<section> Introduction 
+<section> an estimated
+ Iron deficiency and associated anaemia is the most of years
+ prevalent micronutrient deficiency worldwide, affecting Africa
+ 
+<section> Articles
+ 
+<section> against
+ 
+<section> a randomised
+ 
+<section> Saikou Sanyang, Ebrima Danso, Ebrima A Sise,
+ 
+<section> Carla Cerami, Andrew M Prentice
+ 
+<section> women, but adherence is poor because of Lancet Glob Health 2019;
+ harm. The iron-regulatory hormone hepcidin 7: e1564–74
+ whether a hepcidin-guided screen-and-treat See 
+<section> Comment page e1476
+ efficacy to universal administration, but with Medical Research Council (MRC)
+ 
+<section> Unit The Gambia at London
+ 
+<section> School of Hygiene & Tropical
+ 
+<section> Medicine (LSHTM), Serrekunda,
+ trial in 19 rural communities in the Jarra West The Gambia (A Bah PhD,
+ pregnant women aged 18–45 years at between A K Muhammad MSc,
+ to either WHO’s recommended regimen R Wegmuller PhD,
+ M M Goheen MD, S Sanyang BSc,
+ 
+<section> preparation [UNIMMAP] E Danso BSc, E A Sise BSc,
+ 
+<section> UNIMMAP containing 60 mg iron for 7 days if J H Cross BSc, S E Moore PhD,
+ was ≥2·5 µg/L), or a 30 mg screen-and-treat C Cerami MD,
+ weekly hepcidin was <2·5 µg/L or UNIMMAP Prof A M Prentice PhD); 
+<section> Division
+ 
+<section> of Human Nutrition and Health,
+ by amount of haemoglobin at enrolment Wageningen University,
+ day) and stage of gestation (14–18 weeks vs 
+<section> Wageningen, Netherlands
+ allocation. The primary outcome was the (H Verhoef PhD); 
+<section> Population
+ in haemoglobin in each screen-and-treat group Health and Immunity Division,
+ 
+<section> The Walter and Eliza Hall
+ margin was set at –5·0 g/L. The primary outcome Institute of Medical Research,
+ women who completed the study. This trial is and Department of Medical
+ 
+<section> Biology, University of
+ 
+<section> Melbourne, Melbourne, VIC,
+ 
+<section> Australia (S-R Pasricha MD);
+ were randomised, of whom 167 were allocated to MRC Human Immunology Unit,
+ per day screen-and-treat approach, and 165 were MRC Weatherall Institute of
+ were withdrawn or lost to follow-up during the Molecular Medicine, University
+ to WHO’s recommended regimen, 133 allocated of Oxford, John Radcliffe
+ 
+<section> Hospital, Oxford, UK
+ 
+<section> screen-and-treat approach. The screen-and-treat (A E Armitage PhD,
+ 
+<section> WHO’s recommended regimen, the difference Prof H Drakesmith PhD); 
+<section> LSHTM,
+ to 0·1) with the 60 mg screen-and-treat approach London, UK (A Bah, H Verhoef,
+ 
+<section> Adherence, reported side-effects, and adverse J H Cross, C Cerami,
+ 
+<section> Prof A M Prentice); 
+<section> GroundWork,
+ was stomachache, which was similar in Flaesch, Switzerland
+ with WHO’s recommended regimen (81 cases (R Wegmuller); 
+<section> University of
+ mg screen-and-treat group the frequency of North Carolina at Chapel Hill
+ regimen (58 cases per 2009 person-weeks; effect School of Microbiology of Medicine, and Department
+ 
+<section> Immunology, Chapel Hill, NC,
+ 
+<section> USA (M M Goheen); and
+ no advantages over WHO’s recommended Department of Women &
+ 
+<section> Children’s Health, King’s College
+ results suggest that the current WHO policy for London, St Thomas’ Hospital,
+ while more effective approaches continue to be London, UK (S E Moore)
+ 
+<section> Correspondence to:
+ 
+<section> Prof Andrew M Prentice, Medical
+ 
+<section> Council. Research Council Unit The Gambia
+ 
+<section> at London School of Hygiene &
+ 
+<section> Tropical Medicine, Serrekunda,
+ 
+<section> Open Access article under the CC BY 4.0 license. The Gambia
+ 
+<section> aprentice@mrc.gm
+ 
+<section> 1·24 billion people. 1 It is the leading cause
+ lived with disability in most of sub-Saharan
+ and many parts of Asia. 1 WHO recommends 
+<section> Articles
+ 
+<section> Research in context
+ 
+<section> Evidence before this study
+ Based on regularly updated meta-analyses, WHO recommends
+ that pregnant women should take supplements containing
+ 30–60 mg elemental iron and 400 μg folic acid daily to
+ prevent maternal anaemia, puerperal sepsis, low birthweight,
+ and preterm birth. If daily supplementation is not acceptable
+ because of side-effects, weekly supplementation with 120 mg
+ iron and 2800 μg folic acid is a suitable alternative in settings
+ where the prevalence of anaemia is less than 20%. Side-effects
+ are frequently reported, however, and contribute to poor
+ adherence. An additional concern is that iron might
+ predispose to gestational diabetes, pre-eclampsia, and
+ infections. We reasoned that a screen-and-treat approach to
+ combat anaemia in pregnancy would be advantageous if it
+ could achieve efficacy that was equivalent to or better than
+ that achieved by WHO’s recommendations, but at a lower
+ overall dose of iron and with fewer side-effects.
+ 
+<section> Added value of this study
+ We did a double-blind randomised trial to test two
+ hepcidin-guided screen-and-treat approaches against the
+ universal daily iron and folic acid supplementation in
+ pregnancy, 2 based on evidence from a Cochrane review
+ that it provides maternal and neonatal health benefits
+ such as prevention of maternal anaemia, puerperal
+ sepsis, low birthweight, and preterm birth. The reco-​
+ mmended daily dose is 30–60 mg elemental iron, with a
+ preferred dose of 60 mg per day in countries where
+ anaemia prevalence exceeds 40%. 2 In low-income and
+ middle-income countries (LMICs), iron and folic acid
+ supplementation has great benefits for iron-deficient
+ women 4 and is increasingly being combined in multiple
+ micronutrient formulations. 5 However, even when
+ supplements are made available, implementation of a
+ daily supplementation policy in LMICs is highly variable
+ and adherence to a daily regimen is poor, 4–7 attributable in
+ large part to common gastrointestinal side-effects such as
+ constipation, nausea, vomiting, black stools, and epigastric
+ discomfort. 8,9 WHO subsequently recommended inter-​
+ mittent supplementation if daily iron caused side-
+ effects. 10,11 Concerns have also been reported that iron
+ supplementation can predispose to haemoconcentration
+ and gestational diabetes. 12 In low-income settings, an
+ additional possibility is that iron supplementation
+ might increase gastrointestinal and other infections,
+ particularly malaria. Anaemia and low iron status are
+ associated with protection against falciparum malaria in
+ pregnant women, 13,14 and there are clear pathways by
+ which iron administration abrogates this protection.
+ Thus, lowering the dose of supplemental iron could be
+ beneficial if it could be achieved without compromising
+ efficacy.
+ 
+<section> See 
+<section> Online for appendix We reasoned that hepcidin, the hepatic iron-
+ regulatory peptide that acts as a master regulator of
+ standard-of-care 60 mg per day regimen. We calculated a
+ threshold for the iron-regulatory hormone hepcidin that would
+ indicate whether a participant was ready-and-safe to receive
+ iron. Our study is, to the best of our knowledge, the first to
+ assess hepcidin-guided antenatal iron supplementation.
+ The weekly screen-and-treat approach was non-inferior to the
+ standard-of-care regimen. No evidence was found that the
+ screen-and-treat approach was safer with respect to adverse
+ events or ex-vivo tests of Plasmodium falciparum growth in
+ red blood cells or sentinel bacterial growth in plasma.
+ 
+<section> Implications of all the available evidence
+ We were unable to show any clear advantages of a
+ hepcidin-guided screen-and-treat approach to maternal iron
+ supplementation over current WHO recommendations.
+ These data and other available evidence suggest that efforts
+ should be directed towards developing low-cost iron
+ supplements with better side-effect profiles to help overcome
+ poor adherence that currently undermines antenatal
+ iron-supplementation programmes.
+ 
+<section> iron metabolism, could signal when women are
+ ready-and-safe to receive iron and, hence, could form
+ the basis of a screen-and-treat iron and folic acid
+ supplementation regimen. Hepcidin is the homoeo­
+ static regulator of body iron absorption, distribution,
+ and metabolism. 16 Circulating hepcidin is suppressed
+ during iron deficiency, anaemia, and increased erythro­
+ poiesis, and amounts of hepcidin are increased by high
+ levels of iron in serum and the liver and during
+ infection and inflammation. 17 By integrating these
+ competing signals, a low amount of hepcidin indicates
+ when the body is iron-deficient 18,19 and will efficiently
+ absorb iron. 20 Conversely, raised amounts of hepcidin
+ would block duodenal iron absorption thereby ren­
+ dering supplementation ineffective and exposing the
+ gut microbiota to unnecessary iron that could cause
+ dysbiosis and side-effects.
+ We postulated that a hepcidin-guided screen-and-
+ treat approach to iron supplementation would be
+ non-inferior to WHO’s recommended universal daily
+ supplemen­ tation. Moreover, by lowering the total
+ exposure to iron, we thought that this screen-and-treat
+ approach might lead to better adherence and an
+ improved side-effect and safety profile. Therefore, we
+ designed the Hepcidin and Anaemia in Pregnancy
+ (HAPn) study, a 12-week ran­ domised, double-blind,
+ non-inferiority trial in pregnant women from The
+ Gambia, to assess these ideas.
+ 
+<section> Methods
+ 
+<section> Study design
+ 
+<section> Full details of the study design are in the appendix (pp 1, 2)
+ and the published trial protocol. 22 The HAPn study 
+<section> is a randomised, double-blind, proof-of-concept, non- UNIMMAP
+ inferiority trial to assess WHO’s recommended daily treat group).
+ iron regimen with two screen-and-treat approaches. We than 2·5
+ did the study in 19 rural communities in the Jarra West been described
+ and Kiang East districts of The Gambia. In these on a permuted
+ locations, anaemia is common and malaria endemicity is stratification
+ low, heterogeneous, and seasonal. concentration
+ Nurse midwives and fieldworkers identified and day) and
+ screened pregnant women at their first antenatal care account
+ visits (day 0) at two health facilities (Soma Health Centre, status. Participants
+ Soma Town, Jarra West; and Kaiaf Health Centre, data manager)
+ Kaiaf Town, Kiang East), obtained informed consent, supplementation
+ and gathered demographic information. Women aged ments were
+ 18–45 years were eligible for randomisation if gestational using
+ age was 14–22 weeks. Gestational age was assessed by participant’s
+ either self-reported first date of last menstrual period or, produced
+ if the woman could not recall this information, by fundal no iron
+ height. We excluded women if they were unlikely to Africa) as
+ remain in the area for the duration of the study, had Good Manu­facturing
+ severe anaemia (haemoglobin concentration <70 g/L), also contained
+ had a serious illness, had chronic disease, or self-reported trients
+ a history of previous pregnancy complications (eg, take one
+ repeated miscarriage or abortions, pre-eclampsia or The intervention
+ eclampsia). At enrolment (day 0), women were provided enrolment,
+ with long-lasting insecticide-treated bed nets. Any or until
+ woman found to have a concentration of haemoglobin
+ lower than 70 g/L during the trial was treated as per the 
+<section> Procedures
+ Gambian national protocol. At screening
+ The trial was approved by the Medical Research Council participant’s
+ (MRC) Unit The Gambia Scientific Coordinating Com­ and collected
+ mittee (SCC), Joint Gambia Government MRC ethics field measurement
+ committee (SCC 1357, amendments L2014.56v2), and the analyser;
+ London School of Hygiene & Tropical Medicine (LSHTM) malaria
+ ethics committee (no 7168). The trial was overseen by a Seoul, South
+ data safety monitoring board, trial steering committee, Plasmodium
+ and trial monitor, and it was done according to Good we followed
+ Clinical Practice standards supervised by the MRC Unit of P falciparum
+ The Gambia at LSHTM (MRCG@LSHTM) Clinical on ice
+ Trials Office. All participants gave written informed fieldstation
+ consent. Boule Diagnostics,
+ plasma
+ 
+<section> Randomisation and masking ELISA
+ At screening (day 0), eligible women were randomly (hepcidin-25
+ allocated (1:1:1) using computer-generated numbers to one 
+<section> International,
+ of three intervention arms: (1) WHO’s recommended validated
+ regimen of daily supplementation with UN University, Hepcidin
+ UNICEF, and WHO international multiple micronutrient results
+ capsules (UNIMMAP) containing 60 mg iron as ferrous cost (appendix
+ fumarate (the reference group); (2) weekly screening of of ferritin,
+ plasma hepcidin for 12 weeks, every time succeeded by saturation,
+ either daily supplementation for 7 days with UNIMMAP and α -acid
+ containing 60 mg iron if the concentration in plasma of (Cobas
+ hepcidin was less than 2·5 µg/L or daily supplementation Switzerland).
+ for 7 days with UNIMMAP containing no iron if hepcidin On day
+ levels were 2·5 µg/L or higher (the 60 mg screen-and- was seen
+ treat group); or (3) screen-and-treat supplementation as supplements,
+ described for the 60 mg screen-and-treat group but with self-reported
+ 
+<section> Articles
+ 
+<section> containing 30 mg iron (the 30 mg screen-and-
+ Calculation of the hepcidin threshold of less
+ µg/L to define ready-and-safe to receive iron has
+ previously. 19 Randomisation was based
+ block design (block size of nine) with
+ by haemoglobin (above and below the median
+ of haemoglobin of the respective enrolment
+ gestational age (14–18 weeks or 19–22 weeks), to
+ for natural differences in haematological and iron
+ and the research team (except for the
+ were unaware of group allocation and
+ type throughout the fieldwork. Supple­
+ prepacked weekly by the field coordinator
+ computer-generated lists accounting for each
+ preceding hepcidin value. UNIMMAP was
+ in three variants containing 60 mg, 30 mg, or
+ (DSM Nutritional Products, Johannesburg, South
+ identical gelatine capsules, packed in tubs under
+ Practice conditions. All formulations
+ 400 µg folic acid and 13 other micronu­
+ (appendix p 3). Participants were instructed to
+ capsule a day with water or another drink.
+ started at day 0 (the day of screening,
+ and randomisation) and continued for 84 days
+ delivery, whichever came first.
+ 
+<section> (day 0), qualified personnel recorded the
+ medical history, did a medical examination,
+ a sample of venous blood (5–7 mL) for
+ of haemoglobin (HemoCue Hb301
+ HemoCue, Ängelholm, Sweden) and to do the
+ rapid test (Alere Bioline Malaria Ag Pf, Abbot,
+ Korea). If a blood sample was positive for
+ falciparum infection on the malaria rapid test,
+ up with microscopy to confirm the presence
+ parasites. Blood samples were transferred
+ to the laboratory at MRCG@LSHTM Keneba
+ for a full blood count (Medonic M Series;
+ Spånga, Sweden) and assessment of
+ hepcidin. Plasma hepcidin was assayed by an
+ with a detection range of 0·049–25·0 µg/L
+ [human] EIA Kit; Peninsula Laboratories
+ San Carlos, CA, USA). The assay was
+ as part of a worldwide harmonisation exercise.
+ was quantified as single measurements to allow
+ within 24 h after blood collection and because of
+ p 4). We also measured amounts in serum
+ iron, unbound iron binding capacity, transferrin
+ soluble transferrin receptor, C-reactive protein,
+ glycoprotein, using an automated analyser
+ Integra 400 plus; Roche Diagnostics, Rotkreuz,
+ 
+<section> 2 and weekly thereafter, every participant
+ by a fieldworker who counted remaining
+ measured axillary temperature, recorded
+ side-effects, and gave the next week’s supply 
+<section> Articles
+ 
+<section> of tablets. At day 14, day 49, and day 84, venous
+ (5–7 mL) was gathered for assessments and
+ as described for day 0. At day 7 and weekly
+ (except when venous blood was collected),
+ collected fingerprick capillary blood samples.
+ timepoint, haemoglobin was measured by the
+ analyser, P falciparum infection was measured
+ malaria rapid test, and hepcidin was assayed to
+ subsequent allocation of iron or no iron in the
+ and-treat groups. To maintain masking of the
+ allocation, participants in the reference group
+ weekly fingerprick blood samples collected and
+ concentrations analysed, even though the results
+ affect subsequent supplement allocation.
+ At day 0, day 14, day 49, and day 84, we used
+ washed red blood cells for malaria growth
+ Remaining plasma was stored at –20°C for
+ bacterial growth assays. Day 14 was selected
+ ex-vivo malaria susceptibility assays as a time
+ would most likely be a high level of reticulocytosis.
+ Day 49 was then selected as the midpoint
+ days 14 and endpoint at day 84. Reticulocyte
+ were assessed by fluorescence-activated cell
+ CD71-positive cells.
+ Gambian national guidelines stipulate that
+ women should receive intermittent preventive
+ against malaria with sulfadoxine and pyrimethamine,
+ beginning with the first dose at 16 weeks of gestation
+ then at least two other doses with an interval
+ between them. To ensure no interference
+ malaria susceptibility assays, we arranged for participants
+ to receive their first dose of sulfadoxine
+ methamine immediately after the blood sample
+ taken on day
+ We measured ex-vivo growth rates of P
+ parasites in fresh red blood cells and of
+ tinel bacterial species (Staphylococcus epidermidis,
+ Staphylococcus aureus, Salmonella enterica, and
+ coli) in heat-inactivated serum as proxy safety
+ using methods described previously (appendix
+ The bacterial species were selected as frequent
+ of sepsis in low-income settings and as representing
+ range of iron-acquisition mechanisms. Assays
+ 
+<section> S epidermidis proved unreliable, with frequent
+ any growth, so these findings have been excluded
+ the results. The technical reasons for this lack
+ were discovered in hindsight and insufficient
+ were available to rerun the tests.
+ We monitored participants until delivery,
+ outcomes of the pregnancy were registered
+ mother and child (postnatal check-up within
+ delivery). When possible, reasons for a participant
+ lost to follow-up were recorded.
+ 
+<section> Outcomes
+ 
+<section> The primary outcome was the amount of haemoglobin
+ day 84, measured as the difference in haemoglobin
+ blood each screen-and-treat group compared with the reference
+ processing, group (WHO’s recommended regimen). Secondary out­
+ thereafter comes were the prevalence at day 84 of anaemia, iron
+ field staff deficiency, and iron-deficiency anaemia, the total iron
+ At every dose administered over the 84-day study period, adverse
+ HemoCue events, and adherence to the assigned strategy.
+ by the Anaemia was defined as an amount of haemoglobin
+ ascertain less than 11 g/dL. Iron deficiency was defined as a con­
+ two screen- centration in plasma of ferritin lower than 15 µg/L if
+ treatment C-reactive protein was lower than 5 mg/L, or plasma
+ also had ferritin lower than 30 µg/L if C-reactive protein was
+ hepcidin higher than 5 mg/L. Iron-deficiency anaemia was defined
+ did not as an amount of haemoglobin lower than 11 g/dL and
+ plasma ferritin less than 15 µg/L when C-reactive protein
+ freshly was less than 5 mg/L, or haemoglobin lower than 11 g/dL
+ assays. and plasma ferritin less than 30 µg/L when C-reactive
+ iron and protein was higher than 5 mg/L and the ferritin index
+ for the [soluble transferrin receptor:log -ferritin] was greater
+ when there than 2·0). Adverse events were defined as any untoward
+ or unfavourable medical occurrence, including signs
+ between and symptoms associated temporally with the research
+ counts procedure or trial intervention, whether considered
+ sorting of related to the woman’s participation in the research or
+ not. Serious adverse events were investigated by a doctor
+ pregnant and defined as any adverse event that was life-threatening
+ treatment or resulted in death or required admission to hospital or
+ prolongation of admission, was a persistent or relevant
+ and disability or incapacity, was a congenital anomaly or birth
+ of 1 month defect, or was a reported maternal death, miscarriage, or
+ with the stillbirth. Adherence was calculated as described in the
+ appendix (p 5).
+ 
+<section> and pyri-​
+ 
+<section> was 
+<section> Statistical analysis
+ For our sample size calculation, we used data from a
+ falciparum previous study in neighbouring villages 25 to analyse
+ four sen­ haemoglobin concentrations, which yielded an SD of
+ 12·8 g/L. This value was used to calculate a sample size
+ Escherichia of 154 participants for each of the three arms, using a
+ indices, one-sided α of 2·5% with a conservative Bonferroni-type
+ p 4). 15,24 correction. Initially, a total sample size of 462 pregnant
+ causes women was calculated, assuming less than 10% loss to
+ a follow-up. With a non-inferiority margin of –5·0 g/L, this
+ for number was used to provide 80% power to establish that
+ absence of the 60 mg screen-and-treat approach is non-inferior to
+ from WHO’s recommended regimen, the 30 mg screen-and-
+ of growth treat approach is non-inferior to WHO’s recommended
+ samples regimen, and the 30 mg screen-and-treat approach is
+ non-inferior to the 60 mg screen-and-treat approach. To
+ and the ensure that the study was done across different seasons
+ for both and to ensure that detailed monitoring could be achieved,
+ 72 h after we enrolled study participants in six cohorts starting
+ being from June, 2014, then roughly every 3–4 months after­
+ wards, from September, 2014, January, 2015, April, 2015,
+ August, 2015, and December, 2015. After the first two
+ cohorts were enrolled, permission was obtained from the
+ at ethics committee to increase the sample size to 498,
+ in because loss to follow-up exceeded 10%. 
+<insert> Figure 1: Trial profile
+ RDT=rapid diagnostic test. 
+<iend>
+
+ Per-protocol analysis was used to assess non-inferiority every woman,
+ of the primary outcome. All missing values and outliers of adverse
+ present after data lock (on March 13, 2017) were main­ ression
+ tained. In the intention-to-treat analysis, missing values Negative
+ were replaced by multiple imputation (appendix p 5). Poisson
+ Intervention effects on continuous variables were mea­ where the
+ sured as the difference in mean estimates, with logarithmic obtained
+ transformation (ln) as appropriate. A modi­fied intention- counts.
+ to-treat analysis was also done (excluding participants the participant’s
+ withdrawn before the first dose of iron supplementation), cided with
+ and groups were compared using linear regression pp 5–7).
+ analysis, with intervention entered as a dummy-coded
+ categorical variable. For analyses of bacterial growth, 
+<section> Role of the
+ differences between timepoints were assessed by repeat The funder
+ measures ANOVA and Scheffé’s post-hoc tests. Differences data analysis,
+ between study groups were assessed by χ² test. report.
+ The number of adverse events was too low to allow data in
+ meaningful analysis by type of adverse event. For decision
+ 
+<section> 683 pregnant women were screened for the study
+ 
+<section> 156 did not give consent
+ 
+<section> 527 gave informed consent
+ 
+<section> 29 were excluded
+ 
+<section> 27 did not attend on recruitment
+ 1 was RDT-positive
+ 1 gestational age was out
+ 
+<section> 498 were randomly assigned
+ 
+<section> 167 were allocated to the reference group 166 were allocated to the 60 mg
+ (WHO’s recommended 60 mg regimen) screen-and-treat approach
+ 
+<section> 1 was excluded (no supplement given) 2 were excluded (no supplement
+ 
+<section> 166 were included in the modified 164 were included in the modified
+ intention-to-treat analysis intention-to-treat analysis
+ 
+<section> 26 were lost to follow-up 31 were lost to follow-up
+ 7 withdrew consent 5 travelled away
+ 2 missed too many visits 5 withdrew consent
+ 5 had adverse events or serious 2 missed too many visits
+ adverse events 5 had adverse events or serious
+ 
+<section> 12 delivered during study 
+<section> adverse events
+ 
+<section> 13 delivered during study
+ 
+<section> 1 unknown reason
+ 
+<section> 140 completed the 12-week intervention 133 completed the 12-week intervention
+ period and were included in the period and were included in the
+ per-protocol analysis per-protocol analysis
+ 
+<section> Articles
+ 
+<section> we summed the counts for various types
+ events. We used negative binomial reg­
+ to assess group differences in observed counts.
+ binomial regression was used instead of
+ regression to account for overdispersion (ie,
+ variance exceeds the mean). Effect sizes thus
+ are reported as the relative change in observed
+ Adherence was assessed as the extent to which
+ history of supplementation coin­
+ the prescribed supplementation (appendix
+ 
+<section> funding source
+ had no role in study design, data collection,
+ data interpretation, or writing of the
+ The corresponding author had full access to all
+ the study and had final responsibility for the
+ to submit for publication.
+ 
+<section> day
+ 
+<section> of range
+ 
+<section> 165 were allocated to the 30 mg
+ 
+<section> screen-and-treat approach
+ 
+<section> given)
+ 
+<section> 165 were included in the modified
+ 
+<section> intention-to-treat analysis
+ 
+<section> 18 were lost to follow-up
+ 
+<section> 1 travelled away
+ 
+<section> 4 withdrew consent
+ 1 missed too many visits
+ 1 had adverse events or serious
+ 
+<section> adverse events
+ 
+<section> 10 delivered during study
+ 
+<section> 1 unknown reason
+ 
+<section> 147 completed the 12-week intervention
+ 
+<section> period and were included in the
+ 
+<section> per-protocol analysis 
+<insert> to 0·52)
+ to 0·77)
+ to 0·71)
+ to 0·77)
+ to 0·70)
+ to 1·49)
+ to 1·58)
+ are
+ group.
+ as ratios
+ at
+ identified
+ age of
+ part in the
+ excluded,
+ day
+ 51 women
+ 2014,
+ 96 from
+ Of these
+ allocated
+ reference
+ mg screen-
+ before the
+ with no
+ population
+ 140 were
+ 133 were
+ and
+ ap­
+ the first
+ being
+ Figure 2: Non-inferiority tests
+ Per-protocol analysis of change in haemoglobin from day 0 to day 84. Values are
+ mean difference (95% CI). Dotted line shows the preset non-inferiority
+ margin of –5 g/L.
+ Participants’ characteristics at enrolment were similar
+ between study groups (appendix pp 8–11) and indicated a
+ population with high prevalence of anaemia (>50%).
+ A third of all women were iron-deficient using ferritin
+ thresholds adjusted for inflammation. Poor iron status
+ in the study population was confirmed by the high
+ prevalence of other iron markers with abnormal values.
+ About a third of participants had inflammation, as
+ measured by C-reactive protein and α -acid glycoprotein.
+ Sickle-cell disorder was absent. Only one participant had
+ a positive test for P falciparum infection.
+ In the per-protocol analysis, the difference in haemo-​
+ globin at day 84 did not exceed the preset non-inferiority
+ margin of –5 g/L in the two screen-and-treat groups when
+ compared with the reference group (table 1; figure 2).
+ Moreover, the 30 mg screen-and-treat approach did not
+ differ substantively from the 60 mg screen-and-treat
+ approach (figure 2). Findings were similar in the modified
+ intention-to-treat analysis (vs the reference group [n=166],
+ –1·3 g/L, 95% CI –3·5 to 1·0 with the 60 mg screen-
+ and-treat approach [n=164], and –2·9 g/L, –5·1 to –0·7 with
+ the 30 mg screen-and-treat approach [n=165]).
+ Compared with the reference group, hepcidin, ferritin,
+ and the ferritin index (measures of iron deficiency)
+ were all significantly lower at day 84 in both screen-and-
+ treat groups (table 1). Values for other iron markers
+ (eg, serum iron, transferrin, soluble transferrin receptor,
+ and unbound iron binding capacity) confirmed these
+ results (appendix pp 12–16). The prevalence of anaemia
+ and iron deficiency showed a similar picture, although
+ the contrasts between groups were more striking
+ (table 2). In the reference group, the prevalence of
+ anaemia dropped from 58% at day 0 to 45% at day 84 but
+ rose in the two screen-and-treat groups, from 52% at
+ day 0 to 57% at day 84 with the 60 mg screen-and-treat
+ approach, and from 53% at day 0 to 59% at day
+ with the 30 mg screen-and-treat approach, such that
+ the two screen-and-treat approaches were clearly
+ inferior to WHO’s recommended regimen. The preva­
+ lence of being ready-and-safe to receive iron declined
+ substantially in the reference group, from 56% at
+ day 0 to 21% at day 84, which was a lower prevalence at
+ day 84 than in both screen-and-treat groups (42% in the 
+<iend>
+
+ 
+<section> Articles
+ 
+<section> Participants with Mean estimate Effect (95%
+ data available (n) 
+<section> (SE or GSD)
+ 
+<section> at day 84 (g/L)*
+ 
+<section> group 
+<section> 110·1 (0·8) 
+<section> ··
+ mg screen-and-treat approach 107·9 (0·8) –2·2 (–4·6
+ mg screen-and-treat approach 107·4 (0·8) –2·7 (–5·0
+ at day 84 (µg/L)†‡
+ 
+<section> group 
+<section> 6·3 (3·4) 
+<section> ··
+ mg screen-and-treat approach 3·3 (4·2) 0·52 (0·37
+ mg screen-and-treat approach 2·3 (4·7) 0·37 (0·26
+ at day 84 (µg/L)†
+ 
+<section> group 
+<section> 34·6 (1·9) 
+<section> ··
+ mg screen-and-treat approach 23·1 (1·8) 0·67 (0·58
+ mg screen-and-treat approach 21·4 (1·7) 0·62 (0·54
+ inflammation-adjusted, at day 84 (µg/L)†
+ 
+<section> group 
+<section> 31·6 (0·1) 
+<section> ··
+ mg screen-and-treat approach 21·2 (0·1) 0·67 (0·58
+ mg screen-and-treat approach 19·3 (0·1) 0·61 (0·53
+ index at day 84†§
+ 
+<section> group 
+<section> 2·2 (1·5) 
+<section> ··
+ mg screen-and-treat approach 2·9 (1·5) 1·35 (1·23
+ mg screen-and-treat approach 3·1 (1·5) 1·43 (1·31
+ transformation (ln) was done for hepcidin and ferritin variables. GSD=geometric SD. *Estimates
+ (SE); SE obtained by the Delta method. Effect is absolute difference in mean estimate versus the reference
+ are geometric mean (GSD). Exponentiation of ln-transformed variables yielded effects expressed
+ geometric mean estimates versus the reference group. ‡Estimates obtained using Tobit regression on
+ hepcidin concentrations were left-censored at 0·049 µg/L (limit of detection) and right-censored
+ µg/L. §Ferritin index is the ratio soluble transferrin receptor: log -ferritin.
+ 
+<section> 1: 
+<section> Primary and secondary outcomes, continuous variables
+ 
+<section> Results
+ 
+<section> Between June 16, 2014, and March 3, 2016, we
+ 683 pregnant women with a gestational
+ 14–22 weeks, of whom 527 consented to take
+ trial. Of these pregnant women, 29 were
+ mainly because they did not attend on recruitment
+ (figure 1). Six cohorts were enrolled, with
+ enrolled from June, 2014, then 87 from September,
+ 99 from January, 2015, 75 from April, 2015,
+ August, 2015, and 90 from December, 2015.
+ 498 participants who were enrolled, 167 were
+ to WHO’s recommended regimen (the
+ group), 166 were allocated to the 60 mg screen-and-treat
+ approach, and 165 were allocated to the 30
+ and-treat approach. Among these 498 participants,
+ 78 (16%) were withdrawn or lost to follow up
+ scheduled completion of the intervention,
+ evidence of a marked imbalance in non-completion
+ between groups (figure 1). The per-protocol
+ therefore included 420 women, of whom
+ assigned to WHO’s recommended regimen,
+ allocated to the 60 mg screen-and-treat approach,
+ 147 were allocated to the 30 mg screen-and-treat
+ proach. Three participants were excluded before
+ supplement was received, resulting in 495 women
+ included in the modified intention-to-treat analysis.
+ 
+<section> CI) 
+<section> Mean difference
+ 
+<section> (95% CI)
+ 
+<section> 60 mg screen-and-treat 
+<section> –2·2 (–4·6 to 0·1)
+ 
+<section> approach vs reference
+ 
+<section> 30 mg screen-and-treat 
+<section> –2·7 (–5·0 to –0·5)
+ 
+<section> to 0·1) 
+<section> approach vs reference
+ to –0·5) screen-and-treat 30 mg vs approach 60 mg –0·5 (–2·8 to 1·8)
+ 
+<section> –10 
+<section> –5
+ 
+<section> Haemoglobin (g/L)
+ 
+<section> to 0·75) 
+<insert> (82 cases per 1906 person-weeks) and in the reference
+ group (81 cases per 1974 person-weeks; effect 1·0, 95% CI
+ 0·7 to 1·6); in the 30 mg screen-and-treat group the
+ frequency of stomachache was slightly lower than in
+ the reference group (58 cases per 2009 person-weeks;
+ effect 0·7, 95% CI 0·5 to 1·1; appendix pp 20–22). No
+ participants died during the study.
+ The growth of malaria parasites in fresh red blood cells
+ was suppressed at day 0 (compared with non-anaemic
+ controls), was greatly stimulated at day 14, and had
+ gradually declined to day 0 levels by day 84, with no
+ differences between study groups at any timepoint
+ (figure 3A). Compared with day 0, before iron sup­
+ plementation began, ex-vivo growth of E coli, S enterica,
+ and S aureus was significantly faster at day 14, day 49, and
+ day 84 (figure 3B). On day 14 and day 49, no differences
+ were noted between study groups. On day 84, serum
+ samples from women in the reference group supported
+ faster bacterial growth of E coli and S aureus compared
+ with women in the 30 mg screen-and-treat group, and
+ E coli growth was faster at day 84 in the reference group
+ Table 2:
+ Reported
+ Reference
+ 60 mg
+ 30 mg screen-and-treat
+ Reference
+ 60 mg
+ 30 mg screen-and-treat
+ Adverse
+ Serious
+ Reference
+ 60 mg
+ 30 mg screen-and-treat
+ Individual
+ serious adverse
+ and 95%
+ monitoring 
+<iend>
+
+ 
+<insert> compared with the 60 mg screen-and-treat group. This
+ effect was attributable to the acute effect of iron
+ administered to women in the 60 mg and 30 mg screen-
+ and-treat groups, who had amounts of hepcidin measured
+ 7 days previously below the 2·5 µg/L threshold. The
+ appendix (p 24) shows no difference in bacterial growth
+ Table 3: Safety outcomes
+ across study groups among women who received iron 3 h
+ before the blood draw and significantly lower growth in
+ those in the 60 mg and 30 mg screen-and-treat groups
+ who did not have iron. 
+<iend>
+
+ 
+<section> 60 mg screen-and-treat group and 52% in the 30 mg
+ screen-and-treat group), indicating better iron status in
+ the reference group (appendix p 23). The prevalence of
+ iron-deficiency anaemia showed a greater decline in the
+ reference group (39% at day 0 to 17% at day 84) than in
+ the 60 mg screen-and-treat group (from 40% to 29%),
+ and in the 30 mg screen-and-treat group the prevalence
+ increased slightly (from 37% to 40%). Iron deficiency
+ prevalence defined using a soluble transferrin receptor
+ threshold of greater than 4·4 mg/L showed a very
+ similar pattern, with the prevalence of iron-deficiency
+ anaemia also higher in both screen-and-treat groups at
+ day 84 (appendix pp 17–19).
+ Adherence to daily supplementation was 86% in all
+ study groups and was similar between groups (table 2).
+ Participants in the 60 mg and 30 mg screen-and-treat
+ groups received, respectively, 46% and 53% of the
+ number of supplemental iron doses received by their
+ peers in the reference group.
+ The frequency of adverse events and serious adverse
+ events was similar between study groups (table 3). The
+ frequency of self-reported illnesses and side-effects
+ (ie, black stool, constipation, dizziness, fatigue, nausea,
+ and stomach­ache) was similar in the 60 mg screen-and-
+ treat group (14%) and in the reference group (11%;
+ difference 2·5%, 95% CI 0·3 to 4·8); in the 30 mg screen-
+ and-treat group the frequency was lower than in the
+ reference group (8%; difference –3·5%, 95% CI –5·4 to
+ –1·6). The most frequent side-effect was stomachache, *Data
+ which was similar in the 60 mg screen-and-treat group
+ 
+<section> Number
+ participants/total
+ data
+ Anaemia at day 84 (haemoglobin <110
+ Reference group
+ 60 mg screen-and-treat approach
+ 30 mg screen-and-treat approach 86/145
+ 
+<section> Ready-and-safe to receive iron at day 84
+ Reference group
+ 60 mg screen-and-treat approach
+ 30 mg screen-and-treat approach
+ 
+<section> Ferritin index >2·0 at day
+ Reference group
+ 60 mg screen-and-treat approach 116/133
+ 30 mg screen-and-treat approach 131/147
+ 
+<section> Iron-deficiency anaemia at day
+ Reference group
+ 60 mg screen-and-treat approach
+ 30 mg screen-and-treat approach
+ 
+<section> Iron dosage (% of weeks in which iron was
+ Reference group 1974/1974*
+ 60 mg screen-and-treat approach 1025/1905*
+ 30 mg screen-and-treat approach 952/2009*
+ 
+<section> Adherence
+ 
+<section> Reference group 275/1974*
+ 60 mg screen-and-treat approach 260/1905*
+ 30 mg screen-and-treat approach 246/2009*
+ are cases/person-weeks.
+ 
+<section> Secondary outcomes, categorical
+ 
+<section> Cases/
+ 
+<section> person-weeks
+ 
+<section> side-effects (aggregate score)
+ 
+<section> group 
+<section> 220/1974
+ screen-and-treat approach 261/1906
+ 
+<section> approach 
+<section> 154/2009
+ 
+<section> events
+ 
+<section> group 
+<section> 167/1902
+ screen-and-treat approach 149/1861
+ 
+<section> approach 
+<section> 175/1945
+ adverse events (DSMB notified)
+ 
+<section> group 
+<section> 9/1904
+ screen-and-treat approach 14/1861
+ 
+<section> approach 
+<section> 6/1945
+ complaints and adverse events are listed
+ events were based on a negative
+ CI are the respective exponentiated relative
+ board.
+ 
+<section> Articles
+ 
+<section> of Prevalence (%) Effect (95% CI)
+ 
+<section> with
+ 
+<section> available (n/N)
+ 
+<section> g/L)
+ 
+<section> 63/139 
+<section> 45% 
+<section> ··
+ 75/131 57% 11·9 (0·1 to 23·8)
+ 
+<section> 59% 
+<section> 14·0 (2·5 to 25·5)
+ 
+<section> (hepcidin <2·5 µg/L)
+ 
+<section> 30/140 
+<section> 21% 
+<section> ··
+ 55/132 42% 20·2 (9·4 to 31·1)
+ 77/147 52% 31·0 (20·4 to 41·5)
+ 
+<section> 82/140 
+<section> 59% 
+<section> ··
+ 
+<section> 87% 
+<section> 28·6 (18·7 to 38·6)
+ 
+<section> 89% 
+<section> 30·5 (21·0 to 40·1)
+ 
+<section> 24/140 
+<section> 17% 
+<section> ··
+ 38/131 29% 11·9 (1·9 to 21·8)
+ 58/146 40% 22·6 (12·5 to 32·7)
+ 
+<section> received)
+ 
+<section> 100% 
+<section> ··
+ 
+<section> 46% 
+<section> –53·8 (–56·0 to –51·6)
+ 
+<section> 53% 
+<section> –47·4 (–49·6 to –45·2)
+ 
+<section> 86% 
+<section> ··
+ 
+<section> 86% 
+<section> 0·3 (0·3 to 0·3)
+ 
+<section> 86% 
+<section> 1·7 (1·7 to 1·7)
+ 
+<section> variables
+ 
+<section> Observed number of events Effect (95% CI)
+ 
+<section> 111 per 1000 person-weeks ··
+ 135 per 1000 person-weeks 1·2 (0·8 to 1·8)
+ 78 per 1000 person-weeks 0·7 (0·5 to 1·0)
+ 
+<section> 89 per 1000 person-weeks ··
+ 82 per 1000 person-weeks –7·4 (–26·0 to 11·1)
+ 89 per 1000 person-weeks 1·6 (–17·2 to 20·3)
+ 
+<section> 29 per 10 000 person-weeks ··
+ 47 per 10 000 person-weeks 18·7 (–12·3 to 49·8)
+ 18 per 10 000 person-weeks –10·2 (–34·0 to 13·6)
+ in the appendix (pp 20–22). Estimates of adverse events and
+ binomial model, accounting for differences in exposure. The effect
+ changes in observed counts and their CIs. DSMB=data safety 
+<insert> Figure 3: Ex-vivo assays of malaria growth in erythrocytes and sentinel bacteria growth in serum
+ Left panel in (A) shows growth rates of Plasmodium falciparum strain FCR3-FMG in fresh RBCs relative to growth in RBCs from non-anaemic controls. Right panel
+ in (A) shows reticulocyte counts relative to non-anaemic controls. Black lines show mean values and error bars show SEs. Compared with day 0, parasite growth and
+ reticulocyte counts were significantly higher at day 14 (p=0·0012) and day 49 (p=0·0014), with no differences between treatment groups. Upper section in (B) shows
+ individual participant data. Black lines show mean values and error bars show SEs. Compared with day 0, faster growth rates were seen on day 14, day 49, and day 84,
+ for all species (p<0·0001 for all times). Lower plots in (B) show the proportion of serum samples from participants in which ex-vivo growth rates were greater than
+ the 95% percentile, calculated on day 0 across all groups. All organisms showed significant increases after iron supplementation (p=0·0090). No differences between
+ study groups were noted. RBC=red blood cell. *p<0·0001. †p<0·0001. ‡p=0·0011. 
+<iend>
+
+ 
+<section> Articles
+ 
+<section> A 
+<section> Plasmodium falciparum growth
+ 
+<section> (%)
+ 
+<section> control
+ 
+<section> of
+ Proportion
+ 
+<section> B 
+<section> Escherichia coli
+ 
+<section> 1·5 
+<section> 1·5
+ 
+<section> *
+ 
+<section> †
+ 
+<section> 1·0 
+<section> 1·0
+ 
+<section> density
+ 
+<section> Optical
+ 
+<section> 0·5 
+<section> 0·5
+ 
+<section> (%)
+ 
+<section> 0 day
+ at
+ centile
+ 
+<section> >95th
+ 
+<section> Proportion
+ 
+<section> Day Day Day Day
+ Time in study
+ 
+<section> Discussion
+ 
+<section> The findings of our study show that iron exposure
+ reduced by half in the 60 mg screen-and-treat
+ (46% as much iron) and reduced by three-quarters
+ 
+<section> Reticulocyte counts
+ 
+<section> Reference group
+ 
+<section> 60 mg screen-and-treat approach
+ 
+<section> 30 mg screen-and-treat approach
+ 
+<section> Salmonella enterica 
+<section> Staphylococcus aureus
+ 
+<section> 1·5
+ 
+<section> ‡
+ 
+<section> 1·0
+ 
+<section> 0·5
+ 
+<section> Day Day Day Day Day Day Day Day
+ Time in study 
+<section> Time in study
+ 
+<section> 30 mg screen-and-treat group (27% as much iron). The
+ was screen-and-treat approaches were both non-inferior to
+ group WHO’s recom­mended 60 mg daily regimen, with respect
+ in the to the primary outcome of difference in amount of 
+<section> haemoglobin at day 84, according to our definition, with Growth
+ the lower limit of the confidence intervals falling within all treatment
+ the preset non-inferiority margin. However, all secondary supplementation.
+ outcome measures of iron status showed evidence of cannot
+ inferiority. The prevalence of anaemia declined with the (or other
+ WHO recommended regimen but increased in both Pregnancy-related
+ screen-and-treat groups. Likewise, the prevalence of unlikely
+ iron deficiency and iron-deficiency anaemia was higher before inoculation.
+ in both screen-and-treat groups compared with the effect of
+ reference group. Even the reference group had low acute iron
+ apparent efficacy, with a 3·3 g/L improvement in the blood
+ haemoglobin over the 84-day study period and only a our previous
+ 13% reduction in anaemia, despite being implemented growth
+ under the ideal conditions of an efficacy trial. However, additional
+ true efficacy in ameliorating the haemodilution of with amounts
+ pregnancy cannot be judged in the absence of a placebo saturation.
+ 
+<section> arm. 
+<section> the situation
+ Iron is a problematic nutrient with both beneficial and bloodstream
+ potentially harmful effects. Some of these effects can be concentrations
+ serious, particularly in low-income settings where would,
+ infections are common. 26 Detection of differences in immune
+ prevalence of serious infections would need a very large The real
+ trial and, in the case of malaria, would be unethical supplements
+ because intermittent preventive treatment for pregnant infection,
+ women is advised, and in The Gambia it is mandated. to poor
+ We also issued insecticide-treated bed nets to all performance
+ participants at enrolment. In view of these constraints, resolving
+ we used proxy assays of likely infection potential for might have
+ malaria and for three sentinel bacteria that use a range of were safer
+ iron-acquisition mechanisms. By doing these ex-vivo postulated.
+ assays at day 0, on day 14 and day 49 we were able to and side-effects
+ capture short-term and medium-term effects of chronic treat group,
+ iron administration. On day 84, blood was drawn 3 h after group adapted
+ the last oral iron (or non-iron) supplement and, hence, administration
+ results at day 84 capture both chronic and acute post- As might
+ absorptive effects of iron. Malaria parasite assays have effects was
+ previously provided a robust mechanism to account for Note that
+ how iron-deficiency anaemia protects against P falciparum reflect
+ infection (parasite invasion and growth rates are poor in encouragement
+ older microcytic red blood cells) and why supplementation that adherence
+ abrogates this effect (parasite invasion and growth rates There
+ are high in reticulocytes and large young red blood approach
+ cells). 15,27,28 These effects are replicated in our study and that weekly
+ concur with associated changes in CD71 (a reticulocyte short-term
+ marker). No difference in plasmodial growth was noted iron intake
+ between treatment groups at any timepoint, possibly and that
+ because the most iron-deficient participants in all were the
+ groups received iron early in the trial, which elicited a would be
+ broadly similar reticulocyte surge despite the poorer A second
+ overall performance of the two screen-and-treat groups. calculated
+ Reticulocytosis is also a natural response to the expansion differentiate
+ of blood volume in mid-pregnancy and might have the derivation
+ contributed to the increased risk of infections. 29 Note that absorption).
+ the absence of an acute effect of iron administration at frequent
+ day 84 is entirely consistent with the fact that the assay been less
+ uses washed red blood cells and their susceptibility is given iron,
+ governed by cell morphology rather than iron content. we already
+ 
+<section> Articles
+ 
+<section> rates of all three bacteria rose strikingly in
+ groups after commencement of iron
+ In the absence of a placebo group, we
+ conclude that this increase is an effect of iron
+ micronutrients), but it seems highly likely.
+ changes in humoral immunity are an
+ explanation since plasma was heat-inactivated
+ Furthermore, the growth-stimulatory
+ iron is clearly shown by the response to the
+ and micronutrient administration 3 h before
+ draw on day 84. This finding corroborates
+ results in adult men, in whom bacterial
+ rates were promoted by previous iron (without
+ micronutrients) and were highly correlated
+ in serum of iron and transferrin
+ 24 These ex-vivo assays might not equate to
+ in vivo but are highly suggestive that
+ bacteria would grow faster at higher
+ of iron and transferrin saturation and
+ therefore, have a greater chance of overcoming
+ defences.
+ or perceived side-effects of taking oral iron
+ are less serious than the threat of a major
+ but they are important insofar as they lead
+ adherence to iron supplementation. The lesser
+ of the two screen-and-treat groups in
+ iron deficiency and iron-deficiency anaemia
+ been acceptable if evidence showed that they
+ or had fewer side-effects, as we initially
+ In fact, the prevalence of self-reported illnesses
+ was highest in the 60 mg screen-and-
+ possibly because women in the reference
+ to iron supplementation better than when
+ was intermittent (with on and off weeks).
+ be expected, the prevalence of illnesses and side-
+ lowest in the 30 mg screen-and-treat group.
+ the unusually high adherence in this study could
+ the influence of sensitisation and fieldworker
+ and the fact that participants were aware
+ was being monitored.
+ are several possibilities why the screen-and-treat
+ did not work as we expected. First, it is possible
+ screening does not adequately capture the
+ dynamics of hepcidin’s responses to recent
+ 30,31 or intercurrent infections and inflammation
+ more frequent screening is needed. Even if this
+ case, and a point-of-care test were available, it
+ entirely impractical to screen more frequently.
+ possibility is that our hepcidin threshold,
+ to diagnose iron deficiency, 19 did not adequately
+ iron absorbers from iron blockers (because
+ did not include information on iron
+ A higher threshold might have yielded more
+ dosing and a higher efficacy but would have
+ effective at reducing the total number of women
+ and it should not have been necessary because
+ prioritised sensitivity over specificity in 
+<section> Articles
+ 
+<section> selecting the threshold (appendix pp 1, 2). A lower
+ threshold would have reduced efficacy yet further. Our
+ surmise is that the large bolus doses of highly absorbable
+ ferrous fumarate override the physiological mechanism
+ of hepcidin-induced iron blockade evolved to regulate
+ duodenal iron absorption from foods and, hence, iron
+ continued to be absorbed in the reference group even in
+ the face of raised hepcidin.
+ Our study had several strengths and some weaknesses.
+ Hepcidin is theoretically the ideal index of ready-and-safe
+ to receive iron and it very effectively reduced the amount
+ of iron administered in an area with high anaemia
+ prevalence. The study had adequate statistical precision
+ for the main outcomes, was done to Good Clinical
+ Practice standards, and had high adherence and relatively
+ few dropouts. One limitation is that the sample size was
+ insufficient to capture potentially rare adverse events,
+ and another is that the trial was conducted in an area
+ with low malaria transmission, high use of insecticide-
+ treated bed nets, and intermittent preventive treatment
+ for pregnant women and, hence, could not assess to what
+ extent the screen-and-treat approach reduced the risk of
+ malaria. Our proxy safety outcomes for malarial and
+ bacterial infections provide intuitively solid outcomes
+ but might not reflect in-vivo susceptibility. Provision of
+ iron with multiple other micronutrients can be viewed as
+ both a strength and a weakness: a strength because
+ other nutrient deficiencies that might limit the
+ acquisition or utilisation of iron should be eradicated,
+ and a weakness because of possible nutrient–nutrient
+ interactions (eg, zinc in UNIMMAP might compete with
+ iron for absorption). Note also that UNIMMAP capsules
+ are not enteric-coated, which will not affect aggregate
+ iron availability but may cause loss of other micro-​
+ nutrients. Because all participants received the same
+ UNIMMAP, except for differences in iron content, this
+ concern would not affect comparison between study
+ groups.
+ Previous evidence shows that intermittent iron supple­
+ mentation in pregnancy is somewhat less efficacious
+ than daily supplementation, 4,11 and we conclude from this
+ study that a hepcidin-guided screen-and-treat strategy
+ does not overcome this limitation. Our results are likely
+ to be generalisable at least to other populations in LMICs
+ with high prevalence of anaemia and iron deficiency and
+ in a low malaria setting. Future alternatives to universal
+ oral iron supplementation in pregnancy might include
+ use of parenteral iron formulations such as ferric
+ carboxymaltose, which can deliver up to 1000 mg
+ elemental iron over a 15-min infusion. This approach
+ will need evidence of cost-effectiveness and safety in
+ low-income settings, together with development of
+ infrastructure, to overcome barriers to implementation.
+ Therefore, we support continued application of the
+ current WHO guidelines but urge development of novel
+ iron formulations with much better side-effect profiles to
+ encourage improved adherence. The findings of our
+ malaria susceptibility assays underscore the importance
+ of the WHO guide­ line that iron administration in
+ malarious areas should ideally be implemented in
+ conjunction with adequate measures to prevent,
+ diagnose, and treat malaria.
+ 
+<section> Contributors
+ 
+<section> AB contributed to the study idea and design, led the study as part of his
+ PhD, oversaw all aspects of study implementation, and drafted the
+ report. AMP contributed to the study idea and design, was overall
+ principal investigator, and contributed to data analysis and writing of the
+ report. RW contributed to protocol design and provided management
+ support and supervision. SEM reviewed the protocol and co-supervised
+ AB. CC designed, oversaw and analysed the ex-vivo malaria and bacterial
+ analyses. MMG contributed to design, implementation, and
+ analysis of the malarial growth assays. AKM was the trial statistician.
+ HV supervised and contributed to statistical analyses and writing of
+ the report. AEA advised on hepcidin measurement and contributed to
+ protocol design. HD contributed to study design and data interpretation.
+ S-RP did the analysis for the hepcidin cutoff point used in the study and
+ contributed to protocol design. SS and ED did the hepcidin and
+ haemogram analyses. EAS did the iron analysis. JHC contributed to
+ design, implementation, and supervision of the bacterial growth assays.
+ 
+<section> Declaration of interests
+ We declare no competing interests.
+ 
+<section> Acknowledgments
+ The Hepcidin and Anaemia in Pregnancy (HAPn) study was supported
+ by the Hepcidin and Iron in Global Health Consortium, which is
+ funded by the Bill & Melinda Gates Foundation (OPP 1055865, awarded
+ to the Medical Research Council [MRC] Unit The Gambia at London
+ School of Hygiene & Tropical Medicine [MRCG@LSHTM]).
+ MRCG@LSHTM is core-funded by MCA760-5QX00 from the MRC
+ and the UK Department for International Development (DFID) under
+ the MRC/DFID Concordat agreement. AB, AMP, RW, SEM, CC, MMG,
+ AKM, HV, SS, ED, EAS, and JHC were funded through this
+ arrangement. HD, S-RP, and AEA were funded by the MRC
+ (MC_UU_12010/1), and HD was also funded by the UK National
+ Institute for Health Research Biomedical Research Centre in Oxford.
+ We thank workers at MRCG@LSHTM for help during the study:
+ Momodou W Jallow, Alasana Saidykhan, Momodou K Darboe,
+ Muhammed Ngom, Kabiru Ceesay (field co-ordinator), Musa Jarjou,
+ and Lindsay Kendall. We also thank the HAPn field team of
+ MRCG@LSHTM and the communities of Kiang and Jarra.
+ 
+<section> References
+ 
+<section> GBD 2016 Disease and Injury Incidence and Prevalence
+ Collaborators. Global, regional, and national incidence, prevalence,
+ and years lived with disability for 328 diseases and injuries for
+ 195 countries, 1990–2016: a systematic analysis for the Global
+ Burden of Disease Study 2016. Lancet 2017; 390: 1211–59.
+ 2 WHO. e-Library of Evidence for Nutrition Actions (eLENA):
+ daily iron and folic acid supplementation during pregnancy.
+ Feb 11, 2019. http://www.who.int/elena/titles/daily_iron_
+ pregnancy/en/ (accessed Aug 16, 2019).
+ 3 Peña-Rosas JP, De-Regil LM, Garcia-Casal MN, Dowswell T.
+ Daily oral iron supplementation during pregnancy.
+ 
+<section> Cochrane Database Syst Rev 2015; 7: CD004736.
+ Mwangi MN, Prentice AM, Verhoef H, Safety and benefits of
+ antenatal oral iron supplementation in low-income countries:
+ a review. Br J Haematol 2017; 177: 884–95.
+ 5 Haider BA, Bhutta ZA, Multiple-micronutrient supplementation for
+ women during pregnancy. Cochrane Database Syst Rev 2017;
+ 
+<section> 4: CD004905.
+ 6 Kamau MW, Mirie W, Kimani S. Compliance with iron and folic
+ acid supplementation (IFAS) and associated factors among
+ pregnant women: results from a cross-sectional study in Kiambu
+ County, Kenya. BMC Public Health 2018; 18:
+ 7 Kassa ZY, Awraris T, Daba AK, Tenaw Z. Compliance with iron folic
+ acid and associated factors among pregnant women through pill
+ count in Hawassa city, South Ethiopia: a community based
+ cross-sectional study. Reprod Health 2019; 16: 
+<section> Arega Sadore A, Abebe Gebretsadik L, Aman Hussen M. Kortman
+ Compliance with iron-folate supplement and associated factors turned
+ among antenatal care attendant mothers in Misha District, FEMS
+ South Ethiopia: community based cross-sectional study. Bah A,
+ J Environ Public Health 2015; 2: 781973. controlled
+ Kumar N, Chandhiok N, Dhillon BS, Kumar P. Role of oxidative for pregnant
+ stress while controlling iron deficiency anaemia during pregnancy: hepcidin
+ Indian scenario. Indian J Clin Biochem 2009; 24: 5–14. BMC
+ WHO. e-Library of Evidence for Nutrition Actions (eLENA): van der
+ intermittent iron and folic acid supplementation during pregnancy. Toward
+ Feb 11, 2019. http://www.who.int/elena/titles/intermittent_iron_ a commutable
+ pregnancy/en/ (accessed Aug 16, 2019). 62: 993–1001.
+ Peña-Rosas JP, De-Regil LM, Gomez Malave H, Flores-Urrutia MC, Cross
+ Dowswell T. Intermittent oral iron supplementation in pregnancy. bacterial
+ Cochrane Database Syst Rev 2015; 10: CD009997. Moore
+ Fu S, Li F, Zhou J, Liu Z, The relationship between body iron Prentice
+ status, iron intake and gestational diabetes: a systematic review and pre-natal
+ meta-analysis. Medicine 2016; 95: e2383. development
+ Kabyemela ER, Fried M, Kurtis JD, Mutabingwa TK, Duffy PE. Immune
+ Decreased susceptibility to Plasmodium falciparum infection in Prentice
+ pregnant women with iron deficiency. J Infect Dis 2008; what
+ 
+<section> 198: 163–66. 
+<section> Clark
+ Senga EL, Harper G, Koshy G, Kazembe PN, Brabin BJ. supplementation
+ Reduced risk for placental malaria in iron deficient women. 
+<section> Plasmodium
+ Malar J 2011; 10: Goheen
+ Goheen MM, Bah A, Wegmuller R, et al. Host iron status and protection
+ erythropoietic response to iron supplementation determines falciparum
+ susceptibility to the RBC stage of falciparum malaria during supplementation.
+ pregnancy. Sci Rep 2017; 7: 17674. Choi
+ Ganz T. Hepcidin and iron regulation, 10 years later. Blood 2011; during
+ 
+<section> 117: 4425–33. 
+<section> Moretti
+ Drakesmith H, Prentice AM. Hepcidin and the iron-infection axis. hepcidin
+ Science 2012; 338: 768–72. 
+<section> doses
+ Pasricha SR, McQuilten Z, Westerman M, et al. Serum hepcidin as Stoffel
+ a diagnostic test of iron deficiency in premenopausal female blood from
+ donors. Haematologica 2011; 96: 1099–105. days
+ Bah A, Pasricha SR, Jallow MW, et al. Serum hepcidin iron-depleted
+ concentrations decline during pregnancy and may identify iron 
+<section> Lancet
+ deficiency: analysis of a longitudinal pregnancy cohort in WHO.
+ The Gambia. J Nutr 2017; 147: 1131–37. daily
+ Prentice AM, Doherty CP, Abrams SA, et al. Hepcidin is the major malaria-endemic
+ predictor of erythrocyte iron incorporation in anemic African daily_iron_pregnancy_malaria/en/
+ children. Blood 2012; 119: 1922–28.
+ 
+<section> Articles
+ 
+<section> GA, Raffatellu M, Swinkels DW, Tjalsma H. Nutritional iron
+ inside out: intestinal stress from a gut microbial perspective.
+ 
+<section> Microbiol Rev 2014; 38: 1202–34.
+ Wegmuller R, Cerami C, et al. A double blind randomised
+ trial comparing standard dose of iron supplementation
+ women with two screen-and-treat approaches using
+ as a biomarker for ready and safe to receive iron.
+ 
+<section> Pregnancy Childbirth 2016; 16:
+ Vorm LN, Hendriks JC, Laarakkers CM, et al.
+ worldwide hepcidin assay harmonization: identification of
+ secondary reference material. Clin Chem 2016;
+ 
+<section> JH, Bradbury RS, Fulford AJ, et al. Oral iron acutely elevates
+ growth in human serum. Sci Rep 2015; 5: 16670.
+ SE, Fulford AJ, Darboe MK, Jobarteh ML, Jarjou LM,
+ AM. A randomized trial to investigate the effects of
+ and infant nutritional supplementation on infant immune
+ in rural Gambia: the ENID trial—Early Nutrition and
+ Development. BMC Pregnancy Childbirth 2012; 12:
+ AM. Iron metabolism, malaria, and other infections:
+ is all the fuss about? J Nutr 2008; 138: 2537–41.
+ MA, Goheen MM, Fulford A, et al. Host iron status and iron
+ mediate susceptibility to erythrocytic stage
+ falciparum. Nat Commun 2014; 5: 4446.
+ MM, Wegmüller R, Bah A, et al. Anaemia offers stronger
+ than sickle cell trait against the erythrocytic stage of
+ malaria and this protection is reversed by iron
+ 
+<section> EBioMedicine 2016; 14: 123–30.
+ JW, Pai SH, Change in erythropoiesis with gestational age
+ pregnancy. Ann Hematol 2001; 80: 26–31.
+ D, Goede JS, Zeder C, et al. Oral iron supplements increase
+ and decrease iron absorption from daily or twice-daily
+ in iron-depleted young women. Blood 2015; 126: 1981–89.
+ NU, Cercamondi CI, Brittenham G, et al. Iron absorption
+ oral iron supplements given on consecutive versus alternate
+ and as single morning doses versus twice-daily split dosing in
+ women: two open-label, randomised controlled trials.
+ 
+<section> Haematol 2017; 4: e524–33.
+ e-Library of Evidence for Nutrition Actions (eLENA):
+ iron and folic acid supplementation during pregnancy in
+ areas. Feb 11, 2019. http://www.who.int/elena/titles/
+ (accessed Aug 16, 2019).

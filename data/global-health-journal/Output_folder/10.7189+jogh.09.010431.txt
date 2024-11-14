@@ -1,0 +1,1088 @@
+
+<section> global
+ 
+<section> health
+ 
+<section> © 2019 The Author(s)
+ 
+<section> JoGH © 2019 EUGHS
+ 
+<section> Child development, growth and microbiota:
+ follow-up of a randomized education trial in Uganda
+ 
+<section> Prudence Atukunda , Grace
+ 
+<section> Background Undernutrition impairs child development outcomes and
+ K M Muhoozi 
+<section> 1,2 , Tim J van
+ growth. In this follow-up study of an open cluster-randomized intervention
+ 
+<section> den Broek , Remco Kort 
+<section> 3,4 , trial we examined the effects of an education package delivered to mothers
+ 
+<section> Lien M Diep , Archileo N in rural Uganda on their children’s development, growth and gut microbiota
+ 
+<section> Kaaya , Per O Iversen 
+<section> 1,7,8,* , 
+<section> at 36 months of age.
+ 
+<section> Ane C Westerberg 
+<section> 9,* 
+<section> Methods The parental trial included 511 mother-child pairs recruited when
+ the children were 6-8 months. In that trial, a nutrition, stimulation and hy-
+  D 
+<section> epartment of Nutrition, Institute of giene education was delivered to mothers in the intervention group while the
+ 
+<section> Basic Medical Sciences, University of control group received routine health care. A follow-up sample of 155 pairs
+ 
+<section> Oslo, Oslo, Norway (intervention n = 77, control n = 78) were re-enrolled when the children were
+ 
+<section> Department of Human Nutrition 24 months. Developmental outcomes were assessed with the Bayley Scales
+ 
+<section> and Home Economics, Kyambogo
+ of Infant and Toddler Development (BSID-III) composite scores for cognitive
+ 
+<section> University, Kampala, Uganda
+ (primary endpoint), language and motor development. Development out-
+ 3 
+<section> Netherlands Organization for
+ 
+<section> Applied Scientific Research (TNO), comes were also evaluated using the Ages and Stages Questionnaire (ASQ)
+ 
+<section> Microbiology and Systems Biology, and the Mullen Scales of Early Learning (MSEL). Other outcomes included
+ Zeist, the Netherlands growth and gut microbiota composition.
+ 
+<section> 4 
+<section> Department of Molecular Cell
+ 
+<section> Results The demographic characteristics were not different (P > 0.05) be-
+ 
+<section> Biology, VU University Amsterdam,
+ 
+<section> the Netherlands tween the intervention and control groups and similar to those of the pa-
+ 
+<section> 5 
+<section> Oslo Centre for Biostatistics and rental study. The intervention group had higher BSID-III scores than con-
+ 
+<section> Epidemiology, Oslo University trols, with mean difference 10.13 (95% confidence interval (CI): 3.31-17.05,
+ 
+<section> Hospital, Oslo, Norway P = 0.002); 7.59 (1.62-13.66, P = 0.01); 9.00 (2.92-15.40, P = 0.005), for cog-
+ 
+<section> School of Food Technology, Nutrition nitive, language and motor composite scores, respectively. An improvement
+ 
+<section> and Bioengineering, Makerere in the intervention compared to the control group was obtained for both the
+ 
+<section> University, Kampala, Uganda ASQ and the MSEL scores. The mean difference in height-for-age z-score was
+ 7 
+<section> Department of Haematology, Oslo higher in the intervention compared to the control group: 0.50 (0.25-0.75,
+ 
+<section> University Hospital, Oslo, Norway P = 0.0001). Gut microbiota composition did not differ significantly between
+ Division of Human Nutrition, the two study groups.
+ 
+<section> Stellenbosch University, Tygerberg,
+ 
+<section> South Africa 
+<section> Conclusions The maternal education intervention had positive effects on
+ 
+<section> Institute of Health Sciences, Kristiania child development and growth at three years, but did not alter gut microbi-
+ 
+<section> University College, Oslo, Norway ota composition. This intervention may be applicable in other low-resource
+ 
+<section> * 
+<section> Equal authorship settings.
+ 
+<section> Trial registration ClinicalTrials.gov registration number NCT02098031.
+ 
+<section> Correspondence to:
+ Undernutrition among children in developing countries is a major, global health
+ 
+<section> Per Ole Iversen
+ 
+<section> challenge causing more than one-third of under-five deaths [1]. About 200 million
+ 
+<section> Department of Nutrition
+ 
+<section> P.O. Box 1046 Blindern children below five years worldwide who are undernourished do not meet their
+ 
+<section> 0317 Oslo development potential [2]. In addition to stunting, poor cognitive stimulation, and
+ 
+<section> Norway adverse environmental conditions, low maternal education is recognized as risk fac-
+ 
+<section> p.o.iversen@medisin.uio.no tors for impaired child development [3]. In line with this, undernourished children 
+<section> are at risk of impaired structural development of the central nervous system (CNS) and extra- neuronal
+ tissue [4]. Adequate childhood nutrition thus promotes healthy growth and development outcomes [5-7].
+ 
+<section> The underlying causes of chronic undernutrition are complex. In addition to inadequate food quantity
+ and quality of food, a combination of poor sanitation and hygiene resulting in sustained exposure to en-
+ teric pathogens plays an important role [8]. Pregnancy and the first two years of life are important peri-
+ ods for interventions to improve child growth and cognitive development, and can be considered both a
+ window of vulnerability as well as a window of opportunity [9]. The development of the gut microbiota
+ is mostly accomplished within the first three years of life. Interventions directed towards an appropriate
+ maturation of the gut microbiota and its associated metabolic potential, may support healthy growth and
+ cognitive development [10]. In line with this, there are new insights into how the CNS and cognitive de-
+ velopment may be influenced by the gut microbiota through the so-called “gut-brain axis” [11]. More-
+ over, a number of studies report systematic differences in the composition between rural Africa and ur-
+ ban Europe, indicating that the gut microbiota is tailored to local diet, specific nutritional requirements
+ of the host and hygiene practices [12-14]. However, a possible role of gut microbiota in undernutrition
+ and child development has not been adequately addressed. Inadequate caregiving skills and stimulation
+ can also adversely impact development and growth of small children, in particular in low-resource set-
+ tings. Integration of nutrition and stimulation in a Pakistani trial highlighted a potential for child devel-
+ opment and linear growth benefits [5].
+ 
+<section> In 2013 we initiated a cluster-randomized controlled trial to examine the effect on growth and develop-
+ ment of a 6-month intervention comprised of nutrition, stimulation and hygiene education among im-
+ poverished mothers of children aged 6-8 months in rural districts of Uganda [15]. The intervention con-
+ sisted of educating mothers aimed at (i) increasing dietary diversity to improve nutrient intake as well as
+ continued breastfeeding, (ii) improving hygiene and sanitation practices, and (iii) enhancing stimulation
+ based on a social-cognitive learning theory to improve development. Whereas this intervention did not
+ alter child growth at the age of 20-24 months, cognitive, language and motor development improved
+ markedly [15]. In order to examine if these findings were sustainable over time, we decided to perform a
+ follow-up study. Notably, a long term follow-up of such a nutrition education intervention has previously
+ not been done in a resource-constrained setting as Uganda. We now examined development, growth and
+ gut microbiota composition among a subsample of these children at the age of 36 months.
+ 
+<section> METHODS
+ 
+<section> Study design and approvals
+ 
+<section> This is a follow-up study of a two-armed, open cluster-randomized education intervention regarding nu-
+ trition, stimulation and hygiene among impoverished mothers of children aged 6-8 months in the Kisoro
+ and Kabale districts of South-Western Uganda. Details of the intervention have recently been published
+ [15]. All mothers gave written or thumb-printed, informed consent to participate and could decline an
+ interview or assessment at any time. The study was approved by The AIDS Support Organisation Research
+ Ethics Committee (No. TASOREC/06/15-UG-REC-009) and by the Uganda National Council for Science
+ and Technology (No. UNCST HS 1809) as well as by the Norwegian Regional Committee for Medical and
+ Health Research Ethics (No. 2013/1833). The trial was registered with clinicaltrials.gov (NCT02098031).
+ We report the data according to the CONSORT guidelines.
+ 
+<section> Randomisation of the parental and follow-up participants
+ 
+<section> For the parental trial we used proportionate sampling, 10 sub-counties (ie, clusters) were obtained (6 out
+ of 19 in Kabale and 4 out of 14 in Kisoro) to participate in the study. We used a three-stage procedure to
+ identify households for the study. First, by simple random sampling, three sub-counties in Kabale were
+ allocated to the intervention group and the other three to the control group. Similarly, two sub-counties
+ were allocated to the intervention and the other two to the control group in Kisoro district. Second, all the
+ villages in each participating sub-county (intervention or control) were listed alphabetically and assigned
+ numbers in an ascending order. By use of computer-generated random numbers, villages to whose as-
+ signed number matched with the random numbers were selected. The intervention villages did not share
+ common geographical boundaries with control villages to minimize contamination of the intervention
+ contents between the two study groups. Third, by complete enumeration, all consenting households with
+ children aged 6-8 months within a participating village were recruited to the study. If a household had Child development, growth and microbiota
+ 
+<section> more than one eligible child, the youngest was selected, and in the case of twins, we randomly selected
+ one for evaluation. We finally enrolled 511 mother-child pairs in the parental study and they were ran-
+ domised to the intervention (n = 263) or the control (n = 248) group. The intervention group received the
+ nutrition, hygiene and stimulation education in addition to routine health care while the control group
+ received only routine health care.
+ 
+<section> The child had to be 20-24 months during the period of January-May 2015 to be included in the current
+ follow-up study since age dynamic gut microbial shifts occur at this age resulting in an adult-like, stable
+ composition [16], and developmental milestones at this age may predict IQ at 5-6 years when children
+ are about to start school [17]. Based on a sample size calculation we then randomly selected participants
+ from each of the two study groups (n = 77 from the intervention group and n = 78 from the control group).
+ Data was collected when the children were 20-24 months and at 36 months. The data collection teams in
+ the follow-up study were masked to group allocation and never had any interaction with the study team
+ that delivered the education intervention in the parental trial.
+ 
+<section> Contents of the education intervention in the parental trial
+ 
+<section> The intervention was conducted by the study team at three group meetings over a period of 6 months to
+ 26 groups of mothers (6-10 mothers per group), and was detailed recently [15]. Briefly, it was delivered
+ by a trained education team and included two behavior change techniques: providing information and
+ prompt practice (ie, demonstrations of preparing food and stimulation of the children). The nutrition ed-
+ ucation curriculum was based on the 10 guiding principles of complementary feeding [18]. Recipes were
+ formulated and cooking demonstrated using locally available foods with emphasis on protein. Moreover,
+ the need to take ill children to hospital for medical attention and to increase the feeding frequency during
+ and after illness was emphasized. Hand-washing before feeding as well as use of clean utensils during food
+ preparation and feeding was part of the hygiene intervention. A novel aspect of this intervention was the
+ focus on oral hygiene, and with distribution of tooth brushes to all household members and demonstra-
+ tion of their use. The education team highlighted the importance of play to improve cognitive, language
+ and motor development. The stimulation intervention was based on social-cognitive learning theory [19].
+ 
+<section> In addition to the three group meetings, the women met at monthly intervals to practice what they had
+ learnt and ensuring compliance to the intervention [15].
+ 
+<section> Assessments of outcomes
+ 
+<section> The child development assessments were performed by three bachelor degree holders in psychology
+ whereas two graduates of laboratory technology collected stool samples. Two bachelor degree holders
+ in nutrition collected the anthropometric data. These three data collection teams participated in train-
+ ing sessions to ensure uniform and standardized procedures. Assessments were administered in the local
+ language and conducted in hired, secluded rooms in the villages without interruptions to minimize dis-
+ tractions. To promote reliability, the child development assessments were administered first, followed by
+ anthropometric measurements, stool sampling and then interviews with the mothers.
+ The Bayley Scales of Infant and Toddler Development-III (BSID-III), the Ages and Stages Questionnaire
+ (ASQ) and the Mullen Scales of Early Learning (MSEL; Supplementary information) were used [15]. The
+ BSID-III scale is known to be the most comprehensive child development measure for children up to
+ 3.5 years and has been adapted and used in similar settings [20]. The ASQ is a parent/caregiver complet-
+ ed screening scale with excellent psychometric properties which capture and establish a wide range of
+ adaptive behaviors, and previously used in this setting [21]. Both tools were used because we did not in-
+ clude the social-emotional scale of BSID-III. The BSID-III and the ASQ were administered at 20-24 and
+ at 36 months. MSEL was introduced at 36 months to assess early intellectual development and readi-
+ ness for school, and it has been validated for use in rural Uganda [22]. Inter-observation agreement be-
+ tween the child assessment team was good indicated by an intra-class correlation coefficient (ICC) of 0.75
+ (P = 0.0001) for BSI-III, 0.79 (P = 0.0001) for ASQ and 0.77 (P < 0.001) for MSEL.
+ 
+<section> Weight, height, and head circumference (HC) were measured as recommended by WHO [21], with a
+ Seca-scale model 881 (Hamburg, Germany) to the nearest 0.1 kg. Height was measured (to the near-
+ est 0.1 cm) with a Seca board (SO114530). HC was measured with a non-stretchable tape (Seca,
+ S0145630 PAC-50). Anthropometric data were converted to z-scores, height-for-age (HAZ), weight-
+ for-age (WAZ), weight-for-height (WHZ), and head circumference (HCZ), using the Anthro (version
+ 3.2.2) software, a nutritional assessment tool based on WHO standards. A z-score<-2 SD from the me- 
+<insert> Figure 1. Profile of the parental trial and the follow-up study. 
+<iend>
+
+ dian of the WHO reference standards indicated
+ for WHZ, respectively [23].
+ 
+<section> We collected stool samples using sterile cotton
+ zen at -20°C within 24 hours of collection.
+ 
+<section> lands for further processing and analyses (Supplementary
+ very limited effect on the microbial composition
+ of the gut microbiota samples sequenced in
+ SUB4476421.
+ 
+<section> Statistical analyses
+ 
+<section> The primary outcome in the current follow-up
+ III at 36 months. Previous intervention studies
+ of about 0.5 SD in child development score
+ a difference between the two study groups
+ 0.5 SD (corresponding to 7.5 points) with
+ quired. To account for an intra-cluster correlation
+ sub-county was 15, thus a total of 155 children
+ selected the 77 children from the intervention
+ months. Child development outcomes and
+ Statistical Software: Release 14. College Station,
+ Statistics, IBM Corp., Armonk, NY). Significance
+ regression to compare the intervention with
+ the two study groups are given as mean (SD
+ 
+<section> All statistical analysis of gut microbiota on the
+ R version 3.3.2 (R Core Team, 2016) [27].
+ transformed using Wisconsin double and square
+ Shannon and 1-Simpson’s diversity indices
+ Whereas increasing values for the Shannon diversity
+ the 1-Simpson’s index. All PERMANOVA analyses
+ sure. All phyla and genera were included in
+ 
+<section> stunting for HAZ, underweight for WAZ and wasting
+ swabs (COPAN Diagnostics Inc, Murrieta, CA) and fro-
+ The samples were then air-dried and shipped to the Nether-
+ information). These storage conditions have a
+ [24]. All 16S rRNA amplicon paired end reads (n = 560)
+ this study can be accessed at Sequence Read Archive (SRA)
+ study was cognitive development assessed with the BSID-
+ in similar low-resource-settings report a mean difference
+ between intervention and control groups [5,25]. To detect
+ in the BSID-III cognitive composite score at 36 months of
+ a power of 0.8 and α of 0.05, 63 children per group was re-
+ of 0.01 and dropouts, the mean number of children per
+ were included [15,26]. Among these 155 we randomly
+ group and the 78 children from the control group at 20-24
+ growth were analyzed using Stata/SE (StataCorp. 2015, Stata
+ Stockholm, Sweden) and SPSS version 22.0 (IBM SPSS
+ level was set at P < 0.05. We used a mixed effect linear
+ the control group and estimated ICC. Differences between
+ or 95% CI).
+ 
+<section> 16S rRNA amplicon sequencing data was performed using
+ The 16S rRNA amplicon sequencing data was rescaled and
+ root transformations. The PERMANOVA procedures,
+ were performed as implemented in the ‘vegan’ package [28].
+ 
+<section> index indicate more diversity, the opposite is true for
+ were performed using the Bray-Curtis distance mea-
+ the statistical analysis.
+ 
+<section> RESULTS
+ 
+<section> Study participants
+ 
+<section> One hundred and fifty-five mother-child pairs
+ were included at 20-24 months (Figure 1). By
+ 36 months, eight of them were lost to follow-up
+ (three in the intervention group and five in the
+ control group). There were no significant differ-
+ ences in the characteristics between the paren-
+ tal cohort (data obtained at baseline) and the fol-
+ low-up cohort (data obtained at 20-24 months;
+ 
+<section> Table 1), thus no adjustments for baseline differ-
+ ences were made in subsequent analyses.
+ 
+<section> Development outcomes
+ 
+<section> Overall, the intervention significantly improved
+ all child development outcomes (ie, cognitive,
+ language and motor composite scores) based on
+ the BSID-III at 36 months (Table 2). The Cohen’s
+ d effect sizes at 36 months were medium (cogni-
+ tive 0.57, language 0.56 and motor 0.50). The ef-
+ fect of the intervention on the ASQ mean scores
+ for communication, gross motor, problem solv-
+ ing, and personal social development, was sig- 
+<insert> Table 1. Study population characteristics for the parental trial at baseline and at start of the follow-up study*
+ P arental trial ( data obtained at baseline )
+ Intervention (n = 263) Control (n = 248)
+ F ollow - up study ( data obtained at 20-24 months )
+ Intervention (n = 77)
+ Children (n, %):
+ Males 139 (52.9) 123 (49.6) 44 (57.1)
+ Females 124 (47.1) 125 (50.4) 33 (42.9)
+ Age at inclusion (months) 7.4 (0.8) 7.3 (0.9) 21.4 (1.0)
+ Stunting† 55 (20.9) 70 (28.0) 32 (18.1)
+ Underweight† 25 (9.5) 36 (14.5) 6 (8.3)
+ Wasting† 12 (4.6) 12 (4.8) 3 (4.2)
+ BSID-III composite score:
+ Cognitive 114.9 (21.3) 99.3 (17.1) 116.1 (15.6)
+ Language 98.3 (14.3) 88.4 (9.1) 106.5 (14.8)
+ Motor 113.7 (18.9) 99.1 (14.3) 122.3 (18.7)
+ ASQ scores:
+ Communication 40.8 (14.5) 33.8 (15.3) 51.4 (9.9)
+ Gross motor 52.8 (10.3) 46.9 (13.8) 55.6 (7.0)
+ Fine motor 44.6 (9.9) 40.4 (11.5) 47.9 (10.8)
+ Problem solving 49.5 (11.7) 40.6 (13.1) 44.0 (12.3)
+ Personal-social 41.0 (11.3) 36.6 (11.1) 48.7 (10.8)
+ Illness at study time (n, %):
+ Yes 94 (35.7) 71 (28.6) 47 (61.0)
+ No 169 (64.3) 177 (71.4) 30 (39.0)
+ Maternal data:
+ Maternal education (years) 4.9 (2.8) 4.9 (2.8) 5.5 (2.5)
+ Maternal age (years) 26.1 (5.8) 26.8 (6.3) 26.2 (6.1)
+ Number of children per mother 3.4 (2.2) 3.3 (2.2) 3.4 (2.2)
+ Household data:
+ Household head age (years) 31.3 (7.7) 32.6 (19.4) 30.2 (7.3)
+ Household head education (years) 6.4 (3.1) 5.9 (3.1) 6.6 (3.3)
+ Household size (n) 5.5 (2.1) 5.5 (2.1) 5.7 (2.2)
+ Household poverty score 47.8 (11.7) 47.6 (11.4) 49.0 (11.6)
+ Sanitation composite score 7.2 (1.9) 7.3 (1.9) 7.0 (1.8)
+ ASQ – Ages and Stages Questionnaire, BSID – Bayley’s Scales of Infant and Toddler Development
+ *Values are means (SD) unless otherwise stated.
+ †z- score values are <-2SD of the median of the reference population.
+ P- value
+ Control (n = 78)
+ 41 (52.6)
+ 37 (47.4)
+ 21.2 (1.0)
+ 46 (36.6)
+ 8 (11.3)
+ 2 (2.8)
+ 0.75
+ 0.40
+ 0.24
+ 0.06
+ 0.37
+ 0.50
+ 105.9 (15.9)
+ 98.9 (12.8)
+ 113.3 (19.9)
+ 0.89
+ 0.50
+ 0.49
+ 48.1 (11.4)
+ 53.8 (9.7)
+ 42.5 (13.9)
+ 40.1 (12.7)
+ 45.8 (9.9)
+ 0.36
+ 0.51
+ 0.23
+ 0.24
+ 0.35
+ 40 (51.3)
+ 38 (48.7)
+ 0.21
+ 0.38
+ 5.0 (2.6)
+ 27.4 (6.4)
+ 3.3 (2.2)
+ 0.20
+ 0.27
+ 0.25
+ 33.1 (10.9)
+ 6.5 (3.4)
+ 5.8 (2.2)
+ 46.3 (12.3)
+ 7.1 (1.9)
+ 0.06
+ 0.29
+ 0.76
+ 0.18
+ 0.83
+ C haracteristics 
+<iend>
+
+ 
+<insert> Table 2. Composite scores derived from the Bayley Scales of Infant and Toddler Development-III scales*
+ A ge of child ( months ) I ntervention ( n = 73-77)† C ontrol ( n = 74-78)† B etween group difference ‡
+ 117.84 (20.86)
+ 116.07 (15.55)
+ 101.58 (19.14)
+ 105.94 (15.99)
+ 100.31 (12.91)
+ 106.54 (14.79)
+ 113.79 (16.06)
+ 122.32 (18.74)
+ Cognitive composite scores:
+ 20-24
+ Language composite scores:
+ 20-24
+ Motor composite scores:
+ 20-24
+ P- value § ICC
+ 16.26 (9.57 to 23.04)
+ 10.13 (3.31 to 17.05)
+ 0.0001
+ 0.002
+ 0.05
+ 89.00 (9.32)
+ 98.95 (12.77)
+ 11.31 (5.43 to 17.28)
+ 7.59 (1.62 to 13.66)
+ 0.0001
+ 0.010
+ 0.06
+ 100.04 (15.47)
+ 113.32 (19.89)
+ 13.75 (7.80 to 20.01)
+ 9.00 (2.92 to 15.40)
+ 0.0001
+ 0.005
+ 0.01
+ ICC – intra-class correlation coefficient
+ *Values are means (standard deviation) unless otherwise stated.
+ †The variation in n was due to missing data because some children did not complete all the tests.
+ ‡Mean differences (95% CI) of Bayley Scales of Infant and Toddler Development-III composite scores.
+ §P-value is for the difference between the two study groups adjusted for clusters. 
+<iend>
+
+ 
+<section> Child development, growth and microbiota
+ 
+<section> nificantly higher in the intervention group compared with the controls at 24 months (Table 3). At
+ months, the ASQ fine motor scores were significantly higher in the intervention group compared with
+ the controls. The Cohen’s d effect sizes at 36 months ranged from small to medium for the ASQ scores
+ (gross motor 0.16, personal social development 0.25, problem solving 0.29, fine motor 0.49 and com-
+ munication 0.68). Also, the MSEL fine motor, language (receptive and expressive), cognitive and early 
+<insert> Table 3. Mean scores from the Ages and Stages Questionnaire*
+ A ge of child ( months ) I ntervention ( n = 71-74)† C ontrol ( n = 70-73)† B etween group difference ‡ P- value § ICC
+ 41.37 (14.04)
+ 51.41 (9.96)
+ 31.58 (18.45)
+ 48.11 (11.40)
+ 9.79 (3.90 to 15.76)
+ 3.30 (-2.68 to 9.33)
+ 0.001
+ 0.28
+ 0.06
+ 53.46 (10.76)
+ 55.58 (7.04)
+ 46.47 (15.79)
+ 53.80 (9.72)
+ 6.99 (2.47 to 11.60)
+ 1.78 (-2.80 to 6.47)
+ 0.003
+ 0.44
+ 0.00
+ 45.73 (9.93)
+ 47.93 (10.80)
+ 42.04 (12.58)
+ 42.52 (13.94)
+ 3.69 (-0.27 to 8.01)
+ 5.41 (1.36 to 9.81)
+ 0.067
+ 0.010
+ 0.07
+ 50.35 (10.19)
+ 44.02 (12.25)
+ 38.94 (14.24)
+ 40.06 (12.69)
+ 11.41 (7.24 to 15.57)
+ 3.96 (-0.31 to 8.21)
+ 0.0001
+ 0.069
+ 0.02
+ 43.24 (10.41)
+ 48.74 (10.83)
+ 36.81(10.05)
+ 45.75 (9.95)
+ 6.43 (1.99 to 10.85)
+ 2.99 (-1.54 to 7.49)
+ 0.0001
+ 0.10
+ 0.06
+ Communication scores:
+ 20-24
+ Gross motor scores:
+ 20-24
+ Fine motor scores:
+ 20-24
+ Problem solving scores:
+ 20-24
+ Personal-social development scores:
+ 20-24
+ ICC – intra-class correlation coefficient
+ *Values are means (standard deviation) unless otherwise stated. ICC- intra-class correlation coefficient.
+ †The variation in n was due to missing data because some children did not complete all the tests.
+ ‡Mean differences (95% CI) of Ages and Stages Questionnaire scores.
+ §P-value is for the difference between the two study groups adjusted for clusters. 
+<iend>
+
+ 
+<insert> Table 4. Mullen Scales of Early Learning scores obtained in the two study groups at 36 months*
+ Visual reception
+ Fine motor
+ Receptive language
+ Expressive language
+ Cognitive total score
+ Early learning score
+ I ntervention ( n = 74) C ontrol ( n = 73) B etween group difference † P- value ‡
+ 53.31 (13.63)
+ 62.84 (15.55)
+ 58.72 (10.33)
+ 60.59 (10.33)
+ 235.46 (42.27)
+ 75.64 (29.17)
+ 50.33 (12.44)
+ 56.18 (14.91)
+ 55.10 (11.26)
+ 56.25 (10.51)
+ 217.85 (41.35)
+ 64.77 (31.67)
+ 2.98 (-7.24 to 1.27)
+ 6.66 (1.69 to 11.83)
+ 3.62 (0.10 to 7.14)
+ 4.34 (0.95 to 7.74)
+ 17.61 (3.98 to 31.24)
+ 10.87 (1.81 to 14.87)
+ 0.17
+ 0.009
+ 0.044
+ 0.012
+ 0.012
+ 0.013
+ *Values are means (standard deviation) unless otherwise stated.
+ †Mean differences (95% confidence interval) of Mullen Scales of Early Learning scores.
+ ‡P-value is for the difference between the two study groups adjusted for clusters. 
+<iend>
+
+ learning composite standard scores were significantly higher in the intervention compared to the con-
+ trols at 36 months (Table 4). In contrast, the MSEL visual reception scores were not different between
+ the two study groups. The corresponding mean Cohen’s d effect sizes were: 0.23, 0.44, 0.34, 0.42, 0.42,
+ and 0.36 for MSEL visual reception, fine motor, receptive language, expressive language, cognitive total
+ score and early learning score, respectively.
+ 
+<section> Growth outcomes
+ 
+<section> The mean HAZ declined in both study groups during the study period, indicating linear growth faltering
+ (Table 5). However, this decline was significantly less at 36 months in the intervention compared with
+ the control group. There were no significant differences in the other mean anthropometric measures (ie,
+ WAZ, WHZ, and HCZ) at 36 months. The Cohen’s d effect sizes at 36 months were 1.01, 0.16, -0.46,
+ and 0.30 for HAZ, WAZ, WHZ, and HCZ, respectively.
+ 
+<section> Gut microbiota composition
+ 
+<section> The intervention did not lead to any significant changes in the gut microbiota diversity compared with the
+ control group at the phylum level (Figure 2). Neither did we observe any significant differences between
+ the two study groups in the Shannon diversity index at the two time points (Figure 3). However, as ex-
+ pected the Shannon diversity index increased significantly in both study groups from 20-24 to 36 months,
+ indicating increased gut microbiota diversity, while there was no significant change in the overall genera
+ distribution from 20-24 to 36 months. In line with this, there was no change in the variable 1-Simpson
+ index between the two study groups at the two time points (Figure 3), and this variable increased from
+ 20-24 to 36 months, again indicating increased gut microbiota diversity. In support of these findings, the 
+<insert> A ge of child ( months )
+ Height-for-age z-scores:
+ 20-24
+ Weight-for-age z-scores:
+ 20-24
+ Weight-for-height z-scores:
+ 20-24
+ Head circumference z-scores:
+ 20-24
+ I ntervention ( n = 74-77)† C ontrol ( n = 73-78)† B etween group difference ‡ P- value § ICC
+ -1.96 (1.14)
+ -2.15 (1.01)
+ -2.07 (1.20)
+ -2.65 (0.88)
+ 0.11 (-0.14 to 0.35)
+ 0.50 (0.25 to 0.75)
+ 0.41
+ 0.0001
+ 0.34
+ -0.76 (0.88)
+ -0.98 (0.89)
+ -0.85 (0.88)
+ -1.18 (0.69)
+ 0.09 (-0.37 to 0.55)
+ 0.20 (-0.27 to 0.66)
+ 0.70
+ 0.40
+ 0.10
+ 0.26 (0.94)
+ 0.44 (0.91)
+ 0.45 (0.77)
+ 0.84 (0.74)
+ -0.19 (-0.52 to 0.16
+ 0.40 (-0.75 to 0.05
+ 0.31
+ -0.054
+ 0.04
+ 0.30 (0.93)
+ -0.34 (0.90)
+ 0.61 (1.05)
+ 0.05 (1.01)
+ -0.25 (-0.64 to 0.04)
+ -0.39 (-0.72 to 0.34)
+ 0.079
+ 0.055
+ 0.00
+ *Values are means (standard deviation) unless otherwise stated. ICC-intra-class correlation coefficient.
+ † The variation in n is due to missing data.
+ ‡Mean differences (95% confidence interval).
+ §P-value is for the difference between the two study groups adjusted for clusters.
+ Table 5. Child growth during the study period* 
+<iend>
+
+ 
+<insert> Figure 2. Fecal microbiota compositions based on normalized 16S rRNA amplicon sequencing reads from the
+ control (left pie charts) and intervention (right pie charts) group at 20-24 (upper pie charts) and at 36 (lower pie
+ charts) months. The outer donuts represent the four predominant phyla (legend: right upper corner) and the inner
+ pie charts the most abundant genera within each of these phyla (legend: left). Charts indicate the average relative
+ abundance of phyla and genera in the fecal microbiota of the children with a cut-off value of 0.7%. 
+<iend>
+
+ Child development, growth and microbiota
+ 
+<section> PERMANOVA analysis revealed that there was a significant change in the composition of the gut micro-
+ biota from 20-24 to 36 months, both at the genus (P = 0.001) and at the phylum (P = 0.001) level, but
+ that there was no significant effect (P = 1) of the intervention on the overall gut microbiota composition.
+ 
+<section> DISCUSSION
+ 
+<section> This is probably the first randomized education intervention trial incorporating gut microbiota analysis
+ in rural Sub-Saharan Africa. In the parental trial the 6-month education intervention led to significant
+ improvements in development outcomes when the children reached 20-24 months, without affecting
+ growth [15]. We now show a sustained improvement in the development outcomes even at 36 months
+ and with the use of three independent tools. The intervention also reduced linear growth faltering until
+ 36 months, but had no effect on gut microbiota composition. 
+<insert> Figure 3. Shannons diversity index (A) and 1-Simpsons index (B)
+ for gut microbiota diversity obtained from the control (open sym-
+ bol) and intervention (closed symbol) group among the children
+ at age 20-24 and 36 months. Values are mean ± standard devia-
+ tion. 
+<iend>
+
+ [36]. As improved diet and hygienic practices
+ enhance nutrition may indirectly impact positively
+ Previous studies on nutrition and gut microbiota
+ specific nutrients, pre- or probiotics to modify
+ sized education of the mothers about preparing
+ maintaining good oral health among their children.
+ we could not detect any significant effects on
+ Our baseline data on maternal and household
+ from Uganda [40-42]. Our education intervention
+ intakes, hygiene/sanitary practices and stimulation
+ the mothers. Although it is not possible to exactly
+ child development outcomes, the unchanged
+ intervention group at 20-24 months [15] as well
+ ments were predominantly resulting from enhanced
+ view of combined nutrition and stimulation
+ ly improved through stimulation while growth
+ [43]. Although this review found little evidence
+ lation interventions on child development,
+ hygiene and child stimulation education may
+ 
+<section> Strengths and limitations
+ 
+<section> In this study we adopted a multidisciplinary
+ gy, microbiology and validated research instruments.
+ Despite that only about one-third of the mother-child
+ this follow-up study, the latter cohort was well
+ Our effect sizes on child development outcomes were
+ comparable/higher than those obtained in previous studies
+ that included nutrition supplementation and child stim-
+ ulation intervention [5,29,30]. Studies from low income
+ countries using the BSID-III to assess development found
+ that children who received both nutrition and respon-
+ sive stimulation reported higher cognitive, language and
+ motor skills compared to those who only received either
+ nutrition or stimulation [25,31]. Notably, most of these
+ studies provided micronutrient supplementation and play
+ materials whereas we educated the mothers without sup-
+ porting them with either food or toys. Mother-child play
+ interaction models promote children’s engagement in sev-
+ eral activities that enhance development [32]. Moreover,
+ our findings are in accordance with a previous Ugandan
+ study which reported slightly higher cognitive scores three
+ months after stimulation and nutrition education [20].
+ 
+<section> The baseline stunting levels observed in the two study
+ groups compare favorably with those of previous sur-
+ veys in Uganda [33]. Corroborating the anthropometric
+ results obtained when the children were 20-24 months
+ [15], most growth indicators were not significantly differ-
+ ent between the two study groups at 36 months. The only
+ exception was a smaller reduction in linear growth falter-
+ ing in the intervention compared with the control group.
+ This could imply that the education intervention may have
+ a protective effect against linear growth faltering over time.
+ Emerging data suggest links between gut microbiota com-
+ position and stunting as well as cognition in childhood
+ 
+<section> [34,35], possibly mediated through cross-talk between
+ microbiota-derived signaling molecules and host tissues
+ may promote a healthy gut microbiota [37], interventions to
+ on child growth and development outcomes [38,39].
+ 
+<section> are mostly based on animal models or clinical trials with
+ microbiota diversity [39]. In the present trial we empha-
+ nutritious foods, ensuring hygienic meal preparations and
+ Despite acceptable adherence to this intervention [15],
+ gut microbiota composition after 20-24 or after 36 months.
+ 
+<section> characteristics were in line with previous reported data
+ consisted of a combined strategy to improve nutrient
+ through increased knowledge and empowerment of
+ specify which component(s) led to the improvement in
+ child diet diversity observed among the households in the
+ as the unaltered gut microbiota, suggest that the improve-
+ stimulation and hygiene practices. A systematic re-
+ interventions reported that child development was consistent-
+ and nutritional status were usually improved by nutrition
+ for combined benefits of both nutrition and child stimu-
+ our findings indicate that having a combination of nutrition,
+ have a potential benefit on child development outcomes.
+ 
+<section> approach combining aspects of nutrition, hygiene, psycholo-
+ Of note, the children were followed for several years.
+ pairs of the parental trial could be re-enrolled for
+ balanced with the baseline characteristics of the parental 
+<section> cohort. A limitation of our study was lack
+ no information about body composition,
+ the mothers in the intervention group continued
+ intervention and when the children reached
+ possibly be biased. Furthermore, we do not
+ velopment and growth of small children,
+ 
+<section> CONCLUSIONS
+ 
+<section> This nutrition, hygiene and stimulation education
+ dren had a positive effect on child development
+ fects of the intervention on gut microbiota
+ call for further research of such an intervention
+ other low-income rural settings.
+ 
+<section> Acknowledgements: We thank Guus Roeselers
+ early phase. Appreciation goes to the mothers
+ abled us to complete this study, as well as all field
+ 
+<section> Funding: The study was supported by the Throne
+ search Program “Personalized Health”.
+ 
+<section> Authorship contributions: PA and GKMM were
+ analyzing data and provided critical revisions
+ analyses and provided critical revisions to the manuscript.
+ vided critical revisions to the manuscript. AK interpreted
+ POI supervised the study and was responsible
+ provided critical revisions to the manuscript. ACW
+ design of the study as well as analyzing data and
+ the final manuscript as submitted and agree to
+ 
+<section> Competing interests: All authors completed
+ sure.pdf (available upon request from the corresponding
+ 
+<section> B  lack RE, Allen LH, Bhutta ZA, Caulfield LE, de
+ and regional exposures and health consequences.
+ 
+<section> REFERENCES
+ 
+<section> 6736(07)61690-0
+ 
+<section> 2  Countdown to 2030 Collaboration. Countdown
+ ductive, maternal, newborn, and child health. Lancet.
+ 
+<section> 6736(18)30104-1
+ 
+<section> 3  Lu C, Black MM, Richter LM. Risk of poor development
+ tries: an estimation and analysis at the global, regional,
+ line:27717632 doi:10.1016/S2214-109X(16)30266-2
+ 
+<section> 4  Prado EL, Dewey KG. Nutrition and brain development
+ doi:10.1111/nure.12102
+ 
+<section> 5  Yousafzai AK, Rasheed MA, Rizvi A, Armstrong R,
+ interventions in the Lady Health Worker programme
+ a cluster-randomised factorial effectiveness trial.
+ 
+<section> 6736(14)60455-4
+ 
+<section> 6  Aboud FE, Yousafzai AK. Global health and development
+ line:25196276 doi:10.1146/annurev-psych-010814-015128
+ 
+<section> 7  Larson LM, Yousafzai AK. A meta-analysis of nutrition
+ low- and middle-income countries. Matern Child
+ mcn.12229
+ 
+<section> 8  Kane AV , Dinh DM, Ward HD. Childhood malnutrition
+ Medline:25356748 doi:10.1038/pr.2014.179
+ 
+<section> 9  Krebs NF , Lozoff B, Georgieff MK. Neurodevelopment:
+ low-resource settings. Pediatrics. 2017;139 Suppl
+ 
+<section> Child development, growth and microbiota
+ 
+<section> of baseline data of gut microbiota composition, and we have
+ dietary intakes or relevant biomarkers among the children or if
+ to stimulate their children in the period between end of
+ the age of three years. ASQ is a maternal report and could
+ report on maternal mental health which may impact on de-
+ in particular in low-resource settings [44].
+ 
+<section> intervention among mothers of 6-8 months old chil-
+ and growth until 36 months. We found no significant ef-
+ composition. The positive effects from this intervention would
+ before consideration of scale-up and implementation in
+ for his contribution to design of the gut microbiota study in the
+ and children in Kisoro and Kabale districts whose valuable time en-
+ staff for their dedicated work.
+ Holst Foundation, the University of Oslo and TNO’s Early Re-
+ responsible for the concept and design of the study as well as
+ to the manuscript. TB and RK were responsible for the microbiota
+ LMD was responsible for the statistical analyses and pro-
+ the data and provided critical revisions to the manuscript.
+ for the concept and design of the study as well as analyzing data and
+ supervised the study and was responsible for the concept and
+ provided critical revisions to the manuscript. All authors approved
+ be accountable for all aspects of the work.
+ the Unified Competing Interest form at www.icmje.org/coi_disclo-
+ author), and declare no conflicts of interest.
+ 
+<section> Onis M, Ezzati M, et al. Maternal and child undernutrition: global
+ Lancet. 2008;371:243-60. Medline:18207566 doi:10.1016/S0140-
+ to 2030: tracking progress towards universal coverage for repro-
+ 2018;391:1538-48. Medline:29395268 doi:10.1016/S0140-
+ in young children in low-income and middle-income coun-
+ and country level. Lancet Glob Health. 2016;4:e916-22. Med-
+ in early life. Nutr Rev. 2014;72:267-84. Medline:24684384
+ Bhutta ZA. Effect of integrated responsive stimulation and nutrition
+ in Pakistan on child development, growth, and health outcomes:
+ Lancet. 2014;384:1282-93. Medline:24947106 doi:10.1016/S0140-
+ in early childhood. Annu Rev Psychol. 2015;66:433-57. Med-
+ interventions on mental development of children under-two in
+ Nutr. 2017;13. Epub 2015 Nov 26. Medline:26607403 doi:10.1111/
+ and the intestinal microbiome. Pediatr Res. 2015;77:256-62.
+ 
+<section> The impact of nutrition and inflammation during infancy in
+ 1:S50-8. Medline:28562248 doi:10.1542/peds.2016-2828G 
+<section> 10  Gordon JI, Dewey KG, Mills DA, Medzhitov RM.
+ 2012;4:137ps12. Medline:22674549 doi:10.1126/scitranslmed.3004347
+ 
+<section> REFERENCES
+ 
+<section> 11  Sherwin E, Sandhu KV , Dinan TG, Cryan JF. May
+ ta-gut-brain axis in neuropsychiatry. CNS Drugs. 2016;30:1019-41.
+ 
+<section> 12  De Filippo C, Cavalieri D, Di Paola M, Ramazzotti M,
+ revealed by a comparative study in children from Europe
+ 6. Medline:20679230 doi:10.1073/pnas.1005963107
+ 
+<section> 13 Grześkowiak  Ł, Collado MC, Mangani C, Maleta K,
+ African and northern European infants. J Pediatr Gastroenterol
+ MPG.0b013e318249039c
+ 
+<section> 14  Cheung YB, Xu Y, Mangani C, Fan YM, Dewey KG, Salminen
+ supplementation trial. Trop Med Int Health. 2016;21:283-90.
+ 
+<section> 15 M  uhoozi GKM, Atukunda P, Diep LM, Mwadime R,
+ ucation to improve growth, cognitive, language, and
+ ized trial. Matern Child Nutr. 2018;14:e12527. Medline:28925580
+ 
+<section> 16  Yatsunenko T, Rey FE, Manary MJ, Trehan I, Dominguez-Bello
+ across age and geography. Nature. 2012;486:222-7.
+ 
+<section> 17  Peyre H, Charkaluk ML, Forhan A, Heude B, Ramus
+ IQ at 5-6 years old? Results of the EDEN mother-child
+ doi:10.1016/j.ejpn.2016.11.001
+ 
+<section> 18  PAHO/WHO. Guiding Priciples for Complementary
+ Promotion and Protection; World Health Organisation;
+ 
+<section> 19  Bandura A. Social cognitive theory: an agentic perspective.
+ doi:10.1146/annurev.psych.52.1.1
+ 
+<section> 20  Singla DR, Kumbakumba E, Aboud FE. Effects of a
+ and child development and growth in rural Uganda:
+ 2015;3:e458-e469. Medline:26144389 doi:10.1016/S2214-109X(15)00099-6
+ 
+<section> 21 H  ornman J, Kerstjens JM, de Winter AF, Bos AF, Reijneveld
+ es Questionnaire 60-month version and the effect
+ line:24041814 doi:10.1016/j.earlhumdev.2013.08.016
+ 
+<section> 22  Boivin MJ, Sikorskii A, Familiar-Lopez I, Ruiseñor-Escudero
+ by anaemia lessens cognitive development in younger
+ doi:10.1186/s12936-016-1266-x
+ 
+<section> 23  Child Growth Standards WHO. Geneva, Switzerland:World
+ 
+<section> 24  Lauber CL, Zhou N, Gordon JI, Knight R, Fierer N. Effect
+ structure in soil and human-associated samples. FEMS
+ j.1574-6968.2010.01965.x
+ 
+<section> 25  Gardner JM, Powell CA, Baker-Henningham H, Walker
+ psychosocial stimulation: effects on the development
+ 405. Medline:16087985 doi:10.1093/ajcn/82.2.399
+ 
+<section> 26  Campbell MJ, Donner A, Klar N. Developments in
+ 2007;26:2-19. Medline:17136746 doi:10.1002/sim.2731
+ 
+<section> 27  Team RC. A language and environment for statistical
+ org/. 2017.
+ 
+<section> 28 Oksanen  J, Blanchet FG, Friendly M, Kindt R, Legendre
+ able: https://cran.r-project.org/web/packages/vegan/index.html.
+ 
+<section> 29  Prado EL, Sebayang SK, Apriatni M, Hidayati N, Islamiyah
+ mentation and other biomedical and socioenvironmental
+ sia: follow-up of the SUMMIT randomised trial. Lancet
+ 
+<section> S2214-109X(16)30354-0
+ 
+<section> 30  Chang SM, Grantham-McGregor SM, Powell CA, Vera-Hernández
+ ing a parenting intervention with routine primary health
+ Medline:26148947 doi:10.1542/peds.2015-0119
+ 
+<section> 31  Yousafzai AK, Obradovic J, Rasheed MA, Rizvi A, Portilla
+ and nutrition interventions on children’s development
+ stan: a longitudinal follow-up of a cluster-randomised
+ Medline:27342433 doi:10.1016/S2214-109X(16)30100-0
+ 
+<section> 32  Bentenuto A, De Falco S, Venuti P. Mother-child play:
+ typical development. Front Psychol. 2016;7:1829. Medline:27920745
+ 
+<section> 33  UBOS. Uganda Demographic and Health Survey. (2011).
+ 
+<section> ICF International Inc.
+ 
+<section> 34  Carlson AL, Xia K, Azcarate-Peril MA, Goldman BD,
+ cognitive development. Biol Psychiatry. 2018;83:148-59.
+ The human gut microbiota and undernutrition. Sci Transl Med.
+ 
+<section> the force be with you: The light and dark sides of the microbio-
+ Medline:27417321 doi:10.1007/s40263-016-0370-3
+ Poullet JB, Massart S, et al. Impact of diet in shaping gut microbiota
+ and rural Africa. Proc Natl Acad Sci U S A. 2010;107:14691-
+ Laitinen K, Ashorn P, et al. Distinct gut microbiota in southeastern
+ Nutr. 2012;54:812-6. Medline:22228076 doi:10.1097/
+ 
+<section> SJ, et al. Gut microbiota in Malawian infants in a nutritional
+ Medline:26644222 doi:10.1111/tmi.12650
+ Kaaya AN, Skaare AB, et al. Nutrition, hygiene, and stimulation ed-
+ motor development among infants in Uganda: A cluster-random-
+ 
+<section> doi:10.1111/mcn.12527
+ 
+<section> MG, Contreras M. etal. Human gut microbiome viewed
+ Medline:22699611 doi:10.1038/nature11053
+ F. Do developmental milestones at 4, 8, 12 and 24 months predict
+ cohort. Eur J Paediatr Neurol. 2017;21:272-9. Medline:27889381
+ Feeding of the Breastfed Child. Washington D.C, Division of Health
+ 2003.
+ Annu Rev Psychol. 2001;52:1-26. Medline:11148297
+ parenting intervention to address maternal psychological wellbeing
+ a community-based, cluster randomised trial. Lancet Glob Health.
+ SA. Validity and internal consistency of the Ages and Stag-
+ of three scoring methods. Early Hum Dev. 2013;89:1011-5. Med-
+ 
+<section> H, Muhindo M, Kapisi J, et al. Malaria illness mediated
+ Ugandan children. Malar J. 2016;15:210. Medline:27076184
+ 
+<section> Health Organization; 2006.
+ of storage conditions on the assessment of bacterial community
+ Microbiol Lett. 2010;307:80-6. Medline:20412303 doi:10.1111/
+ 
+<section> SP, Cole TJ, Grantham-McGregor SM. Zinc supplementation and
+ of undernourished Jamaican children. Am J Clin Nutr. 2005;82:399-
+ cluster randomized trials and statistics in medicine. Stat Med.
+ 
+<section> computing Vienna, Austria. Retrieved from https://www.r-project.
+ 
+<section> P, McGlinn D, et al. Vegan: community Ecology Package. Avail-
+ 
+<section> Accessed: 14 April 2019.
+ 
+<section> A, Siddiq S, et al. Maternal multiple micronutrient supple-
+ influences on children’s cognition at age 9-12 years in Indone-
+ Glob Health. 2017;5:e217-28. Medline:28104188 doi:10.1016/
+ 
+<section> M, Lopez-Boo F, Baker-Henningham H, et al. Integrat-
+ care: A cluster randomized trial. Pediatrics. 2015;136:272-80.
+ 
+<section> XA, Tirado-Strayer N, et al. Effects of responsive stimulation
+ and growth at age 4 years in a disadvantaged population in Paki-
+ factorial effectiveness trial. Lancet Glob Health. 2016;4:e548-58.
+ 
+<section> A comparison of autism spectrum disorder, Down syndrome, and
+ doi:10.3389/fpsyg.2016.01829
+ Kampala, Uganda:UBOS and Calverton (pp. 2012). Maryland:
+ Ahn M, Styner MA, et al. Infant gut microbiome associated with
+ Medline:28793975 doi:10.1016/j.biopsych.2017.06.021 
+<section> 35  Blanton LV , Barratt MJ, Charbonneau MR, Ahmed
+ crobiota-directed therapeutics. Science. 2016;352:1533.
+ 
+<section> REFERENCES
+ 
+<section> 36  Schroeder BO, Backhed F. Signals from the gut
+ 2016;22:1079-89. Medline:27711063 doi:10.1038/nm.4185
+ 
+<section> 37  Chassaing B, Vijay-Kumar M, Gewirtz AT. How
+ Opin Gastroenterol. 2017;33:417-21. Medline:29019865
+ 
+<section> 38  Cong X, Xu W, Romisher R, Poveda S, Forte S, Starkweather
+ crobiota axis and host genetic factors. Yale J Biol Med.
+ 
+<section> 39  Cong X, Henderson WA, Graf J, McGrath JM. Early
+ naling aystem. Adv Neonatal Care. 2015;15:314-23.
+ 
+<section> 40  FANTA-2. The analysis of the nutrition situation
+ ington, DC: AED; 2010.
+ 
+<section> 41  Wamani H, Nordrehaug A, Strøm A, Peterson S,
+ children under 2 years of age in rural Uganda.
+ 
+<section> PHN2006854
+ 
+<section> 42  Kikafunda JK, Agaba E, Bambona A. Malnutrition
+ levels of childhood stunting in food secure Western
+ 
+<section> 43  Grantham-McGregor SM, Fernald LC, Kagawa RM,
+ interventions on child development and nutritional
+ doi:10.1111/nyas.12284
+ 
+<section> 44  Rahman A, Fisher J, Bower P, Luchters S, Tran T,
+ ders in women in low- and middle-income countries:
+ 2013;91:593-601I. Medline:23940407 doi:10.2471/BLT.12.109819
+ 
+<section> Child development, growth and microbiota
+ 
+<section> T, Gordon JI. Childhood undernutrition, the gut microbiota, and mi-
+ Medline:27339978 doi:10.1126/science.aad9359
+ microbiota to distant organs in physiology and disease. Nat Med.
+ 
+<section> diet can impact gut microbiota to promote or endanger health. Curr
+ doi:10.1097/MOG.0000000000000401
+ 
+<section> A, et al. Gut microbiome and infant health: brain-gut-mi-
+ 2016;89:299-308. Medline:27698614
+ life experience and gut microbiome: The brain-gut-microbiota sig-
+ Medline:26240939 doi:10.1097/ANC.0000000000000191
+ in Uganda. Food and nutrition technical assistance II Project. Wash-
+ James T, Tylleskar T. Predictors of poor anthropometric status among
+ Public Health Nutr. 2006;9:320. Medline:16684383 doi:10.1079/
+ amidst plenty: an assessment of factors responsible for persistent high
+ Uganda. AFJAND. 2014;14:9288313.
+ Walker S. Effects of integrated child development and nutrition
+ status. Ann N Y Acad Sci. 2014;1308:11-32. Medline:24673166
+ Yasamy MT, et al. Interventions for common perinatal mental disor-
+ a systematic review and meta-analysis. Bull World Health Organ.

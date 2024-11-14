@@ -1,0 +1,1532 @@
+
+<section> Mental Health psychosocial
+ 
+<section> and host community
+ 
+<section> www.cambridge.org/gmh
+ 
+<section> Panamá: Results
+ 
+<section> randomized
+ 
+<section> Research Article
+ 
+<section> Cite this article: Greene MC, Bonz AG, Cristobal M. Claire Greene , Annie
+ M, Angulo A, Armijos A, Guevara ME, Vega C,
+ Benavides L, Corrales C, de la Cruz A, Lopez MJ, Andrea Armijos , María
+ Moyano A, Murcia A, Noboa MJ, Rodriguez A,
+ Solis J, Vergara D, Bollman EB, Andersen LS, Christine Corrales , Alejandra
+ Wainberg M and Tol WA (2023). Mixed-methods Andrea Murcia , Maria
+ evaluation of a group psychosocial intervention
+ for refugee, migrant and host community Daniela Vergara , E. Brennan
+ women in Ecuador and Panamá: Results from
+ the Entre Nosotras cluster randomized Wietse A. Tol 5,9
+ feasibility trial. Cambridge Prisms: Global Mental
+ Health, 10, e42, 1–12 Program on Forced Migration and
+ https://doi.org/10.1017/gmh.2023.37 Mailman School of Public Health,
+ Panamá; HIAS Ecuador, Quito,
+ Received: 17 March 2023
+ 
+<section> Revised: 07 June 2023 
+<section> Copenhagen, Copenhagen, Denmark;
+ Accepted: 09 July 2023 Physicians and Surgeons, New
+ Physicians and Surgeons, New
+ 
+<section> Keywords: Psychiatric Institute, New York,
+ psychosocial; community-based; The Netherlands
+ 
+<section> humanitarian; refugee; migrant
+ 
+<section> Corresponding author: Abstract
+ 
+<section> M. C. Greene; 
+<section> Community-based psychosocial
+ 
+<section> Email: mg4069@cumc.columbia.edu social support; yet evidence
+ settings is limited. This
+ safety of conducting a cluster
+ intervention. Nine community
+ standard version of the
+ intervention co-designed
+ that integrated a stress management
+ community women, we
+ lay facilitators to deliver
+ related to delays caused
+ and other competing priorities,
+ measures. Although the
+ comparative effectiveness
+ this pilot study we identified
+ tions. This comparative
+ nents of psychosocial interventions.
+ 
+<section> © The Author(s), 2023. Published by Cambridge 
+<section> Impact statement
+ University Press. This is an Open Access article, The mental health and psychosocial
+ distributed under the terms of the Creative social problems. Most existing
+ Commons Attribution licence (http://
+ creativecommons.org/licenses/by/4.0), which on treating symptoms of
+ permits unrestricted re-use, distribution and sive, anxiety and post-traumatic
+ reproduction, provided the original article is the social dimensions of
+ 
+<section> properly cited. positive mental health
+ demonstrating which intervention
+ previous research where
+ Ecuador and Panamá specifically
+ These problems included
+ isolation, loneliness, and
+ assembled an intervention
+ social wellbeing with evidence-based
+ 
+<section> intervention for refugee, migrant
+ 
+<section> women in Ecuador and
+ 
+<section> from the Entre Nosotras cluster
+ 
+<section> feasibility trial
+ 
+<section> G. Bonz , Maria Cristobal , Alejandra Angulo ,
+ E. Guevara , Carolina Vega 4,5 , Lucia Benavides ,
+ de la Cruz , Maria J. Lopez , Arianna Moyano ,
+ J. Noboa , Abhimeleck Rodriguez , Jenifer Solis ,
+ Bollman 1,6 , Lena S. Andersen , Milton Wainberg 7,8 and
+ 
+<section> Health, Heilbrunn Department of Population and Family Health, Columbia University
+ New York, NY, USA; HIAS, Silver Spring, MD, USA; HIAS Panamá, Panamá City,
+ Ecuador; Global Health Section, Department of Public Health, University of
+ Department of Emergency Medicine, Columbia University Vagelos College of
+ York, NY, USA; Department of Psychiatry, Columbia University Vagelos College of
+ York, NY, USA; Department of Psychiatry, Columbia University New York State
+ NY, USA and 9 Athena Research Institute, Vrije Universiteit Amsterdam, Amsterdam,
+ 
+<section> interventions are key elements of mental health and psycho-
+ regarding their effectiveness and implementation in humanitarian
+ study aimed to assess the appropriateness, acceptability, feasibility and
+ randomized trial evaluating two versions of a group psychosocial
+ clusters in Ecuador and Panamá were randomized to receive the
+ Entre Nosotras intervention, a community-based group psychosocial
+ with community members, or an enhanced version of Entre Nosotras
+ component. In a sample of 225 refugees, migrants and host
+ found that both versions were safe, acceptable and appropriate. Training
+ the intervention was feasible. Challenges included slow recruitment
+ by the COVID-19 pandemic, high attrition due to population mobility
+ and mixed psychometric performance of psychosocial outcome
+ intervention appeared promising, a definitive cluster randomized
+ trial requires further adaptations to the research protocol. Within
+ strategies to overcome these challenges that may inform adapta-
+ effectiveness design may be a model for identifying effective compo-
+ impacts of forced migration include both psychological and
+ research on mental health and psychosocial interventions focuses
+ psychological distress and common mental disorder, such as depres-
+ stress symptoms. While psychosocial interventions that target
+ mental health and psychosocial wellbeing and focus on promoting
+ are available and often implemented, there is less research evidence
+ strategies and components are effective. This study builds on
+ we co-designed an intervention with refugee and migrant women in
+ to address psychosocial problems that they had prioritized.
+ emotional distress, sadness, xenophobia and discrimination, social
+ gender-based violence. Through a community consultation process, we
+ that combined local strengths-based strategies to promote psycho-
+ intervention components focused on psychoeducation, 
+<section> problem solving and stress management. We trained pairs of refugee
+ had no prior experience with mental health and psychosocial support interventions,
+ host community women. We implemented a mixed methods study of
+ research and intervention protocols. Results from this study provide promising
+ of this intervention. Further adaptations are needed to overcome contextual
+ community settings, such as population mobility and barriers to attendance.
+ comparative effectiveness model to test specific intervention components
+ psychosocial interventions for displaced and migrant populations.
+ 
+<section> Introduction
+ 
+<section> In 2020, 3.6% of the global population – 281 million people – had
+ migrated and/or were residing across international borders
+ (IOM, 2022). In recent years there has been an increase in overall
+ migration, labor migration and forced migration, with the high-
+ est growth rate observed in Latin America and the Caribbean
+ (IOM, 2022). The economic and political crisis in Venezuela has
+ led to over 6 million people being displaced primarily to countries
+ within Latin America (UNHCR, 2022). Continued conflict in
+ Colombia and El Salvador as well as climate-related disasters in
+ Honduras, Cuba, among other countries in the region, have also
+ contributed to high levels of displacement and migration (IOM,
+ 2022).
+ Forced migration is associated with an increased risk of mental
+ health and psychosocial problems among asylum seekers, refugees
+ and migrants in Latin America (H. Carroll et al., 2020; Espinel
+ et al., 2020; Salas-Wright et al., 2022). Research supporting the
+ effectiveness of scalable psychological interventions to reduce
+ symptoms of common mental disorders and psychological dis-
+ tress, essential aspects of mental health and psychosocial well-
+ being (Bangpan et al., 2019), in populations affected by
+ humanitarian emergencies has increased (Barbui et al., 2020; Fuhr
+ et al., 2020; Tol et al., 2020). However, displacement and migra-
+ tion also present psychosocial challenges that extend beyond
+ symptoms of distress and common mental disorder. In prelimin-
+ ary research, we identified that in addition to psychological prob-
+ lems, social protection problems (e.g., gender-based violence,
+ feeling rejected and discrimination) were salient aspects of psy-
+ chosocial wellbeing among displaced women from Venezuela
+ (Greene et al., 2022b).
+ Research on promotion and prevention interventions that
+ emphasize the social dimensions of wellbeing is scant and often
+ suffers from methodological limitations (Haroz et al., 2020). One
+ limitation is the lack of evidence on which components of psy-
+ chosocial interventions are effective in improving mental health
+ and the mechanisms by which they operate. We piloted a
+ community-based psychosocial intervention, Entre Nosotras
+ (‘among/between us’ in Spanish), that was designed to address
+ the psychological and social dimensions of wellbeing for women
+ in Ecuador and Panamá (Greene et al., 2022b). In this study we
+ tested two versions of the intervention to determine the feasibil-
+ ity of research and intervention protocols. A future definitive
+ evaluation could then clarify whether specific components
+ enhanced intervention outcomes. Specifically, we included a
+ modified version of an evidence-based stress management inter-
+ vention to one study condition to evaluate (first) the feasibility,
+ and (in the future) potential unique effect, of this component
+ designed specifically for adults experiencing adversity. Adding
+ this psychological component could serve as a model for opti-
+ mizing community-based psychosocial interventions in future
+ research.
+ 
+<section> and migrant women from the 11 study communities, most of whom
+ to deliver this intervention to a total of 225 migrant and
+ two different versions of the intervention to assess the feasibility of
+ indications of the acceptability, appropriateness and safety
+ challenges to implementing and evaluating this intervention in
+ Further research evaluating this intervention and using this
+ is needed to advance the evidence on community-based
+ 
+<section> Study objectives
+ 
+<section> The objective of this feasibility trial was to evaluate the appropri-
+ ateness, acceptability, safety and feasibility of the Entre Nosotras
+ intervention and research procedures to inform the design of a fully
+ -powered cluster randomized comparative effectiveness trial.
+ 
+<section> Methods
+ 
+<section> This study was a two-arm comparative effectiveness cluster ran-
+ domized feasibility trial of two active group psychosocial interven-
+ tions designed for displaced and migrant women in Ecuador and
+ Panamá. The trial was approved by the Ethics Committees at
+ Columbia University Irving Medical Center, Universidad de San-
+ tander and Universidad San Francisco de Quito. The trial protocol
+ was published and registered online (NCT05130944) (Greene et al.,
+ 2022a).
+ 
+<section> Study setting
+ 
+<section> This project was implemented in collaboration with HIAS, an
+ international non-governmental organization that provides pro-
+ tection services, including community-based mental health and
+ psychosocial support, to refugees, migrants and other vulnerable
+ persons. The study was implemented in 11 communities nested
+ within three sites in Ecuador (Guayaquil and Tulcán) and Panamá
+ (Panamá City/Panamá West). Guayaquil is a large coastal city and a
+ destination for many refugees, asylum seekers and migrants (here-
+ after referred to as ‘migrants’) from Colombia and Venezuela.
+ Tulcán is a rural area located near the Ecuador–Colombia border
+ and often a temporary place of transit for migrants. Panamá City is
+ the capital of Panamá and a destination for migrants, primarily
+ from Central and South America. Many migrants settle in sur-
+ rounding peri-urban areas. The majority of migrants in Panamá
+ and approximately half of the migrants in Ecuador are female, most
+ of whom are of reproductive age (Blyde et al., 2020). These three
+ sites were selected because they have large migrant populations and
+ are diverse in terms of urbanicity, service delivery systems, popu-
+ lations and other implementation factors.
+ 
+<section> Participants and procedures
+ 
+<section> Randomization and blinding
+ Within the three sites, we randomly allocated at least half of the
+ communities to receive an enhanced version of the intervention,
+ Entre Nosotras, that included an additional stress management
+ component. Participants in the remaining communities received
+ the standard version of Entre Nosotras. Communities (clusters)
+ were randomly allocated to study conditions using a random
+ number generator in Stata by a researcher not affiliated with the
+ project. Two pairs of communities adjacent to each other with 
+<section> overlapping catchment areas were combined into two clusters
+ (versus four independent community clusters), thus leading to nine
+ randomized community clusters. It was not possible to blind par-
+ ticipants, intervention providers or outcome assessors to study
+ conditions.
+ 
+<section> Study conditions
+ Entre Nosotras is a community- and strengths-based intervention
+ designed to mobilize social support, strengthen community con-
+ nectedness and stimulate collective action to promote the safety and
+ wellbeing of migrant women. The intervention was composed of
+ existing intervention components as well as locally designed elem-
+ ents assembled through a community consultation process. The
+ participatory design of the intervention involved identifying and
+ characterizing priority psychosocial problems among migrant
+ women in the community through qualitative methods, conducting
+ theory of change and intervention design workshops, followed by
+ mock sessions to pilot and iteratively refine the intervention
+ (Greene et al., 2022b). The resulting intervention aimed to address
+ a range of problems prioritized by community members including
+ social problems (e.g., interpersonal violence, xenophobia and dis-
+ crimination, social isolation and loneliness) and psychological
+ problems (e.g., emotional distress and sadness).
+ The intervention included five weekly two-hour sessions
+ delivered by female facilitator pairs within the community and
+ designed to be adaptable across each study site (Supplemental Table
+ 1). The intervention was designed using content from the HIAS
+ Mental Health and Psychosocial Support Curriculum (HIAS,
+ 2021), Psychological First Aid (World Health Organization, War
+ Trauma Foundation, and World Vision International, 2011), Prob-
+ lem Management Plus (World Health Organization, 2016), partici-
+ patory methodologies (Soliz and Maldonado, 2012) and the
+ Community Action Cycle (Save the Children and Pathfinder,
+ 2013). The enhanced study condition integrated a stress manage-
+ ment component into each of the five sessions of the standard Entre
+ Nosotras intervention. The stress management component was
+ based on the World Health Organization’s Self Help Plus interven-
+ tion, and included audio exercises focused on skills for managing
+ stress (World Health Organization, 2020, 2021). Within each ses-
+ sion, facilitators introduced the skill(s) and the participants prac-
+ ticed the skill with the support of audio exercises in Spanish. The
+ objective of the study was to test the feasibility, as opposed to the
+ effectiveness, of the intervention and associated trial procedures.
+ Therefore we did not include a no-treatment control group.
+ 
+<section> Recruitment, screening and informed consent
+ Participants were recruited by referral from HIAS staff, community
+ workers and community leaders, and through community outreach
+ by research assistants. Research assistants contacted individuals by
+ phone or in person to provide information about the study. Inter-
+ ested individuals were invited to complete a screening after pro-
+ viding verbal consent. Participants were eligible if they were 18+
+ years of age, identified as a woman, were currently residing in the
+ study community, spoke and understood Spanish, and reported no
+ to moderate psychological distress (Kessler-6 < 13) (Kessler et al.,
+ 2003, 2010). In Ecuador, both migrant and host community women
+ were included because the integration of these communities
+ emerged as a community- and organizational-priority during the
+ formative research in Ecuador and was expected to promote
+ migrants’ wellbeing (Berry, 1985; Berry and Hou, 2021). In Pan-
+ amá, migrant women were included in the study. Participants in
+ both sites were excluded if they reported severe psychological
+ distress (Kessler-6 score ≥ 13), disclosed suicidality or displayed
+ cognitive impairment that would prevent participation in a group
+ psychosocial intervention. Excluded participants were referred to
+ HIAS for further assessment and services. Interested eligible parti-
+ cipants provided written informed consent before completing a
+ baseline assessment.
+ 
+<section> Data collection and measures
+ Participants completed a baseline assessment within 1 week of
+ enrollment and attended the first of five weekly intervention ses-
+ sions within 2 weeks of completing the baseline. Two follow-up
+ assessments were conducted by a research assistant after the inter-
+ vention (i.e., 5 weeks post-enrollment) and again 5 weeks post-
+ intervention (i.e., 10 weeks post-enrollment).
+ During this follow-up period we selected 10 facilitators and up
+ to 30 participants per site to complete in-depth qualitative inter-
+ views to explore the acceptability, appropriateness, feasibility and
+ safety of the intervention and research procedures. We randomly
+ selected participants within the following strata: intervention com-
+ pleters (4–5 sessions), low attenders (0–2 sessions), participants
+ with high baseline distress (Kessler-6 score > 10), participants with
+ low baseline distress (Kessler-6 score < 5), and both host and
+ migrant community members. Assessments were designed to be
+ conducted remotely or in person, depending on COVID-19 policies
+ and recommendations. Participants who completed the assess-
+ ments in person were reimbursed for transportation costs and given
+ a take-away snack. Participants who completed the assessments
+ remotely were reimbursed for airtime or internet connectivity.
+ We collected participant-, service- and implementation-level
+ measures to evaluate appropriateness, acceptability, safety and
+ feasibility using qualitative and quantitative measures (Proctor
+ et al., 2011). Participant-level outcomes assessed at baseline and
+ both follow-up assessments aligned with the priority outcomes
+ identified in the formative research (Greene et al., 2022a,b). Assess-
+ ment tools included the Brief COPE to measure coping (Carver,
+ 1997); the World Health Organization Disability Assessment
+ Schedule (WHODAS) to measure functioning (World Health
+ Organization, 2010); the Kessler-6 to measure psychological dis-
+ tress (Kessler et al., 2002); the Personal Wellbeing Index (PWI) to
+ measure psychosocial wellbeing, including the subscales of com-
+ munity connectedness and sense of safety (International Wellbeing
+ Group, 2013); and the Oslo Social Support Scale (OSS-3) to assess
+ social support (Kocalevent et al., 2018). The PWI, the 10-item
+ Kessler scale, Brief COPE and WHODAS have demonstrated
+ adequate psychometric properties in Spanish-speaking populations
+ (Moran et al., 2010; Terrez et al., 2011; Serrano-Duenas et al., 2020;
+ Perez-Belmonte et al., 2021).
+ Service-level outcomes included participant attendance and
+ adverse events, which were captured using structured intervention
+ monitoring forms completed at each Entre Nosotras session, and
+ perspectives on intervention appropriateness, acceptability and
+ safety.
+ Implementation-level measures included a fidelity checklist that
+ was completed by facilitator pairs at the end of each session. A
+ member(s) of the research team also observed at least two sessions
+ of the intervention per group and completed the fidelity checklist
+ during these sessions to enable a comparison of the self vs. external
+ fidelity evaluations. Facilitator competency was assessed by a
+ research team member during observed intervention sessions using
+ six items from the Enhancing Assessment of Common Therapeutic
+ Factors (ENACT) rating scale (Kohrt et al., 2015a,b). We measured
+ intervention usability from the perspective of facilitators at the end 
+<section> of the final Entre Nosotras session using the 10-item Intervention
+ Usability Scale (Lyon et al., 2021). We gathered other information
+ on primary outcomes (appropriateness, acceptability, safety and
+ feasibility) through structured intervention monitoring forms,
+ tracking logs (e.g., recruitment rates) and qualitative interviews.
+ 
+<section> Analyses
+ 
+<section> We examined the distribution of baseline participant-level charac-
+ teristics in the overall sample and stratified by study condition and
+ site. We calculated effect sizes to compare the magnitude of differ-
+ ences in these variables by site and condition using Cohen’s d for
+ continuous variables compared across study conditions, Eta-
+ squared for continuous variables compared across site, and Cra-
+ mer’s V for categorical variables compared across site and study
+ conditions.
+ We evaluated the psychometric performance of psychosocial
+ outcome measures by assessing the internal consistency using
+ Cronbach’s alpha, internal construct validity using confirmatory
+ factor analyses and external construct validity by estimating the
+ correlation among baseline levels of psychosocial outcomes. Fit of
+ the CFA models was evaluated using the chi-squared test statistic
+ (model vs. saturated), Comparative Fit Index (CFI), Tucker-Lewis
+ Index (TLI), Root Mean Square Error of Approximation (RMSEA)
+ and Standardized Root Mean Square Residual (SRMR). We
+ reported the mean difference and 95% confidence interval from
+ baseline to each follow-up timepoint by study condition to explore
+ sensitivity to change for the psychosocial outcome measures. We
+ reported Cohen’s d effect sizes for within- and between-group
+ changes.
+ To evaluate service- and implementation-level outcomes, we
+ employed a mixed-methods, explanatory analysis approach. We
+ first described the distribution of attendance by study condition
+ and community. We examined baseline correlates of intervention
+ completion, defined as attending four or more sessions, as well as
+ attrition, which was defined as missing one or both follow-up
+ assessments. Baseline correlates included demographic, migration
+ and psychosocial characteristics, which were regressed on binary
+ service-level outcomes (e.g., intervention completion and attrition)
+ using logistic regression. We reported descriptive statistics on other
+ service- and implementation-level indicators. These included the
+ proportion of individuals screened who were eligible, intervention
+ fidelity, intervention usability, recruitment rate, facilitator compe-
+ tency levels, contamination and adverse events. We used a thematic
+ approach to analyze the qualitative interviews. All themes emerging
+ from the data were mapped onto larger domains that aligned with
+ the study outcomes (appropriateness, acceptability, feasibility and
+ safety) (Braun and Clarke, 2006; Braun and Clarke, 2014). Three
+ coders reviewed 10% of the study transcripts to develop a prelim-
+ inary codebook and achieved 98.38% agreement when applying
+ those codes to two additional transcripts prior to independently
+ coding the remaining transcripts. Qualitative themes and codes
+ were used to explain quantitative findings.
+ 
+<section> Results
+ 
+<section> Participant-level outcomes
+ 
+<section> Characteristics of the sample at baseline
+ From the 342 women contacted from nine community clusters,
+ 275 (80.4%) completed the screening (see Figure 1) (Eldridge et al.,
+ 2016); most were eligible and enrolled in the study (n = 225 of 275;
+ 81.8%). On average, we enrolled 11.5 women per week. Random-
+ ization of five community clusters to the enhanced Entre Nosotras
+ intervention and four to the standard Entre Nosotras intervention
+ resulted in 121 women receiving the enhanced version and
+ 104 women receiving the standard version. Seventy-seven partici-
+ pants completed in-depth qualitative interviews during the follow-
+ up period. Thirty intervention facilitators completed in-depth
+ qualitative interviews.
+ At baseline women were 36 years of age, on average (SD = 11.7;
+ Table 1). Most had completed secondary school (52.0%) or college
+ (24.7%). Approximately half were unemployed (53.8%) and 30.5%
+ engaged in informal work. We observed lower levels of education
+ and higher rates of unemployment among participants in Tulcán
+ relative to Guayaquil and Panamá. Approximately two-thirds of
+ women were Venezuelan (65.9%), followed by Colombian (14.8%),
+ Ecuadorian (12.6%) and other nationalities including Cuban,
+ Dominican, El Salvadoran, Honduran, Nicaraguan or reported
+ multiple nationalities (6.7%). In Ecuador, 19.6% of the sample were
+ members of the host community. In Panamá, all participants were
+ migrants, primarily from Venezuela (45.1%), Colombia (37.8%) or
+ Central American and Caribbean countries (17.1%). One-quarter
+ of migrants in the sample (26.9%) had arrived within the last year.
+ The most common reasons for leaving their country of origin
+ included economic difficulties (43.8%), family reasons (25.8%),
+ political violence or armed conflict (14.4%), or work and other
+ opportunities (7.2%). Participant-level differences in demographic,
+ migration or psychosocial characteristics at baseline were small
+ (effect sizes < 0.5).
+ 
+<section> Psychosocial outcomes
+ The reliability and validity of outcome measures displayed variable
+ results. Internal consistency at baseline was adequate for the Per-
+ sonal Wellbeing Index ( α = 0.781), the Brief COPE ( α = 0.784) and
+ the WHO Disability Assessment Schedule ( α = 0.842). The
+ Kessler-6 ( α = 0.483; 6 items) and Oslo Social Support Scale
+ (α = 0.539; 3 items) displayed low internal consistency. The fifth
+ item on the Kessler-6 (‘feeling like everything was an effort’) revealed
+ low item-rest correlation and, if removed, would result in a five-
+ item measure of psychological distress with improved, although
+ still low, internal consistency ( α = 0.594). This item has displayed
+ low loadings and weak item-rest correlations in a previous valid-
+ ation study of the 10-item Kessler scale in Ecuador (Larzabal-
+ Fernandez et al., 2023).
+ The internal construct validity of most measures revealed
+ adequate to good fit statistics consistent with single-factor models,
+ with the exception of the Brief COPE, which displayed the best fit
+ for its recommended three-factor structure. The model fit of the
+ Personal Wellbeing Index, Brief COPE and WHO Disability
+ Assessment Schedule improved with the inclusion of covariances
+ between specific items as determined by the modification indices.
+ After these modifications were made, the Kessler-6 and Personal
+ Wellbeing Index displayed good model fit. The Brief COPE and
+ WHODAS displayed adequate fit. The Oslo Social Support Scale
+ did not yield fit statistics enabling evaluation of its internal con-
+ struct validity. Details of model fit and specification are provided in
+ Supplemental Table 3.
+ The correlations among baseline psychosocial measures
+ revealed mixed support for their external construct validity. Psy-
+ chosocial wellbeing and its subscales (community connectedness,
+ sense of safety) as well as social support were inversely correlated
+ with psychological distress and functional impairment, as 
+<insert> Figure 1. Participant flow chart.
+ Note: k = clusters, n = participants. 
+<iend>
+
+ 
+<section> Screened
+ 
+<section> Screened 
+<section> assessment
+ 
+<section> Enrollment 
+<section> Assessed for
+ 
+<section> Randomized
+ 
+<section> Allocation
+ 
+<section> Allocated to enhanced intervention (k=5, n=121)
+ i Not reachable after baseline (n=2)
+ i Received 1+ session of intervention (n=119)
+ i Completed intervention (4+ sessions; n=47)
+ 
+<section> Follow-Up
+ 
+<section> Completed follow-up assessments
+ (5 weeks n=95, 10 weeks n=88)
+ 
+<section> Analyzed
+ 
+<section> ITT analysis (n=121)
+ 
+<section> hypothesized. However, coping subscales revealed inconsistent and
+ often weak relationships with the other psychosocial measures
+ (Table 2).
+ We observed small to moderate within-group changes from
+ baseline to the first follow-up assessment in psychosocial wellbeing,
+ sense of safety and community connectedness, suggesting the
+ appropriateness of these psychosocial outcomes (d = 0.30–0.43;
+ Table 3). The magnitude of these changes attenuated at the 10-week
+ follow-up. These outcomes were corroborated by the changes
+ attributed to the intervention reported in qualitative interviews.
+ Perceived impacts included improved wellbeing and self-esteem,
+ personal empowerment and confidence, social networks, and
+ awareness of resources to help address safety concerns and violence.
+ 
+<section> ‘What helped me the most was to manage my emotional state, that is,
+ to give myself some time, not to let myself be trapped by the circum-
+ stances of a moment that I am going through using the tools that the
+ (facilitators) provided us. It helped a lot to manage my stress…
+ because at that time I was going through a bad situation. In the
+ 
+<section> prior to eligibility
+ 
+<section> (k=9, n=342)
+ 
+<section> Excluded (n=67)
+ 
+<section> i Did not complete screening (n=1)
+ i Not interested (n=45)
+ i Not reachable (n=21)
+ 
+<section> eligibility (n=275)
+ 
+<section> Excluded (n=50)
+ 
+<section> i Not meeting inclusion criteria (n=48)
+ 
+<section> i Declined to participate (n=2)
+ 
+<section> (n=225)
+ 
+<section> Allocated to standard intervention (k=4, n=104)
+ i Not reachable after baseline (k=0, n=5)
+ i Received 1+ session of intervention (k=4, n=99)
+ i Completed intervention (4+ sessions; n=65)
+ 
+<section> Completed follow-up assessments
+ (5 weeks n=85, 10 weeks n=85)
+ 
+<section> ITT analysis (n=104)
+ 
+<section> meetings we calmed down and it was the support of the other girls that
+ also helps a lot’. – Participant in Guayaquil, 34 years.
+ 
+<section> These changes over time did not significantly differ between groups
+ (d = 0.00–0.27) with the exception of avoidant coping, which
+ displayed a significantly greater decrease in the enhanced Entre
+ Nosotras intervention relative to the standard intervention from
+ baseline to the first post-intervention follow-up assessment
+ (d = 0.32). One facilitator described the contribution of the stress
+ management component, specifically the audio exercises, present
+ in the enhanced Entre Nosotras intervention:
+ 
+<section> ‘The activities that I found very satisfying and beneficial for the
+ participants were the audio exercises and introspection. Concentrat-
+ ing on thinking about being (present) puts you in a wave of rethinking
+ yourself as a woman. It is like therapy. That was the part that
+ motivated me the most and this was the (activity) that made the
+ women look towards themselves and continue a path in which they
+ can think differently about themselves, their daily activities, their way 
+<insert> Table 1. Characteristics of participants at baseline
+ Full sample Study condition Site
+ (n = 225)
+ Standard
+ (n = 104)
+ Enhanced
+ (n = 121)
+ Effect
+ size
+ Guayaquil
+ (n = 72)
+ Panamá
+ (n = 82)
+ Tulcán
+ (n = 71)
+ Effect
+ size
+ 36.0 (11.7) 37.5 (12.6) 34.8 (10.7) 0.24 34.7 (10.0) 38.8 (11.2) 34.2
+ (13.2)
+ 0.03
+ Demographic characteristics
+ Age (in years), M (SD)
+ Education, n (%) 0.14 0.35
+ Less than primary 13 (5.8) 6 (5.8) 7 (5.9) 3 (4.2) 0 (0.0) 10 (14.3)
+ Completed primary school 25 (11.2) 11 (10.6) 14 (11.8) 5 (7.0) 5 (6.1) 15 (21.4)
+ Completed secondary school 116 (52.0) 48 (46.2) 68 (57.1) 32 (45.1) 40 (48.8) 44 (62.9)
+ College degree 55 (24.7) 31 (29.8) 24 (20.2) 26 (36.6) 29 (35.4) 0 (0.0)
+ Other 14 (6.3) 8 (7.7) 6 (5.0) 5 (7.0) 8 (9.8) 1 (1.4)
+ Employment, n (%) 0.08 0.17
+ Unemployed or housewife 120 (53.8) 52 (50.0) 68 (57.1) 29 (40.9) 45 (54.9) 47 (65.7)
+ Informal work 68 (30.5) 34 (32.7) 34 (28.6) 24 (33.8) 25 (30.5) 19 (27.1)
+ Part-time formal work 15 (6.7) 7 (6.7) 8 (6.7) 8 (11.3) 6 (7.3) 1 (1.4)
+ Full-time formal work 20 (9.0) 11 (10.6) 9 (7.6) 10 (14.1) 6 (7.3) 4 (5.7)
+ Nationality, n (%)
+ Colombian
+ 0.21
+ 33 (14.8) 15 (14.4)
+ Ecuadorian 28 (12.6) 19 (18.3) 9 (7.6) 7 (9.9) 0 (0.0) 21 (30.0)
+ Venezuelan 147 (65.9) 67 (64.4) 80 (67.2) 63 (88.7) 37 (45.1) 47 (67.1)
+ Other (Cuban, Dominican, Honduran, 15 (6.7) 3 (2.9) 12 (10.1) 1 (1.4) 14 (17.1) 0 (0.0)
+ Nicaraguan, Salvadoran, Mixed)
+ 18 (15.1)
+ 0.49
+ 0 (0.0) 31 (37.8) 2 (2.9)
+ Migration characteristics (among migrants, n = 197)
+ How long have you lived in your current
+ community, n (%)
+ 0.17 0.40
+ Less than 1 year 53 (26.9) 18 (21.2) 35 (31.3) 27 (41.5) 10 (12.2) 16 (32.0)
+ 1–3 years 89 (45.2) 36 (42.4) 53 (47.3) 35 (53.9) 25 (30.5) 29 (58.0)
+ More than 3 years 55 (27.9) 31 (36.5) 24 (21.4) 3 (4.6) 47 (57.3) 5 (10.0)
+ Primary reason for moving to study community,
+ n (%)
+ 0.21 0.36
+ Migrated for work and/or more opportunities 14 (7.2) 4 (4.7) 10 (9.2) 4 (6.4) 6 (7.3) 4.(8.2)
+ Migrated for family reasons 50 (25.8) 27 (31.8) 23 (21.1) 20 (31.8) 27 (32.9) 3 (6.1)
+ 28 (14.4) 11 (12.9) 17 (15.6) 2 (3.2) 22 (26.8) 4 (8.2)
+ Migrated due to economic problems 85 (43.8) 32 (37.7) 53 (48.6) 30 (47.6) 18 (22.0) 37 (75.5)
+ Other reasons 17 (8.9) 11 (12.9) 6 (5.5) 7 (11.1) 9 (11.0) 1 (2.0)
+ Migrated due to political violence or armed
+ conflict
+ Mental health and psychosocial outcomes at baseline
+ Psychological distress (Kessler 6), M (SD) 7.2 (3.3) 7.2 (3.2) 7.3 (3.4) 0.01 6.9 (3.1) 7.0 (3.4) 7.8 (3.4) 0.01
+ Life satisfaction (PWI Single Item), M (SD) 7.0 (2.2) 6.9 (2.2) 7.0 (2.2) 0.03 7.7 (1.9) 6.0 (2.2) 7.3 (2.1) 0.12
+ Psychosocial wellbeing (PWI Total), M (SD) 60.5 (11.8) 59.9 (12.8) 61.0 (10.9) 0.10 63.5 (9.8) 55.0 (12.5) 63.8
+ (10.5)
+ 0.12
+ Community connectedness (PWI), M (SD) 7.5 (2.3) 7.5 (2.3) 7.5 (2.3) 0.00 8.1 (1.9) 6.9 (2.4) 7.8 (2.4) 0.05
+ Sense of safety (PWI), M (SD) 7.4 (2.5) 7.2 (2.6) 7.5 (2.4) 0.14 8.1 (2.0) 6.3 (2.6) 7.9 (2.3) 0.11
+ Coping (Brief COPE), M (SD) 80.4 (8.8) 80.3 (8.7) 80.6 (8.9) 0.03 81.6 (9.8) 80.3 (8.5) 79.4 (8.0) 0.01
+ Problem-focused coping (Brief COPE), M (SD) 24.3 (4.3) 24.5 (4.2) 24.3 (4.3) 0.04 24.7 (4.6) 24.6 (4.2) 23.7 (4.0) 0.01
+ Emotion-focused coping (Brief COPE), M (SD) 31.5 (5.8) 31.5 (5.9) 31.5 (5.6) 0.00 31.4 (6.4) 31.6 (5.9) 31.4 (4.9) 0.00
+ (Continued) 
+<iend>
+ 
+<insert> Table 1. (Continued)
+ Full sample
+ Avoidant coping (Brief COPE), M (SD)
+ Study condition Site
+ (n = 225)
+ Standard
+ (n = 104)
+ Enhanced
+ (n = 121)
+ Effect
+ size
+ Guayaquil
+ (n = 72)
+ Panamá
+ (n = 82)
+ Tulcán
+ (n = 71)
+ Effect
+ size
+ 15.4 (3.8) 15.7 (3.7) 15.2 (3.9) 0.13 14.5 (4.0) 15.9 (3.9) 15.7 (3.4) 0.02
+ Social support (Oslo-3), M (SD) 9.0 (2.5) 9.1 (2.3) 8.9 (2.6) 0.07 8.9 (2.5) 9.1 (2.3) 9.0 (2.6) 0.00
+ Functional impairment (WHODAS), M (SD) 22.6 (6.6) 21.8 (6.2) 23.2 (6.8) 0.21 21.6 (7.6) 22.2 (6.1) 23.9 (5.8) 0.02
+ Note: Effect size for continuous variables is Cohen’s d for study condition (2 groups), partial eta-squared for site (3 groups), and for categorical variables is Cramer’s V. We considered a small effect
+ size to be <0.3, a medium effect size to be <0.5, and a large effect size to be ≥0.5. 
+<iend>
+
+ 
+<insert> Table 2. Correlations among psychosocial outcome measures
+ (1)
+ 1. Psychological distress (Kessler 6)
+ (2) (3) (4) (5) (6) (7) (8) (9) (10)
+ 2. Life satisfaction (PWI) 0.333
+ 3. Psychosocial wellbeing (PWI) 0.356 0.659
+ 4. Community connectedness (PWI) 0.117 0.339 0.556
+ 5. Sense of safety (PWI) 0.250 0.505 0.738 0.312
+ 6. Problem-focused coping (Brief COPE) 0.131 0.069 0.028 0.098 0.088
+ 7. Emotion-focused coping (Brief COPE) 0.073 0.162 0.110 0.020 0.217 0.589
+ 8. Avoidant coping (Brief COPE) 0.328 0.207 0.223 0.057 0.230 0.127 0.313
+ 9. Social support (Oslo) 0.186 0.103 0.174 0.165 0.071 0.238 0.191 0.065
+ 10. Functional impairment (WHODAS) 0.368 0.185 0.265 0.062 0.163 0.127 0.005 0.190 0.121 
+<iend>
+
+ of being, to continue with their things, with their problems, and with
+ all the burdens that all women have, but to make it more bearable’. –
+ Facilitator in Tulcán.
+ 
+<section> Service-level outcomes
+ 
+<section> Participant attendance
+ Seventy-eight percent of participants enrolled in the study attended
+ at least one session and approximately half (49.8%) completed the
+ intervention; 64.0% of participants who attended at least one
+ session completed the intervention. The median number of sessions
+ attended was three (IQR: 1, 5). Attendance and likelihood of
+ intervention completion were significantly lower in the enhanced
+ condition (Mean difference = 0.7 sessions, 95% CI: 1.2, 0.2;
+ 
+<section> Completion: OR = 0.38, 95% CI: 0.22, 0.65; Supplemental Figure 1).
+ We conducted a secondary multivariate analysis of attendance as a
+ function of study condition and community to explore whether
+ variation in attendance was explained to a greater extent by study
+ condition. These results revealed that the community context
+ largely confounded the association between study condition and
+ attendance, which was no longer significant in adjusted models
+ (Mean difference = 0.2 sessions, 95% CI: 1.3, 0.8). Attendance
+ was higher in Panamá (Median = 4 sessions, IQR: 2, 5) relative to
+ 
+<section> Guayaquil (Median = 3 sessions, IQR: 0, 4) and Tulcán (Median =
+ sessions, IQR: 0, 5; Supplemental Figure 2). Several participant-
+ level characteristics were associated with the odds of completing the
+ intervention (Supplemental Table 2). Women who were older
+ (OR = 1.05; 95% CI: 1.02, 1.07), living in Panamá relative to
+ 
+<section> Guayaquil (OR = 2.33; 95% CI: 1.22, 4.46), were members of the
+ host population (OR = 2.85; 95% CI: 1.20, 6.79), had been living in
+ the community for more than 3 years (OR = 2.32; 95% CI: 1.14,
+ 4.69), migrated for family reasons (OR = 5.50, 95% CI: 1.36, 22.22)
+ and had lower levels of psychological distress at baseline (OR = 0.91;
+ 95% CI: 0.84, 0.99) were significantly more likely to complete the
+ intervention.
+ Qualitative interviews revealed common barriers to attendance
+ including lack of time due to work, school, and/or family obliga-
+ tions; lack of resources and economic instability; fear of attending
+ due to COVID-19 transmission risk; insecurity in the study com-
+ munity; or being controlled by their husbands. When sessions
+ took place online due to COVID-19, some women did not have
+ access to the internet, phones or technology that would enable
+ them to attend. Most women were comfortable attending and
+ participating in groups. However, some reported not feeling com-
+ fortable sharing their problems with others, particularly migrant
+ women who were afraid to share their problems with members of
+ the host community.
+ 
+<section> ‘I can’t take the day off (to attend the intervention) because I can’t pay
+ rent. I’m a single mother. I just live with my baby daughter and my
+ son… HIAS does help me with the food card, but (my baby’s) diapers I
+ have to pay for. I’m very busy so sometimes I don’t come (to the
+ intervention). I start selling cold cakes and stuff at home, and I go out
+ to sell any little thing. I can’t stop working’. – Participant in Tulcán,
+ 
+<section> 25 years.
+ 
+<section> Factors that helped women overcome these barriers included
+ motivation to attend, having financial security, living near the
+ intervention site, being able to bring children to sessions or offering
+ childcare, flexible scheduling tailored to participant availability,
+ and reimbursement for transportation and/or connectivity costs. 
+<insert> Table 3. Sensitivity to change of psychosocial outcome measures
+ Enhanced Entre Nosotras + stress
+ management
+ Mean (SD)
+ Mean change from
+ baseline (95% CI) Mean
+ Psychosocial wellbeing (Total; PWI)
+ Baseline (Week 0) 60.99 (10.92) – 59.87
+ Post-intervention (Week 5) 65.18 (9.09) 4.71 (2.65, 6.77) 65.14
+ Follow-up (Week 10) 63.77 (11.08) 3.78 (1.72, 5.82) 62.23
+ Baseline (Week 0) 7.54 (2.38) – 7.20
+ Post-intervention (Week 5) 8.00 (1.93) 0.49 (0.00, 0.98) 8.09
+ Follow-up (Week 10) 7.93 (2.12) 0.36 ( 0.18, 0.89) 7.65
+ Baseline (Week 0) 7.53 (2.31) – 7.53
+ Post-intervention (Week 5) 8.33 (1.58) 0.78 (0.26, 1.31) 8.31
+ Follow-up (Week 10) 8.14 (1.85) 0.77 (0.23, 1.31) 7.61
+ Sense of safety
+ Community connectedness
+ Psychological distress (K6)
+ Baseline (Week 0) 7.26 (3.36) – 7.23
+ Post-intervention (Week 5) 6.77 (3.83) 0.43 ( 1.28, 0.41) 6.67
+ Follow-up (Week 10) 6.54 (4.53) 0.61 ( 1.52, 0.32) 6.43
+ Baseline (Week 0) 8.93 (2.60) – 9.11
+ Post-intervention (Week 5) 7.82 (4.57) 1.11 ( 1.96, 0.26) 7.85
+ Follow-up (Week 10) 7.02 (4.90) 1.91 ( 2.83, 0.99) 7.86
+ Social support (Oslo)
+ Functional impairment
+ Baseline (Week 0) 23.20 (6.82) – 21.83
+ Post-intervention (Week 5) 22.37 (6.40) 1.37 ( 2.87, 0.13) 21.61
+ Follow-up (Week 10) 22.81 (7.11) 0.64 ( 2.31, 1.04) 21.12
+ Problem-focused coping
+ Baseline (Week 0) 24.26 (4.34) – 24.45
+ Post-intervention (Week 5) 24.87 (4.33) 0.64 ( 0.45, 1.74) 25.15
+ Follow-up (Week 10) 25.07 (4.92) 0.72 ( 0.54, 1.97) 26.08
+ Baseline (Week 0) 31.46 (5.64) – 31.47
+ Post-intervention (Week 5) 31.85 (6.39) 0.00 ( 1.12, 1.13) 31.39
+ Follow-up (Week 10) 31.56 (6.70) 0.57 ( 1.90, 0.76) 32.04
+ Baseline (Week 0) 15.16 (3.88) – 15.66
+ Post-intervention (Week 5) 14.58 (3.55) 0.85 ( 1.60, 0.10) 15.73
+ Follow-up (Week 10) 15.28 (3.78) 0.10 ( 0.83, 0.63) 14.84
+ Emotion-focused coping
+ Avoidant coping 
+<iend>
+
+ 
+<section> Standard Entre Nosotras
+ 
+<section> Mean change from Difference
+ (SD) 
+<section> baseline (95% CI)
+ 
+<section> (12.80) 
+<section> –
+ 
+<section> (10.12) 
+<section> 5.52 (3.36, 7.68)
+ 
+<section> (11.14) 
+<section> 3.05 (0.38, 5.72)
+ 
+<section> (2.57) 
+<section> –
+ 
+<section> (1.59) 
+<section> 0.93 (0.43, 1.42)
+ 
+<section> (2.06) 
+<section> 0.46 ( 0.10, 1.02)
+ 
+<section> (2.31) 
+<section> –
+ 
+<section> (1.88) 
+<section> 0.71 (0.24, 1.18)
+ 
+<section> (2.06) 
+<section> 0.16 ( 0.37, 0.70)
+ 
+<section> (3.20) 
+<section> –
+ 
+<section> (3.94) 
+<section> 0.38 ( 1.27, 0.49)
+ 
+<section> (4.46) 
+<section> 0.55 ( 1.61, 0.51)
+ 
+<section> (2.34) 
+<section> –
+ 
+<section> (4.26) 
+<section> 1.26 ( 2.10, 
+<section> 0.42)
+ 
+<section> (4.37) 
+<section> 1.25 ( 2.08, 
+<section> 0.42)
+ 
+<section> (6.23) 
+<section> –
+ 
+<section> (6.06) 
+<section> 0.38 ( 1.23, 1.99)
+ 
+<section> (6.27) 
+<section> 0.32 ( 1.70, 1.06)
+ 
+<section> (4.21) 
+<section> –
+ 
+<section> (4.61) 
+<section> 0.52 ( 0.62, 1.66)
+ 
+<section> (3.84) 
+<section> 1.49 (0.47, 2.51)
+ 
+<section> (5.90) 
+<section> –
+ 
+<section> (6.61) 
+<section> 0.16 ( 1.66, 1.35)
+ 
+<section> (5.85) 
+<section> 0.37 ( 0.96, 1.69)
+ 
+<section> (3.73) 
+<section> –
+ 
+<section> (3.66) 
+<section> 0.41 ( 0.56, 1.38)
+ 
+<section> (3.42) 
+<section> 0.60 ( 1.40, 0.20)
+ 
+<section> Seventy-two percent of participants completed follow-up ses- employed were more likely
+ sions with comparable rates of study retention observed at the (OR = 1.87; 95% CI: 1.04, 3.37).
+ post-intervention assessment (80.0%; i.e., 5 weeks post- the community for over 3 years
+ enrollment) and the final follow-up assessment approximately (OR = 0.43; 95% CI: 0.20, 0.93)
+ 10 weeks post-enrollment (76.9%). Participants who were due to violence or conflict (OR
+ 
+<section> Between-group differences
+ 
+<section> Cohen’s d
+ 
+<section> in mean 
+<section> Within/
+ change (95% CI) between-group
+ 
+<section> – 
+<section> –
+ 
+<section> 0.77 ( 5.02, 3.49) 0.43/0.00
+ 0.16 ( 4.67, 4.98) 0.22/0.14
+ 
+<section> – 
+<section> –
+ 
+<section> 0.46 ( 1.22, 0.30) 0.30/0.05
+ 0.18 ( 1.15, 0.78) 0.18/0.14
+ 
+<section> – 
+<section> –
+ 
+<section> 0.02 ( 1.06, 1.09) 0.38/0.01
+ 0.52 ( 0.62, 1.65) 0.16/0.27
+ 
+<section> – 
+<section> –
+ 
+<section> 0.16 ( 1.74, 1.42) 0.15/0.03
+ 0.10 ( 1.85, 1.65) 0.20/0.02
+ 
+<section> – 
+<section> –
+ 
+<section> 0.15 ( 1.04, 1.34) 0.33/0.01
+ 0.52 ( 2.20, 1.16) 0.43/0.18
+ 
+<section> – 
+<section> –
+ 
+<section> 1.74 ( 3.91, 0.43) 0.09/0.12
+ 0.33 ( 2.99, 2.34) 0.09/0.25
+ 
+<section> – 
+<section> –
+ 
+<section> 0.13 ( 1.44, 1.69) 0.15/0.06
+ 0.77 ( 2.37, 0.82) 0.28/0.23
+ 
+<section> – 
+<section> –
+ 
+<section> 0.16 ( 1.68, 1.99) 0.03/0.07
+ 0.94 ( 2.79, 0.92) 0.05/0.08
+ 
+<section> – 
+<section> –
+ 
+<section> 1.26 ( 2.45, 0.06) 0.07/0.32
+ 0.49 ( 0.70, 1.69) 0.09/0.12
+ 
+<section> to complete all assessments
+ Participants who had lived in
+ relative to less than 1 year
+ and those who had migrated
+ = 0.20; 95% CI: 0.05, 0.82) or 
+<section> economic problems (OR = 0.26; 95% CI: 0.05, 0.82) were less likely
+ to complete all research assessments. Participants with greater
+ psychosocial wellbeing at baseline were more likely to complete all
+ research assessments (OR = 1.03; 95% CI: 1.00, 1.06).
+ 
+<section> Implementation-level outcomes
+ 
+<section> The Entre Nosotras intervention appeared to be safe, usable and
+ feasibly implemented by trained, lay facilitators living in the study
+ communities. In qualitative interviews, participants reported suf-
+ ficient mitigation of potential risks, including COVID-19 precau-
+ tions and carefully selecting safe locations and times for sessions.
+ Facilitators reported an average usability score of 82.7 (SD = 10.4)
+ out of 100, which is above the cutoff for ‘acceptable’ usability of
+ 70 points (Lyon et al., 2021). Facilitators demonstrated high com-
+ petency scores (Mean = 2.8 out of a maximum of 3.0; SD = 0.30).
+ The proportion of sessions where there was >75% fidelity to inter-
+ vention elements was high when assessed by an external rater (88%)
+ and moderate when assessed by the facilitators themselves (59%;
+ Supplemental Table 4). Implementation modalities differed by site
+ and over time due to the COVID-19 pandemic. In Panamá and
+ Tulcán, all sessions were delivered in person. In Guayaquil,
+ approximately 40% of sessions were delivered online halfway
+ through the implementation period.
+ We identified some challenges to the implementation of the
+ research procedures. One pair of facilitators in each site reported
+ applying the stress management activities in the fourth session of
+ the standard condition (i.e., three sessions total) in their fidelity
+ checklist. None of the external raters reported observing contam-
+ ination. The study had a slower recruitment rate and higher levels of
+ attrition than were expected with variation observed across com-
+ munities and over time (i.e., different stages of the COVID-19
+ pandemic and rapidly changing contexts). There were no other
+ major protocol deviations or any serious adverse events detected
+ during the study and no major baseline imbalances by study
+ condition despite the diverse communities included in the study.
+ All participant-, service- and implementation-level indicators of
+ the primary feasibility trial outcomes (appropriateness, acceptabil-
+ ity, feasibility, safety) are summarized in Table 4.
+ 
+<section> Discussion
+ 
+<section> This feasibility trial aimed to examine the appropriateness, accept-
+ ability, safety and feasibility of conducting a fully powered cluster
+ randomized trial of the Entre Nosotras intervention. We assessed
+ these outcomes at the participant, service and implementation
+ levels to determine whether the intervention and research proced-
+ ures were adequate and warranted progression to a definitive trial
+ (Proctor et al., 2011).
+ Overall, intervention and research procedures were considered
+ appropriate as determined by the high proportion of those screened
+ who were eligible, moderate sensitivity to change in some primary
+ outcome measures that were corroborated by qualitative findings,
+ appropriateness of the intervention as reported by participants and
+ facilitators, and high levels of intervention fidelity as assessed by
+ external raters. Facilitator fidelity self-ratings were lower than those
+ reported by external raters, reflecting a more critical self-evaluation
+ by facilitators of their own adherence to intervention procedures or
+ bias by external raters who were research team members. Generally,
+ intervention fidelity remained high across sites and sessions,
+ suggesting alignment of the content with the implementation con-
+ text (C. Carroll et al., 2007; von Thiele Schwarz et al., 2019).
+ Facilitator reports of acceptability and usability were high. No
+ serious adverse events or major risks of participation in the study
+ were detected. However, participant attendance and intervention
+ completion were low. Most participants who attended at least one
+ session ultimately completed the intervention. Qualitative inter-
+ views suggest that the major barriers to attendance were related to
+ contextual factors (e.g., COVID-19, limited time, competing
+ responsibilities, distance to sites and telecommunication chal-
+ lenges). We identified differential rates of intervention completion
+ across study conditions, which may be explained by differences
+ across communities. Available data did not provide other indica-
+ tions of differential acceptability across study conditions, but this
+ requires further exploration. Some factors that may have influenced
+ differences in intervention retention across communities and sites
+ include the variable roles and profiles of facilitators, resources
+ across sites (e.g., transportation subsidy in Panamá), sessions
+ offered virtually due to COVID-19, population mobility and sta-
+ bility across communities, employment options (e.g., informal
+ work), and other contextual factors (e.g., climate influencing
+ attendance). It is important to develop strategies to promote the
+ intervention’s acceptability and accessibility for participants that
+ are tailored to each implementation context.
+ Adjustments to the research procedures are needed before con-
+ ducting a definitive trial. The recruitment and attrition rates (e.g.,
+ attending at least one session), and performance of some outcome
+ measures did not achieve needed target benchmarks. Indicators of
+ instability (e.g., unemployment, recent and forced migration and
+ higher distress) contributed to higher odds of intervention dropout
+ and study attrition. Conducting assessments by telephone was a
+ helpful strategy to promote retention. However, phone numbers
+ frequently went out of service, particularly when participants
+ migrated to other locations or were not able to purchase phone
+ data/min. Safe strategies for maintaining connection with study
+ participants through social media, secondary contacts or more
+ regular interim follow-ups to track mobility or risk for attrition
+ as well as reasons for variation in attendance across study commu-
+ nities should be explored in further research. The higher levels of
+ intervention completion for participants with more stability sug-
+ gest that the intervention may require further adaptation and
+ optimization for harder-to-reach individuals whose voices may
+ not have been as represented in this intervention design process.
+ We identified evidence of contamination across study conditions in
+ the fourth session as evidenced by facilitators in the standard
+ condition reporting that they implemented activities focused on
+ ‘Acting on your values and being kind’, which come from the
+ enhanced intervention components. These instances of contamin-
+ ation were not observed by external raters. It is possible that this
+ item on the fidelity checklist was interpreted as referencing other
+ activities that were part of the standard condition. There was
+ variation in sensitivity to change across measures suggesting that
+ some of the selected outcomes (distress, functioning, social support,
+ and emotion-focused and avoidant coping) need to be recon-
+ sidered. In contrast, we found that several aspects of the research
+ design were feasible. Cluster randomization did not yield any
+ moderate to large differences in baseline characteristics between
+ study conditions despite the diverse communities included in the
+ study. Also, study facilitators achieved sufficient competency levels
+ supporting the use of a task-sharing model.
+ Findings should consider the following limitations. First, there
+ was a lack of blinding in the study, which may have introduced 
+<insert> Table 4. Summary of appropriateness, acceptability, safety and feasibility indicators
+ Means of
+ verification Evaluation
+ Eligibility: >50% of persons screened are eligible. Routine study
+ monitoring forms
+ 82.5% of screened were eligible; 81.8% of screened were
+ enrolled.
+ Sensitivity to change: Small to moderate within-group
+ changes in outcome measures (d > 0.2).
+ Brief-COPE, K-6,
+ OSS, PWI, WHODAS
+ PWI (including subscales) and problem-focused coping
+ subscale display moderate within-group changes in
+ outcomes.
+ Intervention fidelity: >75% fidelity to the intervention
+ elements.
+ Fidelity assessment 88% of externally rated sessions displayed >75% fidelity
+ to intervention elements.
+ 59% of self-rated sessions displayed >75% fidelity to
+ intervention elements.
+ Intervention attendance and completion: >85% of
+ participants attend first session; >67% participants
+ complete at least four sessions.
+ Routine study
+ monitoring forms
+ 77.8% attended 1+ session, 49.8% completed 4+
+ sessions, but variation across communities.
+ Intervention usability: Facilitators consider the
+ intervention to have above average usability (IUS
+ Score > 68).
+ Intervention
+ Usability Scale
+ Average IUS total score (rescaled 0–100) was 82.7
+ (SD = 10.4).
+ Recruitment rate: Average rate of enrollment is five
+ women per week, at minimum, in each site.
+ Routine study
+ monitoring forms
+ 11.5 enrolled per week at the study level, on average.
+ Randomization: No moderate to large differences in
+ baseline characteristics between study conditions.
+ Demographics,
+ Brief-COPE, K-6,
+ OSS, PWI, WHODAS
+ No major imbalances.
+ Attrition: >80% of participants complete baseline, post-
+ intervention, and follow-up assessments.
+ Demographics,
+ Brief-COPE, K-6,
+ OSS, PWI, WHODAS
+ 71.6% completed all assessments.
+ Fidelity to research procedures: No major protocol
+ deviations.
+ Routine study
+ monitoring forms
+ Higher numbers of persons screened than anticipated.
+ Facilitator competencies: An average score of >2 on
+ competency items, suggesting partially-fully
+ demonstrating the competencies during intervention
+ implementation.
+ ENACT Average competency score = 2.80 (SD = 0.30).
+ Contamination: Stress management components from
+ the experimental conditions are included in all sessions
+ for groups randomized to the enhanced intervention and
+ none of the sessions for groups randomized to the
+ standard intervention.
+ Fidelity assessment 1 session in each site (n = 3 total) reported applying the
+ stress management activities in the 4th session of the
+ standard condition; none of the external raters
+ observing sessions reported contamination
+ Performance of outcome measures: All outcome
+ measures display adequate construct validity and
+ internal consistency
+ Brief-COPE, K-6,
+ OSS, PWI, WHODAS
+ PWI and WHODAS performed well; K-6, OSS and COPE
+ required adaptations.
+ Adverse events: Detected in <10% of participants; no
+ serious adverse events attributed to study participation.
+ Adverse event
+ reporting
+ No serious adverse events.
+ Outcome Indicator(s) for progression to definitive trial
+ Appropriat-eness
+ Accept-ability
+ Feasibility
+ Safety 
+<iend>
+
+ bias into the study outcome assessment. While most of the psy-
+ chosocial outcomes had been previously validated in Spanish-
+ speaking populations and/or migrant populations, none had been
+ previously validated within the study setting and/or population. It
+ is possible that these measures may not accurately capture the
+ priority problems identified in the formative research and meas-
+ urement error may increase the risk of bias and imprecision in
+ results from this study. Future studies in this population may
+ consider the modifications to the measures made in this study to
+ improve their construct validity and reliability prior to using them
+ as screening or outcome measures. Additionally, there was vari-
+ ation in some key implementation processes across sites that was
+ determined by the implementation context and based on the
+ suggestion of community members and other stakeholders during
+ the intervention co-design process. For example, in Panamá, the
+ study eligibility was restricted to migrants, and the facilitator pairs
+ were comprised of one non-specialist and one individual with a
+ background in mental health. In Ecuador, participants included
+ host community members in addition to migrants, and the facili-
+ tator pairs were comprised of two non-specialists without prior
+ training in mental health. Differences in the COVID-19 pandemic
+ across sites led to different implementation timelines and proced-
+ ures (e.g., 40% of sessions in Guayaquil occurred online). This
+ heterogeneity may have masked meaningful variation in some of
+ the study outcomes. Results from this study are not able to
+ definitively determine whether the addition of the stress manage-
+ ment components to the standard Entre Nosotras intervention
+ improved participant-, service-, or implementation-level out-
+ comes. Few differences were observed between the two study
+ conditions. Future directions included studies designed to evalu-
+ ate the comparative effectiveness of these interventions and
+ explore the added value of specific intervention components 
+<section> through optimization trials, as well as mixed-methods analyses
+ exploring mechanisms of change.
+ Notwithstanding these limitations, these findings are promis-
+ ing and indicate that a community-designed psychosocial inter-
+ vention designed with migrant women through an extensive
+ participatory research process and delivered through task sharing
+ is feasible in diverse contexts. Furthermore, it was feasible to
+ integrate locally designed intervention elements with existing
+ evidence-based intervention components and test variations of
+ these interventions within complex, dynamic contexts. Research
+ procedures that balance the flexibility to work across these diverse
+ implementation contexts while maintaining internal validity of
+ evaluations of community-based psychosocial programs are
+ needed to strengthen generalizable evidence on these interven-
+ tions in humanitarian settings. The knowledge attained will
+ inform further tailoring of the implementation and evaluation
+ of the Entre Nosotras intervention. Additionally, further research
+ testing specific intervention components and variations, includ-
+ ing whether site-specific variations (e.g., inclusion of host com-
+ munities and profiles of intervention facilitators) moderate
+ intervention effectiveness and implementation outcomes, is
+ needed to identify the active ingredients and essential elements
+ of psychosocial interventions and to design more effective and
+ efficient programs in community settings.
+ 
+<section> Open peer review. To view the open peer review materials for this article,
+ please visit http://doi.org/10.1017/gmh.2023.37.
+ 
+<section> Supplementary material. The supplementary material for this article can be
+ found at http://doi.org/10.1017/gmh.2023.37.
+ 
+<section> Data availability statement. The data that support the findings of this study
+ are available from the corresponding author, M.C.G., upon reasonable request.
+ 
+<section> Author contribution. A.G.B., M.C.G. and W.A.T. contributed to conceptual-
+ izing the study. All authors contributed to data collection and/or analysis.
+ M.C.G. drafted the initial manuscript. All authors provided critical revisions
+ and approved the final manuscript for publication.
+ 
+<section> Financial support. This study was funded by the United States Agency for
+ International Development (USAID) under the Health Evaluation and Applied
+ Research Development (HEARD), Cooperative Agreement No. AID-OAA-
+ A-17-00002. The trial sponsors had no role in data collection, management,
+ analysis or interpretation. M.C.G. was supported by a Career Development
+ Award and Training Grant from the National Institute of Mental Health (Grant
+ Nos. T32MH096724 and K01MH129572).
+ 
+<section> Competing interest. The authors declare no competing interests.
+ 
+<section> Ethics standard. The trial was approved by the Institutional Review Boards at
+ Columbia University Irving Medical Center (United States), Universidad de
+ Santander (Panamá) and Universidad San Francisco de Quito (Ecuador). The
+ trial protocol was published and registered online (NCT05130944) (Greene
+ et al., 2022a).
+ 
+<section> References
+ 
+<section> Bangpan M, Felix L and Dickson K (2019) Mental health and psychosocial
+ support programmes for adults in humanitarian emergencies: A systematic
+ review and meta-analysis in low and middle-income countries. BMJ Global
+ Health 4(5), e001484. https://doi.org/10.1136/bmjgh-2019-001484
+ 
+<section> Barbui C, Purgato M, Abdulmalik J, Acarturk C, Eaton J, Gastaldon C,
+ Gureje O, Hanlon C, Jordans M, Lund C, Nosè M, Ostuzzi G, Papola D,
+ Tedeschi F, Tol W, Turrini G, Patel V and Thornicroft G (2020) Efficacy of
+ psychosocial interventions for mental health outcomes in low-income and
+ middle-income countries: An umbrella review. Lancet Psychiatry 7(2),
+ 162–172. https://doi.org/10.1016/s2215-0366(19)30511-5
+ 
+<section> Berry JW (1985) Acculturation among circumpolar peoples: Implications for
+ health status. Arctic Medical Research 40, 21–27. Available at https://
+ www.ncbi.nlm.nih.gov/pubmed/3834930.
+ 
+<section> Berry JW and Hou F (2021) Immigrant acculturation and wellbeing across
+ generations and settlement contexts in Canada. International Review of
+ Psychiatry 33(1–2), 140–153. https://doi.org/10.1080/09540261.2020.1750801
+ 
+<section> Blyde J, Cortes C, Morales F and Pierola D (2020) The Profiles of Immigrants in
+ 
+<section> Latin America and the Caribbean: A Focus on Economic Integration.
+ 
+<section> Washington, DC: Inter-American Development Bank. Available at https://
+ publications.iadb.org/publications/english/document/The-Profiles-of-Immi
+ grants-in-Latin-America-and-the-Caribbean-A-Focus-on-Economic-Inte
+ gration.pdf (accessed 27 July 2023).
+ 
+<section> Braun V and Clarke V (2006) Using thematic analysis in psychology. Quali-
+ tative Reserach in Psychology 3(2), 77–101.
+ 
+<section> Braun V and Clarke V (2014) What can ‘thematic analysis’ offer health and
+ wellbeing researchers? International Journal of Qualitative Studies on Health
+ and Well-Being 9, 26152.
+ 
+<section> Carroll H, Luzes M, Freier LF and Bird MD (2020) The migration journey and
+ mental health: Evidence from Venezuelan forced migration. SSM – Popula-
+ tion Health 10, 100551. https://doi.org/10.1016/j.ssmph.2020.100551
+ 
+<section> Carroll C, Patterson M, Wood S, Booth A, Rick J and Balain S (2007) A
+ conceptual framework for implementation fidelity. Implementation Science
+ 
+<section> 2, 40. https://doi.org/10.1186/1748-5908-2-40
+ 
+<section> Carver CS (1997) You want to measure coping but your protocol’s too long:
+ Consider the brief COPE. International Journal of Behavioral Medicine 4(1),
+ 92–100. https://doi.org/10.1207/s15327558ijbm0401_6
+ 
+<section> Eldridge SM, Chan CL, Campbell MJ, Bond CM, Hopewell S, Thabane L,
+ 
+<section> Lancaster GA and 
+<section> PAFS Consensus Group (2016) CONSORT 2010 state-
+ ment: Extension to randomised pilot and feasibility trials. BMJ 355, i5239.
+ https://doi.org/10.1136/bmj.i5239
+ 
+<section> Espinel Z, Chaskel R, Berg RC, Florez HJ, Gaviria SL, Bernal O, Berg K,
+ Muñoz C, Larkin MG and Shultz JM (2020) Venezuelan migrants in
+ 
+<section> Colombia: COVID-19 and mental health. Lancet Psychiatry 7(8), 653–655.
+ https://doi.org/10.1016/S2215-0366(20)30242-X
+ 
+<section> Fuhr DC, Acarturk C, Sijbrandij M, Brown FL, Jordans MJD, Woodward A,
+ McGrath M, Sondorp E, Ventevogel P, Ikkursun Z, El Chammay R,
+ Cuijpers P and Roberts B (2020) Planning the scale up of brief psychological
+ interventions using theory of change. BMC Health Services Research 20(1),
+ 801. https://doi.org/10.1186/s12913-020-05677-6
+ 
+<section> Greene MC, Bonz A, Cristobal M, Vega C, Andersen LS, Angulo A, Armijos
+ A, Guevara ME, Benavides L, de la Cruz A, Lopez MJ, Moyano A, Murcia A,
+ Noboa MJ, Rodriguez A, Solis J, Vergara D, Scharf J, Dutt P, Wainberg M
+ 
+<section> and Tol WA (2022a) Evaluating the feasibility of a group psychosocial
+ intervention for migrant and host community women in Ecuador and
+ 
+<section> Panama: Protocol for a multi-site feasibility cluster trial. Pilot and Feasibility
+ Studies 8(1), 126. https://doi.org/10.1186/s40814-022-01085-1
+ 
+<section> Greene MC, Bonz A, Isaacs R, Cristobal M, Vega C, Andersen LS, Angulo A,
+ Armijos A, Guevara ME, Benavides L, Cruz A, Lopez MJ, Moyano A,
+ Murcia A, Noboa MJ, Rodriguez A, Solis J, Vergara D, Wainberg M and
+ 
+<section> Tol WA (2022b) Community-based participatory design of a psychosocial
+ intervention for migrant women in Ecuador and Panama. Social Science and
+ Medicine – Mental Health 2, 100152.
+ 
+<section> Haroz EE, Nguyen AJ, Lee CI, Tol WA, Fine SL and Bolton P (2020) What
+ works in psychosocial programming in humanitarian contexts in low- and
+ middle-income countries: A systematic review of the evidence. Intervention:
+ Journal of Mental Health and Psychosocial Support in Conflict Affected Areas
+ 
+<section> 18(1), 3–17.
+ 
+<section> HIAS (2021) HIAS Mental Health and Psychosocial Support Curriculum. Silver
+ 
+<section> Spring, MD: HIAS. Available at https://www.hias.org/hias-mental-health-
+ and-psychosocial-support-curriculum (accessed 27 July 2023).
+ 
+<section> International Wellbeing Group (2013) Personal Wellbeing Index, 5th Edn.
+ 
+<section> Melbourne: Australian Centre on Quality of Life, Deakin University.
+ 
+<section> IOM (2022) World Migration Report 2022. Geneva: International Organization
+ for Migration.
+ 
+<section> Kessler RC, Andrews G, Colpe LJ, Hiripi E, Mroczek DK, Normand SLT, Walters
+ EE and Zaslavsky AM (2002) Short screening scales to monitor population 
+<section> prevalences and trends in non-specific psychological distress. Psychological
+ Medicine 32(6), 959–976. https://doi.org/10.1017/s0033291702006074
+ 
+<section> Kessler RC, Barker PR, Colpe LJ, Epstein JF, Gfroerer JC, Hiripi E, Howes MJ,
+ Normand SLT, Manderscheid RW, Walters EE and Zaslavsky AM (2003)
+ Screening for serious mental illness in the general population. Archives of
+ General Psychiatry 60(2), 184–189. https://doi.org/10.1001/archpsyc.60.2.184
+ 
+<section> Kessler RC, Green JG, Gruber MJ, Sampson NA, Bromet E, Cuitan M,
+ Furukawa TA, Gureje O, Hinkov H, Hu C-Y, Lara C, Lee S, Mneimneh
+ Z, Myer L, Oakley-Browne M, Posada-Villa J, Sagar R, Viana MC and
+ 
+<section> Zaslavsky AM (2010) Screening for serious mental illness in the general
+ population with the K6 screening scale: Results from the WHO World
+ Mental Health (WMH) survey initiative. International Journal of Methods
+ in Psychiatric Research 19(Suppl 1), 4–22. https://doi.org/10.1002/mpr.310
+ 
+<section> Kocalevent RD, Berg L, Beutel ME, Hinz A, Zenger M, Harter M, Nater U and
+ 
+<section> Brahler E (2018) Social support in the general population: Standardization of
+ the Oslo Social Support Scale (OSSS-3). BMC Psychology 6(1), 31. https://
+ doi.org/10.1186/s40359-018-0249-9
+ 
+<section> Kohrt BA, Jordans MJ, Rai S, Shrestha P, Luitel NP, Ramaiya MK, Singla DR
+ 
+<section> and Patel V (2015a) Therapist competence in global mental health: Devel-
+ opment of the ENhancing Assessment of Common Therapeutic Factors
+ 
+<section> (ENACT) rating scale. Behaviour Research and Therapy 69, 11–21. https://
+ doi.org/10.1016/j.brat.2015.03.009
+ 
+<section> Kohrt BA, Ramaiya MK, Rai S, Bhardwaj A and Jordans MJD (2015b) Devel-
+ opment of a scoring system for non-specialist ratings of clinical competence in
+ global mental health: A qualitative process evaluation of the Enhancing Assess-
+ ment of Common Therapeutic Factors (ENACT) scale. Global Mental Health
+ (Cambridge) 2, e23. https://doi.org/10.1017/gmh.2015.21
+ 
+<section> Larzabal-Fernandez A, Pilco K, Moreta-Herrera R and Rodas JA (2023)
+ Psychometric properties of the Kessler Psychological Distress Scale in a
+ sample of adolescents from Ecuador. Child Psychiatry and Human Develop-
+ ment, 1–10. https://doi.org/10.1007/s10578-023-01501-4
+ 
+<section> Lyon AR, Pullmann MD, Jacobson J, Osterhage K, Al Achkar M, Renn BN,
+ Munson SA and Arean PA (2021) Assessing the usability of complex
+ psychosocial interventions: The intervention usability scale. Implementation
+ Research and Practice 2, 2633489520987828.
+ 
+<section> Moran C, Landero R and Gonzalez MT (2010) COPE-28: un analisis psicome-
+ trico de la version en espanol del Brief COPE. Universitas Psychologica.
+ 
+<section> Bogotá: Pontificia Universidad Javeriana.
+ 
+<section> Perez-Belmonte S, Galiana L, Fernandez I, Vidal-Blanco G and Sanso N
+ (2021) The personal wellbeing index in Spanish palliative care professionals:
+ A cross-sectional study of wellbeing. Frontiers in Psychology 12, 672792.
+ https://doi.org/10.3389/fpsyg.2021.672792
+ 
+<section> Proctor E, Silmere H, Raghavan R, Hovmand P, Aarons G, Bunger A, Griffey
+ R and Hensley M (2011) Outcomes for implementation research: Concep-
+ tual distinctions, measurement challenges, and research agenda. Adminis-
+ tration and Policy in Mental Health 38(2), 65–76. https://doi.org/10.1007/
+ 
+<section> s10488-010-0319-7
+ 
+<section> Salas-Wright CP, Maldonado-Molina MM, Perez-Gomez A, Trujillo JM and
+ 
+<section> Schwartz SJ (2022) The Venezuelan diaspora: Migration-related experiences
+ and mental health. Current Opinion in Psychology 47, 101430. https://
+ doi.org/10.1016/j.copsyc.2022.101430
+ 
+<section> Save the Children and Pathfinder (2013) Community Action Cycle: Imple-
+ mentation Guide for Improved Gender Norms, GBV, and SRH
+ Outcomes for Adolescents. Washington, DC: Institute for Reproductive
+ Health, Georgetown University. Available at https://www.thecompass
+ forsbc.org/project-examples/great-community-action-cycle-implementa
+ tion-guide (accessed 27 July 2023).
+ 
+<section> Serrano-Duenas M, Serrano M, Mafla D and Martinez-Martin P (2020)
+ Evaluation of the metric properties of the WHODAS 2.0, WHODAS-S,
+ and RADS in the assessment of disability in parkinsonian patients. Clinical
+ Neurology and Neurosurgery 194, 105872. https://doi.org/10.1016/j.clin
+ 
+<section> euro.2020.105872
+ 
+<section> Soliz F and Maldonado A (2012) Guía de metodologías Comunitarias Partici-
+ pativas. Quito: Clinical Ambiental.
+ 
+<section> Terrez BEV, Salcedo VV, Estrada CR, Romero JP and Sotres JC (2011)
+ Validación de la escala Kessler 10 (K-10) en la detección de depresión y
+ ansiedad en el primer nivel de atención. Propiedades psicométricas. Salud
+ 
+<section> Mental 34, 323–331.
+ 
+<section> Tol WA, Ager A, Bizouerne C, Bryant R, El Chammay R, Colebunders R,
+ García-Moreno C, Hamdani SU, James LE, Jansen SCJ, Leku MR, Likin-
+ dikoki S, Panter-Brick C, Pluess M, Robinson C, Ruttenberg L, Savage K,
+ Welton-Mitchell C, Hall BJ, Shehadeh MH, Harmer A and van Ommeren
+ 
+<section> M (2020) Improving mental health and psychosocial wellbeing in humani-
+ tarian settings: Reflections on research funded through R2HC. Conflict and
+ Health 14(1), 71. https://doi.org/10.1186/s13031-020-00317-6
+ 
+<section> UNHCR (2022) Mid-Year Trends 2022. Geneva: UNHCR. Available at https://
+ www.unhcr.org/en-us/mid-year-trends.html (accessed 27 July 2023).
+ 
+<section> von Thiele Schwarz U, Aarons GA and Hasson H (2019) The value equation:
+ Three complementary propositions for reconciling fidelity and adaptation in
+ evidence-based practice implementation. BMC Health Services Research
+ 
+<section> (1), 868. https://doi.org/10.1186/s12913-019-4668-y
+ 
+<section> World Health Organization (2010) Measuring Health and Disability: Manual
+ for WHO Disability Assessment Schedule (WHODAS 2.0). Geneva: World
+ Health Organization. https://www.who.int/publications/i/item/measuring-
+ health-and-disability-manual-for-who-disability-assessment-schedule-(-wh
+ odas-2.0) (accessed 27 July 2023).
+ 
+<section> World Health Organization (2016) Problem Management Plus (PM+): Indi-
+ vidual Psychological Help for Adults Impaired by Distress in Communities
+ Exposed to Adversity. Geneva: World Health Organization. Available at
+ https://www.who.int/publications/i/item/WHO-MSD-MER-16.2 (accessed
+ 
+<section> 27 July 2023).
+ 
+<section> World Health Organization (2020) Doing What Matters in Times of Stress: An
+ Illustrated Guide. Geneva: World Health Organization. Available at https://
+ www.who.int/publications/i/item/9789240003927 (accessed 27 July 2023).
+ 
+<section> World Health Organization (2021) Self Help Plus (SH+): A Group-Based
+ Stress Management Course for Adults. Series on Low-Intensity Psychological
+ Interventions. Geneva: World Health Organization. Available at https://
+ www.who.int/publications/i/item/9789240035119 (accessed 27 July 2023).
+ 
+<section> World Health Organization, War Trauma Foundation, and World Vision
+ 
+<section> International (2011) Psychological First Aid: Guide for Field Workers.
+ 
+<section> Geneva: World Health Organization.

@@ -1,0 +1,1419 @@
+
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> OPEN ACCESS
+ 
+<section> Citation: Kajuju Malla J, Ochola S, Ogada I,
+ Munyaka A (2022) Effect of Moringa Oleifera
+ fortified porridge consumption on protein and
+ vitamin A status of children with cerebral palsy in
+ 
+<section> Nairobi, Kenya: A randomized controlled trial. PLOS
+ Glob Public Health 2(11): e0001206. https://doi.
+ 
+<section> org/10.1371/journal.pgph.0001206
+ 
+<section> Editor: Paddy Ssentongo, Penn State Health Milton
+ S Hershey Medical Center, UNITED STATES
+ 
+<section> Received: March 1, 2022
+ 
+<section> Accepted: September 23, 2022
+ 
+<section> Published: November 4, 2022
+ 
+<section> Peer Review History: PLOS recognizes the
+ benefits of transparency in the peer review
+ process; therefore, we enable the publication of
+ all of the content of peer review and author
+ responses alongside final, published articles. The
+ editorial history of this article is available here:
+ https://doi.org/10.1371/journal.pgph.0001206
+ 
+<section> Copyright: © 2022 Kajuju Malla et al. This is an
+ open access article distributed under the terms of
+ the Creative Commons Attribution License, which
+ permits unrestricted use, distribution, and
+ reproduction in any medium, provided the original
+ author and source are credited.
+ 
+<section> Data Availability Statement: All relevant data are
+ within the paper and its supporting information
+ files.
+ 
+<section> RESEARCH ARTICLE
+ 
+<section> Effect of Moringa Oleifera fortified porridge
+ consumption on protein and vitamin A status
+ of children with cerebral palsy in Nairobi,
+ Kenya: A randomized controlled trial
+ 
+<section> Janet Kajuju Malla ID 1,2 *, Sophie Ochola ID , Irene Ogada 1,3 , Ann Munyaka ID
+ 
+<section> 1 Department of Food, Nutrition and Dietetics, Kenyatta University, Nairobi, Kenya, 2 Department of Human
+ Nutrition and Dietetics, Technical University of Kenya, Nairobi, Kenya, 3 Department of Applied Human
+ Nutrition, Mount Saint Vincent University, Halifax, Canada
+ 
+<section> * janetmalla66@gmail.com
+ 
+<section> Abstract
+ 
+<section> Background
+ 
+<section> Malnutrition due to inadequate dietary intake is commonly reported in children with Cerebral
+ palsy (CP). Poor dietary intakes are majorly caused by feeding dysfunctions secondary to
+ oro-motor impairment characteristic of the condition. Strategies that improve nutrient densi-
+ ties in foods can help enhance nutrient intakes by these children.
+ 
+<section> Objective
+ 
+<section> This study investigated the effect of consumption of fermented finger millet porridge fortified
+ with Moringa oleifera leaf powder (MoLP) on the protein and vitamin A status of children with
+ CP.
+ 
+<section> Design
+ 
+<section> A randomized controlled trial was conducted among 113 children aged 5–11 years with CP.
+ The study had two arms (intervention [N = 57] and control [N = 56]). The intervention group
+ received a daily serving of fortified finger millet porridge for 3 months while the control group
+ received non-fortified finger millet porridge servings. All children received the same amounts
+ of porridge servings. The levels of serum albumin and retinol between the groups were com-
+ pared at both baseline and end line. The BMI-for-age Z-scores (BMIAZ) and morbidity prev-
+ alence of the children were also assessed.
+ 
+<section> Results
+ 
+<section> At baseline, the two study groups were similar in all demographic and socio-economic char-
+ acteristics, nutrient intakes, serum levels of albumin and retinol, weight status and morbidity.
+ At end line, the children from the intervention group had significantly higher intakes of vita-
+ min A at 717.12±432.7 μg/d (p = 0.038) and protein at 44.367±17.2 g/d (p = 0.031) respec-
+ tively. The serum nutrients levels increased significantly from baseline by 0.456±0.12 g/dL 
+<section> Funding: This was a grant - No. NRF/122/2016.
+ Funded by the Kenya National Research Fund
+ (NRF). URL: researchfund.go.ke The grant was
+ awarded to Janet Malla and it only catered for field
+ work and analysis of data. The funders did not play
+ any role in study design, data collection & analysis,
+ decision to publish nor preparation of the
+ manuscript.
+ 
+<section> Competing interests: The authors have declared
+ that no competing interests exist.
+ 
+<section> (p<0.001) for albumin and by 0.243±0.10 μmol/L (p<0.001) for retinol among children in the
+ intervention group. Among the children in the control group, the changes in the levels of
+ both serum albumin 0.012±0.07 g/dL (p = 0.868) and serum retinol [0.0021±0.02 μmol/L (p
+ = 0.890)] were not significant. At endline, the BMI-for-age Z-scores results showed that
+ 10.52% and 34.0% of children from intervention and control group respectively were under-
+ nourished [χ2 = 30.985; p = 0.037]. Among the children in the intervention, group there was
+ a significant change in the weight status between baseline and endline (p = 0.036). The
+ weight status among children in the control group was not significantly different between
+ baseline and endline (p = 0.109). Significant difference in morbidity prevalence between the
+ two groups was also observed at endline (p = 0.003) with the prevalence being 24.6% and
+ 51.8% among children in the intervention and control group respectively.
+ 
+<section> Conclusion
+ 
+<section> Consumption of M. oleifera fortified porridge significantly improved the children’s serum
+ albumin and retinol levels, as well as BMIAZ.
+ 
+<section> Registration number and name of trial registry
+ 
+<section> The trial is registered at Pan African Clinical Trials Registry, number
+ 
+<section> PACTR202107669905145 URL link: https://pactr.samrc.ac.za/.
+ 
+<section> Introduction
+ 
+<section> Cerebral palsy (CP) is a group of neurologic disorders typically caused by a non-progressive
+ lesion or abnormality of the developing brain that appears in infancy or early childhood and
+ permanently affects body movement, muscle coordination, and balance [1]. It is the most com-
+ mon cause of physical disability in childhood and constitutes a significant health problem with
+ major effects throughout the lifespan [1–4]. The global incidence of CP is approximately 2 to
+ 2.5/1000 live births, with prevalence varying widely from country to country [5,6]. Despite
+ concerns of underreporting, this prevalence has been suggested to be even higher in develop-
+ ing countries throughout Africa [7] and is estimated at up to 10 cases per 1000 births[5,8].
+ Higher prevalence in Africa is likely due to the level of perinatal complications such as birth
+ asphyxia and neonatal infections [5]. There is limited data on the current prevalence rate of
+ 
+<section> CP in Kenya.
+ A number of studies have reported increased prevalence of morbidity and mortality sec-
+ ondary to compromised nutritional status among children with CP compared to their normal
+ counterparts in the same age group [3,9–11]. According to the UNICEF conceptual framework
+ on the determinants of malnutrition [12], dietary intake is one of the immediate determinants
+ of nutritional status. Children with CP commonly suffer nutrient deficiencies as a result of
+ compromised dietary intakes due to feeding dysfunctions such as oropharyngeal dysphagia
+ associated with the condition [13]. Strategies to enhance nutrient densities of foods consumed
+ by children with CP are thus critical to ensuring that they meet their requirements of essential
+ nutrients for optimal growth and health [10,14,15]. Among the common nutritional concerns
+ in children with CP are Protein-Energy Malnutrition (PEM) and vitamin A deficiencies
+ (VAD) [16,17].
+ The potential of M. oleifera for use as a fortificant in different food formulations including
+ soups and complementary foods has become a subject of research interest due to its high 
+<section> nutritional value which is widely acknowledged in literature [18–20]. Improvements in protein
+ malnutrition, VAD and calcium and iron deficiencies in children have been reported after
+ interventions with M. oleifera [21]. In a related publication, the authors have reported the
+ potential of the M. oleifera fortificant to improve the protein and vitamin A content of fer-
+ mented finger millet porridge [22].
+ The Food and Agricultural Organization is currently promoting the use of indigenous and/
+ or underutilized crops readily found in various localities as an economically sustainable strat-
+ egy to enhancing food security and addressing common deficiencies in local populations
+ [23,24]. There is, however, a scarcity of studies addressing the nutritional viability of local/
+ indigenous crops to treat malnutrition in disease contexts particularly in neurological disor-
+ ders such a cerebral palsy. The lack of rigorous and systematic tests of the nutritional efficacy
+ of local food fortificants to mitigate malnutrition in disease context, constituted a gap this
+ study aimed to address. The study was undertaken to investigate the effect of consumption of
+ 
+<section> M oleifera fortified porridge on protein and vitamin A status in children with cerebral palsy.
+ 
+<section> Methods
+ 
+<section> Study site
+ 
+<section> The study was conducted at Little Rock Day Care Centre located in Kibra informal settlement
+ in Nairobi County from May to July 2018. The Little Rock Day Care Centre center serves as
+ rehabilitation center for children with special needs. Kibra is one of the most densely popu-
+ lated informal settlements in Kenya and with the highest poverty rates with over 70% of the
+ population living below the poverty line. Sanitation and hygiene conditions are very poor and
+ physical infrastructure including housing and road access are at their poorest condition.
+ 
+<section> Study design
+ 
+<section> This was a randomized controlled trial (RCT) investigating the effect of the consumption of
+ Moringa oleifera-fortified finger millet porridge on protein and vitamin A status of children
+ with cerebral palsy in Nairobi Kenya. The study comprised of two study arms: the control
+ group (receiving fermented finger millet porridge) and the intervention group (receiving fer-
+ mented finger millet porridge fortified with M. oleifera leaf powder). The study was approved
+ by the Kenyatta University Ethical Review Committee (KUERC), Ref. No. KU/ERC/
+ APPROVAL/VOL.1 (83). Written informed consents were obtained from caregivers of the
+ children who were the respondents.
+ The trial whose results are being published was registered retrospectively. This was mainly
+ because of limited prior knowledge on trial registration. This however, did not in any way
+ influence the reporting of the findings and the research methodologies. The authors confirm
+ that all ongoing and related trials for this intervention are registered.
+ 
+<section> Sample size determination
+ 
+<section> The study adopted the formula by Noordzij [25] for sample size calculation in RCT studies.
+ Calculation of the sample size was based on the main primary outcome (serum albumin lev-
+ els); 80% power of the test and a 5% level of significance (α = 0.05) according to the recom-
+ mendations by Cohen, [26] and Noordzij et al., [26]. Both the population means and variance
+ were derived from the results of the pilot study conducted for this study. The calculated sample
+ size was 52 participants (caregiver-child pairs) per group. This sample size was inflated by 10%
+ to cater for attrition, hence the final sample size was; 52+5 = 57 participants per group totaling
+ 
+<section> = 114 caregiver-child pairs for the two study groups. 
+<section> Randomization
+ 
+<section> Upon recruitment, the children were randomly allocated on a 1:1 ratio to the two study groups
+ (control and intervention) by the researchers. Randomization was conducted by an indepen-
+ dent biostatistician using a computerized random number function in Microsoft Office Excel
+ 2008. The numbers generated were printed on a piece of paper, uniformly folded, and the care-
+ givers were asked to pick one. The children were placed into the groups depending on the num-
+ ber which the caregiver picked and which had been allocated to by the randomization process.
+ 
+<section> Recruitment process and trial profile of the study subjects. A total of 114 children were
+ recruited and randomized into the study. All those from the intervention group completed the
+ full course of treatment and follow-up for the three-month duration of the study (May-July
+ 2018). One child from the control group was lost to follow up because of complications devel-
+ oped during the study though not related to the study treatment (Fig 1). Both the experimental
+ porridge (Moringa oleifera fortified fermented finger porridge) and the control porridge (non-
+ fortified fermented finger millet porridge) were well tolerated. No adverse reactions attribut-
+ able to the products occurred during the study period.
+ 
+<section> Study participants and screening
+ 
+<section> The study targeted children ages 5–11 years diagnosed with cerebral palsy by a medical doctor,
+ attending Little Rock Daycare Center in Kibra Informal settlements and their caregivers. Chil-
+ dren with cerebral palsy who had chronic ailments that would independently affect food intake
+ such as; cardiovascular diseases, cancer, renal dysfunction, and liver problems were excluded.
+ The children who met the inclusion criteria and whose caregivers were willing to participate
+ the study by giving their informed consent, were randomly assigned to the intervention or
+ control groups by the researchers.
+ 
+<section> Selection and training of research assistants
+ 
+<section> Selection and training of the cooks. Two cooks with diploma level of education in food
+ and beverage service were recruited and trained on the standard recipe of the porridge and the
+ serving portions. They were trained on their roles in preparing the porridge and weighing out
+ the servings as well as weighing and recording the left-over portions from each of the study
+ participants- the children. The cooks worked closely with the data collectors.
+ 
+<section> Selection and training of data collectors. Four data collectors with a minimum of diploma
+ in Food, Nutrition and Dietetics were recruited into the research team. Prior experience in surveys
+ was an added advantage. The data collectors were trained for a period of 2 days by the principal
+ researcher on: their roles and expectations; research ethics; recruitment of the study participants;
+ how to administer the data collections tools and the entire data collection procedures.
+ 
+<section> Blinding design
+ 
+<section> The biostatistician, the cooks and the data collectors, study participants, caregivers and the
+ workforce at the children’s centre were all blinded to the study hypotheses. It was only the
+ researchers who were aware of the study hypotheses. The cooks were instructed not to disclose
+ the recipe of the coded porridge samples fed to the children to any one including the data col-
+ lectors and the participants.
+ 
+<section> Description of interventions
+ 
+<section> Control group (CG). Children in the control group received porridge prepared from fer-
+ mented finger millet flour. The porridge was prepared at the daycare center by the caterer and 
+<section> Fig 1. Trial profile of the study participants.
+ 
+<section> https://doi.org/10.1371/journal.pgph.0001206.g001
+ 
+<section> cooks, following a standard procedure, explained in a related publication [22], and fed to the
+ children by data collectors, both under the supervision of the researchers. Each child received
+ a daily portion of porridge equivalent to 250ml in a cup at 10 am, five days a week, for three 
+<section> months. The left-over porridge by the children was measured and the amount of porridge con-
+ sumed by each child determined daily for the entire study period (Fig 2).
+ 
+<section> Intervention group. Children in the intervention group received porridge prepared from fer-
+ mented finger millet flour fortified with 10% M. oleifera leaf powder. As presented in a related
+ publication, 10% fortification rate was found to significantly improve the vitamin A and protein
+ content of the porridge without significantly compromising its sensory acceptability, that is col-
+ our, texture, taste and overall acceptability [22]. The same procedure used for control group was
+ followed in the preparation and administration of the fortified porridge for the children in the
+ intervention group. (Fig 2). Pictures of samples of the prepared porridges is presented in S1 Fig.
+ 
+<section> Study outcomes
+ 
+<section> The primary study outcomes in this trial were the improved protein and vitamin A status of
+ the children. Protein status was determined by the levels of serum albumin which is the most
+ abundant protein in the blood and also the major carrier of free fatty acids in the blood,
+ whereas vitamin A status was indicated by serum retinol levels. The secondary outcomes were
+ changes in weight status measured by BMI-for-Age Z-scores (BMIAZ) and morbidity status
+ assessed by the prevalence of illness based on a 2-week recall.
+ 
+<section> Data collection tools
+ 
+<section> The study questionnaires were developed and face-validated through multiple pre-tests, and
+ finally pilot- tested and refined for clarity and accuracy. Two questionnaires were used to col-
+ lect data; a baseline questionnaire and a questionnaire used at the end of the study (at three
+ months). The questionnaires solicited information on the 24-hour dietary recall, anthropome-
+ try (weight and height measurements), morbidity prevalence based on a 24-hour recall. The
+ questionnaire had a biochemical test schedule to record levels of serum albumin and serum
+ retinol. In addition, the baseline questionnaire solicited information on the socio-demo-
+ graphic and economic status of the study participants.
+ 
+<section> Pilot study
+ 
+<section> A pilot study was conducted on a sample of 14 caregiver-child pairs (about 11% of the sample size
+ for the main study sample) from a Centre in Nairobi comparable to the study site. Piloting was con-
+ ducted to validate and standardize the study procedures and research instruments. The pilot study
+ also accorded the research assistants the opportunity to practically apply the skills learnt during the
+ training, and experience the possible challenges that would be faced during the main study. The feed-
+ back was used to make appropriate and necessary changes in the study procedure and data collection
+ tools before commencement of the study. The findings of the pilot study are presented in S2 Table.
+ 
+<section> Collection of data at baseline and end line
+ 
+<section> Except for the data on the demographic and economic characteristics of the study respondents
+ which was collected at only baseline, the rest of the data was collected at both baseline and end-
+ line. Information on the demographic and socio-economic profile of the study subjects was
+ collected at baseline to establish homogeneity or differences in the two study groups that could
+ have a bearing on the study outcome variables.
+ Data was collected using the same methods on the following variables at both baseline and
+ endline.
+ 
+<section> Collection of blood samples for determination of protein and vitamin A status of the
+ 
+<section> children. A certified phlebotomist collected 5.0 mL of venous blood by venipuncture of a 
+<section> Fig 2. Schematic presentation of the research
+ https://doi.org/10.1371/journal.pgph.0001206.g002
+ 
+<section> design. 
+<section> peripheral vein using disposable syringes. The specimens were collected in trace-element-free
+ tubes, immediately wrapped in aluminum foil, to shield them from light, then put in portable
+ freezers for transportation to the laboratory for biochemical analysis where they were stored
+ 
+<section> 4˚C until centrifugation.
+ 
+<section> Anthropometry measurements. Anthropometric measures were taken using standard-
+ ized protocols [27]. Weight was measured in kilograms using a zero-calibrated digital weigh-
+ ing scale (Seca Robust 813) and recorded to the nearest 0.1 kg, following standard guidelines
+ (i.e., removing extra clothing, standing still). Alternatively, for children not able to stand alone,
+ the weight was calculated as the difference between the caregiver’s weight with and without
+ child. Standing Height was measured using a stadiometer (Seca 217) and recorded to the near-
+ est 0.1 cm. For children with deformities, the knee height (the height from the knee to the
+ heel) was taken and used to estimate the overall height using the equation � height =
+ 
+<section> (2.69 × knee height) + 24.2 [28]. Knee height was recorded for all children to the nearest milli-
+ meter. Following World Health Organization (WHO) best-practice procedures, height, length,
+ and knee height measurements were obtained twice by two independent observers: and the
+ average taken as the final measurement if they agreed to within less than 5mm, or else both re-
+ measured until agreement achieved [29].The BMI of the children enrolled in the study was cal-
+ culated from weight and height measurements as weight (in kg)/height 2 (in m) and BMIAZ
+ determined using WHO 2006 BMI-for-age reference tables for children and adolescents (5–19
+ years). Z-scores were then used to categorize the children according to their weight status.
+ 
+<section> Dietary intakes
+ 
+<section> Non-consecutive two-day 24-hour dietary recalls were conducted to determine the nutrient intake
+ per day and hence the adequacy of the nutrients. The two recalls were conducted within a two-week
+ interval with one being conducted on a weekday and the other on a weekend to minimize random
+ error and to capture the variation between weekdays and weekend days. The 24-hour recall was
+ undertaken by trained research assistants using a standard protocol. The data collected included a
+ description of the foods eaten; the cooking methods; brand names (e.g., for cereals, processed
+ snacks); and the quantity of food consumed which was estimated using the common household
+ measures. Each food item consumed was linked to the equivalent food in the Kenya Food Composi-
+ tion Tables for determination of nutrient content per unit (100g) and consequent calculation of
+ nutrient intakes. The average nutrient intakes were calculated from the two recalls. The multiple
+ pass approach consisting of five steps was adopted in conducting the 24-hour dietary recall inter-
+ views since it yields the most accurate data and best recall [30]. The steps included (1) Quick list, to
+ collect a list of foods and beverages consumed during the previous day (i.e., over past 24 hours) (2)
+ Forgotten foods, to probe for foods forgotten during the quick list (3) Time and occasion, to record
+ time and eating occasion for each food (4) Detail cycle, to record detailed description, amount, use
+ of condiments, cooking methods, brands of foods if purchased, and other information as review of
+ 24-hour day and (5) Final probe, to probe anything else consumed.
+ 
+<section> Morbidity
+ 
+<section> Morbidity data were collected, based on a 2-week recall period to determine the prevalence (if
+ a child had suffered illness), frequency (number of times a child fell ill), and types of illnesses
+ reported.
+ 
+<section> Data analysis
+ 
+<section> Biochemical analysis for nutrient intake. Retinol was extracted from serum with ethanol
+ containing butylated-hydroxytoluene (BHT). Retinol was determined by HPLC (Thermo 
+<section> Scientific Accella LC system; Thermo Fisher Scientific) with spectrofluorimetric detection
+ (λex 340 nm; λcm 460 nm), but serum albumin was quantified using bromocresol green
+ (BCG) ASSAY method. The absorbances (Abs) of standards and the samples was read in a
+ UV-Vis spectrophotometer (Beckman DU-650, Fullerton) at 545 nm against the blank and
+ albumin concentration in the samples was determined according to the general formula:
+ Albumin (g/dl) = (Abs sample/ Abs standard) X Concentration of standard.
+ 
+<section> Anthropometric data analysis
+ 
+<section> WHO Child Growth Standards (2006) [31] were used to interpret the nutritional status of the
+ children because this is what is currently used in Kenya: Cut-offs for BMIAZ were set at
+ 
+<section> �-2SD for wasting/thinness, >+1 for overweight and >+3 for obesity.
+ 
+<section> Dietary intake data analysis
+ 
+<section> The 24-hour recall data was entered into the Nutri-survey software for processing using the
+ Kenya Food Composition Table as the reference for nutrient composition. In instances where
+ a food item could not be found in the Kenya Food Composition Table, it was added to the
+ database using food manufacturing websites and other Food Composition Tables. Nutrient
+ data obtained from the analysis were compared with the Recommended Daily Allowances by
+ UNICEF/WHO (2002) to determine the adequacy of nutrient intakes.
+ Statistical analyses were performed using Statistical Package for Social Sciences (SPSS) ver-
+ sion 19.0 software. All statistical tests were two-tailed with an alpha value of 0.05. Summary
+ statistics (means, percentages and SDs) were used to describe all variables of interest. Data
+ were tested for normality to decide between parametric and non-parametric tests. Parametric
+ tests including t-test, and Pearson product-moment correlation were used to analyze normally
+ distributed data while non-parametric alternatives such McNemar-s test were used for non-
+ normally distributed data. The chi-square test, Marginal homogeneity test, and McNemar’s
+ test were used to test differences in the two study groups for categorical variables such as edu-
+ cation, marital status, occupation and BMIAZ. Independent t-test was used to test for differ-
+ ences between the intervention and the control groups for continuous variables such as age,
+ nutrient intakes, serum levels of albumin and retinol. The paired t-test was used to compare
+ differences in continuous variables (nutrient intake, serum albumin and retinol levels)
+ between baseline and end line for each study group and to determine the magnitude of change
+ in nutrient intakes and serum levels. The wealth index was computed by means principal com-
+ ponent analysis (PCA) using data on household asset ownership (Fig 3). Included in the analy-
+ sis were key items including land, car, motorcycle, mobile phone and bank account
+ ownership. The PCA revealed two components that explained 63.64% of variance. Component
+ one eigenvalue = 1.42 (variance explained = 35.59%), component two eigenvalue = 1.12(vari-
+ ance explained = 28.05%). All the measures loaded onto one of the two components. Compo-
+ nent one was made of bank account, bicycle and car. The second factor was made of land, and
+ bank account. Component one was thus taken as the wealth index. The wealth index was
+ recoded into a categorical variable by dividing the household into 5 groups.
+ 
+<section> Results
+ 
+<section> Comparison of study groups at baseline
+ 
+<section> Socio-demographic and economic baseline characteristics by study groups. No differ-
+ ences were found in socio-demographic and economic characteristics of the participants of
+ two study groups at baseline, an indication that randomization was successful (Table 1). 
+<section> Fig 3. Wealth quintile distribution between
+ https://doi.org/10.1371/journal.pgph.0001206.g003
+ 
+<section> the study groups.
+ 
+<section> Dietary intakes by study groups at baseline. The mean daily intakes by the intervention
+ and control groups were 30.68±14.77g and 30.50±16.93g respectively for proteins and 456.12
+ ±374.14μg and 477.45±373.5μg respectively for vitamin A. There were no significant differ-
+ ences in the intakes of nutrients between the study groups at baseline (Table 2).
+ 
+<section> Levels of serum albumin and serum retinol at baseline by study groups. The baseline
+ serum albumin levels were 3.067±1.09 and 3.186±1.16 g/dL for the intervention and control
+ group respectively (Table 3). There was no significant difference in baseline serum albumin
+ levels between control and intervention group children (t = -1.088; p = 0.280). The serum reti-
+ nol levels at baseline were at 0.471± 0.05 and 0.468 ± 0.02 μmol/L in the intervention and con-
+ trol group respectively. There was no significant difference in baseline serum retinol levels
+ between the children in the control and intervention group (t = -0.042; p < 0.966) (Table 3).
+ 
+<section> Weight status of the study participants at baseline by study groups. The BMI of the
+ study participants were calculated from anthropometric measurements and BMI-for-age Z-
+ scores determined using WHO 2006 BMI-for-age Reference for Children and Adolescents (5–
+ 19 years). The Z-scores were then used to categorize the children according to their weight sta-
+ tus (Table 4). At baseline, 38.6% and 33.9% of children from intervention and control groups
+ respectively were underweight whereas 52.6% and 55.4% of children from intervention and
+ control groups respectively were in the normal weight range (between �-2SD and +1SD). A
+ small proportion of the study children, i.e. 5.3% and 7.1% of children from intervention and
+ control groups respectively, were overweight while 5.5% and 3.6% of children from the inter-
+ vention and control groups respectively, were obese. No significant differences existed in the
+ weight status between the two study groups (t-test, p = 0.856) at baseline. 
+<insert> Table 1. Socio-demographic characteristics of caregivers.
+ Intervention,
+ N =
+ Age mean (SD) 35.8(6.5)
+ Marital status
+ Married
+ Single
+ divorced
+ cohabiting
+ total
+ n (%)
+ 26(45.6)
+ 14(24.6)
+ 6(10.5)
+ 11(19.3)
+ 57(100.0)
+ Education
+ No formal
+ primary
+ secondary
+ college
+ university
+ total
+ 2(3.5)
+ 21(36.8)
+ 14(24.6)
+ 17(29.8)
+ 3(5.3)
+ 57(100)
+ Occupation
+ Salaried employment
+ Self-employment
+ other
+ total
+ 36(63.2)
+ 10(17.5)
+ 11(19.3)
+ 57(100)
+ No. of Children
+ total
+ 5(8.8)
+ 22(38.6)
+ 15(26.3)
+ 15(26.3)
+ 57(100)
+ Gender of Household Head
+ Male
+ female
+ Total
+ 37(64.9)
+ 20(35.1)
+ 57(100)
+ Wealth quintile
+ Poorest
+ Poor
+ Middle
+ Least poor
+ 13(22.8)
+ 12(21.1)
+ 24(42.1)
+ 8(14.0)
+ Mean Wealth Index score 0.12
+ Gender Boys n (%)
+ Girls n (%)
+ 31 (54.4)
+ 26 (45.6)
+ Mean age +SD
+ Median (Range)
+ 106.98±25.8
+ 120 (62–141)
+ Caregiver characteristics
+ Household characteristics
+ Child characteristics
+ https://doi.org/10.1371/journal.pgph.0001206.t001 
+<iend>
+
+ 
+<section> Control, 
+<section> Total 
+<section> p-value
+ 
+<section> N = N =
+ 
+<section> 37.8(6.5) 
+<section> 0.103 a
+ 
+<section> n (%) 
+<section> n (%)
+ 
+<section> 21(37.5) 
+<section> 47(41.6) 
+<section> 0.315 b
+ 
+<section> 16(28.6) 
+<section> 30(26.5)
+ 
+<section> 12(21.4) 
+<section> 18(15.9)
+ 
+<section> 7(12.5) 
+<section> 18(15.9)
+ 
+<section> 56(100) 
+<section> 113(100)
+ 
+<section> 1(1.8) 
+<section> 3(2.7) 
+<section> 0.442 b
+ 
+<section> 24(42.9) 
+<section> 45(39.8)
+ 
+<section> 19(33.9) 
+<section> 33(29.2)
+ 
+<section> 9(16.1) 
+<section> 26(23.0)
+ 
+<section> 3(5.4) 
+<section> 6(5.3)
+ 
+<section> 56(100) 
+<section> 113(100)
+ 
+<section> 31(55.4) 
+<section> 67(59.3) 
+<section> 0.377 b
+ 
+<section> 16(28.6) 
+<section> 26(23.0)
+ 
+<section> 9(16.1) 
+<section> 20(17.7)
+ 
+<section> 56(100) 
+<section> 113(100)
+ 
+<section> 3(5.4) 
+<section> 8(7.1) 
+<section> 0.478 b
+ 
+<section> 16(28.6) 
+<section> 38(33.6)
+ 
+<section> 21(37.5) 
+<section> 36(31.9)
+ 
+<section> 16(28.6) 
+<section> 31(27.4)
+ 
+<section> 56(100) 
+<section> 113(100)
+ 
+<section> 29(51.8) 
+<section> 66(58.4) 
+<section> 0.184 b
+ 
+<section> 27(48.2) 
+<section> 47(41.6)
+ 
+<section> 56(100) 
+<section> 113(100)
+ 
+<section> 15(26.8) 
+<section> 0.685 b
+ 
+<section> 12(21.4)
+ 
+<section> 25(44.6)
+ 
+<section> 4(7.1)
+ 
+<section> -0.12 
+<section> 0.203 a
+ 
+<section> 28 (50) 
+<section> 0.708 b
+ 
+<section> 28 (50)
+ 
+<section> 108.89±22.5 
+<section> 0.676 a
+ 
+<section> 121 (61–140) 
+<section> 0.778 c
+ 
+<section> Comparison of morbidity prevalence between the study groups at baseline. As shown in
+ 
+<section> Table 5, 59.6% and 58.4% of children from the intervention and control study groups respec-
+ 
+<section> tively had fallen ill within the two weeks preceding the study. There were no significant differ-
+ 
+<section> ences in the prevalence [χ 2 = 0.219; p = 0.640] and frequency [χ 2 = 2.648; p = 0.056] of illness
+ 
+<section> between the two study groups at baseline (Table 5).
+ 
+<section> Effect of the intervention on the study outcomes. This study was designed to test the
+ 
+<section> impact of consumption of Moringa oleifera fortified finger millet porridge consumption on
+ 
+<section> the protein and vitamin A status of children with cerebral palsy. The impact of the intervention
+ 
+<section> was determined at three months after commencement of the intervention. 
+<insert> Table 2. Mean nutrient dietary intakes at baseline by study groups. 
+<iend>
+
+ 
+<insert> Table 3. Comparison of levels of serum albumin and retinol for study children at baseline by study groups.
+ Indicator Mean serum levels ± SD Statistic
+ (Independence t-test)
+ Intervention Group (N = 57) Control Group (N = 56) t-value df p-value
+ Baseline Serum albumin (g/dL) 3.067 ± 1.09 3.186 ± 1.16 -1.088 0.280
+ Baseline Serum retinol (μmol/L) 0.471± 0.05 0.468 ± 0.02 0.043 0.966
+ https://doi.org/10.1371/journal.pgph.0001206.t003 
+<iend>
+
+ 
+<insert> Table 4. Comparison of baseline BMI-for-age Z- scores of the study children by study groups. 
+<iend>
+
+ 
+<insert> Table 5. Comparison of morbidity prevalence of the study children at baseline.
+ Characteristic Description
+ Child sick in the last 2 weeks
+ Intervention,
+ N =
+ Control, N = 56 χ
+ n % n %
+ p-value
+ 70.2 66.1 0.219 0.640
+ Nature of illness Diarrhea
+ Fever
+ Cough/cold
+ Epileptic fever
+ 24.6
+ 17.5
+ 28.1
+ 42.1
+ 19.6
+ 25.0
+ 23.2
+ 30.4
+ 0.397
+ 0.939
+ 0.349
+ 1.686
+ 0.529
+ 0.333
+ 0.555
+ 0.194
+ Frequency of illness No sickness
+ weekly
+ monthly
+ quarterly
+ 31.6
+ 35.1
+ 17.5
+ 15.8
+ 37.5
+ 21.4
+ 26.8
+ 14.3
+ 2.648 0.056
+ https://doi.org/10.1371/journal.pgph.0001206.t005 
+<iend>
+
+ 
+<section> Nutrient 
+<section> units 
+<section> RDA
+ 
+<section> Energy 
+<section> Kcal/d 
+<section> 2000
+ 
+<section> Proteins 
+<section> g/d 
+<section> 60.1
+ 
+<section> Calcium 
+<section> mg/d 
+<section> 1300
+ 
+<section> Iron 
+<section> mg/d
+ 
+<section> Zinc 
+<section> mg/d
+ 
+<section> Vitamin A 
+<section> μg/d
+ 
+<section> Folate 
+<section> μg/d
+ 
+<section> Vitamin B12 
+<section> μg/d 
+<section> 1.8
+ 
+<section> Vitamin C 
+<section> mg/d
+ 
+<section> SD = Standard Deviation.
+ 
+<section> https://doi.org/10.1371/journal.pgph.0001206.t002
+ 
+<section> BMI for age category BMI Z-scores
+ 
+<section> Moderately underwieght �-3 to <-2
+ Normal 
+<section> �-2 to +1
+ Overweight 
+<section> >+1 to +2
+ Obese 
+<section> >+2 SD
+ 
+<section> https://doi.org/10.1371/journal.pgph.0001206.t004
+ 
+<section> Mean intakes ± SD 
+<section> Statistic
+ 
+<section> (independent t-test)
+ 
+<section> Intervention 
+<section> Control
+ 
+<section> (N = 57) 
+<section> (N = 56) 
+<section> t-value 
+<section> df 
+<section> p-value
+ 
+<section> 1329.6±522.15 1324.7±574.9 0.047 0.963
+ 30.68±14.77 30.50±16.93 0.052 0.958
+ 844.69±199.7 772.31±155.2 -1.18 0.241
+ 10.33±5.56 9.29±5.18 0.264 0.793
+ 
+<section> 4.54±2.84 
+<section> 4.20±2.67 
+<section> 0.907 
+<section> 0.367
+ 456.12±374.14 477.45±373.5 0.495 0.622
+ 200.48±103.34 194.72±95.4 0.668 0.506
+ 
+<section> 0.64±0.49 
+<section> 0.72±0.40 
+<section> 0.411 
+<section> 0.682
+ 73.04±41.2 75.00±46.36 1.26 0.310
+ 
+<section> Frequency n (%) 
+<section> Statistic
+ 
+<section> Intervention 
+<section> Control χ 
+<section> p-value
+ 
+<section> N = N =
+ 
+<section> SD 
+<section> 22(38.6) 
+<section> 19(33.9) 
+<section> 1.952; 
+<section> 0.856
+ 
+<section> SD 
+<section> 30(52.6) 
+<section> 31(55.4)
+ 
+<section> SD 
+<section> 3(5.3) 
+<section> 4(7.1)
+ 
+<section> 2(5.5) 
+<section> 2(3.6) 
+<insert> Table 6. Average intake of porridge by the study groups during the intervention phase.
+ Description Mean daily average (N = 60 days) Statistic (independent t-test)
+ Intervention Control t-value df
+ Amount consumed/ml 248.07+3.81 248.46+2.33 -0.682 0.497
+ Amount Left over/ml 1.93+3.81 1.53+2.33 0.682 0.497
+ p-value
+ https://doi.org/10.1371/journal.pgph.0001206.t006 
+<iend>
+
+ 
+<insert> Table 7. Effect of consumption of fortified porridge on mean daily nutrient intakes.
+ Nutrient
+ Energy
+ Proteins
+ Calcium
+ Iron
+ Zinc
+ Vitamin A
+ Folate
+ Vitamin B12
+ Vitamin C
+ �
+ Units
+ Kcal/d
+ g/d
+ mg/d
+ mg/d
+ mg/d
+ μg/d
+ μg/d
+ μg/d
+ mg/d
+ RDA
+ 2000
+ 60.1
+ 1300
+ 1.8
+ Mean intakes ± SD Statistic
+ Intervention
+ (N = 57)
+ Control
+ (N = 56)
+ t-value df p-value
+ 1407.59±529.6
+ 31.37±21.2
+ 831.63±401.6
+ 10.77±3.1
+ 4.61±2.6
+ 467.12±382.7
+ 206.60±100.3
+ 0.61±0.1
+ 75.6±50.4
+ 1440.7±468.6
+ 32.6±17.4
+ 811.25±346.1
+ 9.38±3.1
+ 4.70±2.1
+ 470.70±312.7
+ 196.80±83.4
+ 0.65±0.3
+ 75.69±40.3
+ -0.351
+ -0.087
+ -1.03
+ 0.347
+ -0.752
+ -0.04
+ 0.803
+ 0.05
+ 0.625
+ 0.726
+ 0.931
+ 0.635
+ 0.759
+ 0.454
+ 0.938
+ 0.424
+ 0.961
+ 0.833
+ Statistically significant differences between the two study groups at p<0.05.
+ https://doi.org/10.1371/journal.pgph.0001206.t007 
+<iend>
+
+ 
+<section> The average intake of porridge by the study groups during the intervention phase. On
+ 
+<section> average, 248.07±3.81 ml and 248.46±2.33 ml of the porridge servings were consumed daily by
+ 
+<section> each child in the intervention and control group respectively, throughout the period of inter-
+ 
+<section> vention. No significant differences were recorded in the daily average consumption in the por-
+ 
+<section> ridge servings between the study groups (t [118] = -0.682; p = 0.497). Furthermore, the
+ 
+<section> amount of leftovers was not significantly different between the two study groups (p>0.05)
+ 
+<section> (Table 6).
+ 
+<section> Effect of the consumption of M. oleifera fortified porridge on the nutrient intakes by
+ 
+<section> study groups at endline. The Nutrisurvey analysis conducted using the 24-hour dietary
+ 
+<section> recall data excluded the treatments (both the experimental and placebo porridge). The intake
+ 
+<section> of proteins, was 31.37±21.2 g/d and 32.6±17.4 g/d while that of vitamin A was 467.12
+ 
+<section> ±382.7 μg/d and 470.70±312.7 μg/d among the intervention and control study groups respec-
+ 
+<section> tively. There were no significant differences between the two study groups with respect to both
+ 
+<section> the amounts of proteins [t (111) = -0.087; p = 0.931] and vitamin A [t (111) = -0.04; p = 0.938],
+ 
+<section> consumed (Table 7).
+ 
+<section> Effect of the consumption of M. oleifera fortified porridge on the serum levels of albu-
+ 
+<section> min and retinol study groups at endline. The mean levels of serum albumin for children
+ 
+<section> the intervention and control group at endline were 3.523±1.27g/dL and 3.198±1.186 g/dL
+ 
+<section> respectively while the mean levels of serum retinol for intervention and control groups at end-
+ 
+<section> line were 0.714±0.11 μmol/L and 0.471±0.03 μmol/L respectively (Table 8). In order to estab-
+ 
+<section> lish the effect of the consumption of the moringa-fortified finger millet porridge on the serum
+ 
+<section> levels of albumin and retinol, the two study groups were compared at endline. There were sig-
+ 
+<section> nificant differences in both the mean levels of serum albumin [t (111) = 3.454; p = 0.001] and
+ 
+<section> serum retinol [t (111) = 5.553; p<0.001] between the control and intervention group children
+ 
+<section> at endline (Table 8). 
+<insert> Table 8. Effects of consumption of M. oleifera fortified porridge on the levels of serum albumin and retinol of the children by study groups.
+ Indicator Mean Serum levels at Statistics (t-test)
+ Control
+ (N = 56)
+ Intervention
+ (N = 57)
+ t df p-value
+ Serum albumin
+ g/dL
+ 3.198±1.18 3.523±1.27 3.454 0.001 �
+ Serum Retinol
+ (μmol/L)
+ 0.471±0.03 0.714±0.11 5.553 <0.001 �
+ � Significant at p<0.05.
+ https://doi.org/10.1371/journal.pgph.0001206.t008 
+<iend>
+
+ 
+<insert> Table 9. Differences in baseline and endline mean levels of serum albumin and serum retinol by study groups.
+ Indicator Group
+ Serum Albumin
+ (g/dL)
+ Serum Retinol
+ (μmol/L)
+ Mean Serum levels ±SE MoC Statistics (paired t-test)
+ Baseline Endline Difference t df p-value
+ 3.067±1.09
+ 3.186±1.16
+ 3.523±1.27
+ 3.198±1.18
+ 0.456±0.12
+ 0.012±0.07
+ -3.890
+ -0.167
+ <0.001 �
+ 0.868
+ 0.471±0.05
+ 0.468±0.02
+ 0.714±0.11
+ 0.471±0.03
+ 0.243±0.10
+ 0.0021±0.02
+ -6.747
+ -0.139
+ <0.001 �
+ 0.890
+ MoC = Magnitude of Change SE = Standard Error of Mean
+ � Significant at p<0.05
+ 1- Intervention group 2- Control group
+ https://doi.org/10.1371/journal.pgph.0001206.t009 
+<iend>
+
+ 
+<section> The serum levels of albumin and retinol for each of the two study groups were compared
+ between baseline and endline and the magnitude of change was computed (Table 9). The
+ results showed that in the intervention group, serum albumin levels significantly increased by
+ 0.456±0.12 g/dL [t (56) = -3.890; p <0.001] while serum retinol levels significantly increased
+ by 0.243±0.10 μmol/L [t (56) = -6.747; p <0.001. On the other hand, among children in the
+ control group, the levels of serum albumin and retinol only increased marginally by 0.012
+ 
+<section> ±0.07 g/dL [t (55) = -0.167; p = 0.868] and 0.0021±0.02 μmol/L [t (55) = -0.139; p = 0.890]
+ respectively (Table 9).
+ The differences in the magnitude of change in the serum (albumin and retinol between the
+ control and intervention groups were further determined by computing the difference in dif-
+ ference (DiD). The results showed significant differences in the magnitude of change in the
+ levels of serum albumin and serum retinol between the two study groups with the greater mag-
+ nitudes of change being realized among the intervention group (Table 10).
+ 
+<section> Effect of the consumption of M. oleifera fortified porridge on the weight status of the
+ study children at endline. The rates of undernutrition among the intervention and control
+ group children were 10.52% and 34% respectively while 71.9% and 57.1% of children from
+ intervention and control groups respectively, were in the normal weight range. Furthermore,
+ the weight distribution among the children in the two study groups was significantly different
+ at endline [χ2 = 30.985; p = 0.037] (Table 11).
+ 
+<section> Effect of the consumption of M. oleifera fortified porridge on morbidity prevalence of
+ the study children at endline. The two groups significantly differed in both prevalence
+ (p = 0.003) and frequency (p = 0.012) of illness. Significant differences existed concerning diar-
+ rheal morbidity (p = 0.044), coughs and cold (p = 0.041), epileptic fits (p = 0.025), and fre-
+ quency of illness (p = 0.012) between the two study groups. The children in the intervention
+ group had significantly reduced morbidity compared to the control group (Table 12). 
+<insert> Table 10. Magnitude of change (Baseline versus Endline) on serum albumin and serum retinol levels by study groups (difference in difference).
+ Variable Intervention
+ N =
+ Control
+ N =
+ t-value df t-test
+ Serum albumin 0.4561 ± 0.12 0.0125 ±0.07 3.178 0.002 �
+ Serum retinol 0.2433 ± 0.10 0.0021 ±0.02 2.57 <0.012 � 
+<iend>
+
+ 
+<insert> Table 11. BMI-for age Z-scores of the study children at endline. 
+<iend>
+
+ 
+<insert> Table 12. Morbidity prevalence of study children at endline by study groups.
+ Morbidity in the previous 2 weeks Intervention
+ (N = 57)
+ Control (N = 56)
+ Endline n(%) N(%)
+ Children who fell sick 14(24.6) 29(51.8) 0.003 �
+ Children who had diarrhea 6(10.5) 42(75.0) 0.044 �
+ Children who had fever 5(8.8) 10(17.9) 0.155
+ Children who had coughs/cold 6(10.5) 13(23.2) 0.041 �
+ Children who had epileptic fits 5(9.0) 14(25.0) 0.025 �
+ Frequency of Sickness
+ No sickness
+ 1–2 times
+ 3–6 times
+ � 7 times
+ 44(77.2)
+ 4(7.0)
+ 8(14.0)
+ 1(1.8)
+ 28(50.0)
+ 7(12.5)
+ 13(23.2)
+ 8(14.3)
+ 0.012 �
+ �
+ p-value
+ Significant at p<0.05, × 2 test.
+ https://doi.org/10.1371/journal.pgph.0001206.t012 
+<iend>
+
+ 
+<section> � Significant at p<0.05.
+ 
+<section> https://doi.org/10.1371/journal.pgph.0001206.t010
+ 
+<section> Description 
+<section> BMI Z-scores
+ 
+<section> Endline
+ 
+<section> Severely undernourished 
+<section> <-3 SD
+ Moderately undernourished �-3 to <-2
+ Normal 
+<section> �-2 to +1
+ Overweight 
+<section> >+1 to
+ Obese 
+<section> >+2 SD
+ 
+<section> � Significant at p<0.05.
+ 
+<section> https://doi.org/10.1371/journal.pgph.0001206.t011
+ 
+<section> intervention 
+<section> control 
+<section> χ2; 
+<section> p-value �
+ 
+<section> N = N =
+ 
+<section> 0(0) 
+<section> 2(3.6) 
+<section> 30.985; 
+<section> 0.037 �
+ 
+<section> SD 
+<section> 6(10.52) 
+<section> 17(30.4)
+ 
+<section> SD 
+<section> 41(71.9) 
+<section> 32(57.1)
+ 
+<section> +2 SD 6 (10.5) 
+<section> 5(8.9)
+ 
+<section> 4(7.0) 
+<section> 0(0)
+ 
+<section> Discussion
+ 
+<section> This Randomized Controlled Clinical Trial (RCT) study was undertaken to investigate the
+ effect of the consumption of M. oleifera fortified porridge on protein and vitamin A status in
+ children with cerebral palsy. Randomization was successfully conducted because the interven-
+ tion and control groups were similar in their baseline characteristics.
+ 
+<section> Nutrient intakes of the study children at baseline
+ 
+<section> The intakes of proteins and vitamin A between the two study groups showed no significant dif-
+ ferences at baseline. At endline significant differences were observed. A Ugandan study [32] 
+<section> reported that the average daily nutrient intake from other foods excluding the treatments
+ (unfortified finger millet porridge and finger millet porridge fortified with 7% M. oleifera leaf
+ powder or 17% C maxima flesh) consumed by children did not indicate a significant difference
+ within the groups as the sampled children had been drawn from similar socio-economic char-
+ acteristics. In the current study, the significant differences observed between the groups at
+ endline concerning the serum albumin and retinol levels as well as BMI-for-age Z-scores can
+ therefore be attributed to the differences in the nutrient content of the porridge given to each
+ of the groups as opposed to the portion size consumed. The Ugandan study also observed that
+ children fed on traditional millet porridges had challenges in meeting their vitamin A require-
+ ment. Feeding of nutrient-enriched foods to children with cerebral palsy is therefore impor-
+ tant in order to make up for the usually poor food intake, and feeding challenges which are
+ characteristic to these children. Maximizing the dietary intake of specific nutrients such as
+ vitamin A and protein is therefore critical to health.
+ 
+<section> Effect of M. oleifera fortified porridge consumption on the levels of serum
+ albumin and serum retinol of the study children
+ 
+<section> This study was designed to test the effect of the consumption of M. oleifera fortified porridge
+ on protein and vitamin A status of children with cerebral palsy. The results showed that the
+ consumption of M oleifera-fortified porridge improved the levels of both serum albumin and
+ serum retinol of the study children. At baseline serum albumin levels of both the study groups
+ were below the normal range (3.5–5.0 g/dL) which indicated protein deficiency, secondary to
+ poor dietary intakes or presence of infections [33,34]. At endline the serum albumin levels
+ among the children in the intervention group were in the normal range albeit toward the
+ lower limit (3.52 g/dL) representing a significant but modest improvement. The serum albu-
+ min levels among the children in the control group did not improve significantly at endline.
+ The baseline serum retinol levels for both study groups were below the cutoff values
+ 
+<section> (0.7 μmol/L). At endline, the serum retinol levels among the children in the intervention
+ group increased significantly to a value of 0.714 μmol/L, which was slightly above the cut-off
+ for RDA while that of the children in control group experienced no significant change. Low
+ serum retinol levels (below RDA cutoff values) represent vitamin A deficiency, which could
+ due to low dietary intake arising from feeding difficulties. Vitamin A deficiency has implica-
+ tions in reduced immunity and increased susceptibility to infections [35]. The significant
+ increase in serum albumin and retinol to levels above the cutoff values, observed at the endline
+ among the intervention group as compared to the control study group implies the efficacy of
+ the M. oleifera fortified flour in raising/improving the serum levels thus enhancing the nutri-
+ tional status of the child.
+ However, the findings of the current study, deviate from those of a Ghanaian study con-
+ ducted by Boateng et al., [36] on improving blood retinol concentrations with complementary
+ foods fortified with M. oleifera leaf powder. In the Ghanaian study, only marginal, insignificant
+ rise in serum levels of vitamin A after 6-week supplementation with Moringa was observed.
+ May be the 6-week intervention may have been too short to the demonstration of the effect of
+ the treatment. Another study conducted in Burkina Faso reported that after 12 months of
+ intervention with Moringa oleifera leaf powder, the proportion of children with low serum ret-
+ inol concentration decreased significantly in both control and treatment study groups. How-
+ ever, there was no significant difference between the groups at endline thus attributing their
+ improvement in serum retinol status to other factors other than the intervention [37]. Our
+ study eliminated known confounding factors by random placement of the study participants
+ in the study groups (Randomized Clinical Trial) unlike in the Burkina Faso study. 
+<section> Furthermore, the randomization process in this study was successful in that the study groups
+ were similar in their baseline characteristics. This implies that the significant differences
+ observed between the groups at the endline with respect to the serum albumin and serum reti-
+ nol levels can be attributed to the intervention. In a related publication, the authors have
+ reported the improved nutrient content of a Moringa-fortified fermented finger millet porridge
+ and its potential for mitigating malnutrition among nutritionally vulnerable populations [22].
+ 
+<section> Effect of M. oleifera fortified porridge consumption on the weight status
+ 
+<section> for the study children
+ 
+<section> BMI-for-age Z scores of the children in the two study groups were significantly different at
+ endline (p = 0.037). The percentage of underweight children in the intervention study group
+ decreased from 38.6% to 10.5% while that in control group only decreased from 33.9% to
+ 30.4%. The percentage of overweight children decreased from 10.7% to 5.4% among the con-
+ trol children and from 8.8% to 5.3% among intervention group children. Overall, the weight
+ status of children in the intervention group changed significantly (p<0.001) as opposed to that
+ of the control group which did not change significantly (p = 0.109). The improvement
+ observed in the weight status of children in the intervention study group was attributable to
+ the consumption of the Moringa-fortified porridge by the children. The findings of the current
+ study show the efficacy of Moringa-fortified finger millet porridge in improving the BMI–for-
+ age Z scores of children with cerebral palsy.
+ 
+<section> Effect of M. oleifera fortified porridge consumption on the prevalence of
+ morbidity among the study children
+ 
+<section> Significant differences in the morbidity status between the groups were observed at endline
+ with the children in the intervention groups showing significant improvement in morbidity
+ status as opposed to the control group that showed no significant change. This improvement
+ in morbidity among the intervention group is most likely attributable to the intervention since
+ the two groups were similar in their morbidity patterns at baseline. A recent study conducted
+ in Uganda reported that children fed on fermented Moringa-millet porridges had significantly
+ fewer incidences of diarrhea (p = 0.006) and respiratory infections (p = 0.003) compared to
+ children fed on traditional millet porridges. In the Uganda study, however, the Records from
+ Voluntary Health Trainers showed that the health-seeking habits of all groups were not signifi-
+ cantly different [32]. The findings of the current research consolidate the association between
+ dietary intakes, disease, and nutrition status as established in the literature [12,38,39].
+ 
+<section> Strengths of the study
+ 
+<section> Pilot-testing of the study which ensured the validity of the study and the reliability of data. Suc-
+ cessful randomization ensured that the differences in the study outcomes at endline were
+ majorly attributable to the intervention. The study tested the vitamin A and protein content
+ the two flours prior to utilization for making the porridges. The study made use of an easily
+ prepared food fortificant (Moringa oleifera leaves) on available and commonly consumed food
+ item (porridge made from millet flour). It also used a commonly available under-utilized food
+ product i.e Moringa oleifera.
+ 
+<section> Limitations of the study
+ 
+<section> Fortification level was at 10%. A higher ratio would otherwise have a significant effect on sen-
+ sory acceptability of the porridge. To improve the fortificant level, further investigations are 
+<section> necessary on strategies that would not interfere with the sensory characteristics of the
+ porridge.
+ 
+<section> Conclusion
+ 
+<section> We conclude that the consumption of M. oleifera fortified finger millet porridge was effective
+ in improving the serum albumin and retinol status of the children with cerebral palsy as well
+ as their weight status. This study recommends the promotion of Moringa oleifera leaf powder
+ as a suitable fortificant for home prepared foods, such as porridge for children with this condi-
+ tion to improve their dietary intake of protein and vitamin A.
+ 
+<section> Supporting information
+ 
+<section> S1 Checklist. CONSORT checklist.
+ 
+<section> (DOCX)
+ 
+<section> S1 Fig. Pictures of intervention product.
+ 
+<section> (DOCX)
+ 
+<section> S1 Table. Socio-demographic characteristics of caregivers.
+ 
+<section> (DOCX)
+ 
+<section> S2 Table. Pilot study results.
+ 
+<section> (DOCX)
+ 
+<section> S1 File. Trial protocol.
+ 
+<section> (DOC)
+ 
+<section> Acknowledgments
+ 
+<section> The authors would like to acknowledge the important roles played by Ms. Teresiah Ndunda
+ (Technical University of Kenya), Prudence Njiru (Kenya Industrial Research Development
+ Institute), Norman Wachira (Kenya Forest Research Institute), John Gachoya (Kenyatta Uni-
+ versity), Felix Ondiek, Maurice Wagaki, David Mwilu, Lynette Nyawira, and Dan Macharia
+ the research team.
+ 
+<section> Author Contributions
+ 
+<section> Conceptualization: Janet Kajuju Malla.
+ 
+<section> Supervision: Sophie Ochola, Irene Ogada, Ann Munyaka.
+ 
+<section> Writing – original draft: Janet Kajuju Malla.
+ 
+<section> Writing – review & editing: Sophie Ochola, Irene Ogada, Ann Munyaka.
+ 
+<section> References
+ 
+<section> Pulgar S, Bains S, Gooch J, Chambers H, Noritz GH, Wright E, et al. Prevalence, Patterns, and Cost
+ Care for Children with Cerebral Palsy Enrolled in Medicaid Managed Care. J Manag Care Spec Pharm.
+ 2019 Jul; 25(7):817–22. https://doi.org/10.18553/jmcp.2019.25.7.817 PMID: 31232210
+ AHRC. Feeding and Nutrition Interventions in Cerebral Palsy. Agency for Healthcare Research and
+ Quality; 2012. (Evidence-based Practice Center Comparative Effectiveness Review Protocol).
+ Rajikan R, Zakaria NM, Manaf ZA, Yusoff NAM, Shahar S. The effect of feeding problems on the growth
+ of children and adolescents with cerebral palsy. 2017;17.
+ Almajwal A, Alam I. Nutrition in Cerebral Palsy Children. Acta Sci Neurol. 2019; 2(1):11–20. 
+<section> Donald KA, Samia P, Kakooza-Mwesige A, Bearden D. Pediatric Cerebral Palsy in Africa: A Systematic
+ Review. Semin Pediatr Neurol. 2014 Mar; 21(1):30–5. https://doi.org/10.1016/j.spen.2014.01.001
+ 
+<section> PMID: 24655402
+ Usman H, Asghar M. Frequency of Feeding Problems in Children with Cerebral Palsy. JIMDC. 2017;
+ (1):31–4.
+ Abdel MS, Rosenbaum P, Gorter JW. Perspectives on cerebral palsy in Africa: Exploring the literature
+ through the lens of the International Classification of Functioning, Disability and Health. Child Care
+ Health Dev. 2020 Mar; 46(2):175–86. https://doi.org/10.1111/cch.12733 PMID: 31856343
+ Burton A. Fighting cerebral palsy in Africa. Lancet Neurol. 2015 Sep; 14(9):876–7. https://doi.org/10.
+ 1016/S1474-4422(15)00189-1 PMID: 26293560
+ Almuneef AR, Almajwal A, Alam I, Abulmeaty M, Bader BA, Badr MF, et al. Malnutrition is common in
+ children with cerebral palsy in Saudi Arabia–a cross-sectional clinical observational study. BMC Neurol.
+ 2019 Dec; 19(1):317. https://doi.org/10.1186/s12883-019-1553-6 PMID: 31823743
+ Kim H-J, Choi H-N, Yim J-E. Food Habits, Dietary Intake, and Body Composition in Children with Cere-
+ bral Palsy. Clin Nutr Res. 2018; 7(4):266. https://doi.org/10.7762/cnr.2018.7.4.266 PMID: 30406056
+ Penagini F, Mameli C, Fabiano V, Brunetti D, Dilillo D, Zuccotti GV. Dietary Intakes and Nutritional
+ Issues in Neurologically Impaired Children. 2015;16.
+ UNICEF. The State of the World’s Children [Internet]. Bellamy C, editor. Oxford: Oxford University
+ Press for UNICEF; 1998 [cited 2021 Apr 24]. Available from: http://www.unicef.org/publications/files/
+ pub_sowc98_en.pdf.
+ Rempel G. The Importance of Good Nutrition in Children with Cerebral Palsy. Phys Med Rehabil Clin
+ Am. 2015; 26:39–56. https://doi.org/10.1016/j.pmr.2014.09.001 PMID: 25479778
+ FAO. Guidelines on Formulated Complementary Foods for Older Infants And Young Children CAC/Gl
+ 8–1991. Codex Alimentarius International Food Standards; 2017.
+ Si K, Cg B. Anti-Nutritional Factors in Finger Millet. J Nutr Food Sci [Internet]. 2016 [cited 2020 Dec
+ 14];06(03). Available from: https://www.omicsonline.org/open-access/antinutritional-factors-in-finger-
+ millet-2155-9600-1000491.php?aid=72699.
+ Hariprasad P, Elizabeth K, Valamparampil MJ, Kalpana D, Anish T. Multiple Nutritional Deficiencies
+ Cerebral Palsy Compounding Physical and Functional Impairments. Indian J Palliat Care. 2017;
+ 23:387–92. https://doi.org/10.4103/IJPC.IJPC_52_17 PMID: 29123343
+ Lopes PAC, Amancio OMS, Araújo RFC, Vitalle MS de S, Braga JAP. Food pattern and nutritional sta-
+ tus of children with cerebral palsy. Rev Paul Pediatr. 2013 Sep; 31(3):344–9. https://doi.org/10.1590/
+ 
+<section> S0103-05822013000300011 PMID: 24142317
+ Farzana T, Mohajan S, Saha T, Hossain MdN, Haque MdZ. Formulation and nutritional evaluation of
+ healthy vegetable soup powder supplemented with soy flour, mushroom, and moringa leaf. Food Sci
+ Nutr. 2017 Jul; 5(4):911–20. https://doi.org/10.1002/fsn3.476 PMID: 28748080
+ Oyeyinka AT, Oyeyinka SA. Moringa oleifera as a food fortificant: Recent trends and prospects. J Saudi
+ Soc Agric Sci. 2018 Apr; 17(2):127–36.
+ Sandeep G, Anitha T, Vijayalatha K, Sadasakthi A. Moringa for nutritional security (Moringa oleifera
+ Lam.). Int J Bot Stud. 2019; 4(1):21–4.
+ Zongo U. Effect of Moringa Leaves Powder Consumption on Young Children Nutritional and Serum Ret-
+ inol Status in Burkina Faso Rural Area. Int J Nutr Food Sci. 2018; 7(4):148.
+ Malla J, Ochola S, Ogada I, Munyaka A. Nutritional Value and Sensory Acceptability of M. oleifera Forti-
+ fied Finger Millet Porridge for Children with Cerebral Palsy in Nairobi County, Kenya. J Food Res. 2021;
+ 10(5):36–47.
+ Miller BDD, Welch RM. Food system strategies for preventing micronutrient malnutrition. Food Policy.
+ 2013 Oct; 42:115–28.
+ Thompson B, Amoroso L, editors. Improving diets and nutrition: food-based approaches. Wallingford,
+ Oxfordshire: Rome, Italy: CABI; Food and Agriculture Organization of the United Nations; 2014. 403
+ Noordzij M, Tripepi G, Dekker FW, Zoccali C, Michael W. Tanck Jager KJ. Sample size calculations:
+ basic principles and common pitfalls. Nephrol Dial Transpl. 2010; 25:1388–93. https://doi.org/10.1093/
+ 
+<section> ndt/gfp732 PMID: 20067907
+ Cohen J. Statistical power analysis for the behavioral sciences. 2. ed., reprint. New York, NY: Psychol-
+ ogy Press; 2009. 567 p.
+ CDC. National Health and Nutrition Examination Survey (NHANES)—Anthropometry Procedures Man-
+ ual. CDC; 2007. 
+<section> Toopchizadeh V, Barzegar M, Madinei N, Jahanjoo F. A Survey on Growth and Nutritional Status of
+ Children with Cerebral Palsy in the Northwest Iran. J Compr Pediatr [Internet]. 2017 Aug 31 [cited 2021
+ Mar 1];In Press(In Press). Available from: https://sites.kowsarpub.com/jcp/articles/12636.html.
+ WHO. WHO child growth standards: Onis M de, editor. Geneva: WHO Press; 2006. 312 p.
+ Gibson R, Ferguson E. An interactive 24-hour recall for assessing the adequacy of iron and zinc intakes
+ in developing countries. Washington, DC: ILSI Press; 1999.
+ World Health Organization. WHO child growth standards: length/height-for-age, weight-for-age, weight-
+ for-length, weight-for-height and body mass index-for-age; methods and development. Onis M de, edi-
+ tor. Geneva: WHO Press; 2006. 312 p.
+ Isingoma BE, Mbugua SK, Karuri EG. Performance of Nutritionally Optimised Millet Porridges as Com-
+ plementary Food for Children from Low Socio-Economic Status Households in Bujenje County, West-
+ ern Uganda. J Nutr Health Food Sci Open Access. 2018; 6(1):1–13.
+ Akirov A, Masri-Iraqi H, Atamna A, Shimon I. Low Albumin Levels Are Associated with Mortality Risk
+ Hospitalized Patients,. Am J Med. 2017; 130(1465):11–9. https://doi.org/10.1016/j.amjmed.2017.07.
+ 
+<section> 020 PMID: 28803138
+ Bharadwaj S, Ginoya S, Tandon P, Gohel TD, Guirguis J, Vallabh H, et al. Malnutrition: laboratory mark-
+ ers vs nutritional assessment. Gastroenterol Rep. 2016 May 11;gow013. https://doi.org/10.1093/
+ 
+<section> gastro/gow013 PMID: 27174435
+ National Research Council. Recommended Dietary Allowances: 10th Edition [Internet]. Washington,
+ D.C.: National Academies Press; 1989 [cited 2021 May 27]. Available from: http://www.nap.edu/
+ catalog/1349.
+ Boateng L, Nyarko R, Asante M, Steiner-Asiedu M. Acceptability of Complementary Foods That Incor-
+ porate Moringa oleifera Leaf Powder Among Infants and Their Caregivers. Food Nutr Bull. 2018 Mar;
+ 39(1):137–48. https://doi.org/10.1177/0379572117708656 PMID: 28535743
+ Zongo U, Savadogo B, Zoungrana SL, Sanou D, Savadogo A, Dicko MH, et al. Effect of Moringa Leaves
+ Powder Consumption on Young Children Nutritional and Serum Retinol Status in Burkina Faso Rural
+ Area. Int J Nutr Food Sci. 2018; 7(4):148–54.
+ 
+<section> De Vita MV, Scolfaro C, Santini B, Lezo A, Gobbi F, Buonfrate D, et al. Malnutrition, morbidity and infec-
+ tion in the informal settlements of Nairobi, Kenya: an epidemiological study. Ital J Pediatr. 2019 Dec;
+ (1):12. https://doi.org/10.1186/s13052-019-0607-0 PMID: 30642368
+ Smith LC, Haddad L. Reducing Child Undernutrition: Past Drivers and Priorities for the Post-MDG Era.
+ World Dev. 2015 Apr; 68:180–204.

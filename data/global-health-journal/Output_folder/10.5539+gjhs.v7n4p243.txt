@@ -1,0 +1,326 @@
+
+<section> ISSN 1916-9736 
+<section> E-ISSN 1916-9744
+ Published by Canadian Center of Science and Education
+ 
+<section> Effects of Vitamin D Intake on FEV1 and COPD Exacerbation: A
+ 
+<section> Randomized Clinical Trial Study
+ 
+<section> Abolfazl Zendedel , Mohammadreza Gholami , Khatereh Anbari , Kourosh Ghanadi ,
+ 
+<section> Elham Ceneicel Bachari 1 & Alireza Azargon
+ 
+<section> School of Medicine, Lorestan University of Medical Sciences, Khorramabad, Iran
+ 
+<section> Correspondence: Alireza Azargon, School of medicine, Lorestan University of Medical Sciences, Khorramabad,
+ 
+<section> Iran. E-mail: azargon.a@lums.ac.ir
+ 
+<section> Received: October 17, 2014 
+<section> Accepted: November 12, 2014 
+<section> Online Published: January 14, 2015
+ doi:10.5539/gjhs.v7n4p243 
+<section> URL: http://dx.doi.org/10.5539/gjhs.v7n4p243
+ 
+<section> Abstract
+ 
+<section> Aim: This study aimed to evaluate the effects of vitamin D intake on COPD exacerbation and FEV1 in the
+ patients with severe and very severe COPD.
+ 
+<section> Methods: This double blind placebo control randomized clinical trial study was done in the Ashayer university
+ hospital in Khorramabad in 2012. Eighty eight patients with severe and very severe COPD were randomly
+ selected from those who recoursed to the internal medicine clinic of Ashayer hospital. They were randomly
+ allocated to case and placebo group. The patients received routine treatment for COPD. Along with the routine
+ treatment, placebo group received 100,000 IU of oral vitamin D per month, for 6 months. Data was analyzed
+ using SPSS computer software, paired t-test, independent t-test, non parametric t-test and Pearson correlation
+ coefficients.
+ 
+<section> Results: In each group, there were 44 patients. After the intervention, there were significant differences in FEV1
+ and the number of COPD exacerbation between the case and control group patients. Also, after the study, in the
+ case group, FEV1 was increased and the number of COPD exacerbation was decreased significantly.
+ 
+<section> Conclusion: Vitamin D intake decreased COPD exacerbation and improved FEV1 in the patients with severe
+ and very severe COPD. It is suggested that baseline serum vitamin D levels will recorded in similar studies and
+ the effect of vitamin D intake will evaluated regarding the baseline serum vitamin D levels.
+ 
+<section> Keywords: COPD, Exacerbation, FEV1, Vitamin D
+ 
+<section> 1. Introduction
+ 
+<section> Chronic Obstructive Pulmonary Disease (COPD) is a chronic disease that causes persistent airflow obstruction.
+ The airflow obstruction in this disease is generally progressive (MacNee et al., 2005). COPD has two clinical
+ phases (stable phase and exacerbation phase), both of which are associated with inflammation (Barbu et al.,
+ 2011). Smoking, passive smoking, reactivity of airways, occupational factors and air pollution are the risk
+ factors of COPD (Reilly et al., 2004). Independent risk factors for COPD are male gender, advanced age, low
+ socioeconomic status, occupational exposure and cigarette smoking (Caballero et al., 2008).
+ Based on the World Health Organization estimation, COPD will be the third cause of mortality in the world in
+ 2020 (Murray et al., 1997). Ninety percent of COPD deaths occur in low and middle income countries (Murray
+ et al., 1997). In European countries, depending on the age of participants, the methods used and the location, the
+ prevalence of COPD ranged from 2.1% to 26.1% (Atsou et al., 2011). It was 8.9% in India (from 6.2% to 13.5%;
+ based on spirometry) (Afonso et al., 2011), 3.02% in the Netherlands (in a population-based study including
+ subjects ≥ 40) (8), 17.4% in Copenhagen (aged 35 years or older) (Fabricius et al., 2011) and 3.7% in Abu Dhabi
+ (in 40-80 year old subjects) (Al Zaabi et al., 2011).
+ 
+<section> Nowadays, the attention to nonskeletal effects of vitamin D has been increased (Kunisaki et al., 2011). An
+ association between pulmonary function and serum vitamin D levels has been reported in some studies. It has
+ been reported that vitamin D deficiency correlates with severity of COPD (Janssens et al., 2010). Also, in some
+ studies, it has been declared that COPD patients had a raised risk for vitamin D deficiency (Persson et al., 2012,
+ Zhang et al., 2012). Likewise, in one study, it has been stated that total vitamin D intake was negatively
+ associated with COPD (Shaheen et al., 2011). 
+<insert> Table 1. Age distribution, cigarette smoking and addiction in case and placebo groups
+ Case group placebo group
+ Number (%) Number (%)
+ Age <45 2 (4.5%) 1(2.3%)
+ (Year) 45-60 15 (34.1%) 16 (36.4%)
+ >60 27 (61.4%) 27 (61.4%)
+ Cigarette smoking None 11 (25%) 13 (29.5%)
+ (cigarette per month) < 26 (59.1%) 23 (52.3%)
+ > 7 (15.9%) 6 (13.6%)
+ None 17 (38.6%) 18 (40.9%)
+ Oral use 9 (20.4%) 8 (18.2%)
+ Inhalation use 16 (36.4%) 18 (40.9%)
+ Injection use 2 (4.5%)
+ Addiction
+ p value
+ 0.83
+ 0.22
+ 0.53 
+<iend>
+
+ According to previous studies, the effect of levels vitamin D is controversial on COPD exacerbation and
+ FEV1.This study aimed to evaluate the effect of vitamin D intake on COPD exacerbation and FEV1 in the
+ patients with severe and very severe COPD.
+ 
+<section> 2. Method
+ 
+<section> This double-blind, placebo-controlled, randomized clinical trial was done in Ashayer university hospital in
+ Khorramabad in 2012. The Ethics and Research Committee of Lorestan University of Medical Sciences
+ approved this study. Furthermore, we obtained signed informed consents from all the participants. This study has
+ been recorded in Iranian Registry of Clinical Trials at www.irct.ir as a clinical trial (IRCT2012071810332N1).
+ Eighty-eight patients with severe and very severe COPD were randomly selected from those who recoursed to
+ the internal medicine clinic of Ashayer hospital. Severe and very severe COPD were defined as Global Initiative
+ for Chronic Obstructive Lung Disease (GOLD) guidelines (Donaldson et al., 2002). The selected patients were
+ allocated to the study and placebo groups by simple random sampling method. The patients in both the groups
+ received the routine treatment for COPD. Along with the routine treatment, the study group received 100,000 IU
+ of oral vitamin D per month, for 6 months. In contrast, the placebo group received oral placebo for 6 months.
+ Before the study, forced expiratory volume in 1 second (FEV1) was determined, and the number of COPD
+ exacerbations during the last 6 months was recorded in the both groups. After 6 months of treatment, FEV1 was
+ determined, and the number of COPD exacerbations during the study span was evaluated in the both groups. The
+ patients received a telephone call every 2 months to assess respiratory symptoms consistent with a COPD
+ exacerbation. The definition of COPD exacerbation was either the presence of 2 or more of these major
+ symptoms (increase in sputum purulence, sputum volume or dyspnea) or any of major symptoms accompanied
+ by any of minor symptoms (increase in nasal discharge, wheeze, sore throat, cough or fever) for at least two
+ consecutive days (Donaldson et al., 2002).
+ 
+<section> 2.1 Statistics
+ 
+<section> The data was analyzed using the SPSS computer software and paired t-test, independent t-test, non-parametric
+ t-test and Pearson correlation coefficients. The P-values<0.05 were considered statistically significant.
+ 
+<section> 3. Results
+ 
+<section> In each group, there were 44 patients, 30 of whom (68.2%) were male. There were no significant differences
+ between age distribution, cigarette smoking and addiction in the study and placebo groups (Table 1).
+ The mean of FEV1 and COPD exacerbations according to sex, age distribution, cigarette smoking and addiction,
+ before and after the study, are shown in Table 2 and Table 3. 
+<insert> Table 2. The mean of FEV1 according to sex, age distribution, cigarette smoking and addiction, before and after
+ the study
+ Case
+ Sex
+ Age (Year)
+ Cigarettesmoking (cigarette/month)
+ Addiction
+ placebo
+ Before After p value Before After p value
+ Male 33.6±7.7 51.2±5.9 0.0001 33.6±4.6 33.1±9.7 0.44
+ Female 36.8±10 52.5±14.6 0.009 35±8.6 34.2±4.6 0.32
+ p value 0.3 0.76 - 0.17 0.59 -
+ <45 39±1.4 55±4.2 - 35±0 -
+ 45-60 36.8±8 51±13.9 0.004 35.6±9.4 34.2±8.4 0.062
+ >60 33.1±8.9 51.7±6.4 0.0001 34.5±9.2 34.8±7.7 0.13
+ p value 0.3 0.85 - 0.88 0.53 -
+ None 35.2±8.4 49.3±15.6 0.047 38.7±9.3 34.1±6.7 0.018
+ < 39.5±3.6 55.7±5.1 <0.0001 38.7±4.4 35.7±5.4 0.011
+ > 33.07±9.1 51.5±6.4 <0.0001 32.1±9.2 31.1±8.7 0.32
+ p value 0.19 0.38 - 0.063 0.31 -
+ None 37±8.6 51.1±13.3 0.003 38.3±6.2 34.4±6.1 0.001
+ Oral use 37.1±7.6 54.6±5.1 <0.0001 36.1±11.7 30±9.2 0.015
+ Inhalation use 32.1±7.8 51.6±6.7 <0.0001 32.6±9.7 30.2±8 0.078
+ Injection use 34±9.8 42.5±3.5 - - - -
+ p value 0.187 0.42 - 0.164 0.23 - 
+<iend>
+
+ 
+<insert> Table 3. The mean of COPD exacerbation according to sex, age distribution, cigarette smoking and addiction,
+ before and after the study
+ Case Control
+ Before After p value Before After p value
+ Male 18.8±3.5 9.8±1.3 0.0001 19.3±4.2 19.6±3.9 0.056
+ Female 16.3±2.4 9.3±1.3 0.0023 18.1±2.5 17.7±2.5 0.73
+ p value 0.095 0.25 - 0.23 0.053 -
+ <45 19±1.4 - 18±0 -
+ 45-60 16.8±3.3 9.5±1.1 0.0001 18.8±1.4 17.8±1.6 0.79
+ >60 18.2±2.8 9.7±1.5 <0.0001 19.4±2.9 19.7±2.9 0.64
+ p value 0.28 0.82 - 0.66 0.069 -
+ Cigarette smoking None 17.1±1.9 8.8±1.3 <0.0001 17.3±2.6 17.1±2.3 0.65
+ (cigarette/month) < 18.5±2.2 9.8±1.4 <0.0001 19.2±3.3 19.2±2.8 0.38
+ > 19.1±3.4 10±1.2 <0.0001 19.1±4.4 19.4±4.1 0.89
+ p value 0.185 0.038 - 0.42 0.2 -
+ None 16.1±2.8 9.2±1.2 <0.0001 17.5±3.1 17.8±3.5 0.42
+ Oral use 20.4±4.7 10±1.8 <0.0001 20±3.7 20.2±3.9 0.56
+ Inhalation use 18.9±1.7 10±1.1 <0.0001 19.2±4.4 19.2±3.4 0.99
+ Injection use 15±2.1 10±1.4 - - - -
+ p value 0.023 0.35 - 0.24 0.24 -
+ Sex
+ Age (Year)
+ Addiction 
+<iend>
+
+ Before the study, there were no significant differences in FEV1 and the number of COPD exacerbations between 
+<insert> Table 4. FEV1 and the number of COPD exacerbation in the case and placebo groups
+ Case Control p value
+ FEV1 Before 34.6±8.5 34.4±9.2 0.89
+ (M±SD) After 51.6±9.4 31.9±7.6 <0.001
+ p value <0.001 0.53 -
+ COPD exacerbation Before 18.02±3.3 18.7±3.8 0.38
+ (M±SD) After 9.7±1.3 18.8±3.6 <0.001
+ p value <0.001 0.83 - 
+<iend>
+
+ the study and placebo group patients. But, after the study, there were significant differences in FEV1 and the
+ number of COPD exacerbations between the study and placebo group patients. Also, after the study, in the study
+ group, FEV1 was increased and the number of COPD exacerbations was decreased significantly (Table 4).
+ 
+<section> 4. Discussion
+ 
+<section> COPD is a chronic and common disease. COPD can cause severe complications. Afonso et al., reported that 26%
+ and 2.8% of the patients with very severe COPD and non-COPD patients had died after 1 year of follow-up in
+ the Netherlands (Afonso et al., 2011).
+ 
+<section> An association between pulmonary function and serum vitamin D levels has been reported in some studies. It has
+ been reported that vitamin D deficiency correlates with the severity of COPD (Janssens et al., 2010). Also, it has
+ been reported that a significant relation between FEV1 and serum 25-hydroxy vitamin D levels (Azargoon et al.,
+ 2011). However, in a study, baseline 25-hydroxy vitamin D levels were not predictive of acute exacerbation in
+ patients with severe COPD (Kunisaki et al., 2012). But the relationship between vitamin D and COPD has been
+ reported in some studies. Also, it has been stated that total vitamin D intake was negatively associated with
+ COPD (Shaheen et al., 2011). Regarding these results, vitamin D intake can be beneficial in COPD patients. This
+ study aimed to evaluate the effect of vitamin D intake on COPD exacerbation and FEV1 in the patients with
+ severe and very severe COPD. According to our knowledge, the effect of vitamin D on FEV1 and COPD
+ exacerbations has been studied in few studies.
+ 
+<section> In this study, vitamin D intake improved COPD exacerbations and FEV1 in the patients with severe and very
+ severe COPD. Hornikx et al., reported that 100.000 IU of vitamin D per month for one year had improved
+ maximal oxygen uptake and inspiratory muscle strength significantly in the COPD subjects who had followed a
+ rehabilitation program (Hornikx et al., 2012). These findings can vindicate the results of our study.
+ In a similar study, Lehouck et al., compared the effects of vitamin D and placebo on FEV1 and exacerbation rate
+ in the patients with moderate to very severe COPD (Lehouck et al., 2012). In their study, each patient received
+ 100,000 IU of vitamin D every 4 weeks for 1 year. In contrast to our results, they reported that this dose of
+ vitamin D had not improved FEV1 and exacerbation rate. This difference may be due to the difference between
+ baseline serum vitamin D levels in these studies. Although serum vitamin D level was not determined in our
+ study, some studies have stated that vitamin D deficiency is prevalent in Iran. Studies suggest that Vitamin D
+ increase production IL-10, an antiinflammatory cytokine involved in the pathogenesis of asthma, from T cells,
+ increase production IL-37, antimicrobial peptide, regulate matrix metalloproteinases (MMP), shifting theTh1 and
+ Th2 balance and reducing inflammation (Xystrakis et al., 2006, De Smet et al., 2005; Finklea et al., 2011). Taken
+ together vitamin D intake (100,000 IU per 4 weeks for 6 months) improved COPD exacerbation and FEV1 in the
+ patients with severe and very severe COPD significantly. It is suggested that baseline serum vitamin D levels be
+ recorded in similar studies and the effect of vitamin D intake be evaluated regarding the baseline serum vitamin
+ 
+<section> D levels.
+ 
+<section> Acknowledgements
+ 
+<section> The authors are grateful to Mr. Yadollah Pournia (instructor of English language at Lorestan University of
+ Medical Sciences) and Clinical Research Center of Lorestan University of Medical Sciences.
+ 
+<section> References
+ 
+<section> Afonso, A. S., Verhamme, K. M. Sturkenboom, M. C., & Brusselle, G. G. (2011). COPD in the general
+ population: Prevalence, incidence and survival. Respir Med, 105(12), 1872-1884. 
+<section> http://dx.doi.org/10.1016/j.rmed.2011.06.012
+ 
+<section> Al Zaabi, A., Asad, F., & Abdou, J. (2011). Prevalence of COPD in Abu Dhabi, United Arab Emirates. Respir
+ Med, 105(4), 566-570. http://dx.doi.org/10.1016/j.rmed.2010.12.008
+ 
+<section> Atsou, K., Chouaid, C., & Hejblum, G. (2011). Variability of the chronic obstructive pulmonary disease key
+ epidemiological data in Europe: systematic review. BMC Med, 18(9),
+ 
+<section> Azargoon, A. R., Moghadam, P. K., Shokrollahi, S., Ebrahimzadeh, F., & Pournia, Y. (2011). Relationship
+ between FEV1 and 25-hydroxy Vitamin D in Patients with Chronic Obstructive Pulmonary Disease. Trends
+ in Medical Research, 6, 184-190. http://dx.doi.org/10.3923/tmr.2011.184.190
+ Barbu, C., Iordache, M., & Man, M. G. (2011). Inflammation in COPD: pathogenesis, local and systemic effects.
+ 
+<section> Rom J Morphol Embryol, 52(1), 21-27.
+ 
+<section> Caballero, A. Torres-Duque, C. A., & Jaramillo, C. (2008). Prevalence of COPD in five Colombian cities
+ situated at low, medium, and high altitude. Chest, 133(2), 343-349. http://dx.doi.org/10.1378/chest.07-1361
+ De Smet, K., & Contreras, R. (2005). Human antimicrobial peptides: defensins, cathelicidins and histatins.
+ 
+<section> Biotechnol Lett, 27, 1337-1347. http://dx.doi.org/10.1007/s10529-005-0936-5
+ Donaldson, G. C., Seemungal, T. A., Bhowmik, A., & Wedzicha, J. A. (2002). Relationship between exacerbation
+ frequency and lung function decline in chronic obstructive pulmonary disease. Thorax, 57(10), 847-852.
+ http://dx.doi.org/10.1136/thorax.57.10.847.
+ 
+<section> Fabricius, P., Løkke, A., Marott, J. L., Vestbo, J., & Lange, P. (2011). Prevalence of COPD in Copenhagen.
+ 
+<section> Respir Med, 105(3), 410-417. http://dx.doi.org/10.1016/j.rmed.2010.09.019
+ Finklea, J. D., Grossmann, R. E., & Tangpricha, V. (2011). Vitamin D and Chronic Lung Disease: A Review of
+ Molecular Mechanisms and Clinical Studies. American Society for Nutrition. Adv. Nutr, 2, 244-253.
+ 
+<section> http://dx.doi.org/10.3945/an.111.000398
+ 
+<section> Hornikx, M., Van Remoortel, H., & Lehouck, A. (2012). Vitamin D supplementation during rehabilitation in
+ 
+<section> COPD: A secondary analysis of a randomized trial. Respir Res, 13,
+ 
+<section> http://dx.doi.org/10.1186/1465-9921-13-8
+ 
+<section> Janssens, W., Bouillon, R., & Claes, B. (2010). Vitamin D deficiency is highly prevalent in COPD and correlates
+ with variants in the vitamin D-binding gene. Thorax, 65(3), 215-220.
+ http://dx.doi.org/10.1136/thx.2009.120659.
+ 
+<section> Kunisaki, K. M., Niewoehner, D. E., & Connett, J. E. (2012) COPD Clinical Research Network. Vitamin D
+ levels and risk of acute exacerbations of chronic obstructive pulmonary disease: a prospective cohort study.
+ 
+<section> Am J Respir Crit Care Med, 185(3), 286-290. http://dx.doi.org/10.1164/rccm.201109-1644OC.
+ Kunisaki, K. M., & Rector, T. S. (2011). Vitamin D and responses to inhaled fluticasone in severe chronic
+ obstructive pulmonary disease. Int J Chron Obstruct Pulmon Dis, 7(6), 29-34.
+ 
+<section> http://dx.doi.org/10.2147/COPD.S15358
+ 
+<section> Lehouck, A., Mathieu, C., & Carremans, C. (2012). High doses of vitamin D to reduce exacerbations in chronic
+ obstructive pulmonary disease: a randomized trial. Ann Intern Med, 156(2), 105-114.
+ http://dx.doi.org/10.7326/0003-4819-156-2- 201201170-00004
+ 
+<section> MacNee, W., ZuWallack, R. L., & Keenan, J. (2005). Clinical management of chronic obstructive pulmonary
+ disease (2nd ed.). Professional Communications, New York.
+ 
+<section> Murray, C. J., & Lopez, A. D. (1997). Global mortality, disability and the contribution of risk factors: Global
+ burden of disease study. Lancet, 349, 1436-1442. http://dx.doi.org/10.1016/S0140-6736(96)07495-8.
+ Persson, L. J., Aanerud, M., Hiemstra, P. S., Hardie, J. A., Bakke, P. S., & Eagan, T. M. (2012). Chronic
+ obstructive pulmonary disease is associated with low levels of vitamin D. PLoS One, 7(6), e38934.
+ http://dx.doi.org/10.1371/journal.pone.0038934.
+ 
+<section> Reilly, J. J., Silverman, E. K., & Shapiro, S. D. (2004). Harrison’s principles of internal medicine (16th edition,
+ 1547-1560). Chronic obstructive pulmonary disease. In: D. L. Kasper, E. Braunwald, A. S. Fauci, S. L.
+ Hauser, D. L. Longo, & J. L. Jameson (Eds.), McGraw–Hill Professional.
+ 
+<section> Shaheen, S. O., Jameson, K. A., & Robinson, S. M. (2011). Relationship of vitamin D status to adult lung 
+<section> the defective induction of IL-10-secreting regulatory
+ Clin Invest, 116, 146-155. http://dx.doi.org/10.1172/JCI21759
+ Zhang, P., Luo, H., & Zhu, Y. (2012). Prevalence of vitamin
+ with chronic obstructive pulmonary disease. Journal
+ 802-806. http://dx.doi.org/10.3969/j.issn.1672-7347.2012.08.008
+ 
+<section> Copyrights
+ 
+<section> Copyright for this article is retained by the author(s), with
+ This is an open-access article distributed under the terms
+ license (http://creativecommons.org/licenses/by/3.0/).
+ 
+<section> T cells in glucocorticoid-resistant asthma patients. J
+ 
+<section> D deficiency and impact on quality of life in patients
+ of Central South University. Medical Sciences, 37(8),
+ first publication rights granted to the journal.
+ and conditions of the Creative Commons Attribution

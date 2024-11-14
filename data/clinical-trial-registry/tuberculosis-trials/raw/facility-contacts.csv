@@ -1,0 +1,164 @@
+nct_id,facility_id,contact_type,name,email,phone
+NCT03615794,327245093,primary,Meeta Pangtey,uwp7jh@hscmail.mcc.virginia.edu,NA
+NCT05907213,325400171,primary,"Minhnoi Wroble Biglan, PhD",wroblebiglanm@upmc.edu,412-641-1777
+NCT05907213,325400171,backup,Amy Monroe,monroeal@upmc.edu,4126236382
+NCT04639752,324854747,primary,"Antonin Sebela, Ph.D.",antonin.sebela@nudz.cz,+420 283 088 111
+NCT05873569,324887778,primary,"Lindsay Cooper, MA",lccope45@jhmi.edu,NA
+NCT05873569,324887778,backup,"Diane Echavarria, MS",dechava1@jhu.edu,NA
+NCT02370576,324913579,primary,"Marina Bar-shai, MD, PhD",m_bar-shai@rambam.health.gov.il,972-50-2062142
+NCT05077644,324928316,primary,"Kat Marriott, PhD",kmarriott@hitlab.org,929-502-7147
+NCT05269732,327272451,primary,"Ryan Van Lieshout, MD, PhD",vanlierj@mcmaster.ca,1-905-525-9140
+NCT02059863,327277098,primary,"Gauri Divan, MD",gauridivan@gmail.com,+919881722551
+NCT02059863,327277099,primary,"Siham Sikander, MD, PhD",siham.sikander@hdrfoundation.org,+92512656172
+NCT05518162,327279240,primary,Tamara Bilinski,tamara_bilinski@urmc.rochester.edu,585-275-3138
+NCT04068662,326794772,primary,"Laura Miller-Graff, PhD",lmiller8@nd.edu,574-631-3245
+NCT06042166,324948373,primary,"Olivia J. Derella, Ph.D.",CAREprogram@montefiore.org,718-304-7022
+NCT05595486,327268617,primary,"Craig Garfield, MD",NA,NA
+NCT05595486,327268618,primary,"Emily Miller, MD",EmMiller@wihri.org,NA
+NCT04068662,326794773,primary,"Kathryn Howell, PhD",khhwell1@memphis.edu,901-678-1541
+NCT04860661,326813181,primary,"Feng Gao, Dr.",fgao@tjh.tjmu.edu.cn,27-83663173
+NCT05815433,326812686,primary,"Dena Berci, MN",dena.berci@albertahealthservices.ca,(403) 943-3109
+NCT05815433,326812686,backup,NA,mbrockwa@ucalgary.ca,NA
+NCT01087112,326805465,primary,"Björn Salomonsson, Doct.student",bjorn.salomonsson@ki.se,+4686429998
+NCT05217251,325473840,primary,"HongFei Zhang, MD PhD",hongfeiz2003@163.com,8620 62787271
+NCT05217251,325473840,backup,"FengXian Li, MD PhD",lifengxian81@outlook.com,8620 62787271
+NCT01658098,325462799,primary,"Edgar Tamez, resident",julc316@hotmail.com,01528183530442
+NCT01658098,325462799,backup,"sara Peña, resident",trysha_16@hotmail.com,01528181231928
+NCT03417960,326866553,primary,"Lisa McTeague, PhD",mcteague@musc.edu,843-792-8274
+NCT04950868,325473961,primary,"Verinder Sharma, MB BS",vsharma@uwo.ca,519-455-5110
+NCT04364646,326813826,primary,"Samantha Meltzer-Brody, MD,MPH",NA,NA
+NCT04364646,326813827,primary,"Katherine M Sharkey, MD, PhD",NA,NA
+NCT05400161,327331569,primary,"James Guevara, MD,MPH",guevara@email.chop.edu,215-590-1130
+NCT05543746,327324008,primary,"Susan Girdler, PhD",susan_girdler@med.unc.edu,919-972-7466
+NCT04296734,326877873,primary,"Alicia Diebold, MSW",alicia.diebold@northwestern.edu,312-503-4817
+NCT05700760,325544579,primary,"Jennifer Johnson, PhD",jjohns@msu.edu,NA
+NCT05044546,327331740,primary,"Jan Blalock, MD",jablaloc@mdanderson.org,713-745-1728
+NCT05700760,325544579,backup,"Brandon Taylor, MSW",tayl1214@msu.edu,NA
+NCT05784116,327336345,primary,"Francesco Benedetti, MD",benedetti.francesco@hsr.it,0039 02 26431
+NCT05206552,327370796,primary,"Sharon Orbach, MD",sharonorbach@yahoo.com,972-54-538-3093
+NCT05654987,327365784,primary,"Magdalena Chrzan-Dętkoś, Professor",Magdalena Chrzan-Dętkoś <magdalena.chrzan-detkos@ug.edu.pl>,NA
+NCT05654987,327365785,primary,"Lyudmyla Krupelnytska, Phd",krlyuda@gmail.com,NA
+NCT02010840,325549630,primary,"Fei Wan Ngai, PhD",fwngai@gmail.com,NA
+NCT06148831,327378088,primary,Emily Little,research@nurturely.org,541-579-8941
+NCT06148831,327378088,backup,Aver Yakubu,research@nurturely.org,5415798941
+NCT06293274,327377992,primary,"Sena Dilek Aksoy, Ph.D.",sena.dilek@kocaeli.edu.tr,+902623034739
+NCT06253390,324985277,primary,Damien JOLLY,djolly@chu-reims.fr,326788472
+NCT04964206,327371819,primary,"Dong-Xin Wang, MD, PHD",wangdongxin@hotmail.com,+8610-83572784
+NCT04964206,327371819,backup,"Ting Ding, MD",athena_d@sina.com,13718803529
+NCT04964206,327371820,primary,"Ming-Jun Xu, MD",NA,NA
+NCT04964206,327371821,primary,"Hong-Ping Li, MD",13895078537@163.com,13895078537
+NCT04964206,327371822,primary,Bao-Zhong Yang,yangbz2000@163.com,13513628109
+NCT06253676,324985262,primary,Sujen Maharjan,sujen.maharjan@tponepal.org.np,+977 1-4524082
+NCT06253676,324985262,backup,Dristy Gurung,dgurung@tponepal.org.np,+977 1-4524082
+NCT03346551,327403358,primary,Anne-Catherine ROLLAND,acrolland@chu-reims.fr,NA
+NCT03381495,327396575,primary,"Xun Gong, M.D.",gongxun4019@163.com,+8613886174675
+NCT03381495,327396575,backup,"Dongji Han, M.D.",handongjihospital@163.com,+8618971583899
+NCT04847076,325002737,backup,"Natalia Fuenzalida, MPsych",nfuenzalida.coloma@cormup.cl,NA
+NCT04847076,325002736,primary,"Felipe Guajardo, MD",fguajardo@cormup.cl,NA
+NCT04847076,325002736,backup,"Constanza Delpino, Nurse",cdelpino.fernandez@cormpup.cl,NA
+NCT04847076,325002737,primary,"Francisco Peláez, MD",fpelaez.quintana@cormup.cl,NA
+NCT04506489,327402348,primary,Mathilde Pointurier,mathildep718@gmail.com,0647228661
+NCT04845230,325079547,primary,"Nancy Spargo, MSW",nancy.spargo@operationfoodsearch.org,314-750-4077
+NCT05997953,325680078,primary,"Muhamed Alhagrasy, M.D.",MuhamedAhmed.216@azhar.edu.eg,00201017313413
+NCT05097586,325689876,primary,"Sophie Grigoriadis, MD",sophie.grigoriadis@sunnybrook.ca,416-480-5677
+NCT05097586,325689877,primary,"Simone Vigod, MD",simone.vigod@wchospital.ca,4163236400
+NCT05299398,325128732,primary,"Verinder Sharma, MB",vsharma@uwo.ca,519-455-5110
+NCT04834622,327017260,primary,"Carolina Estevao, PhD",carolina.estevao@kcl.ac.uk,020 7965 7389
+NCT03856931,324509305,primary,"Alice Charach, MD",NA,NA
+NCT03763435,327025040,primary,"Murat Yassa, MD",NA,NA
+NCT00251342,325807740,primary,Cynthia Leung,fhssro@dh.gov.hk,NA
+NCT06348316,324519473,primary,Burcu Küçükkaya,burcukucukkaya1992@gmail.com,05422931357
+NCT04441879,327030731,primary,Mariana Branquinho,marianacjbranquinho@hotmail.com,912979399
+NCT06258655,325819959,primary,"Sari Ahlqvist-Björkroth, Assoc. Prof.",sarahl@utu.fi,0405119600
+NCT06258655,325819959,backup,"Ryo Itoshima, PhD student",ryo.itoshima@utu.fi,+358449515869
+NCT05585164,326291665,primary,"Nili Solomonov, PhD",nis2051@med.cornell.edu,844-999-8746
+NCT05038085,325161679,primary,Gazi ÜB Fakültesi,NA,NA
+NCT04138368,326323898,primary,"ilanir shchori, phd",NA,NA
+NCT04183946,326297290,primary,"Rita Amiel Castro, Dr. phil.",r.castro@psychologie.uzh.ch,+41 44 635 73 42
+NCT06208852,327053362,primary,"James Guevara, MD, MPH",guevara@chop.edu,215-590-1130
+NCT05766475,326354636,primary,"Jennifer Hyer, MD",Jennifer.Hyer@dhha.org,NA
+NCT06136520,326513242,primary,Betül Uncu,betul.uncu@iuc.edu.tr,NA
+NCT04857593,326280680,primary,"Carolina Estevao, PhD",carolina.estevao@kcl.ac.uk,020 7965 7389
+NCT04845347,327046737,primary,Kelley DuBuc,dubuck@umich.edu,734-764-2256
+NCT05423093,326337418,primary,"Rheanna Platt, MD",rplatt1@jhmi.edu,410-550-8753
+NCT05345834,325199244,primary,"Siobhan Burke, MD",sburke@unityhealthcare.org,NA
+NCT05345834,325199244,backup,"Maariya Bassa, CNM",mbassa@unityhealthcare.org,NA
+NCT05897619,327062615,primary,"Andrea Temkin-Yu, Psy.D.",abt4002@med.cornell.edu,640-203-8301
+NCT05897619,327062615,backup,"Aliza Ayaz, B.S.",ala4015@med.cornell.edu,NA
+NCT06014892,326595781,primary,The 4th Trimester Initiative Study Team,the4thtrimesterinitiative@mgb.org,617-831-7824
+NCT05826327,326595561,primary,"Xinzhong Chen, Dr",chenxinz@zju.edu.cn,13575738058
+NCT05285215,327501899,primary,Ban Leong Sng,NA,NA
+NCT03120208,327074690,primary,Patrick LACARIN,placarin@chu-clermontferrand.fr,04 73 75 11 95
+NCT06014892,326595781,backup,"Erika Rangel, MD",erangel@mgh.harvard.edu,617-831-7824
+NCT06014892,326595782,primary,"Huma Farid, MD",hfarid@bidmc.harvard.edu,781-453-7240
+NCT06014892,326595783,primary,"Ariel Winn, MD",Ariel.Winn@childrens.harvard.edu,617-355-7584
+NCT06014892,326595784,primary,"Douglas S Smink, MD",dsmink@bwh.harvard.edu,617-983-7862
+NCT06310720,326618398,primary,"Heather Lipkind, MD, MSce",hlipkind@weill.cornell.edu,212-746-3045
+NCT06049433,326604721,primary,"Gwen Latendresse, PhD CNM",gwen.latendresse@nurs.utah.edu,801-587-9636
+NCT06049433,326604721,backup,"Julie Neuberger, BS",julie.neuberger@nurs.utah.edu,801-587-3930
+NCT04998721,326602384,primary,Amritha Bhat,amritha@uw.edu,206-543-3117
+NCT04853693,327524179,primary,Pavla Spadova,Pavla.Spadova@nudz.cz,+420 283 088 436
+NCT02094092,327149268,primary,"Parveen Akhtar, Dr",pervtariq@hotmail.com,+92-515788104
+NCT06144294,327138636,primary,"Emily Tutino, BA",emt4004@med.cornell.edu,NA
+NCT04821544,325888164,primary,"Brook Lang, MD",NA,NA
+NCT06144294,327138636,backup,"Alexa Stufano, MPH",als4044@med.cornell.edu,NA
+NCT04821544,325888165,primary,"Brian Scottoline, MD, PhD",NA,NA
+NCT04685148,325896187,primary,"Vibe G Frokjaer, MD, PhD",vibe@nru.dk,04535456712
+NCT06282419,325236972,primary,Merve Çakıl,mervecakil92@gmail.com,+905310854245
+NCT06282419,325236972,backup,Ayla KANBUR,aylakanbur28@hotmail.com,NA
+NCT06276647,325237002,primary,"Elizabeth Howell, MD MPP",elizabeth.howell1@pennmedicine.upenn.edu,NA
+NCT06276647,325237002,backup,"Micki Burdick, PhD",micki.burdick@pennmedicine.upenn.edu,NA
+NCT05444179,325228717,primary,"Noor Fairuzi Suhana Bt Yahya, Mrs",fairuzisuhana@gmail.com,+60132842003
+NCT05444179,325228717,backup,"Nur Islami Bt Mohd Fahmi Teng, AP. Dr.",nurislami@uitm.edu.my,+60172471223
+NCT05821569,327564521,primary,"Stefano Bembich, MD",stefano.bembich@burlo.trieste.it,+390403785410
+NCT05772897,327534907,primary,"Sunny Stophaeros, MS",sunny.stophaeros@ucdenver.edu,925-339-2971
+NCT05772897,327534907,backup,"Caroline R Harrison, MPH",caroline.harrison@cuanschutz.edu,2028129299
+NCT05322161,324604580,primary,"Zeenia Billimoria, MD",zeenia.billimoria@seattlechildrens.org,NA
+NCT05322161,324604581,primary,"Kirtikumar Upadhyay, MD",kupadhya@uw.edu,NA
+NCT06053515,327588216,primary,Francia X Gutierrez,xmaringu@umd.edu,NA
+NCT06242717,324616457,primary,"Marianne Vidler, PhD, MSc",marianne.vidler@cw.bc.ca,604-875-2424
+NCT06275217,324616125,primary,"Jessie JX Lin, PhD",jx-jessie.lin@polyu.edu.hk,NA
+NCT06053515,327588216,backup,Quynh Nguyen,qtnguyen@umd.edu,NA
+NCT04332146,325246921,primary,"Jingxia Lin, PhD",jxlin@hku.hk,852-39176311
+NCT05893485,325285582,primary,"Christina C Reed, WHNP-BC",christina.reed@bcm.edu,281-770-9027
+NCT06316193,325250806,primary,Roberta Ranzani,ranzani.roberta@hsr.it,+393408896175
+NCT06316193,325250806,backup,Alessia De simone,desimone.alessia@hsr.it,+393311637516
+NCT05751746,325249226,primary,"Su Yeon Kim, Dr.",kittyrockz@nate.com,+82-10-3325-2690
+NCT05893485,325285582,backup,"Yamely Mendez Martinez, MD",yamely.mendezmartinez@bcm.edu,832 8267363
+NCT05275413,324637727,primary,Wing Cheong Leung,NA,NA
+NCT05275413,324637728,primary,Ka Wang Cheung,NA,NA
+NCT04847362,327221269,primary,LEYLA KAYA,leylakaya02@hotmail.com,+90 5456439482
+NCT05753176,325300154,primary,"Ryan Van Lieshout, MD, PhD",vanlierj@mcmaster.ca,9055221155
+NCT05753176,325300154,backup,"Nancy Lloyd, MSc",lloydn@mcmaster.ca,9055151873
+NCT04847362,327221270,primary,YASEMİN AYDIN KARTAL,yasemin.aydin@sbu.edu.tr,+90 5432870029
+NCT05813782,324697049,primary,"Ayla KORKMAZ, asst. prof.",ayla.korkmaz@gop.edu.tr,NA
+NCT04129476,325315798,primary,Atefeh Dehnoalian,adehnoalian@gmail.com,989156453622
+NCT04820920,327222291,primary,"Dung Jidong, PhD",dung.jidong@ntu.ac.uk,115 84 86478
+NCT04193462,326675671,primary,"Moran Influs, Phd",moran.influs@gmail.com,972-5343400
+NCT04580901,325941766,primary,"Vivian Polak, HBA BMSc MD",polakv@mcmaster.ca,519-803-4718
+NCT04580901,325941766,backup,"Ryan Van Lieshout, MD PhD",vanlierj@mcmaster.ca,905-522-1155
+NCT05268588,327228176,primary,"Pushpendra Singh, PhD",psingh@iiitd.ac.in,NA
+NCT03965572,326697741,primary,"Weisbrod, Dr.",NA,972-9-8604601
+NCT06250933,326710999,primary,Rahime AKSOY BULGURCU,rahime.aksoy@bilecik.edu.tr,NA
+NCT05268588,327228177,primary,"Mona Duggal, MD",mona.duggal2@gmail.com,NA
+NCT04211467,326056017,primary,"Sabine Hazan, MD",drsabinehazan@progenabiome.com,805-339-0549
+NCT06277661,326742452,primary,"Shannon L. Gillespie, PhD, RN",gillespie.175@osu.edu,614-292-4589
+NCT06277661,326742452,backup,"Sandra Solove, MA",solove.3@osu.edu,6142478366
+NCT04285437,326074631,primary,"Linh Dao Nguyen Phuong, MD",bs.dnplinh@gmail.com,+84902893839
+NCT04285437,326074631,backup,"Duong Pham Diep Thuy, Ph.D, MD",thuyduongpd@gmail.com,+84908143227
+NCT06355375,326742083,primary,Gabriele Saccone,gabriele.saccone.1990@gmail.com,0817461111
+NCT05662423,326066720,primary,"Sharon Dekel, Ph.D., M.Phil., M.S.",sdekel@mgh.harvard.edu,617-726-1352
+NCT05887115,324748344,primary,"Ashley Banks, MPH",Ashley.Banks@nationwidechildrens.org,614-722-3756
+NCT04211467,326056017,backup,"Jordan Daniels, MS",jordan@progenabiome.com,805-339-0549
+NCT04183582,326106351,primary,"Emma Lowrie, PhD",Emma.CECD@nspcc.org.uk,01253 476611
+NCT05137925,324794462,primary,"Dayna Winograd, B.S",NA,NA
+NCT05676918,324770182,primary,Covadonga Chaves Vélez,cchavesv@psi.ucm.es,+36 635321643
+NCT05676918,324770182,backup,Almudena Duque,aduquesa@upsa.es,NA
+NCT05830266,327237011,primary,"Marion I van den Heuvel, PhD",m.i.vdnheuvel@tilburguniversity.edu,+31134664085
+NCT04183582,326106351,backup,"Clare Law, MSc",Clare.CECD@nspcc.org.uk,01253 476192
+NCT06056609,324823745,primary,Deborah Phillips,deborah.phillips23@nhs.net,07464491875
+NCT04278456,326126996,primary,DİDEM ONK,d.hesapdar@gmail.com,05053856322
+NCT04487171,326124601,primary,"Arthur Foulon, MD",foulon.arthur@chu-amiens.fr,(33)322087382
+NCT04487171,326124601,backup,MD,NA,NA
+NCT06056609,324823745,backup,Mia Porteous,mia.porteous2@nhs.net,01904725129
+NCT06046456,324823803,primary,"Anne J Bjertrup, PhD",anne.juul.bjertrup@regionh.dk,27134839

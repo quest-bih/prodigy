@@ -1,0 +1,924 @@
+
+<section> RESEARCH 
+<section> Open Access
+ 
+<section> Health insurance and social capital in
+ 
+<section> Ghana: a cluster randomised controlled trial
+ 
+<section> Christine J. Fenenga 
+<section> 1,2*† Katalin Buzasi 
+<section> 1,4† Daniel K. Arhinful Stephen K. O. Duku 
+<section> 3,4,5 Alice Ogink 1 and
+ 
+<section> Wouter Poortinga
+ 
+<section> Abstract
+ 
+<section> Background: The National Health Insurance Scheme (NHIS) was introduced in Ghana in 2003, enrolment is still far
+ from the desired target of universal coverage. Low community engagement in the design and management of the
+ system was identified as one of the main barriers. The aim of the current study was to explore the role of social
+ capital in NHIS enrolment in two regions of Ghana, Western and Greater Accra.
+ 
+<section> Methods: The study involved a cluster-randomised controlled trial of 3246 clients of 64 healthcare facilities who
+ completed both a baseline and a follow-up survey. Thirty-two facilities were randomly selected to receive two types
+ of intervention. The remaining facilities served as control. The interventions were co-designed with stakeholders.
+ Baseline and follow up surveys included measures of different types of social capital, as well as enrolment in the
+ health insurance scheme.
+ 
+<section> Results: The study found that the interventions encouraged NHIS enrolment (from 40.29 to 49.39% (intervention group)
+ versus 36.49 to 36.75% (control group)). Secondly, certain types of social capital are associated with increased enrolment
+ (log-odds ratios (p-values) of three types of vertical social capital are 0.127 (< 0.01), 0.0952 (< 0.1) and 0.15 (< 0.01)).
+ Effectiveness of the interventions was found dependent on initial levels of social capital: respondents with
+ lowest measured level of interpersonal trust in the intervention group were about 25% more likely to be
+ insured than similar respondents in the control group. Among highly trusting respondents this difference was
+ insignificant. There was however no evidence that the interventions effect social capital. Limitations of the
+ study are discussed.
+ 
+<section> Conclusion: We showed that the interventions helped to increase enrolment but that the positive effect was
+ not realized by changes in social capital that we hypothesised based on result of the first phase of our study.
+ Future research should aim to identify other community factors that are part of the enrolment process, whether other
+ interventions to improve the quality of services could help to increase enrolment and, as a result, could provide
+ community benefits in terms of social capital.
+ Our findings can guide the NHIS in Ghana and other health organizations to enhance enrolment.
+ 
+<section> Trial registration: Ethical Clearance by Ghana Health Service Ethical Committee No. GHS-ERC 08.5.11.
+ 
+<section> Keywords: Ghana, Social capital, Health insurance, Marginal effects, Cluster randomised controlled trial, Systematic
+ 
+<section> client engagement
+ 
+<section> * Correspondence: c.j.fenenga@rug.nl
+ 
+<section> † Christine J. Fenenga and Katalin Buzasi contributed equally to this work.
+ Amsterdam Institute for Global Health and Development, Paasheuvelweg
+ 
+<section> 24, 1105 BP Amsterdam, The Netherlands
+ 
+<section> 2 University of Groningen, Broerstraat 5, 9712 CP Groningen, The Netherlands
+ 
+<section> Full list of author information is available at the end of the article 
+<insert> Fig. 1 Conceptual social capital framework (Fenenga et al. [8]) 
+<iend>
+
+ 
+<section> Introduction
+ Ghana introduced the National Health Insurance
+ Scheme (NHIS) in 2003 to improve access to universal
+ quality healthcare. It replaced a cash and carry system
+ that required upfront payment from individuals at the
+ point of service usage. Membership of the NHIS provide
+ access to health services from both credentialed public
+ and private healthcare providers throughout the country,
+ and are financially covered for about 95% of Ghana’s
+ health problems. Members pay an annual premium for
+ active membership unless they fall under one of several
+ exemption categories [1]. The scheme increased the
+ number of people with access to health insurance, but
+ enrolment levels have stayed well below the desired uni-
+ versal coverage target. A decade after its implementa-
+ tion, only about 34% of Ghana’s population were active
+ card bearing members [2–4]. Several barriers to enrol-
+ ment have been identified, relating to the scheme’s af-
+ fordability, the supply of NHIS membership cards, poor
+ attitudes of healthcare staff, perceived preferential treat-
+ ment for fee-paying patients, and substandard informa-
+ tion provision [5–10]. In addition, communities with
+ low levels of social trust and trust in healthcare service
+ have been found to have below average active member-
+ ship [8], suggesting that social capital may play role in
+ NHIS enrolment in Ghana.
+ Social capital is a multifaceted concept that has been
+ used extensively in health research over the past two de-
+ cades [11–14]. Social capital can be defined in different
+ ways [15, 16], but is in the health literature mostly used
+ as an indication of ‘social cohesion’ – whereby social
+ capital is seen as a property of groups, with resources
+ such as trust, norms and the exercise of sanctions, avail-
+ able to individual members in that group; or of a ‘net-
+ work’ – whereby resources, such as social support,
+ information channels, social credentials, are embedded
+ within an individual’s social network [17]. Szreter and
+ Woolcock [18] distinguish between different types of so-
+ cial capital, i.e. bonding, bridging and linking, reflecting
+ different social links that exist in society. While Bonding
+ social capital reflect ties between individuals with a rela-
+ tively high degree of network closure, such as in families,
+ close relatives, friends, neighbors, often associated with
+ strong norms and trust, Bridging social capital concerns
+ ties between individuals across social and economic di-
+ vides, or between groups or associations, such as trade
+ unions, professional groups, women groups. Bridging so-
+ cial capital may not involve many shared norms but is
+ often associated with reciprocity and ‘thin trust’ [16]. In
+ contrast to bonding and bridging social capital, which
+ are both seen as reflecting horizontal social ties within
+ and across social groups, linking social capital (some-
+ times referred to as vertical social capital) concerns
+ norms of respect and networks of trusting relationships
+ across explicit, formal, or institutionalized power or au-
+ thority gradients in society [16, 18].
+ Like in many African countries, social capital, in par-
+ ticular bonding social capital, is believed to be an im-
+ portant aspect of community life in Ghana [19, 20].
+ Strong bonding ties exist in the extended families, where
+ patriarchs lead important decisions [19]. Further,
+ well-organized community groups, such as women
+ groups, church communities, professional groups, and
+ saving groups, exist in both urban and rural areas. These
+ bonding community networks of trust and reciprocity
+ play an important role in individual day-to-day
+ decision-making, including health decisions [21, 22], and
+ have been linked to a series of health outcomes [23–26,
+ 27, 28]. The question is whether social capital may also
+ be linked to other health seeking behaviors, including
+ enrolment in health insurance schemes.
+ This paper reports on the study on enrollment in the
+ NHIS in Ghana, and the role of social capital therein.
+ The study consisted of a cluster randomized controlled
+ trial to test two social-capital informed interventions to
+ increase enrolment (see section “Methods” below). The
+ interventions were innovative in that it aimed to pro-
+ mote health insurance enrollment through increasing so-
+ cial capital.
+ The study has shown in a previous publication that
+ there are high levels of social capital in Ghana, and iden-
+ tified different types of social capital [8]. In particular, it
+ found two types horizontal social capital, reflecting trust
+ and solidarity, and collective action within the commu-
+ nity; and two types of vertical social capita, reflecting
+ trust in the healthcare provider and the NHIS respect-
+ ively (Fig. 1).
+ Community trust and solidarity, as well as trust in
+ the healthcare provider and health insure were all
+ associated with active enrollment in the NHIS. Based
+ on these results, two social-capital informed interven-
+ tions were developed with the intention to increase
+ enrolment (see section “Design of interventions”). 
+<section> In the current paper we report the results of the ran-
+ domized controlled trial. In particular, we examined (1)
+ the effectiveness of the interventions on active member-
+ ship in the NHIS, (2) whether the interventions helped
+ to increase levels of social capital, and (3) whether the
+ effectiveness of the interventions was dependent on ini-
+ tial levels of social capital. We expected that 1) the inter-
+ ventions increase enrollment in the NHIS; 2) the
+ interventions increase levels of social capital; and 3) the
+ effectiveness of the intervention depends on initial levels
+ of social capital. In addition, we expect that 4) the inter-
+ ventions will be the most effective n communities with
+ initial low levels of trust and solidarity and where com-
+ munity members are less likely to encourage each other
+ 
+<section> to enroll,
+ 
+<section> Methods
+ 
+<section> This clustered randomized controlled trial was conducted
+ in 2011–2014 among NHIS insured and non-insured cli-
+ ents of primary healthcare facilities in the predominantly
+ urban region Greater Accra and the more rural Western
+ Region in Ghana.
+ 
+<section> Sampling
+ 
+<section> The study used a multi-stage sampling strategy. The first
+ stage of the multi-stage sampling strategy was the pur-
+ posive selection of 16 NHIS district schemes (8 in each
+ region) based on total population, NHIS enrolment
+ coverage, NHIA accreditation status, and geographical
+ location (urban – rural). In the second stage, 64 primary
+ healthcare facilities (32 in each region) were selected on
+ the basis of their ownership (public/private), location
+ (rural/urban), and NHIS accreditation quality scores. A
+ third stage of sampling was conducted to collect data
+ from 1903 randomly selected households in both
+ regions. Thirty households were sampled from within a
+ radius of 10 km around each of the 64 selected primary
+ healthcare facilities. In total data of 7097 individuals in
+ the sampled households was collected in the baseline
+ survey, which took place in April 2012.
+ For the intervention, 32 health facilities (from the 64)
+ were randomly selected to receive the interventions,
+ while the remaining 32 facilities served as controls with-
+ out an intervention [29–31]. A follow-up survey was
+ conducted among 6971 individuals from the 64 facilities,
+ which took place between March and June 2014 after
+ the interventions were completed.
+ 
+<section> Design of interventions
+ The two interventions were designed through an itera-
+ tive participatory process based on the results of the
+ baseline survey. Stakeholders (the healthcare clients,
+ healthcare providers, and the National Health Insurance
+ Authority (NHIA)) gave their input to derive to the key
+ components for the intervention [8]. The participatory
+ approach, whereby stakeholders co-design the interven-
+ tion, was chosen to facilitate interaction, mutual learn-
+ ing, empowerment and trust-building between the
+ different stakeholder groups. The rationale of co-design
+ is that stakeholders know their context and interest best
+ and can help define an appropriate, acceptable and feas-
+ ible intervention which has a better chance to achieve
+ result. Both interventions were also based on the con-
+ cept of social capital.
+ 
+<section> Intervention 1 (the light version), conducted in
+ facilities, engaged existing community groups, identified
+ with help of the district authorities, to monitor health-
+ care and health insurance services and suggest improve-
+ ments (See step by step process below and Fig. 2). This
+ process was facilitated by a trained community health
+ worker (CHW). The intervention included also two
+ meetings between the community groups and the
+ healthcare provider and district NHIS staff to discuss
+ monitoring results and suggestions for improvement.
+ We reason this process builds social capital (horizontal)
+ by giving an important role to the group in improving
+ health services in their community. Through informa-
+ tion sharing and discussions between the group mem-
+ bers, the CHW and the healthcare provider and NHIS
+ staff, social capital (vertical) can be built.
+ 
+<section> Intervention 2 (the intensive version), conducted in
+ facilities, engaged individual clients, identified by the
+ CHW during their visit to the clinic. The CHW subse-
+ quently visited the individual client at his/her home
+ within 6 days, assuring a short recall-period that would
+ lead to more accurate responses than in intervention
+ where group members of existing groups may not have
+ used services for some time. Recall periods in health
+ 
+<section> Fig. 2 The six steps of the intervention design 
+<section> have been studied by other researchers [32, 33]. To
+ minimize recall bias one should consider methodological
+ approaches such as using well-structured standardized
+ questions [32]. For intervention 2 we used structured
+ questions and locally produced illustrative pictures. We
+ adopted the conceptual model of the validated assess-
+ ment test used in TB-care [34]. This TB Quote instru-
+ ment uses a 6 days recall period. This period is also
+ practical: it allows the community worker to follow the
+ patient in the community more easily than when using a
+ period of a month or longer. Secondly, it allows the pro-
+ ject to proceed, analyse and validate the data and design
+ an improvement plan with the stakeholders.
+ The second interventions also included group meet-
+ ings of the same clients that were first interviewed indi-
+ vidually. In the group they discussed their monitoring
+ findings and suggestions with healthcare and district
+ NHIS staff. We reasoned that although this interven-
+ tion may tap slightly less on the horizontal social
+ capital (engaging individuals and not existing commu-
+ nity groups), it does stimulate empowerment and
+ strengthens vertical social capital through the inter-
+ action with the health facility and NHIS staff.
+ Both interventions thus entailed participatory monitor-
+ ing of services and service improvement. In the monitor-
+ ing, participants focused on ten service aspects
+ (indicators) that derived from the baseline study in
+ which we explored clients’ definition and perception on
+ quality of services. Related to the healthcare provider
+ these aspects were 1) Attitude of staff; 2) Punctuality of
+ staff; 3) Information provision; 4) Availability of drugs;
+ 5) Queuing system; 6) Opportunity to provide feedback.
+ 
+<section> For the NHIS these were: 7) Information provision; 8)
+ Enrollment process; 9) Delivering services that are
+ promised; 10) Opportunity to provide feedback. We
+ applied a mixed methodology of scoring, using a scale
+ from 1 (poor) to 5 (excellent), and narrative responses.
+ In addition, the Net Promotor Score (NPS) was used to
+ measure the willingness of clients to promote the
+ services (of health care provider or NHIS) to neighbors
+ and friends, using a scale of 1 (very unlikely) to 4 (very
+ likely).
+ Intervention 2 comprised of six steps as presented in
+ Fig. 2, while the intervention 1 comprised of five steps,
+ making intervention 2 more intensive than intervention
+ 1. Both interventions were implemented and evaluated
+ concurrently in the period May 2013 to February 2014.
+ Results of these interventions are published by Alhassan
+ et al. [29], Duku et al. [30] and Fenenga et al. [31] and.
+ The following section briefly describes the engagement
+ steps.
+ 
+<section> Step 1 involved the recruitment of healthcare clients at
+ the exit of a healthcare facility; Step 2 involved individual
+ face-to-face interviews with clients in their own homes
+ to obtain information about their experiences and views
+ on healthcare facilities and health insurance. The results
+ from the interviews were used as basis for a focus group
+ discussion in Step 3. The focus group discussions were
+ used to share information among group members about
+ the assessment of the 10 mentioned aspects and NPS,
+ but also to validate the findings of Step 2. Focus group
+ discussions are usually more dynamic and generate new
+ information through action-reaction responses. Step
+ consisted of written and verbal reports to provide feed-
+ back to healthcare providers and district insurance of-
+ fices. A joint stakeholder meeting was convened in Step
+ 5. The meetings served as an open dialogue forum,
+ involving different stakeholders to develop action plans
+ to improve the services and make them more client
+ focused. The final step (Step 6) was included to evaluate
+ the implemented actions. Plaques of honor and small
+ financial incentives were used to reward improved
+ services of the healthcare provider and district NHIS
+ office.
+ 
+<section> Respondents and measures
+ As discussed above, the number of respondents were
+ 7097 and 6971 in the baseline and follow-up surveys,
+ respectively. In total, 3246 individuals were identified
+ who filled out both surveys and were above the age of
+ 18. Additional file 1: Figure A.1 presents a flow diagram
+ showing the inclusion of observations in the final sam-
+ ple. As Additional file 1: Table A.1 suggests, respondents
+ removed from the sample are largely similar to those
+ included in the final sample. There are slight differences
+ in terms of education profile and experience with paying
+ for consultation and drugs. The only major difference is
+ that the majority of removed individuals were from the
+ Greater Accra region.
+ While there were two types of interventions, they were
+ combined for the analyses because they produced similar
+ effects (the analyses with the two interventions separ-
+ ately, with essentially similar results to the analysis with
+ the combined group are presented in Additional file 1).
+ Table 1 shows that the control and the combined inter-
+ vention group of the final sample differ in a number of
+ aspects. The Western region is somewhat underrepre-
+ sented in the control group. The share of respondents
+ evaluating their health status worse compared to other
+ people similar to them is higher in the control group,
+ while the probability of considering health status the
+ same is higher in the intervention group. People in the
+ control group were more likely to have paid for consult-
+ ation in the past. These factors were included in the stat-
+ istical models as controls.
+ The main outcome variable of this study was enrol-
+ ment in any health insurance scheme (survey question:
+ “Are you currently enrolled in any health insurance 
+<insert> Table 1 Intervention group characteristics at baseline
+ Control group Intervention group (combined) P-value
+ Age (in years) 37.74 37.81 0.896
+ Sex (% women) 55.80 57.05 0.474
+ Region (% Western region) 46.78 52.11 0.002***
+ Religion (% Christian) 90.00 89.88 0.155
+ Wealth quintile 1 (%) 16.65 17.71 0.902
+ Wealth quintile 2 (%) 17.40 17.41
+ Wealth quintile 3 (%) 19.55 18.73
+ Wealth quintile 4 (%) 22.89 20.84
+ Wealth quintile 5 (%) 23.52 25.3
+ No formal education (%) 12.98 13.77
+ Less than primary school (%) 3.74 2.55
+ Primary school (%) 9.94 9.28
+ Household wealth
+ Highest level of completed education
+ Middle/junior secondary school (%) 39.14 40.45
+ Secondary/senior secondary school (%) 21.72 19.35
+ Vocational/polytechnical training (%) 7.54 8.79
+ Higher education (%) 4.94 5.82
+ 0.139
+ Is your health better or worse than of other people of the same sex and age in the community
+ Better (%) 61.62 59.6
+ The same (%) 34.35 37.48
+ Worse (%) 4.02 2.92
+ 0.01**
+ The share of respondents paying for consultation and drugs during last healthcare provider visit
+ Pay for consultation (%) 21.56 18.67 0.04**
+ Pay for drugs (%) 47.23 46.87 0.838
+ Note: The p-values refer to the results of the chi-square test, except for age where independent t-test with unequal assumed variances is used; * p < 0.05; ** p < 0.01;
+ *** p < 0.001 
+<iend>
+
+ scheme?”). A descriptive analysis on this variable is
+ found in Section “The impacts of the intervention on
+ social capital”.
+ 
+<section> Social capital was measured by items consisting of
+ statements. Respondents were asked to what extent they
+ agreed or disagreed with the statements. They could re-
+ spond using a five-point Likert scale from strongly dis-
+ agree (with the value of 1) to strongly agree (with the
+ value of 5). The items were developed using the theoret-
+ ical framework as outlined in Fenenga et al. [8], covering
+ the topics of trust, solidarity, community action, and
+ trust in healthcare and NHIS services. A principal com-
+ ponents analysis with Varimax rotation found that five
+ social capital factors accounted for 66.8% of the original
+ variance in the data (Additional file 1: Table B.1). The
+ first factor comprised items related to trust in people in
+ the community. This factor was labelled “horizontal so-
+ cial capital – trust” (HC_trust), reflecting bonding social
+ capital (see Fig. 1). The second factor, labelled “vertical
+ social capital – provider 1” (VC_prov1) contained items
+ related to attitudes to personnel and fairness of the
+ queuing system in the facility. The third factor was la-
+ belled “Horizontal social capital – action” (HC_action),
+ and can be considered to reflect aspects of both bonding
+ and bridging capital (see Fig. 1). The fourth factor, la-
+ belled “Vertical social capital – provider 2” (VC_prov2)
+ reflects views on the quality of the facilities. The last fac-
+ tor “Vertical social capital – NHIS” (VC_nhis) captures
+ the trustworthiness and adequacy of the National Health
+ Insurance Scheme. The items and factor loading are pre-
+ sented in Additional file 1: Table B.2.
+ The socio-demographic sections of the questionnaire in-
+ cluded questions on age, sex, region, religion, household
+ wealth, and highest level of completed education.
+ Household wealth is measured as the annual per capita
+ food and non-food consumption expenditure. The
+ questionnaire further included question on health status
+ (“Is your health better or worse than that of other people
+ of the same sex and age you know in your community?”),
+ and experiences with healthcare provider at the last visit 
+<insert> Table 2 The effect of the intervention on insurance enrolment
+ and the relationship between social capital and insurance
+ Dependent variable: Model Model
+ Being ensured Being ensured
+ Intervention (IG) 0.176 (0.142) 0.143 (0.135)
+ Follow-up −0.254** (0.124) −0.153 (0.129)
+ IG x Follow-up 0.414** (0.164) 0.454*** (0.160)
+ HC_trust 0.00775 (0.0466)
+ HC_action 0.0460 (0.0404)
+ VC_prov1 0.127*** (0.0442)
+ VC_prov2 0.0952* (0.0489)
+ VC_nhis 0.150*** (0.0510)
+ Constant −2.928*** (0.259) −3.004*** (0.263)
+ Variance of intercept 0.18*** (0.043) 0.165*** (0.042)
+ Observations 6007 5895
+ Number of groups
+ Log pseudolikelihood − 3556.8111 − 3461.7883
+ Note: errors are clustered by facility; controls listed in Table 1 are included
+ HC_trust 1 Horizontal social capital – trust, HC_action Horizontal social capital –
+ action, VC_prov1 Vertical social capital – provider 1, VC_prov2 Vertical social
+ capital – provider 2, VC_nhis Vertical social capital – NHIS; * p < 0.05; ** p < 0.01;
+ *** p < 0.001 
+<iend>
+
+ 
+<insert> Fig. 3 Health insurance in the control and the combined
+ intervention group 
+<iend>
+
+ (“The last time you visited a health provider, did you
+ have to pay (out of pocket) for consultation, tests or lab
+ services?” and “Did you pay for drugs when you visited
+ this facility?”). The questionnaire and items are de-
+ scribed in more detail in Additional file 1: Table A.2.
+ 
+<section> Model specifications
+ We used multilevel modelling to analyse the data con-
+ sisting of individuals clustered within facilities. First, we
+ constructed a set of two multilevel logit models to
+ examine the effectiveness of the intervention in terms of
+ enrolment in the NHIS insurance scheme. The first
+ model included a dummy indicating the measurement
+ occasion (follow-up versus baseline) and a dummy indi-
+ cating the intervention group. The relative changes in
+ the intervention group as compared to the control group
+ were indicated by the interaction term of the two. The
+ second model further included the five social capital fac-
+ tors as described above.
+ Second, we constructed a series of five multilevel
+ regression models in which we used the social capital
+ factors as the dependent variables. Just as for the first
+ set of analyses, we included dummies indicating the
+ measurement occasion, the intervention group, and the
+ interaction between measurement occasion and the
+ intervention group. Controls were also included.
+ Third, we constructed a series of five multilevel
+ models to determine whether the effectiveness of the
+ interventions was dependent on initial levels of social
+ capital. The dependent variable was enrolment in insur-
+ ance at follow-up. The models contain insurance enrol-
+ ment at baseline, a dummy for the intervention group
+ and the socio-demographic controls. The variables of
+ interest were the interactions between the intervention
+ group and social capital aspects. Instead of presenting
+ full tables, we report only the marginal effects of the
+ intervention group (compared to control) at different
+ initial social capital levels.
+ 
+<section> Results
+ 
+<section> The effectiveness of the intervention
+ Figure 3 shows the differences of insurance coverage in
+ the control and the combined intervention group at
+ baseline and follow-up. The share of respondent with
+ insurance coverage grew from 36.49 to 36.75% in the
+ control group and from 40.29 to 49.39% in the (com-
+ bined) intervention group. According to the independent
+ t-test, the 4 percentage point higher insurance coverage
+ of the intervention group at baseline is significant at the
+ 5% level (ΔM = − 3.80, p = 0.029). The difference be-
+ tween the control and intervention group increased to
+ about 12 percentage point by the time of the follow-up
+ survey and the difference is significant at the 1% level
+ 
+<section> (ΔM = − 11.74, p = 0.000). Changes over time were
+ assessed with paired t-tests. While the small increase in
+ the control group is statistically not significant (ΔM =
+ 
+<section> 1.16, p = 0.424), the about 9 percentage point change in
+ the treatment group is significant at the 1% level (ΔM =
+ 
+<section> 9.10, p-value = 0.000). Figure 3 suggests that the inter-
+ vention promoted insurance enrollment.
+ The conclusion of Fig. 3 is confirmed by the first set
+ of multilevel regressions in Table 2, with a significant in-
+ teractions between the intervention and follow-up
+ (Model 1). The interaction term remained significant
+ when controlling for the different social capital variables
+ (Model 2 in Table 2). The significant coefficients of
+ VC_prov1 VC_prov2 and VC_nhis show that vertical 
+<insert> Fig. 4 Changes in the five social capital factors from baseline to follow-up. Notes: The levels (scores) of social capital are estimated from 16 survey
+ items with principal component analysis explained in Section “Respondents and measures” and Additional file 
+<iend>
+
+ social capital plays an important role in enrolment
+ across the two waves of data collection. The full model
+ with controls (Additional file 1: Table C.1).
+ 
+<section> The impacts of the intervention on social capital
+ Figure 4 illustrates the level (score) of the five types of
+ social capital estimated with principal component ana-
+ lysis (explained in Section “Respondents and measures”.
+ and Additional file 1) at baseline and follow up for the
+ control and intervention group.
+ While the “Horizontal social capital – trust” and “Ver-
+ tical social capital - provider 1” increased for the two
+ intervention groups, “Horizontal social capital – action”,
+ 
+<section> e
+ 
+<section> “Vertical social capital - provider 2” and “Vertical social
+ capital - NHIS” decreased from baseline to follow up. In
+ addition, the control groups appear to show similar pat-
+ terns as the two intervention groups which indicates that
+ changes in social capital between the two survey years
+ are not influenced by the intervention.
+ Table 3 shows the results of the multilevel regression
+ analyses, reflecting the main patterns found in Fig. 3
+ there was an overall increase in “Horizontal social cap-
+ ital – trust” (HC trust), and a general decrease in “Verti-
+ cal social capital – provider 2” (VC prov2) and “Vertical
+ social capital - NHIS” (VC nhis). The intervention group
+ dummy is included to capture any significant differences 
+<insert> Table 3 The effect of the interventions on the level of social capital aspects
+ Dependent variable: Model Model Model Model Model
+ HC_trust HC_action VC_prov1 VC_prov2 VC_nhis
+ Follow-up 0.227*** (0.0736) − 0.0997 (0.0812) 0.0712 (0.0753) − 0.150** (0.0702) − 0.634*** (0.0796)
+ Intervention group (IG) −0.0224 (0.0820) 0.111 (0.0803) −0.0106 (0.0861) − 0.0279 (0.110) 0.0616 (0.0719)
+ IG x Follow-up −0.0847 (0.108) − 0.124 (0.108) 0.0515 (0.0999) − 0.0642 (0.114) −0.0610 (0.100)
+ Constant −0.269* (0.146) 0.0544 (0.116) −0.301** (0.141) 0.264** (0.132) 0.251*** (0.0967)
+ Variance of intercept 0.057*** (0.015) 0.068*** (0.014) 0.038*** (0.008) 0.193*** (0.038) 0.042*** (0.009)
+ Observations 6013 6013 6013 6013 6013
+ Number of groups
+ Log pseudolikelihood − 8107.2474 − 8346.0905 − 8445.4805 − 7753.767 − 8101.5881
+ Note: errors are clustered by facility, controls listed in Table 1 are included; *** p < 0.01, ** p < 0.05, * p < 0.1 
+<iend>
+
+ 
+<insert> Fig. 5 The marginal effects of the interventions on enrolment by initial social capital level. Note: Marginal effects are based on models in
+ Additional file 1: Table C.3 containing interaction terms 
+<iend>
+ 
+<section> compared to Control at baseline. We find no significant
+ differences in social capital between the control and
+ intervention group at baseline.
+ The interaction terms between the follow-up and
+ intervention group dummy were non-significant in all
+ models, suggesting that the intervention had no differen-
+ tial effect on any of the social capital factors. In sum-
+ mary, the similar social capital change patterns across
+ the control and intervention group are confirmed by the
+ multivariate regression models. The full table with the
+ coefficients of socio-demographic controls is presented
+ in Additional file 1: Table C.2.
+ 
+<section> Initial levels of social capital and the effectiveness of the
+ 
+<section> intervention
+ We subsequently conducted a series of analyses introdu-
+ cing interaction terms between the initial levels of social
+ capital types and the intervention group types to explore
+ whether the effectiveness of the interventions is
+ dependent on social capital. Each model controls for be-
+ ing insured at baseline, the intervention group and a set
+ of socio-demographic controls. Moreover, each model
+ contains the baseline level of one of the social capital as-
+ pects and their interaction with the intervention group.
+ All remaining variables are kept at their mean. The full
+ regression table is reported in Additional file 1: Table
+ C.3; here (Fig. 5) we present only the marginal effects
+ estimated from Additional file 1: Table C.3. The lines in
+ Fig. 5 can be interpreted as follows. Each circle of the
+ line indicates how much higher or lower the probability
+ of a respondent being insured in the intervention group
+ compared to a similar other in the control group at vari-
+ ous initial social capital levels.
+ The general pattern suggests that the effectiveness of
+ the intervention is greater at lower levels of “horizontal
+ social capital – trust”, “horizontal social capital – action”
+ and “vertical social capital – provider 2”. It also shows
+ that beyond a certain level, the effects are independent
+ of a person receiving the intervention or not. An indi-
+ vidual with high levels of social capital in the interven-
+ tion group then would have the same chance of
+ enrolling in insurance as in the control group. “Vertical
+ social capital – provider 1” seems to influence the effect-
+ iveness of the intervention the opposite way. If we
+ moved two people from control to the intervention
+ group, the likelihood of enrolling into insurance of the
+ one with higher “Vertical social capital – provider 1”
+ would be increased to a greater extent.
+ 
+<section> Discussion
+ The sustainability of health insurance schemes that cur-
+ rently arise in many low and middle-income countries
+ to improve access to quality health care and lower the
+ out-of-pocket expenses is challenged by a range of
+ factors. These have been well described in the literature
+ [35–39]. One important factor is realizing adequate en-
+ rolment and retention of clients. In order to explore so-
+ lutions that will support Ghana’s NHIS to increase its
+ sustainability, this study explored whether and how cli-
+ ent engagement would be an effective strategy.
+ While various studies have demonstrated the potential
+ value of social capital in influencing health seeking
+ behaviour [23, 25], this study builds upon this know-
+ ledge by testing whether client engagement in monitor-
+ ing and improving healthcare and health insurance
+ services positively influence clients’ trust in the NHIS
+ and their willingness to enrol in the program. Reasoning
+ that stakeholder participation in the design and imple-
+ mentation of the interventions will strengthen commu-
+ nication, information sharing, mutual understanding and
+ relationship building, we hypothesized that social capital
+ (horizontal and vertical) and subsequently insurance
+ enrolment would increase as a result of the intervention.
+ This paper presents the results of a cluster randomised
+ controlled trial in which two interventions were tested
+ to increase active membership of the Ghana NHIS. The
+ study examined whether (1) the interventions were ef-
+ fective at raising active membership in the NHIS, (2) the
+ interventions helped to increase levels of social capital,
+ and (3) the effectiveness of the interventions was
+ dependent on initial levels of social capital. As the
+ effects of the two interventions were comparable, they
+ were combined in the analyses. Other papers published
+ on these interventions focus on the effect on patient
+ safety and risk reduction efforts in primary health facil-
+ ities [29] and on healthcare utilization, frequency of ill-
+ ness and perceptions on quality of healthcare [30]. Our
+ first main finding is that the combined intervention was
+ effective in increasing NHIS enrolment. The second
+ main finding is the positive relationship between the ver-
+ tical types of social capital and insurance enrolment. It
+ reinforces previous findings in the literature [40, 41] that
+ trustworthiness of providers and insurance schemes and
+ positive attitudes of medical staff play an important role
+ in people’s decision on joining insurance schemes. The
+ third main finding is that the interventions are more
+ effective where there is a low level of social capital. In
+ practice, it means that in a low social capital environ-
+ ment even light engagement interventions might be a
+ cost-effective tool in increasing insurance enrolment.
+ While we have shown that the interventions effectively
+ increased enrolment, and that social capital has a posi-
+ tive effect on enrolment, findings are inconclusive about
+ the effect of the interventions on the different types of
+ social capital. In other words, we can show that the
+ combined intervention had a positive effect on enrol-
+ ment but not that it affects social capital. Future re-
+ search should aim to identify other community factors 
+<section> that are part of the enrolment process, whether other in-
+ terventions to improve the quality of services could help
+ to increase enrolment and, as a result, could provide
+ community benefits in terms of social capital. Our base-
+ line and follow-up survey include a range of social cap-
+ ital items, which could potentially be linked to the
+ concept of social capital. Another direction is to identify
+ and test potential channels other than social capital
+ through which the intervention could impact enrolment.
+ One explanation of the effectiveness of the intervention
+ can be the increased attention on health insurance, en-
+ couraging healthcare and health insurance providers to
+ improve their services. Alhassan et al. concluded from
+ this same study that healthcare staff efforts towards in-
+ creasing patient safety and reducing risk improved sig-
+ nificantly in intervention facilities especially in the areas
+ 
+<section> of leadership/accountability [29].
+ 
+<section> Conclusion
+ 
+<section> In conclusion we can say that the intervention increases
+ enrolment in the health insurance program. Although
+ we did not find a change in social capital, we reason that
+ the intervention effect of improved services in time will
+ also influence clients’ trust in the service providers and
+ thus increase the level of vertical social capital. It would
+ be reasonable that such change require longer continu-
+ 
+<section> ation of the intervention.
+ 
+<section> Finally, findings can guide the NHIS in Ghana and
+ other countries to realize more client engagement in the
+ planning and implementation of their programs in order
+ 
+<section> to enhance enrolment.
+ 
+<section> Additional file
+ 
+<section> Additional file 1: Respondent inclusion. (DOCX 111 kb)
+ 
+<section> Abbreviations
+ 
+<section> HC: Horizontal social capital; NDPC: National Demographic Planning
+ 
+<section> Commission; NHIA: National Health Insurance Authority; NHIS: National
+ 
+<section> Health Insurance Scheme; VC: Vertical social capital
+ 
+<section> Acknowledgements
+ We like to acknowledge the funders of this project, NWO/WOTRO that made
+ the study possible. In addition the NHIA requesting for this study and
+ providing constructive feed-back throughout the study period, from design
+ to the end. Finally we like to thank all other stakeholders that contributed
+ their time and constructive comments to the researchers of this study during
+ the various stakeholder meetings.
+ 
+<section> Funding
+ 
+<section> The study is funded by the NWO/WOTRO in The Hague, The Netherlands
+ under the project Global Health Policy and Health System Research call 2010.
+ The reference number for our project funding is W 07.45.2009.012.
+ 
+<section> Availability of data and materials
+ Most data generated and analysed during this study are included in this
+ published article (supplementary information files). Other data used and/or
+ analysed during the current study are available from the corresponding
+ author on reasonable request.
+ 
+<section> Authors’ contributions
+ CF and KB developed the study design, the methodology, and did the
+ analysis of data and write up of findings. CF and SD were responsible for the
+ design and implementation of surveys and interventions. DA supported the
+ implementation of surveys and interventions. WP supported the design of
+ the social capital analysis while WP and AO both contributed to the analysis
+ of data. All authors read and approved the final manuscript.
+ 
+<section> Ethics approval and consent to participate
+ All study respondents were asked for their consent to participate before
+ interviewing.
+ The Ghana Health Services Ethical Committee studied the proposal and
+ provided full ethical approval before the study commenced. No. GHS-ERC
+ 08.5.11.
+ 
+<section> Consent for publication
+ All data of respondents was anonymized and cannot be traced back.
+ Respondents were informed about this during the introduction before they
+ provided consent to participate.
+ 
+<section> Competing interests
+ The authors declare that they have no competing interests.
+ 
+<section> Author details
+ 
+<section> Amsterdam Institute for Global Health and Development, Paasheuvelweg
+ 24, 1105 BP Amsterdam, The Netherlands. 2 University of Groningen,
+ Broerstraat 5, 9712 CP Groningen, The Netherlands. 3 Noguchi Memorial
+ Institute for Medical Research, College of Health Sciences, University of
+ Ghana, Legon, Accra, Ghana. Vrije Universiteit Amsterdam, De Boelelaan
+ 1105, 1081 HV Amsterdam, The Netherlands. 5 Tinbergen Institute, Gustav
+ Mahlerplein 117, 1082 MS Amsterdam, The Netherlands. 6 Cardiff University,
+ Cardiff CF10 3AT, Wales, UK.
+ 
+<section> Received: 24 April 2018 Accepted: 5 November 2018
+ 
+<section> References
+ 
+<section> 1. Awoonor-Williams JK, Tindana P, Dalinjong PA, Nartey H, Akazili J. Does the
+ operations of the National Health Insurance Scheme (NHIS) in Ghana align
+ with the goals of primary health care? Perspectives of key stakeholders in
+ northern Ghana. BMC Int Health Hum R. 2016;16(1):21.
+ 2. NHIA. Annual Report 2013. National Health Insurance Authority. 2013 http://
+ www.nhis.gov.gh/files/2013%20Annual%20Report-Final%20ver%2029.09.14.
+ pdf. Accessed 20 Apr 2018.
+ 3. NDPC. The implementation of the Ghana shared growth and development
+ agenda (GSGDA), 2010–2013: Government of Ghana National Development
+ Planning Commission; 2013. http://planipolis.iiep.unesco.org/sites/planipolis/
+ files/ressources/ghana_gsgda_2010_2013_volii.pdf. Accessed 20 Apr 2018.
+ 4. NDPC. National Annual Progress Report 2011: Government of Ghana
+ National Development Planning Commission; 2012. https://new-ndpc-
+ static1.s3.amazonaws.com/pubication/2012+National+Annual+Progress
+ +Report.pdf. Accessed 20 Apr 2018.
+ 5. Aryeetey GC, Jehu-Appiah C, Spaan E, Agyepong I, Baltussen R. Cost, equity,
+ efficiency and feasibility of identifying the poor in Ghana’s National Health
+ 
+<section> Insurance Scheme: empirical analysis of various strategies. Tropical Med Int
+ Health. 2011;17(1):43–51.
+ 6. Dalinjong PA, Laar S. The National Health Insurance Scheme: perception
+ and experiences of healthcare providers and clients in two districts of
+ Ghana. Health Econ Rev. 2012;2:1–13.
+ 7. Dixon J, Tenkorang EY, Luginaah IN, Kuuire VZ, Boateng GO. National Health
+ Insurance Scheme enrolment and antenatal care among women in Ghana:
+ is there any relationship? Tropical Med Int Health. 2014;19(1):98–106.
+ 8. Fenenga CJ, Nketiah-Amponsah E, Ogink A, Arhinful DK, Poortinga W,
+ Hutter I. Social capital and active membership in the Ghana National
+ Health Insurance Scheme-a mixed method study. Inter J Equity Health.
+ 2015;14(1):118.
+ 9. Jehu-Appiah C, Aryeetey G, Agyepong I, Spaan E, Baltussen R. Household
+ perceptions and their implications for enrolment in the National Health
+ Insurance Scheme in Ghana. Health Policy Plann. 2012;27(3):222–33. 
+<section> 10. Parmar D, Williams G, Dkhimib F, Ndiaye A, Ankomah Asante F, Arhinful DK,
+ et al. Enrolment of older people in social health protection programs in
+ West Africa - does social exclusion play a part? Soc Sci Med. 2014;119:36–44.
+ 11. Perry M, Williams RL, Wallerstein N, Waitzkin H. Social capital and health
+ care experiences among low-income individuals. Am J Public Health. 2008;
+ 98(2):330–6.
+ 12. Uphoff EP, Pickett KE, Cabieses B, Small N, Wright J. A systematic review of
+ the relationships between social capital and socioeconomic inequalities in
+ health: a contribution to understanding the psychosocial pathway of health
+ inequalities. Inter J Equity Health. 2013;12(1):54.
+ 13. Ahern MM, Hendryx MS. Social capital and trust in providers. Soc Sci Med.
+ 2003;57(7):1195–203.
+ 14. Beaudoin CE, Wendel ML, Drake K. A study of individual-level social capital
+ and health outcomes: testing for variance between rural and urban
+ respondents. Rural Sociol. 2013;97(3):336–54.
+ 15. Coleman JS. Foundation of Social Theory. Cambridge: Harvard University
+ Press; 1990.
+ 16. Kawachi I. Commentary: social capital and health-making the connections
+ one step at a time. Int J Epidemiol. 2006;35(4):989–93.
+ 17. Kawachi I, Subrmanian SV, Kim D. Social capital and health. New York:
+ Springer Science; 2010.
+ 18. Szreter S, Woolcock M. Health by association? Social capital, social theory and
+ the political economy of public health. Int J Epidemiol. 2004;33(4):650–67.
+ 19. Arhinful D. The solidarity of self-interest. Research report. Leiden: African
+ Studies Centre; 2003.
+ 20. Frumence G, Nyamhanga TM. Social capital and self-rated health:
+ experiences from Makete district, Tanzania. Tanz J Health Res. 2017;19(3):1-8.
+ 21. Eriksson M. Social capital and health- implications for health promotion.
+ Glob Health Action. 2011;4(1):5611.
+ 22. Gilson L. Trust and the development of healthcare as a social institution.
+ Soc Sci Med. 2003;56:1453–68.
+ 23. Donfouet H, Essombe E, Mahieu P, Malin E. Community-based health
+ insurance and social capital: a review. Health Econ Rev. 2011;3(1):142–9.
+ 24. Poortinga W. Social relations or social capital? Individual and community
+ health effects of bonding social capital. Soc Sci Med. 2006;63(1):255–70.
+ 25. Zhang L, Wang H, Wang L, Hsiao W. Social capital and farmers’ willingness
+ to join newly established community–based health insurance in rural China.
+ Health Policy. 2006;76(2):233–42.
+ 26. Ko H, Kim H, Yoon CG, Kim CY. Social capital as a key determinant of
+ willingness to join community-based health insurance: a household survey
+ in Nepal. Public Health. 2018;160:52–61.
+ 27. Davis N, Preston C, Sahin I. ICT teacher training: evidence for multilevel
+ evaluation from a national initiative. Br J Educ Technol. 2009;40(1):135–48.
+ 28. Bradshaw CP, Koth CW, Bevans KB, Ialongo N, Leaf PJ. The impact of school-
+ wide positive behavioral interventions and supports (PBIS) on the
+ organizational health of elementary schools. Sch Psychol Q. 2008;23(4):462.
+ 29. Alhassan RK, Nketiah-Amponsah E, Spieker N, Arhinful DK, Ogink A, van
+ Ostenberg P, de Wit TFR. Effect of community engagement interventions
+ on patient safety and risk reduction efforts in primary health facilities:
+ evidence from Ghana. PLoS One. 2015;10(11):e0142389.
+ 30. Duku SKO, Nketiah-Amponsah E, Fenenga CJ, Arhinful DK, Janssens W,
+ Pradhan M. The effect of community engagement on Healthcare Utilization
+ and Health Insurance enrolment in Ghana – Results from a Randomized
+ Experience. Tinbergen Institute Discussion Paper TI-2018/017V.
+ 31. Fenenga CJ. A matter of trust - clients’ perspective on healthcare and
+ health insurance services in Ghana. Amsterdam: Ipskamp; 2015. ISBN: 978-
+ 
+<section> 90-367-7541-0
+ 32. Hassan E. Recall Bias can be a Threat to Retrospective and Prospective
+ Research Designs. Int J Epidemiol. 2006;(3)2:4.
+ 33. Waller N, Feuerstahler L, et al. A 7-day recall period for a clinical application of
+ the oral health impact profile questionnaire. Clin Oral Investig. 2016;20(1):91–9.
+ 34. KNCV Tuberculosis Fund. QUOTE -TB light, assessment guide 2007. The
+ 
+<section> Hague: KNCV. 2008.
+ 35. Kumi-Kyereme A, Amu H, Kofuor Maafo Darteh E. Barriers and motivations
+ for health insurance subscription in Cape Coast, Ghana: a qualitative study.
+ Arch Public Health. 2017;75:24.
+ 36. Ensor T, Chhun C, Kimsun T, McPake B, Edoka I. Impact of health financing
+ policies in Cambodia: a 20 year experience. Soc Sci Med. 2017;77:118–26.
+ 37. Reich MR, Harris J, Ikegami N, Maeda A, Cashin C, Araujo EC, et al. Moving
+ towards universal health coverage: lessons from 11 country studies. Lancet.
+ 2016;387(10020):811–6.
+ 
+<section> 38. Owusu-Sekyere E, Bagah DA. Towards a sustainable health care financing in
+ 
+<section> Ghana: is the national health insurance the solution? Pub Health Res. 2014;
+ 4(5):185–94.
+ 39. Van Minh H, Phuong NTK, Saksena P, James CD, Xu K. Financial burden of
+ household out-of pocket health expenditure in Viet Nam: findings from the
+ National Living Standard Survey 2002–2010. Soc Sci Med. 2013;96:258–63.
+ 40. Mebratie AD, Sparrow R, Yilma Z, Alemu G, Bedi AS. Dropping out of
+ Ethiopia’s community-based health insurance scheme. Health Policy Plann.
+ 2015;30(10):1296–306.
+ 41. Mladovsky P. Why do people drop out of community-based health
+ insurance? Findings from an exploratory household survey in Senegal. Soc
+ Sci Med. 2014;107:78–88.

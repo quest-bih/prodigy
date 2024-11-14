@@ -1,0 +1,1962 @@
+
+<section> Safety decision-­making
+ 
+<section> mobile app for intimate
+ 
+<section> prevention and response:
+ 
+<section> controlled trial in Kenya
+ 
+<section> Michele R Decker, 1,2,3 Shannon N Wood,
+ S Rachel Kennedy, 2 Nancy Perrin, 2 Catherine
+ Irene Wanjiru, 4 Ben Asira, 4 Ariel Frankel,
+ Amber Clough, 2 Richard Otieno, 4 Morris
+ 
+<section> To cite: Decker MR, Wood SN, Abstract
+ 
+<section> Hameeduddin Z, et al. Safety Introduction Intimate partner violence (IPV) threatens
+ decision-­making and planning women’s health and safety globally, yet services remain
+ 
+<section> mobile app for intimate partner
+ violence prevention and underdeveloped and inaccessible. Technology-­based
+ response: randomised controlled resources exist, however, few have been adapted and
+ trial in Kenya. BMJ Global Health tested in low-­resource settings. We evaluate the efficacy
+ 2020;5:e002091. doi:10.1136/ of a community-­partnered technology solution: culturally
+ bmjgh-2019-002091 and linguistically adapted version of the myPlan app, a
+ tailored safety decision-­making and planning intervention,
+ 
+<section> Handling editor Seye Abimbola administrated by trained lay professionals.
+ 
+<section> Methods This randomised, controlled, participant-­blinded
+ 
+<section> Received 16 October 2019
+ Revised 10 March 2020 superiority trial compares safety-­related outcomes at
+ Accepted 15 March 2020 baseline, immediate post intervention and 3-­month
+ follow-­up among women at risk of and experiencing IPV in
+ Nairobi, Kenya. Women were randomised (1:1 ratio) to: (1)
+ myPlan Kenya (intervention); or (2) standard IPV referrals
+ (control). Primary outcomes were safety preparedness,
+ safety behaviour and IPV; secondary outcomes include
+ resilience, mental health, service utilisation and self-­
+ blame.
+ 
+<section> Results Between April 2018 and October 2018,
+ participants (n=177 intervention, n=175 control) were
+ enrolled and randomly assigned; 312 (88.6%, n=157
+ intervention, n=155 control) were retained at 3 months.
+ Intervention participants demonstrated immediate
+ postintervention improvement in safety preparedness
+ relative to control participants (p=0.001). At 3 months,
+ intervention participants reported increased helpfulness
+ of safety strategies used relative to control participants
+ (p=0.004); IPV reduced in both groups. Among women
+ reporting the highest level of IPV severity, intervention
+ © Author(s) (or their
+ employer(s)) 2020. Re-­use participants had significant increase in resilience (p<0.01)
+ permitted under CC BY-­NC. No compared with controls, and significantly decreased risk
+ commercial re-­use. See rights for lethal violence (p<0.01).
+ and permissions. Published by Conclusions Facilitated delivery of a technology-­based
+ BMJ. safety intervention appropriately adapted to the context
+ For numbered affiliations see demonstrates promise in improving women’s IPV-­related
+ end of article.
+ health and safety in a low-­resource, urban setting.
+ 
+<section> Correspondence to Trial registration number Pan African Clinical Trial
+ Dr Michele R Decker; Registry (PACTR201804003321122).
+ 
+<section> ​mdecker@​jhu.​edu
+ 
+<section> and planning
+ 
+<section> partner violence
+ 
+<section> randomised
+ 
+<section> 1 Zaynab Hameeduddin,
+ 
+<section> Tallam, 4 Irene Akumu,
+ 5 Benjamin Omondi, 4 James Case,
+ Mwiti, 4 Nancy Glass 2,5,6
+ 
+<section> Key questions
+ 
+<section> What is already known?
+ 
+<section> ► Safety planning is a widely advocated intervention to
+ respond to intimate partner violence (IPV).
+ 
+<section> ► An mHealth-­based safety decision aid intervention
+ for IPV survivors has demonstrated reductions in
+ decisional conflict and increases in safety planning
+ behaviours.
+ 
+<section> ► To date, all mHealth safety planning interventions
+ have occurred in high-­income settings.
+ 
+<section> What are the new findings?
+ 
+<section> ► This study is, to our knowledge, the first trial eval-
+ uating a technology-­based intervention for IPV pre-
+ vention and response with support of trained lay
+ providers in a low-­income or middle-­income setting.
+ 
+<section> ► Survivors in the intervention group reported im-
+ provements in safety preparedness and increased
+ helpfulness of safety strategies used.
+ 
+<section> ► Among women at the highest levels of violence se-
+ verity, the intervention increased resilience (p<0.01)
+ relative to control condition, and significantly de-
+ creased risk for lethal violence by 3-­month follow-­
+ up (p<0.01).
+ 
+<section> What do the new findings imply?
+ 
+<section> ► Technology implemented by lay professionals can be
+ used to appropriately deliver safety interventions for
+ IPV survivors in low-­resource settings.
+ 
+<section> ► Tailored, app-­ based IPV prevention and response
+ tools may reduce the public health impact of IPV,
+ when situated alongside meaningful community-­
+ based violence prevention and response efforts.
+ 
+<section> Introduction
+ Intimate partner violence (IPV) threatens
+ the health and well-­being of women and girls
+ globally. Eliminating IPV and other forms of
+ gender inequity are targets of the sustainable
+ development goals. 1 Intimate partners perpe-
+ trate over one-­ third of female homicides. 
+<section> Non-­fatal IPV consequences include poor mental, phys-
+ ical and sexual health. 3 Evidence-­based prevention and
+ response is urgently needed, particularly in low/middle-­
+ income countries (LMICs), where support resources can
+ be scarce. In Kenya, an estimated 39% of ever-­married
+ women have experienced physical or sexual IPV.
+ Enabling social norms include male-­dominated decision-­
+ making and authority within relationships, as well as IPV
+ tolerance that challenges women’s ability to seek help
+ and identify abusive experiences. 5–7
+ While a comprehensive approach to IPV requires
+ addressing perpetration, sustained needs remain for
+ supporting IPV survivors, particularly in high-­prevalence
+ settings. Safety planning for harm reduction is one of
+ the most widely recommended interventions for IPV
+ prevention and response. Disclosing abuse and obtaining
+ support can reduce self-­blame 8 and revictimisation. 9 Yet
+ too few survivors receive formal support due to stigma,
+ self-­blame and gaps in logistics and infrastructure. 10 11 In
+ LMICs, limited available research shows that IPV survi-
+ vors engage in active, intentional harm reduction and
+ safety strategising, including engaging informal networks,
+ removing stressors/avoidance, minimising damage to
+ the self and family, and building personal resources. 12 In
+ Nairobi’s informal settlements, IPV survivors face a host
+ of barriers to safety, yet often take action steps in securing
+ financial resources and personal property.
+ Women often face multiple, competing priorities such
+ as privacy, children and financial security in considering
+ how to respond to IPV. Thus, a cornerstone of safety plan-
+ ning is clarification of personal priorities. Decision science,
+ which examines decision-­making processes and decisional
+ conflict resolution, is a novel and underutilised tool for the
+ IPV response. Decision aids can provide information about
+ healthcare options, and clarify personal priorities to reduce
+ decision-­related uncertainty and support decisions.
+ The first decision aid to address IPV and safety plan-
+ ning is myPlan, an interactive, personalised tool for survi-
+ vors. Content is delivered via a secure app, developed by
+ Johns Hopkins University (​www.​myplanapp.​org). myPlan
+ provides healthy relationship education, and solicits
+ information about a current intimate relationship,
+ including risk of severe and lethal violence, reproductive
+ coercion and safety priorities to prompt risk recogni-
+ tion and generate safety strategies and referrals tailored
+ to women’s priorities. 14 Key features include the self-­
+ assessed ‘red flags’, or signs of an unhealthy intimate rela-
+ tionship, and Danger Assessment, a validated measure of
+ risk factors for severe and lethal relationship violence ;
+ scores are converted to visuals to convey danger levels.
+ Subsequently users complete an interactive prioritisa-
+ tion of safety priorities (eg, well-­ being of child(ren),
+ privacy, etc) via systematic pairwise comparison. Based
+ on inputs, a personalised safety plan is generated with
+ relevant referral information. Extensive electronic safety
+ features include a four-­digit security personal identifi-
+ cation number (PIN), a ‘dummy’ PIN that redirects to
+ alternate content, and access via web or downloadable
+ app to maximise options. In addition to decision science,
+ myPlan is rooted theoretically in social cognitive theory,
+ empowerment 17 and trauma-­ informed care, 18 which
+ emphasise safety and empowerment through agency in
+ decision-­making and healing. myPlan works to promote
+ long-­term support and safety by providing support for (1)
+ defining healthy relationships; (2) safety behaviour, by
+ helping women identify the severity of the violence and
+ potential danger to self and family and providing a set of
+ options; (3) decision-­making, via clarifying safety prior-
+ ities to reduce decisional conflict and enhancing safety
+ preparedness; and (4) healing, via validating messages to
+ counter the culture of victim blaming and stigma, bolster
+ resilience and enable safety behaviour and connection to
+ both formal services (eg, hotline, healthcare providers,
+ advocates) and informal (family/friends, coworkers)
+ networks. Reducing decisional conflict and self-­blame,
+ and enhancing resilience and safety behaviours are crit-
+ ical short-­term outcomes on the pathway to safety and
+ violence prevention. myPlan has been implemented
+ with racially and ethnically diverse populations in high-­
+ resource settings (eg, USA, Canada, New Zealand and
+ Australia). It has generated reductions in decisional
+ conflict about safety, 19 20 increases in use of helpful safety
+ strategies, 20 separation from abusive partners 20 and in
+ some cases, reductions in violence severity. 21 The myPlan
+ safety decision and planning intervention was adapted
+ to the context of Nairobi, Kenya through an extensive
+ community-­ partnered formative process. 22 Specifically,
+ key informant interviews and focus group discussions
+ with violence support service providers and female IPV
+ survivors were used to refine app content and format.
+ Recommendations emphasised graphics and efficiency,
+ and the resulting adapted app was piloted and further
+ refined based on user feedback.
+ To test the intervention’s efficacy on safety and health
+ outcomes over 3 months, we conducted a longitudinal
+ randomised controlled trial (RCT) comparing the inter-
+ vention with a control condition of standard IPV-­related
+ referrals to community-­ based advocacy and support
+ services. In-­depth interviews (IDIs) contextualised results
+ and clarified intervention mechanisms. We hypothesised
+ that the intervention would increase safety preparedness,
+ reduce decisional conflict, increase use and helpfulness
+ of safety behaviours, and reduce IPV exposure (primary
+ outcomes). In addition, we examined secondary
+ outcomes that include resilience, depression, use of IPV
+ support services, self-­ blame, recognition of IPV, self-­
+ efficacy, relationship quality and risk for severe/lethal
+ violence. This RCT was conducted in Nairobi, Kenya to
+ extend the limited knowledge base on mHealth in LMICs
+ and advance the global priority of evidence-­based inter-
+ ventions that prevent and respond to IPV.
+ 
+<section> Methods
+ Study design and participants
+ This community-­ based RCT with a one-­ to-­ one alloca-
+ tion ratio was conducted in three informal settlements 
+<section> in Nairobi, Kenya in collaboration with Ujamaa-­Africa,
+ a violence prevention and response non-­governmental
+ organisation. Ujamaa’s Mashinani Program provides
+ economic empowerment to IPV survivors via support
+ groups, coupled with microfinance loans, affording the
+ team unique insight into local IPV dynamics. Study sites
+ were Korogocho/Kariobangi, Dandora and Huruma/
+ Mathare; these sites are densely populated, low-­income
+ informal settlement communities with a host of social and
+ economic hazards for women, and a range of community-­
+ based services. For expedience and sensitivity in enrolling
+ IPV survivors for this randomised trial, sites were selected
+ based on the established presence of Mashinani, relative
+ economic diversity and geographical proximity.
+ Community-­based methods, including flyers, commu-
+ nity presentations and word of mouth, recruited women
+ who had experienced physical or sexual IPV, or reported
+ being afraid of their partner in the previous 3 months,
+ resided in target communities with no plans to move
+ in the next 6 months and spoke English or Swahili. Age
+ eligibility was restricted to 18–35 years; this population
+ was identified in the formative phase as high risk for IPV
+ and likely to have highest technological literacy. Eligi-
+ bility confirmation, oral informed consent and all study
+ procedures occurred in person in private, community-­
+ based, dedicated offices with skilled research assistants.
+ The intervention adaptation phase, study protocol and
+ procedures are available elsewhere.
+ 
+<section> Randomisation and masking
+ This randomised, controlled, participant-­blinded superi-
+ ority trial entailed two parallel groups. Participants were
+ randomly assigned (1:1) to receive either myPlan Kenya
+ intervention or a standard of care control condition,
+ stratified by study site. Computerised blocked randomi-
+ sation provided site-­level stratification within the myPlan
+ Kenya app.
+ All participants and staff were blinded to intervention
+ status with the exception of team members adminis-
+ tering the intervention. The randomisation sequence
+ (concealed from study staff) was programmed into
+ a secure tracking database, separate from the study
+ website, by the study programmer, who had no partici-
+ pant contact.
+ 
+<section> Procedures
+ 
+<section> Participants completed the baseline survey with a trained
+ research assistant in a private space in a community-­based
+ organisation in each of the three settlements. The tablet
+ computer was used for consent documentation, survey
+ data collection and analytics, such as time to completion.
+ Following baseline survey, tablet-­ based randomisation
+ directed participants to the control or the intervention
+ conditions, which were also administered via the tablet.
+ Trained community health volunteer (CHVs), who
+ worked with IPV survivors in the study communities and
+ were technology literate, assisted in the use of the myPlan
+ Kenya intervention app on the study tablet computer,
+ based on formative phase recommendations to use CHVs
+ to ease use and maximise comfort. 22 The research team
+ and CHVs underwent a month-­ long training focused
+ on data collection procedures, app content, tablet use,
+ survey measures and ethical training specific to research
+ on gender-­based violence.
+ 
+<section> myPlan Kenya app intervention
+ The myPlan Kenya app sections included the following:
+ the Healthy Relationships section is educational and
+ helps women to define healthy and unhealthy relation-
+ ships as they reflect on their own relationship. My Rela-
+ tionship asked the user to provide information on their
+ relationship characteristics (eg, living together, married/
+ partnered, children in home) to inform the tailoring of
+ safety strategies. Red Flags assessed warning signs (eg,
+ extreme jealousy, insults, threats, reproductive control).
+ My Safety section provided an opportunity to self-­assess
+ risk for severe and lethal violence using the validated
+ Danger Assessment scale. 15 In the interactive My Priori-
+ ties section, users made pairwise comparisons to weigh
+ priorities such as dignity and respect, feelings for partner,
+ health and children using a clickable ‘sliding bar’. The
+ My Plan section provided the tailored safety plan that
+ is populated based on data supplied by the user in the
+ previous sections. The safety plan was followed by supple-
+ mental information About Violence, Harmful Beliefs,
+ and relevant Resources.
+ 
+<section> Control condition
+ The control condition consisted of a standard ‘usual
+ care’ set of referrals to IPV-­related legal, health, safety,
+ counselling and financial resources. For modality compa-
+ rability, content was delivered in an app-­like webpage
+ with research staff available for assistance.
+ 
+<section> Immediate post intervention
+ Following completion of intervention or control app
+ content, participants completed a brief tablet-­ based
+ exit survey to examine immediate safety preparedness.
+ Research assistants then issued a brief verbal screener to
+ monitor for any emotional upset triggered by the survey,
+ and offered participants a small grocery item and trans-
+ port reimbursement. All participants were offered a
+ facilitated referral for IPV-­related medical, psychosocial
+ or economic support. Participants in both groups had
+ the option to return to the study centre to review their
+ safety plan and referrals prior to 3-­month follow-­up visit,
+ though no participants opted to do so.
+ 
+<section> Three-month follow-up data collection and retention
+ Participants were contacted for follow-­up data collection
+ beginning 1 week prior to the 3-­month anniversary of
+ their baseline study visit. Following informed consent,
+ data collection procedures were identical to those at
+ baseline. The myPlan Kenya app was offered to control
+ participants following data collection. 
+<section> In-depth interview
+ Intervention participants retained at follow-­ up were
+ eligible to participate in an IDI. Purposive sampling
+ (n=30) ensured approximately equal distribution of
+ baseline severity of IPV, and study sites (n=10 IDIs per
+ site). Interest and scheduling were assessed immediately
+ after follow-­up survey data collection, with all interviews
+ occurring the following week with the same research
+ team member. Semistructured interview guides focused
+ on participant’s experiences with and recommendations
+ for the intervention. Interviews were audio recorded,
+ transcribed verbatim and translated to English language.
+ Coding used inductive thematic analysis and focused on
+ usefulness of the app and challenges/future recommen-
+ dations; both presented herein. Emergent themes and
+ subthemes detailed domains of helpfulness of strategies
+ including referrals, and recommendations. Illustrative
+ quotes that reflect overarching themes are presented.
+ Quantitative results and qualitative themes were triangu-
+ lated via convergence matrixes.
+ 
+<section> Outcomes
+ 
+<section> Primary a priori outcomes included safety prepared-
+ ness, decisional conflict, use and helpfulness of safety
+ strategies and IPV experience. We report psychometric
+ properties for scales at baseline (n=352). Measures
+ were vetted locally and piloted with CHVs prior to use,
+ resulting in minor refinements to enhance readability.
+ The value of material provided with regard to safety
+ preparedness, for example, how much the material
+ reviewed assisted in decision-­ making and weighing
+ risk/benefits, was assessed immediately following
+ completion of intervention or control condition (exit
+ survey) via 10-­item Likert scale (responses: 0—not at all
+ to 4—a great deal; range: 0–40; α=0.90).
+ 
+<section> With a 12-­item adapted Decisional Conflict Scale,
+ participants rated knowledge, clarity and confidence
+ in safety options and risk/benefits of potential safety
+ options on a Likert scale (responses: 0—not at all to
+ 4—a great deal; range: 0–48; α=0.83). 14 Decisional
+ conflict subscales included: uninformed (α=0.74),
+ unclear values (α=0.52), lack of support (α=0.60) and
+ uncertainty (α=0.81).
+ Metrics specific to safety strategy use and helpfulness
+ centred on five safety strategies specific to the myPlan
+ app content, 9 14 for example, left the house temporarily
+ to put space between you and your partner, developed
+ an emergency signal to use with others when you felt you
+ were in danger, put a plan into place for how to keep
+ children safe. For each strategy, participants reported
+ use (dichotomous), and, where applicable, helpful-
+ ness (responses: 1—not helpful to 5—very helpful).
+ 
+<section> Responses generated two summary metrics: use of safety
+ strategies reflecting number of strategies used (range:
+ 0–5), and helpfulness of strategies used, reflecting both
+ use and helpfulness by dividing summed helpfulness by
+ number of strategies used (range: 0—never used to 5—
+ used and found helpful).
+ 
+<section> Physical and sexual IPV were assessed with short
+ forms of the Revised Conflicts and Tactics Scale
+ 
+<section> (CTS-2; α=0.87). 25 For each of 10 violent behaviours,
+ women were asked frequency of occurrence in the past
+ 3 months: never (0), 1–2 times (1), 3+ times (2) and
+ scores summed across behaviours (range: 0–20). The
+ 10-­item Women’s Experiences of Abuse Scale 26 captured
+ emotional abuse (responses: 1—agree strongly to 6—
+ disagree strongly; range: 10–60; α=0.89). Reproduc-
+ tive coercion was assessed via nine-­item existing scale
+ (α=0.86), summarised into a binary measure indicative
+ of experience/no experience.
+ Secondary outcomes included resilience (10-­ item
+ 
+<section> Connor-­Davidson Scale; responses: 0—not true at all
+ to 4—true nearly all the time; range: 0–40; α=0.82),
+ depression (10-­item Center for Epidemiologic Studies
+ 
+<section> Depression Scale ; responses: 0—not at all/less than
+ 1 day to 3—nearly every day; range: 0–30; α=0.82;
+ modelled continuously and dichotomously with depres-
+ sion indicated at score≥10), self-­blame (three-­item
+ adaptation of the characterological subscale of the
+ 
+<section> Sexual Victimization Attributions Measure ; responses:
+ 0—never to 4—almost always; range: 0–12; α=0.69),
+ recognition of abuse (six-­item adapted Abusive Behav-
+ iors Scale ; responses: 0—not abusive at all to 4—very
+ abusive; range: 0–24; α=0.78), self-­efficacy (six-­item
+ 
+<section> Generalized Self-­ 
+<section> Efficacy Scale ; responses: 1—not
+ true at all to 4—exactly true; range: 6–24; α=0.80),
+ safety-­specific self-­efficacy (four-­item Self-­Efficacy for
+ 
+<section> Safety in Relationship Scale ; responses: 1—strongly
+ disagree to 5—strongly agree; range: 4–20; α=0.70) and
+ risk for severe/lethal violence (20-­item Danger Assess-
+ ment Scale ; range 0–20; α=0.84; intervention partic-
+ ipants only). Relationship quality was added based
+ on local input (four-­item scale adapted from CTS-2
+ negotiation subscale; responses: 0—never to 3—almost
+ always; range: 0–12; α=0.70). 25 Support service consid-
+ eration and use, respectively, were assessed for health,
+ emergency, police/chief, legal, crisis hotline, counsel-
+ ling, housing and child services individually. Self-­blame
+ was the only measure from which items were dropped
+ to improve psychometric properties (α improved from
+ 0.58 to 0.69 after dropping from four to three items).
+ 
+<section> Analysis
+ 
+<section> This superiority trial aimed to evaluate myPlanKenya as
+ compared with the standard of care control condition,
+ and was designed with 80% power to detect differences
+ in IPV between the two study groups, assuming 24%
+ prevalence in the intervention compared with 39% in
+ the control, 15% attrition and alpha at 0.05; 350 partic-
+ ipants were required (175 per group).
+ Analyses were conducted from November 2018 to
+ April 2019, using STATA V.14. The intent-­ to-­ treat,
+ differences-­ in-­ differences approach used random
+ effects logistic and linear regression models. Primary
+ analysis used a group*time (pre/post) interaction
+ term and accounted for within-­person clustering and 
+<insert> Figure 1 Consolidated Standards of Reporting Trials. 
+<iend>
+
+ recruitment site. Main effects analyses stratified by
+ intervention group explored effects underpinning
+ the interaction term. Significance was set at 5%. Mean
+ imputation handled small amounts of missing data
+ (<2%) for the majority of outcomes and up to <6%
+ for resilience, decisional conflict and exit-­survey safety
+ preparedness.
+ To explore effect modification, analyses were strat-
+ ified based on IPV severity, resilience and previous
+ (3 months prior to baseline) violence-­ related help-­
+ seeking, with resulting group by time interaction coef-
+ ficients compared by strata.
+ 
+<section> Patient and public involvement
+ This community-­ engaged study sought public and
+ end-­ user input at all phases. During the formative
+ research stage, input from IPV survivors and stake-
+ holders informed and finalised myPlan Kenya content,
+ supported implementation and length of administra-
+ tion. CHV and end-­user input informed the refinement
+ of the logic model, and selection of survey constructs
+ (eg, relationship quality), and ensured face validity and
+ accurate translation of all survey measures. Interven-
+ tion and surveys were piloted before implementation to
+ assess time burden. All recruitment was conducted by
+ CHVs who had worked with IPV survivors in the selected
+ communities. Preliminary findings were disseminated
+ at an event in November 2018 involving clinics, govern-
+ ment representatives, elders/faith leaders, community-­
+ based organisations and CHVs from each of the study
+ communities. Readiness assessment for further dissem-
+ ination is underway.
+ 
+<section> Results
+ 
+<section> Quantitative findings
+ Participant recruitment occurred from April to August
+ 2018, with 3-­month follow-­up from July 2018 to October
+ 2018. Of the 407 participants screened for eligibility,
+ 352 were consented and enrolled at baseline (86.48%;
+ n=175 control, n=177 intervention; figure 1). A total of
+ 312 participants were retained at 3-­month follow-­up and
+ included in subsequent analyses (88.64%, n=155 control,
+ n=157 intervention). Commonly cited reasons for loss
+ to follow-­up were inability to return (n=16), relocation
+ (n=11) and inability to contact using safe contact infor-
+ mation (n=10). Three participants asked to discontinue
+ the study. One participant completed baseline data collec-
+ tion but did not complete the intervention; per intention
+ to treat, she was included in the difference-­in-­difference
+ analysis. Attrition was non-­differential on baseline demo-
+ graphics and IPV severity; retained participants were
+ significantly (p<0.05) more likely to report depressive
+ symptoms consistently and report their abusive partner
+ had concurrent partners.
+ Participants were predominantly married (84.94%;
+ table 1) and cohabitating with their partner (85.90%),
+ with a mean age of 26.52 years old (SD=4.70) and 2.06
+ children (SD=1.14). Slightly more than half (51.28%)
+ had completed primary school or less and the vast
+ majority (94.23%) were unemployed. Randomisation
+ achieved equal distribution by group.
+ Immediately post intervention, safety preparedness
+ was higher for intervention participants as compared
+ with control (36.05 vs 34.52; b=1.42; p<0.05; table 2),
+ controlling for baseline decisional conflict. For use of
+ helpful safety strategies, a group by time interaction was 
+<insert> Overall Study arm
+ Overall
+ (n=312)
+ n (%)
+ Control
+ (n=155)
+ n (%) Intervention (n=157) n (%)
+ P-­value across
+ arms
+ 0.74
+ Study site
+  Korogocho 131 (41.99) 62 (40.00) 69 (43.95)
+  Dandora 105 (33.65) 55 (35.48) 50 (31.85)
+  Huruma 76 (24.36) 38 (24.52) 38 (24.20)
+ Age 26.52 (4.70) 26.34 (4.73) 26.71 (4.69) 0.49
+ 0.98
+ Ethnicity
+  Kikuyu 126 (40.38) 65 (41.94) 61 (38.85)
+  Luo 84 (26.92) 41 (26.45) 43 (27.39)
+  Luhya 48 (15.38) 23 (14.84) 25 (15.92)
+  Borana 11 (3.53) 5 (3.23) 6 (3.82)
+  Kamba 31 (9.94) 16 (10.32) 15 (9.55)
+  Other 12 (3.85) 5 (3.23) 7 (4.46)
+  Christian 288 (92.31) 142 (91.61) 146 (92.99)
+  Muslim 23 (7.37) 13 (8.39) 10 (6.37)
+  Other 1 (0.32) 0 (0.00) 1 (0.64)
+ Recent migration to Nairobi 79 (25.32) 39 (25.16) 40 (25.48) 0.95
+  Boyfriend 40 (12.82) 19 (12.26) 21 (13.38) 0.69
+  Husband 265 (84.94) 134 (86.45) 131 (83.44)
+  Separated 3 (0.96) 1 (0.65) 2 (1.27)
+ Religion
+ 0.49
+ Current relationship status
+  Other
+ Lives with current partner
+ Number of children
+ 4 (1.28) 1 (0.65) 3 (1.91)
+ 268 (85.90) 133 (85.81) 135 (85.99)
+ 2.06 (1.14)
+ 0.96
+ 2.05 (1.17) 2.07 (1.12) 0.89
+ 0.75
+ Highest level of education completed
+  Primary or less 160 (51.28) 76 (49.03) 84 (53.50)
+  Some secondary 80 (25.64) 42 (27.10) 38 (24.20)
+  Secondary 62 (19.87) 32 (20.65) 30 (19.11)
+  Vocational 8 (2.56) 4 (2.58) 4 (2.55)
+  University or higher 2 (0.64) 1 (0.65) 1 (0.64)
+ Currently unemployed 294 (94.23) 147 (94.84) 147 (93.63) 0.65
+ Concurrent partner (participant)
+ Concurrent partner (partner)
+ 28 (8.97)
+ 175 (56.09)
+ 13 (8.39)
+ 91 (58.71)
+ 15 (9.55)
+ 84 (53.50)
+ 0.72
+ 0.37
+ Italics indicate continuous variable reporting mean and SD.
+ Table 1 Participant characteristics at baseline by study arm (n=312 retained) 
+<iend>
+
+ identified (b =0.43; p=0.004), reflecting increases
+ 
+<section> interaction
+ in the intervention arm (b =0.40; p<0.001). Results
+ 
+<section> intervention
+ were null on decisional conflict overall, which decreased
+ in both groups; an intervention effect was identified
+ for the uninformed decisional conflict subscale (b
+ 
+<section> interac-
+ =−1.52; p=0.03). Intervention results were null for IPV
+ 
+<section> tion
+ including the CTS summary score, physical violence,
+ sexual violence, both physical and sexual violence, and
+ reproductive coercion, with both groups reporting
+ decreases over time (p<0.05). Emotional abuse showed
+ a group by time interaction effect (b =3.33; p=0.01)
+ 
+<section> interaction
+ favouring the control arm, prompted by decreases in
+ the control arm (b =−4.78; p<0.001) and sustained
+ 
+<section> control
+ emotional abuse in the intervention arm.
+ In secondary outcomes, resilience demonstrated a
+ non-­significant trend favouring the intervention (b
+ 
+<section> interac-
+ =2.13; p=0.06). Intervention results were null for safety-­
+ 
+<section> tion
+ specific self-­efficacy, which increased for both groups,
+ and depression scores, which decreased for both groups.
+ No between-­group changes were observed in considering 
+<section> Continued
+ 
+<section> for 
+<section> interaction
+ 
+<section> value
+ 
+<section> 0.004
+ 
+<section> 0.06 
+<section> 0.10 
+<section> 0.03 
+<section> 0.38 
+<section> 0.94 
+<section> 0.59 
+<section> 0.66 
+<section> 0.54 
+<section> 0.37 
+<section> 0.45 
+<section> 0.01
+ 
+<section> P
+ 
+<section> control† 
+<section> effect 
+<section> CI)§ 
+<section> estimate 
+<section> 0.66) 
+<section> 0.44) 
+<section> −0.15) 
+<section> 0.37) 
+<section> 0.87) 
+<section> 0.51) 
+<section> 1.30)
+ 
+<section> 0.73) 
+<section> 3.66) 
+<section> 3.29) 
+<section> 2.93) 
+<section> 5.92)
+ 
+<section> Interaction (95%
+ 
+<section> to (n=312) 
+<section> to 
+<section> to 
+<section> to to to to to to 
+<section> to to to to
+ 
+<section> intervention OR/b Effect 0.32 
+<section> (−0.01 
+<section> 0.43 
+<section> (0.14 −2.33 
+<section> (−5.11 −1.52 
+<section> (−2.89 −0.29 
+<section> (−0.96 
+<section> 0.04 
+<section> (−0.94 −0.19 
+<section> (−0.90 
+<section> 0.24 
+<section> (−0.83 
+<section> 0.55 
+<section> (0.08 1.45 
+<section> (0.64 1.35 
+<section> (0.62 3.33 
+<section> (0.74
+ 
+<section> CI)
+ 
+<section> (95%
+ 
+<section> −2.60) 
+<section> −1.26) 
+<section> −0.27) 
+<section> to 
+<section> −0.49) 
+<section> −2.09)
+ 
+<section> 2.82) 
+<section> follow-­up 
+<section> 0.41) 
+<section> 0.62) 
+<section> (−1.52 0.65) 
+<section> 0.72) 
+<section> 0.72) 
+<section> 0.46)
+ 
+<section> Difference Coefficient Intervention
+ 
+<section> 1.42** 
+<section> to 
+<section> (0.03 CI)‡ 
+<section> (n=157) 
+<section> 0.17 
+<section> to 
+<section> (−0.08 *** 
+<section> 0.40 
+<section> to 
+<section> (0.18 
+<section> *** 
+<section> −4.60 
+<section> to 
+<section> (−6.60 *** 
+<section> −2.26 
+<section> to 
+<section> (−3.27 ** 
+<section> −0.73 
+<section> to 
+<section> (−1.18 ∉ −0.60 
+<section> 0.04) 
+<section> −1.01*** 
+<section> to 
+<section> (−1.54 
+<section> −2.87*** 
+<section> to 
+<section> (−3.64 0.14** 
+<section> to 
+<section> (0.03 0.43** 
+<section> to 
+<section> (0.25 0.42** 
+<section> to 
+<section> (0.25 −1.45 
+<section> to 
+<section> (−3.37
+ 
+<section> to
+ 
+<section> (95%
+ baseline
+ 
+<section> −0.31) 
+<section> to 
+<section> −0.08) 
+<section> −0.34) 
+<section> −2.36) 
+<section> −3.01)
+ 
+<section> OR/coefficient 0.08) 
+<section> 0.17) 
+<section> 0.20) 
+<section> (−0.92 0.78) 
+<section> 0.55) 
+<section> 0.55)
+ 
+<section> Difference
+ 
+<section> value 
+<section> 0.03 
+<section> Control 
+<section> (n=155) 
+<section> −0.15 
+<section> to 
+<section> (−0.39 −0.03 
+<section> to 
+<section> (−0.23 * 
+<section> −2.26 
+<section> to 
+<section> (−4.21 −0.74 
+<section> to 
+<section> (−1.69 ∉ −0.43 
+<section> 0.06) 
+<section> −0.57*** 
+<section> to 
+<section> (−1.21 −0.82** 
+<section> to 
+<section> (−1.29 
+<section> −3.11*** 
+<section> to 
+<section> (−3.85 0.26** 
+<section> to 
+<section> (0.08 
+<section> 0.29*** 
+<section> to 
+<section> (0.16 
+<section> 0.31*** 
+<section> to 
+<section> (0.18 
+<section> −4.78*** 
+<section> to 
+<section> (−6.55
+ 
+<section> P
+ 
+<section> (n=312)
+ 
+<section> (SD)
+ 
+<section> Intervention
+ 
+<section> outcomes mean
+ 
+<section> (n=157) 
+<section> 2.90 
+<section> (1.35) 
+<section> 3.51 
+<section> (1.12) 
+<section> 19.13 
+<section> (10.84) 
+<section> 7.76 
+<section> (5.13) 
+<section> 3.15 
+<section> (2.35) 
+<section> 5.30 
+<section> (3.25) 
+<section> 2.97 
+<section> (2.49) 
+<section> 9.76 
+<section> (5.74) 
+<section> (91.72) 
+<section> (78.98) 
+<section> (77.71) 
+<section> 49.26 
+<section> (11.28)
+ 
+<section> (n=157)
+ 
+<section> follow-­up
+ 
+<section> intervention (SD) 
+<section> (n=155)
+ 
+<section> Intervention (5.94) 
+<section> mean
+ 
+<section> secondary 36.05 
+<section> 3-­month 
+<section> (%) 
+<section> Control 
+<section> 2.54 
+<section> (1.39) 
+<section> 3.11 
+<section> (1.07) 
+<section> 21.99 
+<section> (10.57) 
+<section> 9.19 
+<section> (4.84) 
+<section> 3.58 
+<section> (2.24) 
+<section> 5.76 
+<section> (3.47) 
+<section> 3.36 
+<section> (2.48) 
+<section> 9.25 
+<section> (5.52) 
+<section> (92.90) 
+<section> (79.35) 
+<section> (77.42) 
+<section> 47.38 
+<section> (12.67)
+ 
+<section> n
+ 
+<section> and Intervention
+ 
+<section> (SD)
+ 
+<section> primary intervention) 
+<section> mean 
+<section> (n=157) 
+<section> 2.73 
+<section> (1.28) 
+<section> 3.12 
+<section> (1.19) 
+<section> 23.27 
+<section> (10.17) 
+<section> 10.02 
+<section> (4.84) 
+<section> 3.88 
+<section> (2.36) 
+<section> 5.91 
+<section> (3.34) 
+<section> 3.99 
+<section> (2.72) 
+<section> 12.63 
+<section> (4.99) 
+<section> (98.73) 
+<section> (89.81) 
+<section> (89.17) 
+<section> 50.71 
+<section> (11.52)
+ 
+<section> for
+ 
+<section> analysis 
+<section> (n=155) (SD) 
+<section> (n=155)
+ 
+<section> post (6.69) 
+<section> follow-­up 
+<section> mean
+ 
+<section> Difference-­in-­difference (immediate Control 
+<section> 34.52 
+<section> Baseline 
+<section> (%) 
+<section> Control 
+<section> 2.69 
+<section> (1.24) 
+<section> 3.14 
+<section> (1.12) 
+<section> 24.24 
+<section> (9.73) 
+<section> 9.94 
+<section> (4.70) 
+<section> 4.01 
+<section> (2.35) 
+<section> 6.33 
+<section> (3.29) 
+<section> 4.17 
+<section> (2.49) 
+<section> 12.36 
+<section> (4.47) 
+<section> (98.06) 
+<section> (92.90) 
+<section> (91.61) 
+<section> 52.16 
+<section> (9.24)
+ 
+<section> 3-­month
+ 
+<section> n
+ 
+<section> outcome preparedness 
+<section> at 
+<section> strategies 
+<section> safety 
+<section> score 
+<section> violence 
+<section> violence 
+<section> and 
+<section> score
+ 
+<section> outcomes 
+<section> safety of used 
+<section> conflict 
+<section> Uninformed 
+<section> values 
+<section> support 
+<section> Uncertainty 
+<section> summary 
+<section> physical 
+<section> sexual 
+<section> physical 
+<section> violence 
+<section> summary
+ 
+<section> survey Helpfulness
+ 
+<section> 2 
+<section> Table 
+<section> Exit 
+<section> Safety 
+<section> Primary of 
+<section> Use 
+<section> strategies Decisional summary 
+<section>   
+<section> Unclear 
+<section>   
+<section> of 
+<section> Lack 
+<section>   
+<section>   
+<section> IPV 
+<section> CTS 
+<section>   
+<section>  Any  Any  Both 
+<section> sexual 
+<section> WEB 
+<section> 0.94 
+<section> 0.06 
+<section> 0.05 
+<section> 0.80 
+<section> 0.89 
+<section> 0.75 
+<section> 1.00 
+<section> 0.44 
+<section> 0.46 
+<section> 0.68 
+<section> 0.60 
+<section> term
+ 
+<section> –
+ 
+<section> control† 
+<section> interaction
+ 
+<section> 4.32) 
+<section> 0.00) 
+<section> 1.27) 
+<section> 0.81) 
+<section> 0.77) 
+<section> 0.88) 
+<section> 0.36)
+ 
+<section> 1.83) 
+<section> 3.80) 
+<section> 2.32) 
+<section> 1.00)
+ 
+<section> to to 
+<section> to to to 
+<section> to to to 
+<section> to to to to from
+ 
+<section> intervention 0.98 
+<section> (0.52 2.13 
+<section> (−0.05 −0.78 
+<section> (−1.57 −0.18 
+<section> (−1.64 
+<section> 1.09 
+<section> (0.31 1.13 
+<section> (0.50 1.00 
+<section> (1.00 0.23 
+<section> (−0.35 −0.46 
+<section> (−1.69 −0.23 
+<section> (−1.35 −0.13 
+<section> (−0.62 
+<section> b
+ 
+<section> CI) 
+<section> – 
+<section> regression
+ 
+<section> (95%
+ 
+<section> −1.05) 
+<section> −0.17)
+ 
+<section> 1.82) 
+<section> 1.02) 
+<section> 0.53) 
+<section> 0.09) 
+<section> 1.27)
+ 
+<section> 0.97) 
+<section> 1.27) 
+<section> 1.24) 
+<section> 1.00) 
+<section> 0.72)
+ 
+<section> Difference Coefficient linear
+ 
+<section> 0.61* 
+<section> to 
+<section> (0.39 0.17 
+<section> to 
+<section> (−1.47 ∉ 
+<section> 0.48 
+<section> to 
+<section> (−0.05 
+<section> −2.17*** 
+<section> to 
+<section> (−3.28 
+<section> 0.47 
+<section> to 
+<section> (0.18 0.74 
+<section> to 
+<section> (0.44 1.00 
+<section> to 
+<section> (1.00 ∉ 
+<section> 0.13 
+<section> to 
+<section> (−0.28 −0.78 
+<section> to 
+<section> (−1.64 
+<section> 0.46 
+<section> to 
+<section> (−0.36 0.38* 
+<section> to 
+<section> (0.03 
+<section> −0.80** 
+<section> to 
+<section> (−1.43 
+<section> site. 
+<section> and 
+<section> and Abuse.
+ 
+<section> outcomes)
+ 
+<section> conflict of
+ 
+<section> −0.50) 
+<section> −1.02) 
+<section> 0.32) 
+<section> 0.57) 
+<section> 1.47) 
+<section> Experiences
+ 
+<section> 0.96) 
+<section> 1.85) 
+<section> 0.95) 
+<section> 1.12) 
+<section> 1.00) 
+<section> 0.85)
+ 
+<section> decisional
+ (binary
+ 
+<section> value 
+<section> 0.62* 
+<section> to 
+<section> (0.41 
+<section> −1.96** 
+<section> to 
+<section> (−3.42 1.26*** 
+<section> to 
+<section> (0.68 
+<section> −1.98*** 
+<section> to 
+<section> (−2.93 0.44* 
+<section> to 
+<section> (0.20 0.67 
+<section> to 
+<section> (0.40 1.00 
+<section> to 
+<section> (1.00 −0.10 
+<section> to 
+<section> (−0.52 −0.32 
+<section> to 
+<section> (−1.21 
+<section> 0.69 
+<section> to 
+<section> (−0.09 0.51** 
+<section> to 
+<section> (0.16 term Women’s
+ 
+<section> P – 
+<section> baseline
+ 
+<section> interaction
+ 
+<section> (SD) 
+<section> for WEB,
+ 
+<section> mean calculated 
+<section> adjusting 
+<section> for ratio;
+ 
+<section> (74.34) 
+<section> 17.95 
+<section> (9.56) 
+<section> 4.80 
+<section> (2.91) 
+<section> 18.32 
+<section> (6.19) 
+<section> (92.36) 
+<section> (69.29) 
+<section> (75.16) 
+<section> 6.06 
+<section> (1.97) 
+<section> 18.65 
+<section> (5.39) 
+<section> 19.04 
+<section> (4.57) 
+<section> 11.98 
+<section> (1.92) 
+<section> 10.78 
+<section> (3.97) 
+<section> ORs
+ 
+<section> (n=157) odds
+ 
+<section> were ***=p<0.001. preparedness, follow-­up;
+ 
+<section> OR,
+ 
+<section> (coefficients)
+ 
+<section> Intervention outcomes). violence;
+ 
+<section> and
+ 
+<section> (72.33) 
+<section> 17.33 
+<section> (7.68) 
+<section> 4.92 
+<section> (3.09) 
+<section> 18.78 
+<section> (6.43) 
+<section> (91.61) 
+<section> (71.43) 
+<section> (70.32) 
+<section> 6.21 
+<section> (1.93) 
+<section> 18.94 
+<section> (5.17) 
+<section> 19.13 
+<section> (4.09) 
+<section> 12.09 
+<section> (1.66) 
+<section> **=p<0.01; safety baseline 
+<section> partner
+ 
+<section> – 
+<section> regression (continuous survey
+ 
+<section> *=p<0.05; between intimate
+ 
+<section> exit
+ 
+<section> linear
+ 
+<section> intervention) 
+<section> (SD) 
+<section> mean 
+<section> (82.55) 
+<section> 17.78 
+<section> (7.98) 
+<section> 4.32 
+<section> (3.04) 
+<section> 20.49 
+<section> (5.78) 
+<section> (96.18) 
+<section> (75.19) 
+<section> (75.16) 
+<section> 5.94 
+<section> (2.16) 
+<section> 19.42 
+<section> (4.58) 
+<section> 18.58 
+<section> (4.20) 
+<section> 11.61 
+<section> (1.72) 
+<section> 11.58 
+<section> (3.63) 
+<section> and 
+<section> SD 
+<section> t-­test 
+<section> and 
+<section> =p<0.10; 
+<section> for 
+<section> group 
+<section> group 
+<section> control 
+<section> IPV, 
+<section> Scale;
+ 
+<section> (n=155) follow-­up 
+<section> mean, outcomes) ∉ 
+<section> differences: 
+<section> control 
+<section> to 
+<section> Tactics
+ 
+<section> post where to 
+<section> intervention 
+<section> intervention 
+<section> and
+ 
+<section> (immediate Control (80.69) 
+<section> 3-­month 19.29 
+<section> (7.92) 
+<section> 3.65 
+<section> (2.81) 
+<section> 20.76 
+<section> (5.46) 
+<section> (96.13) 
+<section> (79.10) 
+<section> (70.32) 
+<section> 6.31 
+<section> (1.99) 
+<section> 19.26 
+<section> (4.73) 
+<section> 18.44 
+<section> (4.40) 
+<section> 11.58 
+<section> (1.73) 
+<section> outcomes 
+<section> (binary 
+<section> in 
+<section> Conflicts
+ 
+<section> – 
+<section> 2 χ 
+<section> difference comparing
+ 
+<section> are comparing CTS,
+ 
+<section> Continued 
+<section> outcome 
+<section> survey 
+<section> coercion 
+<section> Reproductive 
+<section> at 
+<section> outcomes 
+<section> Secondary Resilience 
+<section> quality 
+<section> Relationship Depression 
+<section> (SD) 
+<section> depressed 
+<section>  Clinically 
+<section> 10) 
+<section> above 
+<section> any 
+<section> seeking 
+<section> Considered 
+<section> services 
+<section> IPV-­related 
+<section> IPV-­related 
+<section> Self-­blame 
+<section> abuse 
+<section> of 
+<section> Recognition Self-­efficacy 
+<section>  Generalised 
+<section> specific 
+<section> assessment 
+<section> continuous 
+<section> indicate 
+<section> arm 
+<section> study 
+<section> across 
+<section> for 
+<section> significance regression site. 
+<section> for 
+<section> estimate 
+<section> size 
+<section> outcomes). 
+<section> (continuous 
+<section> interval; 
+<section> confidence
+ 
+<section> 2 
+<section> Table 
+<section> Exit 
+<section> Mean 
+<section>   
+<section> (score Sought services 
+<section> Safety 
+<section>   
+<section> Danger 
+<section> Italics 
+<section> values value †Linear 
+<section> ‡Adjusted 
+<section> §Effect
+ 
+<section> CI,
+ P P 
+<insert> Figure 2 Regression Coefficients and 95% CIs Stratified
+ by Baseline Violence Severity, Resilience, and Past Three-­
+ month IPV-­related Service Use Line indicates regression
+ coefficient relative to line value of "1". Betas from interaction
+ term in difference-­in-­difference linear regression unless
+ noted; ∉ =p<0.10; *=p<0.05; **=p<0.01; ***p<0.001. ± Linear
+ regression comparing intervention to control group for exit
+ survey safety preparedness, adjusting for baseline decisional
+ conflict and site ≈ Linear regression comparing baseline and
+ follow-­up for intervention participants only.
+ way. I have learnt how I can stay with him so that the vio-
+ lence and abuse is mitigated.
+ —32 years, Korogocho
+ Another strength was that working through the myPlan
+ app with a CHV provided women an opportunity for
+ relief from isolation and stress.
+ Here you are free to express yourself about your life. You
+ cannot speak up when you are in the community but here
+ you can and I can open up to you and you can assist me.
+ —35 years, Dandora 
+<iend>
+
+ or seeking services, self-­blame, recognition of abuse or
+ general self-­efficacy. For relationship quality, an inter-
+ action effect was observed favouring the control group
+ (b =−0.8; p=0.05), reflecting a greater increase
+ 
+<section> interaction
+ in relationship quality for the control group. Risk for
+ severe/lethal violence, assessed for intervention partici-
+ pants only, reduced over the 3-­month follow-­up (11.58
+ 
+<section> base-
+ 
+<section> ; 10.78 ; b =−0.80; p<0.01).
+ 
+<section> line 
+<section> followup 
+<section> intervention
+ Among participants exposed to multiple forms of IPV
+ (CTS >=13; figure 2), significant time by group interaction
+ effects were identified for helpfulness of safety strate-
+ gies used (p<0.01) and resilience (p<0.01); immediate
+ post-­ intervention safety preparedness was significantly
+ higher for intervention participants relative to controls
+ (p<0.05), and risk for severe and lethal violence declined
+ significantly from baseline to follow-­up (p<0.01) in the
+ intervention group. In results stratified by past 3-­month
+ service use at baseline, improvements in helpfulness of
+ safety strategies used, decisional conflict and resilience
+ were concentrated among participants who had previ-
+ ously sought IPV-­related services (all p<0.05), with no
+ significant time by group interaction effects identified
+ among participants who were IPV-­service naive.
+ 
+<section> Qualitative findings
+ Participants described their impressions of the interven-
+ tion, the usefulness of intervention safety strategies, inter-
+ vention strengths and challenges-­specific IPV resources
+ and areas for intervention improvement.
+ 
+<section> myPlan impressions
+ 
+<section> App strengths
+ 
+<section> In considering intervention impressions, many women
+ referenced strengths including its tailoring of their
+ personal situation, and the availability of options that
+ supported safety while staying in relationships, recog-
+ nising the barriers to terminating relationships even in
+ the presence of violence.
+ 
+<section> All that was being discussed in regard to myPlan app re-
+ lated to me. It was exactly my situation then. It was like
+ hearing my own story. I was reading through and seeing
+ just how it was resonating with my life and at the same time
+ offering me guidelines and important information regard-
+ ing my situation.
+ 
+<section> —21 years, Huruma
+ 
+<section> I am just happy about this study, it has helped me in big
+ 
+<section> Post-intervention safety strategies
+ 
+<section> Children and safety
+ Women explained the most helpful strategies related to
+ safety and well-­being of their children.
+ 
+<section> I liked those ones involving children’s health. I understood
+ that issue the way it was explained in the study. I thought
+ back to the time I was going through a hard time. My kid
+ got to a point where he developed ulcers. I felt that my
+ child’s health was affected…[so] I felt that that strategy was 
+<section> important… if you only prevent physical harm, there may
+ still be emotional harm.
+ 
+<section> —29 years, Huruma
+ 
+<section> Speaking up about abuse
+ Women explained that the intervention experience
+ enhanced their ability to disclose violence to trusted
+ friends and family. Though confidants were not always
+ helpful, women gained confidence in reaching out for
+ help.
+ 
+<section> When I came here, I got good at speaking up. I confide
+ in my parents or even his or my friends because it will be
+ beneficial.
+ 
+<section> —26 years, Dandora
+ 
+<section> There are times when you are stressed, you don’t have to
+ keep it to yourself, you need to pay your friend a visit and
+ have a casual conversation to eliminate that stress.
+ 
+<section> —24 years, Korogocho
+ 
+<section> De-escalation
+ Women explained that persevering in the face of IPV was
+ common pre-­myPlan Kenya. Post intervention, women
+ described using de-­escalation tactics, such as choosing
+ not to engage with a drunk or upset partner, and tempo-
+ rarily leaving to provide physical space.
+ 
+<section> Now, when he comes home, I study his mood so that I
+ know how to handle him in order to avoid the chaos. While
+ talking to him, you can know from his reactions that it will
+ lead [to] violence. You need to wait for him to cool down
+ before talking to him. If I see he is unhappy when he comes
+ home, I normally keep quiet until he starts a conversation.
+ 
+<section> —35 years, Dandora
+ 
+<section> In regards to my safety, when he seems like he is spoiling
+ for a fight, I would stay away from him and come back
+ when he has calmed down.
+ 
+<section> —34 years, Korogocho
+ 
+<section> Financial independence
+ Strategies related to supporting financial independence
+ were described as useful in reducing monetary-­driven
+ arguments and provide peace-­of-­mind surrounding provi-
+ sion of basic needs for themselves and their children.
+ 
+<section> I decided to find some little money and start selling clothes.
+ This has really helped me. I can buy food for my children,
+ unlike when I used to just wait for my partner; at times he
+ would come and say he did not have money for food and
+ beat me up.
+ 
+<section> —25 years, Huruma
+ 
+<section> IPV support services and referrals: strengths and challenges
+ Women described important gains in knowledge about
+ available services as a result of the intervention.
+ 
+<section> I did not know that there is a way for women who are in
+ trouble. You can be directed to people who can assist you.
+ I knew that once you are assaulted, that’s it, life ends there.
+ After going through myPlan, I learnt that there are facilities
+ and steps that can be taken in case you have a problem in
+ your marriage.
+ 
+<section> —33 years, Korogocho
+ 
+<section> Simultaneously, women’s chief concerns with the inter-
+ vention centred on the helpfulness of resource referrals,
+ reflecting gaps in the underlying IPV response commu-
+ nity. While most services were welcomed, participants
+ cited past negative experiences with law enforcement
+ in particular, and questioned the value of including law
+ enforcement as an option for IPV response.
+ So when I went to the police. Since [my partner] has mon-
+ ey, he was able to bribe them and was set free and the po-
+ lice did not pursue the case. When I took him to the chief,
+ he bribed the chief…[I have gone to the police and chief]
+ about four times now. I got tired and gave up.
+ 
+<section> —30 years, Korogocho
+ 
+<section> The security purpose where you’re being told have you vis-
+ ited government help like the chief? You’re not supposed
+ to put that chief. They have no use. They don’t help wom-
+ en.
+ 
+<section> —27 years, Dandora
+ 
+<section> Several participants also suggested including churches
+ as referral resources.
+ 
+<section> Additional challenges & recommendations: ensuring high-quality
+ 
+<section> communication
+ Women’s recommendations for improvement centred
+ on ensuring access for low literacy populations as well
+ as those whose native language is neither Swahili nor
+ English. They recommended audio or in-­person assis-
+ tance to support communication.
+ Triangulation of qualitative and quantitative results
+ (table 3) identified areas of convergence as well as diver-
+ gence. Results related to decisional conflict and safety
+ strategies converged across quantitative and qualitative
+ results, with qualitative findings adding nuance to quan-
+ titative evidence of improvements in aspects of deci-
+ sional conflict and use of helpful safety strategies. Results
+ diverged in domains of IPV experience and services.
+ Specifically, IDIs described helpfulness of the app in miti-
+ gating abuse, yet quantitative results showed decreases
+ in IPV in both arms. IDIs indicated relevance of IPV-­
+ related referrals and importance of confidence gained
+ for garnering support; however, quantitative results were
+ null with regard to IPV-­related services.
+ 
+<section> Discussion
+ 
+<section> This study represents the first longitudinal trial of the
+ adapted myPlan Kenya safety decision and planning
+ intervention delivered via a secure app to survivors in
+ Nairobi, Kenya. Women who used the myPlan Kenya app
+ had significantly improved safety preparedness immedi-
+ ately post intervention compared with the control group.
+ At 3-­month follow-­up, intervention women had a greater
+ increase in use of helpful safety strategies and felt they
+ had information needed to make safety decisions, both 
+<insert> Outcome Quantitative results Qualitative results
+ Safety
+ preparedness
+ ► ► Interaction effect –
+ Decisional
+ conflict
+ favouring intervention
+ arm
+ ► ► Interaction effects null
+ for summary measure;
+ decrease in both arms
+ ► ► Interaction effect
+ favouring intervention
+ arm for uninformed
+ element of decisional
+ conflict
+ Convergence
+ X
+ Safety strategies ► ► Interaction effect ► ► Intentional use of de-­escalation
+ favouring intervention; tactics and temporary leaving
+ increase in helpfulness strategies
+ of safety strategies ► ► Appreciated safety strategies
+ tailored to personal situation
+ ► ► Described that the most helpful
+ strategies related to safety and
+ well-­being of children
+ ► ► Financial independence strategies
+ helped reduce monetary
+ arguments and increase provision
+ of basic needs
+ X
+ Resilience
+ IPV-­related
+ services
+ available services
+ ► ► Interaction effect null; ► ► Described how the app helped
+ ► ► Interaction effect: ► ► Described relief from isolation and
+ decrease in both arms
+ non-­significant trend
+ favouring intervention
+ ► ► Interaction effect null
+ N/A
+ X
+ ► ► Gained important knowledge about
+ IPV
+ Divergence
+ X
+ mitigate abuse
+ X
+ stress
+ ► ► Gained important knowledge about X
+ available services
+ ► ► Felt that IPV-­related referrals were
+ relevant
+ ► ► Gained confidence in discussing
+ violence to obtain support
+ ► ► Questioned the value of law
+ enforcement in the IPV response
+ Boldface represents quantitative results significant at p<0.05.
+ IPV, intimate partner violence; N/A, not applicable.
+ Table 3 Triangulation matrix of quantitative and qualitative results 
+<iend>
+
+ aligned with the intervention’s theory of change. There
+ were no significant between-­group differences in IPV or
+ depression, likely reflecting the relatively short follow-­up
+ duration, which contrasts with the dynamic and lengthy
+ process of decision-­making, safety planning and achieving
+ longer term safety for women in abusive relationships.
+ Among women reporting more violent and abusive
+ behaviours by the partner at baseline, women in the
+ intervention group reported significantly greater resil-
+ ience and helpfulness of the safety strategies they used
+ relative to control participants. Among women who had
+ previously sought services for IPV, intervention women
+ reported improvements in resilience and helpfulness
+ of safety strategies and a reduction in decision conflict
+ about safety. These endpoints are important on women’s
+ trajectories towards safety, and suggest that the interven-
+ tion can be valuable for bolstering change in safety even
+ for those already in touch with services. Results provide
+ promising efficacy evidence for the myPlan safety deci-
+ sion and planning intervention with IPV survivors in an
+ urban, low-­resource settlements.
+ Findings affirm the value of human-­ centred design
+ in appropriately adapting technology to context.
+ Technology-­ based interventions are often falsely
+ contrasted with people-­ powered interventions, with
+ the implication that technology-­ based interventions
+ can replace skilled advocates and providers. This inter-
+ vention is distinct from a static webpage or app in that
+ it is evidence-­based, tailored, codesigned with survivors
+ in local languages. Further, it contains extensive safety
+ features and is delivered through technology appro-
+ priate to the context. Our human-­centred design phase
+ revealed that the most appropriate app delivery method
+ was with support trained lay professional CHVs; this was 
+<section> found acceptable and appropriate for both parties. The
+ resulting intervention achieved results comparable to
+ those from trials in high-­income settings. 19–21 Our tech-
+ nology adaptation process and supported app implemen-
+ tation may be relevant for other lower resource settings
+ where the rapid expansions in mobile accessibility have
+ not yet been matched in technology literacy and comfort
+ for some populations.
+ Results stratified by past IPV service use are particu-
+ larly informative in understanding women’s processes
+ of behavioural change. The intervention was effective in
+ reducing decisional conflict and improving resilience for
+ women who had previously sought IPV-­related services.
+ Prior service use may be a marker for readiness for change;
+ alternately myPlan Kenya, tailored to the survivors’ situ-
+ ation, may have amplified, extended and/or reinforced
+ the availability and value of IPV services and working
+ closely with skilled advocates and providers. Results
+ illustrate that app-­based safety planning tools constitute
+ a valuable element of comprehensive IPV prevention
+ and support services, and function in part by enhancing
+ connection to existing services, and extending the value
+ of existing services. They are by no means a replacement
+ and will function best when effectively integrated as one
+ of many options.
+ Other IPV prevention trials have reported IPV
+ decreases in both groups. 20 The structured baseline
+ assessments may have conferred benefits; however, there
+ were no overtime changes in either group in self-­blame,
+ recognition of abuse, nor consideration nor uptake of
+ IPV-­ related services. Qualitative results speak to inter-
+ vention acceptability and its impact on recognition of
+ services and reduced isolation. The divergence of qual-
+ itative and quantitative results for IPV and IPV-­related
+ services suggests that quantitative study measures may not
+ have been sufficiently sensitive. Both groups improved
+ modestly on safety-­ specific self-­ efficacy, which could
+ contribute to enhanced safety. A longer follow-­up period
+ is warranted to clarify intervention effects on longer
+ term outcomes of safety and mental health, as well as
+ durability over time. This trial conducted in a controlled
+ environment did not support questions related to dose
+ viewed and dose–response as they relate to primary and
+ secondary outcomes; both are important future research
+ questions.
+ Strengths include successful randomisation, adher-
+ ence to protocol with 88% retention, qualitative inter-
+ views with intervention participants and no reported
+ adverse events. Study measures were refined by the
+ community-­ partnered study team. Limitations include
+ the 3-­month follow-­up duration and the limited gener-
+ alisability with recruitment in a single city. Several
+ important measures demonstrated limited performance,
+ specifically subdomains of the decisional conflict scale, as
+ well as the self-­blame assessment; these results should be
+ interpreted with caution and further work is needed to
+ strengthen measurement in these areas. The community-­
+ based recruitment may have limited reach to the most
+ vulnerable women, including those fearful of seeking
+ help from CHVs.
+ Trial results are comparable to those in high-­income
+ countries 19–21 in demonstrating improvements in safety
+ preparedness, decreases in aspects of decisional conflict
+ about safety, and increases in use of helpful safety strate-
+ gies following this intervention. Further, among women
+ reporting severe IPV, those in the intervention group
+ reported increased resilience and reduction in risk for
+ lethal violence. The innovation here is twofold. First,
+ safety decision-­ making and planning interventions
+ codesigned with IPV survivors in local languages, with
+ extensive safety features, and delivered through tech-
+ nology appropriate to the context are similarly effective
+ in this LMIC-­based urban settlement as in high-­resource
+ settings. Second, myPlan Kenya app is acceptable and
+ feasible for use by survivors with support from a trained
+ lay professional, in a private location in a community-­
+ based organisation. Findings advance the evidence base
+ on IPV prevention and response tools for diverse settings
+ with high IPV prevalence and limited advocacy and
+ support services.
+ 
+<section> Author affiliations
+ Population, Family and Reproductive Health, Johns Hopkins University Bloomberg
+ School of Public Health, Baltimore, Maryland, USA
+ Johns Hopkins University School of Nursing, Baltimore, Maryland, USA
+ Center for Public Health and Human Rights, Johns Hopkins Bloomberg School of
+ Public Health, Baltimore, Maryland, USA
+ 
+<section> Ujamaa Africa, Nairobi, Kenya
+ International Health, Johns Hopkins Bloomberg School of Public Health, Baltimore,
+ 
+<section> Maryland, USA
+ Center for Global Health, Johns Hopkins University, Baltimore, Maryland, USA
+ 
+<section> Acknowledgements The authors gratefully acknowledge the study participants
+ and local stakeholders for their time and input in this endeavour.
+ 
+<section> Contributors MD and NG designed this study. MD, ZH and SW drafted the
+ paper. NG, MD and AC designed the intervention content. NAP provided power
+ calculations and analysis oversight. BA ran the project in the field, with CT, IA, IW
+ and SRK responsible for recruitment, intervention adaptation, piloting and formative
+ work. SW led analysis. ZH, SRK and AF led training, protocol development, data
+ quality, technical support and structured community input. BO contributed to
+ the conceptualisation of the trial and facilitated interaction between the teams
+ on scientific issues. RO and MM identified and facilitated connection with field
+ partners. JC conducted all study-­related programming including the intervention
+ app and randomisation. All authors contributed to the drafting and critical review of
+ the manuscript, and reviewed the final draft.
+ 
+<section> Funding This study was funded by Ideas42 (PI Decker).
+ 
+<section> Competing interests None declared.
+ 
+<section> Patient and public involvement Patients and/or the public were involved in the
+ design, or conduct, or reporting, or dissemination plans of this research. Refer to
+ the Methods section for further details.
+ 
+<section> Patient consent for publication Not required.
+ 
+<section> Ethics approval The Johns Hopkins Bloomberg School of Public Health Institutional
+ Review Board and the Kenya National Commission for Science Technology and
+ Innovation approved the protocol.
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data availability statement Data are available upon request. The authors will
+ make data available to scientists planning specified and agreed further analyses;
+ for access, contact the corresponding author.
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution Non Commercial (CC BY-­NC 4.0) license, which 
+<section> permits others to distribute, remix, adapt, build upon this work non-­commercially,
+ and license their derivative works on different terms, provided the original work is
+ properly cited, appropriate credit is given, any changes made indicated, and the
+ use is non-­commercial. See: http:// c reativecommons.​org/​licenses/​by-​nc/​4.​0/.
+ 
+<section> References
+ 1 UN. Sustainable development goal 5: achieve gender equality and
+ empower all women and girls, 2016. Available: https://www.​un.​org/​
+ sust​aina​bled​evel​opment/​gender-​equality/
+ 2 Stöckl H, Devries K, Rotstein A, et al. The global prevalence
+ of intimate partner homicide: a systematic review. Lancet
+ 2013;382:859–65.
+ 3 Campbell JC. Health consequences of intimate partner violence.
+ 
+<section> Lancet 2002;359:1331–6.
+ 4 Kenya national Bureau of statistics, Ministry of Health/Kenya,
+ National AIDS control Council/Kenya, Kenya medical research
+ Institute, population NCf, Development/Kenya. Kenya demographic
+ and health survey. Rockville, MD, USA, 2014.
+ 5 Gillum TL, Doucette M, Mwanza M, et al. Exploring Kenyan women's
+ perceptions of intimate partner violence. J Interpers Violence
+ 2018;33:2130–54.
+ 6 Maseno L, Kilonzo SM. Engendering development: Demystifying
+ patriarchy and its effects on women in rural Kenya. International
+ Journal of Sociology and Anthropology 2011;3:45–55.
+ 7 Mugoya GCT, Witte TH, Ernst KC. Sociocultural and victimization
+ factors that impact attitudes toward intimate partner violence among
+ Kenyan women. J Interpers Violence 2015;30:2851–71.
+ 8 Starzynski LL, Ullman SE, Filipas HH, et al. Correlates of women's
+ sexual assault disclosure to informal and formal support sources.
+ 
+<section> Violence Vict 2005;20:417–32.
+ 9 Sullivan CM, Bybee DI. Reducing violence using community-­based
+ advocacy for women with abusive partners. J Consult Clin Psychol
+ 1999;67:43–53.
+ 10 Odero M, Hatcher AM, Bryant C, et al. Responses to and resources
+ for intimate partner violence: qualitative findings from women,
+ men, and service providers in rural Kenya. J Interpers Violence
+ 2014;29:783–805.
+ 11 Maticka-­Tyndale E, Barnett JP, Trocaire­. Exploring the relationship
+ between stigma, stigma challenges, and disclosure among Slum-­
+ Dwelling survivors of intimate partner violence in Kenya. Violence
+ Against Women 2019;1077801219856101:107780121985610.
+ 12 Wood SN, Glass N, Decker MR. An integrative review of safety
+ strategies for women experiencing intimate partner violence in low-
+ and middle-­income countries. Trauma Violence Abuse 2019;152483
+ 8018823270:152483801882327.
+ 13 Wood SN, Kennedy SR, Hameeduddin Z, et al. "Being Married
+ Doesn't Mean You Have to Reach the End of the World": Safety
+ Planning With Intimate Partner Violence Survivors and Service
+ Providers in Three Urban Informal Settlements in Nairobi, Kenya. J
+ Interpers Violence 2019;886260519879237:886260519879237.
+ 14 Glass N, Eden KB, Bloom T, et al. Computerized aid improves
+ safety decision process for survivors of intimate partner violence. J
+ Interpers Violence 2010;25:1947–64.
+ 
+<section> 15 Campbell JC, Webster DW, Glass N. The danger assessment:
+ validation of a lethality risk assessment instrument for intimate
+ partner femicide. J Interpers Violence 2009;24:653–74.
+ 
+<section> 16 Bandura A. Social foundations of thought and action: a social
+ cognitive theory. Englewood Cliffs, NJ, US: Prentice-­Hall, Inc, 1986.
+ 
+<section> 17 Dutton MA. Empowering and healing the battered woman: a model
+ for assessment and intervention. New York, NY: Springer Publishing
+ Co, 1992.
+ 18 Machtinger EL, Davis KB, Kimberg LS, et al. From treatment to
+ healing: inquiry and response to recent and past trauma in adult
+ health care. Womens Health Issues 2019;29:97–102.
+ 19 Eden KB, Perrin NA, Hanson GC, et al. Use of online safety decision
+ aid by abused women: effect on decisional conflict in a randomized
+ controlled trial. Am J Prev Med 2015;48:372–83.
+ 20 Glass NE, Perrin NA, Hanson GC, et al. The longitudinal impact of
+ an Internet safety decision aid for abused women. Am J Prev Med
+ 2017;52:606–15.
+ 21 Koziol-­McLain J, Vandal AC, Wilson D, et al. Efficacy of a web-­
+ based safety decision aid for women experiencing intimate
+ partner violence: randomized controlled trial. J Med Internet Res
+ 2018;19:e426.
+ 22 Decker MR, Wood SN, Kennedy SR, et al. Adapting the myPlan
+ safety app to respond to intimate partner violence for women
+ in low and middle income country settings: app tailoring
+ and randomized controlled trial protocol. BMC Public Health
+ 2020;20:808.
+ 23 Ethical and safety recommendations for intervention research
+ on violence against women. Building on lessons from the who
+ publication: putting women first: ethical and safety recommendations
+ for research on domestic violence against women. Geneva: World
+ Health Organization, 2016.
+ 24 O'Connor AM. Validation of a decisional conflict scale. Med Decis
+ Making 1995;15:25–30.
+ 25 Straus MA, Hamby SL, Boney-­Mccoy S, et al. The revised conflict
+ tactics scales (CTS2): development and preliminary psychometric
+ data. Journal of Family Issues 1996;17:283–316.
+ 26 Smith PH, Earp JA, DeVellis R. Measuring battering: development of
+ the women's experience with battering (web) scale. Womens Health
+ 1995;1:273–88.
+ 27 Miller E, Decker MR, McCauley HL, et al. A family planning clinic
+ partner violence intervention to reduce risk associated with
+ reproductive coercion. Contraception 2011;83:274–80.
+ 28 Campbell-­Sills L, Stein MB. Psychometric analysis and refinement
+ of the Connor-­davidson resilience scale (CD-­RISC): validation of a
+ 10-­item measure of resilience. J Trauma Stress 2007;20:1019–28.
+ 29 Andresen EM, Malmgren JA, Carter WB, et al. Screening for
+ depression in well older adults: evaluation of a short form of the
+ CES-­D (center for epidemiologic studies depression scale). Am J
+ Prev Med 1994;10:77–84.
+ 30 Breitenbecher KH. The relationships among self-­blame,
+ psychological distress, and sexual victimization. J Interpers Violence
+ 2006;21:597–611.
+ 31 Schwarzer R, Jerusalem M. Generalized self-­efficacy scale. Windsor,
+ UK: NFER-­NELSON, 1995.

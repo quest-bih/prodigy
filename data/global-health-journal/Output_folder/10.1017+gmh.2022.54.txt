@@ -1,0 +1,1115 @@
+
+<section> Global Mental Health Cost-effectiveness of psychological intervention
+ 
+<section> within services for depression delivered by
+ 
+<section> cambridge.org/gmh
+ 
+<section> primary care workers in Nepal: economic
+ 
+<section> evaluation of a randomized control trial
+ 
+<section> Interventions
+ 
+<section> Original Research Paper L. R. Aldridge , N. P. Luitel , M. J. D. Jordans , J. K. Bass
+ 
+<section> Cite this article: Aldridge LR, Luitel NP, 
+<section> and B. Patenaude
+ Jordans MJD, Bass JK, Patenaude B (2022).
+ Cost-effectiveness of psychological Department of Mental Health, Johns Hopkins University Bloomberg School of Public Health, Baltimore, MD, USA;
+ 
+<section> intervention within services for depression Research Department, Transcultural Psychosocial Organization Nepal, Kathmandu, Nepal; Center for Global
+ 
+<section> delivered by primary care workers in Nepal: Mental Health, IoPPN, King’s College London, London, UK and 4 Department of International Health,
+ 
+<section> economic evaluation of a randomized control Johns Hopkins University Bloomberg School of Public Health, Baltimore, MD, USA
+ 
+<section> trial. Global Mental Health 9, 499–507. https://
+ 
+<section> doi.org/10.1017/gmh.2022.54
+ 
+<section> Abstract
+ 
+<section> Received: 30 May 2022 
+<section> Background. Integrating services for depression into primary care is key to reducing the treat-
+ 
+<section> Revised: 13 September 2022
+ 
+<section> Accepted: 20 September 2022 ment gap in low- and middle-income countries. We examined the value of providing the
+ 
+<section> First published online: 31 October 2022 Healthy Activity Programme (HAP), a behavioral activation psychological intervention,
+ within services for depression delivered by primary care workers in Chitwan, Nepal using
+ 
+<section> Key words: data from the Programme for Improving Mental Health Care.
+ 
+<section> Cost-effectiveness analysis; depression;
+ 
+<section> integration 
+<section> Methods. People diagnosed with depression were randomized to receive either standard treat-
+ ment (ST), comprised of psychoeducation, antidepressant medication, and home-based follow
+ 
+<section> Author for correspondence: up, or standard treatment plus psychological intervention (T + P). We estimated incremental
+ 
+<section> L. R. Aldridge, costs and health effects of T + P compared to ST, with quality adjusted life years (QALYs) and
+ 
+<section> E-mail: laldrid3@jhu.edu depression symptom scores over 12 months as health effects. Nonparametric uncertainty ana-
+ lysis provided confidence intervals around each incremental effectiveness ratio (ICER); results
+ are presented in 2020 international dollars.
+ 
+<section> Results. Sixty participants received ST and 60 received T + P. Implementation costs (ST = $329,
+ T + P = $617) were substantially higher than service delivery costs (ST = $18.7, T + P = $22.4)
+ per participant. ST and T + P participants accrued 46.5 and 49.4 QALYs, respectively. The
+ ICERs for T + P relative to ST were $4422 per QALY gained (95% confidence interval: $2484
+ to $9550) – slightly above the highly cost-effective threshold – and −$53.21 (95% confidence
+ interval: −$105.8 to −$30.2) per unit change on the Patient Health Questionnaire.
+ 
+<section> Conclusion. Providing HAP within integrated depression services in Chitwan was cost-effective,
+ if not highly cost-effective. Efforts to scale up integrated services in Nepal and similar contexts
+ should consider including evidence-based psychological interventions as a part of cost-effective
+ mental healthcare for depression.
+ 
+<section> Introduction
+ 
+<section> One in 27 people with depression receives minimally adequate mental healthcare in low- and
+ lower-middle-income countries, compared to one in five in high-income countries
+ (Thornicroft et al., 2017). Mental health accounts for less than two percent of total health
+ spending in low- and lower-middle-income countries, despite depression alone being the
+ second leading contributor to global disability (Patel et al., 2018; Vigo et al., 2019; GBD
+ 2019 Mental Disorders Collaborators, 2022). Integrating mental health services into primary
+ care and other service delivery platforms has been recognized and implemented as a key strat-
+ egy for reducing the gap between burden and available mental healthcare in low- and
+ middle-income countries (LMIC) (Collins et al., 2011; Patel et al., 2018; Kola et al., 2021).
+ 
+<section> © The Author(s), 2022. Published by Integrated care models typically rely on task sharing approaches wherein non-specialist health
+ Cambridge University Press. This is an Open workers, such as nurses and community health workers, are trained to identify people with
+ 
+<section> Access article, distributed under the terms of mental disorders and provide treatment under specialist supervision (Beaglehole et al.,
+ 
+<section> the Creative Commons Attribution licence 2008; Kakuma et al., 2011). In 2008, the World Health Organization established guidelines
+ 
+<section> (http://creativecommons.org/licenses/by/4.0/),
+ 
+<section> which permits unrestricted re-use, distribution for the delivery and scale up of task sharing approaches for mental health through the
+ 
+<section> and reproduction, provided the original article Mental Health Gap Action Programme (mhGAP) (World Health Organization, 2008).
+ 
+<section> is properly cited. Since then, these guidelines have been implemented as part of mental health and psychosocial
+ support services in more than 90 countries (Keynejad et al., 2018). Evidence for mhGAP is
+ part of a wider, robust evidence base developed over the past two decades on the effectiveness
+ of task sharing interventions to improve a range of mental health conditions (van Ginneken
+ et al., 2011; Singla et al., 2017; Hoeft et al., 2018; Karyotaki et al., 2022). 
+<section> Task sharing and service integration approaches are based on
+ the premise these models represent a more efficient, cost-effective
+ allocation of limited resources compared to traditional models of
+ centralized, specialist service delivery (Beaglehole et al., 2008).
+ Despite this, there is a dearth of economic evidence supporting
+ the use of these models to treat depression (Herrman et al.,
+ 2022) and other mental health disorders (Knapp and Wong,
+ 2020). A 2020 systematic review by Cubillos and colleagues
+ (2020) found strong evidence integrating mental health services
+ into primary care is effective for reducing clinical symptoms
+ and functional impairment of depression within LMIC.
+ However, the authors identified only seven studies examining
+ the cost-effectiveness of integrated services for treating depres-
+ sion, with three of these studies relying on modeling rather
+ than experimental data.
+ Experimental data are necessary to build the economic evi-
+ dence base, test integration assumptions, and establish standar-
+ dized frameworks to guide economic research within global
+ mental health (Cubillos et al., 2020). Economic evaluations
+ based on prospective studies also provide valuable opportunities
+ to cost resources required to implement mental health interven-
+ tions. Implementation costs are often underestimated within pub-
+ lic health research and can qualitatively affect the results of
+ economic evaluation (Sohn et al., 2020). Incomplete cost data
+ may stem from economic evaluations conducted post hoc where
+ important cost drivers are not captured, resource requirements
+ are underestimated, and other limitations arise common to retro-
+ spective data collection (Sohn et al., 2020). Some underestimated
+ costs may also be a result of training approach. Researchers imple-
+ menting global mental health interventions often rely on inter-
+ national experts to provide in-person training and
+ oversee service implementation (Fairburn and Patel, 2014).
+ These approaches can result in service delivery models that are
+ not sustainable or scalable, particularly if these implementation
+ costs are not accurately incorporated into economic evaluations.
+ Accurate and comprehensive cost profiles are necessary to inform
+ health officials and other decision-makers when integrating and
+ scaling up of mental health services within primary care systems.
+ We used prospective data to evaluate the cost-effectiveness of a
+ psychological intervention within a package of treatment for
+ depression from one of the largest mhGAP-based studies within
+ LMIC, the Programme for Improving Mental Health Care
+ 
+<section> (PRIME) (Lund et al., 2012). In Nepal, the PRIME consortium
+ implemented a district mental healthcare plan in the district
+ of Chitwan during the implementation phase from 2013 to
+ 
+<section> 2017 (Lund et al., 2012; Jordans et al., 2016, 2019b). To expand
+ access to mental health care at the health facility level, primary
+ care workers were trained to identify and deliver mental health
+ services for depression and other priority mental disorders
+ according to clinical decision-making guidelines in the mhGAP
+ Intervention Guide (World Health Organization, 2014).
+ PRIME researchers imbedded a randomized control trial within
+ a cohort study of these services to evaluate the effectiveness of
+ two packages of mhGAP-based care for people with depression:
+ a standard package of psychoeducation, antidepressant medica-
+ tion when indicated, and home-based follow up, versus this pack-
+ age plus the Healthy Activity Programme (HAP), a behavioral
+ activation based psychological intervention (Jordans et al., 2019a).
+ Evidence from the nested randomized trial indicated that,
+ while clinical and functional outcomes improved for all service
+ users with depression over time (Jordans et al., 2019b), the
+ psychological intervention was likely the key determinant in
+ treatment effectiveness (Jordans et al., 2019a, 2020a). People
+ with depression who received services without HAP did not
+ have significantly greater improvements in clinical or functional
+ outcomes compared to individuals with subclinical depression
+ who received care as usual (Jordans et al., 2020a). These findings
+ align with evidence indicating psychological interventions are
+ effective in LMIC (Cuijpers et al., 2018; Karyotaki et al., 2022)
+ and may have more enduring effects than antidepressants alone
+ for people with depression (Cuijpers et al., 2013). Despite this,
+ there is evidence primary care providers in Nepal prefer pharma-
+ cotherapy to psychological or psychosocial interventions when
+ treating depression (Bhardwaj et al., 2022).
+ Existing cost estimates for PRIME depression services rely on
+ modeling studies or research in other contexts and have yet to be
+ updated with empirical estimates from PRIME services. Prior to
+ service implementation, Chisholm and colleagues projected the
+ cost-per-case of treating depression within primary care facilities
+ in Nepal to be $1.86 for basic psychoeducation, advice, and follow
+ up; $29.63 for antidepressant medication; and $2.32 for individual
+ psychosocial counseling in 2008 USD (Chisholm et al., 2016).
+ Cost estimates for HAP differ considerably from similar research
+ in Goa, India, where delivering HAP within primary care cost an
+ average of $65.66 per service user in 2015 international dollars
+ ($19.69 in 2015 USD) (Weobong et al., 2017; World Bank,
+ 2022). Chisholm and colleagues (2016) also estimated per-capita
+ spending for scaled-up services by multiplying absolute preva-
+ lence by coverage by per-case costs, resulting in a cost-per-capita
+ of $0.67 per capita at 15% national coverage levels. Related
+ research indicated per-capita spending on mental health would
+ need increase to $1.27 for mhGAP-based services to meet
+ national coverage targets (Chisholm et al., 2017). However,
+ these estimates are based on projectd costs, focus on service deliv-
+ ery alone, and lack valuable information on implementation costs
+ relevant to health decision-makers.
+ Using prospective trial data, our primary objective was to
+ evaluate the cost-effectiveness of providing psychological inter-
+ vention within a package of depression services delivered by pri-
+ mary care workers in Chitwan, Nepal. A secondary objective was
+ to construct a cost profile of service implementation and delivery
+ for the two service packages included in the trial. Given psycho-
+ logical intervention may be the key to effective care for depression
+ in this context, our goal was to produce economic evidence on the
+ value of including this intervention within mhGAP-based service
+ models and ultimately inform efforts in Nepal and similar con-
+ texts to scale up integrated mental health services.
+ 
+<section> Methods
+ 
+<section> Design
+ 
+<section> Research assistants recruited trial participants by screening eli-
+ gible service users at ten participating primary care facilities in
+ Chitwan, Nepal. Eligibility criteria required participants be
+ or older (the majority age in Nepal), reside in the study area,
+ speak Nepali, be willing and able to provide informed consent,
+ and not already be receiving treatment for depression or other
+ mental health conditions. After confirming eligibility, research
+ assistants then administered the nine-item Patient Health
+ Questionnaire (PHQ-9) (Kroenke et al., 2001) adapted and vali-
+ dated for use in Nepal (Kohrt et al., 2016). Female Community
+ Volunteers also identified and referred individuals from the sur-
+ rounding catchment areas to PRIME facilities for depression 
+<section> screening using a proactive community case detection tool (Subba
+ et al., 2017), which has been found to increase help-seeking
+ behavior for depression and other mental health disorders
+ (Jordans et al., 2020c). Individuals who screened positive on the
+ PHQ-9 or who were referred by community health workers
+ received a clinical diagnostic interview by a trained primary care
+ provider. Primary care providers also identified some individuals
+ with depression during routine consultations who were not
+ screened positive by research assistant or referred
+ by community volunteers. Individuals diagnosed with depression
+ during clinical interview were invited to participate in the rando-
+ mized control trial. Research assistants collected sociodemo-
+ graphic information at baseline and administered a series of
+ questionnaires at baseline and three- and twelve-month follow
+ up. Further information on study design, PRIME, and program
+ impact in Nepal are available elsewhere (Baron et al., 2018;
+ Jordans et al., 2019a, 2019b, 2020b; Aldridge et al., 2020).
+ 
+<section> Setting
+ 
+<section> PRIME researchers trained primary care providers at 10 primary
+ care facilities in Chitwan, Nepal on the identification, manage-
+ ment, and follow up of depression and three other priority mental
+ disorders – alcohol use disorder, psychosis, and epilepsy – accord-
+ ing to the mhGAP Intervention Guide (Lund et al., 2012; World
+ Health Organization, 2014). Primary care providers then deliv-
+ ered mental healthcare at the 10 participating primary care facil-
+ ities from 2014 to 2017, with some training and research
+ coordination beginning in 2013. Prior to PRIME, mental health
+ services were only available at regional hospitals and some private
+ facilities in Chitwan. Five percent of community members in a
+ representative survey conducted by PRIME researchers screened
+ positive prior to program implementation, though less than one
+ in ten who screened positive for depression had received treat-
+ ment for depression the past 12 months (Luitel et al., 2017).
+ 
+<section> Interventions
+ 
+<section> Eligible participants diagnosed with depression were enrolled into
+ a randomized control trial comparing two packages of integrated
+ services: standard treatment (ST), which followed the mhGAP
+ Intervention Guide in recommending psychoeducation, psycho-
+ social advice, follow up, and antidepressant medication when
+ indicated, or standard treatment plus psychological intervention
+ (T + P) (Jordans et al., 2019a). Individuals in the T + P group
+ received HAP, a manualized psychological intervention delivered
+ at primary care facilities over six to eight weekly sessions. HAP
+ was initially developed in India using culturally-adapted elements
+ of evidence-based mental health treatment approaches and has
+ been demonstrated to be clinically and cost-effective for indivi-
+ duals with moderate to severe depression when delivered by pri-
+ mary care providers in India (Chowdhary et al., 2016; Patel et al.,
+ 
+<section> 2017; Weobong et al., 2017; Bhat et al., 2022). The intervention is
+ primarily based on behavioral activation therapy and includes ele-
+ ments of behavioral assessment, problem solving, activating social
+ networks, and activity structuring and scheduling. Sessions are
+ categorized into three phases intended to orient the individual,
+ deliver components, and sustain skills after treatment, with the
+ treatment goals of improved mood, improved life context, and
+ reduced life problems (Chowdhary et al., 2016).
+ 
+<section> Health effects
+ 
+<section> We used quality adjust life years (QALYs) as the primary measure
+ of health effect in our cost-utility analysis. To estimate QALYs, we
+ relied on methods by Lokkerbol et al. (2021) in which sociodemo-
+ graphic factors and eight items from the 12-item WHO Disability
+ Assessment Schedule (WHODAS) (Üstün, 2010) are regressed
+ onto a preference-weighted disability index created using a
+ nationally representative survey from 14 countries (Üstün et al.,
+ 2003). Both a general and population-specific mapping functions
+ are available within their methods. We chose the mapping func-
+ tion representative of an Indian population as most relevant to
+ our study population in Nepal (Lokkerbol et al., 2021). An equa-
+ tion in the supplement indicates the weight placed on each
+ WHODAS and sociodemographic item used to generate the dis-
+ ability index (online Supplementary Equation S1). The WHODAS
+ has been adapted, validated, and used widely for mental health
+ research in Nepal (Tol et al., 2007; Luitel et al., 2013; Bimali
+ et al., 2018; Risal et al., 2021), though the disability mapping
+ method has not been validated against other measures of health
+ utility.
+ The method to estimate QALYs from the WHODAS builds on
+ previous methods used in South Asia (Buttorff et al., 2012) and in
+ other LMIC (McBain et al., 2016; Patel et al., 2017). Health status
+ is calculated as one minus the resulting disability index; a health
+ status of one represents full health and 0 represents death. QALYs
+ are then calculated by plotting health status over time and meas-
+ uring the area under the curve (Yeo et al., 2019). Given the
+ 12-month study follow up, participants could have gained up to
+ one QALY during the trial. Our secondary measure of health
+ effects relied on PHQ-9 scores as a measure of depression
+ symptoms within cost-effectiveness analysis (Kroenke et al.,
+ 2001).
+ Research assistants administered the WHODAS and PHQ-9 to
+ participants at all three study timepoints: baseline, 3 months, and
+ 12-months. The WHODAS is comprised of 12 items where
+ respondents are asked to report functioning in the previous two
+ weeks across six domains – cognition, mobility, self-care, social
+ interactions, life activities, and participation – using a Likert
+ response ranging from 0 (‘none’) to 4 (‘extreme’) (Üstün, 2010).
+ The PHQ-9 is a common measure of depression symptoms
+ where respondents report the frequency of depressive symptoms
+ 
+<section> (0 ‘Not at all’, 1 ‘Several days’, 2 ‘More than half the days’,
+ 
+<section> ‘Nearly every day’) over the previous two weeks on nine items
+ (Kroenke et al., 2001). PHQ-9 responses are summed to produce
+ a measure of symptom severity ranging from 0 to 27. Previous
+ validation research has found a cutoff score of 10 to be indicative
+ of depression in Chitwan with 94% sensitivity and 80% specificity
+ and an internal consistency of α = 0.84 (Kohrt et al., 2016).
+ 
+<section> Costs
+ 
+<section> Implementation costs for provider training and supervision were
+ abstracted from PRIME administrative data and allocated accord-
+ ing to resource use for each intervention under a five-year time
+ horizon. Physical and mental health service delivery costs were
+ calculated by multiplying healthcare use, reported by participants
+ using the Client Socio-Demographic and Service Receipt
+ Inventory (Chisholm et al., 2000) (online Supplementary Table
+ S4), with the unit costs of healthcare resources (Stenberg et al.,
+ 2018) (online Supplementary Table S5). A detailed analysis of dif-
+ ferences in healthcare use and costs across study groups are 
+<insert> Table 1. Sociodemographic characteristics of trial participants
+ ST (n = 60)
+ Female
+ T + P (n = 60)
+ 53 (88%) 49 (82%)
+ 43.5 (13.4) 39.0 (14.1)
+ 17 (28%) 15 (26%)
+ Uneducated/illiterate 22 (37%) 14 (23%)
+ Less than primary 21 (35%) 14 (23%)
+ Primary school and above 17 (28%) 32 (53%)
+ Single 1 (2%) 7 (12%)
+ Has a partner 53 (88%) 45 (75%)
+ Divorced/widowed 6 (10%) 8 (13%)
+ 51 (85%) 51 (85%)
+ Age of participant, mean ( S D
+ Employed
+ Education level
+ Marital status
+ Religion
+ Hindu
+ Buddhist 8 (13%) 4 (7%)
+ Christian 1 (2%) 5 (8%)
+ Brahmin/Chhetri 21 (35%) 27 (45%)
+ Janajati 21 (35%) 14 (23%)
+ Dalit 15 (25%) 14 (23%)
+ Others 3 (5%) 5 (8%)
+ Caste
+ ST, standard treatment; T + P, treatment plus psychological intervention; S D standard
+ deviation. 
+<iend>
+
+ presented in a forthcoming paper. All cost data are reported in
+ 2020 international dollars for the year 2020 from the societal per-
+ spective. Additional details of costing methods are presented in
+ the supplementary materials.
+ 
+<section> Cost-effectiveness analysis
+ We compared the total cost of providing each treatment with the
+ total health effects accrued by participants in each treatment
+ group in our economic evaluation (Drummond et al., 2015).
+ Our primary measure of cost-effectiveness is the incremental cost-
+ effectiveness ratio (ICER), estimated by dividing the incremental
+ cost of T + P over the incremental health effects of T + P relative
+ to ST. We also present a secondary ICER based the incremental
+ change in PHQ-9 scores as the measure of health effect. In add-
+ ition to the program total approach to cost-effectiveness analysis
+ presented in the main text, we also present an average approach to
+ calculating ICERs in the supplementary materials that relies on
+ the difference in median per-participant costs compared with dif-
+ ference in mean health effects per participant (online
+ Supplementary Methods). Missing data for all costs and health
+ effects were imputed using the multiple imputation chained equa-
+ tion (i.e. ‘mice’) package in R with predictive mean matching and
+ 20 imputations.
+ Lastly, we used nonparametric bootstrapping methods to esti-
+ mate a 95% confidence interval around the resulting sample-
+ based ICER (Sanders et al., 2016). The method involved generat-
+ ing 1000 bootstrapped replicates by sampling from study partici-
+ pants within each group with replacement, calculating the
+ difference in costs and health effects for each replicate, and then
+ taking the middle 95th percentile of the resulting ICER replicates
+ (online Supplementary Equation S2). A notable advantage of this
+ method is that it maintains the association between each partici-
+ pant’s costs and health effects within the repeated sampling
+ frame. We then plotted the ICER replicates and calculated the
+ percentage of replicates under one- and three-times 2020 gross
+ domestic product (GDP) per capita in Nepal, which represent his-
+ torical thresholds for highly cost-effective and cost-effective inter-
+ ventions, respectively (Word Health Organization, 2001). Despite
+ the limitations of thresholds based on GDP (Marseille et al., 2015;
+ Bertram et al., 2016), we present these thresholds to promote
+ comparability with existing economic evaluations and because
+ established thresholds for Nepal are under debate. We also pre-
+ sent a cost-effectiveness acceptability curve in the supplementary
+ materials that indicates the likelihood T + P is cost-effective across
+ a range of thresholds (online Supplementary Figure S3).
+ 
+<section> Results
+ 
+<section> Participants
+ 
+<section> One-hundred twenty people diagnosed by primary care workers
+ with depression were enrolled and randomized to receive ST (n =
+ 60) or T + P (n = 60). At baseline, average participant age was
+ 43.5 (standard deviation = 13.4) among ST and 39.0 among T + P
+ (standard deviation = 14.1). Most participant were female (ST =
+ 88%, T + P = 82%), had a partner (ST = 88%, T + P = 75%), and
+ were Hindu (ST = 85%, T + P = 85%) (Table 1). A larger proportion
+ of participants in the T + P group had completed primary school or
+ more (53%) compared to those in the ST group (28%). Nine (15%)
+ ST participants and 14 (23%) T + P participants were lost to follow
+ up throughout the trial, including eight participants who did not
+ participate in any HAP sessions (online Supplementary Fig. S1).
+ 
+<section> T + P participants completed an average of 3.8 (standard deviation
+ = 2.0) sessions over study follow up, with 60% completing between
+ three and five sessions. Missing data for those lost to follow up and
+ one cost outlier were multiply imputed and included in the
+ analysis.
+ 
+<section> Healthcare costs
+ 
+<section> Training and supervision activities took place at primary care
+ facilities and in the community throughout the PRIME Nepal
+ implementation phase. PRIME relied on both primary care provi-
+ ders and community health workers to deliver mental health ser-
+ vices. Primary care workers, including adjunct counselors trained
+ through PRIME, provided most mental healthcare received by
+ service users. Community health workers conducted home-based
+ visits to encourage treatment attendance and follow up among
+ service users. Trainings in each setting often involved a mix of
+ both health worker cadres. Total training and supervision costs
+ per service user totaled to $329 and $617 for ST and T + P,
+ respectively (Table 2). Costs for delivering mental and physical
+ health services were substantially lower than implementation
+ costs. Median mental health service delivery costs were slightly
+ higher among T + P participants, while the median cost of phys-
+ ical healthcare among ST participants, which includes services
+ provided by traditional and indigenous healers, was more than
+ double that of T + P participants (Table 2). A detailed investiga-
+ tion of differences in health service use and costs are presented
+ in a forthcoming paper. 
+<insert> Table 2. Median costs per service user (Int$2020)
+ ST T+P
+ Primary care 111.03 304.68
+ Community 150.39 241.68
+ Primary care 0.86 2.31
+ Community 66.55 68.20
+ Mental 18.73 22.38
+ Physical 43.28 17.53
+ All 86.26 49.88
+ PRIME provider training
+ PRIME provider supervision
+ Healthcare use
+ PRIME, Programme for Improving Mental Health Care; ST, standard treatment, T + P,
+ treatment plus psychological intervention. 
+<iend>
+
+ 
+<insert> Fig. 1. Health effects by group over follow up. (A) Change in health status over time.
+ (B) Change in depression symptoms over time. ST, standard treatment; T + P, treat-
+ ment plus psychological Intervention.
+ and 2017 of two mhGAP-based services packages: one with
+ HAP, a behavioral activation psychological intervention, and 
+<iend>
+
+ 
+<section> Health effects
+ 
+<section> There were no significant differences between trial groups in health
+ status ( p = 0.21) or depression symptoms (p = 0.69) at baseline.
+ Over 12-month follow up, ST participants gained a total of 46.5
+ QALYs and T + P participants gained 49.4, averaging 0.776 and
+ 0.825 QALYs gained per participant for ST and T + P, respectively
+ (Fig. 1, Table 2). Total depression symptom scores decreased (indi-
+ cating improvement) by 332.2 points among ST participants and
+ 576.0 among T + P from baseline to 12-month follow up, with
+ an average change score per client of −5.54 (standard error =
+ 0.77) for ST and −9.60 (standard error = 0.59) for T + P.
+ 
+<section> Cost effectiveness
+ 
+<section> We combined total program costs for each treatment group with
+ total health effects to estimate cost-effectiveness (Table 3). T + P
+ cost $12973 more than ST, with 2.93 more QALYs gained and
+ a 243.8-point greater decrease in depression scores among parti-
+ cipants. This resulted in an ICER for T + P relative to ST of
+ $4422 per QALY gained, which is slightly above the per capita
+ GDP threshold of $4009 for being considered highly cost-effective
+ and well under the cost-effectiveness threshold of three times per
+ capita GDP. The ICER for changes in depression symptoms, our
+ secondary measure of health effect, was $53.2 per point decrease
+ on the PHQ-9. The per-client approach and a comparison of
+ results for the total and per-client methods are presented in the
+ supplement (online Supplementary Tables S1 and S2).
+ Nonparametric uncertainty analysis resulted in a 95% confidence
+ interval of $2484 to $9550 per QALY gained. Approximately 37%
+ and 99% of bootstrapped iterations were under the thresholds of
+ one and three times gross domestic product per capita, respectively
+ (Fig. 2). Uncertainty analysis for the secondary ICER resulted in a
+ 95% confidence interval of −$105.8 to −$30.2 per unit change on
+ the PHQ-9.
+ 
+<section> Discussion
+ 
+<section> We conducted a cost-effectiveness analysis of providing a psycho-
+ logical intervention as part of primary-care-based services for
+ people with depression in Chitwan, Nepal. Data for this study
+ are from a randomized trial nested within PRIME between 2013
+ another without. We found the cost-effectiveness of T + P to be
+ $4422 per QALY gained in 2020 international dollars, well
+ below the cost-effective threshold of three times per-capita GDP
+ and slightly above the per capita GDP threshold for being highly
+ cost-effective. Nonparametric uncertainty analysis indicated a
+ very strong likelihood the ICER is below the cost-effective thresh-
+ old, though a low likelihood it is below the highly cost-effective
+ threshold. The findings and limitations of our study are consid-
+ ered within context of economic evaluation research in global
+ mental health, including notable methodological approaches,
+ before implications for practice and policy are presented.
+ A strength of our study is the prospective costing of implemen-
+ tation within cost-effectiveness analysis. Implementation costs are
+ often underestimated during economic evaluations of public
+ health interventions and can qualitatively affect research findings
+ (Sohn et al., 2020). These costs, defined here as the economic
+ value of resources used for provider training and supervision
+ per client, were over ten times the cost of direct service delivery
+ of PRIME services for depression. Though service delivery costs
+ were similar to those projected during planning (Chisholm
+ et al., 2016), failing to account for the cost of resources linked
+ to their implementation would have substantively limited our
+ understanding of the cost and value of both service packages.
+ Implementation costs should be a key target when considering
+ how to improve program efficiency.
+ A second strength is our use of novel methods to estimate indi-
+ vidual health utility at each time point, rather than applying broad
+ categories of generic disability weights for depression developed
+ in other contexts. Methods published by Lokkerbol et al. (2021)
+ enabled us to use sociodemographic factors and WHODAS
+ items to calculate QALYs gained for each participant.
+ WHODAS is a widely-used measure in global mental health
+ with some evidence to indicate it is sensitive to changes in mental 
+<insert> Table 3. Incremental cost-effectiveness of psychological intervention
+ Health effects ICER
+ n Σ Cost Σ QALYs Σ(ΔPHQ-9) QALYs PHQ-9
+ ST $29736 46.54 −332.15 – –
+ T+P $42709 49.47 −575.95 $4422 −$53.21
+ ST, standard treatment; T + P, Treatment + Psychological intervention; S E standard error; QALYs, quality adjusted life years; PHQ-9, Patient Health Questionnaire; ICER, incremental
+ cost-effectiveness ratio. 
+<iend>
+
+ 
+<insert> Fig. 2. Nonparametric uncertainty analysis of cost-effectiveness. GDP Gross domestic
+ product, I$ international dollars. 
+<iend>
+
+ health and functioning (e.g., Habtamu et al., 2017). Notably, aver-
+ age baseline disability derived from WHODAS mapping is lower
+ than the generic disability weight used by the Global Burden of
+ Disease Studies for a moderate depressive episode (Global
+ Burden of Disease Collaborative Network, 2020). In the absence
+ of valid, sensitive quality of life measures appropriate for LMIC,
+ deriving QALYs from WHODAS provides an opportunity to
+ strengthen and standardize methodological approaches to eco-
+ nomic evaluation within global mental health.
+ Our study is limited by the lack of established cost-effectiveness
+ thresholds in Nepal. We refer to ‘historical’ cost-effectiveness
+ thresholds based on per capita GDP initially developed by WHO
+ (2001), which have been critiqued for their limited applicability
+ to public health (Marseille et al., 2015; Bertram et al., 2016).
+ More recent research has varied considerably in producing newer
+ thresholds. Stenberg et al. (2014) estimate a threshold 1.5 to
+ 2.0 times per capita GDP for low-income countries based on a
+ review of evidence for the value of statistical life years. Woods
+ et al. (2016) developed a threshold range of $109 to $1756 for
+ Nepal, less than half of per capita GDP at its upper limit.
+ Ochalek et al. (2018) estimated a threshold range of $256 to
+ $291 for Nepal, approximately 6% of per capita GDP. We present
+ our results according to the most commonly used, while flawed,
+ cost-effectiveness thresholds from the WHO while also providing
+ a supplemental figure (online Supplementary Fig. S3) to indicate
+ the likelihood of cost-effectiveness across a range of alternate
+ thresholds.
+ 
+<section> Our study is also somewhat limited in the scope of the societal
+ perspective chosen for cost-effectiveness analysis. We account for
+ all formal and informal healthcare costs in the societal perspec-
+ tive, such as transportation fees and the value of service user
+ time (Sanders et al., 2016). However, we did not account for
+ potential differences in the value of non-health related benefits.
+ As such, there may be relevant differences in productivity, use
+ of social services, or other non-health benefits not captured in
+ our costing approach. Moreover, we present only the societal per-
+ spective comprised of formal and informal healthcare costs and
+ do present the healthcare sector or payer perspectives. Given
+ the vast majority of costs were incurred for training and supervi-
+ sion within the formal health system, it is highly unlikely adopting
+ a more narrow perspective of the healthcare sector or payer would
+ qualitatively affect our findings.
+ Our results align with similar research on HAP delivered
+ within primary care in Goa, India. An economic evaluation of
+ HAP in Goa, where the program was first developed, resulted
+ in an ICER of $9333 per QALY gained compared to usual care,
+ or roughly 60% of the state’s per capita GDP but above national
+ per capita GDP (Patel et al., 2017; Weobong et al., 2017).
+ Recent research supports the long-term effectiveness and cost-
+ effectiveness of HAP in India at five-year follow up (Bhat et al.,
+ 2022). A similar trial in Goa found collaborative stepped care
+ compared to usual care for common mental disorders in primary
+ care to be more costly in private facilities, cost saving in public
+ facilities, and slightly more effective in both facility types
+ (Buttorff et al., 2012). Overall, our findings generally align with
+ the small evidence base for the cost-effectiveness of integrated ser-
+ vices for depression in primary care within LMIC (Cubillos et al.,
+ 2020). A distinction of the present study is our inclusion of an
+ active comparison group rather than comparing to usual care.
+ Usual care, even ‘enhanced’ usual care, within mental health stud-
+ ies in LMIC typically means little to no actual treatment for
+ depression is provided. Our findings indicate including a psycho-
+ logical intervention is cost-effective above and beyond active treat-
+ ment delivered according to mhGAP guidelines.
+ The Ministry of Health in Nepal has adopted plans to scale up
+ a model of services for priority mental disorders based on the evi-
+ dence established by PRIME (Luitel et al., 2020). Future research
+ should examine how the cost-effectiveness of the psychological
+ intervention may change based on their model at scale. High
+ implementation costs observed in the present trial will likely be
+ reduced given economies of scale and changes to implementation
+ strategies by the ministry, such as changes to who provides treat-
+ ment, who conducts trainings, and the number of providers in
+ each training cohort. Future research should also consider the
+ equity of health and financial benefits conferred by integrated ser-
+ vices for depression, as the present study was not sufficiently pow-
+ ered for subgroup analysis across key socioeconomic factors. 
+<section> Lastly, methods for economic research within global mental
+ health should be standardized to improve the comparability and
+ utility of findings. This includes building consensus for cost-
+ effectiveness thresholds reflecting the willingness to pay for health
+ spending in Nepal, rather than applying a generic GDP-based
+ approach to all LMIC. Health utility measurement should also
+ be standardized within mental health research given debate on
+ the sensitivity of popular quality of life measures for mental
+ health (Connell et al., 2014; Mukuria et al., 2016), and we support
+ the use of WHODAS to estimate individual health utility rather
+ than applying generic disability weights in the interim.
+ 
+<section> Conclusion
+ 
+<section> Providing HAP is cost-effective within primary care services for
+ depression in Chitwan, Nepal. Combined with previous evidence
+ indicating psychological intervention is likely central to clinical
+ and functional effectiveness, our findings provide further evidence
+ that evidence-based psychological intervention should be
+ included when integrating and scaling up services for depression
+ in Nepal and similar contexts.
+ 
+<section> Supplementary material. The supplementary material for this article can
+ be found at https://doi.org/10.1017/gmh.2022.54.
+ 
+<section> Acknowledgements. We thank Dr. Colleen Barry for her input during the
+ conceptualization of the study. We would also like to the researchers from
+ the Transcultural Psychosocial Organization Nepal and the study participants
+ for their contributions to this study.
+ 
+<section> Financial support. The PRIME Research Programme Consortium was
+ funded by the UK Department of International Development (DFID) for
+ the benefit of developing countries. LRA was supported by T32 training grants
+ in Global Mental Health (#T32MH103210; PI: Judith K. Bass) during study
+ conceptualization and in Mental Health Services and Systems from the
+ National Institute of Mental Health (#T32MH109436; PIs: Emma Elizabeth
+ McGinty, Elizabeth A. Stuart) during analysis and manuscript preparation.
+ The views expressed in this publication are not necessarily those of the fun-
+ ders. The funding body had no role in the design of the study, data collection
+ and analysis, interpretation of the data and preparation of the manuscript.
+ 
+<section> Conflict of interest. None.
+ 
+<section> Ethical standards. This study was approved by the Nepal Health Research
+ Council (NHRC) (Reg no 36/2014), the Health Sciences’ Human Research
+ Ethics Committee at the University of Cape Town, South Africa, as well as
+ by the World Health Organization Ethics Review Committee, Switzerland
+ (reference number: RPC 497). A written informed consent was obtained
+ from each participant. The authors assert that all procedures contributing to
+ this work comply with the ethical standards of the relevant national and insti-
+ tutional committees on human experimentation and with the Helsinki
+ Declaration of 1975, as revised in 2008.
+ 
+<section> References
+ 
+<section> Aldridge LR, Garman EC, Luitel NP and Jordans MJD (2020) Impact of a
+ district mental health care plan on suicidality among patients with depres-
+ sion and alcohol use disorder in Nepal. PLoS ONE 15, 1–13.
+ 
+<section> Baron EC, Rathod SD, Hanlon C, Prince M, Fedaku A, Kigozi F, Jordans MJD,
+ Luitel NP, Medhin G, Murhar V, Nakku J, Patel VH, Peterson I, Selohilwe
+ O, Shidhaye R, Ssebunnya J, Tomlinson M, Lund C and De Silva MJ (2018)
+ Impact of district mental health care plans on symptom severity and functioning
+ of patients with priority mental health conditions: the Programme for
+ Improving Mental Health Care (PRIME) cohort protocol. BMC Psychiatry
+ 
+<section> 18,
+ 
+<section> Beaglehole R, Epping-Jordan JA, Patel VH, Chopra M, Ebrahim S, Kidd M
+ 
+<section> and Haines A (2008) Improving the prevention and management of
+ chronic disease in low-income and middle-income countries: a priority
+ for primary health care. The Lancet 372, 940–949.
+ 
+<section> Bertram MY, Lauer JA, De Joncheere K, Edejer T, Hutubessy R, Kieny M-P
+ 
+<section> and Hill SR (2016) Cost–effectiveness thresholds: pros and cons. Bulletin of
+ the World Health Organization 94, 925–930.
+ 
+<section> Bhardwaj A, Gurung D, Rai S, Kaiser BN, Cafaro CL, Sikkema KJ, Lund C,
+ Luitel NP and Kohrt BA (2022) Treatment preferences for pharmacological
+ versus psychological interventions among primary care providers in Nepal
+ mixed methods analysis of a pilot cluster randomized controlled trial. Int J
+ Environ Res Public Health 19, 2149. doi: 10.3390/ijerph19042149
+ 
+<section> Bhat B, de Quidt J, Haushofer J, Patel VH, Rao G, Schilbach F and Vautrey
+ 
+<section> P-LP (2022) The long-run effects of psychotherapy on depression, beliefs, and
+ economic outcomes. In NBER Working Paper Series (No. 3011). Available at
+ https://www.nber.org/system/files/working_papers/w30011/w30011.pdf
+ 
+<section> Bimali I, Adhikari SP, Baidya S and Shakya NR (2018) Impairment and
+ functional status of people with disabilities following Nepal earthquake
+ 2015. Kathmandu University Medical Journal 16, 285–289.
+ 
+<section> Buttorff C, Hock RS, Weiss HA, Naik S, Araya R, Kirkwood BR, Chisholm
+ D and Patel VH (2012) Economic evaluation of a task-shifting intervention
+ for common mental disorders in India. Bulletin of the World Health
+ Organization 90, 813–821.
+ 
+<section> Chisholm D, Knapp MR, Knudsen HC, Amaddeo F, Gaite L and van
+ 
+<section> Wijngaarden B (2000) Client socio-demographic and service receipt inven-
+ tory – European version: development of an instrument for international
+ research. EPSILON study 5. European psychiatric services: inputs linked
+ to outcome domains and needs. The British Journal of Psychiatry 177,
+ s28–s33.
+ 
+<section> Chisholm D, Burman-Roy S, Fekadu A, Kathree T, Kizza D, Luitel NP,
+ Peterson I, Shidhaye R, De Silva MJ and Lund C (2016) Estimating the
+ cost of implementing district mental healthcare plans in five low-and
+ middle-income countries: the PRIME study. British Journal of Psychiatry
+ 
+<section> 208, s71–s78.
+ 
+<section> Chisholm D, Heslin M, Docrat S, Nanda S, Shidhaye R, Upadhaya N,
+ Jordans MJD, Abdulmalik J, Olayiwola S, Gureje O, Kizza D, Mugisha
+ J, Kigozi F, Hanlon C, Adugna M, Sanders R, Pretorius C,
+ Thornicroft G and Lund C (2017) Scaling-up services for psychosis,
+ depression and epilepsy in sub-Saharan Africa and South Asia: develop-
+ ment and application of a mental health systems planning tool
+ (OneHealth). Epidemiology and Psychiatric Sciences 26(3), 234–244. doi:
+ 
+<section> 10.1017/S2045796016000408
+ 
+<section> Chowdhary N, Anand A, Dimidjian S, Shinde S, Weobong B, Balaji M,
+ Hollon SD, Rahman A, Wilson GT, Verdeli H, Araya R, King M,
+ Jordans MJD, Fairburn C, Kirkwood B and Patel VH (2016) The healthy
+ activity program lay counsellor delivered treatment for severe depression in
+ 
+<section> India: systematic development and randomised evaluation. British Journal
+ of Psychiatry 208, 381–388.
+ 
+<section> Collins PY, Patel VH, Joestl SS, March D, Insel TR, Daar AS, Bordin IA,
+ Costello EJ, Durkin M, Fairburn C, Glass RI, Hall W, Huang Y, Hyman
+ SE, Jamison K, Kaaya S, Kapur S, Kleinman A, Ogunniyi AOtero-Ojeda
+ A, Ravindranath V, Sahakian BJ, Saxena S, Singer PA, Stein DJ,
+ Anderson W, Dhansay MA, Ewart W, Phillips A, Shurin S and Walport
+ 
+<section> M (2011) Grand challenges in global mental health. Nature 475, 27–30.
+ 
+<section> Connell J, O’Cathain A and Brazier J (2014) Measuring quality of life in
+ mental health: are we asking the right questions? Social Science and
+ Medicine 120, 12–20.
+ 
+<section> Cubillos L, Bartels SM, Torrey WC, Naslund J, Uribe-Restrepo JM,
+ Gaviola C, Díaz SC, John DT, Williams MJ, Cepeda M,
+ Gómez-Restrepo C and Marsch LA (2020) The effectiveness and cost-
+ effectiveness of integrating mental health services in primary care in low-
+ and middle-income countries: systematic review. BJPsych Bulletin 45, 1–13.
+ 
+<section> Cuijpers P, Hollon SD, Van Straten A, Bockting C, Berking M and
+ 
+<section> Andersson G (2013) Does cognitive behaviour therapy have an enduring
+ effect that is superior to keeping patients on continuation pharmacother-
+ apy? A meta-analysis. BMJ Open 3, 1–8. https://doi.org/10.1136/bmjopen-
+ 2012-002542. 
+<section> Cuijpers P, Karyotaki E, Reijnders M, Purgato M and Barbui C (2018)
+ Psychotherapies for depression in low- and middle-income countries: a
+ meta-analysis. World Psychiatry 17, 90–101.
+ 
+<section> Drummond MF, Sculpher MJ, Claxton K, Stoddart GL and Torrance GW
+ 
+<section> (2015) Methods for the Economic Evaluation of Health Care Programmes,
+ 4th Edn. Oxford: Oxford University Press.
+ 
+<section> Fairburn CG and Patel VH (2014) The global dissemination of psychological
+ treatments: a road map for research and practice. American Journal of
+ Psychiatry 171, 495–498.
+ 
+<section> GBD 2019 Mental Disorders Collaborators (2022) Global, regional, and
+ national burden of 12 mental disorders in 204 countries and territories,
+ 1990–2019: a systematic analysis for the Global Burden of Disease Study
+ 2019. The Lancet Psychiatry 9, 137–150.
+ 
+<section> Global Burden of Disease Collaborative Network (2020) Global Burden of
+ Disease Study 2019 (GBD 2019) Disability Weights. Seattle: Institute for
+ Health Metrics and Evaluation. https://doi.org/10.6069/1W19-VX76.
+ 
+<section> Habtamu K, Alem A, Medhin G, Fekadu A, Dewey M, Prince M and
+ 
+<section> Hanlon C (2017) Validation of the World Health Organization disability
+ assessment schedule in people with severe mental disorders in rural
+ Ethiopia. Health and Quality of Life Outcomes 15, 1–11.
+ 
+<section> Herrman H, Patel V, Kieling C, Berk M, Buchweitz C, Cuijpers P,
+ Furukawa TA, Kessler RC, Kohrt BA, Maj M, McGorry P, Reynolds
+ CF 3rd, Weissman MM, Chibanda D, Dowrick C, Howard LM, Hoven
+ CW, Knapp M, Mayberg HS, Penninx BWJH, Xiao S, Trivedi M, Uher
+ R, Vijayakumar L and Wolpert M (2022) Time for united action on
+ depression: a Lancet-World Psychiatric Association Commission. Lancet
+ 
+<section> 399, 957–1022.
+ 
+<section> Hoeft TJ, Fortney JC, Patel VH and Unützer J (2018) Task-sharing
+ approaches to improve mental health care in rural and other low-resource
+ settings: a systematic review. Journal of Rural Health 34, 48–62.
+ 
+<section> Jordans MJD, Luitel NP, Pokhrel P and Patel VH (2016) Development and
+ pilot testing of a mental healthcare plan in Nepal. British Journal of
+ Psychiatry 208, 1–28.
+ 
+<section> Jordans MJD, Luitel NP, Garman EC, Kohrt BA, Rathod SD, Shrestha P,
+ Komproe IH, Lund C and Patel VH (2019a) Effectiveness of psychological
+ treatments for depression and alcohol use disorder delivered by
+ community-based counsellors: two pragmatic randomised controlled trials
+ within primary healthcare in Nepal. British Journal of Psychiatry 215,
+ 485–493.
+ 
+<section> Jordans MJD, Luitel NP, Kohrt BA, Rathod SD, Garman EC, De Silva MJ,
+ Komproe IH, Patel VH and Lund C (2019b) Community-, facility-, and
+ individual-level outcomes of a district mental healthcare plan in a low-
+ resource setting in Nepal: a population-based evaluation. PLoS Medicine
+ 
+<section> 16, 1–20.
+ 
+<section> Jordans MJD, Garman EC, Luitel NP, Kohrt BA, Lund C, Patel VH and
+ 
+<section> Tomlinson M (2020a) Impact of integrated district level mental health
+ care on clinical and functioning outcomes of people with depression and
+ alcohol use disorder in Nepal: a non- randomised controlled study. BMC
+ Psychiatry 20, 1–13.
+ 
+<section> Jordans MJD, Garman EC, Luitel NP, Kohrt BA, Lund C, Patel VH and
+ 
+<section> Tomlinson M (2020b) Impact of integrated district level mental health
+ care on clinical and functioning outcomes of people with depression and
+ alcohol use disorder in Nepal: a non-randomised controlled study. BMC
+ 
+<section> Psychiatry 20,
+ Jordans MJD, Luitel NP, Lund C and Kohrt BA (2020c) Evaluation of pro-
+ active community case detection to increase help seeking for mental health
+ care: a pragmatic randomized controlled trial. Psychiatric Services 71, 810–815.
+ 
+<section> Kakuma R, Minas H, Van Ginneken N, Dal Poz MR, Desiraju K, Morris JE,
+ Saxena S and Scheffler RM (2011) Human resources for mental health
+ care: current situation and strategies for action. The Lancet 378, 1654–1663.
+ 
+<section> Karyotaki E, Araya R, Kessler RC, Waqas A, Bhana A, Rahman A, Matsuzaka
+ CT, Miguel C, Lund C, Garman EC, Nakimuli-Mpungu E, Peterson I,
+ Naslund JA, Schneider M, Sikander S, Jordans MJD, Abas M, Slade P,
+ Walters S, and Patel VH (2022) Association of task-shared psychological
+ interventions with depression outcomes in low- and middle-income countries.
+ 
+<section> JAMA Psychiatry 79, 430–443.
+ 
+<section> Keynejad RC, Dua T, Barbui C and Thornicroft G (2018) WHO Mental
+ Health Gap Action Programme (mhGAP) intervention guide: a systematic
+ review of evidence from low and middleincome countries. Evidence-Based
+ Mental Health 21, 29–33.
+ 
+<section> Knapp M and Wong G (2020) Economics and mental health: the current
+ scenario. World Psychiatry 19, 3–14.
+ 
+<section> Kohrt BA, Luitel NP, Acharya P and Jordans MJD (2016) Detection of
+ depression in low resource settings: validation of the Patient Health
+ Questionnaire (PHQ-9) and cultural concepts of distress in Nepal. BMC
+ 
+<section> Psychiatry 16,
+ Kola L, Kohrt BA, Hanlon C, Naslund JA, Sikander S, Balaji M, Benjet C,
+ Cheung EYL, Eaton J, Gonsalves P, Hailemariam M, Luitel NP, Machado
+ DB, Misganaw E, Omigbodun O, Roberts T, Salisbury TT, Shidhaye R,
+ Sunkel C, Ugo V, van Rensburg AJ, Gureje O, Pathare S, Saxena S,
+ Thornicroft G and Patel V (2021) COVID-19 mental health impact and
+ responses in low-income and middle-income countries: reimagining global
+ mental health. The Lancet Psychiatry 8, 535–550.
+ 
+<section> Kroenke K, Spitzer RL and Williams JBW (2001) The PHQ-9: validity of a
+ brief depression severity measure. Journal of General Internal Medicine 16,
+ 606–613.
+ 
+<section> Lokkerbol J, Wijnen BFM, Chatterji S, Kessler RC and Chisholm D (2021)
+ Mapping of the World Health Organization’s disability assessment schedule
+ 2.0 to disability weights using the multi-country survey study on health and
+ responsiveness. International Journal of Methods in Psychiatric Research 30,
+ e1886. https://doi.org/10.1002/mpr.1886.
+ 
+<section> Luitel NP, Jordans MJD, Sapkota RP, Tol WA, Kohrt BA, Thapa SB,
+ Komproe IH and Sharma B (2013) Conflict and mental health: a cross-
+ sectional epidemiological study in Nepal. Social Psychiatry and Psychiatric
+ Epidemiology 48, 183–193.
+ 
+<section> Luitel NP, Jordans MJD, Kohrt BA, Rathod SD and Komproe IH (2017)
+ Treatment gap and barriers for mental health care: a cross-sectional com-
+ munity survey in Nepal. PLoS ONE 9, e1001359.
+ 
+<section> Luitel NP, Breuer E, Adhikari A, Kohrt BA, Lund C, Komroe IH
+ 
+<section> and Jordans MJD (2020) Process evaluation of a district mental
+ health care plan in Nepal: a mixed methods case study. BMJ Open Psych
+ 
+<section> 6, 1–11.
+ 
+<section> Lund C, Tomlinson M, De Silva M, Fekadu A, Shidhaye R, Jordans M,
+ Petersen I, Bhana A, Kigozi F, Prince M, Thornicroft G, Hanlon C,
+ Kakuma R, McDaid D, Saxena S, Chisholm D, Raja S, Kippen-Wood
+ S, Honikman S, Fairall L and Patel V (2012) PRIME: a programme to
+ reduce the treatment gap for mental disorders in five low- and middle-
+ income countries. PLoS Medicine 9, e1001359.
+ 
+<section> Marseille E, Larson B, Kazi DS, Kahn JG and Rosen S (2015) Thresholds for
+ the cost–effectiveness of interventions: alternative approaches. Bulletin of
+ the World Health Organization 93, 118–124.
+ 
+<section> McBain RK, Salhi C, Hann K, Salomon JA, Kim JJ and Betancourt TS
+ (2016) Costs and cost-effectiveness of a mental health intervention for war-
+ affected young persons: decision analysis based on a randomized controlled
+ trial. Health Policy and Planning 31, 415–424.
+ 
+<section> Mukuria C, Rowen D, Peasgood T and Brazier J (2016) An Empirical
+ Comparison of Well-Being Measures Used in UK. Sheffield: Policy
+ Research Unit in Economic Evaluation of Health and Care Interventions,
+ University of Sheffield.
+ 
+<section> Ochalek J, Lomas J and Claxton K (2018) Estimating health opportunity costs
+ in low-income and middle-income countries: a novel approach and evi-
+ dence from cross-country data. BMJ Global Health 3, e000964. https://
+ doi.org/10.1136/bmjgh-2018-000964.
+ 
+<section> Patel VH, Weobong B, Weiss HA, Anand A, Bhat B, Katti B, Dimidjian S,
+ Araya R, Hollon SD, King M, Vijayakumar L, Park AL, McDaid D,
+ Wilson T, Velleman R, Kirkwood BR and Fairburn CG (2017) The
+ Healthy Activity Program (HAP), a lay counsellor-delivered brief psycho-
+ logical treatment for severe depression, in primary care in India: a rando-
+ mised controlled trial. The Lancet 389, 176–185.
+ 
+<section> Patel V, Saxena S, Lund C, Thornicroft G, Baingana F, Bolton P, Chisholm
+ D, Collins PY, Cooper JL, Eaton J, Herrman H, Herzallah MM, Huang Y,
+ Jordans MJD, Kleinman A, Medina-Mora ME, Morgan E, Niaz U,
+ Omigbodun O, Prince M, Rahman A, Saraceno B, Sarkar BK, De Silva
+ M, Singh I, Stein DJ, Sunkel C and UnÜtzer J (2018) The Lancet
+ Commission on global mental health and sustainable development. The
+ Lancet 392, 1553–1598. 
+<section> Risal A, Kunwar D, Karki E, Adhikari SP, Bimali I, Shrestha B, Khadka S
+ 
+<section> and Holen A (2021) Adapting world health organization disability assess-
+ ment schedule 2.0 for Nepal. BMC Psychology 9, 1–10.
+ 
+<section> Sanders GD, Neumann PJ, Basu A, Brock DW, Feeny D, Krahn M, Kuntz
+ KM, Meltzer DO, Owens DK, Prosser LA, Salomon JA, Sculpher MJ,
+ Trikalinos TA, Russell LB, Siegel JE and Ganiats TG (2016)
+ Recommendations for conduct, methodological practices, and reporting
+ of cost-effectiveness analyses: second panel on cost-effectiveness in health
+ and medicine. JAMA 316, 1093–1103.
+ 
+<section> Singla DR, Kohrt BA, Murray LK, Anand A, Chorpita BF and Patel VH
+ (2017) Psychological treatments for the world: lessons from low- and
+ middle-income countries. Annual Review of Clinical Psychology 13, 149–181.
+ 
+<section> Sohn H, Tucker A, Ferguson O, Gomes I and Dowdy D (2020) Costing the
+ implementation of public health interventions in resource-limited settings:
+ a conceptual framework. Implementation Science 15, 1–8.
+ 
+<section> Stenberg K, Axelson H, Sheehan P, Anderson I, Gülmezoglu AM,
+ Temmerman M, Mason E, Friedman HS, Bhutta ZA, Lawn JE, Sweeny
+ K, Tulloch J, Hansen P, Chopra M, Gupta A, Vogel JP, Ostergren M,
+ Rasmussen B, Levin C, Boyle C, Kuruvilla S, Koblinsky M, Walker N,
+ de Francisco A, Novcic N, Presern C, Jamison D, Bustreo F; Study
+ Group for the Global Investment Framework for Women’s Children’s
+ 
+<section> Health (2014) Advancing social and economic development by investing
+ in women’s and children’s health: A new Global Investment Framework.
+ 
+<section> The Lancet 383, 1333–1354.
+ 
+<section> Stenberg K, Lauer JA, Gkountouras G, Fitzpatrick C and Stanciole A (2018)
+ Econometric estimation of WHO-CHOICE country-specific costs for
+ inpatient and outpatient health service delivery. Cost Effectiveness and
+ Resource Allocation 16, 1–15.
+ 
+<section> Subba P, Luitel NP, Kohrt BA and Jordans MJD (2017) Improving detection
+ of mental health problems in community settings in Nepal: development
+ and pilot testing of the community informant detection tool. Conflict and
+ Health 11, 1–11.
+ 
+<section> Thornicroft G, Chatterji S, Evans-Lacko S, Gruber M, Sampson N, Aguilar-
+ Gaxiola S, Al-Hamzawi A, Alonso J, Andrade L, Borges G, Bruffaerts R,
+ Bunting B, de Almeida JM, Florescu S, de Girolamo G, Gureje O, Haro
+ JM, He Y, Hinkov H, Karam E, Kawakami N, Lee S, Navarro-Mateu F,
+ Piazza M, Posada-Villa J, de Galvis YT and Kessler RC (2017)
+ Undertreatment of people with major depressive disorder in 21 countries.
+ 
+<section> British Journal of Psychiatry 210, 119–124.
+ 
+<section> Tol WA, Komproe IH, Thapa SB, Jordans MJD, Sharma B and De Jong
+ 
+<section> JTVM (2007) Disability associated with psychiatric symptoms among tor-
+ ture survivors in rural Nepal. The Journal of Nervous and Mental Disease
+ 
+<section> 195, 463–469.
+ 
+<section> Üstün TB (2010) Measuring Health and Disability: Manual for WHO Disability
+ Assessment Schedule (WHODAS 2.0) (T. Üstün, N. Kostanjsek, S. Chatterji,
+ & J. Rehm (eds.)). Available at https://books.google.com/books?hl=en&lr=
+ &id=h9fhLNiaRTgC&pgis=1.
+ 
+<section> Üstün TB, Chatterji S, Villanueva M and Benib L (2003) WHO
+ Multi-Country Survey Study on health and responsiveness 2001–2002.
+ 
+<section> Health Systems Performance Assessment: Debates, Methods and
+ Empiricisms, November, 762–767.
+ 
+<section> van Ginneken N, Tharyan P, Lewin S, Rao GN, Romeo R and Patel VH
+ (2011) Non-specialist health worker interventions for mental health care
+ in low- and middle- income countries. Cochrane Database of Systematic
+ Reviews 11, 1–20.
+ 
+<section> Vigo DV, Kestel D, Pendakur K, Thornicroft G and Atun R (2019) Disease
+ burden and government spending on mental, neurological, and substance
+ use disorders, and self-harm: cross-sectional, ecological study of health sys-
+ tem response in the Americas. The Lancet Public Health 4, e89–e96.
+ 
+<section> Weobong B, Weiss HA, McDaid D, Singla DR, Hollon SD, Nadkarni A,
+ Park AL, Bhat B, Katti B, Anand A, Dimidjian S, Araya R, King M,
+ Vijayakumar L, Wilson GT, Velleman R, Kirkwood BR, Fairburn CG
+ 
+<section> and Patel VH (2017) Sustained effectiveness and cost-effectiveness of the
+ Healthy Activity Programme, a brief psychological treatment for depression
+ delivered by lay counsellors in primary care: 12-month follow-up of a ran-
+ domised controlled trial. PLoS Medicine 14, 1–21.
+ 
+<section> Woods B, Revill P, Sculpher M and Claxton K (2016) Country-level cost-
+ effectiveness thresholds: initial estimates and the need for further research.
+ 
+<section> Value in Health 19, 929–935.
+ 
+<section> Word Health Organization (2001) Report of the Commission on
+ 
+<section> Macroeconomics and Health—Macroeconomics and Health: Investing in
+ Health for Economic Development. https://doi.org/10.1038/nm0602-551b.
+ 
+<section> World Bank (2022) PPP conversion factor, GDP (LCU per international $) - India.
+ 
+<section> Available at https://data.worldbank.org/indicator/PA.NUS.PPP?locations=IN.
+ 
+<section> World Health Organization (2008) Mental Health Gap Action Programme –
+ Scaling up care for mental, neurological, and substance use disorders. https://
+ doi.org/ISBN:9789241596.
+ 
+<section> World Health Organization (2014) mhGAP Intervention Guide for Mental,
+ Neurological and Substance Use Disorders in Non-Specialized Health
+ Settings. Geneva: WHO Press. http://apps.who.int/iris/bitstream/10665/
+ 44406/1/9789241548069_eng.pdf.
+ 
+<section> Yeo ST, Lloyd-Williams H and Edwards RT (2019) The supply and
+ demand of preventive goods and services and the need for economic ana-
+ lysis. In Edwards RT and McIntosh E (eds), Applied Health Economics
+ for Public Health Research and Practice. Oxford: Oxford University Press,
+ pp. 27–52.

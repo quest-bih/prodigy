@@ -1,0 +1,1442 @@
+
+<section> The impact of financial
+ 
+<section> HIV incidence among
+ 
+<section> and young women
+ 
+<section> Sitakhela Likusasa,
+ 
+<section> randomised trial
+ 
+<section> Marelize Gorgens, 1 Sosthenes Ketende,
+ Muziwethu Nkambule, 3 Tengetile Dlamini,
+ Tendai Chipepera, 4 Mxolisi Leroy Ndikandika,
+ Lindiwe Dlamini, 6 David Wilson, 1 Damien
+ 
+<section> To cite: Gorgens M, Ketende S, ABSTRACT
+ 
+<section> Longosz AF, et al. The impact Introduction Incentives conditional on school attendance
+ of financial incentives on HIV or on remaining free of sexually transmitted infections
+ incidence among adolescent have produced mixed results in reducing HIV incidence.
+ 
+<section> girls and young women in
+ 
+<section> Eswatini: Sitakhela Likusasa, Methods HIV-­negative adolescent girls and young women
+ a cluster randomised aged 15–22%–50% of whom were out of school—were
+ trial. BMJ Global Health recruited from 293 clusters in Eswatini from urban (30%)
+ 2022;7:e007206. doi:10.1136/ and rural areas (70%).
+ bmjgh-2021-007206 Financial incentives conditional on education attendance
+ were randomly allocated at the cluster level. All
+ 
+<section> Handling editor Seye Abimbola participants were further individually randomised into
+ eligibility for a raffle incentive conditional on random
+ 
+<section> ► Additional supplemental
+ material is published online only. selection into the raffle, on negative tests for syphilis
+ To view, please visit the journal and Trichomonas vaginalis and on being a raffle winner,
+ online (http://​dx. d oi.​org/​10.​ creating four subarms in a 2×2 factorial design: no-­
+ 1136/ b mjgh-​2021- 07206). intervention, raffle incentive, education incentive and raffle
+ & education incentive. Randomisation was unblinded to
+ participants.
+ 
+<section> DdW and KM are joint senior
+ Logistic regressions were used in intention-­to-­treat
+ authors.
+ analysis of HIV incidence over 3 years to estimate the
+ Received 16 August 2021 impact of incentives conditional on school attendance
+ Accepted 29 May 2022 and raffle incentives conditional on remaining sexually
+ transmitted infection free.
+ 
+<section> Results The study recruited 4389 HIV-­negative
+ participants, who were distributed into four subarms: no
+ intervention (n=1068), raffle incentive (n=1162), education
+ incentive (n=1088) and raffle and education incentive
+ (n=1071).
+ At endline, 272 participants from 3772 for whom endline
+ 
+<section> © Author(s) (or their data were collected, tested positive for HIV. HIV incidence
+ employer(s)) 2022. Re-­use among participants in education treatment arm was
+ permitted under CC BY-­NC. No significantly lower than in the education control arm,
+ commercial re-­use. See rights 6.34% (119/1878) versus 8.08% (153/1894) (p=0.041);
+ and permissions. Published by 
+<section> OR: 0.766 (0.598 to 0.981); adjusted OR (aOR): 0.754
+ BMJ. (0.585 to 0.972). Compared with the no intervention
+ For numbered affiliations see subarm, HIV incidence in the raffle and education incentive
+ end of article.
+ subarm was significantly lower, 5.79% (54/878) versus
+ 
+<section> Correspondence to 8.84% (80/905); OR: 0.634 (0.443 to 0.907); aOR: 0.622
+ Dr Damien de Walque; (0.433 to 0.893), while it was not significantly lower in the
+ d dewalque@​worldbank.​org raffle incentive subarm.
+ 
+<section> incentives on
+ 
+<section> adolescent girls
+ 
+<section> in Eswatini:
+ 
+<section> a cluster
+ 
+<section> 1 Andrew F Longosz, 1 Mbuso Mabuza,
+ 2 Kelvin Sikwibele, 4 Vimbai Tsododo,
+ 4 Wendy Heard, 1 Gugu Maphalala,
+ de Walque, 7 Khanya Mabuza
+ 
+<section> WHAT IS ALREADY KNOWN ON THIS TOPIC
+ 
+<section> ⇒ Studies focusing on the impact of incentives condi-
+ tional on participation in education on HIV prevention
+ have had mixed results, and studies with financial
+ incentives contingent on negative sexually trans-
+ mitted infection (STI) results showed success in re-
+ ducing STI prevalence in Tanzania and reducing HIV
+ incidence in Lesotho.
+ 
+<section> ⇒ Given these mixed results and, therefore, uncertain
+ policy outlook, this study was designed to test the
+ impact of both types of conditional financial in-
+ centives, and their combination, on HIV incidence
+ among adolescent girls and young women (AGYW),
+ a population at high risk for HIV infection in Eswatini.
+ 
+<section> WHAT THIS STUDY ADDS
+ 
+<section> ⇒ The financial incentives conditional on education
+ participation significantly reduced the odds of HIV
+ infection among AGYW in Eswatini.
+ 
+<section> ⇒ Raffle incentives amplified the effect since the
+ strongest reduction in HIV incidence was found for
+ participants eligible for both types of incentives.
+ 
+<section> HOW THIS STUDY MIGHT AFFECT RESEARCH,
+ 
+<section> PRACTICE OR POLICY
+ 
+<section> ⇒ With this study showing that HIV incidence reduc-
+ tions could be on par with biomedical interventions
+ like HIV treatment as prevention, the use of financial
+ incentives can be a useful tool for HIV prevention
+ among AGYW in other high HIV prevalence settings.
+ 
+<section> Conclusion Financial incentives conditional on education
+ participation significantly reduced HIV infection among
+ adolescent girls and young women in Eswatini and appear
+ to be a promising tool for prevention in high HIV prevalence
+ settings.
+ 
+<section> Trial registration number Western Institutional Review
+ Board—protocol number 20 141 
+<section> Eswatini National Health Research Review Board—FWA00026661.
+ Pan African Clinical Trials Registry—PACTR201811609257043.
+ 
+<section> INTRODUCTION
+ In 2020, Eswatini had the highest HIV prevalence
+ among the general population (15–49 old) in the world
+ (25.4%), 1 with women and adolescent girls and young
+ women (AGYW) disproportionally infected (12.2%
+ HIV prevalence among women 15–24). There are
+ 000 women living with HIV, which is 63% of the total
+ people living with HIV in Eswatini. AGYW aged 15–24 are
+ particularly at higher risk: in 2014, at study design, there
+ were approximately 2400 new infections among young
+ women, compared with just under 500 among young
+ men.
+ Income inequality in Eswatini is high, despite the
+ country being classified as a lower middle-­ income
+ country: in 2016, the Gini coefficient showed that Eswa-
+ tini was the seventh most inequal country in the world.
+ Just under 40% of Swazis were considered poor by global
+ standards. 3 In 2017, only 41% of women and 66% of men
+ participated in the labour force, while unemployment
+ overall was 24%, unemployment among the youth aged
+ 19–24 was a staggering 50%. 4 The poor economic pros-
+ pects, low levels of education and employment among
+ AGYW result in increasing prevalence of age-­disparate
+ and transactional sex. 5 Population-­based surveys showed
+ that these rates among AGYW increased from 7% in 2007
+ to 14% in 2010, 15% in 2014 and 16% in 2016. 6–8
+ During the last decade, several studies tested the
+ impact of conditional financial incentives as a strategy
+ to prevent new HIV infections. 9–16 A first set focused
+ on incentives conditioned on school participation and
+ found mixed evidence: some showed that financial incen-
+ tives may reduce HIV and Herpes Simplex Virus (HSV)-­2
+ prevalence, 9 but others using either financial incentives
+ conditional on education 10 11 or multisectoral combina-
+ tion interventions including cash transfers and educa-
+ tion subsidies 12 13 have not demonstrated significant
+ reductions in HV incidence. A Cochrane review in 2017
+ recommended that more studies of education incen-
+ tives were needed. 14 Another set of studies evaluated the
+ impact of financial incentives conditioned on remaining
+ negative for curable STIs. 15 16 In Tanzania, such incen-
+ tives were found to significantly reduce STI prevalence,
+ while in Lesotho lottery-­ based financial incentives
+ significantly reduced HIV incidence. 16 Given the mixed
+ results suggesting equipoise, more evidence is needed
+ on the efficiency of financial incentives for HIV preven-
+ tion. With a 2×2 factorial design, the Sitakhela Likusasa
+ Impact Evaluation was designed to test the hypothesis
+ that incentives conditional on school attendance, raffle
+ incentives conditional on remaining STI free, and their
+ combination, would reduce HIV incidence measured at
+ the individual level in a sample of AGYW who were in and
+ out-­of-­school in both rural and urban settings in Eswatini.
+ The cluster randomisation was used for education incen-
+ tives to avoid contamination across participants attending
+ the same school. Sitakhela Likusasa is a Siswati phrase
+ meaning ‘we build the future.’
+ 
+<section> METHODS
+ 
+<section> Trial design
+ 
+<section> The study, a cluster randomised trial, comprised
+ clusters—30% urban clusters and 70% rural clusters—in
+ Eswatini. 17 A cluster was defined as a census enumera-
+ tion area (EA) in Eswatini. There were 2076 EAs defined
+ in the last census in 2007, and the average number of
+ households per area was 103 (274 for rural EAs and 34
+ for urban EAs). To guarantee that AGYW living in the
+ same area and, in particular, around the same school had
+ access to the same education incentives and to, there-
+ fore, avoid contamination, participants’ access to finan-
+ cial incentives conditional on education attendance were
+ randomly allocated, using stratified random sampling, at
+ the cluster level.
+ After enrolment into the study, participants were
+ further individually randomised to have access to a raffle
+ incentive or not. Those eligible for the raffle incentive
+ would receive a prize if they satisfied all of the three
+ following conditions: random selection into the raffle for
+ that round, testing negative on negative tests for syph-
+ ilis and Trichomonas vaginalis (TV) and on being a raffle
+ winner, creating four subarms in a 2×2 factorial design:
+ no intervention subarm, raffle incentive subarm, educa-
+ tion incentive subarm and raffle and education incentive
+ subarm, as per study protocol. 18 Treatment and control
+ groups for the raffle incentive and education incentive
+ were created, as follows: education treatment arm was
+ the education incentive subarm and education and raffle
+ subarm; education control arm was the raffle subarm and
+ no intervention subarm; raffle treatment arm was the
+ education and raffle subarm and the raffle subarm and
+ raffle control arm was the education incentive subarm
+ and no intervention subarm.
+ 
+<section> Participants
+ 
+<section> Enrolling participants into the study and allocating them
+ to one of the four study subarms was a five-­step process,
+ detailed in the randomisation section of this paper.
+ Participants were randomly selected from a filtered set
+ of EAs in Eswatini that met these criteria: (1) EAs that
+ were not part of, or adjacent to, another impact evalu-
+ ation focusing on unconditional incentives for orphans
+ and vulnerable children that was taking place at the time
+ in four local government areas in Eswatini and (2) EAs
+ that had a population of 200 or higher (based on the
+ 2007 census data, the latest available at the time).
+ Participants were offered enrolment into the study if
+ they met these criteria: HIV-­negative AGYW aged 15–22 at
+ the time of enrolment were enrolled as study participants
+ if they further met three eligibility criteria: willingness to
+ go back to some form of education, not planning to leave 
+<insert> Table 1 Randomisation and incentive eligibility
+ Cluster-­level randomisation Individual-­level randomisation Incentive eligibility
+ Education Incentive Treatment Arm
+ (50% of the enumeration areas)
+ Education Incentive Only Sub-­arm
+ (aimed for 25% of the total sample)
+ Participants were eligible for a financial incentive when enrolling
+ in school or starting tertiary education year, a short course, a
+ course at a technical college, or vocational training, or upgrading
+ classes, and regularly attending or completing any of these forms
+ of education
+ Education Incentive and Raffle Sub-­ Participants were eligible for a financial incentive when enrolling
+ arm in school or starting tertiary education year, a short course, a
+ (aimed for 25% of the total sample) course at a technical college, or vocational training, or upgrading
+ classes, and regularly attending or completing any of these forms
+ of education, and participants were also eligible to win a raffle
+ prize: if they were randomly selected for STI screening and if they
+ tested negative for Trichomonas vaginalis and syphilis, then they
+ would be entered into a cash raffle prize draw.
+ Education Incentive Control Arm
+ (50% of the enumeration areas)
+ Raffle Only Sub-­arm
+ (aimed for 25% of the total sample)
+ Participants were eligible to win a raffle prize: if they were
+ randomly selected for STI screening and if they tested negative
+ for Trichomonas vaginalis and syphilis, then they would be
+ entered into a cash raffle prize draw.
+ No Intervention Sub-­arm (aimed for
+ 25% of the total sample)
+ Participants were not eligible to either participate in the raffle or
+ receive financial incentives
+ STI, sexually transmitted infection. 
+<iend>
+
+ Eswatini for the duration of the study and being a Swati
+ resident. A list of eligible girls and young women was
+ drawn from census data and confirmed with community
+ leaders, creating two lists: one of in-­school and another
+ of out-­of-­school AGYW.
+ 
+<section> Interventions
+ Financial incentives conditional on education attendance
+ In the education treatment arm, participants were
+ eligible for financial incentives when enrolling in school
+ (at the beginning of each school year) or starting the
+ tertiary education (university) year, starting a short
+ course, starting a course at a technical college or voca-
+ tional training, or taking up upgrading classes. Partici-
+ pants were also eligible for an additional incentive if they
+ had at least 80% attendance during the school term.
+ Participants in university, college, upgrading classes or
+ in a short course received an additional incentive if they
+ completed the course or a particular year. The exact
+ conditionalities for the education incentive payments,
+ the commensurate incentive amounts and the 2×2 facto-
+ rial design are further detailed in tables 1 and 2. School
+ enrolment and attendance were verified using Ministry
+ of Education enrolment and attendance register data
+ from the schools (registers were requested from entire
+ grades, so as to avoid individual study participants being
+ identified). The study team extracted school enrol-
+ ment and school attendance data from these registers
+ and made payments using MTN (Mobile Telecommu-
+ nication Network) Mobile Money system once a term,
+ within 3 months of the school-­term ending. Enrolment
+ in upgrading classes, vocational training, university or
+ a short course—as well as completion of these types of
+ education—was verified through letters from the respec-
+ tive institutions. Payment was made to study participants
+ directly using MTN Mobile Money within 3 months of
+ 
+<section> BMJ Global Health
+ 
+<section> the proof being sent from the school directly to the
+ study team. Participants who did not have access to (or
+ were too young for) the MTN Mobile Money electronic
+ payment system were paid using the local post office’s
+ fund transfer process.
+ Due to initial challenges in verifying school atten-
+ dance, the payment of education incentives started slowly
+ in the first year. This issue led to extending study imple-
+ mentation period by 1 year and to reinforcing the educa-
+ tion incentives during the last year as detailed in table
+ The reinforcement of the education incentives entailed
+ paying, in the latter half of the study, an additional incen-
+ tive to participants who were in the education treat-
+ ment arm and who were out of school at midline data
+ collection.
+ 
+<section> Raffle incentives conditional on testing negative for syphilis and TV
+ In the raffle incentive treatment arm, the intervention
+ took place as follows (for details, see tables 1 and 2): some
+ participants (randomly selected at each raffle round)
+ were enrolled in a raffle conditional on testing negative
+ for syphilis and TV. Those two curable STIs were selected
+ based on their known prevalence in Eswatini and neigh-
+ bouring KwaZulu Natal at the time of study design. 19
+ Seven rounds of raffle took place over the course of the
+ study. At each raffle draw, participants in the raffle incen-
+ tive treatment arm were randomly selected (n=200 at
+ each round) for STI screening. Those who tested nega-
+ tive for TV and Syphilis were then entered in a raffle draw
+ through which n=80 winners per round were randomly
+ selected to receive a prize of E1 000 (~ US$72). Free
+ medical treatment was offered to those who tested posi-
+ tive for either STI; post-­treatment, those who tested nega-
+ tive were eligible for future raffle incentives.
+ To minimise attrition in all study groups, a study help-
+ desk was established and tasked with regularly updating 
+<insert> Table 2 Description of study sub arms, with eligibility, amounts and other intervention details assigned to each group
+ Raffle treatment arm Raffle control arm
+ Education Sub-­arm 1: education incentive and raffle Sub-­arm 2: education incentive only
+ treatment arm A: Education incentive for enrolling in and attending public or A: Education incentive for enrolling in and attending public or
+ private school in Eswatini: private school in Eswatini:
+ ► If enrolled in school in Eswatini, then receive E200 that school ► If enrolled in school in Eswatini, then receive E200 that school
+ year year
+ ► If 80% or higher attendance in a school term, then receive ► If 80% or higher attendance in a school term, then receive E400
+ E400 for that term for that term
+ B: Education incentive for initiating and completing upgrading B: Education incentive for initiating and completing upgrading
+ classes: classes:
+ ► If enrolled in upgrading classes in Eswatini, then receive E700 ► If enrolled in upgrading classes in Eswatini, then receive E700
+ that school year that school year
+ ► If applied for SGCSE exams at end of upgrading classes, then ► If applied for SGCSE exams at end of upgrading classes, then
+ receive E700 that school year receive E700 that school year
+ C: Education incentive for initiating and sitting for exams at C: Education incentive for initiating and sitting for exams at
+ university, vocational school or technical college: University, vocational school or technical college:
+ ► If registered at University or College in Eswatini, then receive ► If registered at University or College in Eswatini, then receive
+ E700 that academic year E700 that academic year
+ ► If seated for the annual exam at the end of the academic year, ► If seated for the annual exam at the end of the academic year,
+ then receive E700 then receive E700
+ D: Education incentive for initiating and completing a short D: Education incentive for initiating and completing a short
+ course: course:
+ ► If started a short course, then receive E700 that calendar year ► If started a short course, then receive E700 that calendar year
+ (max 1 per calendar year) (max one per calendar year)
+ ► If the short course is completed, then receive E700 that ► If the short course is completed, then receive E700 that
+ calendar year for it calendar year for it
+ E: Intensified fee subsidy intervention for education for E: Intensified fee subsidy intervention for education for
+ participants returning to any form of education in 2018 participants returning to any form of education in 2018
+ ► Eligibility: If not enrolled in any form of education in 2017, then ► Eligibility: If not enrolled in any form of education in 2017, then
+ eligible for education fee subsidy of E2900 in 2018. eligible for education fee subsidy of E2900 in 2018.
+ ► For eligible participants: If enrolled in a public school, ► For eligible participants: If enrolled in a public school, upgrading
+ upgrading class, a University or College, or a short course, class, a University or College, or a short course, then education
+ then education fees paid to the institution directly, up to E fees paid to the institution directly, up to E 2900 in a calendar
+ 2900 in a calendar year year
+ F: Raffle:
+ ► In every raffle round (seven rounds in total), 200 participants
+ randomly selected from sub-­arms 1 and 3 selected for
+ participation in raffle
+ ► If tests negative for Trichomonas vaginalis and Syphilis; then
+ eligible for raffle prize of E1000, with 80 raffle winners selected
+ every raffle round.
+ Education
+ control arm
+ Sub-­arm 3: raffle only Sub-­arm 4: no invervention
+ A: Raffle ► No education incentive
+ ► In every raffle round (seven rounds in total), 200 participants ► No raffle
+ randomly selected from sub-­arms 1 and 3 selected for
+ participation in raffle
+ ► If tests negative for Trichomonas vaginalis and Syphilis; then
+ eligible for raffle prize of E1000, with 80 raffle winners selected
+ every raffle round.
+ E, Emalangeni (Eswatini national currency) (1 US$ = 13.9 E).; SGCSE, Swaziland General Certificate of Secondary Education. 
+<iend>
+
+ 
+<section> BMJ Global Health
+ 
+<section> contact details of all participants. The study’s helpline
+ was able to maintain up-­to-­date contact information by
+ using WhatsApp and phone call back feature, which
+ helped with participants’ ability to get in contact with the
+ 
+<section> study team.
+ 
+<section> Outcomes
+ 
+<section> This study was designed to evaluate the impact of incen-
+ tives conditional on school attendance, raffle incentives
+ conditional on remaining STI free and their combi-
+ nation, on HIV incidence measured at the individual
+ level over 3 years (November 2015–March 2016 until
+ 
+<section> November 2018–April 2019).
+ 
+<section> Sample size
+ 
+<section> Sample size for the treatment arm was calculated with the
+ Hayes and Bennet approach, 21 using equations derived
+ from cluster-­randomised trials and confirmed using the
+ cluster sampsi programme in Stata V.12.0. Assuming
+ a lower HIV incidence rate due to the younger age of
+ participants than observed in the 2011 Swaziland HIV
+ Incidence Measurement Survey (SHIMS), the study
+ protocol, assuming the coefficient of variation k=0.25,
+ estimated 5% HIV incidence rate after 2 years, with a 30%
+ reduction in the treatment arm, requiring at least 83 clus-
+ ters of 20 participants in each arm followed for 2 years, or
+ 
+<section> 1660 per arm, for a total of 3320 participants. The sample
+ size was increased by 10% per year or 19% over 2 years to
+ account for attrition. Thus, the study aimed to recruit a 
+<section> minimum of 3950 participants from 250 clusters (80% of
+ these clusters were rural and 20% were urban, with 50%
+ of participants being in-­school at the time of enrolment,
+ and 50% out of school at the time of enrolment into the
+ study).
+ In the interest of efficiency, the sample size calculation
+ assumed that there was no interaction between the inter-
+ ventions. Few studies have examined this question, and,
+ therefore, there is little certainty for this assumption.
+ Without a considerable increase in sample size, the test
+ of interaction is likely to be underpowered; however, as
+ our primary interest was the main effects of each inter-
+ vention, the study aimed to provide adequate power for
+ the primary evaluations.
+ 
+<section> Randomisation
+ Randomisation entailed the following steps:
+ a) For the incentives conditional on education attendance
+ First, at the cluster level, 50% of EAs were randomly allo-
+ cated in Stata to the education incentive control arm and
+ 50% to the education incentive treatment arm, stratified
+ by rural and urban (70% and 30%, respectively).
+ Second, after selection of EAs into the study and to the
+ education incentive treatment or control arms, EA selec-
+ tion validation was done to minimise the risk of contam-
+ ination. In particular, geospatial analytics was used to
+ determine which control and treatment EAs were adja-
+ cent to each other, creating an ‘adjacent EA pair’. For
+ each of these ‘adjacent EA pairs’, simple random selec-
+ tion determined which of the EAs in the ‘adjacent EA
+ pair’ should be replaced. The EA in the adjacent pair
+ selected for replacement was replaced with another EA
+ (randomly selected) from the sample frame (ensuring
+ that a rural EA replaces a rural EA and an urban EA
+ 
+<section> Figure 1 
+<section> Flowchart: EA filtering and randomisation. EA, enumeration
+ replaces an urban EA). After this was done, adjacency had
+ to be checked again as the newly selected EA could cause
+ adjacency issues with other EAs. The selection validation
+ process was repeated four times until no education treat-
+ ment EA or education control EAs were adjacent to each
+ other.
+ Third, during enrolment into the study, the study
+ team aimed to enrol at least 12 participants per EA,
+ of which six had to be in school at the time of enrol-
+ ment in the study, and six were out of school at the
+ time of study enrolment. In some of the original
+ randomised EAs, it was not possible to enrol 12 partici-
+ pants per cluster. In 132 EAs, no AGYW could be found
+ who were eligible and agreed to be enrolled in the
+ study. These 132 EAs were dropped and 132 new EAs
+ were selected from the sample population of eligible
+ EAs, following the same adjacency checking process as
+ 
+<section> described in step
+ Fourth, after participant enrolment in the 132 new EAs
+ was completed, the minimum sample size still had not
+ yet been reached. To accommodate the dropped 132 EAs
+ and the additional EAs needed to ensure that the partici-
+ pant enrolment targets were met, in total, 177 additional
+ EAs were selected, following the process described in step
+ 3—totaling 295 EAs. After enrolment into baseline data
+ collection, two EAs were dropped because baseline data
+ were not collected from any participants in those EAs.
+ Eventually, after baseline data collection was completed,
+ participants from 293 EAs (148 education treatment EAs
+ and 145 education control EAs) were enrolled in the
+ study. Endline data were collected from 292 EAs (one EA
+ was not part of endline data collection because all partic-
+ ipants in that EA either dropped out of the study or were
+ loss to follow-­up during endline data collection). See
+ 
+<section> area. 
+<section> figure 1 describing the cluster level filtering and rando-
+ misation process.
+ At the individual level, a random sample of girls and
+ young women from the lists of in-­school and out-­of-­school
+ AGYW was selected and invited to participate in the study.
+ In EAs where it was not possible to enrol 12 participants
+ per cluster, additional EAs were selected from either the
+ treatment or control list of oversampled EAs. The same
+ ‘EA adjacent criterion’ described in step 4 above was
+ followed to ensure that no control or treatment EAs were
+ adjacent to each other. Eventually, participants from
+ EAs were enrolled in the study. Average cluster size was
+ 20 participants (maximum 42).
+ All randomisation procedures for the education incen-
+ tives were computer implemented by the study statisti-
+ cian in Stata.
+ 
+<section> b) For the raffle incentives conditional on testing negative for
+ 
+<section> syphilis and TV
+ 
+<section> This individual randomisation was facilitated by the study
+ staff at the time of study enrolment: participants were
+ asked to draw a ball from a closed bag with four blue and
+ four red balls in it—blue signalled raffle enrolment and
+ red signalled no raffle enrolment.
+ 
+<section> Allocation concealment mechanism and blinding
+ Due to the nature of the interventions relying on
+ incentives, there was no masking of intervention status
+ to the recipients either at the cluster or the individual
+ level. Data capturers determining a participant’s school
+ attendance every quarter, data collectors administering
+ the education status and behavioural questionnaire and
+ counsellors providing HIV testing at study data collection
+ points at baseline, midline and endline, were blinded to a
+ participant’s assignment to a study subarm.
+ 
+<section> Statistical methods
+ Recruitment and data collection
+ The study took place from November 2015 until April
+ 2019. Participants were enrolled into the study between
+ November 2015 and March 2016. Due to delayed imple-
+ mentation in the first year, the impact evaluation was
+ extended for a third year after obtaining IRB clearance
+ to do so. Therefore, participants who consented to being
+ part of the third year of implementation were followed
+ up over 3 years. All study participants were tested for HIV
+ prior to enrolment and at different timepoints in the
+ study. More specifically, testing, screening and surveys
+ were conducted at baseline (November 2015 to March
+ 2016), midline (November 2017 to March 2018) and
+ endline (November 2018 to April 2019) to determine
+ HIV, syphilis and TV status and elicit information on
+ education status, household characteristics, sexual and
+ dating behaviour, employment status, levels of knowl-
+ edge, risk-­taking behaviour, access to other programmes,
+ gender-­ based violence incidence and related informa-
+ tion. Raffle participation and education participation
+ data were also collected from intervention data and
+ school registers, respectively.
+ 
+<section> Data analysis
+ 
+<section> Stata V.15.1 (StataCorp, College Station, Texas) was used
+ to analyse the data on an intention-­to-­treat (ITT) basis.
+ Loss to follow-­up included participants who refused, with-
+ drew, were reported to be deceased or out of Eswatini
+ or could not be contacted/traced. Absolute measures of
+ HIV incidence, defined as seroconversion between base-
+ line and endline, were calculated for each study group
+ and categorical variables. Random effects logistic regres-
+ sion models with EA as a cluster were used to estimate
+ unadjusted and adjusted ORs. In online supplemental
+ table S1, we also fit generalised linear models to express
+ the main intervention effects as risk ratios and inci-
+ dence rate ratios. Adjusted regression models controlled
+ for the following baseline variables: schooling status
+ at baseline; rural/urban locality; region of residence;
+ highest schooling level attained; participant age; asset-­
+ based social economic status 23 and risk behaviour pref-
+ erence 16 24 as measured at endline were also estimated.
+ Cluster robust SEs were computed.
+ 
+<section> Sensitivity analysis
+ Sensitivity analysis to assess the robustness of the missing
+ at random (MAR) assumption using pattern-­ mixture
+ multiple imputation model approach was conducted,
+ see online supplemental figure S1 and table S2. The
+ analysis showed nearly identical results with no change
+ in interpretation of the MAR analytical results, and, thus,
+ only the MAR results from complete case analyses are
+ reported.
+ 
+<section> Ethics
+ 
+<section> All potential participants and their legal guardians (for
+ minor adolescent girls) were informed of the purpose
+ of the study, the outcomes and process, and the confi-
+ dentiality of their responses. They received an informa-
+ tion sheet detailing the risks and benefits of enrolment
+ and were then invited to participate in the study, and
+ their informed consent was sought. All participants
+ could refuse to participate or leave the study at any time.
+ Communities were sensitised to the study via public and
+ radio announcements. Guardians were not informed of
+ HIV testing for minors as the age of consent for testing in
+ Eswatini is 12 years. This was implemented to minimise
+ the chance that guardians would be able to deduce that
+ the minor was excluded due to their HIV status for those
+ minors who do not wish to disclose their status to their
+ guardians.
+ HIV-­positive participants were referred for HIV care at
+ baseline and during the study, and follow-­up was done
+ with all positive participants to assess levels of uptake of
+ linkage to care. STI treatment was offered for the partic-
+ ipant and her sexual partner. In the raffle incentive
+ treatment group, every STI-­positive participant was also 
+<section> retested 2 weeks after treatment and if STI negative, she
+ was eligible for the next raffle round.
+ 
+<section> Patient and public involvement
+ This study was launched after extensive discussions with
+ HIV stakeholders in the country including the Ministry of
+ Health, Ministry of Education and Training, the Office of
+ the Deputy Prime Minister that coordinates programmes
+ for and help with orphans and vulnerable children
+ and the Department of social welfare, the Ministry of
+ Tinkhundla Administration and Development, NERCHA,
+ Central Statistics Office and civil society organisations
+ supporting and representing youth groups, UN agencies,
+ other researchers working on HIV in the country, and
+ other development partners—to determine the most
+ pertinent research questions, implementation modali-
+ ties and focus of the study. The study further involved
+ traditional leaders and local leaders in all four regions
+ of Eswatini to ensure that the study was well understood
+ and that their concerns were taken into account. More-
+ over, the study team obtained feedback from and held
+ conversations with parents, teachers and school adminis-
+ tration staff and the regional education officers to both
+ understand the challenges in school access, what can be
+ done to address it and how to best implement the study
+ in ways that would be perceived as fair by the parents
+ and teachers. The survey questionnaires were piloted
+ with typical study participants to improve the wording of
+ the questions in the local language. Prior to designing
+ the research, the study team also conducted qualitative
+ research using ethnography methods to understand the
+ range and type of sexual relationships and behaviours
+ in the country and how people in local vernacular refer
+ to them. During the study, a helpdesk was established
+ to ensure that study participants had access to the study
+ team for any questions or concerns. During the time of
+ recruitment of study participants, posters about the study
+ were put up in public places in the community and infor-
+ mation shared with local leaders, including about the
+ study sites and their purpose. Study progress and results
+ were also shared with these stakeholders.
+ 
+<section> RESULTS
+ 
+<section> Participant flow
+ Due to a lower number of participants enrolling in the
+ study per cluster than assumed during the study design,
+ a total of 293 clusters were eventually included in the
+ study: 148 education incentive treatment clusters and
+ 145 education incentive control clusters, enrolling 4389
+ participants. From 4389 recruited participants, 2159 were
+ in 148 randomly selected clusters eligible for the educa-
+ tion incentive. Individual randomisation for the raffle
+ incentive distributed participants into four subarms: no
+ intervention (n=1068), raffle incentive (n=1162), educa-
+ tion incentive (n=1088) and raffle and education incen-
+ tive (n=1071). There was no opportunity to enrol after
+ baseline. Midline participation rates were 84.2% overall
+ 
+<section> (3695/4389), 81.1% in the no-­intervention group, 86.1%
+ in the raffle incentive group, 85.6% in the education
+ incentive group and 83.8% in the raffle and education
+ incentive group. Endline participation rates were 86.3%
+ overall (3786/4389), 85.1% in the no-­intervention group,
+ 85.6% in the raffle incentive group, 87% in the education
+ incentive group and 87.3% in the raffle and education
+ incentive group (see participant flow in figure 2). Four-
+ teen endline participants did not have HIV test results
+ that is, 14/3786=0.37%.
+ The differential loss-­ to-­ follow-­ up was not statistically
+ significant, p=0.085. Sensitivity analysis assessing the MAR
+ assumption in the ITT complete case analysis at endline
+ showed that estimates were almost identical and, thus,
+ there were little to no effect of attrition on estimates, see
+ online supplemental table S2.
+ 
+<section> Baseline data
+ 
+<section> Table 3 shows that there were no statistically signifi-
+ cant differences between the education treatment and
+ education control arms at baseline and endline on the
+ following variables: schooling status at baseline, urban/
+ rural locality, baseline highest education level and age at
+ enrolment and attitudes towards risk, while differences
+ were observed by region and for baseline wealth quin-
+ tiles using an asset-­based measure. 17 The proportion of
+ enrolled participants from each region was retained at
+ endline.
+ 
+<section> Intervention exposure
+ Fifty nine per cent (1274/2159) of all participants in the
+ education treatment arm received at least one incentive
+ payment during the implementation period. Across all
+ rounds, education incentive payment varied between
+ 88% and 100% of all participants whose school partici-
+ pants had been verified. The proportion of participants
+ verified and paid was higher in calendar year 2018 (98%–
+ 100%) compared with calendar years 2016 and 2017
+ (88%–99%). The primary reason for non-­ payment of
+ verified participants was due to non-­contact, see Table S3.
+ Raffle payments for participants who were randomly
+ sampled, tested negative for TV and syphilis, and selected
+ for a raffle prize, was between 95.0% and 98.7%. Non-­
+ payment to the raffle ‘winners’ was due to non-­contact
+ of raffle ‘winners’ after a negative STI test, see Table S4.
+ 
+<section> Outcomes and estimation: HIV incidence
+ At endline, 272 participants from 3772 analysed had sero-
+ converted to HIV.
+ 
+<section> HIV incidence in education incentive control arm: HIV
+ incidence among participants in the education incentive
+ control arm over 3 years averages to about 2.7% per year,
+ or 8.1% over the study period (see table 4).
+ 
+<section> HIV incidence by education incentive treatment arm:
+ across the study period, HIV incidence among partic-
+ ipants in the education incentive treatment arm was
+ 6.3%, statistically significantly lower than among those
+ in the education incentive control arm (8.1%), p=0.039. 
+<insert> Figure 2 Participant enrolment and participation. AGYW, adolescent 
+<iend>
+
+ 
+<section> BMJ Global Health
+ 
+<section> Participants in the education incentive treatment arm
+ had 23.4% lower odds of acquiring HIV over the study
+ period compared with those in the education incen-
+ tive control arm (OR: 0.766 (0.598 to 0.981), p=0.035).
+ After adjusting for other key variables, participants in the
+ education incentive treatment arm had a 24.6% lower
+ odds of HIV infection (aOR: 0.754 (0.585 to 0.972),
+ p=0.029) (see table 4).
+ 
+<section> HIV incidence by raffle treatment arm: although not
+ significant at the 5% level, HIV incidence was lower in
+ the raffle incentive arm compared with those in the raffle
+ control arm, 6.61% versus 7.83%, p=0.086. Participants
+ in the raffle incentive arm had 17.3% lower odds of
+ acquiring HIV compared with those in the raffle control
+ arm (OR: 0.827 (95% CI 0.645 to 1.060), p=0.133).
+ The unadjusted and adjusted odds of acquiring HIV
+ was lower for participants in any of the three subarms
+ compared with those in the no intervention subarm.
+ Those in the education incentive and raffle subarm had
+ 36.6% lower chance of acquiring HIV over the imple-
+ mentation period compared with those in the no-­inter-
+ vention subarm (OR: 0.634 (0.443 to 0.907), p=0.013),
+ girls and young women; EA, enumeration area.
+ 
+<section> and it was 37.8% (aOR: 0.622 (0.433 to 0.893), p=0.010)
+ after adjusting for other key variables as shown in table
+ 
+<section> DISCUSSION
+ 
+<section> The Sitakhela Likusasa study is a rigorous cluster
+ randomised control trial to evaluate financial incentives
+ conditional on education attendance and raffle incen-
+ tives conditional on remaining STI negative. The find-
+ ings indicate that financial incentives conditional on
+ education participation significantly reduced the odds
+ of acquiring HIV infection among AGYW in Eswatini by
+ 24.6%. While raffle incentives on their own did not lead
+ to a statistically significant reduction in HIV incidence,
+ the combination of raffle and education incentives statis-
+ tically significantly reduced the odds of acquiring HIV
+ infection by 37.8%.
+ Not only these are significant reductions in the odds of
+ acquiring HIV, but the study was implemented (a) in a
+ public sector education system and (b) managed to enrol
+ and incentivise even study participants who were out of 
+<insert> Table 3 Participant characteristics at baseline and endline
+ Baseline
+ Control
+ Baseline characteristic n (%)
+ Endline
+ Education
+ treatment
+ n (%) P value
+ Total (N=4389) Control
+ n (%) n (%)
+ Education
+ treatment
+ n (%) P value
+ Total (N=3786)
+ n (%)
+ 0.203 2214 (50.4) 988 (51.9) 960 (51.0) 0.588 1948 (51.5)
+ 2175 (49.6) 916 (48.1) 922 (49.0)
+ 3590 (81.8) 1573 (82.6) 1547 (82.2)
+ 799 (18.2) 331 (17.4) 335 (17.8)
+ In school at baseline
+  In education 1146 (51.4) 1068 (49.5)
+  Not in education 1084 (48.6) 1091 (50.5)
+  Rural 1819 (81.6) 1771 (82.0)
+  Urban 411 (18.4) 388 (18.0)
+  Hhohho 657 (29.5) 485 (22.5) 1142 (26.0) 532 (27.9) 413 (21.9)
+  Manzini 707 (31.7) 885 (41.0) 1592 (36.3) 604 (31.7) 784 (41.7) 1388 (36.7)
+  Shiselweni 531 (23.8) 355 (16.4) 886 (20.2) 472 (24.8) 316 (16.8) 788 (20.8)
+  Lubombo 335 (15.0) 434 (20.1) 769 (17.5) 296 (15.5) 369 (19.6) 665 (17.6)
+  Grade 1–7 (primary
+ education)
+ 522 (23.4) 473 (21.9) 995 (22.7) 449 (23.6) 399 (21.2)
+  Form 1–6 (secondary
+ education)
+ 1656 (74.3) 1622 (75.1) 3278 (74.7) 1411 (74.1) 1427 (75.8) 2838 (75.0)
+  Year 1–5 (tertiary
+ education)
+ 52 (2.3) 64 (3.0) 116 (2.6) 44 (2.3) 56 (3.0) 100 (2.6)
+  15–17 987 (44.3) 905 (41.9) 1892 (43.1) 850 (44.6) 800 (42.5)
+  18–22 1243 (55.7) 1254 (58.1) 2497 (56.9) 1054 (55.4) 1082 (57.5) 2136 (56.4)
+  No 1489 (66.8) 1473 (68.2) 861 (19.6) 1285 (67.5) 1276 (67.8) 2561 (67.6)
+  Yes 741 (33.2) 686 (31.8) 890 (20.3) 619 (32.5) 606 (32.2)
+  Poorest 425 (19.1) 436 (20.2) 861 (19.6) 369 (19.4) 365 (19.4) 734 (19.4)
+  Second 448 (20.1) 442 (20.5) 890 (20.3) 386 (20.3) 380 (20.2) 766 (20.2)
+  Middle 497 (22.3) 479 (22.2) 976 (22.2) 424 (22.3) 431 (22.9) 855 (22.6)
+  Fourth 496 (22.2) 401 (18.6) 897 (20.4) 434 (22.8) 355 (18.9)
+  Richest 364 (16.3) 401 (18.6) 765 (17.4) 291 (15.3) 351 (18.7)
+ 1838 (48.5)
+ Urban/Rural
+ 0.693 0.737 3120 (82.4)
+ 666 (17.6)
+ Region
+ <0.001 <0.001 945 (25.0)
+ Baseline highest school
+ level attained
+ 0.239 0.114 848 (22.4)
+ Baseline age categories
+ 0.117 0.185 1650 (43.6)
+ Baseline risk lover
+ attitude
+ 0.304 0.838 1225 (32.4)
+ Assets-­based social
+ economic status at
+ baseline
+ 0.024
+ 789 (20.8)
+ 0.009 642 (17.0)
+ The measure of risk preference (‘Risk lover attitude’) was constructed as an indicator variable taking value 0 for respondents who preferred a fixed
+ amount of money below or equal to the expected value (of 250 Emalangani) instead of a lottery with 50% chance of winning 500 Emalangani, and
+ 1 otherwise. The asset-­based socio-­economic status measure is based on four questions: access to electricity, access to water in own dwelling,
+ ownership of a car or truck and whether the household experienced problems in satisfying the food needs of the household. The answers to those
+ questions were used to create an index—later divided in five quintiles, using principal component analysis, following Vyas and Kumaranayake.
+ n, number of observations. 
+<iend>
+
+ school at baseline with less motivation to return to school
+ to engage in other alternative forms of learning.
+ The results among the study population are represen-
+ tative of the AGYW population in Eswatini, writ large,
+ because of three reasons. (a) the HIV incidence in the
+ education incentive control group was comparable to
+ the HIV incidence among women 15–24 in Eswatini
+ measured through a population-­ based biobehavioural
+ survey in 2015/2016 (at the same time as enrolment into
+ 
+<section> BMJ Global Health
+ 
+<section> Sitakhela Likusasa study), namely, the second SHIMS;
+ (b) the HIV incidence of 2.7% in the education incentive
+ control arm is within the 95% CI limits of the SHIMS2
+ estimate, 26 suggesting that the study population is compa-
+ rable to the Eswatini population; (c) with 30% of partic-
+ ipants from urban areas and 70% from rural areas, the
+ study sample reflected the distribution of the population
+ of Eswatini. 
+<insert> Table 4 HIV incidence and bivariate and multivariable association with baseline characteristics
+ Number of
+ negative
+ n (%)
+ Number of
+ positive n
+ (%) P Value OR (95% CI)
+  Education incentive
+ control
+ 1741 (91.9) 153 (8.1)
+  Education incentive 1759 (93.7) 119 (6.3)
+  Raffle control 1706 (92.17) 145 (7.83)
+  Raffle treatment arm 1794 (93.39) 127 (6.61)
+  No intervention 825 (91.16) 80 (8.84)
+  Raffle 916 (92.62) 73 (7.38)
+  Education 881 (93.13)
+  Education +raffle 878 (94.21)
+  In school 1857 (95.6) 86 (4.4)
+  Out of school 1643 (89.8) 186 (10.2)
+  Rural 2880 (92.7) 227 (7.3)
+  Urban 620 (93.2) 45 (6.8)
+  Hhohho 884 (93.6) 60 (6.4)
+  Manzini 1283 (92.6) 103 (7.4)
+  Shiselweni 723 (92.3)
+  Lubombo 610 (92.6)
+  Grade 1–7 (primary
+ education)
+ 772 (91.5) 72 (8.5)
+  Form 1–6 (secondary
+ education)
+ 2633 (93.1) 196 (6.9) 0.798 (0.610, 1.044) 0.099 0.715 (0.534, 0.957) 0.024
+  Year 1–5 (tertiary
+ education)
+ 95 (96.0) 4 (4.0) 0.451 (0.169, 1.208) 0.113 0.440 (0.158, 1.222) 0.115
+  15–17 1567 (95.3) 78 (4.7)
+  18–22 1933 (90.9) 194 (9.1)
+  No 2760 (93.2) 201 (6.8)
+  Yes 738 (91.2) 71 (8.8)
+  Poorest 666 (91.4) 63 (8.6)
+  Second 709 (92.8) 55 (7.2) 0.820 (0.578, 1.164) 0.267 0.883 (0.619, 1.259) 0.490
+  Middle 786 (92.1) 67 (7.9) 0.901 (0.646, 1.257) 0.540 1.014 (0.735, 1.400) 0.931
+  Fourth 729 (92.7) 57 (7.3) 0.827 (0.562, 1.216) 0.334 0.949 (0.645, 1.397) 0.792
+  Richest 610 (95.3) 30 (4.7) 0.520 (0.333, 0.812) 0.004 0.643 (0.409, 1.012) 0.057
+ Variables P Value aOR* (95% CI) P Value
+ Education incentive arm
+ 0.039
+ 0.766 (0.598, 0.981) 0.035 0.754 (0.585, 0.972) 0.029
+ 0.133 0.826 (0.645, 1.060) 0.133
+ 0.822 (0.585, 1.154) 0.257 0.839 (0.598, 1.177) 0.310
+ 65 (6.87) 0.761 (0.542,1.069) 0.115 0.766 (0.537, 1.093) 0.142
+ 54 (5.79) 0.634 (0.443, 0.907) 0.013 0.622 (0.433, 0.893) 0.010
+ Raffle incentive
+ Randomisation sub-­arm
+ 0.147 0.827 (0.645, 1.060)
+ 0.086
+ Schooling status at baseline
+ <0.001
+ 2.444 (1.869, 3.198) <0.001 1.928 (1.378, 2.697) <0.001
+ 0.918 (0.688, 1.226) 0.564 1.161 (0.843, 1.599) 0.359
+ 1.186 (0.855, 1.644) 0.308 1.276 (0.904, 1.801) 0.166
+ 60 (7.7) 1.221 (0.832, 1.793) 0.308 1.266 (0.864, 1.855) 0.226
+ 49 (7.4) 1.180 (0.827, 1.682) 0.361 1.110 (0.778, 1.583) 0.565
+ Locality
+ 0.626
+ Region
+ 0.701
+ Baseline highest school
+ level attained
+ 0.134
+ Age at baseline
+ <0.001
+ 2.016 (1.537, 2.645) <0.001 1.577 (1.103, 2.256) 0.013
+ Endline risk lover
+ 0.053
+ 1.322 (0.983, 1.778) 0.065 1.431 (1.053, 1.944) 0.022
+ Assets-­based social
+ economic status at baseline
+ 0.065
+ Adjusted for being in the raffle arm; aOR for the randomisation arms, raffle randomisation arms and randomisation subarm are from separate logistic
+ regression models with the same covariates. SEs adjusted for clustering.
+ aOR, adjusted odds ratio; n, number of observations. 
+<iend>
+
+ 
+<section> BMJ Global Health 
+<section> The Sitakhela Likusasa results are consistent with a
+ study conducted in Malawi 9 that showed that cash trans-
+ fers conditional on education participation reduced HIV
+ prevalence, but they stand in contrast with the results of
+ the CAPRISA 10 and HPTN068 11 studies, both of which
+ also tested financial incentives conditional on schooling
+ but reported a lack of statistically significant impact
+ among their study populations. A key difference between
+ these two studies and Sitakhela Likusasa is that in these
+ two studies, most study participants were AGYW already
+ in school and living in urban areas while the Sitakhela
+ Likusasa study enrolled 50% of AGYW who were out-­
+ of-­school at baseline, following the hypothesis that they
+ would be more at risk and also potentially more likely to
+ change their behaviour in response to incentives.
+ These results are an important contribution to the
+ ongoing debate about the relevance of structural and
+ social programmes for HIV prevention. To date, the
+ impact of structural interventions (ie, interventions that
+ address social determinants of HIV infection, or what is
+ termed ‘social vaccine’-type initiatives including financial
+ incentives for HIV prevention) has yielded mixed results
+ in terms of its impact on HIV infection prevention.
+ According to Baum et al, a term ‘social vaccine’ in the
+ context of public health efforts was coined to ‘encourage
+ the biomedically orientated health sector to recognise
+ the legitimacy of action on the distal social and economic
+ determinants of health’. 28 The potential of structural
+ HIV prevention programmes (like secondary education
+ programmes) as a ‘social vaccine’ has been postulated
+ numerous times 29 30 and shown in natural experiments
+ to be effective (such as an estimated 8.1 percentage
+ point decrease in HIV prevalence for every added year of
+ schooling in Botswana). 31 But, experimental evidence has
+ been scarce, sometimes because of limitations in study
+ design: interventions were tested using self-­ reported
+ behavioural outcomes and not HIV incidence, and some
+ were small-­scale evaluations without sufficient power to
+ detect a statistically significant result.
+ In this regard, Sitakhela Likusasa aimed to provide
+ rigorous evidence about the potential of a structural
+ intervention to be a ‘social vaccine’ for HIV prevention.
+ For a structural intervention to be deemed as a ‘social
+ vaccine’, it would require that such an intervention has
+ experimental results with a similar effect size to that of
+ a biomedical intervention. Contrasting the effect sizes
+ in the Sitakhela Likusasa results with studies evaluating
+ universal (HIV) test-­and-­treat strategies (UTT)—which
+ put persons on HIV treatment immediately on an HIV-­
+ positive diagnosis—provides such a comparison. Out of
+ five UTT trials, two studies 32 33 showed a reduction in HIV
+ incidence, 34 with effect sizes around 30%, comparable to
+ Sitakhela Likusasa. This shows that ‘social vaccine’-type
+ HIV prevention programmes (such as the interventions
+ evaluated in Sitakhela Likusasa) that also address other,
+ wider human capital challenges (education drop out and
+ incompletion), can have an effect of similar magnitude
+ to that of biomedical/drug-­based HIV prevention strate-
+ gies like test-­and-­treat.
+ The following study limitations should be considered
+ in interpreting the results: attrition, especially for the
+ no-­intervention group, and difficulties in verifying school
+ attendance on a regular basis were identified at the outset
+ as potential study limitations. The attrition challenge was
+ satisfactorily addressed by the establishment of a study
+ helpdesk tasked with regularly updating contact details
+ of all participants. Due to challenges in verifying school
+ attendance, the payment of education incentives started
+ slowly in the first year. For that reason, the study imple-
+ mentation period was extended by 1 year. The education
+ incentives were reinforced during the last year. A further
+ limitation of the study is the lack of power to detect
+ differences in effects between study subarms. While this
+ study was conducted at a relatively large scale for Eswatini
+ and with direct involvement of the Government of Eswa-
+ tini, some of the interventions were supported outside
+ the national administrative system and externally funded,
+ raising issues about scalability and sustainability. In partic-
+ ular, the programmatic implementation of regular raffle
+ incentives might be challenging to scale-­up, even though
+ our design which randomly selected the participants
+ taking part in each raffle round minimised the testing
+ costs. The findings reported in this paper focused solely
+ on the impact of the intervention on HIV incidence and
+ did not account for potential health and education bene-
+ fits of the intervention (which might have been suffi-
+ cient to justify the implementation of such a safety net
+ supporting human capital challenges among AGYW in
+ Eswatini, regardless of the HIV outcome).
+ 
+<section> CONCLUSIONS
+ The study results have shown that financially empow-
+ ering AGYW likely gave them more opportunities to
+ decline risky sexual encounters and incentivising them
+ to attend school offered them productive occupations
+ and long-­term aspirations. Keeping AGYW in education
+ significantly reduces HIV incidence and is essential for
+ the HIV response in contexts like Eswatini with high HIV
+ prevalence and elevated risk among AGYW; the added
+ benefit of this intervention is not just that it is a social
+ and behavioural intervention requiring no medication to
+ be successful but also that it has benefits far beyond the
+ health benefit alone. Promoting access to and comple-
+ tion of more years of schooling is a critical component to
+ forming human capital in Eswatini and more generally
+ in all low and middle-­income countries. 35 While finan-
+ cial incentives and other behavioural interventions have
+ shown mixed results in HIV prevention, the use of finan-
+ cial incentives for education appears to be promising tool
+ to reduce HIV incidence and achieve better education,
+ health and opportunities for AGYW in Eswatini and other
+ high HIV prevalence settings.
+ The absence of statistically significant effect of the raffle
+ incentives on their own could potentially be explained by
+ the fact that their salience might have been eclipsed by the 
+<section> education incentives. However, raffle incentives amplified
+ the education incentives’ effect since the strongest reduc-
+ tion in HIV incidence was found for participants eligible for
+ both types of incentives. While the study was not powered
+ to detect differences across subarms, together with previous
+ results from Lesotho, 16 this suggests that raffle or lottery-­
+ based incentives conditional on being STI negative should
+ be further explored as a prevention tool for HIV in combi-
+ nation with education incentives.
+ The study results have shown that an incentivised
+ behavioural intervention can work at scale in a context
+ such as Eswatini where HIV incidence among AGYW
+ and the high school dropout rate are both very high. In
+ contexts with hyperendemic HIV epidemics and high
+ HIV incidence among AGYW, this study has shown that
+ behavioural interventions remain an important tool for
+ HIV prevention strategies for the AGYW population.
+ 
+<section> Author affiliations
+ Health, Nutrition and Population Global Practice, World Bank Group, Washington,
+ 
+<section> DC, USA
+ National Emergency Response Council on HIV and AIDS (NERCHA), Mbabane,
+ 
+<section> Eswatini
+ Independent (formerly with the National Emergency Response Council on HIV and
+ 
+<section> AIDS), Mbabane, Eswatini
+ Institute for Health Measurement Southern Africa, Mbabane, Eswatini
+ Eswatini National Reference Laboratory and National Blood Bank, Ministry of
+ 
+<section> Health, Mbabane, Eswatini
+ Department of Guidance and Counselling, Eswatini Ministry of Education and
+ 
+<section> Training, Mbabane, Eswatini
+ Development Research Group, World Bank Group, Washington, DC, USA
+ 
+<section> Acknowledgements The authors wish to thank the Eswatini National Health
+ Research Council and the Western Institutional Review Board that served as the
+ institutional review boards and the data safety monitoring board for the Sitakhela
+ Likusasa Impact Evaluation. The authors would like to thank the members of the
+ Sitakhela Likusasa’s technical advisory committee and the Eswatini Ministry of
+ Health for their inputs and suggestions during the study design and implementation
+ phases. Eswatini education sector stakeholders played a significant role during
+ the study. The authors therefore wish to thank the Eswatini Ministry of Education
+ and Training, in particular (a) Lindiwe Dlamini, the Director of Educational Testing,
+ Guidance and Psychological Services and (b) the Ministry’s team of Regional
+ Guidance Officers (RGOs) amongst them Dumisile Masuku, Mlimi Mamba,
+ Nokuthula Dlamini, Caiphus Nyaweni, Siphiwe Nkosi, Sthembile Mbingo, Sibusiso
+ Ndlangamandla, Lindiwe Dube, Zodwa Mamba, Pinkie Masuku, Thompson Bhembe,
+ Nature Shabangu, Zwakele Motsa and Simon Mazibuko. The RGOs provided
+ invaluable help in ensuring the study team’s access to schools to collect the
+ necessary class attendance records. Thanks are also due to Edwin Simelane from
+ UNESCO who provided ongoing support and assisted the Ministry of Education
+ and Training team involved in the study. The authors would like to thank the
+ head teachers (principals) of schools that study participants were enrolled at.
+ The authors wish to thank the team at SWAGAA (Swaziland Action Group Against
+ Abuse), in particular Cebile Manzini-­Henwood and Gcinaphi Ndlovu, who provided
+ inputs to the gender-­based violence aspects of the study questionnaires, and
+ who provided counselling to any study participants who sought their assistance.
+ The authors would like to thank the team at the National Research Laboratory
+ (Swaziland Health Laboratory Services, as part of the Ministry of Health) that
+ provided technical advice to ensure adherence to the country’s sexually transmitted
+ infection guidelines and HIV testing protocols, conducted quality assurance
+ in relation to the HIV and STI testing aspects of the study, and that performed
+ confirmatory Trichomonas vaginalis testing (using the Cepheid Xpert TV test) during
+ endline data collection. The authors wish to acknowledge the support of Cepheid
+ for providing the Trichomonas vaginalis confirmatory test kits (Xpert TV) and
+ trained the Swaziland Health Laboratory Services staff in how to use these tests
+ on the GeneXpert platform. The authors acknowledge the support of the Lancet
+ Laboratories in Eswatini that conducted the Trichomonas vaginalis confirmatory
+ testing during the raffle rounds and midline data collection. The authors would also
+ like to thank the institutions and individuals involved in managing the payments to
+ study participants, in particular the team at the Institute for Health Measurement
+ Southern Africa (IHM), supported by Nontobeko Fakudze, Melusi Sacolo, Mbongeni
+ Dube, and members of the Sitakhela Likusasa Study Implementation Help Desk
+ (Thobile Ndzabandzaba and Lindelwa Hlophe), all under the leadership of the CEO,
+ Kelvin Sikwibele. The authors also thank the teams of field workers and the team
+ of nurses who undertook the biomedical testing, the counsellors who provided HIV
+ testing and counselling support, the research assistants who interviewed the study
+ participants in the field, and the drivers who transported them. Acknowledgement
+ is due to the team from Enhancing Care Foundation (ECF) led by Dr Sandy Pillay,
+ and to Janan Dietrich, Gugulethu Tshabalala and Mamakiri Mulaudzi at the Bio-­
+ Behavioural Research Division of the Perinatal HIV Research Unit (PHRU), a division
+ of the Wits Health Consortium, who were both contracted by the World Bank to
+ code and analyze the qualitative data collected for the Sitakhela Likusasa Impact
+ Evaluation’s Qualitative Research component. The authors would like to thank the
+ wider team at the National Emergency Response Council on HIV/AIDS in Eswatini
+ (NERCHA), namely Futhi Dennis (who led from NERHCA’s side the study design
+ and implementation before leaving for postgraduate studies), as well as Bheka
+ Mziyako, Nsindiso Dlamini and Bongani Dube. The authors want to thank the World
+ Bank team initially involved in different stages of the study: (a) the study’s first
+ co-­Principal Investigator who was involved in the study conceptualisation and
+ design and who left for an academic position before the study started to enrol
+ participants, Dr Andrea Low, (b) World Bank staff involved in study design, Pandu
+ Harimurti and Emiko Masaki, (c) World Bank staff providing support to the study’s
+ implementation and analyses (Susan Sebastian, Silu Feng, Nigel Herath, Jasmine
+ Vicencio, Laura Ruiz, and Tommy Wilkinson), and (d) consultant to the World Bank,
+ Dr Audrey Pettifor, who consulted on the design and analysis of the qualitative
+ research component of the study. Finally, and most importantly, the authors thank
+ all the study participants who consented and their parents who assented to their
+ involvement in the Sitakhela Likusasa Impact Evaluation, for their willingness to
+ participate in the Sitakhela Likusasa Impact Evaluation. All the study partners
+ appreciate the willingness of every individual participant who contributed to this
+ important research and greatly value their participation and readiness to share
+ personal experiences and information. The authors have written a reflexivity
+ statement which is published as a Supplementary Appendix. The findings,
+ interpretations, and conclusions expressed in this paper are entirely those of the
+ authors. They do not necessarily represent the views of the World Bank and its
+ affiliated organisations, or those of the Executive Directors of the World Bank or the
+ governments they represent.
+ 
+<section> Contributors MG, KM and DdW conceived of the study idea, led and directed the
+ study. SK was the lead statistician and guided statistical analysis throughout. AFL
+ and VT undertook statistical analyses throughout the study under SK’s supervision.
+ WH and MM coordinated all aspects of study implementation and supported the
+ Sitakhela Likusasa study implementation team with challenges and bottlenecks.
+ MM facilitated community and stakeholder engagement throughout the study,
+ as well as managed the involvement of SWAGAA. VT, SK, TC, MLN, WH, GM, MN,
+ and LD contributed to the design and implementation of the study, to the analysis
+ of the results and to the writing of the manuscript. DW helped to conceptualise
+ the study and advised on implementation challenges during the study period.
+ KS and VT oversaw the work of the Sitakhela Likusasa implementation team.
+ TC, VT and MLN supervised fieldwork implementation. MG, SK, VT and DdW
+ wrote the paper, with inputs from WH, MM, AFL, LD, MLN, TC, MN, GM, KM, DW
+ and TD. All authors discussed the results and commented on the manuscript.
+ MG is the guarantor of the study. Other contributors are: Study participants (and
+ their caregivers, if younger than 18) gave consent and assent to participate in
+ the study, respectively, study participants participated in the study, and made
+ it possible to conduct this research. Regional Guidance Officers at the Ministry
+ of Education and Training supported study implementation through liaison with
+ school principals on attendance register submission. School principals and heads
+ of short course training institutions supported access to attendance registers to
+ verify school enrolment and attendance. The Eswatini Ministry of Health’s National
+ Health Laboratory Service staff provided support with HIV testing training and
+ conducting confirmatory HIV testing. The Sitakhela Likusasa implementation
+ team at the Institute for Health Measurement Southern Africa collected baseline,
+ midline and endline data, and manned the study helpdesk. Lancet Laboratories,
+ Ampath Laboratories and Cepheid undertook trichomonas confirmatory testing
+ and provided trichomonas confirmatory test kits, respectively. Members of the
+ Sitakhela Likusasa study advisory group served as scientific advisors. The Western
+ Institutional Review Board and Eswatini National Health Research Committee
+ provided institutional review board and research ethics oversight. Staff of MTN
+ Eswatini supported the voucher payments to study participants. Andrea Low (of
+ the World Bank) contributed to the study design, study parameters and study 
+<section> implementation initialization preparations. Futhi Dennis (of NERCHA at the time)
+ contributed to the study conceptualization, initialization and the initial stages of
+ study implementation in Eswatini, as well as liaison with all relevant government
+ departments. Thembi Gama (of NERCHA) supported legal and implementation
+ arrangements for the study’s partnership between the three institutions
+ involved in co leading it. Pandu Harimurti (of the World Bank) supported study
+ conceptualization and initiation. Theo Hawkins (of the World Bank) designed
+ the visual images used in the study paper. Nontobeko Fakudze (of the Institute
+ for Health Measurement Southern Africa) provided administrative and program
+ support. Tommy Wilkinson (of the World Bank) supported discussions and
+ conceptualization of the economic evaluation aspect of the study. Yai Ellen Gaye (of
+ the World Bank) provided editorial support for the manuscript review and editing.
+ 
+<section> Funding The Department for International Development, United Kingdom; The
+ Global Fund to Fight AIDS, TB and Malaria; the Joint United Nations Programme on
+ AIDS and the Ministry of Finance of the Government of the Kingdom of Eswatini
+ provided funding for this study. The funding sources did not participate in the
+ design or conduct of the study; collection, management, analysis or interpretation
+ of the data; or preparation, review, or approval of the manuscript.
+ 
+<section> Competing interests None declared.
+ 
+<section> Patient and public involvement Patients and/or the public were involved in the
+ design, or conduct, or reporting, or dissemination plans of this research. Refer to
+ the Methods section for further details.
+ 
+<section> Patient consent for publication Not applicable.
+ 
+<section> Ethics approval This study involves human participants. Participants gave informed
+ consent to participate in the study before taking part. The study was registered with
+ and the protocol was approved by the Western Institutional Review Board (WIRB), IRB
+ Tracking Number: 20141630, effective 18 December 18, 2014. In Eswatini, the study
+ was also registered with and approved by the Eswatini National Health Research
+ 
+<section> Review Board (NHRRB), Bboard registration number: FWA00026661/IRB00011253,
+ effective 15 August 15, 2015. To accommodate extension to the study period,
+ expansions of the education incentives, and amendments to the questionnaires, and
+ protocol amendment approval were granted by both review boards a number of
+ times over the implementation period, with the latest approval by NHRRB effective
+ 12 August 2019, and WIRB effective 26 September 2019.
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data availability statement Data are available upon reasonable request. Relevant
+ anonymised individual level data available upon reasonable request.
+ 
+<section> Supplemental material This content has been supplied by the author(s). It has
+ not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been
+ peer-­reviewed. Any opinions or recommendations discussed are solely those
+ of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and
+ responsibility arising from any reliance placed on the content. Where the content
+ includes any translated material, BMJ does not warrant the accuracy and reliability
+ of the translations (including but not limited to local regulations, clinical guidelines,
+ terminology, drug names and drug dosages), and is not responsible for any error
+ and/or omissions arising from translation and adaptation or otherwise.
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution Non Commercial (CC BY-­NC 4.0) license, which
+ permits others to distribute, remix, adapt, build upon this work non-­commercially,
+ and license their derivative works on different terms, provided the original work is
+ properly cited, appropriate credit is given, any changes made indicated, and the
+ use is non-­commercial. See: http://creativecommons.org/licenses/by-nc/4.0/.
+ 
+<section> Author note The reflexivity statement for this paper is linked as an online
+ 
+<section> supplemental file
+ 
+<section> REFERENCES
+ 1 UNAIDS. UNAIDS data, 2021. Available: https://www.unaids.org/​
+ en/resources/documents/2021/HIV_estimates_with_uncertainty_​
+ 
+<section> bounds_1990-present
+ 2 The World Bank Group. World bank open data, 2019. Available:
+ https://data.worldbank.org/indicator/SI.POV.GINI?locations=SZ&​
+ most_recent_value_desc=false
+ 3 The World Bank Group. Macro poverty outlook for sub-­Saharan
+ Africa, 2019. Available: http://pubdocs.worldbank.org/en/​
+ 720441492455091991/mpo-ssa.pdf
+ 
+<section> org/curated/en/238271476251993663/Forever-young-Swaziland-​
+ 
+<section> country-brief
+ Bajunirwe F, Semakula D, Izudi J. Risk of HIV infection among
+ adolescent girls and young women in age-­disparate relationships in
+ sub-­Saharan Africa. AIDS 2020;34:1539–48.
+ DHS. Swaziland demographic and health survey 2006-­2007 Eswatini
+ Central Statistical Office and Macro International Inc; 2007. https://​
+ dhsprogram.com/pubs/pdf/fr202/fr202.pdf
+ Central Statistical Office, UNICEF. Swaziland multiple indicator
+ cluster survey 2010. Final report. Mbabane, Swaziland; 2011. https://​
+ reliefweb.int/sites/reliefweb.int/files/resources/MICS4_Swaziland_​
+ 
+<section> FinalReport_2010_Eng.pdf
+ Mabuza K, Prestidge M, de Walque D. Evaluating the effectiveness
+ of incentives to improve HIV prevention outcomes for young
+ females in Swaziland: baseline report, 2016. Available: http://​
+ documents.worldbank.org/curated/en/858601530265137699/​
+ pdf/Evaluating-the-Effectiveness-of-Incentives-to-Improve-HIV-​
+ Prevention-Outcomes-for-Young-Females-in-Swaziland-Baseline-​
+ 
+<section> Report.pdf
+ Baird SJ, Garfein RS, McIntosh CT, et al. Effect of a cash transfer
+ programme for schooling on prevalence of HIV and herpes
+ simplex type 2 in Malawi: a cluster randomised trial. The Lancet
+ 2012;379:1320–9.
+ Abdool Karim Q, Leask K, Kharsany A. Impact of conditional cash
+ incentives on HSV-­2 and HIV prevention in rural South African high
+ school students: results of the CAPRISA 007 cluster randomized
+ controlled trial. J Int AIDS Soc 2015;18.
+ Pettifor A, MacPhail C, Hughes JP, et al. The effect of a conditional
+ cash transfer on HIV incidence in young women in rural South Africa
+ (HPTN 068): a phase 3, randomised controlled trial. Lancet Glob
+ Health 2016;4:e978–88.
+ Chimbindi N, Birdthistle I, Floyd S, et al. Directed and target
+ focused multi-­sectoral adolescent HIV prevention: Insights from
+ implementation of the 'DREAMS Partnership' in rural South Africa. J
+ Int AIDS Soc 2020;23 Suppl 5:e25575.
+ Birdthistle I, Kwaro D, Shahmanesh M, et al. Evaluating the impact
+ of DREAMS on HIV incidence among adolescent girls and young
+ women: a population-­based cohort study in Kenya and South Africa.
+ 
+<section> PLoS Med 2021;18:e1003837.
+ Mason-­Jones AJ, Sinclair D, Mathews C, et al. School-­Based
+ interventions for preventing HIV, sexually transmitted infections,
+ and pregnancy in adolescents. Cochrane Database Syst Rev
+ 2016;11:CD006417.
+ de Walque D, Dow WH, Nathan R, et al. Incentivising safe sex: a
+ randomised trial of conditional cash transfers for HIV and sexually
+ transmitted infection prevention in rural Tanzania. BMJ Open
+ 2012;2:e000747.
+ Björkman Nyqvist M, Corno L, de Walque D, et al. Incentivizing
+ safer sexual behavior: evidence from a lottery experiment on HIV
+ prevention. Am Econ J Appl Econ 2018;10:287–314.
+ Campbell MK, Piaggio G, Elbourne DR, et al. Consort 2010
+ statement: extension to cluster randomised trials. BMJ
+ 2012;345:e5661.
+ Gorgens M, Longosz AF, Ketende S, et al. Evaluating the
+ effectiveness of incentives to improve HIV prevention outcomes
+ for young females in Eswatini: Sitakhela Likusasa impact
+ evaluation protocol and baseline results. BMC Public Health
+ 2020;20:1591.
+ Naidoo S, Wand H, Abbai NS, et al. High prevalence and incidence
+ of sexually transmitted infections among women living in Kwazulu-­
+ Natal, South Africa. AIDS Res Ther 2014;11:31.
+ Kharsany ABM, McKinnon LR, Lewis L, et al. Population prevalence
+ of sexually transmitted infections in a high HIV burden district in
+ 
+<section> KwaZulu-­Natal, South Africa: implications for HIV epidemic control.
+ 
+<section> Int J Infect Dis 2020;98:130–7.
+ Hayes RJ, Bennett S. Simple sample size calculation for cluster-­
+ randomized trials. Int J Epidemiol 1999;28:319–26.
+ Montgomery AA, Peters TJ, Little P. Design, analysis and
+ presentation of factorial randomised controlled trials. BMC Med Res
+ Methodol 2003;3:26.
+ Vyas S, Kumaranayake L. Constructing socio-­economic status
+ indices: how to use principal components analysis. Health Policy
+ Plan 2006;21:459–68.
+ Andersen S, Harrison GW, Lau MI, et al. Eliciting risk and time
+ preferences. Econometrica 2008;76:583–618.
+ White IR, Carpenter J, Horton NJ. A mean score method for
+ sensitivity analysis to Departures from the missing at random
+ assumption in randomised trials. Stat Sin 2018;28:1985–2003.
+ SHIMS. Swaziland HIV incidence measurement survey (SHIMS): first 
+<section> 27 DiClemente RJ, Crosby RA. Structural interventions for HIV
+ prevention: optimizing strategies for HIV prevention. Oxford, UK
+ Oxford University Press; 2018.
+ 28 Baum F, Narayan R, Sanders D, et al. Social vaccines to resist
+ and change unhealthy social and economic structures: a useful
+ metaphor for health promotion. Health Promot Int 2009;24:428–33.
+ 29 Newman PA, Roungprakhon S, Tepjan S, Peter A, et al. A social
+ vaccine? Social and structural contexts of HIV vaccine acceptability
+ among most-­at-­risk populations in Thailand. Glob Public Health
+ 2012;7:1009–24.
+ 30 Rotheram-­Borus MJ, Swendeman D, Chovnick G. The past, present,
+ and future of HIV prevention: integrating behavioral, biomedical,
+ and structural intervention strategies for the next generation of HIV
+ prevention. Annu Rev Clin Psychol 2009;5:143–67.
+ 
+<section> 31 De Neve J-­W, Fink G, Subramanian SV, et al. Length of secondary
+ schooling and risk of HIV infection in Botswana: evidence from a
+ natural experiment. Lancet Glob Health 2015;3:e470–7.
+ 32 Hayes RJ, Donnell D, Floyd S, et al. Effect of Universal Testing and
+ Treatment on HIV Incidence - HPTN 071 (PopART). N Engl J Med
+ 2019;381:207–18.
+ 33 Makhema J, Wirth KE, Pretorius Holme M, et al. Universal testing,
+ expanded treatment, and incidence of HIV infection in Botswana. N
+ Engl J Med 2019;381:230–42.
+ 34 Abdool Karim SS, Karim A, Salim S. HIV-­1 Epidemic Control -
+ Insights from Test-­and-­Treat Trials. N Engl J Med 2019;381:286–8.
+ 35 World Bank. World development report 2019: the changing nature of
+ work. Washington, DC World Bank; 2019.

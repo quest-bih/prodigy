@@ -1,0 +1,1135 @@
+
+<section> Improving quality of
+ 
+<section> childbirth in primary
+ 
+<section> stepped-wedge cluster-randomised
+ 
+<section> in India
+ 
+<section> Ramesh Agarwal, 1 Deepak Chawla, 2 Minakshi
+ Suresh K Dalpath, 5 Rakesh Gupta, 5 Saket
+ Premananda Mohanty, 3 Mari Jeeva Sankar,
+ Anu Thukral, 1 Suksham Jain, 2 Chandra Prakash
+ Praveen Kumar, 10 Jyoti Sarin, 11 Vishnubhatla
+ Yogesh Kumar, 11 Pradip Kharya, 14 Surender
+ Raksha Arora, 17 Kapil Joshi, 18 Kapil Bhalla,
+ Prischillal Devakirubai, 16 Ritu Samuel, 16 Reena
+ Vinod Kumar Paul, 1 for the QI Haryana Study
+ 
+<section> To cite: Agarwal R, Chawla D, Abstract
+ 
+<section> Sharma M, et al. Improving Background Low/middle-income countries need a large-
+ quality of care during scale improvement in the quality of care (QoC) around
+ childbirth in primary health the time of childbirth in order to reduce high maternal,
+ 
+<section> centres: a stepped-wedge
+ fetal and neonatal mortality. However, there is a paucity of
+ 
+<section> cluster-randomised trial
+ in India. BMJ Glob Health scalable models.
+ 2018;3:e000907. doi:10.1136/ Methods We conducted a stepped-wedge cluster-
+ bmjgh-2018-000907 randomised trial in 15 primary health centres (PHC) of
+ the state of Haryana in India to test the effectiveness of
+ 
+<section> Handling editor Valery Ridde a multipronged quality management strategy comprising
+ capacity building of providers, periodic assessments
+ 
+<section> ► Additional material is of the PHCs to identify quality gaps and undertaking
+ 
+<section> published online only. To view
+ improvement activities for closure of the gaps. The
+ 
+<section> please visit the journal online
+ (http://​dx.​doi.​org/​10.​1136/​ 21-month duration of the study was divided into seven
+ bmjgh-​2018-​000907). periods (steps) of 3 months each. Starting from the
+ second period, a set of randomly selected three PHCs
+ (cluster) crossed over to the intervention arm for rest of
+ Received 16 April 2018 the period of the study. The primary outcomes included
+ Revised 14 August 2018 the number of women approaching the PHCs for
+ 
+<section> Accepted 14 August 2018
+ childbirth and 12 directly observed essential practices
+ related to the childbirth. Outcomes were adjusted with
+ random effect for cluster (PHC) and fixed effect for
+ ‘months of intervention’.
+ 
+<section> Results The intervention strategy led to increase in the
+ 
+<section> © Author(s) (or their number of women approaching PHCs for childbirth (26
+ employer(s)) 2018. Re-use vs 21 women per PHC-month, adjusted incidence rate
+ permitted under CC BY-NC. No ratio: 1.22; 95% CI 1.17 to 1.28). Of the 12 practices,
+ commercial re-use. See rights improved modestly, 2 remained near universal during both
+ and permissions. Published by intervention and control periods, 3 did not change and 1
+ BMJ. worsened. There was no evidence of change in mortality
+ For numbered affiliations see with a majority of deaths occurring either during referral
+ end of article. transport or at the referral facilities.
+ 
+<section> Correspondence to Conclusion A multipronged quality management strategy
+ Dr Vijay Kumar; enhanced utilisation of services and modestly improved
+ ​1940kumarv@​gmail.​com and key practices around the time of childbirth in PHCs in India.
+ Professor Vinod Kumar Paul; Trial registration number CTRI/2016/05/006963.
+ 
+<section> ​vinodkpaul@​gmail.​com
+ 
+<section> care during
+ 
+<section> health centres: a
+ 
+<section> trial
+ 
+<section> Sharma, 3 Shyama Nagaranjan,
+ Kumar, 5 Saumyadripta Chaudhuri,
+ 1 Krishna Agarwal, 6 Shikha Rani,
+ Yadav, 8 Geeta Gathwala,
+ Sreenivas, 12 Kailash C Aggarwal,
+ Singh Bisht, 15 Gopal Shridhar,
+ 9 Aarti Soni, 19 Sube Singh,
+ Yadav, 20 Rajiv Bahl, 21 Vijay Kumar,
+ 
+<section> Collaboration
+ 
+<section> Key questions
+ 
+<section> What is already known?
+ 
+<section> ► The childbirth and first 24 hours after birth contrib-
+ ute to nearly half of the total stillbirths and maternal
+ and neonatal deaths.
+ 
+<section> ► Improvement in quality of care during childbirth
+ and postnatal period is necessary to meet the
+ Sustainable Development Goals.
+ 
+<section> What are the new findings?
+ 
+<section> ► A provider-led multipronged quality management
+ programme with external facilitation was successful
+ in improving key care practices during childbirth and
+ immediate postnatal period.
+ 
+<section> ► A large number of deficits in the quality of care
+ were due to structural issues which need system
+ strengthening and are difficult to address by health-
+ care providers themselves.
+ 
+<section> What do the new findings imply?
+ 
+<section> ► Healthcare providers at small facilities should be
+ trained in the methods of monitoring and addressing
+ quality gaps and they should be fully supported with
+ needed resources to identify and address the lacu-
+ nae in quality of care.
+ 
+<section> Introduction
+ Despite significant decline in maternal and
+ under-5 child deaths over last two decades,
+ 275 000 maternal death and 5.9 million
+ under-5 deaths including 2.7 million neonatal
+ deaths still occur every year, over 90% of
+ them in the low/middle-income countries
+ (LMIC). 1 2 Due to slower decline of neonatal
+ deaths, its contribution to under-5 deaths has 
+<section> increased from 36% in 1990 to 46% in 2015. 1 3 Addition-
+ ally, a burden of approximately 2.1 million stillbirths
+ every year, unnoticed so far, has also become a major
+ concern. 3 The childbirth and first 24 hours thereafter is
+ the most critical period as nearly half of total stillbirths
+ and maternal and neonatal deaths occur during this
+ period. 4
+ Increase in institutional deliveries in India from 38.7%
+ in 2005–2006 to 78.9% in 2015–2016 has not translated
+ into commensurate gains in maternal and neonatal
+ survival but has largely shifted the mortality burden
+ from the community to the facilities. 6–8 This has been
+ attributed to low quality of care (QoC) in the facili-
+ ties and improving the QoC in addition to universal
+ coverage of evidence-based interventions has therefore
+ been identified as a key strategy to achieve Sustainable
+ Development Goals of significantly reducing maternal,
+ fetal and neonatal mortality by 2030. 9 Improved QoC
+ is expected to save nearly 113 000 maternal deaths,
+ 000 stillbirths and 1 325 000 neonatal deaths every year
+ globally.
+ Most of the evidence on improvement in QoC has
+ emanated from high-income countries, which have strong
+ and functional health systems. Systematic reviews demon-
+ strate dearth of good-quality evidence on interventions,
+ which can improve QoC of maternal and newborn health
+ in LMICs with weaker health systems. 10 Recently, a large
+ cluster-randomised trial (BetterBirth study) undertaken
+ in Uttar Pradesh state of India focused on implementa-
+ tion of coaching-based WHO safe childbirth checklist
+ (BetterBirth checklist) as a tool to drive QoC in small
+ facilities. 11 The trial reported a modest improvement in
+ adherence to essential practices around the time of child-
+ birth but no change in perinatal deaths, maternal deaths
+ or maternal severe complications.
+ The QoC is a multifaceted concept which envisions
+ that the clients receive good-quality evidence-based care
+ (provision of care) and are also treated well (experience
+ of care). Providing good QoC which is safe, timely, effec-
+ tive, efficient, equitable and patient centred requires
+ a robust health system. Improvement in healthcare
+ processes needs ‘structure’ to be in place in the form of
+ skilled and committed human resource, infrastructure,
+ information system, equipment and supplies, financing,
+ and leadership/governance. The Donabedian and WHO
+ models emphasise the importance of both robust ‘struc-
+ ture’ and ‘processes’ in order to achieve desirable health
+ outcomes. 6
+ We hypothesised that quality management activities
+ driven by facility teams with external facilitation and
+ comprising activities to build capacity of the providers,
+ regular review of key inputs and outcomes to iden-
+ tify gaps and closing those gaps through facility teams’
+ improvement efforts will increase the uptake of essential
+ practices around the time of childbirth in primary health
+ centres (PHC). The improved QoC would enhance the
+ faith of community and families, which would improve
+ utilisation of the PHC services.
+ 
+<section> Methods
+ 
+<section> Context and study settings
+ We conducted this stepped-wedge (SW) cluster-ran-
+ domised trial in 15 PHCs of districts Ambala and Yamu-
+ nanagar in the state of Haryana of India between
+ February 2014 and 31 October 2015. Despite being
+ economically well off with per capita income of nearly
+ $2000, the health indices of Haryana do not match its
+ economic prowess. 13 The crude birth rate (21.3/1000),
+ maternal mortality ratio (146/100 000 live births) and
+ under-5 mortality rate (51/1000 live births) are high and
+ comparable to those of India (online supplementary
+ table S1). 14–16 However, the state has good road connec-
+ tivity and the district hospital (DH) can be reached
+ approximately in an hour from the PHCs. The PHCs
+ provide round-the-clock basic obstetric care and are typi-
+ cally staffed by medical officers (MO; n=1–2; one of them
+ being female MO as some patients prefer to be delivered
+ by women) and nurses (n=3–4). There is no provision
+ for blood transfusion, operative delivery, manual removal
+ of placenta or care of small or sick neonates. The State
+ provides free ambulance service to transport women or
+ newborn infants needing referral care.
+ We selected 15 of 30 PHCs of the two districts based
+ on the number of deliveries being more than median
+ annual number of deliveries (99 or more in a year) in the
+ PHCs. The study was undertaken with active involvement
+ of functionaries of National Health Mission (NHM), state
+ government and DH.
+ 
+<section> Design and intervention
+ We employed SW cluster-randomised design to test our
+ hypothesis. SW design offers pragmatic advantage of
+ staggered rolling out of intervention, avoids dilemma
+ of having a control group, is statistically more powerful
+ and better controls for the secular trend than a before-
+ and-after study. 17 18 The 21-month duration of the study
+ was divided into seven periods (steps) of 3 months each
+ (online supplementary figure S1). During the first
+ months (period 1), none of the PHCs initiated interven-
+ tion. From period 2 to period 5, a set of randomly selected
+ three PHCs (which constituted a cluster for the study) initi-
+ ated intervention in each period such that three PHCs
+ were receiving intervention in period 2, six in period 3,
+ nine in period 4, twelve in period 5 and all 15 PHCs in
+ periods 6 and 7. An independent epidemiologist gener-
+ ated the random allocation sequence without any strati-
+ fication before start of the study, and kept it concealed
+ from the study implementation team until the time of
+ rolling out of the intervention in a PHC cluster.
+ The intervention consisted of activities designed
+ to (1) build clinical care capacity of health providers
+ through self-directed and facilitated exercises, (2)
+ assess structure, processes and outcomes of the PHCs
+ to identify quality gaps, and (3) provider teams under-
+ taking improvement activities to close the identified
+ quality gaps. These activities were carried out in form
+ of (1) internal quality management activities in weekly 
+<insert> Figure 1 Conceptual diagram depicting activities during the intervention period. *Skills included those related to care women
+ (general physical examination, obstetric examination, use of photograph and active management of third stage of labour), baby
+ (measuring weight and axillary temperature, breast feeding support and detection of sickness) or both (hand hygiene). DH,
+ district hospital; NHM, National Health Mission; OSCE, Objective Structured Clinical Examination; PHC, primary health centre;
+ SoP, standard operating procedure. 
+<iend>
+
+ meetings (WM) and monthly meetings (MM), and (2)
+ external quality management (EQM) activities in form
+ of quarterly meetings (QM). Figure 1 provides details of
+ activities undertaken in WMs, MMs and QMs. In brief,
+ in WMs, the provider team assembled for approximately
+ 1 hour and discussed a topic from standard operating
+ procedures (SoP), practised a skill, screened a video on
+ their smartphone, audited a case managed in their PHCs,
+ reviewed PHC records and selected dashboard indica-
+ tors. The study team specially prepared simple SoPs and
+ collected available simple and brief videos pertaining to
+ care during and after childbirth and referral care (online
+ supplementary table S2). This resource material, based
+ on prevailing WHO and Government of India guidelines, 
+<section> was supplied to the PHC teams. Every fourth WM (desig-
+ nated as MM) was facilitated by one to two quality coaches
+ (a nurse and/or a general-duty physician) from the study
+ team. Initially, it was planned that NHM staff would
+ play the role of quality coach; however, due to limited
+ capacity, the study team had to replace NHM for this job.
+ The provider teams prepared a report of WMs and MMs
+ and shared it with study team for feedback.
+ The EQM activities were carried out in place of every
+ 12th WM (designated as QM). In these QMs, a study
+ team visited the PHC typically for 4 hours. This team of
+ at least two external experts, NHM and DH officials and
+ the respective quality coach(es) (a total of four to five
+ members) visited the PHCs. The external experts were
+ drawn from the faculty of paediatrics, obstetrics and
+ nursing from surrounding medical and nursing colleges.
+ Sometimes, a management science expert also partici-
+ pated in the QMs. This team carried out structured assess-
+ ment of the availability of physical and human resources,
+ adequacy of supplies and functionality of equipment, key
+ skills of the nurses and adequacy of case records. The
+ team also performed a case audit and assessed client satis-
+ faction by interviewing a couple of families present in the
+ facility or managed in the past. The team witnessed QoC
+ of clinical care actually being provided at the time of visit
+ if there was an opportunity (eg, during childbirth) and
+ also took stock of activities carried out in WMs and MMs
+ (online supplementary table S2 provides tools used for
+ the assessments). The team carried out assessment in a
+ non-judgemental and cordial manner, encouraging the
+ provider teams to share their achievements and frustra-
+ tions and by appreciating their positive aspects. The team
+ prepared a report on the strengths and weaknesses of the
+ PHC and, together with the provider team, identified
+ quality gaps and discussed ways to close the gaps in an
+ ensuing debriefing meeting. The report was shared with
+ NHM and DH administration for feedback and action.
+ The provider teams undertook improvement activi-
+ ties to close the quality gaps identified during different
+ meetings. The NHM and/or DH officials participating
+ in QMs were requested to assist in closing the gaps
+ related to human and physical resources. The PHC staff
+ learnt SoP, practised skills and discussed cases to close
+ skill-related gaps. Records-related gaps were closed by
+ education and encouragement. Additionally, as need-
+ driven activities, study team designed structured case
+ sheet containing partograph, discharge and referral
+ cards, and postnatal monitoring chart for mother and
+ baby for the PHCs. Client experience-related gaps were
+ addressed by improving cleanliness and hygiene in the
+ premises, improving communication skills of PHC staff
+ and providing warm food to the admitted women.
+ 
+<section> Outcomes
+ 
+<section> The primary outcomes included number of women
+ approaching PHCs for childbirth and 12 essential prac-
+ tices around the time of childbirth (total 13 primary
+ outcomes; online supplementary table S3). We also
+ measured several secondary outcomes related to the
+ clients’ experience of care and maternal and neonatal
+ mortality and stillbirths (health outcomes).
+ We employed a robust system of outcome assessment.
+ An independent outcome assessment team collected
+ outcome data by deploying one research nurse per
+ PHC who directly observed care provided around the
+ time of childbirth. The outcome team did not share the
+ outcome data with the study intervention implementing
+ team, PHC staff or health administrators. The research
+ nurse was not involved in clinical care. The research
+ nurse tracked (telephonically or through home visits) all
+ women presenting to PHCs for childbirth, irrespective of
+ place of delivery and their babies, and recorded if they
+ were alive or not on the 7th and 28th and 42nd days after
+ delivery. For outcomes related to the directly observed
+ 12 essential practices, women presenting to the PHC for
+ childbirth were eligible for inclusion if the study observer
+ could reach the PHC before delivery of the fetus.
+ We carried out verbal autopsy (VA) of all stillbirths,
+ neonatal or maternal death. A team of paediatricians,
+ nurses and social scientists reviewed the VA data and
+ identified steps of referral, cause and place of death
+ and if death could have been prevented. The death was
+ classified as preventable if, in opinion of the VA team,
+ optimum treatment could have prevented it.
+ Additionally, the study intervention team collected data
+ on the gaps identified and gaps closed. A gap was defined
+ as closed if it ceased to occur on any of subsequent QMs.
+ 
+<section> Sample size calculation
+ We used the method described by Hussey and Hughes for
+ sample size calculation. 18 A systematic review of primary
+ care research that estimated intracluster correlation coef-
+ ficient (ICC) for 1039 variables from 31 studies found a
+ median ICC of 0.005 with IQR of 0–0.021. 19 To account
+ for potentially large clustering effect in different practices
+ in the set of three PHCs, we assumed a relatively larger
+ value of ICC (0.1). Based on the existing records, we esti-
+ mated that the prevalence of the key practices ranged
+ from 10% (eg, skin-to-skin contact after delivery) to 75%
+ (use of uterotonic agents for augmentation of labour, a
+ harmful practice) at the study PHCs (online supplemen-
+ tary table S3). We hypothesised that with the interven-
+ tion, the practices would improve by absolute percentage
+ points of 10–15 in the intervention period. Assuming an
+ ICC of 0.1, we needed to observe 30 deliveries per cluster
+ of three PHCs per period of 3 months to achieve a power
+ of 80%, and two-sided alpha value of 0.05.
+ 
+<section> Ethics and consent
+ The institutional ethics committees of WHO-Geneva,
+ All India Institute of Medical Sciences-New Delhi and
+ Government Medical College-Chandigarh approved the
+ study protocol. Written informed consent was sought
+ from women who were observed for collection of infor-
+ mation about the 12 essential practices and a standard-
+ ised consent form was used for this process highlighting 
+<insert> Table 1 Quality gaps identified during quarterly quality management meetings and their closure rates
+ Nature of quality gap
+ Gaps identified
+ n
+ Gaps closed
+ n (% of gap identified)
+ Physical resources
+  Infrastructure
+ 41 (25.5)
+ 23 (24.2)
+  Functional equipment 7 (26.9)
+  Supplies and consumables 11 (27.5)
+ Provision of care 42 (35.9)
+  Clinical care 21 (33.3)
+   Routine intrapartum and postnatal care of mother 7 (24.1)
+   Routine postnatal care of baby 14 (41.2)
+  Referral care 21 (38.9)
+   Detection and management of complications in mother 7 (31.8)
+   Detection and management of complications in baby 4 (44.4)
+   Timely referral and prereferral stabilisation 8 (50)
+   Communication and feedback from referring unit 1 (16.7)
+   Provider accompanying the family 1 (100)
+ Actionable information system 35 (39.3)
+ Skills of health providers 28 (38.9)
+ Experience of care 4 (20.0)
+ Human resources 1 (9.1)
+ Others (disbursement of JSY money, utilisation of JSSK funds, etc)
+ Total
+ 6 (66.7)
+ 157 (32.8)
+ Values expressed as n or n (%).
+ JSSK, Janani Shishu Suraksha Karyakaram (Government of India’s programme to provide free treatment, food and transport facility to
+ mother and her infant in public facilities in India); JSY, Janani Suraksha Yojana (conditional cash transfer scheme of Government of India). 
+<iend>
+
+ benefits, harms, role of participants, voluntary nature of
+ participation and independence to withdraw. The infor-
+ mation provided did not differ in the intervention and
+ control arms and women did not know the ‘arm’ she was
+ being recruited to. The study protocol was registered at ​
+ CTRI.​org (CTRI/2016/05/006963).
+ 
+<section> Statistical analysis
+ The data were captured in electronic case record form
+ with in-built options of range check and cross-validation.
+ The Global Positioning System capability of the hand-
+ held devices allowed us to track those data that were
+ being recorded on the site and in real time. The outcome
+ team monitored quality of data on an ongoing basis by
+ cross-checking 10% data from PHC records and inde-
+ pendently interviewing women. Data supervisor checked
+ data for completeness and accuracy.
+ Data were expressed as proportions, mean and SDs, or
+ median and IQR. The outcome of number of deliveries
+ was expressed in terms of PHC-month. Generalised esti-
+ mating equations—population-averaged model was used
+ to adjust the effect size of primary outcomes with random
+ effect for cluster (PHC) and fixed effect for the ‘calendar
+ time’. To account for the possible lag in uptake of inter-
+ vention, we assumed the first intervention period to be
+ the ‘lag-period’ and observations during this lag period
+ were considered under ‘control period’. The analysis was
+ two sided and by intention to treat. We did not make any
+ correction for multiple comparisons. Data were analysed
+ using Stata V.11.0 (StataCorp, USA).
+ Additionally, for three case studies presented in the
+ Results section, we calculated a composite care score for
+ each mother–baby dyad by scoring observed practices
+ (1=done correctly; 0=not done correctly) and expressed
+ it as proportion, with the numerator being addition of
+ scores of all observed practices for a mother–baby dyad
+ and denominator being best possible score.
+ 
+<section> Results
+ 
+<section> Of the scheduled activities during the intervention
+ period, 62% of WMs, 79% of MMs and 73% of QMs were
+ conducted (online supplementary table S4). The PHC
+ nurses participated more often than PHC MOs in the
+ quality management activities (online supplementary
+ table S4). At least two external experts, NHM and DH
+ officials participated in QMs on 100%, 43.2% and 9.1%
+ occasions, respectively.
+ Of a large number of quality gaps (n=479) identi-
+ fied during QMs, only 32.8% were closed successfully
+ (table 1). Gaps related to human and physical resources
+ and experience of care were less likely to be closed than 
+<section> Figure 2 Study participant flow. *The women or the baby may
+ those related to actionable information system, providers’
+ skills and provision of care. In order to facilitate gap
+ closure, the project team met NHM and district health
+ administration (online supplementary table S5). Of the
+ 20 action items identified during these meetings, five
+ were successfully accomplished and another five could
+ partially be accomplished. The items related to provision
+ of uniform records could be undertaken successfully.
+ However, the action points related to ensuring adequate
+ strength of nurses and sanitation staff, round-the-clock
+ availability of electricity and provision of extra budget
+ could not be undertaken.
+ 
+<section> Study outcomes
+ Patient flow and their baseline characteristics
+ Of 7345 women approaching PHCs during the study
+ period, 5108 delivered in the PHCs and 2237 were
+ referred to higher centres before childbirth (figure 2,
+ online supplementary figure S2). The research nurse
+ observed care during and after childbirth of 1623 women
+ and their babies during intervention period (median:
+ per PHC cluster per 3 months period, IQR: 75.5–130.5)
+ and 1720 women and their babies during control period
+ (median: 79.5 per cluster period, IQR: 72.8–96.5). The
+ women were relatively young, with low level of education,
+ poor and more from vulnerable social groups. There was
+ not a large difference in women admitted to the PHCs
+ in two periods except that a lower proportion of them
+ have required referral after delivery. PHC, primary health centre.
+ 
+<section> belonged to underprivileged social classes in the inter-
+ vention period (online supplementary table S6).
+ 
+<section> Primary outcomes
+ Table 2 shows the study primary outcomes. There was
+ a 22% increase in number of women approaching for
+ childbirth to PHCs during intervention period.
+ Three of five key practices observed before childbirth
+ improved in the intervention periods: hand hygiene
+ before per-vaginal examination, recording of fetal
+ heart rate and use of partograph. The practice of use of
+ sterile gloves during per-vaginal examination remained
+ unchanged while use of uterotonics for augmentation
+ of labour (a harmful practice) was worsened. Among
+ after childbirth practices, two of them, namely uterotonic
+ use and early birth weight measurement, were almost
+ universal in both the periods. Of the remaining five prac-
+ tices, skin-to-skin contact with the mother immediately
+ after birth, discharge after 24 hours of birth and adequate
+ discharge preparedness improved in the intervention
+ period. Two practices remained unchanged: drying the
+ baby immediately after birth and early initiation of breast
+ feeding.
+ 
+<section> Secondary outcomes
+ Figure 2 shows the participant flow. Of 102 stillbirths,
+ (43.1%) occurred before women arriving to the PHC.
+ There was no difference in rates of maternal or neonatal 
+<insert> Women approached PHC for childbirth; n per
+ PHC-month
+ Practices before childbirth
+ Intervention
+ (n=1623)
+ 3514/135
+ (26 per PHC-month)
+  Hand hygiene before per-vaginal examination 695/1058
+ on all occasions (65.7)
+  Use of sterile gloves for per-vaginal
+ examination on all occasions
+ 923/1263
+ (73.1)
+  Fetal heart rate recording on all occasions 1125/1263
+ (89.1)
+  Use of partograph on all obstetric
+ examinations*
+ 535/1263
+ (42.4)
+  Augmentation of labour using uterotonic* 160/1411
+ (11.3)
+  Use of uterotonic after delivery for active
+ management of third stage of labour
+ 1432/1448
+ (98.9)
+  Placing the baby in skin-to-skin contact with
+ mother within 1 hour of birth
+ 886/1431
+ (61.9)
+  Initiation of breast feeding within 1 hour of
+ birth
+ 946/1331
+ (71.1)
+  Baby dried within 1 min of birth 647/1448
+ (44.7)
+  Birth weight recorded within 2 hours of birth 1384/1405
+ (98.5)
+  Discharge after 24 hours after delivery 1103/1318
+ (83.7)
+ 927/1165
+ (79.6%)
+ Practices after childbirth
+  Adequate discharge preparedness†
+ Data expressed as n (%) unless specified otherwise.
+ PHC, primary health centre.
+ *The summary statistics is expressed as adjusted ORs for all practices
+ in terms of incidence rate ratio (IRR). The data were adjusted for secular
+ having lower rates in intervention period than control period, adjusted
+ †Presence of all: exclusive breast feeding at discharge, women counselled
+ Table 2 Primary outcomes of the study 
+<iend>
+
+ mortality or stillbirths between two periods (online
+ supplementary table S7).
+ Of 171 deaths investigated by VA, 18 (10.5%) happened
+ during referral transport and 94 (55.0%) at referral facili-
+ ties. Forty per cent (35/87) of neonatal deaths and 21.5%
+ (14/65) of fresh stillbirths experienced at least two steps
+ of referral. Birth asphyxia was the most common (n=99,
+ 58.6%) cause of stillbirth and neonatal death followed by
+ infection (n=18) and prematurity (n=18). Two maternal
+ deaths and most of stillbirths or neonatal deaths (83.4%,
+ 141/169) were deemed preventable through provision of
+ good-quality antenatal, intrapartum and referral care.
+ 
+<section> Challenges
+ 
+<section> We noted several challenges to improvement efforts
+ during the study. Decrease in state NHM budget (from
+ US$0.85 million in 2014–2015 to US$0.55 million in
+ 
+<section> Adjusted OR/
+ period Control period IRR*
+ (n=1720) (95% CI) P values
+ 
+<section> 3831/180 
+<section> 1.22†
+ (21 per PHC-month) (1.17 to 1.28)
+ 
+<section> 660/1269 
+<section> 1.47 
+<section> 0.004
+ 
+<section> (52.0) 
+<section> (1.13 to 1.90)
+ 
+<section> 1100/1340 
+<section> 0.91 
+<section> 0.52
+ 
+<section> (82.1) 
+<section> (0.67 to 1.22)
+ 
+<section> 1070/1340 
+<section> 1.47 
+<section> 0.03
+ 
+<section> (79.8) 
+<section> (1.03 to 2.09)
+ 
+<section> 675/1340 
+<section> 1.63 
+<section> <0.0001
+ 
+<section> (50.4) 
+<section> (1.28 to 2.07)
+ 
+<section> 207/1567 
+<section> 1.77 
+<section> 0.003
+ 
+<section> (13.2) 
+<section> (1.21 to 2.58)
+ 
+<section> 1426/1481 
+<section> 1.27 
+<section> 0.58
+ 
+<section> (96.3) 
+<section> (0.54 to 3.0)
+ 
+<section> 670/1476 
+<section> 1.38 
+<section> <0.0001
+ 
+<section> (45.4) 
+<section> (1.18 to 1.62)
+ 
+<section> 756/1390 
+<section> 1.02 
+<section> 0.86
+ 
+<section> (54.4) 
+<section> (0.82 to 1.26)
+ 
+<section> 400/1478 
+<section> 1.27 
+<section> 0.06
+ 
+<section> (27.1) 
+<section> (0.99 to 1.63)
+ 1412/1439 1.49 (0.64 to 3.49) 0.35
+ 
+<section> (98.1)
+ 825/1353 2.14 (1.60 to 2.88) <0.0001
+ 
+<section> (61.0)
+ 
+<section> 582/1249 
+<section> 1.79 
+<section> <0.0001
+ 
+<section> (46.6%) 
+<section> (1.41 to 2.27)
+ 
+<section> except ‘women approached PHC for childbirth’ which was expressed
+ trend and cluster. As a result, for the practices 4 and 5, despite
+ ORs are in the opposite direction.
+ and she is aware of danger signs for herself and her baby).
+ 
+<section> 2015–2016) led to substantial reduction in the strength
+ of its supervisory staff (from 22 to 2) and decline in its
+ participation in the intervention activities (from 17/21,
+ 81.0% of QMs in the first half to 3/30, 10% in the
+ second half of study). The frequent changes in leader-
+ ship at state level (two changes in state health secretary,
+ one change in director, Mother and Child Health), in
+ NHM (two changes in mission director) and at DH (two
+ changes in chief MO in one) in second half of the study
+ led to fragility of the health system. The transfer out of
+ nurses to other health facilities influenced the optimum
+ functioning of PHCs (case study, vide infra). Most PHC
+ nurses were contract job worker (51/60; 85%) getting
+ approximately 40% of the monthly salary as compared
+ with nurse in the regular job (US$; 140 vs 400). PHC
+ MOs had multiple job responsibilities within and outside 
+<section> PHCs (mandatory jail duty, night duties at community
+ health centre (CHC), additional responsibilities at DH,
+ multiple trainings within and outside PHC) limiting their
+ focus on childbirth services at their own PHC. Nine of
+ 15 PHCs did not have female MO for a period of at least
+ 3 months during the study period. None of the PHCs
+ had deployment of sanitary or security staff and the PHC
+ staff had to make adhoc arrangement for these services.
+ The other significant challenges included prolonged
+ and regular power outages (up to 16–18 hours for most
+ PHCs) with inadequate/non-existent power backup, no
+ provision for fresh and warm food for mothers, delay in
+ availability of ambulances, suboptimal system of supply
+ of essential drugs resulting in local purchases and lack of
+ uniformity of records.
+ 
+<section> Case studies
+ 
+<section> Most of the PHCs showed improvement in key practices
+ related to childbirth during the study. However, contex-
+ tual factors such as local leadership, adequate availability
+ of human resources and incidental activities influenced
+ the effect of intervention. We illustrate three case studies
+ highlighting such influences (Box 1 and figure 3). In the
+ first case study, a poorly performing PHC showed signif-
+ icant improvement due to strong leadership of the MO
+ in charge. In the second case study, QoC declined due to
+ transfer out of three of the five nurses from a high case
+ load PHC. In the third case study, an already well-per-
+ forming PHC deteriorated following a maternal death.
+ 
+<section> Discussion
+ 
+<section> The intervention strategy in our study has shown a modest
+ effectiveness: increase in number of deliveries signifying
+ improved utilisation of PHC and modest improvement of
+ 6–12 key practices. There was no suggestion of any change
+ either in stillbirth or neonatal mortality rates (secondary
+ outcomes). Importantly, the study highlights two very
+ important issues with serious implication to future
+ research and policy: (1) despite substantial strengthening
+ of the public health system in past two decades, there
+ exists a significant degree of fragility and weakness at all
+ levels potentially undermining any improvement efforts;
+ (2) a majority of stillbirths and neonatal deaths occurred
+ in women and their babies during referral transport or at
+ the referral facilities.
+ Five randomised controlled studies have investigated
+ impact of interventions to improve QoC at the time of
+ childbirth at PHCs. 20–25 Taking cues from the evidence
+ of efficacy of use of the surgical checklist in settings of
+ strong health systems, the BetterBirth study focused on
+ providers using a checklist tool to improve essential prac-
+ tices during childbirth and reduce mortality in settings
+ of weak health systems (Uttar Pradesh, India). The study
+ intervention was limited to providing intense coaching
+ (43 visits in 8 months) to the facility staff for use of the
+ checklist for improving the uptake of life-saving practices
+ and did not specifically focus on strengthening of the
+ 
+<section> Box Case studies
+ 
+<section> Case study
+ 
+<section> PHC A, located 12 km away from the district headquarter, had
+ deployment of one to five nurses and two MOs during the study
+ period. This PHC was one of the poorly performing PHCs and it
+ initiated intervention in the fourth month of the study. Motivated by the
+ quality management process, the MO in charge provided exceptional
+ leadership to the team resulting in significant improvement in the
+ PHC performance over the remaining study period (figure 3). The
+ number of deliveries increased from an average of 6 per month in the
+ control period to 17 per month in the intervention period. There was
+ a significant improvement in composite care score. The MO in charge
+ took keen interest in the quality management activities by supervising
+ the work of nurses, closing gaps in the staff deployment by interacting
+ with district hospital administration. The PHC added an extra labour
+ table, constructed a toilet in labour room and put up curtains in
+ postnatal ward to ensure privacy.
+ 
+<section> Case study
+ 
+<section> PHC B, located in a township, had two MOs including one female
+ MO, two to five nurses and adequate physical infrastructure. The
+ PHC initiated intervention in the 15th month of the study. It had a
+ high case load (average 36 deliveries per month) during the study
+ period. The composite care score of the PHC was high indicating
+ good performance of the PHC during initial 12 months. At 12 months,
+ there were major changes in the deployment of health providers in
+ the PHC: reduced strength of nurses (from five to two) due to transfer
+ of three nurses and the additional responsibility given to the MO at
+ the DH making him unavailable for good part of his time for the PHC.
+ As a result, there was a significant decline in composite care score
+ in ensuing months (figure 3). The two nurses were unable to deliver
+ optimum childbirth services due to excessive workload and the
+ MO was not able to provide leadership to the PHC team. There was
+ inadequate uptake of quality management activities when intervention
+ started at the PHC from the 15th month of the study.
+ 
+<section> Case study
+ 
+<section> PHC C, located about 11 km away from the district headquarter,
+ had one to two MOs including a female MO and two to five nurses
+ during the study period. The PHC had labour room and postnatal care
+ facilities as per the state norms. This PHC initiated intervention in the
+ fourth month of the study. The MO in charge was a motivated and
+ committed person and led the team to provide good services with a
+ large number of deliveries (n=15 per month) occurring in the PHC.
+ During the 11th month of study, a maternal death occurred, which led
+ to an enquiry by the district administration. The MO got intimidated
+ and proceeded on leave. Thereafter, she was irregular and distracted
+ from her work. The staff got demoralised and the community behaved
+ in a hostile manner. The number of deliveries declined. Quality
+ management team made persistent efforts to raise the morale of the
+ staff and continued to visit the PHC and interact with staff. The MO
+ resumed work only after about 4 months and there was improvement
+ in services thereafter.
+ 
+<section> DH, district hospital; MO, medical officer; PHC, primary health centre.
+ 
+<section> health system or provider skills. While the study did find
+ a modest improvement in the practices (73% in interven-
+ tion arm vs 42% in the control arm) with use of checklist
+ at 4 months of intervention, there was no effect on the
+ perinatal death, maternal deaths and maternal severe
+ complications. Also, the improvement in practices too 
+<insert> Figure 3 Performance of three primary health centres (PHC). Y-axis represents the care score derived from adding the
+ number of 12 childbirth practices received by a patient. Dots represent the care score of individual observed patient. Solid line
+ with shaded area represents the smoothed trend in care score and its 95% CI. 
+<iend>
+
+ dwindled in a few months of cessation of the interven-
+ tion. Unfortunately, this study did not provide concrete
+ data as to why the intervention was modestly effective in
+ improving practices and did not improve mortality and
+ other health outcomes. A study with factorial design from
+ Malawi showed no reduction in neonatal and perinatal
+ mortality with improvement intervention at facility
+ level unless it was combined with community mobilisa-
+ tion. 20 There was 22% reduction in neonatal mortality
+ with combined facility and community intervention and
+ 16% reduction in perinatal mortality with community
+ intervention alone. Another cluster-randomised trial in 
+<section> PHCs of India reported improved provider prepared-
+ ness, facility readiness to deal with childbirth and related
+ complications, and improved practices as reviewed from
+ records.
+ Our study focused on a multipronged approach
+ targeted at improvement of all the important pillars
+ of the health systems and systematically measured the
+ existing gaps in health systems and barriers to quality
+ improvement. The facility staff drove the improve-
+ ment process with external mentoring and with the
+ involvement of government functionaries. Though our
+ study results are in agreement with BetterBirth study, it
+ provides deeper insight as to why improvement efforts
+ in these two important studies may not have yielded the
+ expected results and what could be the way forward to
+ improve the QoC and health outcomes in small facilities.
+ Our study reinforces the WHO notion, which is based
+ on Donabedian model, that provision of optimum QoC
+ requires existence of a robust health system including
+ leadership/governance, accountability, adequate
+ financing, skilled and committed human resource and
+ physical resources. 6 12 The improvement processes in our
+ study identified a large number of serious gaps (n=479) in
+ almost every essential domain of the health system. More-
+ over, low level of motivation and a lower level of account-
+ ability, and vulnerability of the health systems to a variety
+ of contextual factors further hindered the improvement
+ process. Many of identified gaps (n=322/479, 67.2%)
+ could not be closed despite multiple improvement activ-
+ ities, undertaken by the facility staff and efforts made by
+ the project team as these required concrete actions at
+ the higher level of health system, which was also seriously
+ limited. The effective closure of gaps in skills requires a
+ high level of motivation for learning of the providers as
+ well as availability of enough opportunities for honing
+ of the skills. For effective functioning of the PHCs, we
+ feel multiple factors have to be addressed that include
+ but not limited to health systems made more resilient by
+ ensuring stability of the leadership, easy fund flow, the
+ issue of availability of skilled and motivated providers
+ and creating a framework of accountability at all levels.
+ There is a need to explore if the available resources can
+ be used in a more efficient manner—likely strengthening
+ of better performing PHCs and downscaling low-volume
+ PHCs. While the governments and policymakers are
+ understandably looking for the scalable models of
+ improving QoC that work in the health system with all
+ its weaknesses, our study strongly highlights the need to
+ have stronger, accountable and responsive health system
+ as an essential prerequisite for significant improvement
+ in QoC at health facilities. In our study, implementation
+ of the intervention package was led by PHC healthcare
+ workers with periodic external facilitation. More intensive
+ support or mentoring by EQM teams could have made
+ more impact on the study outcomes. However, sustain-
+ ability of improvement achieved by such an approach
+ has not been demonstrated. 11 Large number of gaps in
+ healthcare infrastructure identified in the study indicates
+ the intervention package should have stronger quality
+ assurance component.
+ PHCs cater to low-risk conditions. Linking these institu-
+ tions to referral facilities through optimal referral trans-
+ port is critical to improve health outcomes of its clients.
+ But, this critical link is often not as effective as it should be.
+ There are delayed recognitions of conditions requiring
+ referral and suboptimal transport (second delay) and
+ significant third delay in overburdened referral facilities.
+ VA data revealed that 49 of 152 stillbirths or neonatal
+ deaths, families had to visit at least two referral facili-
+ ties for the want of care. Nearly two-thirds (112/171) of
+ deaths occurred in patients during referral transport or
+ at referral facilities. A large number of stillbirths occurred
+ even before women presenting to the PHC highlighting a
+ poor quality of antenatal care including optimum coun-
+ selling of women to recognise danger signs. In face of
+ existence of such critical weakness in the health system,
+ the bad outcomes cannot be effectively averted no matter
+ how good QoC is provided at the smaller facilities. It is
+ therefore imperative that the QoC programmes target
+ improvement of services at all levels starting from first
+ contact facilities to the referral centres.
+ Our study has several limitations. It was a small study
+ involving only 15 PHCs with relatively low case load in
+ two districts and not powered for mortality and other
+ important health outcomes. As the perinatal, neonatal
+ and maternal mortality outcomes can only be influenced
+ if a range of services (processes) are improved, we took
+ 13 outcomes to be studied as the primary outcomes. We
+ calculated the sample size for each of these 13 practices
+ and took the largest sample size. However, the analysis
+ does not account for multiple hypotheses testing. The
+ primary outcome of number of deliveries depended on
+ several other factors apart from QoC but we believe that
+ study design addressed this issue. The study investigators
+ could not have blinded. However, we employed robust
+ independent outcome measurement. We did not evaluate
+ costing and the sustainability of the model. Lastly, the SW
+ design does not fully compensate for secular trend but is
+ a design of choice for such interventions. The effect of
+ contextual factors on the success of QM approach was
+ demonstrated by three different case studies. However,
+ this before-and-after analysis does not preclude the
+ potential effect of secular trend.
+ In conclusion, our study reports modest effectiveness
+ of a quality management strategy driven by the provider
+ teams with external facilitation in small health facilities
+ of Haryana, India. We noted several serious and difficult-
+ to-close quality gaps in the health system as the limiting
+ factors for desirable level of improvement in QoC and
+ potentially health outcomes. Two-thirds of deaths
+ occurred in women and their babies during the trans-
+ port or at the referral facilities. We recommend that a
+ stronger and functional health system and a responsive
+ and accountable mechanism to identify and effectively
+ close the quality gaps in health system must be an inte-
+ gral part of any QoC programmes. 
+<section> Author affiliations
+ Division of Neonatology, Department of Pediatrics, All India Institute of Medical
+ 
+<section> Sciences, New Delhi, India
+ Department of Neonatology, Government Medical College Hospital, Chandigarh,
+ 
+<section> India
+ Survival for Women and Children Foundation (SWACH), Panchkula, India
+ Saha Manthran Pvt Ltd, Gurugram, India
+ National Health Mission (Haryana), Government of India, Panchkula, India
+ Maulana Azad Medical College and LNJP Hospital, New Delhi, India
+ Department of Obstetrics and Gynecology, Government Medical College Hospital,
+ 
+<section> Chandigarh, India
+ National Institute of Malaria Research, New Delhi, India
+ 
+<section> Pt BD Sharma PGIMS, Rohtak, India
+ 
+<section> PGIMER, Chandigarh, India
+ MM College of Nursing, Mullana, Ambala, India
+ Department of Biostatistics, All India Institute of Medical Sciences, New Delhi,
+ 
+<section> India
+ Safadarjung Hospital and Vardhman Mahavir Medical College, New Delhi, India
+ Government Medical College, Kannauj, India
+ Swami Dayanand Hospital, New Delhi, India
+ Western Command Hospital, Panchkula, India
+ Santosh Medical College, Gaziabad, India
+ 
+<section> UNICEF Rajasthan, Jaipur, India
+ 
+<section> UNICEF Chhattisgarh, Raipur, India
+ Lady Hardinge Medical College, New Delhi, India
+ 
+<section> WHO, Geneva, Switzerland
+ 
+<section> Collaborators We are grateful to the study coinvestigators, and the
+ implementation and management teams, including: Mamta Jajoo, MD; Vinay
+ Kulkarni, Neeraj Gupta, DM; Anju Huria, MS; Levis Murry, Prahlad Agarwal,
+ Herbaksh Kaur, Amit Duggal, Jaidev Khatri, Vinod Gupta, Mangat Ram Passi, VP
+ Mann, Alaknanda Malik, Bela Jain, VK Jain, Deepshikha Sharma.
+ 
+<section> Contributors Writing committee: RA, DC, VK, VKP, RB. Investigators: NHM,
+ Haryana: RG, SK, SKD, KJ, AS, SS, AD (NHM), JK; SWACH, Chandigarh: VK, PM,
+ MS; AIIMS, New Delhi: VKP, RA, SC, MJS, AT, VS, CPY; GMCH, Chandigarh: DC, ST,
+ SJ; Saha Manthran, Gurugram, Haryana: SN, PA; Maulana Azad Medical College,
+ New Delhi: KA; PGIMER, Chandigarh: PK; PGIMS, Rohtak: GG, KB; MM College of
+ 
+<section> Nursing, Mullana, Ambala: JS, YK; WHO, Geneva: RB. Protocol development: VKP, VK,
+ RB, DC, MJS. Study implementation: VK, PM, MS, Gagandeep, DS. Study resources
+ development: SC, VKP, VK, AT, KA, RA, DC, MJS, RB. Study data team: DC. Study
+ external facilitation team: RA, VPM, SC, SN, Shikha Taneja, KA, AT, GG, PK, JS, SJ,
+ KCA, Yogesh Dhankar, PK, SSB, GS, RA, PD, RS, RY, KB, RB. Data analysis: MJS, RB,
+ DC, VK, RA, VKP, CPY, VS.
+ 
+<section> Funding The study was funded through a grant to the WHO by USAID. The WHO
+ team participated in the protocol development, and provided technical support
+ to the investigators in implementation, analysis of data, interpretation of findings
+ and preparation of the manuscript. The corresponding authors had full access to
+ all the data in the study and bear the final responsibility for deciding about the
+ publication.
+ 
+<section> Disclaimer RB is a staff member of the World Health Organization. The expressed
+ views and opinions in this paper do not necessarily express the policies of the World
+ Health Organization.
+ 
+<section> Competing interests None declared.
+ 
+<section> Patient consent Obtained.
+ 
+<section> Ethics approval The institutional ethics committees of the World Health
+ Organization, All India Institute of Medical Sciences and the Government Medical
+ College, Chandigarh.
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data statement The deidentified dataset is available upon request.
+ 
+<section> Open access This is an open access article distributed in accordance with
+ the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license,
+ which permits others to distribute, remix, adapt, build upon this work
+ non-commercially, and license their derivative works on different terms,
+ provided the original work is properly cited, appropriate credit is given,
+ any changes made indicated, and the use is non-commercial. See: http://​
+ creativecommons.​org/​licenses/​by-​nc/​4.​0/
+ 
+<section> References
+ 1. Liu L, Oza S, Hogan D, et al. Global, regional, and national causes
+ of under-5 mortality in 2000-15: an updated systematic analysis
+ with implications for the Sustainable Development Goals. Lancet
+ 2016;388:3027–35.
+ 2. GBD 2015 Maternal Mortality Collaborators. Global, regional, and
+ national levels of maternal mortality, 1990-2015: a systematic
+ analysis for the Global Burden of Disease Study 2015. Lancet
+ 2016;388:1775–812.
+ 3. GBD 2015 Child Mortality Collaborators. Global, regional, national,
+ and selected subnational levels of stillbirths, neonatal, infant, and
+ under-5 mortality, 1980-2015: a systematic analysis for the Global
+ Burden of Disease Study 2015. Lancet 2016;388:1725–74.
+ 4. Baqui AH, Mitra DK, Begum N, et al. Neonatal mortality within
+ hours of birth in six low- and lower-middle-income countries. Bull
+ World Health Organ 2016;94:752–8.
+ 5. Lawn JE, Blencowe H, Waiswa P, et al. Stillbirths: rates, risk factors,
+ and acceleration towards 2030. Lancet 2016;387:587–603.
+ 6. Tunçalp Ӧ, Were WM, MacLennan C, et al. Quality of care
+ for pregnant women and newborns-the WHO vision. BJOG
+ 2015;122:1045–9.
+ 7. 2017. National Family Health Survey. http://​rchiips.​org/​NFHS/​
+ factsheet_​NFHS-​4.​shtml (accessed 8 May 2017).
+ 8. Powell-Jackson T, Mazumdar S, Mills A. Financial incentives in
+ health: New evidence from India's Janani Suraksha Yojana. J Health
+ Econ 2015;43:154–69.
+ 9. Chaturvedi S, De Costa A, Raven J. Does the Janani Suraksha
+ Yojana cash transfer programme to promote facility births in India
+ ensure skilled birth attendance? A qualitative study of intrapartum
+ care in Madhya Pradesh. Glob Health Action 2015;8:27427.
+ 10. Bhutta ZA, Salam RA, Lassi ZS, et al. Approaches to improve Quality
+ of Care (QoC) for women and newborns: conclusions, evidence
+ gaps and research priorities. Reprod Health 2014;11(Suppl 2):S5.
+ 11. Semrau KEA, Hirschhorn LR, Marx Delaney M, et al. Outcomes of a
+ coaching-based WHO safe childbirth checklist program in India. N
+ Engl J Med 2017;377:2313–24.
+ 12. Donabedian A. The quality of care. How can it be assessed? JAMA
+ 1988;260:1743–8.
+ 13. 2017. Per Capita National Income. http://​pib.​nic.​in/​newsite/​
+ PrintRelease.​aspx?​relid=​123563 (accessed 12 Feb 2017).
+ 14. 2017. Census of India : Sample Registration System. http://www.​
+ censusindia.​gov.​in/​2011-​Common/​Sample_​Registration_​System.​
+ html (accessed 12 Feb 2017).
+ 15. Open Government Datadp.awasthi, 2017. Trends in Under Five
+ Mortality Rates - India and Bigger States. (OGD) Platform India.
+ 2013. Available from: https://​data.​gov.​in/​catalog/​trends-​under-​five-​
+ mortality-​rates-​india-​and-​bigger-​states [accessed 12 Feb 2017].
+ 16. Sonkusare A, 2017. Below Poverty Line in India. Open Government
+ Data (OGD) Platform India. 2014. https://​data.​gov.​in/​catalog/​below-​
+ poverty-​line-​india (accessed 12 Feb 2017).
+ 17. Hemming K, Haines TP, Chilton PJ, et al. The stepped wedge cluster
+ randomised trial: rationale, design, analysis, and reporting. BMJ
+ 2015;350:h391.
+ 18. Hussey MA, Hughes JP. Design and analysis of stepped wedge
+ cluster randomized trials. Contemp Clin Trials 2007;28:182–91.
+ 19. Adams G, Gulliford MC, Ukoumunne OC, et al. Patterns of intra-
+ cluster correlation from primary care research to inform study design
+ and analysis. J Clin Epidemiol 2004;57:785–94.
+ 20. Colbourn T, Nambiar B, Bondo A, et al. Effects of quality
+ improvement in health facilities and community mobilization through
+ women's groups on maternal, neonatal and perinatal mortality
+ in three districts of Malawi: MaiKhanda, a cluster randomized
+ controlled effectiveness trial. Int Health 2013;5:180–95.
+ 21. Brown H, Hofmeyr GJ, Nikodem VC, et al. Promoting childbirth
+ companions in South Africa: a randomised pilot study. BMC Med
+ 2007;5:7.
+ 22. Jayanna K, Bradley J, Mony P, et al. Effectiveness of onsite nurse
+ mentoring in improving quality of institutional births in the primary
+ health centres of high priority districts of karnataka, south india: A
+ cluster randomized trial. PLoS One 2016;11:e0161957.
+ 23. Namazzi G, Waiswa P, Nakakeeto M, et al. Strengthening health
+ facilities for maternal and newborn care: experiences from rural
+ eastern Uganda. Glob Health Action 2015;8:24271.
+ 24. Jennings L, Yebadokpo A, Affo J, et al. Use of job aids to improve
+ facility-based postnatal counseling and care in rural Benin. Matern
+ Child Health J 2015;19:557–65.
+ 25. Jennings L, Yebadokpo AS, Affo J, et al. Antenatal counseling in
+ maternal and newborn care: use of job aids to improve health worker
+ performance and maternal understanding in Benin. BMC Pregnancy
+ Childbirth 2010;10:75.

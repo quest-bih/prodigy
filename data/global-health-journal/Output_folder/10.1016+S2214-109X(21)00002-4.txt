@@ -1,0 +1,1943 @@
+
+<section> UNIVERSITY
+ 
+<section> ANGOR
+ 
+<section> The Irie Classroom Toolbox, a universal violence-prevention teacher-
+ 
+<section> training programme, in Jamaican preschools: a single-blind, cluster-
+ 
+<section> B randomised controlled trial
+ 
+<section> /
+ 
+<section> BANGOR Baker-Henningham, Helen; Bowers, Marsha; Francis, Taja; Vera-Hernández,
+ 
+<section> Marcos; Walker, Susan
+ 
+<section> The Lancet Global Health
+ 
+<section> PRIFYSGOL
+ 
+<section> DOI:
+ 
+<section> https://doi.org/10.1016/S2214-109X(21)00002-4
+ 
+<section> Published: 01/04/2021
+ 
+<section> Version created as part of publication process; publisher's layout; not normally made publicly
+ 
+<section> available
+ 
+<section> Cyswllt i'r cyhoeddiad / Link to publication
+ 
+<section> Dyfyniad o'r fersiwn a gyhoeddwyd / Citation for published version (APA):
+ Baker-Henningham, H., Bowers, M., Francis, T., Vera-Hernández, M., & Walker, S. (2021). The
+ Irie Classroom Toolbox, a universal violence-prevention teacher-training programme, in
+ 
+<section> Jamaican preschools: a single-blind, cluster-randomised controlled trial. The Lancet Global
+ Health, 9(4), Article E456-E468. https://doi.org/10.1016/S2214-109X(21)00002-4
+ 
+<section> Hawliau Cyffredinol / General rights
+ Copyright and moral rights for the publications made accessible in the public portal are retained by the authors and/or
+ other copyright owners and it is a condition of accessing publications that users recognise and abide by the legal
+ requirements associated with these rights.
+ 
+<section> • Users may download and print one copy of any publication from the public portal for the purpose of private
+ study or research.
+ • You may not further distribute the material or use it for any profit-making activity or commercial gain
+ • You may freely distribute the URL identifying the publication in the public portal ?
+ 
+<section> Take down policy
+ 
+<section> If you believe that this document breaches copyright please contact us providing details, and we will remove access to
+ the work immediately and investigate your claim. 
+<section> The Irie Classroom Toolbox, a universal
+ 
+<section> teacher-training programme, in Jamaican
+ 
+<section> a single-blind, cluster-randomised controlled
+ 
+<section> Helen Baker-Henningham, Marsha Bowers, Taja Francis, Marcos Vera-Hernández, Susan
+ 
+<section> Summary
+ 
+<section> Background Violence is a leading global public health problem, and interventions
+ primary prevention of violence. We tested whether the Irie Classroom
+ programme reduced violence against children by teachers and reduced
+ (catering to children aged 3–6 years).
+ 
+<section> Methods We did a single-blind, cluster-randomised controlled trial
+ randomly selected, using simple randomisation, from 120 eligible preschools.
+ of children; at least ten children per class; and located in an urban area.
+ the Irie Classroom Toolbox intervention or waiting-list control that received
+ randomisation sequence by an independent statistician masked to
+ teachers in classroom behaviour management and promoting child
+ masked to group assignment. All teachers and classrooms in the selected
+ school, we used simple randomisation to randomly select up to 12 children
+ The Toolbox intervention was implemented from August to April the
+ were done at baseline (the summer school term; ie, May to June), post-intervention
+ May to June of the following year), and 1-year follow-up (ie, May to
+ observations of violence against children (including physical violence
+ occurring across one full school day, and class-wide child aggression
+ school day, all measured at post-intervention and 1-year follow-up
+ registered with ISRCTN, number ISRCTN11968472.
+ 
+<section> Findings Between June 22, 2015, and April 29, 2016, (after baseline
+ 38 preschools (with 119 teachers) to the Toolbox intervention and
+ 441 children in the intervention schools and 424 in the control schools
+ were included in the post-intervention and follow-up analyses. There
+ by teachers in the intervention schools compared with control
+ 
+<section> [IQR 0–11] vs 15 [3–35]; effect size –67·12%, 95% CI –80·71 to –53·52,
+ counts 3 [IQR 0–9] vs 6 [1–16]; effect size –53·86, 95% CI –71·08
+ groups were found for class-wide child aggression at post-intervention
+ p=0·72) or 1-year follow-up (–0·14, –0·42 to 0·16, p=0·72).
+ 
+<section> Interpretation In Jamaican preschools, the Irie Classroom Toolbox
+ teachers. The Toolbox was designed for use with undertrained teachers
+ be effective with early childhood practitioners in other LMICs. Additional
+ Toolbox to reduce class-wide child aggression.
+ 
+<section> Funding Medical Research Council, Wellcome Trust, UK Aid, and the
+ 
+<section> Copyright © 2021 The Author(s). Published by Elsevier Ltd. This is
+ 
+<section> 4.0 license.
+ 
+<section> Introduction 
+<section> bullying,
+ More than 50% of all children aged 2 to 17 years experience teachers,
+ physical, emotional, or sexual violence each year globally. income
+ Schools are an important context for violence-prevention Violence
+ initiatives because of their population reach and the high schools
+ proportion of time that children spend there. School-based and behavioural
+ programmes can target multiple types of violence including academic
+ 
+<section> Articles
+ 
+<section> violence-prevention
+ 
+<section> preschools:
+ 
+<section> trial
+ 
+<section> P Walker
+ 
+<section> in early childhood are important in the Lancet Glob Health 2021
+ Toolbox, a violence-prevention teacher-training Published 
+<section> Online
+ class-wide child aggression in Jamaican preschools February 22, 2021
+ 
+<section> https://doi.org/10.1016/
+ 
+<section> S2214-109X(21)00002-4
+ 
+<section> in 76 preschools in Kingston and St Andrew, School of Psychology, Bangor
+ 
+<section> University, Bangor, UK
+ Inclusion criteria were two to four classes (Prof H Baker-Henningham PhD);
+ 
+<section> We randomly assigned preschools (1:1) to either Caribbean Institute for Health
+ no intervention, using a computer-generated Research, University of the
+ school identity. The Toolbox involved training West Indies, Mona, Kingston,
+ 
+<section> Jamaica
+ 
+<section> social-emotional competence. All assessors were (Prof H Baker-Henningham,
+ schools participated in the study. Within each M Bowers MPhil, T Francis MPhil,
+ aged 4 years for evaluation of child outcomes. Prof S P Walker PhD);
+ following year. Teacher and classroom measures Department University College of Economics, London,
+ (after 8 months of intervention; ie, London, UK
+ June 2 years later). The primary outcomes were (M Vera-Hernández PhD);
+ and psychological aggression) by teachers Institute of Fiscal Studies,
+ 
+<section> London, UK (M Vera-Hernandez)
+ occurring over five 20-min intervals on another
+ and analysed by intention to treat. This trial is 
+<section> Correspondence to:
+ 
+<section> Prof Helen Baker-Henningham,
+ 
+<section> School of Psychology, Bangor
+ 
+<section> University, Bangor, LL57 2AS, UK
+ measurements were completed), we assigned h.henningham@bangor.ac.uk
+ 
+<section> 38 preschools (with 110 teachers) to control.
+ were included in the evaluation. All schools
+ were fewer counts of violence against children
+ schools at post-intervention (median counts
+ p<0·0001) and 1-year follow-up (median
+ to –36·65, p<0·0001). No differences between
+ (effect size 0·07, 95% CI –0·16 to 0·29,
+ 
+<section> effectively reduced violence against children by
+ working in low-resource settings and should
+ research is needed to further develop the
+ 
+<section> National Institute of Health Research.
+ 
+<section> an Open Access article under the CC BY-NC-ND
+ 
+<section> peer aggression, and violence against children by
+ but there is little evidence of their effect in low-
+ and middle-income countries (LMICs). 2,3
+ against children by teachers is prevalent in
+ across the world and is linked with mental health
+ problems, physical injury, and poor
+ achievement. 4 The few trials of school-based, 
+<section> Articles
+ 
+<section> Research in context
+ 
+<section> Evidence before this study
+ There are no systematic reviews of interventions to prevent
+ violence against children by school staff. We searched the
+ Cochrane and Psychinfo databases from the first record to
+ May 1, 2020 using the terms “corporal punishment’, “physical
+ punishment”, “violence against children”, “physical discipline”,
+ “violence”, and “school”. We found three randomised trials that
+ assessed teachers’ use of violence against children, one done in
+ secondary schools and two in primary schools. The most
+ rigorous trial was an evaluation of the Good School Toolkit in
+ Ugandan primary schools that found a 42% reduction in
+ past-week violence against children by school staff in the
+ group allocated to the toolkit.
+ 
+<section> A systematic review of interventions for disruptive behaviour
+ problems in low and middle-income countries (LMIC)
+ identified three school-based trials published up to
+ November 2016, targeting preschool age children. We
+ searched the Cochrane and Psychinfo databases to identify
+ school-based, randomised trials with preschool-age children
+ in LMIC from Nov 12, 2016, to May 1, 2020, with the terms
+ “aggression”, “disruptive behaviour”, “conduct problems”,
+ “externalising disorders”, and “school”. One further trial from
+ Uganda was identified. Three of the four trials were small-
+ scale and done in ten schools or fewer. The largest study was
+ an efficacy trial in 24 Jamaican preschools that reported
+ reductions in behavioural problems of preschoolers at high
+ risk for antisocial behaviour by independent observation and
+ reports from teachers and parents.
+ 
+<section> violence-prevention programmes with quantitative
+ measures of teachers’ use of violence against children
+ have been done in primary and secondary schools. 5–7
+ Early-onset conduct problems are the most common
+ mental health concerns in children and predict juvenile
+ delinquency, and crime and violence in adulthood; these
+ disruptive behaviour problems are reduced through early
+ preventive interventions. 8 However, few trials have been
+ done in LMICs, especially in the pre-primary years. 3,9,10
+ The Irie Classroom Toolbox 11 is a universal, early child­
+ hood, violence-prevention teacher-training pro­ gramme
+ designed for use in LMICs, that aims to reduce violence
+ against children by teachers and prevent the early
+ development of antisocial behaviour in children aged
+ 3–8 years. The Toolbox also aims to improve the quality of
+ the classroom environment and to promote child mental
+ health, self-regulation, and prosocial skills. In this study we
+ evaluated the effectiveness of the Irie Classroom Toolbox in
+ a cluster-randomised trial in inner-city Jamaican preschools.
+ 
+<section> Methods
+ Study design and participants
+ We did a two-arm, single-blind, cluster-randomised trial
+ with parallel assignment in community preschools
+ 
+<section> Added value of this study
+ This is the first study of a preschool violence-prevention
+ programme with direct measurements of teachers’ use of
+ violence against children and the first trial in any school setting
+ to include follow-up measurements of this outcome. The
+ teacher-training programme led to large and sustained
+ reductions in teachers’ use of violence against children.
+ We found no benefits with this programme on child aggression
+ at the classroom level. However, the intervention led to benefits
+ for a wide range of secondary outcomes at the level of (1) the
+ classroom (ie, the quality of the classroom environment and
+ class-wide child pro-social behaviour); (2) the teacher
+ (ie, teachers’ wellbeing and retention); and (3) the children
+ (ie, child inhibitory control and mental health of high-risk
+ children). The results inform the provision of in-service training
+ initiatives for preschool teachers in LMIC to prevent child
+ maltreatment and improve child functioning.
+ 
+<section> Implications of all the available evidence
+ School-based violence-prevention programmes implemented in
+ LMIC are an effective strategy to reduce teachers’ use of violence
+ against children. Further research is required to identify a broader
+ set of strategies to eliminate child maltreatment in schools.
+ Research is also needed on how to fully integrate school-based
+ interventions into ongoing pre-service and in-service teacher
+ training and other school improvement initiatives with sufficient
+ quality to maintain effectiveness, and to identify how the
+ changes to teacher behaviour can be sustained over time.
+ 
+<section> located in disadvantaged areas of Kingston and
+ St Andrew, Jamaica. The preschools are run through
+ community organisations, with government oversight,
+ for children aged 3 to 6 years living in the locality.
+ Parents pay a small fee and provide school supplies.
+ Preschool was the unit of randomisation to prevent
+ contamination among teachers. Inclusion criteria for
+ preschools were two to four classes of children, at least
+ ten children per class, situated in urban areas of
+ Kingston and St Andrew, and all teachers consenting to
+ participate in the trial. We assessed 173 preschools for
+ eligibility and 120 preschools met the inclusion criteria;
+ 76 of these eligible preschools were randomly selected to
+ participate in the study using simple randomisation
+ with a computer-generated random number sequence
+ (figure). Within each school, we used simple randomi­
+ sation (with a random number table) to select up to
+ 12 children aged 4 years for evaluation of child outcomes.
+ In preschools with 12 or fewer children aged 4 years and
+ in schools with 13 eligible children, all children were
+ recruited. We selected children in the 4-year-old classes
+ only because children in the 5-year-old classes were
+ transitioning to primary school before the start of the
+ intervention and some children in the 3-year-old class 
+<insert> (ITT): 38 preschools, 110 teachers, 424 children
+ 25 teachers lost to evaluation (mean
+ 0·7 per cluster, range 0–3)
+ 5 principals no longer teaching a
+ class
+ 20 left school
+ measurements completed with
+ 85 teachers (mean 2·3 per cluster, range 1–4)
+ (ITT): 38 preschools, 110 teachers
+ Figure: Trial profile
+ Preschools with children aged
+ 3 to 6 years. ITT=intention to
+ treat. *3 schools declined to
+ participate because of current
+ or imminent leadership
+ changes. These schools were
+ replaced by the next school on
+ the randomisation list. †Up to
+ 12 children aged 4 years
+ randomly selected.
+ ‡47 children were excluded
+ and were replaced by the next
+ randomly selected child:
+ 23 for poor attendance, 21 left
+ school between recruitment
+ and testing, and three had a
+ disability. 
+<iend>
+
+ transition to government preschools at age 4 years. consent.
+ Inclusion criteria for children were no absences totalling Ethics Committees
+ more than 1 month in the past term, attends school at University
+ least 3 days per week, no obvious disability, and parental Indies
+ 
+<section> 173 preschools assessed for eligibility
+ 
+<section> 53 ineligible
+ 
+<section> 17 with <2 or >4
+ 36 with <10 children
+ 
+<section> 120 preschools eligible for participation
+ 76 preschools randomly selected and recruited*
+ 
+<section> 229 teachers per classrooms recruited (mean 3·0 teachers per preschool;
+ range 2–4) with 3993 children (mean 52·5 per preschool, range
+ 865 children aged 4 years randomly selected and recruited for
+ in evaluation†‡ (mean 11·4 children per cluster; range 6–13)
+ 
+<section> Baseline measurements done
+ 
+<section> 38 preschools allocated to the Irie Classroom Toolbox 38 preschools
+ 119 teachers (mean 3·1 per cluster, range 2–4) 110 teachers
+ 2160 children (mean 56·8 per cluster, range 18–128) 1833 children
+ 441 children included in the evaluation (mean 11·6 per 424 children
+ cluster, range 7–13) 
+<section> cluster,
+ 
+<section> 11 teachers lost to evaluation (mean
+ 
+<section> 0·3 per cluster, range 0–2)
+ 2 principals no longer teaching a class
+ 
+<section> 2 dead
+ 
+<section> 1 migrated
+ 
+<section> 6 left school
+ 
+<section> 43 children lost (mean 1·2 per cluster,
+ 
+<section> range 0–5)
+ 
+<section> 3 migrated
+ 
+<section> 40 moved to a non-study school
+ 
+<section> Post-intervention: measurements completed with 
+<section> Post-intervention:
+ 38 preschools, 108 teachers (mean 2·8 per cluster, 38 preschools,
+ range 1–4), 398 children (mean 10·4 per cluster, range 5–13) range 1–4),
+ 
+<section> Analysed (ITT): 38 preschools, 119 teachers, 441 children Analysed
+ 
+<section> 14 teachers lost to evaluation (mean
+ 
+<section> 0·4 per cluster, range 0–2)
+ 1 principal no longer teaching a class
+ 
+<section> 2 dead
+ 
+<section> 2 migrated
+ 
+<section> 8 left school
+ 
+<section> 1 retired
+ 
+<section> 1-year follow-up: measurements completed with 1-year follow-up:
+ 38 preschools, 105 teachers (mean 2·7 per cluster, 38 preschools,
+ range 1–4)
+ 
+<section> Analysed (ITT): 38 preschools, 119 teachers Analysed
+ 
+<section> Articles
+ 
+<section> Ethical consent for the study was given by the
+ 
+<section> of the School of Psychology, Bangor
+ 
+<section> (2014-14167) and the University of the West
+ 
+<section> (ECP 50, 14/15). The trial protocol has been
+ 
+<section> classes
+ 
+<section> per class
+ 
+<section> 10–128)
+ 
+<section> participation
+ 
+<section> allocated to wait-list control
+ 
+<section> (mean 2·9 per cluster, range 2–4)
+ 
+<section> (mean 48·2 per cluster, range 10–84)
+ 
+<section> included in the evaluation (mean 11·2 per
+ 
+<section> range 6–13)
+ 
+<section> 18 teachers lost to evaluation (mean
+ 
+<section> 0·5 per cluster, range 0–3)
+ 4 principals no longer teaching a class
+ 
+<section> 14 left school
+ 
+<section> 39 children lost (mean 1·0 per cluster,
+ 
+<section> range 0–3)
+ 
+<section> 3 migrated
+ 
+<section> 36 moved to a non-study school
+ 
+<section> measurements completed with
+ 
+<section> 92 teachers (mean 2·5 per cluster,
+ 385 children (mean 10·1 per cluster, range 3–13) 
+<section> Articles
+ 
+<section> Panel: 
+<section> The Irie Classroom Toolbox intervention
+ 
+<section> Content and materials
+ The Irie Classroom Toolbox consists of four modules:
+ (1) creating an emotionally supportive classroom environment;
+ (2) preventing and managing child behaviour problems;
+ (3) teaching social and emotional skills; and (4) individual and
+ class-wide behaviour planning.
+ 
+<section> Intervention materials for teachers include (1) a tools book
+ that provides simple guidelines on how to use each strategy
+ and the underpinning rationale; (2) an activity book of songs,
+ games, activities, lesson plans, and behaviour planning forms;
+ (3) three sets of picture cards to help teachers teach classroom
+ rules, friendship skills, and understanding emotions; and (4) a
+ problem-solving stories book consisting of 14 pictorial stories
+ depicting common classroom problems that children
+ encounter in school, and strategies that children can use to
+ overcome them (eg, how to work together as a team, and how
+ to share classroom materials). All materials are available
+ 
+<section> For the 
+<section> Irie Classroom Toolbox 
+<section> online.
+ 
+<section> materials see
+ 
+<section> www.irietoolbox.com 
+<section> Procedures
+ The teacher-training workshops include the use of
+ brainstorms, live and videotape modelling, role-play and
+ rehearsal, discussions, card-sorting activities, and small group
+ activities. In our study, five full-day workshops were
+ undertaken, and full details of the content and process for
+ each workshop were provided in a training manual. Eight
+ in-class support sessions were designed to support the
+ content covered in workshops. Guidelines for the in-class
+ support sessions were given in a coaching manual. All
+ sessions included three steps: (1) a brief 5-min planning
+ discussion with the teacher; (2) supporting the teacher in the
+ classroom by modelling the strategies, prompting the teacher
+ to use them, providing supportive feedback, and helping the
+ teacher to problem-solve (around 45 min); and (3) debriefing
+ and goal-setting (around 10 min). Teachers also received
+ practical classroom assignments to be completed after each
+ in-class support session. Fortnightly phone text messages
+ were sent to all intervention teachers using an SMS service.
+ 
+<section> Who provided the Toolbox intervention?
+ Eight female staff assisted in delivery of the intervention;
+ when recruited, all staff had a Masters’ degree but no or little
+ experience in child-behaviour management and early
+ childhood education. Each teacher-training workshop was
+ done by one facilitator and one co-facilitator who received
+ 2–3 days of training for each day of workshop delivered
+ (a total of 12 days). Teachers were divided into four groups,
+ based on geographical location, and workshops were done
+ with groups of 24–35 participants. The four co-facilitators of
+ the workshops provided in-class support, and each was
+ responsible for 9–10 preschools (around 30 teachers). The
+ co-facilitators were supervised by two of the workshop
+ facilitators who supported them in field visits and met with
+ them individually approximately once a month to discuss the
+ progress of each teacher. Weekly group supervision meetings
+ lasting around 1 h were held to problem-solve common
+ issues faced and to discuss and practice each session before
+ implementation.
+ 
+<section> Further details for the Toolbox intervention
+ Teacher training workshops were done in community centres
+ (eg, preschools and church halls) in urban areas of Kingston,
+ Jamaica. Teachers were given a small stipend to cover
+ transportation costs (US $4 per workshop) and lunch was also
+ provided.
+ Teachers attended five full-day (6 h) workshops over one
+ school year. 3 days of workshop were done in the summer
+ holiday before the start of term, one workshop day was held in
+ the half-term break in October, and the remaining workshop
+ day was held in the half-term break in February. In-class
+ support was provided to each intervention teacher once per
+ month for 8 months from September to April, for
+ approximately 1 h each session. Teachers in the intervention
+ schools were offered one additional training workshop in the
+ summer holiday as a refresher before the start of the next
+ school year; 50% of teachers opted to attend this additional
+ workshop.
+ 
+<section> The intervention was manualised and largely implemented in
+ a standard way with all teachers. Workshops were fully
+ scripted and done as planned with minimal modifications.
+ All teachers were offered the same number of in-class support
+ sessions. During these sessions, the content was the same for
+ all teachers, although teachers would receive different types
+ of assistance in the classroom depending on their needs,
+ competence, and engagement with the intervention.
+ The workshop facilitators completed a training protocol and
+ self-evaluation questionnaire after each workshop; all of the
+ prescribed workshop content was covered. Teachers rated
+ their opinion of the content, videos, facilitator skills, group
+ discussion, role plays or demonstrations, and small-group
+ work on a six-point scale from not at all helpful (0) to
+ extremely helpful (5). The mean score across all workshops
+ was 27·1 (out of a maximum score of 30), showing a high
+ level of teacher satisfaction with the workshops. 52 teachers
+ (48%) in the intervention group attended all five workshops;
+ 98 (91%) attended three or more. Facilitators similarly
+ covered all prescribed content in the in-class support sessions;
+ 100 teachers (93%) participated in all eight in-class support
+ sessions; 105 (97%) participated in seven or more. Teachers
+ were given classroom assignments after the first seven
+ in-class support sessions. 53 teachers (49%) did four or more
+ of these assignments; 89 (82%) did two or more. 
+<section> published. 12 Written, informed consent was obtained reporting
+ from preschool principals, all teachers, and the parents punishment
+ of the selected children. Child assent was not obtained observed.
+ because of their young age.
+ 
+<section> Outcomes
+ 
+<section> Randomisation and masking The primary
+ Preschools were randomly assigned to the Irie Classroom violence
+ Toolbox intervention or waiting-list control, that did not aggression.
+ receive the intervention, using a computer-generated a count
+ simple randomisation sequence by an independent psychological
+ statistician masked to school identity. All preschools, wide aggression
+ teachers, and children were recruited, and all baseline frequency,
+ measures were done before randomisation. in aggressive
+ Data collectors were masked to the group assignment at another
+ post-intervention and follow-up with the following steps: measures
+ (1) they were not informed that this was an intervention and direct
+ trial and were unaware that some teachers had received were (1)
+ additional training; (2) all study schools received the same quality
+ educational materials; (3) where data collectors were measure
+ employed for more than one round of data collection, they 2 school
+ were rotated across schools and classrooms so they wellbeing;
+ observed different classrooms each time; and (4) teachers prosocial
+ were asked not to reveal intervention status. Furthermore, used to
+ through the inter­vention, teachers were encouraged to from school
+ choose strategies according to their individual preferences, outcome
+ classroom context, and the needs of the children; thus, we were incomplete,
+ expected substantial variation among teachers making The
+ group allocation less obvious. 11 The statistical analyses August
+ were done by the trial statistician who was masked to were done
+ group assignment. All decisions related to the analyses 8 months
+ were taken without seeing the estimated effects of the of the following
+ intervention. 2 years
+ at baseline
+ 
+<section> Procedures 
+<section> transitioned
+ The Irie Classroom Toolbox intervention involved training measurements.
+ teachers over two school terms (ie, 8 months) through five the same
+ full-day, teacher-training workshops; eight 1-h sessions of collection
+ in-class support; and fortnightly text messages. Teachers of children
+ were trained in classroom behaviour management and were collected
+ promoting child social-emotional competence (panel). The
+ The Toolbox does not explicitly challenge teachers’ of data collectors
+ attitudes towards violence against children. Rather, the against
+ theory of change suggests that the Toolbox reduces vations
+ violence against children by helping teachers to gain environment
+ skills, motivation, and opportunity to use positive testers),
+ discipline techniques. 11 Teachers in control schools interviewers).
+ participated in the full Irie Classroom Toolbox training ten teacher
+ when the 1-year follow-up measurements were completed. testers,
+ All study schools were given a gift of construction toys, toy one senior
+ cars and animals, and a set of storybooks after each round with responsibility
+ of measurements. data collectors
+ The study involved observations of teachers’ use of undertaking
+ violence. Corporal punishment is against the law in in Jamaican
+ Jamaican early childhood institutions; however, the law observed
+ is not enforced and corporal punishment is widespread. 11,13 observer
+ During the study, we followed the reporting requirements behaviour,
+ of the Jamaican Child Protection Act that mandates violence
+ 
+<section> Articles
+ 
+<section> of severe corporal punishment. Severe corporal
+ is rare in preschools and no instances were
+ 
+<section> outcome measures were observations of
+ against children by teachers and class-wide child
+ Violence against children by teachers was
+ of teachers’ use of physical violence and
+ aggression across one full school day. Class-
+ was measured through ratings of the
+ intensity, and proportion of children engaged
+ behaviour over five 20-min intervals on
+ school day (table 1). Secondary outcomes were
+ collected through observation, teacher report,
+ child testing (table 1). Observational measures
+ class-wide child prosocial behaviour, (2) the
+ of the classroom environment, and (3) a binary
+ of violence against children by teachers over
+ days. Teacher-report measures were (1) teacher
+ and (2) child behaviour difficulties and
+ skills for the selected children. Direct tests were
+ measure child inhibitory control. Child attendance
+ records was also included as a secondary
+ in the protocol. However, classroom registers
+ and the data are not presented.
+ Toolbox intervention was implemented from
+ to April. All teacher and classroom measurements
+ at baseline (summer term, May to June), after
+ of intervention (post-intervention; May to June
+ year), and 1-year follow-up (May to June
+ later). Individual child measurements were done
+ and post-intervention only, because children
+ to primary school after the post-intervention
+ For teacher and individual child measures,
+ participants were measured at each data
+ point. For class-wide behaviour, a different class
+ was measured at each timepoint because data
+ in the final term of each school year.
+ data collection team included four groups
+ assigned to do (1) observations of violence
+ children by teachers (teacher observers), (2) obser­
+ of class-wide child behaviour and the classroom
+ (classroom observers), (3) child tests (child
+ and (4) face-to-face teacher interviews (teacher
+ The data collection team com­ prised
+ observers, ten classroom observers, five child
+ and one teacher interviewer. In addition, there was
+ data collector for each group of data collectors
+ for ongoing quality control. The senior
+ were researchers with previous experience
+ observations, teacher interviews, or child tests
+ preschools. Each teacher and classroom was
+ over 2 school days. On the first day, a classroom
+ coded class-wide child aggression and prosocial
+ the quality of the classroom environment, and
+ against children by teachers over five 20-min 
+<insert> Table 1: Description of outcome variables measured by observation, teacher questionnaire, and direct child testing 
+<iend>
+
+ 
+<section> Articles
+ 
+<section> Measures used
+ Primary observational outcomes (measured at baseline, post-intervention, and 1-year follow-up)
+ Teachers’ use of violence against children (count)* Continuous observations of teachers’ behaviour over one school
+ against children; total score is the sum of teachers’ use of violence
+ Physical punishment Hitting with hand or object, forcefully pushing or pulling, shaking,
+ positions
+ Verbal abuse Calling the child by a derogatory name (eg, idiot or dummy),
+ frighten them (eg, threats to call the police), encouraging children
+ another child)
+ Other abuse Intimidation (eg, banging a stick with force on the desk in front
+ Class-wide child aggression† Classroom observations over five 20-min periods during one
+ coded child aggression on a seven-point rating scale (1–7) after
+ and number of children involved in aggressive acts. Higher
+ 
+<section> Secondary observational outcomes (measured at baseline, post-intervention, and 1-year follow-up)
+ Quality of classroom environment Classroom observations over five 20-min periods during one
+ are scored on a seven-point rating scale (1–7) with higher scores
+ Emotional support‡ 
+<section> Four scales: Positive Climate, Negative Climate, Teacher Sensitivity,
+ range 0·71–0·76)††
+ 
+<section> Classroom organisation§ 
+<section> Three rating scales: Behaviour Management, Productivity, and
+ range 0·79–0·81)††
+ 
+<section> Instructional support¶ 
+<section> Three rating scales: Concept Development, Quality of Feedback,
+ Class-wide child prosocial behaviour|| Classroom observations over five 20-min periods during one
+ coded child prosocial behaviour on a seven-point rating scale
+ intensity, and number of children involved in prosocial acts
+ behaviour
+ Violence against children by teachers (binary)** Observations of teacher behaviour over 2 school days (binary
+ five 20-min intervals used for the class-wide ratings above on
+ used violence against children over another school day
+ 
+<section> Teacher outcomes (measured at baseline, post-intervention, and 1-year follow-up)
+ Teacher wellbeing Teacher questionnaire administered in face-to-face interview;
+ Depressive symptoms 
+<section> Centre for Epidemiological Studies Depression Scale: 15 20 questions,
+ Teacher burn-out 
+<section> Teacher Burn-Out Scale: 16 20 questions, potential range of scores
+ Teaching self-efficacy 3 subscales from Bandura’s Teacher Self-Efficacy Scale: 17 disciplinary
+ create a positive school climate: 16 questions, potential range
+ 
+<section> Child outcomes (measured at baseline and post-intervention)
+ Inhibitory control Direct child testing; composite score of the three tests were
+ Big or little stroop Children are presented with pictures of big cats and little cats
+ the tester points to a little cat; score is the number correct out
+ Silly sounds stroop Children are presented with pictures of a cat and a dog and
+ points to a dog; score is the number correct out of a total of
+ Frog or bear Children are told to do the actions that the bear tells them to
+ number of times children perform the action suggested by
+ Child behaviour Teacher report using the SDQ 18 administered in a face-to-face
+ Behaviour difficulties 
+<section> SDQ total difficulties: 20 questions, potential range of scores
+ Prosocial skills SDQ Prosocial Subscale. Five questions, potential range of scores
+ Clinical range for behaviour difficulties A score ≥16 on the SDQ Total Difficulties Scale=abnormal (1),
+ Impact of difficulties on daily life Generated from the Impact Scale of the SDQ. A score of ≥2=abnormal
+ SDQ=Strengths and Difficulties Questionnaire. Stability of observational measures over 1 year from baseline to post-intervention
+ ‡0·48, §0·42, ¶0·06, ||0·13, and **0·53. ††Mean (range) for the internal reliability of Classroom Assessment Scoring System
+ using Cronbach’s α.
+ 
+<section> periods. On the second day, a teacher observer undertook
+ continuous observations of teachers’ use of violence
+ against children across the school day. Child testers and
+ the teacher interviewer were not present in a school at the
+ same time as the teacher and classroom observers. All data
+ collectors did equal numbers of measurements from each
+ group and were rotated across schools.
+ 
+<section> day; event sampling was used to code each discrete act of violence
+ 
+<section> in all three categories
+ pinching, poking, or making the child stand or kneel in uncomfortable
+ threatening physical punishment, threatening a child in a way that would
+ to harm, insult, or exclude a child (eg, encouraging a child to hit
+ 
+<section> of a child), non-verbal threats (eg, using a stick or ruler to threaten child)
+ school day; mean score over five observations used in the analysis; observers
+ each 20-min observation period; the score reflects the frequency, intensity,
+ 
+<section> scores indicate more aggression
+ 
+<section> school day: mean score over five observations used in the analysis; all scales
+ 
+<section> indicating higher quality
+ and Regard for Student Perspectives (internal reliability 0·74,
+ 
+<section> Instructional Learning Formats (internal reliability 0·80,
+ 
+<section> and Language Modelling. (internal reliability 0·61, range 0·59–0·62)††
+ school day: mean score over 5 observations used in the analysis. Observers
+ (1–7) after each 20-min observation period; the score reflects the frequency,
+ (ie, sharing, helping, and cooperating); higher scores indicate more prosocial
+ variable); we recorded whether teachers used violence during each of the
+ one school day, and combined these data with data for whether teachers
+ 
+<section> composite of three subscales used in the analysis
+ 
+<section> potential range of scores 0–60
+ 
+<section> 20–100
+ self-efficacy, efficacy to enlist parent involvement and efficacy to
+ 
+<section> of scores 16–112
+ 
+<section> used in the analysis
+ and are told to say ‘little’ when the tester points to a big cat and ‘big’ when
+ 
+<section> of a total of 18 items
+ told to say ‘woof’ when the tester points to a cat and ‘meow’ when the tester
+ 
+<section> 18 items
+ do and not to do the actions that the frog tells them to do; score is the
+ frog out of a total of ten items (higher scores indicate worse inhibitory control)
+ 
+<section> interview
+ 
+<section> 0–40
+ 
+<section> 0–10
+ 
+<section> <16=normal (0)
+ 
+<section> (1), <2=normal (0)
+ of control group only (n=92): intraclass correlation coefficients *0·63, †0·59,
+ Pre-Kindergarten (CLASS Pre-K) domain scores across three rounds of data collection
+ 
+<section> Training for data collectors was done over a 4-week
+ period at each timepoint including 1 week in office
+ training, 2 weeks field training, and 1 week field
+ reliabilities for each measurement. Training continued
+ until inter-rater reliabilities, using intraclass correlation
+ coefficients (ICCs), were greater than 0·95 for child tests
+ and teacher interviews, greater than 0·90 for teachers’ use 
+<section> of violence against children, and greater than 0·80 for all was 0·25
+ other observational measures. The senior data collectors clinical
+ did ongoing monitoring of reliabilities once per week with children.
+ each data collector (on 8% of observational measurements, Analyses
+ and 10% of child tests and teacher interviews). Reliabilities approved
+ of ICCs greater than 0·95 on child tests and teacher binomial
+ interviews, greater than 0·90 on violence against children analyses
+ by teachers, and greater than 0·80 on all other observations teachers
+ were maintained. Data were collected over an 8-week appendix
+ period at each timepoint. The data collection period lasted binomial
+ approximately 5 days in each school. parameter
+ All questionnaire measures had good internal consis­ using a
+ tency (Cronbach’s α median 0·87, IQR 0·83–0·88) analysed
+ and test-retest reliability over 2 weeks (ICC median 0·81, multilevel
+ IQR 0·78–0·83) (appendix p 1). Test-retest for the the effect
+ composite score of child inhibitory control was ICC 0·82. residuals
+ For observational measures, we examined the stability the dependent
+ (test-retest) over 1 year using data from the control group if normality
+ only. Stability was good for the primary outcomes of behaviour,
+ violence against children by teachers (ICC 0·63) and formed;
+ class-wide child aggression (ICC 0·59), and acceptable prosocial
+ (ICC >0·40) for the secondary observational outcomes, transformed
+ except for class-wide prosocial behavior and instructional For teacher
+ support which was poor (ICCs 0·13 and 0·06, respectively) burnout),
+ (table 1). 
+<section> and exploratory
+ p 1); factor
+ 
+<section> Statistical analysis inhibitory
+ In a previous efficacy trial in Jamaican preschools, we stroop,
+ noted mean effect sizes for classroom ratings and reverse
+ individual child outcomes of 0·75 19 and 0·50 9 respectively. one factor
+ In this larger effectiveness trial, we hypothesised effect scales were
+ sizes of 0·50 for classroom-level outcomes and 0·25 for inhibitory
+ child-level outcomes. These hypothesised effect sizes are multiplied
+ also of similar magnitude to those reported in meta- other two
+ analyses of early childhood development programmes; school
+ ie, 0·39, 0·44, and 0·26 for classroom-level, teacher- for teacher
+ level, and child-level outcomes, respectively. 20 This study term, the
+ was powered to detect differences in the primary group
+ outcomes of counts of violence against children by were theoretically
+ teachers through observation, and ratings of the level of statistically
+ class-wide child aggression, at post-intervention and groups
+ 1-year follow-up. Using the Bonferroni method, we those lost
+ required a significance level of 0·0125 instead of 0·05 of variables
+ for each primary outcome. Minimum detectable effects in the class
+ were computed assuming an ICC of 0·10 for violence (3) number
+ against children by teachers and 0·05 for class-wide school complete,
+ child aggression, guided by efficacy trial data. 9,20 With secondary
+ 80% power and allowing for a loss of two schools per covariates
+ group, giving 36 schools in each group with three classroom
+ teachers per school (108 teachers), the minimum current
+ detectable effects were a reduction of 0·50 SD in class- and number
+ wide child aggression and a reduction of 10·31% in the regressions
+ counts of violence against children by teachers. For All models
+ child-level measures, with 36 schools in each group, and to adjust
+ assuming an average of 11 children per school, as well as
+ 80% power, 0·05 significance, and an ICC of 0·05, 9 the variable
+ minimum detectable effect for continuous outcomes included
+ 
+<section> Articles
+ 
+<section> SD, and for child behaviour difficulties in the
+ range, a reduction from 15% of children to 7% of
+ 
+<section> followed a prespecified protocol that was
+ by a trial steering committee. A negative
+ multilevel mixed-effects model was used in the
+ of the count data of violence against children by
+ over 1 day (details for data distribution are in the
+ p 1). The choice between Poisson and negative
+ was based on the estimate of the overdispersion
+ of the negative binomial and the fit assessed
+ χ² goodness-of-fit test. The binary outcomes were
+ using multilevel mixed-effect logit models. A
+ mixed-effect linear model was used to estimate
+ of the intervention on all other outcomes. The See 
+<section> Online for appendix
+ of linear models were tested for normality and
+ variable (and its baseline value) transformed
+ was rejected. Class-wide aggression, prosocial
+ and instructional support were log-trans­
+ teacher-reported child behaviour difficulties and
+ behaviour and child inhibitory control were
+ using a Box-Cox transformation.
+ wellbeing (depression, self-efficacy, and
+ depression and burnout were reverse coded
+ factor analyses gave one factor (appendix
+ scores were used in the analyses. For the child
+ control tests (big or little stroop, silly sounds
+ and the frog or bear test), the frog score was
+ coded and exploratory factor analysis produced
+ (appendix p 1). The raw scores of the three
+ summed to create a formative indicator of
+ control. 21 Before summing, the frog score was
+ by 18/10 to put it on the same scale as the
+ tests. Random effects were included at the
+ level in all analyses. Fixed effects in the model
+ or classroom outcomes included a constant
+ value of the outcome variable at baseline,
+ assignment, and covariates for which there
+ important differences (rather than
+ significant differences) between treatment
+ or that were significantly different between
+ to analysis and those who continued. The set
+ considered were (1) number of children
+ at baseline, (2) number of years teaching,
+ of years teaching in the school, (4) high
+ (5) qualified teacher, and (6) primary or
+ baseline outcome variable. The following
+ were included in all regressions of teacher and
+ outcomes: number of years teaching in
+ school, high school completed, qualified teacher,
+ of children in the class. Child-level
+ included age and sex as fixed effects.
+ were estimated using multiple imputation
+ for loss to post-intervention and 1-year follow-up
+ missing in the baseline value of the dependent
+ (one teacher and one child). Imputation models
+ group assignment, baseline level of the 
+<insert> Table 2: Baseline characteristics of schools, classrooms, teachers, and
+ children 
+<iend>
+
+ 
+<section> Articles
+ 
+<section> Irie Classroom 
+<section> Control
+ 
+<section> Toolbox
+ 
+<section> School characteristics 
+<section> n=38 
+<section> n=38
+ Number of children enrolled 56·8 (24·6) 48·24 (17·8)
+ 
+<section> Classroom characteristics 
+<section> n=119 
+<section> n=110
+ Number of children in class 17·8 (7·0) 15·4 (5·8)
+ 
+<section> Teacher characteristics 
+<section> n=119 
+<section> n=110
+ Total number of years teaching 17·0 (8·0–23·0) 14·0 (8·0–23·3)
+ Number of years teaching at 12·0 (5·0–20·0) 9 (4·0–20·0)
+ 
+<section> current school
+ Completed secondary school 95 (80%) 97 (88%)
+ 
+<section> (grade 11)
+ 
+<section> Trained teacher 
+<section> 41 (35%) 
+<section> 40 (36%)
+ Currently attending teacher- 16 (13%) 12 (11%)
+ 
+<section> training college
+ 
+<section> Sex
+ 
+<section> Female 
+<section> 116 (97%) 
+<section> 108 (98%)
+ 
+<section> Male 
+<section> 3 (3%) 
+<section> 2 (2%)
+ 
+<section> Child characteristics 
+<section> n=441 
+<section> n=424
+ 
+<section> Age (years) 
+<section> 4·9 (0·3) 
+<section> 4·9 (0·4)
+ 
+<section> Sex
+ 
+<section> Female 
+<section> 202 (46%) 
+<section> 211 (50%)
+ 
+<section> Male 
+<section> 239 (54%) 
+<section> 213 (50%)
+ Data are mean (SD), median (IQR), or n (%).
+ 
+<section> outcomes, and the same covariates as the main models
+ and were estimated using 20 imputations (appendix p
+ In sensitivity analyses, the imputation models were
+ expanded to include interactions between the covariates
+ and group assignment to allow for differential loss.
+ The p values of the four primary outcome measures
+ were adjusted using Holm step-down procedure
+ control for multiple hypothesis testing. Effect sizes
+ continuous outcomes were calculated by dividing
+ regression coefficient by the SD of the control group
+ each dependent variable. The analyses of the secondary
+ outcomes were considered exploratory and thus
+ adjustments were made for multiple outcomes. Statistical
+ analyses were done with STATA, version 15.1. This trial
+ registered with ISRCTN, number ISRCTN11968472.
+ 
+<section> Role of the funding source
+ The funders of the study had no role in study design,
+ data collection, data analysis, data interpretation, writing
+ of the report, or the decision to submit for publication.
+ 
+<section> Results
+ 
+<section> Between June 22, 2015, and April 29, 2016, after
+ baseline measurements were completed, we assigned
+ 38 preschools (with 119 teachers) to the Toolbox
+ intervention and 38 (with 110 teachers) to control.
+ preschools were followed up at post-intervention and
+ 1-year follow-up (figure). Because of teacher turnover,
+ 29 teachers (13%) were lost at post-intervention
+ 
+<section> (11 intervention, 18 control) and 39 teachers (17%) were
+ lost at 1-year follow-up (14 intervention, 25 control).
+ 865 children were recruited; 441 in the Toolbox
+ intervention schools and 424 in the control schools
+ (figure). 82 children selected for evaluation (9%) were
+ lost at post-intervention (43 intervention, 39 control);
+ reasons for loss are in the figure. There were no
+ significant differences between teachers and children
+ lost and those retained on any of the baseline outcome
+ measures (appendix p 3). However, teachers lost had been
+ teaching at their current school for fewer years than
+ those retained. Compared with intervention-assigned
+ teachers, more of the control teachers lost at post-
+ intervention had completed high school (17 [94%] control
+ vs seven [64%] intervention) and more control teachers
+ lost at post-intervention and at follow-up were trained
+ teachers (11 [61%] control vs two [18%] intervention; and
+ ten [40%] control vs one [7%] intervention, respectively).
+ There were no significant differences between the study
+ groups on child and teacher characteristics. Classrooms
+ in intervention schools had significantly more children
+ than classrooms in control schools (table 2).
+ Intervention teachers attended a mean 4·11 full-day
+ workshops (SD 1·19) and participated in a mean 7·89
+ in-class support sessions (0·56). All prescribed content
+ was covered, and teachers reported high levels of
+ satisfaction with the intervention (panel).
+ There were no significant baseline differences between
+ the groups for the raw data for all outcomes (tables 3, 4).
+ 2). At baseline, there were a median seven instances of
+ violence against children over one school day in both
+ groups (IQR 2–15 Toolbox, 1–18 control, respectively);
+ 27 teachers (12% of all teachers) used no violence over
+ 2 days of observation. The most commonly used form of
+ to violence was physical violence, which usually involved
+ for hitting a child with the hand. Threatening children with
+ the physical punishment was the most common form of
+ for verbal abuse. Scores for observed class-wide child
+ aggression and class-wide prosocial behaviour were in
+ no the low range. Scores for quality of the classroom
+ environment were in the mid-range for emotional
+ is support and classroom organisation, and in the low
+ range for instructional support. 152 children (18%) were
+ in the abnormal range for behaviour difficulties by
+ teacher report.
+ In the Toolbox intervention group there were
+ significantly fewer counts of violence against children by
+ teachers over one school day compared with the control
+ group at both post-intervention and 1-year follow-up (post-
+ intervention: Toolbox group median counts 3 [IQR 0–11] vs
+ control group median counts 15 [3–35]; effect size
+ –67·12%, 95% CI –80·71 to –53·52, p<0·0001; 1-year
+ follow-up: Toolbox median counts 3 [IQR 0–9] vs control
+ All median counts 6 [1–16]; effect size –53·86%, 95% CI
+ –71·08 to –36·65, p<0·0001; table 5). There were no
+ differences between the groups in class-wide child
+ aggression at post-intervention (effect size 0·07, 95% CI 
+<insert> Table 3: Raw data for primary and secondary teacher and classroom outcomes at baseline, post-intervention, and 1-year follow-up 
+<iend>
+
+ 
+<insert> also significantly greater in the intervention group at this
+ point compared with control. At 1-year follow-up there
+ were no between-group differences in scores for class-
+ wide prosocial behaviour, instructional support, or
+ teachers’ use of violence against children over 2 days.
+ Children in intervention schools had higher scores in
+ tests of inhibitory control (table 5) and had reduced odds
+ of clinical-level behaviour problems at post-intervention.
+ There were no significant between-group differences in
+ Table 4:
+ child behaviour
+ report
+ Post-hoc
+ number
+ intervention
+ control 
+<iend>
+
+ 
+<section> Irie Classroom Toolbox
+ Baseline Post-intervention 1-year follow-up
+ 
+<section> (n=119) 
+<section> (n=108) 
+<section> (n=105)
+ 
+<section> Counts of observed violence against children by teachers across 1 school day
+ 
+<section> Physical violence 4 (0–11) 2 (0–9) 0 (0–3)
+ 
+<section> Verbal abuse 1 (0–3) 0 (0–1) 0 (0–2)
+ 
+<section> Other violence 0 (0–2) 0 (0–1) 0 (0–0)
+ 
+<section> All violence 7 (2–15) 3 (0–11) 3 (0–9)
+ 
+<section> Binary measure of observed violence against children by teachers across 2 school days
+ No physical violence 21 (18%) 30 (28%) 44 (42%)
+ No verbal abuse 40 (34%) 56 (52%) 44 (42%)
+ No other violence 51 (43%) 67 (62%) 73 (70%)
+ No total violence 12 (10%) 19 (18%) 23 (22%)
+ 
+<section> Rating scales of class-wide child behaviour
+ Child aggression 2·4 (1·6–4·0) 3·2 (2·2–4·4) 2·6 (1·6–3·4)
+ Child prosocial behaviour 1·8 (1·4–2·2) 2·4 (1·8–3·0) 2·2 (1·6–2·6)
+ 
+<section> Rating scales of the quality of the classroom environment using the CLASS Pre-K scales
+ Emotional support 4·2 (0·8) 4·4 (0·6) 4·1 (0·8)
+ Classroom organisation 4·8 (0·8) 4·7 (0·8) 4·5 (0·8)
+ Instructional support 1·4 (1·3–1·5) 1·5 (1·4–1·7) 1·4 (1·3–1·6)
+ 
+<section> Teacher wellbeing
+ 
+<section> Depression 
+<section> 14 (8–21) 
+<section> 10 (6–18) 
+<section> 10 (5–18)
+ Burn-out 28 (23–35) 28 (23–34) 27 (22–36)
+ Teaching self-efficacy 92 (82–98) 92 (84–100) 97 (88–102)
+ Data are median (IQR), n (%), or mean (SD).
+ 
+<section> –0·16 to 0·29), or 1-year follow-up (effect size –0·14,
+ –0·42 to 0·16; table 5).
+ At post-intervention, there were significantly better
+ scores in the Toolbox intervention group for class-wide
+ prosocial behaviour and the quality of the classroom
+ environment across all domains of emotional support, Individual
+ 
+<section> classroom organisation, and instructional support Child
+ 
+<section> (table 5). Teachers in the Toolbox intervention group Big
+ were also less likely to use violence against children Silly
+ across two school days (table 5). However, only 19 (18%) Bear
+ of 108 teachers in the intervention group used no violence SDQ
+ at all at post-intervention (table 3). Differences in teacher Behaviour
+ wellbeing at post-intervention were not significant Prosocial
+ 
+<section> (table 5). 
+<section> Child
+ 
+<section> At 1-year follow-up, significantly better scores were Behavioural
+ noted in the Toolbox intervention group for emotional Impact
+ support and classroom organisation compared with the Data are median
+ control group (table 5). Scores for teacher wellbeing were scale ≥16.
+ 
+<section> or
+ 
+<section> Articles
+ 
+<section> Control
+ 
+<section> Baseline Post-intervention 1-year follow-up
+ 
+<section> (n=110) 
+<section> (n=92) 
+<section> (n=85)
+ 
+<section> 3 (0–12) 
+<section> 11 (0–26) 3 (0–7)
+ 1 (0–4) 2 (0–4) 2 (0–5)
+ 
+<section> 0 (0–1) 
+<section> 1 (0–6) 
+<section> 0 (0–1)
+ 7 (1–18) 
+<section> 15 (3–35) 6 (1–16)
+ 
+<section> 27 (25%) 
+<section> 16 (17%) 
+<section> 27 (32%)
+ 
+<section> 37 (34%) 
+<section> 21 (23%) 
+<section> 22 (26%)
+ 
+<section> 52 (47%) 
+<section> 37 (40%) 
+<section> 51 (60%)
+ 
+<section> 15 (14%) 8 (9%) 
+<section> 14 (16%)
+ 
+<section> 2·4 (1·6–3·8) 
+<section> 3·0 (1·8–4·8) 
+<section> 2·8 (1·6–4·1)
+ 
+<section> 1·8 (1·2–2·3) 
+<section> 2·0 (1·5–2·6) 
+<section> 1·8 (1·6–2·6)
+ 
+<section> 4·3 (0·7) 
+<section> 3·9 (0·9) 
+<section> 3·7 (0·8)
+ 
+<section> 4·9 (0·8) 
+<section> 4·4 (0·9) 
+<section> 4·3 (0·8)
+ 
+<section> 1·4 (1·3–1·6) 
+<section> 1·4 (1·3–1·6) 
+<section> 1·3 (1·2–1·5)
+ 
+<section> 12 (6–19) 
+<section> 12 (7–19) 
+<section> 12 (5–19)
+ 
+<section> 28 (23–36) 
+<section> 29 (23–38) 
+<section> 31 (23–36)
+ 
+<section> 90 (83–96) 
+<section> 90 (81–98) 
+<section> 92 (85–100)
+ 
+<section> Irie Classroom Toolbox 
+<section> Control
+ 
+<section> Baseline 
+<section> Post- 
+<section> Baseline 
+<section> Post-
+ (n=441) intervention (n=424) intervention
+ 
+<section> (n=398) 
+<section> (n=385)
+ 
+<section> child outcomes
+ 
+<section> inhibitory control
+ or little stroop score 12 (8–16) 15 (11–17) 12 (8–16) 14 (10–17)
+ sounds score 9 (9–11) 11 (9–14) 9 (9–11) 10 (9–13)
+ 
+<section> or frog score 3 (0–9) 1 (0–2) 2 (0–8) 1 (0–2)
+ 
+<section> scores
+ difficulties 9 (5–13) 7 (4–11) 10 (6–14) 7 (4–12)
+ behaviour 7 (5–9) 8 (6–10) 7 (5–9) 8 (6–10)
+ in clinical range for behaviour difficulties on the SDQ scale
+ difficulties in abnormal range* 75 (17·0%) 40 (10·1%) 77 (18·2%) 65 (16·9%)
+ on daily living in abnormal range† 53 (12·0%) 41 (10·3%) 59 (13·9%) 63 (16·4%)
+ (IQR) or n (%). SDQ=Strengths and Difficulties Questionnaire. *Teacher reported SDQ difficulties
+ †Teacher reported SDQ impact score ≥2.
+ 
+<section> Raw data for primary and secondary individual child outcomes at baseline and post-intervention
+ 
+<section> difficulties or prosocial skills by teacher
+ to the effect of behaviour difficulties on daily life.
+ analyses showed that there was a greater
+ of teachers retained in schools in the Toolbox
+ group at 1-year follow-up compared with
+ (105 teachers retained [88%] of 119 in intervention 
+<insert> Table 5: Intention to treat analyses of the Irie Classroom Toolbox on primary and secondary outcomes at post-intervention and 1-year follow-up*† 
+<iend>
+
+ 
+<section> Articles
+ 
+<section> Post-intervention
+ 
+<section> Regression 
+<section> ICC
+ 
+<section> coefficient B
+ 
+<section> (95% CI)
+ 
+<section> Primary outcomes
+ 
+<section> Violence against children by 
+<section> –1·11 
+<section> 0·05
+ teachers (number of times) (–1·53 to –0·70)
+ 
+<section> Class-wide child aggression|| 
+<section> 0·04 
+<section> 0·06
+ 
+<section> (–0·09 to 0·16)
+ 
+<section> Secondary outcomes
+ 
+<section> Classroom and teacher outcomes
+ 
+<section> Class-wide child prosocial 
+<section> 0·15 
+<section> 0·00
+ 
+<section> behaviour|| 
+<section> (0·06 to 0·25)
+ 
+<section> Emotional support CLASS 
+<section> 0·55 
+<section> 0·08
+ 
+<section> scores 
+<section> (0·36 to 0·74)
+ Classroom organisation CLASS 0·41 0·19
+ 
+<section> scores 
+<section> (0·20 to 0·62)
+ 
+<section> Instructional support CLASS 
+<section> 0·12 
+<section> 0·00
+ 
+<section> scores|| 
+<section> (0·06 to 0·19)
+ 
+<section> Teacher wellbeing** 
+<section> 0·18 
+<section> 0·04
+ 
+<section> (–0·03 to 0·39)
+ 
+<section> Violence against children by 
+<section> 0·23 
+<section> 0·00
+ 
+<section> teachers over 2 school days 
+<section> (0·07 to 0·74)
+ 
+<section> (binary)†† (OR [95% CI])
+ 
+<section> Individual child outcomes
+ 
+<section> Child inhibitory control‡‡ 
+<section> 55·19 
+<section> 0·09
+ 
+<section> (13·84 to 96·55)
+ 
+<section> Child behaviour difficulties§§ 
+<section> –0·10 
+<section> 0·30
+ 
+<section> (–0·60 to 0·40)
+ 
+<section> Child prosocial behaviour‡‡ 
+<section> –0·23 
+<section> 0·30
+ 
+<section> (–4·46 to 4·00)
+ 
+<section> Clinical range for behaviour 
+<section> OR 0·46 
+<section> 0·11
+ difficulties by teacher report¶¶ (0·22 to 0·94)
+ 
+<section> (OR [95% CI])
+ 
+<section> Impact on daily living|||| (OR 
+<section> OR 0·56 
+<section> 0·11
+ 
+<section> [95% CI]) 
+<section> (0·29 to 1·08)
+ ICC= intracluster correlation coefficient. OR=odds ratio. *Analyses of primary
+ score, number of children in class, number of years teaching at current
+ of individual child outcomes were adjusted for baseline score, and child
+ imputation (20) to adjust for losses to post-intervention or follow-up.
+ the control group at post-intervention and follow-up. §The percentage
+ outcomes were adjusted for multiple outcomes using Holms step-down
+ symptoms, burn-out, and self-efficacy. ††0=no violence, 1=violence. ‡‡Transformed
+ Strengths and Difficulties Questionnaire behaviour difficulties scale, 0=normal,
+ 
+<section> schools vs 85 retained [77%] of 110
+ schools; p=0·03). The between-group difference
+ retention at the post-intervention timepoint
+ significant (108 teachers retained [91%] in the intervention
+ group vs 92 [84%] in the control group; p=0·11).
+ In sensitivity analyses, the magnitude and significance
+ of the effects of the Toolbox intervention on all
+ at the post-intervention and 1-year follow up
+ were similar to the main analyses (appendix p
+ 
+<section> Discussion
+ 
+<section> In Jamaican preschools, the Irie Classroom
+ effectively reduced violence against children
+ 
+<section> 1 year follow-up
+ 
+<section> Effect size‡ p value Regression ICC Effect size‡ p value
+ 
+<section> (95% CI) 
+<section> coefficient B 
+<section> (95% CI)
+ 
+<section> (95% CI)
+ 
+<section> –67·12%§ <0·0001¶ –0·78 0·00 –53·86%§ <0·0001¶
+ (–80·71 to –53·52) (–1·15 to (–71·08 to –36·65)
+ 
+<section> –0·40)
+ 
+<section> 0·07 
+<section> 0·72¶ 
+<section> –0·07 
+<section> 0·01 
+<section> –0·14 
+<section> 0·72¶
+ (–0·16 to 0·29) (–0·21 to 0·08) (–0·42 to 0·16)
+ 
+<section> 0·42 
+<section> 0·001 
+<section> 0·08 
+<section> 0·12 
+<section> 0·22 
+<section> 0·15
+ (0·17 to 0·71) (–0·03 to 0·19) (–0·08 to 0·53)
+ 
+<section> 0·65 
+<section> <0·0001 
+<section> 0·39 
+<section> 0·13 
+<section> 0·50 
+<section> 0·001
+ 
+<section> (0·43 to 0·88) 
+<section> (0·16 to 0·62) 
+<section> (0·20 to 0·79)
+ 
+<section> 0·49 
+<section> <0·0001 
+<section> 0·33 
+<section> 0·04 
+<section> 0·42 
+<section> 0·003
+ 
+<section> (0·24 to 0·74) 
+<section> (0·11 to 0·54) 
+<section> (0·14 to 0·69)
+ 
+<section> 0·61 
+<section> <0·0001 
+<section> 0·05 
+<section> 0·09 
+<section> 0·29 
+<section> 0·08
+ (0·31 to 0·97) (–0.01 to 0·10) (–0·06 to 0·57)
+ 
+<section> 0·18 
+<section> 0·09 
+<section> 0·25 
+<section> 0·15 
+<section> 0·26 
+<section> 0·03
+ (–0·03 to 0·39) (0·02 to 0·47) (0·03 to 0·48)
+ 
+<section> ·· 
+<section> 0·01 
+<section> 0·68 
+<section> 0·00 
+<section> ·· 
+<section> 0·34
+ 
+<section> (0·31 to 1·50)
+ 
+<section> 0·18 
+<section> 0·01 
+<section> ·· 
+<section> ·· 
+<section> ·· 
+<section> ··
+ 
+<section> (0·05 to 0·32)
+ 
+<section> –0·05 
+<section> 0·76 
+<section> ·· 
+<section> ·· 
+<section> ·· 
+<section> ··
+ 
+<section> (–0·27 to 0·18)
+ 
+<section> –0·01 
+<section> 0·92 
+<section> ·· 
+<section> ·· 
+<section> ·· 
+<section> ··
+ 
+<section> (–0·24 to 0·21)
+ 
+<section> ·· 
+<section> 0·03 
+<section> ·· 
+<section> ·· 
+<section> ·· 
+<section> ··
+ 
+<section> ·· 
+<section> 0·08 
+<section> ·· 
+<section> ·· 
+<section> ·· 
+<section> ··
+ 
+<section> outcomes and secondary outcomes relating to teacher and classroom were adjusted for baseline
+ school, high school completed, and qualified teacher as fixed effects and school as a random effect. Analyses
+ age and sex as fixed effects, and school as a random effect. Estimates were obtained using multiple
+ †Intervention group=1, control group=0. ‡The effect size is the regression coefficient divided by the SD of
+ change in the number of times that teachers used violence against children. ¶p values for primary
+ procedure. ||Transformed using natural logarithm. **Factor scores comprising teacher-reported depressive
+ using Box-Cox of order 2. §§Transformed using Box-Cox of order 0·5. ¶¶Above cutoff (≥16) on
+ 1=abnormal. ||||Above cutoff (≥2) on impact supplement of SDQ, 0=normal, 1=abnormal.
+ 
+<section> in control compared with no intervention but had no effect on
+ in teacher class-wide child aggression. To our knowledge, this is
+ was not the first trial of a school-based, violence-prevention
+ programme implemented in a pre-primary educational
+ setting with rigorous, quantitative measures of teachers’
+ use of violence. The intervention led to reductions
+ outcomes in violence against children by teachers, including
+ timepoints physical violence and psychological aggression at post-
+ 4). intervention, with benefits sustained 1 year after the
+ end of the intervention. No benefits were found for
+ observations of class-wide child aggression at post-
+ Toolbox intervention or 1-year follow-up; however, baseline values
+ by teachers were low. Improved scores were noted in the intervention 
+<section> group for a wide range of secondary classroom-level of early
+ outcomes at post-intervention, including observations of LMICs.
+ children’s prosocial behaviour and the quality of the Although
+ classroom environment in emotional support, classroom violence
+ organisation, and instructional support. The greater group,
+ scores for emotional support and classroom organisation children
+ in the intervention group were sustained at 1-year 1-year follow-up.
+ follow-up, and we noted increased teacher wellbeing and that violence
+ teacher retention in the intervention group at this following
+ timepoint. Benefits were also found for the individual Additional
+ child outcomes of inhibitory control and risk of clinical- further
+ level behaviour difficulties by teacher report at post- Self-management
+ intervention. 
+<section> against
+ At baseline, there were a median seven counts of use of corporal
+ violence against children over one day in both groups. to promote
+ This finding extrapolates to 35 counts in a week addressing
+ and 1400 counts of violence each school year. At may be
+ post-intervention and 1-year follow-up, there were government
+ significantly fewer counts of violence against children by reduce
+ teachers in the intervention group (median three per day widespread
+ at both timepoints, extrapolating to 15 per week and consequences
+ 600 per year). These large, sustained reductions in children,
+ violence against children by teachers from in-service the legal
+ teacher-training are important for informing global There
+ initiatives to prevent violence against children at school. noted for
+ The Irie Classroom Toolbox is theory-informed, uses potential
+ evidence-based core content and implementation possible
+ strategies, and was developed in close participation with to manage
+ early-childhood teachers. 11 This integration of scientific including
+ evidence and theory with teachers’ preferences and focus on
+ needs might be important in promoting meaningful negative
+ benefits to teacher practices. A meta-analysis of teacher- misbehaviour
+ training programmes 22 reports that those including an consequences
+ individual coaching component are the most effective, context—eg,
+ and the combination of workshops and in-class support misbehaviour
+ is likely to be instrumental to the effectiveness of the Irie the strategy
+ Classroom Toolbox. These implementation strategies few privileges
+ are also widely used in government in-service training that can
+ globally, thus increasing the feasibility of widescale Second,
+ dissemination of the Toolbox through existing services. teachers
+ The reductions in teachers’ use of violence against skills needed
+ children were accompanied by increased scores for the severe misbehaviour.
+ quality of the classroom environment, indicating that child aggression
+ teachers were using more developmentally appropriate previous
+ teaching practices including positive discipline tech­ class-wide
+ niques. This finding is consistent with the theory of aggressive
+ change underpinning the intervention and has been problems
+ reported in previous studies. 5,24 Increased teacher inter-rater
+ wellbeing is also part of the hypothesised mechanism coded.
+ of change, because poor teacher wellbeing is associated low range
+ with negative teacher behaviour, and predicts negative sensitivity
+ child outcomes including poor inhibitory control and It is
+ behaviour problems. 25 The benefits of the Toolbox practices
+ intervention for teacher wellbeing, (including lower The benefits
+ burn-out and increased self-efficacy), might also be although
+ linked to the increased teacher retention noted in our inhibitory
+ study, which is an important outcome as high turnover regulation
+ 
+<section> Articles
+ 
+<section> childhood educators is a recognised problem in
+ 
+<section> we reported large, sustained reductions to
+ against children by teachers in the intervention
+ most teachers continued to use violence against
+ in the classroom at post-intervention and
+ Previous studies 5,6 have also reported
+ against children by teachers is reduced
+ an intervention, but still remains common.
+ research is required to identify how to
+ reduce teachers’ use of violence against children.
+ strategies and attitudes to violence
+ children have been shown to predict caregivers’
+ punishment; thus, incorporating content
+ teachers’ self-regulatory capacities, and
+ beliefs related to violence against children
+ necessary. 27,28 Full integration of the Toolbox into
+ training and support structures may also
+ violence against children by teachers. Given the
+ use of physical violence and the absence of
+ for teachers who use violence against
+ monitoring and enforcing compliance with
+ ban on corporal punishment is also necessary.
+ were no benefits from the Toolbox intervention
+ class-wide child aggression; there are several
+ reasons for this absence of an effect. First, it is
+ that teachers need additional training on how
+ more severe child behaviour difficulties,
+ child aggression. The Toolbox has a strong
+ promoting positive behaviour and preventing
+ behaviour, and although strategies for managing
+ are included, there are few appropriate
+ for misbehaviour that are suitable in the
+ teachers are not trained to use time-out for
+ because of the difficulties in implementing
+ in overcrowded classrooms. 11 There are also
+ available in these low-resource contexts
+ be removed as punishment for misbehaviours.
+ the facilitators providing in-class support to
+ were inexperienced and might not have had the
+ to support teachers in managing more
+ Finally, the absence of effects on
+ might be measurement related. In
+ studies 9,19 we noted reductions in ratings of
+ child inappropriate behaviour (including
+ and disruptive acts) and in observed conduct
+ of high-risk children. In this study, to maximise
+ reliability, only salient acts of aggression were
+ Class-wide child aggression scores were in the
+ at baseline and this might have reduced
+ to change with intervention.
+ encouraging that the training changed teacher
+ sufficiently to lead to benefits in child outcomes.
+ to child inhibitory control were small,
+ meaningful at the population level. Child
+ control is an important component of self-
+ that predicts criminal offending, educational 
+<section> Articles
+ 
+<section> achievement, and wealth in adulthood. 29 No benefits were
+ noted with the intervention for teacher-reported child
+ behaviour difficulties or prosocial skills. School-based
+ preventive interventions have been shown to benefit
+ high-risk children the most; 8 the absence of effect in our
+ study might be because we selected a random sample of
+ children. Fewer intervention children had behaviour
+ difficulties in the clinical range at post-intervention,
+ indicating that benefits were found for children at the
+ highest risk of continued behaviour problems.
+ The strengths of our study included the robust cluster-
+ randomised study design, masked assessors, prespecified
+ analyses, high levels of intervention fidelity, teacher and
+ classroom assessments at post-intervention and 1-year
+ follow-up, and primary outcomes measured through
+ independent observation. Observational measures are
+ less open to bias than teacher reports; child report is not
+ For more on the 
+<section> Irie Toolbox see a feasible option for preschool-age children. Teachers
+ 
+<section> www.irietoolbox.com were aware of their group allocation and it is possible
+ that intervention teachers behaved differently during the
+ observational assessments. How­ever, when observations
+ are done over a full day, teacher reactivity to being
+ observed is minimised. 30 In this study, teachers were
+ observed over two full school days at each data collection
+ period, with the continuous measurements of violence
+ against children by teachers done on the second day. The
+ structural conditions of community preschools, with
+ classrooms usually sharing a common space and high
+ noise levels, reduce any intrusiveness of the observer.
+ Furthermore, our data show that intervention effects on
+ violence against children by teachers did not significantly
+ differ across the school day (appendix p 5). The psycho­
+ metric properties of the outcome measures were good,
+ except for the low stability of observations of class-wide
+ prosocial behaviour and instructional support over 1 year.
+ Study limitations included the differential teacher
+ attrition across study groups, indicating that the
+ intervention reduced teacher turnover. Contamination
+ was minimised through the use of a cluster design;
+ however, schools were situated in a common geographical
+ region and it is possible that some sharing occurred.
+ Schools with fewer than two and more than four
+ classrooms, and schools with fewer than ten children per
+ class were excluded for logistical reasons related to the
+ evaluation; it is likely that the intervention would have
+ similar effects in these community preschools in
+ Jamaica. Children with poor attendance were ineligible
+ for the evaluation and it is probable that poor attendance
+ would reduce the benefits of intervention. However, only
+ around 3% of children were excluded for poor attendance.
+ The Irie Classroom Toolbox is suitable for teachers of
+ children aged 3–8 years and was designed for use with
+ undertrained teachers working in low-resource contexts.
+ The Toolbox was developed by linking evidence-based
+ content and behaviour change techniques to the enablers
+ and barriers of intervention implementation by early-
+ childhood teachers. 11 The process of development has
+ been described in detail previously 11 and provides a
+ framework for adapting the Toolbox to early childhood
+ educational settings in other LMIC. Adaptation would
+ involve identifying to what extent the enablers and
+ barriers to intervention implementation differ in the
+ new context and making changes to the content,
+ structure, materials, or process of delivery as needed.
+ Adaptations would also need to be made to the visual
+ aids used with the children to ensure that they reflect the
+ cultural context. As the Toolbox is theory informed,
+ incorporates empirically derived content and behaviour
+ change techniques, and was developed to be adaptable
+ and feasible in low-resources settings, we anticipate that
+ it has potential for effectiveness in early childhood
+ educational contexts in other LMIC. This needs to be
+ tested in future trials. The Toolbox is suitable for use in
+ pre-service and in-service teacher-training and all teacher
+ manuals and materials are available online.
+ 
+<section> Contributors
+ 
+<section> HB-H developed the original study concept, drafted the proposal,
+ supervised the research study, and drafted the manuscript.
+ SPW contributed to the design of the study, provided oversight of the
+ study, and critically revised the manuscript. MB contributed to the study
+ concept, managed the implementation team, and reviewed the
+ manuscript. TF contributed to the study concept, was responsible for
+ supervising the evaluation team and data management, and reviewed
+ the manuscript, MV-H contributed to the design of the study, did the
+ analyses, and reviewed the manuscript. All authors read and approved
+ the manuscript and take full responsibility for all aspects of the work.
+ All authors had full access to all the data in the study and had final
+ responsibility for the decision to submit for publication.
+ 
+<section> Declaration of interests
+ We declare no competing interests.
+ 
+<section> Data sharing
+ 
+<section> The principal investigator and those authorised by the principal
+ investigator shall have exclusive rights to analyse and publish such data
+ until 5 years after the study completion date. Thereafter, the data will be
+ available, on reasonable request, from the corresponding author (HB-H).
+ The Irie Classroom Toolbox is licensed through a Creative Commons
+ Attribution-NonCommercial-ShareAlike license.
+ 
+<section> Acknowledgments
+ The study was funded by the Medical Research Council, Wellcome Trust,
+ UK Aid, and the UK National Institute of Health Research (grant number
+ MR/M007553/1). We thank the principals, teachers, and children who
+ participated in the study; the intervention facilitators; the research
+ assistants who collected the data for the study; and the members of the
+ trial steering committee for their support throughout the trial.
+ 
+<section> References
+ 
+<section> Hillis S, Mercy J, Amobi A, Kess H. Global prevalence of past-year
+ violence against children: a systematic review and minimum
+ estimates. Pediatrics 2016; 137: e20154079.
+ Lester S, Lawrence C, Ward CL. What do we know about preventing
+ school violence? A systematic review of systematic reviews.
+ 
+<section> Psychol Health Med 2017; 22 (suppl 1): 187–223.
+ Burkey MD, Hosein M, Morton I, et al. Psychosocial interventions
+ for disruptive behaviour problems in children in low- and middle-
+ income countries: a systematic review and meta-analysis.
+ 
+<section> J Child Psychol Psychiatry 2018; 59: 982–93.
+ Gershoff ET. School corporal punishment in global perspective:
+ prevalence, outcomes and efforts at intervention. Psychol Health Med
+ 
+<section> 2017; 22: 224–39.
+ Baker-Henningham H, Scott Y, Bowers M, Francis T. Evaluation of
+ a violence-prevention programme with Jamaican primary school
+ teachers: a cluster randomized trial. Int J Environ Res Public Health
+ 
+<section> 2019; 16: 2797. 
+<section> Devries KM, Knight L, Child JC, et al. The Good School Toolkit for Baker-Henningham
+ reducing physical violence from school staff to primary school evidence-based,
+ students: a cluster randomised controlled trial in Uganda. preschools
+ Lancet Glob Health 2015; 385: e378–86. randomised
+ Nkuba M, Hermenau K, Goessmann K, Hecker T. Reducing Werner
+ violence by teachers using the preventative intervention Interaction Do intervention
+ Competencies with Children for Teachers (ICC-T): a cluster caregiver-child
+ randomized controlled trial at public secondary schools in Tanzania. controlled
+ PLoS One 2018; 13: e0201362. Willoughby
+ Wilson SJ, Lipsey MW. School-based interventions for aggressive 
+<section> Measuring
+ and disruptive behavior: update of a meta-analysis. Am J Prev Med formative
+ 
+<section> 2007; 33: S130–43. 
+<section> Kraft
+ Baker-Henningham H, Scott S, Jones K, Walker S. Reducing child instruction
+ conduct problems and promoting social skills in a middle-income evidence.
+ country: cluster randomised controlled trial. Br J Psychiatry 2012; 
+<section> Orr D,
+ 
+<section> 201: 101–08. 
+<section> What
+ Huang KY, Nakigudde J, Rhule D, et al. Transportability of an performance
+ evidence-based early childhood intervention in a low-income classroom
+ African country: results of a cluster randomized controlled study. 2013.
+ 
+<section> Prev Sci 2017; 18: 964–75. Kyegombe
+ Baker-Henningham H. The Irie Classroom Toolbox: developing a School
+ violence prevention, preschool teacher training program using teachers
+ evidence, theory, and practice. Ann N Y Acad Sci 2018; schools
+ 
+<section> 1419: 179–200. 
+<section> Bernal
+ Baker-Henningham H, Vera-Hernández M, Alderman H, Walker S. and job
+ Irie Classroom Toolbox: a study protocol for a cluster-randomised content/uploads/2019/04/Bernal_Raquel.pdf
+ trial of a universal violence prevention programme in Jamaican UNESCO.
+ preschools. BMJ Open 2016; 6: e012166. education
+ Baker-Henningham H. Transporting evidence-based interventions 
+<section> Early
+ across cultures: using focus groups with teachers and parents of United
+ preschool children to inform the implementation of the Incredible 2015.
+ Years Teacher Training Program in Jamaica. Child Care Health Dev 
+<section> Melendez-Torres
+ 
+<section> 2011; 37: 649–61. 
+<section> combinations
+ Pianta RC, La Paro KM, Hamre BK. Classroom Assessment Scoring physical
+ System Manual, Pre-K. Baltimore, MD: Paul H Brookes Publishing, using
+ 2008. 
+<section> 28: 181–97.
+ Radloff L. The CES-D Scale: a self-report depression scale for Lansford
+ research in the general population. Appl Psychol Measurement 1977; 
+<section> Bradley
+ 
+<section> 1: 385–401. 
+<section> use of
+ Richmond VP, Wrench JS, Gorham J. Communication, affect, and bans.
+ learning in the classroom. Acton: Tapestry Press, 2001. Fergusson
+ Bandura A. Teacher self-efficacy scale. 2014. https://cpb-us-w2. adult
+ wpmucdn.com/u.osu.edu/dist/2/5604/files/2014/09/Bandura-Instr- J Am
+ 1sdm5sg.pdf (accessed May 18, 2020). Stoolmiller
+ Goodman R, Scott S. Comparing the Strengths and Difficulties preventive
+ Questionnaire and the Child Behaviour Checklist: is small randomized
+ beautiful? J Abnorm Child Psych 1999; 27: 17–24. J Consult
+ 
+<section> Articles
+ 
+<section> H, Walker S. Effect of transporting an
+ violence prevention intervention to Jamaican
+ on teacher and class-wide child behaviour: a cluster
+ trial. Glob Ment Health 2018; 5: e7.
+ CD, Linting M, Vermeer HJ, Van Ijzendoorn MH.
+ programs in child care promote the quality of
+ interactions? A meta-analysis of randomized
+ trials. Prev Sci 2016; 17: 259–73.
+ MT, Blair CB, Family Life Project Investigators.
+ executive function in early childhood: a case for
+ measurement. Psychol Assess 2016; 28: 319–30.
+ MA, Blazar D, Hogan D. The effect of teaching coaching on
+ and achievement: a meta-analysis of the causal
+ 
+<section> Rev Educ Res 2018; 88: 547–88.
+ Westbrook J, Pryor J, Durrani N, Sebba J, Adu-Yeboah C.
+ the impacts and cost-effectiveness of strategies to improve
+ of untrained and under-trained teachers in the
+ in developing countries? London: University of London,
+ 
+<section> N, Namakula S, Mulindwa J, et al. How did the Good
+ Toolkit reduce the risk of past week physical violence from
+ to students? Qualitative findings on pathways of change in
+ in Luwero, Uganda. Soc Sci Med 2017; 180: 10–19.
+ R, de la Paz Ferro M. The effects of teacher mental health
+ burnout on child development. http://www.ridge.uy/wp-
+ (accessed May 1, 2020).
+ 
+<section> A review of the literature: early childhood care and
+ (ECCE) personnel in low- and middle-income countries.
+ childhood care and education working paper series 4. Paris:
+ Nations Educational, Scientific and Cultural Organization,
+ 
+<section> GJ, Leijten P, Gardner, F. What are the optimal
+ of parenting intervention components to reduce
+ child abuse recurrence? Reanalysis of a systematic review
+ qualitative comparative analysis. Child Abuse Rev 2019;
+ 
+<section> JE, Cappa C, Putnick DL, Bornstein MH, Deater-Deckard K,
+ RH. Change over time in parents’ beliefs about and reported
+ corporal punishment in eight countries with and without legal
+ 
+<section> Child Abuse Negl 2017; 71: 44–55.
+ DM, Boden JM, Horwood LJ. Childhood self-control and
+ outcomes: results from a 30-year longitudinal study.
+ 
+<section> Acad Child Adolesc Psychiatry 2013; 52: 709–17.
+ M, Eddy JM, Reid JB. Detecting and describing
+ intervention effects in a universal school-based
+ trial targeting delinquent and violent behavior.
+ 
+<section> Clin Psychol 2000; 68: 296–306.

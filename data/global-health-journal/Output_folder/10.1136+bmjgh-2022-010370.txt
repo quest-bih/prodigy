@@ -1,0 +1,1147 @@
+
+<section> Effect of a mobile app
+ 
+<section> interactive small-­group
+ 
+<section> COVID-­19 vaccine intention
+ 
+<section> confidence in Japan:
+ 
+<section> controlled trial
+ 
+<section> Takaaki Kobayashi, 1,2 Hana Tomoi, 3,4 Yuka
+ Shugo Sasaki, 7 Kanako Inaba, 8 Hayato Mitaka,
+ Aly Passanante, 3 Eric H Y Lau, 10,11 Toshio
+ Joseph Wu, 10,11,13 Leesa Lin , 3,10,11 Yuji
+ 
+<section> To cite: Kobayashi T, Tomoi H, ABSTRACT
+ 
+<section> Nishina Y, et al. Effect of Introduction We investigated the effect of social media-­
+ a mobile app chatbot and based interventions on COVID-­19 vaccine intention (VI) and
+ an interactive small-­group confidence in Japan.
+ 
+<section> webinar on COVID-­19 vaccine
+ intention and confidence in Methods We conducted a three-­arm randomised
+ 
+<section> Japan: a randomised controlled controlled trial between 5 November 2021 and 9 January
+ trial. BMJ Global Health 2022 during a low incidence (<1000/day) of COVID-­19
+ 2023;8:e010370. doi:10.1136/ in Japan in the midst of the second and the third waves.
+ bmjgh-2022-010370 Japanese citizens aged ≥20 who had not received any
+ COVID-­19 vaccine and did not intend to be vaccinated
+ 
+<section> Handling editor Emma Veitch were randomly assigned to one of the following three
+ groups: (1) a control group, (2) a group using a mobile
+ 
+<section> ► Additional supplemental
+ material is published online only. app chatbot providing information on COVID-­19 vaccines
+ To view, please visit the journal and (3) a group using interactive webinars with health
+ online (http://​dx. d oi.​org/​10.​ professionals. VI and predefined Vaccine Confidence Index
+ 1136/ b mjgh-​2022- 10370). (VCI) measuring confidence in the importance, safety
+ and effectiveness were compared before and after the
+ interventions under intention-­to-­treat principle. Logistic
+ 
+<section> Received 31 August 2022
+ regression models were used to investigate the effect of
+ 
+<section> Accepted 9 May 2023
+ each intervention on postintervention VI and changes of VCI
+ compared with control.
+ 
+<section> Results Among 386 participants in each group,
+ (93.0%), 231 (59.8%) and 207 (53.6%) completed
+ the postsurvey for the control, chatbot and webinar
+ groups, respectively. The average duration between the
+ intervention and the postsurvey was 32 days in chatbot
+ group and 27 days in webinar group. VI increased from 0%
+ to 18.5% (95% CI 14.5%, 22.5%) in control group, 15.4%
+ (95% CI 10.8%, 20.1%) in chatbot group and 19.7% (95%
+ © Author(s) (or their CI 14.5%, 24.9%) in webinar group without significant
+ employer(s)) 2023. Re-­use difference (OR for improvement=0.8 (95% CI 0.5, 1.3),
+ permitted under CC BY-­NC. No p=0.33 between chatbot and control, OR=1.1 (95% CI 0.7,
+ commercial re-­use. See rights 1.6), p=0.73 between webinar and control). VCI change
+ and permissions. Published by tended to be larger in chatbot group compared with control
+ BMJ. group without significant difference (3.3% vs −2.5% in
+ For numbered affiliations see importance, OR for improvement=1.3 (95% CI 0.9, 2.0),
+ end of article.
+ p=0.18; 2.5% vs 1.9% in safety, OR=1.1 (95% CI 0.7, 1.9),
+ 
+<section> Correspondence to p=0.62; −2.4% vs −7.6% in effectiveness, OR=1.4 (95%
+ Dr Takaaki Kobayashi; CI 0.9, 2.1), p=0.09). Improvement in VCI was larger in
+ t akaaki-​kobayashi@ u iowa.​edu webinar group compared with control group for importance
+ 
+<section> chatbot and an
+ 
+<section> webinar on
+ 
+<section> and
+ 
+<section> a randomised
+ 
+<section> Nishina, 2 Ko Harada, 5 Kyuto Tanaka,
+ 9 Hiromizu Takahashi,
+ Naito , 2 Heidi Larson , 3,12
+ 
+<section> Yamada
+ 
+<section> (7.8% vs −2.5%, OR=1.8 (95% CI 1.2, 2.8), p<0.01),
+ effectiveness (6.4% vs −7.6%, OR=2.2 (95% CI 1.4, 3.4),
+ p<0.01) and safety (6.0% vs 1.9%, OR=1.6 (95% CI 1.0,
+ 
+<section> 2.6), p=0.08).
+ 
+<section> Conclusion This study demonstrated that neither the
+ chatbot nor the webinar changed VI importantly compared
+ with control. Interactive webinars could be an effective tool
+ to change vaccine confidence. Further study is needed to
+ identify risk factors associated with decreased vaccine
+ confidence and investigate what intervention can increase
+ VI and vaccine confidence for COVID-­19 vaccines.
+ 
+<section> Trial registration number UMIN000045747.
+ 
+<section> INTRODUCTION
+ Regulatory approval of COVID-­ 19 vaccines
+ in Japan lagged behind other countries.
+ Starting in February 2021, COVID-­19 vaccines
+ were initially administered to only healthcare
+ workers ; then to older adults, those with
+ chronic disease and those working for nursing
+ facilities (around April 2021); and, finally,
+ to the general population. Although the
+ COVID-­19 vaccine coverage of the primary
+ two-­dose series gradually increased to ~80%
+ in 2022, vaccine uptake was lower in Japan
+ than it was in other high-­income countries at
+ the beginning of the vaccine rollout in 2021.
+ For instance, the coverage rate in Japan was
+ 49% as of early August 2021, while other G7
+ countries, such as Canada, the UK, France
+ and Italy, all achieved over 65% coverage rate
+ at that time.
+ While the delay of regulatory approval and
+ logistical issues influenced slow rollout, it
+ was also rooted in public vaccine hesitancy.
+ A previous study revealed that Japan was one
+ of the least vaccine-­ confident countries in 
+<section> WHAT IS ALREADY KNOWN ON THIS TOPIC
+ 
+<section> ⇒ Japan is one of the least vaccine-­confident countries in the world
+ and has a long history of public uncertainties about vaccines in
+ general.
+ 
+<section> ⇒ Social media-­based interventions have been implemented to in-
+ crease vaccine uptake; however, there have been conflicting data
+ available on whether social media-­based interventions can in-
+ crease vaccine intention and confidence.
+ 
+<section> ⇒ There is a paucity of studies investigating the effect of a mobile app
+ chatbot and interactive webinars on COVID-­19 vaccine intention
+ and confidence in Japan.
+ 
+<section> WHAT THIS STUDY ADDS
+ 
+<section> ⇒ This randomised controlled trial did not find sufficient evidence that
+ the chatbot or the webinars changed COVID-­19 vaccine intention
+ among those with high vaccine hesitancy and low acceptance in
+ Japan in 2021 compared with control.
+ 
+<section> ⇒ COVID-­19 vaccine confidence for importance, safety and effec-
+ tiveness increased with the webinar intervention compared with
+ control.
+ 
+<section> ⇒ Vaccine confidence in importance and effectiveness of COVID-­19
+ vaccines decreased in the control group over time.
+ 
+<section> HOW THIS STUDY MIGHT AFFECT RESEARCH, PRACTICE OR
+ 
+<section> POLICY
+ 
+<section> ⇒ Interactive small-­scale webinars featuring live Q&A with medical
+ professionals may serve as an efficacious method for addressing
+ public concerns about COVID-­19 vaccines and enhancing vaccine
+ confidence.
+ 
+<section> ⇒ In light of the worsening vaccine confidence among unvaccinated
+ individuals without any mitigation, local governments and public
+ health organisations may necessitate conducting regular, interac-
+ tive, small-­group webinars, particularly in regions with low vaccine
+ uptake or high vaccine hesitancy.
+ 
+<section> ⇒ Further research is needed to investigate the strategies for recruit-
+ ing and retaining participation of individuals with vaccine hesitancy
+ in randomised controlled trials and to assess the effects of social
+ media-­based interventions on increasing vaccine intention and the
+ vaccine confidence for COVID-­19 vaccines.
+ 
+<section> the world, even before the COVID-­19 pandemic. 4 Japan
+ has a long history of public uncertainties about vaccines,
+ such as the human papillomavirus vaccine, which led to
+ a severe drop in coverage, from over 70% to less than
+ 1% after the rise of public anxiety and the government’s
+ suspension of proactive recommendation of the vaccine
+ due to public pressure about suspected vaccine adverse
+ events. 5 A survey conducted in 15 countries in January
+ 2021 found that intention to be vaccinated against
+ COVID-­19 was lower in Japan than in other countries:
+ 36% of surveyed Japanese adults strongly or somewhat
+ disagreed with being vaccinated against COVID-­ 6
+ As success of vaccine rollout ultimately depends on the
+ public’s willingness to be vaccinated, 8 increasing vaccine
+ intention (VI) and vaccine confidence among those who
+ are unwilling or hesitant to be vaccinated was a critical
+ priority in 2021 to improve vaccine uptake in Japan.
+ During the COVID-­19 pandemic, too much information
+ and rumours, both accurate and false, have spread widely
+ and rapidly through online platforms. 9 This ‘infodemic’
+ confused people and created uncertainty about trust in
+ the COVID-­19 vaccine. A past nationwide survey in Japan
+ demonstrated that many study participants wanted to
+ obtain more information on COVID-­19 vaccines to make
+ a decision about being vaccinated, including information
+ about the compatibilities between the vaccine and their
+ personal health conditions, the effectiveness of vaccines
+ and medical doctors’ recommendations. 7 To provide the
+ non-­health expert public with scientific evidence-­based
+ information on COVID-­ 19 vaccines in a user-­ friendly
+ manner, it is important to explore the best platform(s)
+ to optimise public understanding of COVID-­19 vaccine
+ information and ultimately improve their VI and
+ confidence.
+ Past studies indicated the potential of online interven-
+ tions to increase VI and uptake by providing accurate
+ information on vaccines and disease and by increasing
+ public perception of vaccine benefits. For example, a
+ randomised controlled study in 2017 demonstrated
+ that mothers presented with accurate vaccine informa-
+ tion on social media during their pregnancy were more
+ likely to vaccinate their infants on time. 10 A recent cross-­
+ sectional study showed that small-­group Zoom webinars
+ helped address misconceptions surrounding COVID-­19
+ vaccines and was associated with increased willingness
+ to be vaccinated among 91 Asian immigrants in Canada
+ and the USA. 11 Virtual webinars were also reported
+ to be effective in reducing vaccine hesitancy at black
+ church congregations. 12 On the other hand, another
+ study suggested that social media use itself may not be
+ directly associated with people’s willingness to receive
+ a COVID-­19 vaccination. 13 There have been conflicting
+ data available about whether and how online or virtual
+ webinars can be used to address COVID-­19 vaccine hesi-
+ tancy. Furthermore, we previously published a cross-­
+ sectional study investigating the association between
+ COVID-­19 VI and the use of a chatbot in a popular
+ messenger app in Japan. 14 Though this study indicated
+ the potential usefulness of a social media-­based chatbot
+ to reduce vaccine hesitancy, this study was subject to
+ multiple limitations in terms of the study design since
+ the study was cross-­sectional only among chatbot users
+ without a comparison group. Therefore, it had both
+ internal (eg, recall bias, interview bias) and external
+ validity issues, and the association between chatbot use
+ and VI could not be clearly evaluated.
+ To address this knowledge gap, we investigated
+ whether social media-­based interventions could increase
+ COVID-­ 19 VI and vaccine confidence among those
+ with vaccine hesitancy. We used two different online
+ interventions, a social media-­ based chatbot and webi-
+ nars, and examined which of these were more effective
+ at increasing COVID-­19 VI and vaccine confidence. By
+ conducting two online interventions, we examined how
+ different online tools can be used depending on people’s
+ demands and available resources. 
+<section> METHODS
+ 
+<section> Study design and setting
+ We conducted a three-­ arm randomised controlled trial
+ to investigate the impact of a mobile app chatbot and an
+ online interactive seminar (webinar) on COVID-­19 VI and
+ vaccine confidence among those (1) unvaccinated and
+ unwilling or hesitant to be vaccinated; and (2) aged
+ or older in Japan from 5 November 2021 until 9 January
+ 2022. We assessed COVID-­19 VI and vaccine confidence
+ by performing preintervention and postintervention cross-­
+ sectional surveys.
+ During the study period, three COVID-­ 19 vaccines
+ were publicly available: BNT162b2, mRNA-­ 1273 and
+ ChAdOx1-­S/nCoV-­19. The costs of vaccines were covered
+ in full by public funds for all Japanese nationals and all
+ eligible foreign residents. The government has strongly
+ recommended that all people get vaccinated given the
+ global evidence shows that the benefits of vaccination
+ are greater than the risk of adverse event. Thanks to the
+ government’s recommendations, about 80% of Japanese
+ people had received at least one dose of a COVID-­19
+ vaccine when this study was conducted. 15 Third dose of
+ COVID-­19 vaccines was only available to limited health-
+ care workers during the present study. No new vaccines
+ became available and no new policy was implemented
+ during the study period of 2.5 months. The period when
+ the postsurvey was conducted (between late December
+ 2021 and early January 2022) covered the two key phases
+ that influenced public perceptions on vaccines: (1)
+ when the daily reported COVID-­19 cases were relatively
+ low with less than 1000 cases per day; and (2) when the
+ Omicron variant emerged.
+ 
+<section> Study participants
+ Study participants were recruited from the panel of a Japa-
+ nese internet research service company (NTTCom Online
+ Marketing Solutions), which had approximately 120 million
+ registered individuals as of October 2021. First, the screening
+ survey was sent to 700 000 randomly selected persons in the
+ panel on 20 October 2021 with the following five questions:
+ (1) ‘How old are you?’; (2) ‘Have you received a COVID-­19
+ vaccine?’; (3) ‘Do you intend to be vaccinated?’ (with answer
+ options of ‘Yes’, ‘Not sure but toward Yes’, ‘Not sure but
+ toward No’ and ‘No’); (4) ‘Do you have LINE (one of the
+ most popular messenger apps in Japan) installed on your
+ mobile phone? If not, are you willing to download LINE to
+ participate in this study?’; and (5) ‘Are you capable of using
+ 
+<section> Zoom for webinars?’ Eligibility criteria included: (1) age
+ or older; (2) had never received a COVID-­19 vaccine; (3)
+ those who selected an answer other than ‘Yes’ to question 3;
+ (4) willing to use LINE; and (5) willing to use Zoom. Mone-
+ tary incentives were given as follows: 1000 yen (~US$8) for
+ those who completed the presurvey and postsurvey in the
+ control group, 1500 yen for those who used the chatbot at
+ least once and completed the presurvey and postsurvey and
+ 3000 yen for those who attended at least one of 14 webinars
+ for at least 15 min and completed presurveys and postsur-
+ veys.
+ 
+<section> Preintervention survey
+ Eligible persons were invited to participate in the
+ presurvey by email on 5 November 2021. Questionnaires
+ were placed in a secure section of a website, and persons
+ who consented electronically received the link to the
+ questionnaires. The presurvey ended on 10 November
+ 2021 (a total of 5 days). The presurvey had a total of
+ 30 questions (online supplemental text S2), including
+ survey items used in similar studies, 16 as well as our own
+ questions. The survey also asked for age, sex, geographic
+ location, educational attainment, employment status,
+ work in a healthcare setting, annual household income,
+ presence of chronic diseases identified as risk factors for
+ severe COVID-­19 by the Japanese government, 17 history
+ of influenza vaccine in the previous season, history of
+ COVID-­19 infection, history of any side effect from any
+ previous vaccination and COVID-­ 19 VI for their chil-
+ dren, if any. Geographic locations were combined using
+ the following categories: Hokkaido, Tohoku, Kanto (eg,
+ Tokyo), Chubu, Kansai (eg, Osaka), Kinki, Chugoku,
+ Shikoku, Kyushu regions and outside of Japan. 18 In addi-
+ tion, questions were asked about personal experience
+ with social media involving COVID-­19 vaccine informa-
+ tion. These questions included which social network the
+ participants use most to obtain COVID-­19 vaccine infor-
+ mation, which social media they trust most and how long
+ they use social media per day, among others.
+ 
+<section> Intervention with LINE chatbot (chatbot group)
+ Persons who answered the presurvey between 5 and 10
+ November 2021 were randomly assigned to one of the
+ following three groups: (1) no exposure to the LINE
+ chatbot nor webinar (control group); (2) the mobile app
+ chatbot users (chatbot group); and (3) online interactive
+ seminar users (webinar group). Randomisation into three
+ groups was conducted between 11 and 14 November 2021
+ by biostatisticians (EHYL and JW). Instructions for each
+ intervention were sent on 15 November 2021 to all three
+ groups. The chatbot was accessible on 15 November and
+ webinars started on 16 November 2021.
+ LINE is a free messenger app available on electronic
+ devices, such as smartphones, tablets and personal
+ computers. LINE users can exchange texts, images, video
+ and audio. LINE is the most popular messenger app in
+ 
+<section> Japan: about 86 million people in Japan (roughly two-­
+ thirds of the population) use this messenger app. 19 We
+ created a chatbot in LINE to answer COVID-­19 vaccine
+ frequently asked questions (FAQs) via text messages
+ (online supplemental figure S1). 14 This chatbot has
+ approximately 200 sets of questions and answers. Our
+ chatbot works as follows: (1) users tap to select the item
+ that they want to ask from a menu of options; the menu
+ options are well organised with clearly labelled sections,
+ such as ‘How do COVID-­19 vaccines work?’, ‘What are the
+ possible side effects of the vaccine?’ and ‘What is the eligibility
+ for vaccination?’; (2) the chatbot automatically lists more
+ specific questions relevant to the item that users choose
+ in step 1; (3) users further choose a specific question that 
+<section> they want to ask from the list; and (4) the chatbot auto-
+ matically provides detailed information and answers to a
+ chosen question. Users can also search questions via free
+ text keywords and the chatbot shows potential questions
+ that include the entered keywords. With these phased
+ steps, users can access information that they seek very
+ quickly without consuming a vast amount of time to find
+ specific information from internet search engines.
+ The first email was sent on 15 November 2021 to study
+ participants assigned to the chatbot group to explain how
+ to use the chatbot and to provide them with a link through
+ which they can access the chatbot; they also received a link to
+ a 5 min YouTube video (https://youtu.be/nJBTHaXapQ8).
+ One reminder was sent to participants who did not access
+ the chatbot on 24 November 2021. The participants could
+ access the chatbot until the end of the study period. In
+ addition, we tracked who downloaded the chatbot and how
+ frequently each FAQ was accessed in the chatbot during the
+ study period to determine which participants were included
+ for final analysis.
+ 
+<section> Intervention with interactive webinars
+ We conducted a total of 14 webinars via Zoom between
+ November and 7 December 2021. Each seminar was held
+ on Tuesdays and Fridays at 10:00 and 20:00 hours to allow
+ study participants to choose suitable dates and times. We
+ asked participants in the webinar group to attend at least
+ one webinar for 30 min. They were allowed to participate
+ in more than one webinar if they preferred. They were
+ required to choose their preferred date and time for the
+ webinar and to register in advance through a temporary
+ website with links to the 14 different webinar sessions.
+ Each webinar was limited to a maximum of 40 partici-
+ pants to allow greater interactivity between health experts
+ and participants. Reminder emails were sent to regis-
+ trants 24 hours and 1 hour before each webinar using an
+ automated reminder system in Zoom. We sent an email
+ to the webinar group participants (n=386) a total of four
+ times (initial instruction email and three reminders)
+ to encourage them to register for at least one of the
+ seminars. Each webinar included a brief lecture about
+ the COVID-­19 vaccine (10 min) presented by physicians
+ using PowerPoint slides, followed by Q&A sessions (addi-
+ tional 20–50 min). We tracked who registered and partic-
+ ipated in each webinar. Those who stayed on a webinar
+ less than 15 min (of 30 min) were not considered to
+ have attended the webinar and were not included in the
+ final analysis (n=1). The lecture included the history of
+ vaccines, the necessity and the efficacy of the COVID-­19
+ vaccine and the possible risks of short-­term and long-­
+ term adverse events with the COVID-­19 vaccine. Partic-
+ ipants were encouraged to ask questions throughout a
+ webinar through the Zoom Q&A chat feature, and ques-
+ tions from participants were collected before and during
+ the webinar. Attendees could submit questions anony-
+ mously if they chose. Three of seven Japanese physicians
+ (TK, YY, HT, KH, YN, KT, HM and KI) were required to
+ attend each webinar as presenters, and the webinars were
+ conducted in the Japanese language only. Each webinar
+ included three physicians, one moderator and one office
+ administrator, and all questions submitted on registra-
+ tions through Zoom and during webinars were answered
+ by physicians during the webinars.
+ 
+<section> Postintervention survey
+ We created three different postsurveys specific to each of
+ the assigned groups. All three groups were asked about
+ their history of COVID-­19 vaccination since the presurvey,
+ and their current VI and vaccine confidence for safety,
+ importance and effectiveness. The postsurvey was sent to
+ the chatbot and webinar groups (online supplemental
+ text S3) between 22 December 2021 and 9 January 2022.
+ 
+<section> Sample size calculation
+ A previous study in France investigating the impact of an
+ interactive web tool on patients with COVID-­19 vaccine
+ hesitancy showed that 8% of 1200 patients accepted
+ COVID-­ 19 vaccination after their intervention. 20 We
+ assumed that the estimated proportion of VI in the inter-
+ vention group after intervention would be 10% and that
+ the proportion of VI in the control group would remain
+ zero. For achieving an 80% power at 5% level of signifi-
+ cance with equal allocation, a dropout rate of 40% and a
+ superiority margin of 5%, the calculated sample size for
+ each arm was 371 participants.
+ 
+<section> Outcome data and statistical analysis
+ The primary analysis was based on the intention-­to-­treat
+ (ITT) principle. Participant characteristics were summa-
+ rised using frequencies and percentages. For two-­group
+ comparisons, the χ 2 test or Fisher’s exact test was used for
+ categorical variables and the Mann-­Whitney U test was
+ used for continuous variables. For three-­group compari-
+ sons, the χ 2 test was used for categorical variables.
+ Primary outcomes were VI and vaccine confidence.
+ VI was measured by the proportion of those who had
+ received a COVID-­19 vaccine since the presurvey, and
+ those who had not but who answered ‘Yes, definitely’
+ in the postsurvey to the question ‘Do you intend to be
+ vaccinated against COVID-­19?’. Vaccine confidence was
+ quantified using the Vaccine Confidence Index (VCI).
+ A previous study demonstrated that, among a multiplicity
+ of factors influencing vaccine decisions, key drivers of
+ public confidence in vaccines were identified as trust
+ in the importance, safety and effectiveness of vaccines,
+ along with compatibility of vaccination with religious
+ beliefs. 21 A vaccine confidence survey tool was devel-
+ oped in 2015 and has been used in multiple different
+ types of vaccine studies. 22 The VCI includes four vaccine
+ confidence statements: ‘Overall I think vaccines are
+ important’; ‘Overall I think vaccines are safe’; ‘Overall
+ I think vaccines are effective’; and ‘Vaccines are compat-
+ ible with my religious beliefs’. We decided not to use the
+ statement about religious beliefs in our study because this
+ statement does not fit well with Japanese customs since
+ more than 80% of people in Japan have no religion. 23 We 
+<insert> Figure 1 Study enrolment and participation. 
+<iend>
+
+ present for each intervention group the proportions of
+ participants having improvement in vaccine confidence,
+ defined by those who responded ‘do not know’, ‘tend to
+ disagree’ and ‘strongly disagree’ before intervention and
+ responded ‘strongly agree’ or ‘tend to agree’.
+ Differences in the proportion (postintervention
+ compared with preintervention) of VI and VCI across
+ arms were compared by fitting a logistic regression model
+ on the postintervention VI (participants who responded
+ ‘Yes, definitely’) and the postintervention VCI (partici-
+ pants who responded ‘strongly agree’ or ‘tend to agree’
+ to these specific questions on vaccine confidence). The
+ baseline VI, VCI and intervention group were used as
+ predictor. Missing outcomes were imputed using multi-
+ variate imputation by chained equations with 50 impu-
+ tations, based on baseline characteristics including
+ demographics, health conditions, vaccine confidence
+ and intervention group assignment. We obtained the
+ final estimates by pooling the estimates from 50 imputed
+ data sets using Rubin’s rules. We used R V.4.0.4 (R Devel-
+ opment Core Team, Vienna) for statistical analysis. A p
+ value of 0.05 was considered statistically significant.
+ 
+<section> Patient and public involvement
+ Patients were not involved in designing the study, deter-
+ mining the research questions, deciding the outcomes
+ measured, recruiting participants or conducting the
+ study. The burden of the intervention was not assessed;
+ however, study participants’ feedback about the chatbot
+ and the webinars was obtained in the postsurvey. All
+ relevant data will be shared on our website (https://​
+ corowakun-supporters.studio.site/#news). Patient advi-
+ sors were not involved with this study.
+ 
+<section> RESULTS
+ 
+<section> A total of 99 965 persons responded to the screening
+ questions between 5 November and 10 November 2021.
+ Of these, 15 398 (15.4%) had not received a vaccine yet,
+ of which 13 314 (86.5%) did not intend to be vaccinated.
+ Among 13 314 eligible persons, 1158 agreed to participate
+ in the study, completed the presurvey and were randomly
+ assigned to one of the three different groups: control
+ group (n=386), chatbot group (n=386) and webinar group
+ (n=386) (figure 1). In the control group, 359/386 (93.0%)
+ answered the postsurvey. In the chatbot group, 237/386
+ (61.4%) accessed the chatbot at least once, of which
+ (97.5%) answered the postsurvey. In the webinar group,
+ 215/386 (55.7%) attended a webinar at least once, of
+ which 207 (96.3%) answered the postsurvey. The average
+ duration between the intervention and the postsurvey was
+ 32 days in chatbot group and 27 days in webinar group.
+ All 1158 participants were included for the final analysis
+ under ITT principle. Baseline characteristics and demo-
+ graphics of participants were balanced across the three
+ groups for most variables (table 1 for selected variables
+ and online supplemental table S1 for all variables).
+ 
+<section> VI and VCI
+ 
+<section> VI was 0% for all three groups at the baseline according
+ to inclusion and exclusion criteria. Among the control
+ group, VI increased to 18.5% (95% CI 14.5%, 22.5%)
+ (table 2). Vaccine confidence decreased by 2.5% (95%
+ CI −4.3%, 9.4%) for importance of vaccines and by 7.6%
+ (95% CI 0.7%, 14.4%) for effectiveness naturally without
+ any intervention, while it increased by 1.9% (95% CI
+ −2.4%, 6.2%) for safety. 
+<insert> All participants
+ n=1158
+ Group 1 (control)
+ n=386
+ Group 2 (chatbot)
+ n=386
+ Group 3 (webinar)
+ n=386
+ Characteristics
+ Age (years), mean
+  
+ 44.7
+  
+ 45.8
+  
+ 46.2
+ Gender (%), male 53.1 54.9 55.7
+ Education (%)      
+  High school or less 28.5 26.7 32.9
+  Professional or vocational
+ qualification
+ 20.5 22.3 16.3
+  Bachelor’s degree or above 51.0 51.0 50.8
+ Employment (%)      
+  Full time 56.2 52.6 53.1
+  Part-­time 16.3 16.3 19.7
+  Unemployed 15.8 18.4 16.8
+  Retired 2.3 3.6 3.1
+  Students 0.8 1.0 0.5
+  Others 8.5 8.0 6.7
+ Healthcare worker (%) 4.7 3.1 3.1
+ Marital status (%)      
+  Married 54.1 47.2 48.7
+  Never married 39.6 40.7 39.4
+  Divorced 6.0 11.4 10.4
+  Widowed 0.3 0.5 1.6
+  Others 0.0 0.3 0.0
+ Income (%)      
+  <JPY200 million 31.6 37.6 36.5
+  JPY200–399 million 29.0 26.4 25.6
+  JPY400–599 million 21.8 19.7 23.3
+  JPY600–799 million 8.5 6.2 8.8
+  ≥JPY800 million 9.1 10.1 5.7
+ Underlying health conditions (%) 5.4 3.6 4.7
+ Usually received influenza vaccine (%) 17.4 11.7 17.1
+ Diagnosed with COVID-­19 (%) 2.6 2.3 1.3
+ Ever experienced a side effect or allergy after any vaccination (%)    
+  Yes 9.1 7.8 10.1
+  No 86.0 85.2 82.6
+  Unsure 4.9 7.0 7.3
+ Perception of COVID-­19 vaccine      
+ Do you want to receive a COVID-­19 vaccine in the future? (%)
+  Yes, definitely (screened out)
+  Unsure, but leaning towards yes 21.8 18.9 20.7
+  Unsure, but leaning towards no 34.2 33.9 34.7
+  No, definitely not 44.0 47.2 44.6
+ COVID-­19 vaccines are important (%)      
+  Strongly agree
+  Tend to agree
+ 6.0
+ 27.7
+ 6.7
+ 29.0
+ 7.3
+ 29.8
+ Continued
+ Table 1 Baseline participant characteristics and perceptions of COVID-­19 vaccines by intervention groups 
+<iend>
+ 
+<insert> All participants
+ n=1158
+ Group 1 (control)
+ n=386
+ Group 2 (chatbot)
+ n=386
+ Group 3 (webinar)
+ n=386
+  Do not know 31.3 36.0 32.6
+  Tend to disagree 15.0 16.4 16.3
+  Strongly disagree 16.6 14.2 15.3
+ COVID-­19 vaccines are safe (%)      
+  Strongly agree 0.5 1.6 0.8
+  Tend to agree 8.5 8.5 9.3
+  Do not know 38.3 38.9 37.3
+  Tend to disagree 25.9 28.0 28.5
+  Strongly disagree 26.7 23.1 24.1
+ COVID-­19 vaccines are effective (%)    
+  Strongly agree 3.9 4.7 3.9
+  Tend to agree 36.5 36.5 35.5
+  Do not know 33.7 34.5 32.1
+  Tend to disagree
+  Strongly disagree
+ 10.6
+ 15.3
+ 12.2
+ 12.2
+ 16.3
+ 12.2
+ JPY, Japanese yen.
+ Table 1 Continued 
+<iend>
+
+ 
+<insert> Table 2 Vaccine intention and confidence after interventions under an intention-­to-­treat analysis
+ Group 1 (control)
+ n=386
+ % (95% CI)
+ Group 2 versus group
+ Group Group Group 3 versus group
+ (chatbot) n=386 (webinar) n=386 OR (95%
+ % (95% CI) % (95% CI) CI) P value* OR (95% CI) P value*
+ 18.5 (14.5, 22.5) 15.4 (10.8, 20.1) 19.7 (14.5, 24.9) 0.8 (0.5, 1.3) 0.330 1.1 (0.7, 1.6) 0.730
+ Change in vaccine confidence‡          
+  COVID-­19 vaccines
+ are important.
+ −2.5 (−9.4, 4.3) 3.3 (−4.0, 10.7) 7.8 (0.3, 15.4) 1.3 (0.9, 2.0) 0.177 1.8 (1.2, 2.8) 0.004
+  COVID-­19 vaccines
+ are safe.
+ 1.9 (−2.4, 6.2) 2.5 (−2.3, 7.4) 6.0 (0.6, 11.4) 1.1 (0.7, 1.9) 0.622 1.6 (1.0, 2.6) 0.077
+  COVID-­19 vaccines
+ are effective.
+ −7.6 (−14.4, −0.7) −2.4 (−9.9, 5.2) 6.4 (−1.4, 14.3) 1.4 (0.9, 2.1) 0.093 2.2 (1.4, 3.4) <0.001
+ All participants
+ (n=1158)
+ Willing to be
+ vaccinated†
+  
+ Missing outcomes were imputed using multiple imputation method.
+ *Assessed by logistic regression models (full results in online supplemental table S2).
+ †Including those who have received a COVID-­19 vaccine or have not received a COVID-­19 vaccine but are willing.
+ ‡Difference in % (postintervention vs preintervention) of those who responded ‘strongly agree’ or ‘tend to agree’. (Other responses were
+ ‘do not know’, ‘tend to disagree’ and ‘strongly disagree’.) 
+<iend>
+
+ In the chatbot group, VI increased to 15.4% (95% CI
+ 10.8%, 20.1%). Vaccine confidence increased by 3.3%
+ (95% CI −4.0%, 10.7%) for importance and 2.5% (95%
+ CI −2.3%, 7.4%) for safety, and it decreased by 2.4%
+ (95% CI −5.2%, 9.9%) for effectiveness. There was no
+ statistically significant difference in VI in the postsurvey
+ between the chatbot and control groups (15.4% in the
+ chatbot group and 18.5% in the control group, OR of
+ improvement=0.8 (95% CI 0.5, 1.3), p=0.330, table 2).
+ Vaccine confidence tended to be higher in the chatbot
+ compared with the control group but there was no
+ significant difference in importance (3.3% vs −2.5%, OR
+ of =1.3 (95% CI 0.9, 2.0), p=0.177), safety (2.5% vs 1.9%,
+ OR=1.1 (95% CI 0.7, 1.9), p=0.622) or effectiveness
+ (−2.4% vs −7.6%, OR=1.4 (95% CI 0.9, 2.1), p=0.093).
+ In the webinar group, VI increased to 19.7% (95% CI
+ 14.5%, 24.9%). Vaccine confidence increased by 7.8%
+ (95% CI 0.3%, 15.4%) for importance, 6.0% (95% CI
+ 0.6%, 11.4%) for safety and 6.4% (95% CI −1.4%, 14.3%)
+ for effectiveness. VI in the postsurvey was similar between
+ the control group and webinar group (19.7% in the
+ webinar group and 18.5% in the control group, OR=1.1 
+<insert> Figure 2 Feedback on chatbot and webinar interventions. Statistically significant differences indicated by *p<0.05, **p<0.01
+ and ***p<0.001, respectively. 
+<iend>
+
+ 
+<section> (95% CI 0.7, 1.6), p=0.730, table 2). Vaccine confidence
+ for importance and effectiveness significantly increased
+ in the webinar group compared with the control group
+ (7.8% vs −2.5%, OR=1.8 (95% CI 1.2, 2.8), p=0.004 and
+ 6.4% vs −7.6%, OR=2.2 (95% CI 1.4, 3.4), p<0.001).
+ Vaccine confidence for safety increased in the webinar
+ group; however, the difference was not statistically signif-
+ icant (6.0% vs 1.9%, OR=1.6 (95% CI 1.0, 2.6), p=0.077).
+ The full logistic model results were shown in online
+ supplemental table S2.
+ 
+<section> Feedback for the chatbot and the webinar
+ Figure 2 presents feedback obtained from the postsurvey
+ for the chatbot and webinar groups. Overall, a favour-
+ able response was more frequently seen in the webinar
+ group compared with the chatbot group for most ques-
+ tions. The proportion of those who strongly agreed that
+ the intervention was informative was 6.5% in the chatbot
+ group and 20.3% in the webinar group (p<0.001). The
+ proportion of those who strongly agreed that they intend
+ to recommend the intervention to others was 3.5%
+ in the chatbot group and 12.1% in the webinar group
+ (p=0.001). The proportion of those who strongly agreed
+ to use the intervention again was 6.5% in the chatbot
+ group and 25.1% in the webinar group (p<0.001).
+ 
+<section> Comparison within the chatbot group
+ The association between the number of chatbot accesses
+ and VI and VCI is summarised in online supplemental
+ table S3. The median number of chatbot accesses was
+ 15 in those willing to be vaccinated in the postsurvey
+ compared with 9 in those who remained vaccine hesitant
+ (p<0.001). The number of chatbot accesses was not asso-
+ ciated with vaccine confidence.
+ 
+<section> Comparison within the webinar group
+ The association between webinar attendance and VI and
+ VCI within the webinar group is summarised in online
+ supplemental table S4. The duration of webinar attend-
+ ance in minutes was not associated with either VI or VCI.
+ The number of attended webinar sessions was not associ-
+ ated with either VI or vaccine confidence.
+ 
+<section> DISCUSSION
+ 
+<section> We did not find sufficient evidence that the chatbot
+ or the webinar changed COVID-­ 19 VI among those
+ with vaccine hesitancy in Japan in 2021 compared with
+ control. However, vaccine confidence for importance,
+ safety and effectiveness increased with the webinar inter-
+ vention compared with control. A small-­group interactive
+ webinar might be an effective tool for changing vaccine
+ hesitancy. However, given there was no increase in VI
+ despite improved confidence in importance and effec-
+ tiveness, confidence index alone might not correlate well
+ with COVID-­19 VI in Japan. Further research is needed
+ to investigate how to recruit and retain those with vaccine
+ hesitancy in randomised controlled trials and whether
+ social media-­based interventions can increase VI and VCI
+ for COVID-­19 vaccines.
+ In this study, 15%–20% of participants with vaccine
+ hesitancy, in either the control or intervention group,
+ changed their minds and were accepting of the COVID-­19
+ vaccine by the end of the study period. Social norms and
+ awareness of COVID-­19 vaccine status of persons close
+ to those with vaccine hesitancy are important factors in
+ Japan, 24 25 and the already high vaccine uptake at the
+ beginning of the study period (at ~80%) might have
+ helped change vaccine hesitancy over time regardless
+ of whether VCI decreased or increased. Additionally,
+ according to a global systematic review on the determi-
+ nants of vaccine hesitancy, perceived vaccine safety was
+ one of the most frequently cited factors in past studies.
+ Previous nationwide surveys in Japan also suggested that
+ concerns about side effects and the safety of COVID-­19
+ vaccines could be influential reasons for vaccine unwill-
+ ingness or hesitancy. 7 27 Therefore, we speculate one
+ potential reason why VI did not significantly increase with
+ the webinar intervention despite the increase in vaccine
+ confidence might be due to the lack of significant change
+ in confidence for safety compared with control.
+ We calculated the proportion of those willing to be
+ vaccinated after intervention, stratified by groups with
+ and without improvement in the three dimensions
+ of vaccine confidence and intervention arms (online
+ supplemental table S5) to see the association between 
+<section> VI and vaccine confidence after interventions. However,
+ we observed different patterns of VI across three arms,
+ which indicates that interventions may have modified the
+ relationship between VI and confidence. The Working
+ Group on Vaccine Hesitancy established by the Stra-
+ tegic Advisory Group of Experts of WHO indicated that
+ vaccine hesitancy is the behaviour that reflects a constel-
+ lation of factors that may influence the vaccination
+ decision-­making. 28 This group highlighted 3Cs including
+ complacency, convenience and confidence as a model of
+ vaccine hesitancy. The fact that our intervention might
+ have affected the factors above differently and we only
+ focused on confidence factor in the postsurvey may
+ explain why we observed a different pattern in the associ-
+ ation between COVID-­19 VI and confidence across three
+ arms. We need to explore how different social media-­
+ based interventions change various factors (ie, 3Cs) that
+ affect VI, so we can understand the most appropriate
+ intervention for each factor.
+ Our previous cross-­ sectional study indicated that a
+ free chatbot had the possibility to decrease vaccine
+ hesitancy ; however, this randomised controlled trial
+ demonstrated that the chatbot did not change VI nor
+ vaccine confidence. We hypothesise that the chatbot
+ might have been more effective early in the pandemic
+ when accurate, specific and sought-­after information was
+ not readily and widely available to the public. This may
+ be because vaccine hesitancy is due to lack of scientific
+ information and is about underlying emotions behind
+ vaccine decision-­making. 29 Changing people’s percep-
+ tions of vaccines requires more interaction between the
+ public and the medical community to understand the
+ emotions involved in vaccine hesitancy and confidence.
+ Thus, the webinar offered a platform where a health
+ expert addressed an individual’s vaccine concerns and
+ negative emotions by talking with them directly. In fact,
+ our interactive webinar significantly increased vaccine
+ confidence for importance and effectiveness. Feed-
+ back from participants showed a significantly favour-
+ able response in the webinar group compared with the
+ chatbot group. Live questions asked by webinar partici-
+ pants covered topics like the safety of COVID-­19 vaccines,
+ vaccine effectiveness of the three available vaccines, the
+ influence of new variants and common myths, among
+ others. Nevertheless, there have been conflicting data
+ available on whether educational interventions reduce
+ vaccine hesitancy. 31–33 Our study limited the number of
+ participants in webinars to 40, and questions were asked
+ anonymously. Providing a small, interactive and possibly
+ anonymous webinar where individuals can discuss their
+ concerns directly with professionals might be an effective
+ strategy for increasing vaccine confidence, which could
+ in turn decrease vaccine hesitancy.
+ Confidence in the importance and effectiveness of
+ COVID-­19 vaccines decreased in the control group over
+ time. This means that those who remain vaccine hesitant
+ may be even more hesitant about COVID-­19 vaccines than
+ before. The period when the postsurvey was conducted
+ covered two key phases that possibly influenced the
+ participants’ perceptions on vaccines. During the first
+ phase, the daily reported COVID-­19 cases in Japan were
+ relatively low, which might have affected ‘importance’
+ in vaccine confidence. The second phase was the emer-
+ gence of the Omicron variant in other countries despite
+ available vaccines, which might have affected ‘effective-
+ ness’ in vaccine confidence. Also, the fact that individ-
+ uals, including those who are vaccinated, are still at risk
+ for COVID-­19 infection even in the third year of the
+ pandemic might have caused tiredness, frustration and
+ anxiety, possibly contributing to this worsening VCI in
+ the control group.
+ This study has several limitations. First, since the study
+ was conducted entirely online, actual vaccine uptake
+ after the intervention could not be investigated. Second,
+ we could not evaluate the effect of in-­person seminars.
+ Although some people prefer online seminars with anon-
+ ymous participation—especially in Japanese culture
+ contexts—in-­person seminars may have more potential,
+ including more direct, open and honest communica-
+ tion than occurs online. In addition, in-­person seminars
+ can provide COVID-­ 19 vaccines on-­ site immediately
+ following the seminars for those who become agreeable.
+ Third, even with a monetary incentive, the participation
+ rate was not as high as we expected. To reduce attrition
+ bias, we used multivariate imputation to predict outcome
+ variables of non-­respondents. The ITT and per-­protocol
+ analyses gave broadly similar outcomes (table 2 and
+ online supplemental table S6), and all numbers were
+ within the 95% CIs indicating statistically insignificant
+ differences. Additionally, we compared the participants’
+ characteristic between those who completed assigned
+ interventions and those who did not (online supple-
+ mental table S7). However, we could not identify a clear
+ difference between the two groups. Fourth, though our
+ study confirmed that an interactive webinar might have
+ a role in increasing vaccine confidence, our research
+ cannot determine the most effective method to recruit
+ those who have not received and do not intend to receive
+ a COVID-­19 vaccine in a real-­world setting without any
+ incentive. Fifth, those who did not have internet access
+ were unable to participate in our study. Given that digital
+ technologies are now considered a new determinant of
+ health, we need to discuss the best way to recruit those
+ with vaccine hesitancy who do not have internet access.
+ Sixth, racial differences were not evaluated because all
+ participants were Japanese. Seventh, this study used
+ three professionals, one moderator and one administra-
+ tive person for each webinar, and scheduling webinars
+ with medical professionals and administrative persons on
+ a regular basis might not be feasible without providing
+ incentives to presenters, likely requiring support from
+ local communities or external funding.
+ In conclusion, neither the chatbot nor the webinar
+ improved VI among those with vaccine unwillingness and
+ hesitancy in Japan in 2021 compared with control. Small
+ interactive webinars that include live Q&A sessions with 
+<section> medical experts have the potential to effectively address
+ public concerns regarding COVID-­ 19 vaccines and to
+ improve vaccine confidence. Future research needs to
+ focus on the relationship between vaccine confidence
+ and COVID-­19 VI in Japan. Given the worsening vaccine
+ confidence among those unvaccinated without interven-
+ tion, local government and public health agencies may
+ need to organise regular, small interactive webinars, espe-
+ cially in areas with low vaccine uptake or high vaccine
+ hesitancy. More prospective studies are needed to eval-
+ uate the effect of on-­site interactive seminars with the
+ capability of administering vaccines during or after the
+ seminar to those who change their COVID-­19 VI.
+ 
+<section> Author affiliations
+ Division of Infectious Diseases, Department of Internal Medicine, University of
+ Iowa Hospitals & Clinics, Iowa City, Iowa, USA
+ Department of General Medicine, Juntendo University Graduate School of
+ 
+<section> Medicine, Bunkyo-­ku, Tokyo, Japan
+ Department of Infectious Disease Epidemiology, London School of Hygiene &
+ Tropical Medicine Faculty of Epidemiology and Public Health, London, UK
+ School of Tropical Medicine and Global Health, Nagasaki University, Nagasaki,
+ 
+<section> Japan
+ Department of Medicine, Mount Sinai Beth Israel Hospital, New York, New York,
+ 
+<section> USA
+ Division of Pulmonary Medicine, Department of Internal Medicine, Nippon Kokan
+ Hospital, Kawasaki, Kanagawa, Japan
+ Department of General Internal Medicine, Saitama Medical University Hospital,
+ 
+<section> Iruma-­gun, Saitama, Japan
+ Department of Obstetrics and Gynecology, Kanto Central Hospital of the Mutual Aid
+ Association of Public School Teachers, Setagaya-­ku, Tokyo, Japan
+ Division of Allergy and Infectious Diseases, Department of Medicine, University of
+ Washington, Seattle, Washington, USA
+ Laboratory of Data Discovery for Health (D24H), Hong Kong SAR, China
+ WHO Collaborating Centre for Infectious Disease Epidemiology and Control,
+ School of Public Health, Li Ka Shing Faculty of Medicine, The University of Hong
+ 
+<section> Kong, Hong Kong SAR, China
+ Institute for Health Metrics & Evaluation, University of Washington, Seattle,
+ 
+<section> Washington, USA
+ The University of Hong Kong – Shenzhen Hospital, Shenzhen, China
+ Brookdale Department of Geriatrics and Palliative Medicine, Icahn School of
+ Medicine at Mount Sinai, New York, New York, USA
+ 
+<section> Twitter Heidi Larson @ProfHeidiLarson and Yuji Yamada @YujiY0402
+ 
+<section> Acknowledgements We appreciate Shinji Hirooka, Shinsuke Oyama, Hozumi
+ Kaneko, Hiroaki Asahara, Ryosuke Kitano, Yumiko Radi and Reiko Nakamura for
+ their technical support for Corowa-­kun’s Consultation Room. We also appreciate
+ Ed Pertwee at the Vaccine Confidence Project for support in creating the surveys.
+ This project was conducted with collaboration between the Corowa-­kun project
+ team, the Laboratory of Data Discovery for Health Limited at the University of
+ Hong Kong and the Vaccine Confidence Project at the London School of Hygiene &
+ Tropical Medicine. We thank Kris Greiner for her editorial assistance in preparing
+ this manuscript.
+ 
+<section> Funding This study was funded by Vaccine confidence funding (VCF-­017).
+ 
+<section> Competing interests None declared.
+ 
+<section> Patient and public involvement Patients and/or the public were not involved in
+ the design, or conduct, or reporting, or dissemination plans of this research.
+ 
+<section> Patient consent for publication Obtained.
+ 
+<section> Ethics approval This study involves human participants and was approved by
+ the Institutional Review Board at Kanto Central Hospital, Tokyo, Japan. Participants
+ gave informed consent to participate in the study before taking part. This study was
+ registered with UMIN Clinical Trials Registry (UMIN000045747) (online supplemental
+ text S1). All participants signed an electronic consent form.
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data availability statement All the data used and/or analyzed is available from
+ the corresponding author upon reasonable request.
+ 
+<section> Supplemental material This content has been supplied by the author(s). It has
+ not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been
+ peer-­reviewed. Any opinions or recommendations discussed are solely those
+ of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and
+ responsibility arising from any reliance placed on the content. Where the content
+ includes any translated material, BMJ does not warrant the accuracy and reliability
+ of the translations (including but not limited to local regulations, clinical guidelines,
+ terminology, drug names and drug dosages), and is not responsible for any error
+ and/or omissions arising from translation and adaptation or otherwise.
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution Non Commercial (CC BY-­NC 4.0) license, which
+ permits others to distribute, remix, adapt, build upon this work non-­commercially,
+ and license their derivative works on different terms, provided the original work is
+ properly cited, appropriate credit is given, any changes made indicated, and the
+ use is non-­commercial. See: http://creativecommons.org/licenses/by-nc/4.0/.
+ 
+<section> ORCID iDs
+ 
+<section> Toshio Naito http://orcid.org/0000-0003-1646-9930
+ Heidi Larson http://orcid.org/0000-0002-8477-7583
+ Leesa Lin http://orcid.org/0000-0003-4123-4762
+ 
+<section> REFERENCES
+ 1 Ministry of Health Labour and Welfare. Data from: COVID-­19
+ vaccines. Available: https://www.mhlw.go.jp/stf/covid-19/vaccine.​
+ html [Accessed 10 Jul 2022].
+ 2 Our World in Data. Data from: Coronavirus (COVID-­19) Vaccinations.
+ 
+<section> Available: https://ourworldindata.org/covid-vaccinations [Accessed
+ 
+<section> 10 Jul 2022].
+ 3 Kosaka M, Hashimoto T, Ozaki A, et al. Delayed COVID-­19 vaccine
+ roll-­out in Japan. Lancet 2021;397:2334–5.
+ 4 de Figueiredo A, Simas C, Karafillakis E, et al. Mapping global
+ trends in vaccine confidence and investigating barriers to vaccine
+ uptake: a large-­scale retrospective temporal Modelling study. Lancet
+ 2020;396:898–908.
+ 5 Hanley SJB, Yoshioka E, Ito Y, et al. HPV vaccination crisis in Japan.
+ 
+<section> Lancet 2015;385.
+ 6 Iposos Survey for the World Economic Forum. Data from: global
+ attitudes on a COVID-­19 vaccine. Available: https://www.ipsos.com/​
+ sites/default/files/Global-attitudes-on-a-COVID-19-Vaccine-January-​
+ 2021-report%20.pdf [Accessed 10 Jul 2022].
+ 7 Nomura S, Eguchi A, Yoneoka D, et al. Reasons for being unsure
+ or unwilling regarding intention to take COVID-­19 vaccine among
+ 
+<section> Japanese people: A large cross-­sectional national survey. Lancet
+ Reg Health West Pac 2021;14.
+ 8 Ogilvie GS, Gordon S, Smith LW, et al. Intention to receive a
+ 
+<section> COVID-­19 vaccine: results from a population-­based survey in
+ Canada. BMC Public Health 2021;21:1017.
+ 9 World Health Organization. Data from: Infodemic. Available: https://
+ www.who.int/health-topics/infodemic#tab=tab_1 [Accessed 10 Jul
+ 2022].
+ 10 Glanz JM, Wagner NM, Narwaney KJ, et al. Web-­based social
+ media intervention to increase vaccine acceptance: a randomized
+ controlled trial. Pediatrics 2017;140.
+ 11 Nair G, Venkatesan K, Nair A, et al. COVID-­19 vaccine hesitancy and
+ influence of professional medical guidance. J Educ Health Promot
+ 2022;11:112.
+ 12 Peteet B, Watts V, Tucker E, et al. Faith, fear, and facts: A COVID-­19
+ vaccination hesitancy intervention for black church congregations.
+ 
+<section> Vaccines (Basel) 2022;10.
+ 13 Othman SS, Alsuwaidi A, Aseel R, et al. Association between social
+ media use and the acceptance of COVID-­19 vaccination among the
+ general population in Saudi Arabia - a cross-­sectional study. BMC
+ Public Health 2022;22:375.
+ 14 Kobayashi T, Nishina Y, Tomoi H, et al. Corowa-­Kun: a messenger
+ App Chatbot delivers COVID-­19 vaccine information, Japan 2021.
+ 
+<section> Vaccine 2022;40:4654–62.
+ 15 Mori H, Naito T. A rapid increase in the COVID-­19 vaccination rate
+ during the Olympic and Paralympic games 2021 in Japan. Hum
+ Vaccin Immunother 2022;18.
+ 16 Fisher KA, Bloomstone SJ, Walder J, et al. Attitudes toward a
+ potential SARS-­Cov-­2 vaccine: a survey of U.S. adults. Ann Intern
+ Med 2020;173:964–73. 
+<section> 17 Ministry of Health Labour and Welfare. Data from: novel coronavirus
+ (COVID-­19). Available: https://www.mhlw.go.jp/stf/seisakunitsuite/​
+ bunya/0000164708_00079.html [Accessed 30 Apr 2021].
+ 18 Government of Japan. Data from: Japan’s diverse regions. Available:
+ https://www.japan.go.jp/regions/index.html [Accessed 23 May
+ 2021].
+ 19 Line. Data from: LINE Q1 2020 earnings results. 2020. Available:
+ https://d.line-scdn.net/stf/linecorp/en/ir/all/FY20Q1_earning_​
+ releases_EN.pdf [Accessed 16 Aug 2022].
+ 20 Tran V-­T, Sidorkiewicz S, Péan C, et al. Impact of an interactive
+ web tool on patients' intention to receive COVID-­19 vaccination:
+ a before-­and-­after impact study among patients with chronic
+ conditions in France. BMC Med Inform Decis Mak 2021;21:228.
+ 21 Larson HJ, Schulz WS, Tucker JD, et al. Measuring vaccine
+ confidence: introducing a global vaccine confidence index. PLoS
+ Curr 2015;7.
+ 22 Larson HJ, de Figueiredo A, Xiahong Z, et al. The state of vaccine
+ confidence 2016: global insights through a 67-­country survey.
+ 
+<section> EBioMedicine 2016;12:295–301.
+ 23 World Population Review. Data from: most atheist countries 2022.
+ 
+<section> Available: https://worldpopulationreview.com/country-rankings/​
+ most-atheist-countries [Accessed 22 Jul 2022].
+ 24 Kajikawa N, Yokoya S, Maeno T. COVID-­19 vaccination willingness
+ and associated factors in Japanese primary care patients: A cross-­
+ sectional study. J Prim Care Community Health 2022;13.
+ 25 Nomura S, Eguchi A, Yoneoka D, et al. Characterising reasons for
+ reversals of COVID-­19 vaccination hesitancy among Japanese
+ people: one-­year follow-­up survey. Lancet Reg Health West Pac
+ 2022;27.
+ 
+<section> 26 Larson HJ, Jarrett C, Eckersberger E, et al. Understanding
+ vaccine hesitancy around vaccines and vaccination from a global
+ perspective: a systematic review of published literature, 2007-­2012.
+ 
+<section> Vaccine 2014;32:2150–9.
+ 27 Okubo R, Yoshioka T, Ohfuji S, et al. COVID-­19 vaccine hesitancy
+ and its associated factors in Japan. Vaccines (Basel) 2021;9.
+ 28 Report of the Sage Working Group on Vaccine Hesistancy. Data
+ from: WHO the SAGE working group on vaccine hesitancy. 2014.
+ 
+<section> Available: https://www.asset-scienceinsociety.eu/sites/default/​
+ files/sage_working_group_revised_report_vaccine_hesitancy.pdf
+ [Accessed 31 Jan 2023].
+ 29 Das P. Heidi Larson: shifting the conversation about vaccine
+ confidence. Lancet 2020;396.
+ 30 Larson H. Data from: how vaccine hesitancy became one of the
+ biggest threats to global health alumni news #12 2020. Available:
+ https://www.lshtm.ac.uk/media/50871 [Accessed 31 Jul 2022].
+ 31 Li PC, Theis SR, Kelly D, et al. Impact of an education intervention
+ on COVID-­19 vaccine hesitancy in a military base population. Mil
+ Med 2022;187:e1449–55.
+ 32 Vandeweerdt C, Luong T, Atchapero M, et al. Virtual reality reduces
+ 
+<section> COVID-­19 vaccine hesitancy in the wild: a randomized trial. Sci Rep
+ 2022;12:4593.
+ 33 Henrikson NB, Opel DJ, Grothaus L, et al. Physician communication
+ training and parental vaccine hesitancy: A randomized trial.
+ 
+<section> Pediatrics 2015;136:70–9.
+ 34 Lancet Digital H. Digital Technologies: a new determinant of health.
+ 
+<section> Lancet Digit Health 2021;3.

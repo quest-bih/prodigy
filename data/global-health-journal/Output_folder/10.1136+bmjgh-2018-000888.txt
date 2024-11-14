@@ -1,0 +1,1217 @@
+
+<section> Free contraception and
+ 
+<section> nudges in the postpartum
+ 
+<section> evidence from a randomised
+ 
+<section> trial in Nairobi, Kenya
+ 
+<section> Margaret McConnell, 1 Claire Watt Rothschild,
+ 
+<section> Jessica Cohen
+ 
+<section> To cite: McConnell M, 
+<section> Abstract
+ Rothschild CW, Ettenger A, Background Short birth intervals are a major risk factor
+ et al. Free contraception for poor maternal and newborn outcomes. Utilisation of
+ and behavioural nudges modern contraceptive methods during the postpartum
+ 
+<section> in the postpartum period:
+ period can reduce risky birth intervals but contraceptive
+ 
+<section> evidence from a randomised
+ control trial in Nairobi, coverage during this critical period remains low.
+ Kenya. BMJ Glob Health Methods We conducted a randomised controlled
+ 2018;3:e000888. doi:10.1136/ experiment to test whether vouchers for free contraception,
+ bmjgh-2018-000888 provided with and without behavioural ‘nudges’, could
+ increase modern contraceptive use in the postpartum
+ 
+<section> Handling editor Seye Abimbola period. 686 pregnant women attending antenatal care in
+ two private maternity hospitals in Nairobi, Kenya, were
+ 
+<section> ► Additional material is enrolled in the study. The primary outcomes were the use
+ published online only. To view of modern contraceptive methods at nearly 3 months and
+ 
+<section> please visit the journal online
+ 6 months after expected delivery date (EDD). We tested
+ 
+<section> (http://​dx.​doi.​org/​10.​1136/​
+ bmjgh-​2018-​000888). the impact of a standard voucher that could be redeemed
+ for free modern contraception, a deadline voucher that
+ expired 2 months after delivery and both types of vouchers
+ Received 12 April 2018 with and without a short message service (SMS) reminder,
+ Revised 20 August 2018 relative to a control group that received no voucher and no
+ Accepted 24 August 2018 SMS reminder.
+ 
+<section> Results By nearly 6 months after EDD, we find that
+ the combination of the standard voucher with an SMS
+ reminder increased the probability of reporting utilisation
+ of a modern contraceptive method by 25 percentage points
+ (pp) (95% CI 6 pp to 44 pp) compared with the control
+ © Author(s) (or their group. Estimated impacts in other treatment arms were not
+ 
+<section> employer(s)) 2018. Re-use
+ statistically significantly different from the control group.
+ 
+<section> permitted under CC BY-NC. No
+ commercial re-use. See rights Conclusions Reducing financial barriers to postpartum
+ and permissions. Published by contraception alone may not be enough to encourage take-
+ BMJ. up. Programmes targeting the postpartum period should
+ Department of Global Health consider addressing behavioural barriers to take-up.
+ and Population, Harvard T.H.
+ 
+<section> Chan School of Public Health,
+ 
+<section> Boston, MA, United States
+ Department of Epidemiology, Introduction
+ 
+<section> University of Washington, The utilisation of modern contraceptive
+ 
+<section> Seattle, Washington, USA methods to achieve desired birth spacing
+ 
+<section> Results for Development (R4D)
+ Institute, Seattle, Washington, has the potential to reduce maternal and
+ 
+<section> USA neonatal mortality and morbidity. 1 2 Short
+ 
+<section> Jacaranda Health, Nairobi, birth intervals contribute to greater risk of
+ 
+<section> Kenya adverse birth outcomes, preterm birth and
+ neonatal morbidity. 3–5 Investments in family
+ 
+<section> Correspondence to
+ Dr Margaret McConnell; planning are estimated to have the highest
+ 
+<section> ​mmcconne@​hsph.​harvard.​edu benefit–cost ratio for economic development
+ 
+<section> behavioural
+ 
+<section> period:
+ 
+<section> control
+ 
+<section> 2 Allison Ettenger, 3 Faith Muigai,
+ 
+<section> Key questions
+ 
+<section> What is already known?
+ 
+<section> ► Access to family planning is a critical element of de-
+ livering on Sustainable Development Goals.
+ 
+<section> ► Behavioural ‘nudges’ can influence health be-
+ haviours but more evidence is needed in the context
+ of family planning.
+ 
+<section> What are the new findings?
+ 
+<section> ► Free contraception alone is not enough to increase
+ take-up of modern contraception.
+ 
+<section> ► The combination of free contraception and a short
+ message service (SMS) reminder increases take-up
+ of contraception.
+ 
+<section> What do the new findings imply?
+ 
+<section> ► Programmes seeking to remove barriers to the take-
+ up of postpartum contraception should consider ad-
+ dressing behavioural barriers.
+ 
+<section> among a suite of population and demography
+ programmes.
+ Family planning has received renewed
+ policy interest with the Sustainable Develop-
+ ment Goals specifically identifying universal
+ access to family planning as a major priority. In
+ response to evidence that family planning had
+ been neglected as a health systems priority in
+ sub-Saharan Africa, 7 many countries invested
+ significant resources in improving access to
+ family planning as part of the Family Planning
+ 2020 global partnership, with recent evidence
+ illustrating significant progress in addressing
+ unmet need in Kenya.
+ Despite these advances, take-up of modern
+ methods remains low during the critical post-
+ partum period. 9–11 In particular, poor house-
+ holds’ utilisation of modern contraceptives
+ has consistently lagged behind national aver-
+ ages across most of sub-Saharan Africa. 12 A
+ study conducted among the slums of Nairobi
+ found that 20% of second and higher order 
+<section> births occurred within 24 months of the previous birth
+ and 9% occurred within 18 months. 13 Another recent
+ study found that a significant majority of women in
+ Nairobi have not taken up modern contraception at the
+ time of resuming sexual activity in the postpartum period,
+ leaving them only partially protected from shortly spaced
+ births.
+ Efforts to improve access to postpartum family plan-
+ ning and ensure equity in the availability of modern
+ contraception across socioeconomic groups have driven
+ the design of interventions to reduce financial barriers
+ to the take-up of contraception. 15 Cost is a particularly
+ important barrier to use of long-acting reversible contra-
+ ception (LARC) methods such as implants and intra-
+ uterine devices (IUDs) and systems, which are 20 times
+ as effective as other methods 16 but typically require more
+ out-of-pocket spending. However, reductions in finan-
+ cial barriers have not always led to expected increases in
+ postpartum contraception. An evaluation of a voucher
+ programme in Kenya offering subsidised long-acting
+ family planning methods to poor households found that
+ only 2% of households used the vouchers. 17 Financial
+ barriers may not be the only reason that new mothers
+ desiring to postpone or avoid pregnancy do not take up
+ modern contraception.
+ The postpartum period poses unique challenges for
+ mothers. They must balance the many demands of a new
+ baby with other longer term priorities such as avoiding
+ or delaying future pregnancies. Research in behavioural
+ science suggests that the many cognitive demands of
+ living in poverty may deplete mental resources for
+ forward-looking activities, 19 20 such as taking steps to
+ avoid unwanted future pregnancies. The possibility of
+ becoming pregnant may not be at the ‘top of mind’
+ and the immediate costs of going to a clinic to access
+ a modern contraceptive method may loom larger than
+ the longer term benefits. Delivery strategies incorpo-
+ rating behavioural ‘nudges’ 18 into the delivery of post-
+ partum family planning may be particularly important
+ for households living under the cognitive load of poverty.
+ Principles from behavioural science have increasingly
+ been used to design policy innovations. However, there
+ is very limited evidence on the impact of interventions
+ informed by behavioural science to improve maternal
+ and child health.
+ We conducted a randomised controlled trial with a
+ chain of private maternity clinics in the informal settle-
+ ments of Nairobi to evaluate the impact of a free voucher
+ for modern contraception and two behavioural ‘nudg-
+ es’—a deadline for using the voucher and a short message
+ service (SMS) reminder—on the take up of contraception
+ in the postpartum period. Treatments were designed in
+ collaboration with staff from the study clinic and conver-
+ sations with patients. We focused our design on inte-
+ grating behavioural insights into interventions (vouchers
+ and SMS) that were likely to be policy relevant and scal-
+ able. Introducing a deadline to encourage earlier action
+ has been found to increase the chance of taking action
+ in education and consumer behaviour, 23 while reminders
+ have been shown to increase the likelihood of many
+ health behaviours including appointment attendance
+ and medication adherence. 24 This project is among the
+ first to test whether incorporating simple, low-cost nudges
+ to traditional reproductive health voucher programme in
+ low-income countries can increase their effectiveness by
+ targeting behavioural barriers to utilisation at the same
+ time as financial constraints.
+ 
+<section> Methods
+ Study setting and population
+ The study was conducted between April 2014 and
+ December 2015 in two private maternity clinics in Nairo-
+ bi’s informal settlements (Kiambu County). These densely
+ populated areas are characterised by high poverty rates,
+ poor access to water and sanitation and food insecu-
+ rity. 25 26 Total fertility rates for women in Nairobi’s urban
+ poor regions are slightly higher than that of Nairobi (3.1
+ compared with 2.8) yet still lower than rural areas and
+ the national average of 4.6. 26
+ We recruited pregnant women attending antenatal
+ care (ANC) at Jacaranda Health, a private-sector social
+ enterprise providing maternal and newborn healthcare
+ to poor urban women. At the start of the study, Jacaranda
+ operated one maternity facility with a second facility
+ opening in September 2014.
+ 
+<section> Intervention design, procedures and timeline
+ Women were eligible to participate in the study if they
+ attended ANC services at Jacaranda, were between
+ years and 40 years old, had a gestational age of at least
+ months at the time of enrolment and could provide a valid
+ phone number by which they could be reached in the
+ postpartum period. Six hundred and eighty-six women
+ attending ANC were consented and enrolled over that
+ time period. Pregnant women were randomly assigned
+ with equal probability to a ‘standard voucher arm’, a
+ ‘deadline voucher’ arm or a control group. Both voucher
+ arms received a voucher for free contraceptive methods
+ to be redeemed at a Jacaranda Health facility, including
+ condoms, injectables, implants, IUDs, combined and
+ progestin-only oral contraceptives and counselling on
+ effective use of the lactational amenorrhoea method
+ (LAM). The value of the voucher ranged from US$0.92–
+ US$6.45 depending on the method choice, with the
+ largest value for the LARC methods of implants and
+ IUDs. The ‘deadline voucher’ voucher expired 8 weeks
+ after estimated date of delivery (EDD) and the ‘standard
+ voucher’ expired 1 year after it was issued. A sample of
+ each voucher is provided in online supplementary figure
+ 1. The expiry date was made highly salient in the deadline
+ voucher but not in the standard voucher. We used the
+ EDD to determine the deadline date because the delivery
+ date was unknown at the time of enrolment. Partway
+ through the study, additional funding was received,
+ which allowed us to expand the study (we refer to these 
+<section> periods as study phase 1 and phase 2). Around the same
+ time, Jacaranda Health opened another maternity clinic,
+ allowing for a larger potential sample size for the study.
+ During the initial study period, we had observed unex-
+ pectedly low rates of redemptions of vouchers. Motivated
+ in part by this observation, we designed an additional
+ intervention to remind households of the opportunity
+ to take up postpartum family planning. In November
+ 2014, a cross-randomised additional treatment arm was
+ added to the study design. Of the 686 total of women
+ enrolled in the study, 339 were enrolled after November
+ 2014 and, in addition to being randomly assigned with
+ equal probability to one of three voucher arms, were
+ also cross-randomised with equal probability into an arm
+ that received a postpartum (5 weeks) SMS reminder or
+ an arm receiving no SMS message, resulting in six treat-
+ ment arms. Additional details about the study design
+ and randomisation method are provided in the online
+ supplementary appendix. Flow into experimental treat-
+ ment arms is illustrated for each study phase in online
+ supplementary figure 2a and bonline supplementary
+ figure 2abonline supplementary material
+ All participants, including the control group, received
+ counselling and educational materials on postpartum
+ family planning, including information on appropriate
+ methods for the postpartum period and a recommenda-
+ tion to initiate postpartum family planning 6 weeks after
+ delivery. Because some women in the no-voucher group
+ also got the SMS reminder and because some households
+ share access to cell phones and may have wanted to main-
+ tain privacy around decisions about family planning, the
+ SMS did not specifically refer to the voucher but instead
+ read: ‘Don’t forget to review your family planning mate-
+ rials from Jacaranda Health’.
+ 
+<section> Data collection and outcomes
+ Participants were recruited in the waiting room of Jaca-
+ randa’s antenatal clinics. Eligible participants were
+ consented into the study by providing their written
+ consent. Participants completed a baseline survey at the
+ antenatal clinic with questions about basic demographic
+ characteristics and fertility preferences. Survey timing
+ and outcome measures are defined with respect to the
+ EDD rather than the actual delivery date in order to
+ be consistent with the deadline and SMS intervention,
+ which were scheduled with respect to EDD during preg-
+ nancy. Follow-up surveys were conducted by phone at
+ 9, 12, 22, 36 and 52 weeks after EDD to assess timing of
+ postpartum contraceptive take-up and method choice.
+ Enumerators made multiple attempts to contact partic-
+ ipants within a period of 3–4 weeks. Enumerators were
+ trained to probe on the timing of contraceptive take-up
+ if the participant did not remember the exact date with
+ the enumerator providing assistance in estimating the
+ date of contraceptive use. Everyone who participated
+ in a phone survey was sent phone credit worth between
+ US$0.46 and US$0.92 as an appreciation for participa-
+ tion. Data were also extracted on utilisation of care at
+ Jacaranda from Jacaranda’s administrative database from
+ the start of the study through June 2016 (ensuring at least
+ 7 months of follow-up administrative data for all partici-
+ pants) including all information on visits to Jacaranda for
+ family planning, any contraceptive methods received and
+ any payments made for family planning. Finally, we kept
+ programmatic data on the vouchers that were provided to
+ study participants, whether vouchers were redeemed and
+ information on when SMS reminders were sent. Addi-
+ tional details on data collection procedures are provided
+ in the online supplementary technical appendix.
+ Our primary outcome was self-reported current use of
+ a modern contraceptive method. Modern contraception
+ was defined as including IUDs and intrauterine systems,
+ implants, oral contraceptive pills, emergency contracep-
+ tive pills, condoms, injectables, patches, diaphragms/
+ cervical caps, spermicides, vaginal rings, vaginal sponges
+ and sterilisation. While the World Health Organization
+ (WHO) includes LAM in their definition of modern
+ contraceptive methods, LAM is sometimes distinguished
+ from other modern methods 28 as it can be effectively
+ practised with no costs, facility visits or products. Evidence
+ suggests that practice of LAM often lacks the reliability of
+ other methods and many mothers who report practising
+ LAM are not actually protected against pregnancy. 29 The
+ exclusion of LAM from our primary outcome of current
+ use of modern contraception is consistent with our
+ preregistered study outcome.
+ In order to understand the behavioural response to
+ treatments, we also reported post hoc analysis on an
+ outcome constructed from administrative data: take-up
+ of a modern contraceptive method at Jacaranda. Self-re-
+ ported survey data about take-up of contraception was
+ preregistered as our primary outcome instead of using
+ administrative data from the study facility because our
+ treatments sought to increase the salience of desires
+ around postpartum family planning, which may have led
+ participants to seek family planning in whatever clinic
+ was most convenient (not necessarily in the clinic where
+ they received ANC).
+ We report on modern contraceptive use in the ‘short-
+ term’ and ‘medium term’, which we define as 9 weeks and
+ 22 weeks after EDD. These time points were chosen to be
+ as close as possible to our first two waves of data collec-
+ tion in order to minimise recall bias. If we were unable
+ to complete one of the surveys, we inferred use at that
+ time-point from future surveys whenever possible. So, for
+ example, for a respondent who did not complete a 9-week
+ survey but did complete a 22-week survey, we constructed
+ her use of modern contraception at 9 weeks based on
+ whether she was using a method at the 22 week survey
+ and her report about when that method use started. This
+ method avoided losing data for inference but cannot
+ account for discontinuation. Short-term modern contra-
+ ceptive method use corresponds to a period shortly after
+ the WHO recommendation of contraceptive take-up by
+ weeks and allowed us to observe the immediate effects of
+ the SMS and deadline treatments. In order to understand 
+<section> how interventions influenced method choice, we
+ consider a secondary post hoc analysis not included in
+ our preregistered outcomes that examines whether study
+ participants are using a LARC method (defined as use of
+ an implant, intrauterine system or IUD).
+ 
+<section> Analytical approach
+ We estimate risk differences between treatment arms and
+ the control group using ordinary least squares (OLS)
+ with robust standard errors (SEs.) We use a linear model
+ for ease of interpretation 30 and estimate heteroscedas-
+ ticity robust SEs to avoid bias. 31 In our first model, we
+ include a control for study phase and enrolment facility
+ (stratification variables) in order to maximise power. 32 In
+ the fully adjusted model, we included the following addi-
+ tional covariates: maternal age (continuous), a binary
+ variable indicating whether a mother was multiparous,
+ a binary variable indicating some secondary education
+ or higher, a binary variable indicating previous use of
+ modern contraception, a binary variables indicating that
+ the mother did not want future children and a binary vari-
+ able indicating that her partner did not want future chil-
+ dren, a binary variable for intention to use postpartum
+ FP in the short-term, a continuous variable for the days
+ between enrolment and the EDD, a continuous variable
+ indicating travel cost to a study health facility, a binary
+ variable indicating that the participant's residence was
+ in the same sublocation as a study facility and a contin-
+ uous variable indicating the date of study enrolment. We
+ used case deletion for missing data and dummy-variable
+ adjustment to account for missing covariates. 33 In order
+ to further explore patterns in our results, we construct
+ a forest plot that compares the relationship between
+ take-up of family planning and (1) our main interven-
+ tions: receiving any SMS and receiving any voucher
+ and (2) participant characteristics including education,
+ self-reported intentions during ANC about take-up of
+ postpartum family planning in the short-term. Coeffi-
+ cients were generated from OLS regressions of the vari-
+ able of interest on the primary outcome of self-reported
+ use of a modern method in the medium-term controlling
+ for stratification variables (study phase and facility) with
+ robust SEs.
+ Descriptive statistics on covariates were presented for
+ the randomised sample and the sample followed to short-
+ term and medium-term outcomes and p-values were
+ reported for the test of differences in means between
+ the randomised sample and the short-term and medi-
+ um-term analysis samples. We report on two measures
+ of treatment fidelity using programmatic data: whether
+ the voucher that was randomly assigned was provided to
+ the study participant and whether an SMS was sent within
+ 1 week of the scheduled time (5 weeks after EDD). We
+ also presented descriptive statistics on voucher redemp-
+ tions, the monetary value of methods received using
+ the voucher and the timing of voucher redemptions
+ using programmatic data. We also presented descriptive
+ statistics on method type, location, cost and timing for
+ the first modern method initiated among the sample of
+ participants ever reporting that they initiated a modern
+ method in any of our surveys. We presented robustness
+ checks in online supplementary tables, including sepa-
+ rate estimates for the two study phases of data collection,
+ estimation of our main results with LAM included in
+ the definition of modern method use and estimation of
+ our main results using multiple imputation for individ-
+ uals with missing outcome data. In order to understand
+ concordance between self-reported survey data and
+ administrative data, we report comparisons of the rates
+ of agreement between survey and administrative data for
+ the primary outcomes among the short-term and medi-
+ um-term analysis samples, including an analysis of the
+ reported location where care was received among those
+ reporting use of a modern method. We also present the
+ distribution of methods obtained in each treatment arm
+ for those self-reporting use of modern method in the
+ medium term using a stacked bar graph.
+ 
+<section> Ethics
+ 
+<section> This study was approved by Institutional Review Boards
+ at Harvard T. H. Chan School of Public Health and the
+ Ethical and Scientific Review Committee of Amref Health
+ Africa (AMREF) in Nairobi, Kenya. The study design was
+ registered at ​soci​alsc​ienc​ereg​istry.​org with identification
+ number AEARCTR-0000320.
+ 
+<section> Results
+ 
+<section> Of the 686 study participants enrolled in the study,
+ we followed 78% of the sample (537 respondents) to
+ collect data on the short-term outcomes with 17% of
+ responses from the 9-week survey, 79% of responses
+ from the 12-week survey and 3% of responses from
+ the 22-week, 36-week or 52-week survey. We observe
+ 61% of the sample to collect data on the medium-term
+ outcomes (418 respondents), with 90% of outcomes
+ constructed using the 22-week survey, and 10% of
+ responses constructed using the 36-week or 52-week
+ survey. The short-term and medium-term contraceptive
+ use outcomes correspond to a mean of 63 days after
+ actual delivery (95% CI 62 to 64) and 154 days after
+ actual delivery (95% CI 153 to 155) among our study
+ participants.
+ We present characteristics of the study sample in
+ table 1. Sixty-seven per cent of participants report
+ having used modern contraceptive methods in the past.
+ Thirty per cent of respondents report not wanting any
+ more children, while 21% reported that their male part-
+ ners did not want more children. Thirty-two per cent
+ of study participants reported during their pregnancy
+ that they hoped to start using modern contraceptive
+ methods by the short-term outcome time-point defined
+ in our analysis. Women were an average of 42 days from
+ their EDD at the time of enrolment. The average partic-
+ ipant had travelled 30 min to arrive at the maternity
+ clinic for care. Characteristics of the enrolment sample 
+<insert> Randomised
+ sample [sample
+ 1]
+ Short-term
+ sample [sample
+ 2]*
+ Medium-term
+ sample [sample
+ 3]† Difference: (p values)
+ [sample 2]
+ versus [sample
+ 1]
+ [sample 3]
+ versus [sample
+ % / mean (n) % / mean (n) % / mean (n) 1]
+ Female age (years)‡
+ Female secondary
+ education or higher‡
+ 24.70 (612) 24.68 (484)
+ 0.83 (356/427)
+ 24.68 (384)
+ 0.84 (297/353)
+ (0.940)
+ (0.884)
+ (0.943)
+ (0.660)
+ Multiparous‡ 0.63 (398/632) 0.62 (307/497) 0.63 (245/391) (0.679) (0.920)
+ Previous use of modern
+ contraception
+ 0.67 (361/536) 0.66 (275/418) (0.986) (0.584)
+ 0.67 (461/684)
+ Female preference for no
+ future children
+ 0.29 (157/535) 0.30 (126/417) (0.887) (0.863)
+ 0.30 (203/683)
+ Male partner preference for
+ no future children 0.21 (131/635)
+ 0.21 (106/502) 0.21 (84/393) (0.842) (0.777)
+ Antenatal intention to use
+ short-term postpartum
+ contraception
+ 0.30 (162/534) 0.31 (130/416) (0.657) (0.924)
+ 41.05 (536) 39.32 (418) (0.735) (0.138)
+ 30.31 (531) 31.08 (415) (0.936) (0.618)
+ 0.78 (537/686) 0.61 (418/686)
+ 0.83 (435/524)
+ 0.32 (215/682)
+ Days between study
+ enrolment and estimated
+ date of delivery 41.53 (683)
+ Travel time to Jacaranda
+ Health facility (in min)
+ Remained in sample
+ 30.41 (677)
+ – – –
+ Modern contraception includes the following methods: sterilisation (female or male), intrauterine devices and systems, implants, oral
+ contraceptive pills (combined and progestin-only), emergency contraceptive pills, condoms (male/female), injectables, patches, diaphragms/
+ cervical caps, spermicides, vaginal ring and vaginal sponge. P values generated using ordinary least squares estimation. All models include
+ a binary variable indicating enrolment facility and a binary variable indicating study phase (1 or 2). Antenatal intention to use short-term
+ postpartum contraception is defined as a stated baseline intention to use contraception by 9 weeks postpartum. P values generated using
+ t-tests assuming unequal variance.
+ *Sample of participants with complete data on short-term postpartum modern family planning use.
+ † Sample of participants with complete data on medium-term postpartum modern family planning use.
+ ‡ Data source is Jacaranda's electronic medical records; all other indicators collected via baseline antenatal survey.
+ Table 1 Baseline characteristics of randomised and surveyed samples 
+<iend>
+
+ and the sample reached for the short-term and medi-
+ um-term contraceptive use outcome were similar. We
+ report descriptive statistics separated by treatment arm
+ for the randomised sample (online supplementary
+ table S3a), short-term sample (online supplementary
+ table S3b) and medium-term sample (online supple-
+ mentary table S3c). In online supplementary table S4,
+ we present rates of follow-up surveys by treatment arm
+ and phase. Rates of follow-up on primary outcomes
+ tended to be slightly lower in the control arm, but
+ characteristics of the follow-up samples were largely
+ balanced across treatment arms.
+ We present information about treatment fidelity,
+ redemption of study vouchers and take-up of post-
+ partum contraception in table 2. The vast majority of
+ participants received the treatment they were assigned
+ to receive, with 98% of those assigned to receive a
+ voucher receiving the correct voucher and 95% of
+ those assigned to receive an SMS being sent an SMS
+ within 1 week of the scheduled time. Twenty per cent of
+ study participants assigned to receive a voucher for free
+ contraception redeemed the voucher at study clinics.
+ Among self-reported users of modern contraceptive
+ methods who report currently using a LARC method by
+ the short-term follow-up, 42% redeemed their voucher,
+ while just 17% of users who chose a non-LARC method
+ redeemed their voucher. The value of the average
+ voucher redeemed was $4.26. The average value of the
+ voucher redemption for LARC methods was $4.92 and
+ for non-LARC methods was $2.59. Among all those
+ who redeemed a voucher, the average number of days
+ between EDD and redemption of the voucher was
+ days.
+ At first postpartum contraceptive initiation, the most
+ common methods were implant (32%), injectables
+ (27%) and contraceptive pills (27%). Thirty-seven
+ per cent of participants reporting modern contracep-
+ tive use first initiated contraceptive methods at the
+ private clinic where we enrolled study participants,
+ while others accessed contraceptive methods at a
+ public facility (27%), other private facility (21%) or
+ ‘chemist’/pharmacy (15%). At first postpartum use of 
+<insert> Panel A Treatment fidelity*
+  Share of participants assigned to voucher that receive the correct
+  Share of participants assigned to receive short message service
+ week of scheduled time
+ Panel B Voucher redemptions*
+  Voucher ever redeemed, among participants randomised to
+  Voucher redeemed, among users of LARC in the short-term
+  Voucher redeemed, among users of non-LARC in the short-term
+  Value of redeemed voucher
+   All methods
+   Long-acting reversible method (LARC)
+   Non-LARC
+  Days between estimated date of delivery (EDD) and voucher
+ redeeming vouchers
+ Panel C Characteristics of first postpartum contraceptive initiated
+  Contraceptive method type, among users initiating any modern
+   Oral pills (combined or progestin-only)
+   Injectables
+   Intrauterine device/system
+   Implant
+   Condoms
+   Emergency pills
+   Tubal ligation or vasectomy
+  Location family planning accessed, among users initiating any
+   Jacaranda facility
+   Other private facility
+   Public facility
+   Chemist, pharmacy or other location
+  Cost of contraception, among users reporting initiating any
+  Days between EDD and first modern method initiation
+ See table 1 notes for definition of modern contraception. Short-term
+ outcomes are constructed using all available survey data in the relevant
+ or 9 months or 1 year after the participant's EDD. Panel C describes
+ the postpartum period (within 1 year of delivery). The reduced sample
+ information on first modern method initiated was collected at the 3-month
+ cost of current method if method not obtained at a health facility.
+ *Programmatic data collected by study team.
+ †Cost in Kenyan shillings converted to US$ based on mean of monthly
+ Table 2 Descriptive statistics of contraceptive use 
+<iend>
+
+ 
+<section> modern
+ 
+<section> postpartum
+ 
+<section> characteristics
+ 
+<section> modern contraception, the average user paid US$1.50.
+ The average time-period between EDD and initiating
+ modern contraceptive use was 83 days for participants
+ who initiated contraception during the study follow-up
+ period.
+ The impact of the interventions on self-reported
+ contraceptive take-up and timing from participant
+ surveys was presented in table 3. In the control group,
+ 32% of the sample was using modern contraceptive
+ methods at the short-term time-point, and 58% of
+ participants were using modern contraceptive methods
+ 
+<section> voucher type
+ SMS that are sent an SMS within
+ 
+<section> receive a voucher
+ postpartum period
+ postpartum period
+ 
+<section> redemption, among participants
+ 
+<section> method (self-reported)
+ 
+<section> modern method (self-reported)
+ method (US$), self-reported†
+ outcomes as defined as 63 days after
+ time window and may include surveys scheduled
+ of first initiation of modern contraception
+ size for cost of modern contraception is due to observations
+ follow-up survey only; this survey did not include
+ conversion rates over enrolment period (April 2014–September
+ 
+<section> at the medium-term time-point. None
+ tions had a statistically significant impact
+ hood of using modern contraception
+ The estimated effects of standard
+ with SMS (12 percentage points (pp),
+ 30 pp) and deadline voucher combined
+ pp, 95% CI −9 pp to 31 pp) on short-term
+ use were large and positive, but the estimates
+ cise. By the medium-term time-point,
+ using modern contraception for those
+ standard voucher with SMS was 25 pp
+ 
+<section> % / mean (n)
+ 
+<section> 0.98 (451/460)
+ 
+<section> 0.95 (165/174)
+ 
+<section> 0.20 (93/460)
+ 
+<section> 0.42 (32/77)
+ 
+<section> 0.17 (19/115)
+ 
+<section> $4.26 (92)
+ 
+<section> $4.92 (66)
+ 
+<section> $2.59 (26)
+ 
+<section> 71.16 (93)
+ 
+<section> 0.267
+ 
+<section> 0.272
+ 
+<section> 0.059
+ 
+<section> 0.323
+ 
+<section> 0.064
+ 
+<section> 0.005
+ 
+<section> 0.010
+ 
+<section> 0.367
+ 
+<section> 0.214
+ 
+<section> 0.271
+ 
+<section> 0.148
+ 
+<section> $1.50 (353)
+ 
+<section> 83.10 (386)
+ 
+<section> the EDD. Survey
+ 
+<section> for 9 weeks, 3,
+ at any time in
+ 
+<section> for which
+ 
+<section> information on
+ 
+<section> 2015).
+ 
+<section> of the interven-
+ 
+<section> on the likeli-
+ in the short term.
+ voucher combined
+ 
+<section> 95% CI −5 pp to
+ 
+<section> with SMS (11
+ 
+<section> contraceptive
+ 
+<section> are impre-
+ the probability of
+ 
+<section> who received a
+ 
+<section> higher than the 
+<insert> Treatment effects (risk differences)
+ Use of any modern method (primary) Use of long-acting method
+ Model Model Model Model
+ Panel A Short-term postpartum utilisation of modern contraception, for N=537 study participants
+  Short message service (SMS) only −0.02 (−0.20 to 0.16) −0.01 (−0.18 to 0.17) 0.00 (−0.12 to 0.12) 0.02 (−0.10 to 0.14)
+  Standard voucher 0.04 (−0.07 to 0.15) 0.03 (−0.08 to 0.14) −0.02 (−0.09 to 0.06) −0.03 (−0.11 to 0.05)
+  Standard voucher+SMS 0.12 (−0.05 to 0.30) 0.16 (−0.01 to 0.33) 0.08 (−0.06 to 0.21) 0.08 (−0.06 to 0.22)
+  Deadline voucher 0.04 (−0.08 to 0.15) 0.06 (−0.06 to 0.18) 0.02 (−0.06 to 0.11) 0.03 (−0.06 to 0.12)
+  Deadline voucher+SMS 0.11 (−0.09 to 0.31) 0.14 (−0.07 to 0.35) 0.02 (−0.12 to 0.17) 0.06 (−0.09 to 0.21)
+  Reference level (%) (no voucher, no SMS) 0.32 0.32 0.13 0.13
+ Panel B Medium-term postpartum utilisation of modern contraception, for N=418 study participants
+  SMS only 0.16 (−0.06 to 0.38) 0.18 (−0.01 to 0.38) 0.01 (−0.19 to 0.21) 0.02 (−0.22 to 0.19)
+  Standard voucher 0.02 (−0.11 to 0.15) 0.03 (0.10 to 0.16) 0.01 (−0.11 to 0.13) 0.01 (−0.11 ti 0.12)
+  Standard voucher+SMS 0.25 (0.06 to 0.44) 0.26 (0.07 to 0.45) 0.20 (−0.00 to 0.41) 0.18 (−0.04 to 0.39)
+  Deadline voucher −0.03 (−0.17 to 0.10) 0.01 (−0.12 to 0.15) 0.02 (−0.11 to 0.14) 0.04 (−0.09 to 0.17)
+  Deadline voucher+SMS 0.08 (−0.16 to 0.32) 0.09 (−0.14 to 0.32) 0.06 (−0.16 to 0.28) 0.05 (−0.18 to 0.29)
+  Reference level (%) (no voucher, no SMS) 0.58 0.58 0.27 0.27
+ OLS estimates are presented as risk differences (in proportions), with 95% CIs using robust SEs in italics and brackets. Model 1 includes only stratification
+ variables. Model 2 includes stratification variables and controls for additional covariates described in the text. All treatment arms are compared with the standard
+ of care arm (no voucher, no SMS) as the reference category. See table 1 notes for definition of modern and LARC contraception. Short-term and medium term are
+ defined as 9 weeks and 22 weeks after EDD. See text and technical appendix for more detailed description of main outcomes.
+ Table 3 Ordinary least squares (OLS) model estimates of treatment effects on self-reported postpartum utilisation of modern
+ contraception 
+<iend>
+
+ control arm (95% CI 6 pp to 44 pp). The estimated
+ impact of the SMS alone was also large, though the CI
+ is imprecise (16 pp, 95% CI −6 pp to 38 pp). None of
+ the other treatment arms were estimated to statistically
+ significantly increase the likelihood of modern contra-
+ ceptive use in the medium-term.
+ We found that 13% of the control sample reported
+ initiating LARC in the short-term time-point, while
+ 27% of the control group reported initiating by the
+ medium-term time-point (bottom rows of panels A
+ and B of table 3). We did not see evidence of statisti-
+ cally significant impacts of any of the interventions in
+ terms of short-term use of LARC. We found that the
+ standard voucher combined with SMS increased the
+ likelihood of taking up LARC in the medium term by
+ 20 pp compared with the control group (95% CI 0 pp
+ to 41 pp), though the estimated CI is imprecise. None
+ of the other treatment arms statistically significantly
+ increased the likelihood of modern contraceptive use,
+ or LARC methods in the medium term.
+ We see that across most models, estimated treatment
+ effects for arms assigned to receive SMS were higher
+ than those not receiving SMS. Figure 1 presents a forest
+ plot demonstrating relationships between pooled
+ treatments and individual characteristics and take-up
+ of modern methods in the medium-term. We did not
+ see evidence that those receiving vouchers were more
+ likely to report using contraception in the medium
+ term than those who did not. Individuals assigned to
+ receive any SMS were 19 pp more likely to report using
+ contraception in the medium term than those who did
+ not (95% CI 4 pp to 33 pp). We found that individ-
+ uals who report an intention to start family planning in
+ the short term were 16 pp more likely to report using
+ family planning in the medium term (95% CI 7 pp to
+ 26 pp) and that individuals who were pregnant for the
+ first time at baseline were 10 pp less likely to report
+ contraceptive use (95% CI −20 pp to −0.3 pp). Partic-
+ ipant’s education and delivery in a study facility were
+ not associated with self-reported take-up of modern
+ methods.
+ We consider the impact of treatments on receiving
+ a modern contraceptive method from the study clinic
+ using data from administrative records in table 4. Thir-
+ teen per cent of study participants in the control group
+ had received a modern method by the short-term
+ follow-up window and 21% had received a modern
+ method by the medium-term follow-up window.
+ Though treatments combining vouchers with SMS tend
+ to have higher estimated probabilities of receiving a
+ modern method and the estimated impact is largest
+ in the standard voucher with SMS arm, the CIs were
+ imprecise and estimated impacts were not statistically
+ significantly different from the control groups.
+ We conducted sensitivity analyses in online supple-
+ mentary table S5 (results with primary outcomes
+ separated by phase), online supplementary table S6
+ (results with outcomes from administrative data sepa-
+ rated by phase), online supplementary table S7 (results
+ including LAM) and S8 (with multiple imputation
+ for missing outcome). We observed similar patterns
+ of results across these sensitivity analyses, though esti-
+ mated effects using multiple imputation were quite
+ imprecise. We present a comparison of self-reported
+ and administrative data outcomes in online supple-
+ mentary table S9. In online supplementary table S10, 
+<insert> Figure 1 Forest plot of pooled treatments and individual characteristics on self-reported medium-term contraceptive use.
+ OLS, ordinary least squares; PP, percentage point. 
+<iend>
+
+ we reported descriptive statistics on the average take-up
+ of specific methods across treatment arms.
+ 
+<section> Discussion
+ 
+<section> We found that that the combination of free contra-
+ ception and an SMS reminder increased take-up of
+ modern contraceptive methods in the postpartum
+ period. There are a number of reasons why combining
+ a voucher for free contraception with an SMS reminder
+ may have increased take-up. It may be because the
+ combination of the voucher and SMS addressed both
+ cost and behavioural barriers to take-up. The likeli-
+ hood of redeeming the voucher for free contraception
+ was higher among participants who used a long-acting
+ reversible method compared with other methods,
+ suggesting that the voucher may have been especially
+ helpful among women interested in using LARC.
+ This could be because LARC methods typically come
+ at higher out-of-pocket cost and are not always avail-
+ able in public facilities without trained providers.
+ It could also be the case that, in addition to relaxing
+ cost constraints, the voucher increased the salience of
+ the need for postpartum family planning, in particular
+ when combined with the reminder that draws attention
+ to the voucher. Unfortunately, our data did not allow us
+ to identify the precise mechanism by which the combi-
+ nation of vouchers and SMS reminders increased take-
+ up.
+ In our study, the provision of a voucher for free
+ contraception alone was not sufficient to increase
+ take-up of modern methods. While the majority
+ of our sample was using a modern method by the
+ medium-term time-point, overall redemption rates
+ of the voucher were low (20%), and the estimated
+ impacts of treatments on acquiring contraception
+ in the study clinics were small and statistically insig-
+ nificant. The limited use of vouchers in our study is
+ consistent with findings from other evaluations of
+ voucher programme. 17 This may be because women
+ can receive contraception from a variety of locations,
+ including private facilities, retail outlets and public
+ facilities (where Kenya’s national policy is to provide
+ postpartum contraception for free). Some women
+ may decide to receive postpartum contraception in
+ the facility where they delivered their baby or where
+ they take their child for immunisation. Indeed, nearly
+ two-thirds of those who ever report use of a modern
+ method received their first postpartum modern
+ method from a location other than the study facility
+ where they enrolled during ANC. 
+<insert> Use of any modern method
+ Treatment effects (% difference) Model Model
+ Panel A Short-term postpartum uptake of modern contraception, for N=686 study participants
+  Short message service (SMS) only −0.02 (−0.13 to 0.09) −0.01 (−0.12 to 0.10)
+  Standard voucher −0.02 (− 0.09 to 0.05) −0.02 (−0.09 to 0.05)
+  Standard voucher+SMS 0.03 (−0.07 to 0.14) 0.04 (−0.07 to 0.15)
+  Deadline voucher 0.04 (−0.04 to 0.11) 0.05 (−0.03 to 0.13)
+  Deadline voucher+SMS 0.06 (−0.07 to 0.18) 0.08 (−0.05 to 0.22)
+  Reference level (%) (no voucher, no SMS) 0.13 0.13
+ Panel B Medium-term postpartum uptake of modern contraception, for N=686 study participants
+  SMS only −0.03 (−0.16 to 0.10) −0.03 (−0.15 to 0.10)
+  Standard voucher 0.03 (−0.06 to 0.12) 0.05 (−0.04 to 0.14)
+  Standard voucher+SMS 0.06 (−0.07 to 0.19) 0.07 (−0.05 to 0.20)
+  Deadline voucher 0.00 (−0.09 to 0.09) 0.04 (−0.05 to 0.13)
+  Deadline voucher+SMS
+  Reference level (%) (no voucher, no SMS)
+ 0.02 (−0.12 to 0.16)
+ 0.21
+ 0.07 (−0.08 to 0.21)
+ 0.21
+ OLS estimates are presented as risk differences (in proportions), with 95% CIs using robust SEs in italics and brackets. Model 1 includes
+ only stratification variables. Model 2 includes stratification variables and controls for additional covariates described in the text. All treatment
+ arms are compared with the standard of care arm (no voucher, no SMS) as the reference category. See table 1 notes for definition of modern
+ and LARC contraception. Short-term and medium term are defined as 9 weeks and 22 weeks after EDD. See text and technical appendix for
+ more detailed description of main outcomes.
+ Table 4 Ordinary least squares model estimates of treatment effects on postpartum receipt of modern contraception from
+ study facility (administrative records) 
+<iend>
+
+ We also found that those who received SMS reminders
+ were more likely to take-up modern methods in the
+ medium-term than those who did not. It is somewhat
+ surprising that the SMS reminder seems to have had
+ more influence in the medium term than it does in the
+ short term (immediately after messages were sent). It
+ may be that the SMS reminder increased the salience
+ of desires around birth spacing and postpartum family
+ planning but participants were not immediately able
+ to act that the response was not immediate due to the
+ need to confer with partners, develop a plan for visiting
+ a facility or other factors.
+ Our evidence also suggests that not all behavioural
+ nudges are effective in increasing postpartum contra-
+ ceptive take-up. We find limited evidence that incorpo-
+ rating a deadline to use the voucher drives either early
+ or eventual take-up of modern postpartum contracep-
+ tive methods. While our deadline was chosen to occur
+ after the recommended initiation timing of postpartum
+ contraception at 6 weeks by the WHO, it may nonetheless
+ have been sent earlier than many women were ready to
+ consider modern methods, particularly LARC methods.
+ Reminders offer greater flexibility than a strict dead-
+ line, 35 and this flexibility may be especially appropriate
+ in the context of the many demands of the postpartum
+ period.
+ Our experiment has important limitations. This was
+ a pilot study with a modest sample size that was further
+ limited by attrition. Attrition in this study was driven by
+ the highly mobile nature of this urban population and
+ the fact that we were attempting to contact women at a
+ time when they were caring for a new baby. We demon-
+ strated that demographic characteristics of the sample
+ we were able to follow were not significantly different
+ from the enrolled sample and that our findings were
+ qualitatively similar when we use multiple imputation
+ to infer missing outcome data. Another limitation of
+ our study is that we relied on self-report of take-up and
+ timing of postpartum contraceptive use for our primary
+ outcome. As self-reports of contraceptive use are
+ costly and onerous to verify, there is limited rigorous
+ evidence of the validity of self-reported contraceptive
+ use. 36 In our study, we generally see consistency across
+ self-report outcomes and outcomes from administra-
+ tive data. We surveyed new mothers at high frequency
+ in the postpartum period in order to avoid relying on
+ long recall periods to reconstruct the timing of their
+ use of postpartum family planning. While social desir-
+ ability bias is a significant problem in many studies of
+ contraceptive take-up that rely on self-reports, 37 74%
+ of participants in our study report at baseline that they
+ plan to use family planning at some point in the post-
+ partum period, suggesting high acceptability of post-
+ partum contraception in this population.
+ Finally, our study sample draws only from women
+ who have attended ANC in two private maternity facil-
+ ities located in the informal settlements of Nairobi
+ who have access to a cell phone. An estimated 84% of
+ adults living in Nairobi own a cell phone, suggesting
+ that we are unlikely to exclude a significant portion 
+<section> of our sample based on access to a cell phone within
+ their household. 38 Within our selected sample, we find
+ similar but slightly higher rates of postpartum contra-
+ ceptive use compared with a previous study in Nairobi’s
+ 
+<section> informal settlements.
+ 
+<section> International efforts to increase access to postpartum
+ contraception have focused on designing voucher
+ programmes that decrease or remove the cost of modern
+ contraceptive methods to users. Evidence that a voucher
+ for free contraception is not enough to increase take-up,
+ but a free voucher combined with a simple reminder can
+ significantly increase take-up of modern contraception
+ has implications for the design of voucher and transfer
+ programme. Voucher programmes should consider how
+ to design financial supports in a way that accounts for
+ potential behavioural frictions in the postpartum period.
+ There is relatively little prior evidence on the impact of
+ reminders on contraceptive take-up in general and in the
+ postpartum period in particular. 40 Our study provides some
+ of the first evidence from a randomised controlled trial to
+ evaluate the impact of SMS reminders on contraceptive
+ use. Our evidence fills an important gap in the literature
+ on delivery strategies for promoting postpartum family
+ planning in sub-Saharan Africa. 41 Furthermore, we provide
+ evidence on strategies to improve utilisation of postpartum
+ contraception among a population of urban poor, helping
+ to close the gap in knowledge, improving contraceptive
+ take-up across socioeconomics groups 42 and ensuring
+ 
+<section> equity of access to modern contraception.
+ 
+<section> Conclusion
+ 
+<section> Despite significant health risks to mother and baby of
+ closely spaced births and substantial desire to improve
+ birth-spacing, take-up of modern contraceptive methods
+ remains low in the postpartum period. We find that
+ combining a behavioural nudge (an SMS reminder) with
+ a voucher for free postpartum contraception increases
+ the take-up of modern methods. Our study highlights
+ the need for policy makers to consider multiple different
+ kinds of barriers to the take-up of contraceptive methods
+ 
+<section> in the postpartum period.
+ 
+<section> Contributors MM designed the study, secured funding for the study, designed
+ data collection tools, performed data analysis, drafted the manuscript and edited
+ the manuscript. CWR designed data collection tools, fielded the study, performed
+ data analysis and reviewed the manuscript. AE and FM designed data collection
+ tools, fielded the study and reviewed the manuscript. JC designed the study,
+ secured funding for the study, designed data collection tools, contributed to
+ data analysis, contributed to drafting and editing manuscript and reviewed the
+ manuscript.
+ 
+<section> Funding We gratefully acknowledge funding from the William and Flora Hewlett
+ Foundation (Grant number2014-9962). This project was also made possible
+ through the generous support of the Saving Lives at Birth partners: the United
+ States Agency for International Development (USAID), the Government of
+ Norway, the Bill & Melinda Gates Foundation, Grand Challenges Canada, the U.K.
+ Department for International Development (DFID), and the Korea International
+ Cooperation Agency (KOICA). It was prepared by the authors and does not
+ necessarily reflect the views of any funders.
+ 
+<section> Competing interests None declared.
+ 
+<section> Patient consent Not required.
+ 
+<section> Ethics approval This study was approved by Institutional Review Boards at Harvard
+ T H Chan School of Public Health and the Ethical and Scientific Review Committee of
+ Amref Health Africa (AMREF) in Nairobi, Kenya.
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data sharing statement Data from this manuscript are not available to share at
+ this moment. Interested researchers should contact the corresponding author.
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which
+ permits others to distribute, remix, adapt, build upon this work non-commercially,
+ and license their derivative works on different terms, provided the original work is
+ properly cited, appropriate credit is given, any changes made indicated, and the
+ use is non-commercial. See: http://​creativecommons.​org/​licenses/​by-​nc/​4.​0/
+ 
+<section> References
+ 1. Ahmed S, Li Q, Liu L, et al. Maternal deaths averted by contraceptive
+ use: an analysis of 172 countries. Lancet 2012;380:111–25.
+ 2. Cleland J, Conde-Agudelo A, Peterson H, et al. Contraception and
+ health. Lancet 2012;380:149–56.
+ 3. DeFranco EA, Seske LM, Greenberg JM, et al. Influence of
+ interpregnancy interval on neonatal morbidity. Am J Obstet Gynecol
+ 2015;212:386.e1–386.e9.
+ 4. Conde-Agudelo A, Rosas-Bermúdez A, Kafury-Goeta AC. Birth
+ spacing and risk of adverse perinatal outcomes: a meta-analysis.
+ 
+<section> JAMA 2006;295:1809–23.
+ 5. Ball SJ, Pereira G, Jacoby P, et al. Re-evaluation of link
+ between interpregnancy interval and adverse birth outcomes:
+ retrospective cohort study matching two intervals per mother. BMJ
+ 2014;349:g4333.
+ 6. Kohler H, Behrman JR. Population and demography assessment
+ paper: Benefits and costs of the population and demography targets
+ for the post-2015 development agenda. Copenhagen consensus
+ center. Pennsylvania: University of Pennsylvania, 2014.
+ 7. Cleland J, Bernstein S, Ezeh A, et al. Family planning: the unfinished
+ agenda. Lancet 2006;368:1810–27.
+ 8. Cahill N, Sonneveldt E, Stover J, et al. Modern contraceptive use,
+ unmet need, and demand satisfied among women of reproductive
+ age who are married or in a union in the focus countries of the
+ 
+<section> Family Planning 2020 initiative: a systematic analysis using the
+ Family Planning Estimation Tool. Lancet 2018;391:870–82.
+ 9. Postpartum family planning global movement follow-up workshop,
+ 2016.
+ 10. World Health Organization. Unmet need for family planning, 2015.
+ 11. Moore Z, Pfitzer A, Gubin R, et al. Missed opportunities for family
+ planning: an analysis of pregnancy risk and contraceptive method
+ use among postpartum women in 21 low- and middle-income
+ countries. Contraception 2015;92:31–9.
+ 12. Gakidou E, Vayena E. Use of modern contraception by the poor is
+ falling behind. PLoS Med 2007;4:e31.
+ 13. Fotso JC, Cleland J, Mberu B, et al. Birth spacing and child
+ mortality: an analysis of prospective data from the Nairobi urban
+ health and demographic surveillance system. J Biosoc Sci
+ 2013;45:779–98.
+ 14. Mumah JN, Machiyama K, Mutua M, et al. Contraceptive Adoption,
+ Discontinuation, and Switching among Postpartum Women in
+ Nairobi's Urban Slums. Stud Fam Plann 2015;46:369–86.
+ 15. Bellows B, Bulaya C, Inambwae S, et al. Family Planning Vouchers in
+ 
+<section> Low and Middle Income Countries: A Systematic Review. Stud Fam
+ Plann 2016;47:357–70.
+ 16. Curtis KM, Peipert JF. Long-acting reversible contraception. N Engl J
+ Med 2017;376:461–8.
+ 17. Njuki R, Obare F, Warren C, et al. Community experiences and
+ perceptions of reproductive health vouchers in Kenya. BMC Public
+ Health 2013;13:660.
+ 18. Ashton G, Holcombe M. A review of behavioral economics in
+ reproductive health. Behavioral Economics in Reproductive Health
+ 
+<section> Initiative: The Center for Effective Global Action, 2015.
+ 19. Mani A, Mullainathan S, Shafir E, et al. Poverty impedes cognitive
+ function. Science 2013;341:976–80.
+ 20. Shah AK, Mullainathan S, Shafir E. Some consequences of having
+ too little. Science 2012;338:682–5.
+ 21. Karlan D, McConnell M, Mullainathan S. Getting to the top of mind:
+ How reminders increase Saving. Manage Sci 2016;62:3393–411.
+ 22. Kruk ME, Kujawski S, Moyer CA, et al. Next generation maternal
+ health: external shocks and health-system innovations. Lancet
+ 2016;388:2296–306. 
+<section> 23. Ariely D, Wertenbroch K. Procrastination, deadlines, and
+ performance: self-control by precommitment. Psychol Sci
+ 2002;13:219–24.
+ 24. Lindenmeyer A, Hearnshaw H, Vermeire E, et al. Interventions to
+ improve adherence to medication in people with type 2 diabetes
+ mellitus: a review of the literature on the role of pharmacists. J Clin
+ Pharm Ther 2006;31:409–19.
+ 25. Beguy D, Elung'ata P, Mberu B, et al. Health & demographic
+ surveillance system profile: the nairobi urban health and
+ demographic surveillance system (NUHDSS). Int J Epidemiol
+ 2015;44:462–71.
+ 26. Kenya National Bureau of Statistics. The 2009 Population and
+ Housing Census Nairobi. Kenya, 2010.
+ 27. KNBS and ICF Macro. Kenya Demographic and Health Survey 2008-
+ 
+<section> 09, 2010.
+ 28. Winfrey MBaW. Postpartum fertility and contraception: an analysis of
+ findings from 17 countries, 2010.
+ 29. Van der Wijden C, Kleijnen J, Van den Berk T. Lactational
+ amenorrhea for family planning. Cochrane database syst rev
+ 2003;4:Cd001329.
+ 30. Hellevik O. Linear versus logistic regression when the dependent
+ variable is a dichotomy. Qual Quant 2009;43:59–74.
+ 31. Wooldridge J. Econometric analysis of cross section and panel data.
+ 
+<section> MIT Press, 2002.
+ 32. Kahan BC, Morris TP. Reporting and analysis of trials using stratified
+ randomisation in leading medical journals: review and reanalysis.
+ 
+<section> 345. British Medical Journal, 2012.
+ 33. Puma MJ, Olsen RB, Bell SH. What to do when data are missing in
+ group randomized controlled trials 2009.
+ 
+<section> 34. Duvall S, Thurston S, Weinberger M, et al. Scaling up delivery
+ of contraceptive implants in sub-saharan africa: operational
+ experiences of marie stopes international. Glob Health Sci Pract
+ 2014;2:Science and Practice:72–92.
+ 35. Bryan G, Karlan D, Nelson S. Commitment Devices. Annu Rev
+ Econom 2010;2:671–98.
+ 36. Smith C, Edwards P, Free C. Assessing the validity and reliability
+ of self-report data on contraception use in the MObile Technology
+ for Improved Family Planning (MOTIF) randomised controlled trial.
+ 
+<section> Reprod Health 2018;15:50.
+ 37. Stuart GS, Grimes DA. Social desirability bias in family planning
+ studies: a neglected problem. Contraception 2009;80:108–12.
+ 38. Wesolowski A, Eagle N, Noor AM, et al. Heterogeneous mobile
+ phone ownership and usage patterns in Kenya. PLoS One
+ 2012;7:e35319.
+ 39. Ndugwa RP, Cleland J, Madise NJ, et al. Menstrual pattern,
+ sexual behaviors, and contraceptive use among postpartum
+ women in Nairobi urban slums. J Urban Health 2011;88(Suppl
+ 2):341–55.
+ 40. Sondaal SF, Browne JL, Amoakoh-Coleman M, et al. Assessing the
+ effect of mhealth interventions in improving maternal and neonatal
+ care in low- and middle-income countries: a systematic review.
+ 
+<section> PLoS One 2016;11:e0154664.
+ 41. Cleland J, Shah IH, Daniele M. Interventions to improve
+ postpartum family planning in low- and middle-income countries:
+ program implications and research priorities. Stud Fam Plann
+ 2015;46): :423–41.
+ 42. Gillespie D. Contraceptive use and the poor: a matter of choice?
+ PLoS Med 2007;4:e49.

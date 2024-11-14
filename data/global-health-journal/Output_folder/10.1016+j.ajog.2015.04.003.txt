@@ -1,0 +1,1015 @@
+
+<section> HHS Public Access
+ 
+<section> Author manuscript
+ Am J Obstet Gynecol. Author manuscript; available in PMC 2016 August
+ Author
+ 
+<section> Published in final edited form as:
+ Am J Obstet Gynecol. 2015 August ; 213(2): 194.e1–194.e8. doi:10.1016/j.ajog.2015.04.003.
+ 
+<section> Manuscript
+ 
+<section> Cranberry juice capsules and urinary tract infection post
+ 
+<section> surgery: Results of a randomized trial
+ 
+<section> Betsy Foxman, Ph.D. , 
+<section> Ms. Anna E.W. Cronenwett, B.A. , 
+<section> Cathie Spino, ScD , 
+<section> Mitchell B.
+ 
+<section> Berger, M.D., Ph.D , and 
+<section> Daniel M. Morgan, M.D
+ Center for Molecular and Clinical Epidemiology of Infectious Diseases and Department of
+ Epidemiology, University of Michigan School of Public Health
+ 
+<section> Author
+ Department of Biostatistics, and Statistical Analysis of Biomedical and Educational Research
+ unit (SABER), University of Michigan School of Public Health
+ 
+<section> Manuscript
+ Department of Obstetrics and Gynecology, University of Michigan School of Medicine
+ 
+<section> Abstract
+ 
+<section> Objective—The risk of urinary tract infection (UTI) among women undergoing elective
+ gynecologic surgery where a catheter is placed is high: 10 to 64% following catheter removal. We
+ conducted the first randomized, double-blind, placebo-controlled trial of the therapeutic efficacy
+ of cranberry juice capsules in preventing UTI post surgery.
+ 
+<section> Study Design—We recruited patients from a single hospital between August 2011 and January
+ 
+<section> Author 2013. Eligible participants were undergoing elective gynecologic surgery that did not involve a
+ fistula repair or vaginal mesh removal. 160 patients were randomized and received two cranberry
+ juice capsules two times a day, equivalent to two 8-ounce servings of cranberry juice, for 6 weeks
+ 
+<section> Manuscript after surgery, or matching placebo. The primary endpoint was the proportion of participants who
+ experienced clinically-diagnosed and treated UTI with or without positive urine culture. Kaplan-
+ Meier plots and logrank tests compared the two treatment groups.
+ 
+<section> Results—The occurrence of UTI was significantly lower in the cranberry treatment group
+ compared to the placebo group (15/80 (19%) versus 30/80 (38%); OR=0.38; 95% CI: 0.19, 0.79;
+ p=0.008). After adjustment for known confounders, including frequency of intermittent self-
+ catheterization in the post- operative period, the protective effects of cranberry remained
+ (OR=0.42; 95% CI: 0.18, 0.94). There were no treatment differences in the incidence of adverse
+ events; including gastrointestinal upset (56% vs. 61% for cranberry vs. placebo).
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Address reprint requests and correspondence to: Betsy Foxman, Center for Molecular and Clinical Epidemiology of Infectious
+ Diseases, Department of Epidemiology, University of Michigan School of Public Health, 1415 Washington Heights, Ann Arbor,
+ Michigan 48109-2029, bfoxman@umich.edu, Telephone: (734)764-5487.
+ 
+<section> Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our
+ customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of
+ the resulting proof before it is published in its final citable form. Please note that during the production process errors may be
+ discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+ The authors report no conflicts of interest. 
+<section> Conclusions—Among women undergoing elective benign gynecologic surgery involving
+ 
+<section> Author urinary catheterization, use of cranberry extract tablets during the postoperative period reduced the
+ rate of UTI by half.
+ 
+<section> Manuscript 
+<section> Keywords
+ 
+<section> catheter associated urinary tract infection; cranberry extract; clinical trial
+ 
+<section> INTRODUCTION
+ 
+<section> Urinary tract infections (UTI) remain one of the most common hospital-acquired infections
+ (1). The vast majority of hospital-associated UTI are attributed to use of a urinary catheter
+ (2). Even following removal of the catheter, risk of UTI remains high, with postoperative
+ patients being particularly vulnerable. Among women undergoing elective urogenital
+ 
+<section> Author surgery the 6-week cumulative incidence of a symptomatic urinary tract infection (UTI)
+ following catheter removal is 10 to 64% (reviewed in (3)), compared to 3–4% per year for
+ women in the general population (4). Within hours following insertion, bacteria colonize the
+ 
+<section> Manuscript
+ 
+<section> urinary catheter surface; the incidence of significant bacteriuria is 5% per day of
+ catheterization regardless of gender (5). A meta-analysis of 7 studies of short-term
+ catheterized patients (including men and women and surgeries of various types) found that
+ antibiotics given at time of catheter removal reduced UTI incidence by ~50%, but the risk
+ remained significant: 4.7% within 4 weeks (6). However, antibiotic prophylaxis is not an
+ ideal solution as the prevalence of antibiotic resistance among urinary bacterial isolates is
+ very high and continues to increase. Escherichia coli is the most common urinary pathogen;
+ among hospitalized patients in the US and Europe, ~10% E. coli from urinary-associated
+ bacteremia had the extended spectrum beta-lactamase phenotype, and ~26% were resistant
+ 
+<section> Author to levofloxacin (7).
+ 
+<section> The American cranberry (Vaccinium macrocarpon) has been widely used for the prevention
+ 
+<section> Manuscript of urinary tract infections. Cranberry juice may prevent UTI by selecting against more
+ adhesive strains in the stool, by directly preventing E. coli from adhering to uroepithelial
+ cells, or by both of these mechanisms (8,9). Other effects might include influence on
+ fimbrial subunit synthesis, assembly, or attachment; these effects would be similar to those
+ seen with sub-inhibitory concentrations of antibiotics (10). A 2012 systematic review and
+ meta-analysis found an overall protective effect of cranberry on UTIs, but there was
+ considerable heterogeneity in results across trials that varied in dose administered,
+ population study, and sample size (11).
+ 
+<section> No previous studies of cranberry have addressed effectiveness in reducing risk of UTI post
+ 
+<section> Author
+ 
+<section> catheterization. We begin to fill this gap by conducting a randomized clinical trial of the
+ effectiveness of cranberry juice capsules in preventing UTI among women undergoing
+ 
+<section> Manuscript elective gynecologic surgery where a catheter is in place. This is an especially high risk
+ group as these operations involve surgery adjacent to the bladder and delayed bladder
+ emptying is common. Because catheter insertion and removal introduces bacteria and causes
+ trauma that may increase UTI risk, we also take into account frequency of intermittent
+ catheterization following removal of the Foley catheter. 
+<section> MATERIALS AND METHODS
+ 
+<section> Author
+ 
+<section> Study Design
+ 
+<section> We conducted a randomized, double-blind, placebo-controlled study of the therapeutic
+ 
+<section> Manuscript
+ 
+<section> efficacy of two cranberry juice capsules two times a day, equivalent to two 8-ounce servings
+ of cranberry juice, for 6 weeks after elective gynecological surgery, in preventing UTI post
+ catheterization.
+ 
+<section> The Institutional Review Board at the University of Michigan approved the study protocol;
+ all participants gave written informed consent. The use of cranberry capsules for this trial
+ was approved by the Food and Drug Administration (IND 111959); ClinicalTrials.gov
+ identifier NCT01346774.
+ 
+<section> Participants
+ 
+<section> Author
+ 
+<section> We recruited study participants between August 2, 2011 and January 23, 2013 from patients
+ referred by physicians from the Urogynecology and Minimally Invasive Surgery (MIS)
+ 
+<section> Manuscript clinics of the University of Michigan Division of Gynecology at the time of their pre-
+ operative visit for elective gynecologic surgery. The Urogynecology clinic specializes in the
+ surgical management of pelvic organ prolapse, urinary incontinence and anal incontinence;
+ the MIS clinic specializes in the surgical management of fibroids, endometriosis and pelvic
+ pain. All surgeries were performed at within the University of Michigan Hospital System
+ and followed the hospital’s standard operating procedures.
+ 
+<section> Eligibility criteria
+ 
+<section> Eligible participants were non-pregnant women at least 18 years of age without a history of
+ 
+<section> Author nephrolithiasis, congenital urogenital anomaly or neurogenic bladder, any known allergy to
+ cranberry products, who did not require therapeutic anticoagulant medicine during the six
+ weeks after surgery, or whose surgery did not involve a fistula repair or vaginal mesh
+ 
+<section> Manuscript 
+<section> removal.
+ 
+<section> Endpoints
+ 
+<section> The primary endpoint was the proportion of participants who experienced clinically-
+ diagnosed and treated UTI whether or not results from a urine culture were available.
+ Diagnosis and treatment were up to the treating physician. Secondary endpoints included the
+ incidence of UTI caused by E. coli and time from randomization to UTI. Safety endpoints
+ included adverse events and serious adverse events.
+ 
+<section> Author 
+<section> Therapeutic Regimen
+ TheraCran ® cranberry and placebo capsules were provided by Theralogix, LLC (Rockville,
+ MD), gratis, asking only that results be made available to them at time of publication. Based
+ 
+<section> Manuscript
+ 
+<section> upon proanthocyanidin content, the four cranberry capsules are equivalent to two 8-ounce
+ servings of cranberry juice. 
+<section> Administration
+ 
+<section> Author
+ 
+<section> Participants were directed to take two capsules by mouth twice each day (once in the
+ morning and once in the evening) starting at time of discharge for 4–6 weeks, or until their
+ 
+<section> Manuscript return for their post-operative doctor’s visit. Participants were instructed to drink an 8 oz
+ glass of water while taking the capsule with or without food.
+ 
+<section> Concomitant Medications, Foods and Beverages
+ Participants were instructed not to consume any cranberry products (including whole fruit,
+ jellies, juices or dietary supplement capsules containing cranberry), or vitamin C
+ supplements beyond the assigned regimen. Compliance was assessed at each follow-up
+ contact.
+ 
+<section> Randomization
+ 
+<section> Author
+ 
+<section> Participants were randomized at time of surgery, a median of 18.5 days following
+ enrollment (range 0 to 146 days). As bacteriuria increases with age, we balanced treatment
+ 
+<section> Manuscript groups by age (< 60 v. > 60 years), based on the expected median age of our study
+ population. Stratified randomization (1:1 Theracran® cranberry capsules:placebo) was
+ performed using computer-generated permuted blocks, with a block size known only to the
+ Data Coordinating Center. The Data Coordinating Center provided a randomization
+ schedule for the supplier who printed labels that were placed on each bottle of capsules.
+ 
+<section> After participants were deemed eligible, study coordinators performed the randomization
+ using the next available randomization number on a stratum-specific list provided by the
+ DCC.
+ 
+<section> Author 
+<section> Masking
+ 
+<section> All study personnel (with the exception of designated individuals at the Data Coordinating
+ Center), treating physicians, and patients were masked to treatment assignment. The
+ 
+<section> Manuscript
+ 
+<section> Investigational Drug Service at the University of Michigan stored and managed the capsules,
+ and conducted drug accountability.
+ 
+<section> Study Procedures and Data Collection
+ After giving informed consent, each participant completed a self-administered questionnaire
+ regarding her medical and sexual history, health behaviors and symptoms. Following
+ hospital admission, a urine specimen was collected upon catheter insertion in the operating
+ room, and catheter removal (from the catheter port). At the time of hospital discharge,
+ research staff provided the participant with enough capsules for 8 weeks of the assigned
+ 
+<section> Author
+ 
+<section> regimen, and administered the first dose. Participants were reminded to take the cranberry
+ capsules daily, continuing 2×/day until their post-operative visit, usually at six weeks.
+ Research staff also instructed participants to collect a urine sample if they experienced
+ 
+<section> Manuscript
+ 
+<section> urinary symptoms consistent with UTI (painful urination, an urgent need to urinate, pain/
+ pressure in lower abdomen or pubic area, fever of 100 F or more, or flank pain), provided a
+ urine collection kit (containing a preservative), orders for a urine culture (if needed) that
+ included instructions to the laboratory to forward results to the treating physician at the 
+<section> University of Michigan Health System if the culture was performed elsewhere, and written
+ 
+<section> Author instructions for at-home urine collection. Participants were given a symptom diary to record
+ any urinary symptoms.
+ 
+<section> Manuscript Participants were advised to contact research staff immediately and to collect a urine
+ specimen should they experience urinary symptoms consistent with UTI. When participants
+ contacted research staff, they were administered a brief structured interview regarding the
+ type and duration of symptoms and referred to their physicians for diagnosis and treatment.
+ Urine was cultured using standard microbiologic techniques for the presence of
+ uropathogens at the clinical laboratory selected by their treating physician. Study staff
+ contacted participants within three days, and at two and four weeks after hospital discharge
+ to assess compliance to study protocol, to identify if the participant had urinary symptoms
+ consistent with UTI, and to elicit any adverse events. These items were also assessed at the
+ 
+<section> Author week post-operative doctor’s visit using a self-administered questionnaire. At study exit,
+ capsule bottles were collected so capsules could be counted to assess compliance.
+ 
+<section> Manuscript Medical records of all randomized study participants were reviewed to identify any missed
+ post-operative symptomatic UTI episodes, adverse events, and medications prescribed. All
+ study participants received an intravenous antibiotic administration prior to the start of the
+ surgical procedure, including urinary catheter insertion (as per hospital protocol).
+ 
+<section> There were no changes to the methods or trial outcomes after the trial began. There were no
+ interim analyses or stopping guidelines.
+ 
+<section> The study protocol, including definitions of adverse events, is available upon request.
+ 
+<section> Author 
+<section> Statistical Methods
+ 
+<section> Sample size was based on logistical and statistical principles. Estimates of the incidence of
+ symptomatic UTI in our patient population were unavailable and thus we assumed the UTI
+ 
+<section> Manuscript rate to be similar to that in the literature for patients receiving prophylactic antibiotics (15–
+ 18%). (6) We believed we could enroll approximately 200 participants (100/treatment
+ group) and calculated that this sample size would provide at least 80% power with a two-
+ sided type I error of 5% to detect a large treatment difference (65% to 75% relative risk
+ reduction) if the UTI rate was 15–20% in the placebo group (based on a two-sample
+ binomial test, performed using EAST version 5.1, Cytel, 2007). Recruitment was stopped at
+ 160 randomized participants because of budgetary and timing constraints.
+ 
+<section> Baseline socio-demographic and medical history characteristics were summarized using
+ descriptive statistics. Primary analyses used an intent-to-treat approach. We used logistic
+ 
+<section> Author
+ 
+<section> regression to model the incidence of the primary endpoint and taking into account all pre-
+ specified risk factors including age, UTI history, presence of a Foley catheter, and
+ 
+<section> Manuscript intermittent self-catheterization. We also summarized treatment differences in time to UTI
+ using Kaplan-Meier methods and tested these differences with logrank tests. A sensitivity
+ analysis was performed for the primary endpoint, using a modified ITT analysis population
+ that included only randomized participants who took at least one dose of study medication.
+ In addition, we assessed treatment differences in culture-confirmed UTI, and culture- 
+<section> confirmed when E. coli was the pathogen. We tested for differences in compliance and
+ 
+<section> Author safety using the chi square test.
+ 
+<section> All analyses were performed using SAS ® software, version 9.3.
+ 
+<section> Manuscript
+ 
+<section> RESULTS
+ 
+<section> Study Population
+ 
+<section> 359 women presenting for elective gynecologic surgery were screened for eligibility
+ between June 2011 and March 2013, of which 160 were randomized. Almost all (94%)
+ received the allocated intervention (cranberry: 74/80 vs. placebo: 76/80). Reasons for not
+ receiving the intervention included patient was discharged when staff were not available
+ (n=2), the participant could not swallow the capsules or returned the bottle unopened (n=4),
+ capsules were lost (n=1), participant’s physician told her to avoid cranberry (n=1), the
+ 
+<section> Author
+ 
+<section> surgery was cancelled (n=1) or the participant withdrew (n=1) (Figure 1). Follow-up was not
+ statistically different by group: 73/80 (91%) of those allocated to cranberry and 72/80 (90%)
+ 
+<section> Manuscript assigned to placebo completed at least one follow-up (p=0.79); and 41/80 (51%) of those
+ allocated to cranberry and 32/80 (40%) allocated to placebo completed all 3 follow-ups. The
+ primary endpoint was obtained for all randomized participants via review of medical
+ records.
+ 
+<section> Participants ranged in age from 23 to 88 years (mean ± SD for cranberry: 56 ±− 12.5;
+ placebo: 56 ± 14.3). Socio-demographic characteristics and most medical history features
+ were not statistically significantly different by treatment group (Table 1), including number
+ of UTI in the 12 months prior to surgery (cranberry: 0.39 ± 0.88; placebo: 0.38 ± 0.80) and
+ treating physician (data not shown). However, those assigned to cranberry were significantly
+ 
+<section> Author less likely to have required intermittent self-catheterization during the recovery period (31%
+ versus 50%; p=0.02), and reported a lower number of self-catheterization episodes per day
+ (cranberry 3.7 ± 3.1 vs. placebo 5.5 + 4.9; p=0.08).. Participants who self-catheterized were
+ 
+<section> Manuscript
+ 
+<section> more likely to have a history of UTI (72% vs. 54%; p=0.01; data not shown). Seven women
+ used an indwelling Foley catheter at home for part of the follow-up period (cranberry: n=3,
+ placebo: n=4). The decision to discharge a patient with intermittent self-catheterization or a
+ Foley was left to the individual physicians. Patients discharged with a Foley usually are
+ unable to perform catheterize or decline to do so.
+ 
+<section> Association of cranberry with UTI
+ Overall, 45 (28%) of the 160 participants had a UTI. The incidence of UTI was significantly
+ lower in the cranberry than the placebo group (15/80 (19%) versus 30/80 (38%); OR=0.38;
+ 
+<section> Author 95% CI: 0.19, 0.79; p=0.008). Among participants with a UTI diagnosis, the percentage of
+ those confirmed by culture did not differ between the women assigned placebo or cranberry
+ (77% (23/35) vs 80% (12/15), p=0.31). The association remained significant when the
+ 
+<section> Manuscript
+ 
+<section> endpoint was limited to those with culture confirmed diagnosis (>10 3 cfu/mL urine (12))
+ 
+<section> (OR=0.44, P=0.037).
+ 
+<section> The median time to UTI was significantly longer among those in the cranberry than the
+ placebo group (18 days versus 8.5 days, Figure 2, log rank test p=0.0005). When 
+<section> considering only those patients with culture-confirmed UTI, the incidence of UTI was also
+ 
+<section> Author significantly lower in the cranberry than the placebo group (12/80 (15%) versus 23/80
+ (29%), OR=0.44; 0.20, 0.96; p=0.04). Results did not change in the sensitivity analysis
+ using the modified intent to treat analysis population, which excluded the ten participants
+ 
+<section> Manuscript
+ 
+<section> who did not take a single dose of study medication.
+ 
+<section> The beneficial effect of cranberry treatment remained after adjusting for frequency of post-
+ operative self-catheterization and having an indwelling Foley catheter at home in a logistic
+ regression model (OR=0.42; 95% CI: 0.18, 0.94; p=0.037) (Table 2). Women who self-
+ catheterized during the post-operative period had a significantly higher incidence of UTI
+ (33/65 (51%) versus 12/95 (13%) (OR=7.13; 95% CI: 3.28, 15.5; p<<0.001), but there was
+ no interaction between frequency of self-catheterization and treatment (p=0.63). Further, of
+ the 7 participants with an indwelling catheter for part or all of the post-operative recovery
+ 
+<section> Author period, 1/3 assigned to cranberry and 3/4 assigned to placebo had a UTI. (The one woman
+ who had a Foley catheter throughout the entire study period developed a UTI based on
+ endpoint criteria). The increased risk of UTI associated with discharge with an indwelling
+ 
+<section> Manuscript Foley catheter remained after adjusting for frequency of intermittent catheterization
+ following Foley removal during the post-operative period and the effects of cranberry
+ (OR=7.3; 95% CI: 1.42, 42.07; p=0.018 (Table 2)). There was no association between UTI
+ history (both in the previous 12 months and any time during life) and UTI risk post-surgery
+ (data not shown).
+ 
+<section> Escherichia coli was the most common infecting organism (cranberry: 38%; placebo: 46%
+ (Table 3)). Considering only those with a UTI caused by E. coli, the risk of UTI among
+ those taking cranberry was reduced by an estimated 62% (OR=0.38; 95% CI: 0.13, 1.13;
+ p=0.07). The second most common infecting bacterial species was Klebsiella pneumoniae
+ 
+<section> Author
+ 
+<section> among the cranberry group (23%) and Enterococcus among the placebo group (23%). The
+ vast majority of cultures had ≥10 5 cfu/mL urine of the infecting bacteria (92% for cranberry
+ and 81% for placebo) and all urine cultures had at least one species occurring at >10
+ 
+<section> Manuscript
+ 
+<section> cfu/mL urine; four positive cultures reported two bacterial species).
+ 
+<section> Compliance
+ 
+<section> The average amount of time from a participant’s surgery, when they started study drug, to
+ their termination from the study was 38 days (SD: 24, Range: 0–227). At study exit, of the
+ 130 participants with information available, 110 (85%) reported taking two capsules twice a
+ day, most or all of the time. Most participants reported following the prescribed regimen at
+ the 2-week (89%) and 4-week (82%) follow-up contacts. Pill counts were available for a
+ similar number of participants by treatment assignment (cranberry: n= 57, placebo: n=60);
+ 
+<section> Author
+ 
+<section> participants averaged three capsules per day in both treatment groups. Compliance was not
+ statistically significantly different by treatment group using any measure of compliance.
+ 
+<section> Manuscript
+ 
+<section> Adverse effects
+ 
+<section> The proportion of participants with AEs and SAEs did not differ by treatment groups
+ (p=0.28, p=1.00). Seventy-five participants experienced 328 adverse events in the cranberry
+ group, and 78 participants experienced 423 in the placebo group. Four participants 
+<section> experienced 5 severe adverse events in the cranberry group and 4 participants experience
+ 
+<section> Author adverse events in the placebo group. Gastrointestinal upset was the most commonly reported
+ event in both groups (cranberry: n=45 (56%); placebo: 49 (61%)).
+ 
+<section> Manuscript
+ 
+<section> COMMENT
+ 
+<section> This is the first report of a double-blind, placebo-controlled randomized clinical trial
+ demonstrating a statistically and clinically significant benefit of taking cranberry in
+ preventing UTI after elective gynecologic surgery where a urinary catheter is placed. This
+ reduction in UTI risk is similar in magnitude to that reportedly obtained by administering
+ antibiotics at time of catheter removal (6), and avoids the collateral damage associated with
+ antibiotic use, including pressure for antibiotic resistance.
+ 
+<section> Our study addresses the major limitations identified in previous studies of the effects of
+ 
+<section> Author
+ 
+<section> cranberry products (13). We compared cranberry capsules to placebo; sub-analyses of
+ previous trials suggest capsules are somewhat more effective than juice, perhaps because of
+ increased compliance (11). In our previous cranberry trial conducted among college students
+ 
+<section> Manuscript
+ 
+<section> where we used juice, the placebo juice contained similar levels of vitamin C to that found in
+ cranberry juice. We observed no effect of cranberry in that trial, perhaps because vitamin C
+ has been observed to have a beneficial effect on UTI risk (14).
+ 
+<section> Several strengths in the study design and analysis of this trial make it unlikely that the
+ difference in outcome was due to (alpha) error. The design, conduct and analysis of the
+ trials, including randomization scheme, blinding of study personnel and participants, and
+ active surveillance for outcomes were held to the highest standards. Furthermore, after
+ analyses taking into account known risk factors - need for intermittent self-catheterization,
+ 
+<section> Author UTI history and age - UTI history age - the findings remained consistent with cranberry
+ mitigating the risk for UTI. This suggests that our results might be generalized to women
+ undergoing laparoscopic or vaginal surgery for benign gynecologic procedures where a
+ 
+<section> Manuscript 
+<section> catheter is placed.
+ 
+<section> Developing practices to reduce UTI risk is a promising area for quality improvement.
+ Considering the use of intermittent catheterization is a potential example. Each time a
+ catheter is inserted, the bladder is inoculated with bacteria, and there is some subtle trauma,
+ increasing risk of infection. Amongst the 65 women that reported intermittent
+ catheterization, the median number of times was 15 (mean of 32; range 1 to 216 times)
+ during the postoperative period. Developing patient education to reduce the daily number of
+ times that intermittent catheterization is undertaken might reduce UTI risk. Moreover, our
+ results suggest that discharging a patient from the hospital with an indwelling catheter in
+ 
+<section> Author
+ 
+<section> place should be avoided if possible. These women experienced a seven-fold increase in UTI
+ risk after adjusting for cranberry use and frequency of intermittent catheterization.
+ 
+<section> Manuscript
+ 
+<section> Future studies might aim to optimize the time of catheter insertion and removal, and to
+ develop strategies to reduce the frequency of intermittent catheterization. At least one
+ previous trial compared different timings of urinary catheter removal following abdominal
+ hysterectomy. The risks of postoperative urinary retention and over-distension need to be 
+<section> weighed against UTI risk. Removal immediately following surgery was associated with
+ 
+<section> Author increased urinary retention, and removal after 24 hours with increased risk of UTI; removal
+ at 6 hours resulted in the fewest adverse events (15). Strategies to decrease the length of
+ time associated with catheterization may need to be carefully considered in each case but are
+ 
+<section> Manuscript
+ 
+<section> promising areas to decrease this morbidity.
+ 
+<section> Acknowledgments
+ 
+<section> The authors thank Dr. Jack Sobel for serving as data and safety monitor; staff at Statistical Analysis of Biomedical
+ and Educational Research unit (SABER) for technical assistance; and the participating patients, physicians,
+ physician assistants and nurses at the Urogynecology and Minimally Invasive Gynecologic Surgery clinics and
+ University of Michigan Hospitals; and Alexandra Beach, Erin Case and Marian Turner for outstanding work as
+ recruiters. We are very grateful to Bill Reisdorph of the Michigan Institute for Clinical & Health Research
+ (MICHR) (2UL1TR000433-06) for his assistance with obtaining and the reporting requirements for an
+ investigational new drug designation, and MICHR for clinical monitoring. We also thank Theralogix, LLC
+ (Rockville, MD) for providing cranberry juice capsules and placebo for use in this study.
+ 
+<section> Author
+ 
+<section> This work was supported by the National Institutes of Health (R21-DK-085290). MBB received investigator
+ support through the University of Michigan BIRCWH Career Development Program (K12-HD-001438).
+ 
+<section> Manuscript
+ 
+<section> REFERENCES
+ 
+<section> 1. Magill SS, Hellinger W, Cohen J, Kay R, Bailey C, Boland B, et al. Prevalence of healthcare-
+ associated infections in acute care hospitals in Jacksonville, Florida. Infect Control Hosp Epidemiol.
+ 
+<section> 2012 Mar; 33(3):283–291. [PubMed: 22314066]
+ 2. Hooton TM, Bradley SF, Cardenas DD, Colgan R, Geerlings SE, Rice JC, et al. Diagnosis,
+ prevention, and treatment of catheter-associated urinary tract infection in adults: 2009 International
+ Clinical Practice Guidelines from the Infectious Diseases Society of America. Clin Infect Dis. 2010
+ 
+<section> Mar 1; 50(5):625–663. [PubMed: 20175247]
+ 3. Falagas ME, Athanasiou S, Iavazzo C, Tokas T, Antsaklis A. Urinary tract infections after pelvic
+ floor gynecological surgery: prevalence and effect of antimicrobial prophylaxis. A systematic
+ 
+<section> Author review. Int Urogynecol J Pelvic Floor Dysfunct. 2008 Aug; 19(8):1165–1172. [PubMed: 18401538]
+ 4. Foxman B. Urinary Tract Infection Syndromes: Occurrence, Recurrence, Bacteriology, Risk
+ Factors, and Disease Burden. Infect Dis Clin North Am. 2014 Mar; 28(1):1–13. [PubMed:
+ 
+<section> Manuscript 
+<section> 24484571]
+ 5. Maki DG, Tambyah PA. Engineering out the risk for infection with urinary catheters. Emerg Infect
+ 
+<section> Dis. 2001; 7(2):342–347. [PubMed: 11294737]
+ 6. Marschall J, Carpenter CR, Fowler S, Trautner BW. Antibiotic prophylaxis for urinary tract
+ infections after removal of urinary catheter: meta-analysis. BMJ. 2013 Jan.346:f3147. [PubMed:
+ 
+<section> 23757735]
+ 7. Sader HS, Flamm RK, Jones RN. Frequency of occurrence and antimicrobial susceptibility of
+ Gram-negative bacteremia isolates in patients with urinary tract infection: results from United States
+ and European hospitals (2009–2011). J Chemother. 2014 Jun; 26(3):133–138. [PubMed: 24091000]
+ 8. Sobota AE. Inhibition of bacterial adherence by cranberry juice: potential use for the treatment of
+ urinary tract infections. J Urol. 1984 May; 131(5):1013–1016. [PubMed: 6368872]
+ 
+<section> Author 9. Ofek I, Goldhar J, Zafriri D, Lis H, Adar R, Sharon N. Anti-Escherichia coli adhesin activity of
+ cranberry and blueberry juices. N Engl J Med. 1991 May 30.324(22):1599. [PubMed: 1674106]
+ 10. Lee YL, Owens J, Thrupp L, Cesario TC. Does cranberry juice have antibacterial activity? JAMA.
+ 
+<section> 2000 Apr 5.283(13):1691. [PubMed: 10755494]
+ 
+<section> Manuscript
+ 
+<section> 11. Wang C-H, Fang C-C, Chen N-C, Liu SS-H, Yu P-H, Wu T-Y, et al. Cranberry-containing
+ products for prevention of urinary tract infections in susceptible populations: a systematic review
+ and meta-analysis of randomized controlled trials. Arch Intern Med. 2012 Jul 9; 172(13):988–996.
+ 
+<section> [PubMed: 22777630]
+ 12. Rubin RH, Shapiro ED, Andriole VT, Davis RJ, Stamm WE. Evaluation of new anti-infective
+ drugs for the treatment of urinary tract infection. Infectious Diseases Society of America and the 
+<section> Food and Drug Administration. Clin Infect Dis. 1992 Nov; 15(Suppl 1):S216–S227. [PubMed:
+ 
+<section> Author 1477233]
+ 13. Jepson R, Craig J, Williams G. Cranberry products and prevention of urinary tract infections.
+ JAMA. 2013 Oct 2; 310(13):1395–1396. [PubMed: 24084925]
+ 
+<section> Manuscript 14. Barbosa-Cesnik C, Brown MB, Buxton M, Zhang L, DeBusscher J, Foxman B. Cranberry juice
+ fails to prevent recurrent urinary tract infection: results from a randomized placebo-controlled
+ trial. Clin Infect Dis. 2011 Jan 1; 52(1):23–30. [PubMed: 21148516]
+ 15. Ahmed MR, Sayed Ahmed WA, Atwa KA, Metwally L. Timing of urinary catheter removal after
+ uncomplicated total abdominal hysterectomy: a prospective randomized trial. Eur J Obstet
+ Gynecol Reprod Biol. 2014 May.176:60–63. [PubMed: 24670774]
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript 
+<insert> Author Figure 1. CONSORT flow diagram
+ Enrollment and exclusions, allocation to treatment, follow-up and reasons for loss. 
+<iend>
+
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Manuscript 
+<insert> Manuscript
+ Figure 2. Time to urinary tract infection by treatment group
+ Kaplan-Meier estimates and 95% Hall-Wellner confidence bands are provided by treatment
+ group. The number at risk for UTI is shown on the horizontal axis.
+ Author
+ Manuscript 
+<iend>
+
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author 
+<insert> Table 1 
+<iend>
+
+ Socio-demographic, baseline and post-operative characteristics
+ 
+<section> Author
+ 
+<section> Cranberry
+ 
+<section> N=80
+ 
+<section> Manuscript 
+<section> Characteristic n 
+<section> (%)
+ 
+<section> Age <60 years 
+<section> (59)
+ 
+<section> Married 
+<section> (68)
+ 
+<section> Education (highest level completed)
+ 
+<section>   < High School 
+<section> (21)
+ 
+<section>   College (at least some) 
+<section> (50)
+   Post College Education (at least some) (29)
+ 
+<section> Average Annual Household Income
+ 
+<section>   ≤ $21,000 
+<section> (9)
+ 
+<section> Author   $21,001 to $62,000 
+<section> (36)
+ 
+<section>   $62,001 or more 
+<section> (55)
+ 
+<section> Race/Ethnicity
+ 
+<section> Manuscript 
+<section>   Non Hispanic White 
+<section> (84)
+ 
+<section>   Non Hispanic Black 
+<section> (5)
+ 
+<section>   Other or Mixed Race 
+<section> (11)
+ Use of NSAIDS in 4 weeks prior to enrollment (72)
+ Use of NSAIDS in post-operatory period (68)
+ 
+<section> Ever experienced UTI in life 
+<section> (64)
+ Experienced a UTI in the past 12 months (23)
+ 
+<section> Post-menopausal 
+<section> (69)
+ 
+<section> Reasons for surgery a
+ 
+<section> Author   Fibroids 
+<section> (14)
+ 
+<section>   Pelvic organ prolapse 
+<section> (64)
+   Stress urinary incontinence (26)
+ 
+<section> Manuscript 
+<section>   Chronic pelvic pain 
+<section> (3)
+ 
+<section>   Endometriosis 
+<section> (0)
+   Abnormal uterine bleeding (14)
+ 
+<section>   Adnexal mass 
+<section> (5)
+ 
+<section>   Other 
+<section> (11)
+ 
+<section> Surgery type a
+ 
+<section>   Urinary incontinence operation (30)
+ 
+<section>     Kelly plication 
+<section> (3)
+ 
+<section>     Mid-urethral–retropubic 
+<section> (20)
+ 
+<section> Author     Pubovaginal sling 
+<section> (6)
+ 
+<section>     Other 
+<section> (1)
+ 
+<section>   Prolapse/Reconstructive 
+<section> (65)
+ 
+<section> Manuscript     Abdominal or laparoscopic sacrocolpopexy (13)
+     Anterior (cystocele) repair (30)
+ 
+<section> of randomized participants by treatment group
+ 
+<section> Placebo
+ 
+<section> N=80
+ 
+<section> n 
+<section> (%)
+ 
+<section> (60)
+ 
+<section> (68)
+ 
+<section> (15)
+ 
+<section> (60)
+ 
+<section> (25)
+ 
+<section> (11)
+ 
+<section> (41)
+ 
+<section> (49)
+ 
+<section> (88)
+ 
+<section> (5)
+ 
+<section> (7)
+ 
+<section> (78)
+ 
+<section> (68)
+ 
+<section> (63)
+ 
+<section> (24)
+ 
+<section> (68)
+ 
+<section> (11)
+ 
+<section> (70)
+ 
+<section> (29)
+ 
+<section> (4)
+ 
+<section> (3)
+ 
+<section> (8)
+ 
+<section> (5)
+ 
+<section> (23)
+ 
+<section> (30)
+ 
+<section> (1)
+ 
+<section> (25)
+ 
+<section> (3)
+ 
+<section> (1)
+ 
+<section> (73)
+ 
+<section> (14)
+ 
+<section> (43) 
+<section> Cranberry
+ 
+<section> N=80
+ 
+<section> Author 
+<section> Characteristic n 
+<section> (%)
+ 
+<section>     Colpocleisis 
+<section> (3)
+     Enterocele Repair (closure of peritoneum) (1)
+ 
+<section> Manuscript 
+<section>     McCalls culdoplasty 
+<section> (0)
+     Posterior (rectocele) repair (colpoperineorrhaphy) (38)
+     Sacrospinous Ligament Suspension (24)
+     Uterosacral ligament suspension (6)
+ 
+<section>     Other 
+<section> (1)
+   Hysterectomy/Other extirpative (44)
+     Abdominal total hysterectomy (0)
+     Laparoscopic supracervical hysterectomy (11)
+     Laparoscopic total hysterectomy (4)
+ 
+<section> Author     Supracervical hysterectomy (1)
+ 
+<section>     Vaginal hysterectomy 
+<section> (11)
+ 
+<section>     Ureterolysis 
+<section> (0)
+ 
+<section> Manuscript 
+<section>     Removal of tube(s) 
+<section> (10)
+ 
+<section>     Removal of one ovary 
+<section> (1)
+ 
+<section>     Removal of both ovaries 
+<section> (6)
+ 
+<section>     Exploratory laparotomy 
+<section> (1)
+ 
+<section>     Laparoscopy 
+<section> (4)
+     Myomectomy (laparotomy) (1)
+     Myomectomy (laparoscopy) (6)
+ 
+<section>     Lysis of adhesions 
+<section> (4)
+     Resection of endometriosis (0)
+ 
+<section> Author     Other 
+<section> (6)
+ 
+<section>   Other 
+<section> (5)
+ Intermittent catheterization during post-operative period b (31)
+ 
+<section> Manuscript Sent home with an indwelling catheter (Foley) (4)
+ a
+ 
+<section> Categories not mutually exclusive
+ b
+ 
+<section> p<0.05
+ Percentages based on total responses. Incomplete responses were received
+ n=6); race (cranberry: n=1); NSAIDS use in the post-operative period (cranberry:
+ n=2); and post-menopausal status (cranberry: n=2).
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Placebo
+ 
+<section> N=80
+ 
+<section> n 
+<section> (%)
+ 
+<section> (3)
+ 
+<section> (6)
+ 
+<section> (3)
+ 
+<section> (43)
+ 
+<section> (23)
+ 
+<section> (11)
+ 
+<section> (5)
+ 
+<section> (53)
+ 
+<section> (1)
+ 
+<section> (8)
+ 
+<section> (13)
+ 
+<section> (0)
+ 
+<section> (25)
+ 
+<section> (3)
+ 
+<section> (25)
+ 
+<section> (4)
+ 
+<section> (13)
+ 
+<section> (3)
+ 
+<section> (3)
+ 
+<section> (1)
+ 
+<section> (3)
+ 
+<section> (5)
+ 
+<section> (4)
+ 
+<section> (9)
+ 
+<section> (5)
+ 
+<section> (50)
+ 
+<section> (5)
+ 
+<section> for marital status (cranberry: n=1); income (cranberry: n=2, placebo:
+ n=14, placebo: n=20); UTI history (cranberry: n=3, placebo: 
+<insert> Table 2
+ Author
+ Manuscript
+ Effect of cranberry juice pills on risk of urinary tract infection, adjusting for having an indwelling catheter at
+ home, and frequency of self-catheterization
+ Standard
+ Parameter Estimate Error OR (95% CI)
+ Cranberry juice pills −0.8661 0.4152 0.42 (0.18, 0.94)
+ Indwelling catheter (Foley) 1.9876 0.8368 7.30 (1.42, 42.07
+ Log frequency of self-catheterization a 0.6299 0.1244 1.88 (1.48, 2.42)
+ Intercept −1.5553 0.3344 -- --
+ a
+ Variable was log transformed because highly skewed. Odds ratio is interpreted as an 81% increase in UTI risk for each 10 times a woman self-
+ catheterized. 
+<iend>
+
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript 
+<insert> Table 3
+ Author
+ Manuscript
+ Distribution of micro-organisms causing urinary tract infection by treatment group a
+ Cranberry (n=12) Placebo (n=23)
+ Author
+ Manuscript
+ Organism n (%) n (%)
+ Escherichia coli (38) (46)
+ Klebsiella pneumoniae (23) (8)
+ Enterococcus species (8) (23)
+ Enterobacter species (15) (8)
+ Streptococcus aglactiae (8) (4)
+ Proteus mirabilis (8)
+ Lactobacillus (4)
+ Yeast (4)
+ Mixed (4)
+ Total species detected (100) (101)
+ a
+ Of the 45 participants who had a primary outcome (UTI) culture results were not available for 10 participants (cranberry: n=3, placebo: n=7) with
+ clinically diagnosed and treated urinary tract infection. Numbers may not sum to totals, as more than one species was present in 4 cultures
+ (cranberry: n=1, placebo: n=3). Greater than 104 cfu/mL urine of a potential uropathogen were detected in all positive cultures. In the culture
+ positive for yeast, there were 105 cfu/mL urine; the culture positive for Lactobacillus (10 3 cfu/mL urine) also had 5 cfu/mL urine of E. coli.
+ There were 5 cfu/mL urine reported for the ‘mixed’ culture. 
+<iend>
+
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript

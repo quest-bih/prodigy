@@ -1,0 +1,1441 @@
+
+<section> A youth-­centred approach
+ 
+<section> engagement in HIV services:
+ 
+<section> centred design methods
+ 
+<section> research trial in Kisumu
+ 
+<section> Eliud Omondi Akama , 1,2 Laura K Beres,
+ Harriet Adhiambo, 1,5 Sarah Bushuru, 1 Edwin
+ Isaya Opondo, 1 Norton Sang, 1 Bertha Oketch
+ Cirilus Ogollah Osongo, 1,6 Evelyn Nyandieka,
+ Felix Ochieng, 1 Clinton Owino, 1 Thomas Odeny,
+ Ingrid Eshun-­Wilson, 7 Maya Petersen, 8 Elizabeth
+ Lisa L Abuogi
+ 
+<section> Introduction Innovative interventions are needed to improve
+ HIV outcomes among adolescents and young adults (AYAs)
+ living with HIV. Engaging AYAs in intervention development
+ could increase effectiveness and youth acceptance, yet
+ 
+<section> To cite: Akama EO, Beres LK, research is limited. We applied human-­centred design (HCD) to
+ Kulzer JL, et al. A youth-­ refine adherence-­support interventions pretrial and assessed
+ centred approach to improving HCD workshop acceptability.
+ engagement in HIV services: Methods We applied an iterative, four-­phased HCD process in
+ human-­centred design 
+<section> Kenya that included: (1) systematic review of extant knowledge,
+ methods and outcomes in (2) prioritisation of design challenges, (3) a co-­creation
+ a research trial in Kisumu workshop and (4) translation tables to pair insights with trial
+ County, Kenya. BMJ Glob Health intervention adaptations. The co-­creation workshop was co-­led
+ 
+<section> 2023;8:e012606. doi:10.1136/
+ by youth facilitators employing participatory activities to inform
+ 
+<section> bmjgh-2023-012606
+ intervention adaptations. Iterative data analysis included rapid
+ thematic analysis of visualised workshop outputs and notes
+ 
+<section> Handling editor Valery Ridde
+ using affinity mapping and dialogue to identify key themes. We
+ 
+<section> ► Additional supplemental conducted a survey to assess workshop acceptability among
+ material is published online only. participants.
+ To view, please visit the journal Results Twenty-­two participants engaged in the 4-­day
+ 
+<section> online (http://​dx. d 
+<section> oi.​org/​10.​
+ workshop. Co-­creation activities yielded recommendations
+ 1136/ b mjgh-​2023- 12606).
+ for improving planned interventions (eg, message frequency
+ and content; strategies to engage hard-­to-­reach participants),
+ EOA and LKB contributed critical principles to employ across interventions (eg,
+ equally. personalisation, AYA empowerment) and identification of
+ unanticipated AYA HIV treatment priorities (eg, drug holidays,
+ Received 17 April 2023 transition from adolescent to adult services). We revised
+ Accepted 1 October 2023 intervention content, peer navigator training materials and
+ study inclusion criteria in response to findings. The youth-­led
+ HCD workshop was highly acceptable to participants.
+ © Author(s) (or their Conclusions Research employing HCD among youth can
+ employer(s)) 2023. Re-­use improve interventions preimplementation through empathy,
+ permitted under CC BY-­NC. No youth-­led inquiry and real-­time problem solving. Peer
+ commercial re-­use. See rights navigation may be most influential in improving retention
+ and permissions. Published by when engagement with young people is based on mutual
+ BMJ.
+ trust, respect, privacy and extends beyond HIV-­specific
+ For numbered affiliations see support. Identifying opportunities for personalisation and
+ end of article.
+ adaptation within intervention delivery is important for
+ 
+<section> Correspondence to AYAs. Patient engagement interventions that target young
+ Dr Laura K Beres; people should prioritise improved transition between
+ l aura.​beres@ hu.​edu youth and adult services, youth HIV status disclosure, AYA
+ 
+<section> to improving
+ 
+<section> human-­
+ 
+<section> and outcomes in a
+ 
+<section> County, Kenya
+ 
+<section> 3 Jayne Lewis Kulzer, 4 Gladys Ontuga,
+ Nyagesoa, 1 Joseph Osoro,
+ , 1 James Nyanga,
+ 1 Evelyn Ododa, 1 Eunice Omondi,
+ 1,7 Zachary Arochi Kwena,
+ A Bukusi, 1 Elvin H Geng,
+ 
+<section> WHAT IS ALREADY KNOWN ON THIS TOPIC
+ 
+<section> ⇒ Innovative approaches to facilitate improved adoles-
+ cent and young adult engagement in HIV care are
+ urgently needed to reduce morbidity and mortality.
+ 
+<section> WHAT THIS STUDY ADDS
+ 
+<section> ⇒ This study presents a novel application of a phased,
+ youth-­ led, human-­ centred design approach to
+ enhance HIV retention interventions in Kenya. It
+ demonstrates human-­centred design (HCD) work-
+ shop acceptability, youth-­led priority identification
+ and development of concrete, unique solutions
+ related to HIV treatment engagement for pretrial
+ implementation.
+ 
+<section> HOW THIS STUDY MIGHT AFFECT RESEARCH,
+ 
+<section> PRACTICE OR POLICY
+ 
+<section> ⇒ This study demonstrates how to engage prior re-
+ search to inform design questions, leverage un-
+ derlying participatory methodologies to collect data
+ in research-­based HCD with youth, and systemat-
+ ically approach iterative translation of findings into
+ empathy-­ informed research adaptations. Youth
+ prioritisation of personalisation, supportive relation-
+ ship quality, self-­management and decision-­making
+ advance the person-­centred care agenda in HIV ser-
+ vice provision.
+ 
+<section> empowerment and healthcare worker responsiveness in
+ interactions and episodic adherence interruptions.
+ 
+<section> INTRODUCTION
+ Innovations in HIV service delivery are
+ needed to reduce persistent high attrition,
+ viral failure and mortality among adolescents
+ and young adults (AYAs) living with HIV. 1–3 
+<section> The United Nations define AYAs as youths aged 15–24
+ years. 4 Notably, lost to follow-­up after starting antiret-
+ roviral therapy (ART) and viral failure are 25%–50%
+ higher among AYAs than adults. 1–3 Compared with
+ adults, AYAs face more diverse and amplified barriers to
+ adherence and retention. As a result, HIV is a key driver
+ of deaths among AYAs in Africa. 5 Current service delivery
+ approaches, often designed by adults, fail to accommo-
+ date AYA-­ specific barriers and strengths, and are less
+ effective for this age group. 3 6 AYAs are the experts on
+ themselves but are frequently excluded from efforts to
+ improve services. There is an urgent need to meaning-
+ fully engage AYAs in designing and implementing reten-
+ tion interventions and services to respond to their unique
+ needs and preferences. 7
+ Several studies from low-­income and middle-­income
+ countries (LMICs) have tested interventions to improve
+ HIV treatment linkage and outcomes for AYAs with
+ varied success. Adolescent-­ friendly services, provider
+ training, adherence support and mHealth approaches
+ have shown some efficacy in increasing AYA retention in
+ care and viral suppression. 9–11 However, recent systematic
+ reviews of interventions to improve adherence and reten-
+ tion in AYAs in LMICs note that many of these studies
+ lack rigour, limiting the strength and generalisability of
+ their findings. 11 12 Significant gaps remain in our under-
+ standing of how to improve intervention acceptability
+ and effectiveness, which youth subgroups would benefit
+ most from interventional support, and when support is
+ needed.
+ Engaging AYAs in creating solutions to HIV care chal-
+ lenges is recognised as an approach that may increase
+ ownership and youth acceptance, yet established
+ methods to effectively and meaningfully engage young
+ people in research are limited. 12 13 Traditional trials
+ often use researcher-­ designed interventions and only
+ assess outcomes at trial conclusion. Formative research
+ methods may more rapidly obtain youth perspectives and
+ opinions yet may fail to optimally apply them if methods
+ are not youth led. 14 Human-­centred design (HCD) is a
+ novel, participatory and formative approach, relatively
+ new in the global health research arena, to problem
+ solving that may facilitate meaningful AYA involvement
+ in research to improve HIV treatment outcomes. 15 HCD
+ applies empathy while placing end users at the centre of
+ design through highly interactive and thought-­provoking
+ activities. 16 HCD approaches have been applied in HIV
+ prevention intervention development 17 18 to integrate
+ chronic disease care into HIV treatment and to improve
+ the HIV care cascade. 19–21 Youth-­ led HCD research is
+ currently limited, yet it may be vital to addressing treat-
+ ment gaps for this unique population 19–21
+ We used an HCD approach to tailor interventions for
+ a randomised controlled trial to improve AYA retention
+ and outcomes in HIV services in Kisumu County, Kenya:
+ the Adaptive Strategies for Preventing and Treating
+ Lapses of Retention in HIV Care for Adolescents study
+ (A4A). 22 To engage AYAs in intervention design and
+ improve intervention implementation pretrial, we used a
+ four-­phase HCD approach cofacilitated by young people
+ living with HIV. We aimed to identify opportunities to
+ improve the proposed multicomponent adherence-­
+ support interventions in A4A and understand AYAs
+ support priorities. Additionally, we assessed the accept-
+ ability of a youth-­led HCD workshop approach with AYAs
+ in Kisumu County, Kenya.
+ 
+<section> METHODS
+ 
+<section> Study background
+ The A4A study, launched in 2019 (NCT04432571),
+ uses a sequential multiple assignment randomised trial
+ design to optimise AYA HIV treatment engagement and
+ assess the comparative effectiveness of three interven-
+ tions among AYAs 14–24 years old on ART in Kisumu
+ County, Kenya. 22 For more details on the study design
+ and procedures please see our protocol paper. 22 Kisumu
+ County is among the highest HIV burden regions in the
+ country. 23 Three intervention prototypes were developed
+ using prior study team research and extant literature: (1)
+ electronic patient navigation (eNAV) using electronic
+ communication platforms (short message system (SMS)
+ messages, phone calls) combined with peer support, (2)
+ in-­person patient NAV (IP-­NAV) in which peer navigators
+ influence retention and adherence behaviours among
+ AYAs through in-­person sessions and (3) conditional cash
+ transfers (CCT), money disbursed for AYAs attending
+ scheduled clinic visits and having suppressed viral loads.
+ To improve the likelihood of intervention acceptability
+ and effectiveness pretrial, concurrent formative research
+ activities included (1) focus group discussions (FGDs)
+ investigating factors influencing AYA care engagement,
+ (2) a discrete choice experiment on incentive delivery
+ preferences 22 and (3) a phased HCD process. AYAs were
+ recruited from three high-­ volume Ministry of Health
+ facilities with HIV youth-­centres serving AYAs aged 10–24
+ years.
+ 
+<section> HCD study design
+ Our HCD approach included four iterative phases:
+ discover, define, develop through a co-­ creation work-
+ shop and deliver, guided by the Design Council’s Double
+ Diamond approach 24 25 described in more detail below.
+ Our study design and reporting were informed by
+ the proposed guidelines for health research involving
+ design.
+ 
+<section> The design team
+ The design team comprised AYA workshop facilitators,
+ the research team, and a design expert. The lead youth
+ facilitator (28 years old) and two co-­facilitators (24–26
+ years) comfortable discussing their HIV status with
+ other youth were selected among adolescent HIV peer
+ leads and collaborators from the study health facilities.
+ Consistent with HCD mindsets, 27 the AYA facilitators (two
+ male, one female) demonstrated good group facilitation
+ skills, flexibility, optimism and creativity. The research 
+<section> team included individuals from Kenya and the USA with
+ expertise in paediatrics, adolescent sexual and reproduc-
+ tive health, HIV medicine, nursing, public health, social
+ science and qualitative research; the design expert was
+ from the USA with extensive experience conducting HIV
+ research and design work in SSA. All team members were
+ compensated for their role and are co-­authors. Team
+ composition was driven by the goal to blend content
+ expertise with in-­depth understanding of local commu-
+ nities. Co-­creation was guided by AYA workshop partic-
+ ipants.
+ 
+<section> Design team training
+ Led by the design expert, the design team engaged in
+ collaborative HCD training, preparation and implemen-
+ tation over 7 months prior to the workshop. Biweekly
+ didactic trainings were held over Zoom from July 2020
+ to October 2020. Topics included A4A study aims; HCD
+ concepts, analysis approaches and practical application
+ of HCD as a research tool; codevelopment of workshop
+ objectives and activities; facilitation skills; adolescent
+ health and HIV; confidence, and team building. Three
+ practical, in-­person trainings among Kenya-­based team
+ members covered practice workshop activity facilitation
+ followed by full team debriefs. Importantly, this fostered
+ formal reflexivity as the design team discussed their
+ perspectives on the HCD questions prior to working with
+ the AYA participants in the workshop.
+ 
+<section> Study procedures
+ Discover phase (March 2020–April 2020)
+ 
+<section> Drawing on: (1) knowledge and experience from deliv-
+ ering patient engagement and other HIV interven-
+ tions in the region, (2) existing data from prior studies
+ conducted by this research team and (3) extant literature,
+ the research team mapped out key insights related to the
+ 
+<section> A4A-­ proposed interventions: E-­ NAV, IP-­ NAV, CCT. 28
+ The team systematically brainstormed and documented
+ answers to the questions: ‘what do we already know?’
+ and ‘what do we need to learn more about?’ to formally
+ reflect on perceived areas of strengths and potential
+ gaps in how the interventions might improve AYA HIV
+ treatment engagement. The areas identified for further
+ learning represented design opportunities for explora-
+ tion in the Define phase.
+ 
+<section> Define phase (April 2020–September 2020)
+ Building on the discover phase, the research team iden-
+ tified specific design challenges (HCD research ques-
+ tions). Through discussion, we generated 18 ‘how might
+ we…?’ questions targeting anticipated intervention
+ effectiveness gaps. 30 Using grouping, rating and ranking
+ according to significance and relevance of knowledge
+ gaps, the research team selected six initial core questions
+ to address during the workshop (table 1). In consulta-
+ tion with the design team, including the AYA workshop
+ cofacilitators, the HCD expert developed participatory
+ design activities for each question to engage AYAs in
+ discovery, ideation and co-­ creation during the work-
+ shop and created facilitation guides for each activity. She
+ drew on underlying qualitative, participatory and design
+ methods to create activity options tailored to the design
+ opportunities and context (table 1). The Kenya-­based
+ design team reviewed activity options, selected the most
+ preferred, and ensured contextual and cultural appropri-
+ ateness. Example activities included journey maps, role
+ plays, storytelling and ‘tomorrow’s headlines’ (table 1).
+ The facilitators internally pilot tested and refined activ-
+ ities before the workshop. Questions and activities were
+ influenced by FGD and DCE work through overlap of
+ research team staff conducting data collection and anal-
+ ysis and iterative discussion of results as they were avail-
+ able.
+ 
+<section> Develop phase (October 2020–December 2020)
+ Our primary co-­creation activities to improve the eNAV,
+ IP-­NAV and CCT interventions were conducted during a
+ 4-­day design workshop held in October 2020. Specifically,
+ the design workshop aimed to (1) build empathy and
+ understanding around engagement and viral suppres-
+ sion between the study team and AYAs; (2) co-­create solu-
+ tions to anticipated HIV retention challenges through
+ adapting the planned A4A study interventions and (3)
+ identify AYA-­ led priorities to which the study should
+ respond, iterating on the discover and define phases.
+ The HCD workshop was AYA-­led with adult co-­facilitator
+ support.
+ 
+<section> Participant selection
+ HCD workshop participants included (1) purposefully
+ sampled AYAs willing to participate and discuss their HIV
+ status and (2) peer navigator implementers of the e-­Nav
+ and IP-­Nav interventions, who were also AYAs openly on
+ ART. The first group were drawn from the three study
+ clinics and AYA study FGD participants. We purposefully
+ sampled for variation in gender, age and childbearing
+ history. 31 Trained research staff members contacted
+ eligible participants by phone or at clinic and conducted
+ verbal informed consent procedures for interested AYAs
+ and assent for caregivers of AYAs <18 years old.
+ 
+<section> Data collection, real-time analysis and documentation
+ Workshop facilitators led the design activities, which
+ were adapted in real-­time based on participant feedback
+ (online supplemental appendix A : workshop agenda)
+ and yielded visualised outputs (e.g., pictures, collages,
+ etc) (online supplemental appendix B: photo images
+ of workshop activities). On completion of each activity,
+ facilitators fostered large group discussions using activity-­
+ specific guiding questions to support reflection, articula-
+ tion of design or prototype-­refinement ideas based on the
+ activity results and synthesis, written on flip charts. Partic-
+ ipants wrote down their thoughts on the most important
+ take-­ away from each activity (participant insight state-
+ ments). A qualitatively trained researcher took workshop
+ ethnographic field notes. 
+<insert> Table 1 Overview of human-­centred design extant knowledge, planned research questions and design activities
+ Discover Define Develop
+ Extant Insights from prior
+ research and experience
+ Key research questions
+ (How might we…?)
+ ► Peer influences are powerful.
+ ► Building trust between AYAs
+ and navigators is essential.
+ How might we facilitate
+ peer navigators to be
+ influential with AYAs they
+ are supporting?
+ The Ideal: Participant create Analogy 27
+ visual composite representations
+ of qualities AYAs value in others
+ (sexual partner, healthcare worker,
+ parent, friend).
+ ► Threats to effective electronic
+ peer support delivery: access,
+ content, voice tone, delivery
+ frequency.
+ How might we provide
+ consistent peer support
+ for AYA who have limited
+ phone access or are in
+ boarding schools?
+ Role plays: Participants write and
+ act out short dramas responding
+ to provided scenarios. Allows for
+ creativity, emotion, humour and
+ movement to explore topics and
+ generate creative solutions.
+ Storytelling 53–55 ► Sense-­making.
+ ► Empathy
+ development.
+ ► Creative problem
+ solving.
+ ► Potential differences in
+ preferences around cash
+ transfer between age groups/
+ other AYA characteristics.
+ ► Funds amount needs to cover
+ transport, be motivating but
+ not excessive.
+ How might we structure
+ incentives to best
+ motivate AYAs to stay in
+ HIV care and be virally
+ suppressed?
+ Incentives prototypes: Present
+ prototypes (models) of incentive
+ delivery to AYAs. Discuss
+ preferences on key prototype
+ features.
+ Rapid, iterative
+ refinement 27 50
+ ► Co-­creation
+ of improved
+ intervention
+ models.
+ Workshop design activity
+ Participatory Purpose of activity/
+ method underlying expected activity
+ activity outcomes
+ ► Care engagement influenced How might we structure Experience (Journey) Map: Narrative
+ by marital status, childbearing, the intervention to Small groups create a step-­by-­ synthesis. 53–55
+ age. respond to needs of step storyboard and context for: A
+ ► AYAs are not a homogenous specific groups (pregnant, health facility visit for AYAs living
+ group age groups, gender)? with HIV.
+ ► Revealed
+ preferences.
+ ► Empathy
+ development.
+ ► Sense-­making.
+ ► Revealed
+ preferences.
+ ► Prioritisation.
+ Tomorrow’s headline: Participants Visioning 27
+ draw hypothetical news stories on
+ what positive change has been
+ realised and how it was realised
+ ► Creative problem
+ solving.
+ ► Prioritisation
+ ► Social network influence How might we support
+ among AYAs which may affect AYAs to engage with
+ care engagement. their social networks
+ to support HIV care
+ engagement?
+ Building a bridge: Participants Storytelling,
+ voluntarily relate a challenging Mapping. 55 57
+ time and connect the people who
+ helped them to planks of a bridge
+ built to cross a river.
+ ► Sense-­making
+ ► Empathy
+ development
+ ► Social network
+ mapping
+ ► Voluntary disclosure supports
+ care engagement.
+ ► AYAs face stigma and
+ other difficulties with status
+ disclosure.
+ Disclosure vignettes: Facilitators Case studies.
+ read out realistic but fictional Narrative
+ short stories then elicit participant synthesis. 27 54 55
+ reactions.
+ ► Revealed
+ preferences.
+ ► Prioritisation
+ ► Creative problem
+ solving
+ ► AYAs need providers who
+ are understanding and
+ supportive of the unique
+ needs of adolescents, yet not
+ all providers are trained/well
+ trained/experienced in youth
+ friendly service provision
+ How might we empower
+ AYAs to interact with
+ providers to meet their
+ needs?
+ How might we provide
+ navigation support that
+ allows AYAs to disclose
+ safely and to support and
+ strengthen adherence
+ when disclosure is not
+ possible?
+ AYA, adolescent and young adult. 
+<iend>
+
+ 
+<section> BMJ Global Health
+ 
+<section> To assess participant workshop experience and accept-
+ ability, we conducted a 10-­ question, anonymous, indi-
+ vidual participant survey self-­administered on a tablet
+ computer at workshop conclusion.
+ 
+<section> Deliver phase (December 2020–April 2021)
+ Informed by conclusions drawn from the first three HCD
+ phases including FGD and DCE results, the full design
+ and trial investigator teams reviewed and brainstormed
+ trial adaptations, prioritised actions and noted concerns
+ not addressed by the trial but critical to share with other
+ stakeholders. High-­level trial adaptation decisions were
+ made through dialogue and trial investigator team
+ consensus, led by principal investigators. Modifications
+ are being tested, in the A4A trial that started in 2021 and
+ will conclude in 2024 (figure 1). Peer navigator HCD
+ participants were among the trial intervention imple-
+ menters, allowing for ongoing reflection and iteration on
+ intervention standard operating procedures and delivery
+ during formal Navigator debriefs, refresher trainings and
+ administrative study reviews.
+ 
+<section> Data analysis
+ 
+<section> During workshop analysis
+ After each workshop day, the full design team held
+ structured debriefs over Zoom lasting approximately 
+<insert> Figure 1 HCD phases, key activities, timeline. HCD, human-­centred 
+<iend>
+
+ 
+<section> 1–1.5 hours. These sessions included (1) General reflec-
+ tions and ways to improve the workshop in subsequent
+ days, (2) For each activity: rapid review of activity-­related
+ data; documentation of high-­level insights guided by ques-
+ tions such as ‘What seemed important?’, ‘What surprised
+ you?’, ‘What confirmed what you already knew?’, ‘What
+ was consistent?’, ‘What was confusing or conflictual?, (3)
+ Rapid identification of design opportunities using brain-
+ storming, affinity clustering and dialogue, 33 (4) Reflec-
+ tion on emerging AYA-­led priorities requiring further
+ exploration and (5) Agreement on subsequent day
+ agenda revisions to ensure responsiveness to emerging
+ priorities and design insights. While priority ‘How might
+ we…?’ questions guided initial activity plans, insights
+ and priorities for intervention adaptations were not
+ restricted to specific activities or questions. Key insights,
+ new questions and trial adaptation ideas were informed
+ by the entirety of the workshop activities and dialogue,
+ including ongoing empathy development throughout.
+ Debrief results were summarised in a report. Initial find-
+ ings were shared with AYAs during the workshop for feed-
+ back and refinement.
+ 
+<section> Postworkshop analysis
+ Postworkshop, the full design team held two analysis
+ sessions over Zoom lasting approximately 2 hours each.
+ Rapid thematic analysis was conducted through iterative
+ workshop data review, dialogue and affinity mapping.
+ Clustered themes were categorised to elucidate higher
+ level insights. Results were compared with ethno-
+ graphic field notes for confirmation and identification
+ 
+<section> BMJ Global Health
+ 
+<section> design.
+ 
+<section> of omissions. Results and interpretation were influenced
+ by FGD and DCE results through overlap in study staff
+ across data collection activities and formal discussion.
+ Thematic insights were documented in translation tables
+ applying abductive thinking 35 to systematically identify
+ trial intervention adaptations and linking in-­workshop
+ results. 36 The research and facilitation teams iteratively
+ contributed adaptation ideas for each of the key insights
+ through in-­person meetings and asynchronous contribu-
+ tions to a document over approximately 2 months.
+ 
+<section> Patient involvement
+ Patients were involved in the design and conduct of
+ this research. Two cofacilitators (24–26 years) comfort-
+ able discussing their HIV status and AYAs on HIV care
+ and treatment at study facilities were actively involved
+ in codesign activities and iteration of patient retention
+ interventions in the study. The two AYA cofacilitators
+ were actively involved in conducting the HCD workshop,
+ data analysis and reporting, and disseminating findings
+ from the workshop to the study team and health facilities.
+ 
+<section> RESULTS
+ 
+<section> Overview
+ 
+<section> Workshop results and intervention adaptations are
+ reported by the three A4A trial interventions that
+ include E-­Nav, IP-­Nav and CCT for ease of interpretation. 
+<insert> Table 2 Example thematic insights and trial adaptations (abbreviated translation table)
+ Key research questions
+ (how might we…?) Key workshop-­derived insights Trial action/adaptation
+ How might we facilitate peer
+ navigators to be influential with
+ AYAs they are supporting?
+ ► AYAs wanted to feel appreciated, not judged.
+ ► AYAs valued having a peer navigator who
+ could ‘walk with them’ by sharing empathetic
+ experiences.
+ ► AYAs wanted to engage on topics other than HIV.
+ ► AYAs valued professional appearance.
+ ► Pretrial navigator training adapted to emphasise
+ empathy and storytelling, and professional
+ appearance during visits.
+ ► Peer navigator training included sexual
+ reproductive health and relationship education
+ modules with appropriate referral options.
+ How might we provide
+ consistent peer support for
+ AYAs who have limited phone
+ access or are in boarding
+ schools?
+ ► AYAs go through trusted adults to access phones
+ or communicate through in-­person visits.
+ ► Modified study protocol to include AYAs with no
+ mobile phone access in the control arm, which
+ allowed them to be eligible for re-­randomisation
+ to one of the more intensive interventions
+ including IP-­Nav and CCT.
+ How might we structure the ► Confidentiality and privacy are paramount. AYAs
+ intervention to respond to needs preferred untraceable messages sent in coded
+ of specific groups (pregnant, language that avoid words like ‘HIV’, ‘viral load’
+ age groups, gender)? ► Concern about too frequent communication.
+ ► AYAs have personal preferences: each one would
+ like engagement responsive to those preferences.
+ ► Modified study text messaging architecture to
+ ensure messages sent were not traceable.
+ ► Harmonised message content with AYA
+ preferences for coded language
+ ► Study protocol changed to reduce planned
+ message frequency.
+ ► Peer navigators trained to assess and respond
+ to individual-­level messaging preferences (eg,
+ option booster communication if desired).
+ How might we empower AYAs
+ to interact with providers to
+ meet their needs?
+ Inductive priority that arose
+ during workshop: How might
+ we improve the required AYAs
+ experiences of transition to
+ adult HIV services?:
+ ► AYAs wanted to increase their own skills in
+ interacting with clinic-­based, adult healthcare
+ workers.
+ ► Enhanced the peer navigator training with role
+ plays on self-­management skills for capacity
+ building AYAs to interact with clinics and
+ providers to meet their needs.
+ ► Transition from adolescent to adult services is a ► Even though outside study scope, training
+ significant area of concern and possible disruption. on transition integrated into peer navigator
+ intervention sessions.
+ ► Findings, including suggestions for peer-­group
+ transition and early awareness of transition
+ shared with facility-­level stakeholders.
+ AYA, adolescent and young adult; CCT, conditional cash transfer; IP-­Nav, in-­person patient navigation. 
+<iend>
+
+ 
+<insert> Table 3 Participant characteristics (n=22)
+ Males (%) Females (%) Total (%)
+ Age group (years)
+  14–17 4 (36.4) 4 (36.4) 8 (36.4)
+  18–24 7 (63.6) 6 (54.5) 13 (59.1)
+ 1 (9.1) 1 (4.5)
+ 7 (63.6)
+ 4 (36.4)
+ 14 (63.6)
+ 8 (36.4)
+  25–27
+ Participant role
+  Clinic patient
+  IP or E-­navigators
+ 7 (63.6)
+ 4 (36.4)
+ IP, in-­person patient navigation. 
+<iend>
+
+ 
+<section> BMJ Global Health
+ 
+<section> Examples of trial intervention adaptations resulting from
+ the workshop are described below, highlights in table
+ Twenty-­two participants engaged in the 4-­day workshop
+ (table 3). Co-­creation activities yielded specific recom-
+ mendations for improving planned interventions, critical
+ principles to employ across interventions, and identifica-
+ tion of additional AYA HIV treatment engagement prior-
+ ities (online supplemental appendix B: photo images of
+ workshop activities).
+ 
+<section> Workshop results and proposed adaptations for trial
+ 
+<section> interventions
+ 
+<section> Electronic navigation
+ The proposed E-­ Nav intervention involved electronic
+ communication (SMS messages, phone calls) to provide
+ peer support for AYA engagement in HIV care. The code-
+ sign workshop revealed that AYAs preferred less frequent
+ communication than initially planned. AYAs concerns
+ included message fatigue and competing school demands.
+ We modified the study protocol, reducing communica-
+ tion frequency between E-­NAVs and AYAs from weekly
+ to every 2 weeks for the first 2 months of intervention
+ assignment, then monthly, with an option for additional
+ sessions as desired by the individual participant.
+ AYAs emphasised that confidentiality and privacy
+ were critical to navigator communication acceptability.
+ 
+<section> AYAs desired text messages that: (1) were not traceable,
+ eliminating the possibility of accidental or intentional
+ discovery of the message origin and (2) used coded
+ language (eg, avoided words such as ‘HIV’, ‘viral load’,
+ ‘clinic appointment’). Further, through conversations
+ about the importance of AYAs being seen holistically,
+ beyond the lens of HIV, AYAs expressed a desire to receive
+ messages related to life priorities and events outside of 
+<section> HIV. For example, encouragement if they performed
+ poorly on a test at school or sending birthday wishes. We
+ revised the HCD workshop agenda to include partici-
+ pants creating actual messages e-­Navigators might send
+ to participants covering the range of topics and types of
+ language they might appreciate. Additionally, we modi-
+ fied our text messaging architecture to ensure messages
+ sent were not traceable and harmonised message content
+ with preferences.
+ Our original trial eligibility criteria excluded AYAs
+ without access to mobile phones, (eg, in boarding schools
+ where phone access is curtailed) because of seemingly
+ critical logistical barriers to the phone-­delivered E-­Nav
+ arm. However, workshop findings demonstrated the
+ exceptional characteristics and circumstances of AYAs
+ who have limited access to mobile phones, underlined
+ the importance of including them and problem solved
+ options for engaging them such as youth-­led connec-
+ tions to trusted boarding school educators with phones
+ or communicating during permitted phone access
+ windows. However, it was noted that delivery of E-­Nav
+ would remain limited in this subgroup as biweekly or
+ even monthly communication would be impossible. Our
+ study protocol was modified to include AYAs without
+ mobile phone access, starting them in the control arm
+ which allowed them to be eligible for re-­randomisation
+ to IP-­Nav or CCT.
+ 
+<section> In-person navigation
+ The proposed IP-­Nav involved in-­person sessions with
+ peer navigators to influence retention and adherence
+ behaviours among AYAs. Acknowledging that not all peer
+ navigators will necessarily be influential to all AYAs, the
+ workshop identified opportunities to improve positive
+ peer navigator influence. Codesign workshop partici-
+ pants highlighted the importance of feeling appreciated
+ and having non-­judgemental navigators who are vested
+ in the preferences, experiences and goals of AYAs. They
+ also desired empathetic navigators who can ‘walk with
+ them’; and are open about sharing their lived experi-
+ ences with HIV treatment. Additionally, they preferred
+ navigators who can comfortably discuss health topics
+ other than HIV, such as sex and sexuality, family plan-
+ ning, life skills and relationships. They also expressed a
+ strong preference for navigators who demonstrate a high
+ level of personal hygiene and neatness. Many participants
+ expressed a desire to have IP-­Navigators share informal
+ recreational time in addition to specific HIV counsel-
+ ling (eg, playing a sport together or meeting caregivers/
+ dependents). However, some older participants strongly
+ preferred limited interaction time to accommodate busy
+ schedules.
+ In response, the pretrial peer navigator training
+ modules were modified to further emphasise active
+ listening skills, facilitation skills, motivational inter-
+ viewing, support discussion of non-­HIV or health-­related
+ interests and sexual reproductive health and relationship
+ education modules with appropriate referral options.
+ The navigator training was adapted to encourage open-
+ ness, empathy and equip them with the story-­ telling
+ skills to share treatment experiences and challenges as
+ learning points, and to emphasise the importance of
+ professional appearance when meeting with AYAs. Based
+ on prior peer educator experiences, the research team
+ felt that encouraging external unstructured interactions
+ outside of study procedures could be problematic in
+ terms of maintaining professional boundaries and future
+ scalability. Therefore, this recommendation was not
+ adopted.
+ Additionally, participants preferred IP-­ Navigators of
+ the same gender, particularly in boarding schools with
+ gender-­segregated environments that extend to visitors.
+ AYAs preferred minimising IP-­Navigator changes once
+ assigned. Gender-­matching was previously planned; We
+ amended study procedures to avoid navigator switches
+ whenever possible.
+ Across e-­ NAV and IP-­ NAV, the importance of navi-
+ gators building trust with the AYAs and demonstrating
+ themselves to be trustworthy arose. This included naviga-
+ tors supporting AYAs and in developing the skills needed
+ to self-­manage their HIV care, which was then included
+ in Navigator training and re-­emphasised during debriefs
+ and annual trainings.
+ 
+<section> Conditional cash transfer
+ Realtime feedback on CCT prototypes largely
+ endorsed the original plan including amount, delivery
+ method and timing. However, two themes related to
+ CCT arose. Some AYAs expressed a strong desire for
+ confidentiality in who received the incentives, while
+ others felt it was okay for their parents and guardians
+ to know if they received an incentive. AYAs advocating
+ confidentiality asserted, ‘funds should be given under
+ water’ (ie, given in secret). Flexibility was consistent
+ with the original study protocol, allowing incentives
+ to be given either directly to the AYAs or to someone
+ the AYAs designated. Caregiver notification was not
+ required (though participants under 18 years had
+ caregiver study consent which explained cash incen-
+ tives may occur). In response to this topic, pretrial
+ training materials around incentives further empha-
+ sised discretion. Additionally, there was a strong senti-
+ ment among HCD participants that viral suppression
+ should not be incentivised, undercutting the study
+ intent. Participants were concerned that: (1) missing
+ an opportunity to receive an incentive would add
+ shame and a feeling of punishment to the stress of
+ having an unsuppressed viral load, (2) if friends knew
+ they were in the study and were planning to use the
+ extra funds in a social setting, not having the funds
+ would reveal their unsuppressed status and cause
+ social discomfort and (3) some viral failure may be
+ outside of the control of the participant if related
+ to drug resistance and would be unfair to withhold
+ funds. Participants felt incentivising clinic visits
+ would be more appropriate. The study team discussed 
+<section> the HCD results with care and attention. Ultimately,
+ it was decided that the potential benefit of improving
+ viral suppression with incentives, supported by extant
+ literature but untested in this population, was worth
+ investigating. Measures to attend to the very real
+ concerns of the AYAs included training and documen-
+ tation procedures to ensure incentive distribution was
+ private and not discussed among study staff members
+ or outside of the study and incentives were based on
+ a combination of viral suppression and clinic attend-
+ ance; further, questions around confidentiality and
+ shame were added to the post-­t rial FGDs around the
+ participant CCT experience to continue learning and
+ improve future CCT use.
+ 
+<section> Principles to employ across interventions
+ 
+<section> Personalisation
+ Throughout the workshop, a strong theme around the
+ desire to have interventions tailored to individual pref-
+ erences as much as possible was present. For example:
+ choosing cash or mobile money for CCT receipt, timing
+ of SMS message receipt in e-­Nav, and choosing optional
+ additional interactions or content areas for discussion
+ in IP-­NAV. In response, we modified our study standard
+ operating procedures to include flexibility when possible
+ and the navigator training curriculum to build navigator
+ capacity to explore AYA preferences.
+ 
+<section> AYA empowerment
+ Participants expressed a desire to improve interac-
+ tions with clinic-­b ased, adult healthcare workers. In
+ response, Navigator training was revised to include
+ assertiveness trainings and role plays on how navi-
+ gators can build AYA capacity in patient–provider
+ communication, expressing their challenges and
+ asking targeted questions to better understand and
+ self-­m anage their health.
+ 
+<section> Emergent themes
+ 
+<section> AYA awareness of HIV status
+ During the workshop, AYAs emphasised the importance
+ of being aware of their own HIV status. Specifically,
+ they expressed concerns about not being informed of
+ their HIV status and believed that healthcare workers
+ and caregivers should be responsible for disclosing this
+ information to them rather than leaving it for them to
+ discover on their own. Knowledge of status is critical
+ to a young person taking responsibility and garnering
+ support. While facilitating disclosure directly was outside
+ of the scope of the study as disclosure was an eligibility
+ criteria to enrol, the study team included these findings
+ in feedback presentations to the clinic on study results
+ and revised the navigator training to include postdisclo-
+ sure support skills.
+ 
+<section> Drug holidays
+ 
+<section> AYAs described ‘drug holidays’ as periods when they
+ decide to stop taking their ART for certain durations and
+ for reasons that include school schedules, stigma (fear
+ of others seeing them take their medication), peer pres-
+ sure, visitors at home, food insecurity, a feeling of good
+ health, ‘no reason’ and pill burden. The research team
+ was aware of drug holidays but was surprised by how this
+ term was widely applied to normalised non-­adherence.
+ Drug holiday assessments were added to navigator
+ training and study intervention forms. Navigators were
+ trained to provide non-­judgemental support for AYAs
+ who discussed drug holidays or intermittent medication
+ adherence, as well as counselling around benefits for
+ all AYAs (including the navigators themselves) to main-
+ taining continual adherence.
+ 
+<section> Importance of transition in AYA retention
+ Through 18 years of age, routine services at the health
+ facilities are provided through a youth-­friendly adoles-
+ cent centre. When AYAs>18 years transitioned to the
+ adult clinic, they described an impersonal, busier, setting
+ with few peer interactions. The challenge of this tran-
+ sition was raised by participants and emphasised as a
+ critical concern. During an added session on this topic
+ participants expressed a strong desire for more support
+ to help AYAs prepare emotionally and better understand
+ how to navigate the adult clinic. Solutions included AYAs
+ being informed about the need to transition prior to age
+ 16 years and transitioning with a group of peers to ease
+ the shift. While not an outcome of the A4A study, the
+ research team opted to integrate training on transition
+ and incorporate transition issues in Navigator interven-
+ tion sessions. Further, the team shared these findings
+ during feedback presentations to the study clinics.
+ 
+<section> Youth-led HCD workshop acceptability
+ Engaging AYAs as codesigners in a workshop-­ based
+ approach was feasible and well-­received by participants.
+ Twenty-­ one of the participants completed the post-
+ workshop survey, with 100% indicating the workshop
+ met their expectations. The workshop content, mix of
+ activities and quality of the facilitation team was rated
+ ‘outstanding’ (means: 4.6, 4.4 and 4.4, respectively, on a
+ 1–5 Likert scale). All but one participant reported they
+ would recommend the workshop to others. Different
+ workshop sessions appealed to different AYAs, with at
+ least 20% of participants rating each of the eight main
+ activities as one of their top three favourites. Elicited
+ specific improvement suggestions included having more
+ time for the workshop, an improved venue, reducing the
+ amount of writing participants did and, most frequently,
+ ‘no changes’ (n=10). The workshop produced results
+ relevant to each of the study ‘how might we…?’ questions
+ and allowed for participant-­driven inquiry.
+ 
+<section> DISCUSSION
+ 
+<section> An HCD approach cofacilitated by youth provided an
+ acceptable and engaging opportunity for youth-­driven
+ inquiry, offering specific, unique solutions and key prior-
+ ities and principles to improve care engagement inter-
+ vention design pretrial. 
+<section> Previous text message research with adult populations
+ including pregnant women, lay health workers and men
+ receiving medical circumcision 37–40 informed initial
+ e-­NAV design. Lessons from HCD yielded key modifica-
+ tions in our approach to delivering texting interventions
+ to AYAs including altering our messaging architecture to
+ ensure untraceable messages, tailoring message to include
+ non-­HIV life priorities, the use of coded language for
+ confidentiality, and reducing message frequency. While
+ consistent with considerations for AYAs text messaging
+ in other research, 41 42 our HCD approach allowed for
+ real-­ time creation of meaningful messages by youth,
+ improving intervention face and content validity. Despite
+ AYAs in boarding schools being described as higher risk
+ groups for poor HIV treatment outcomes, 43 44 consistent
+ with findings from other studies, we observed the impact
+ of limited access to mobile phones as an obstacle to deliv-
+ ering patient retention interventions among them. Our
+ design workshop problem solving identified specific,
+ unique ways of engaging AYAs with limited phone access.
+ While not all these solutions met trial intervention dose
+ requirements, the HCD approach engaged research
+ team empathy, reinforcing the importance of being as
+ inclusive as possible and expanding eligibility criteria.
+ Other m-­health projects with AYAs should consider both
+ creative solutions to phone access and potential limita-
+ tions of m-­health delivery in this key population.
+ Our study revealed that peer navigation might be most
+ influential in improving retention when engagement
+ with young people is based on mutual trust and extends
+ beyond HIV-­ specific support. While unsurprising and
+ consistent with extant literature demonstrating the
+ impact of health provider empathy and confidentiality
+ on adolescent trust, 45 this highlights that establishing and
+ managing relational aspects of peer navigator interven-
+ tions may be as important as peer navigator activities (eg,
+ information sharing, accompanying to clinics). Further,
+ our HCD approach allowed AYAs to lead the dialogue,
+ specifying ways to demonstrate trust worthiness, such as
+ supporting AYAs in developing self-­management skills.
+ Our findings also support increasing calls for patient-­
+ centredness of HIV care provision across interactions
+ with the health facility, with attention given to patient–
+ provider relationships, integration of medical and non-­
+ medical care, support for patient involvement in care
+ and enhanced provider–patient communication. 3 AYAs
+ highlighted that responsiveness to their personalised
+ preferences whenever possible was important to them.
+ For example, they preferred to decide the frequency
+ of communication with navigators, the range of topics
+ discussed and suggested incentive disbursement to be
+ individualised. Both research trials and programmes
+ seeking to engage young people might consider, where
+ feasible, points of personalisation, how to discern pref-
+ erences or offer choice, and respond to those choices
+ within available resources or structures. 46 47 Adaptations
+ emerging from the HCD process may signal important
+ information to discern causal mechanisms in intervention
+ effectiveness. Therefore, documentation of adaptations
+ in intervention delivery and future exploration of how
+ these adaptations impacted outcomes may inform other
+ youth-­focused strategies.
+ The iterative nature of HCD, length of interaction
+ (4 days) building comfort, and explicit support for
+ youth-­led topics allowed key AYA priorities to emerge
+ such as timing of adult to child status disclosure, support
+ for AYAs status disclosure to others, successful transition
+ from adolescent to adult services, and empowering AYAs
+ to improve patient–provider interactions. Engaging AYAs
+ as coresearchers along with the expansive, divergent
+ nature of the HCD thinking allowed ‘drug holidays’, a
+ culturally meaningful situation seemingly antithetical
+ to a study focused on improving adherence, to arise for
+ consideration in a way that would be less likely using other
+ research methods. 49 AYAs demonstrated heterogeneity in
+ their workshop activity preferences, with at least 20% of
+ participants rating each of the eight main activities as one
+ of their top three favourites. Likely influenced by AYA
+ co-­leadership in workshop planning, this demonstrates
+ good fit between co-­creation activities and the participant
+ group. Additionally, it suggests the importance of variety
+ in co-­creation approaches to appeal to variation in partic-
+ ipant preferences. From the research team perspective,
+ valuable insights came out from each activity.
+ This work demonstrates an important research-­based
+ application of a phased HCD approach: formal, inten-
+ sive and interactive reflection to document existing
+ knowledge and gaps from relevant research settings
+ and populations during the Discover phase, guiding the
+ remaining phases. Much HCD guidance assumes limited
+ extant knowledge of the topic and setting as HCD begins
+ and, thus, encourages use of basic and very open-­ended
+ discussions and observations in the discover phase that
+ may be either resource-­intensive or limited in breadth
+ and depth. 50 Many academic researchers familiar with
+ a research topic tend to review extant knowledge infor-
+ mally, rapidly and with minimal stakeholder engagement
+ during study planning and implementation, resulting in
+ limited application of existing knowledge to inform inter-
+ vention development. While this traditional approach
+ may have sufficient value for a given process, our team’s
+ application of formal, iterative documentation, dialogue
+ and review during discovery has distinct benefits. Our
+ team’s approach allowed for efficient yet thorough
+ consideration of extant knowledge and prioritisation of
+ knowledge gaps, systematic pairing of design activities
+ with priority topics, and a structure to augment abductive
+ thinking during solution generation. The study balanced
+ drawing on past research and experience among AYAs
+ in this setting to guide design questions with allowing
+ for within study youth-­driven inquiry. It also benefited
+ from iteration between the study phases including knowl-
+ edge from concurrent DCE and FGD research. The rele-
+ vance of the knowledge documented in discover and the
+ resulting questions generated in define were supported
+ by the AYAs positive reception of the workshop topics, 
+<section> broad learning about study areas of interest across ‘how
+ might we…?’ questions, few but meaningful inductive
+ workshop topics, and salient pretrial adaptations resulting
+ from the develop phase. This systematic approach to
+ discover would be appropriate for teams of researchers
+ embedded in their study area, bringing significant past
+ research and experience in the topic, and able to orga-
+ nise a committed review group.
+ Principled decision-­ making is necessary in applying
+ HCD findings to research studies when not all insights can
+ be accommodated. For example, the study implications
+ of workshop participants’ guidance that viral suppres-
+ sion should not be incentivised would have removed a
+ trial arm. While significant revisions may be appropriate,
+ the research team applied evidence from other settings
+ and theory to maintain the incentive arm. However, the
+ empathy established during the HCD process around
+ incentive-­related concerns, namely that AYAs feel blamed
+ for lack of suppression when it could be a resistance issue,
+ led to the study instituting a process to flag and clinically
+ review unsuppressed viral load results, as well as peer
+ navigator training to avoid blame. Balancing study aims
+ with design results is critical to HCD research, as is trans-
+ parency with HCD participants. When inviting partici-
+ pants into an HCD research process, it is the facilitators’
+ responsibility to ensure that participants are advised that
+ not all solutions will be adopted and that participants be
+ given information to help them understand the scope of
+ the research. 26 33 Future analysis of intervention effective-
+ ness will explore the impact of recommended adapta-
+ tions that were not possible to include through qualitative
+ interviews and intervention satisfaction surveys.
+ 
+<section> Limitations
+ 
+<section> While the broad HCD approach incorporated AYA-­
+ involved iteration on the study design across formative
+ methods (ie, FGDs, DCE and HCD workshop) and over
+ time (eg, HCD phases and peer navigator workshop
+ participants working as intervention implementers which
+ allowed ongoing reflection and adaptation during the
+ trial), iteration on specific design elements by all AYA
+ participants was limited to the 4-­day workshop. The inclu-
+ sion of both peer navigator intervention implementers
+ living with HIV and AYAs with characteristics consistent
+ with expected trial enrollees allowed for multiple inter-
+ vention design perspectives. However, AYAs who were not
+ peer navigators may have felt less knowledgeable or open
+ to share their experiences. Workshop facilitators used
+ small groups, anonymous individual sharing methods
+ such as post-­it notes, and other facilitation techniques
+ to support equal participation. Participants were willing
+ to openly discuss living with HIV, literate in Kiswahili or
+ English, and able to create time to attend the workshop.
+ They may have greater resource access than other AYAs
+ who would benefit from HIV retention support. Study
+ results may be applicable and informative for trans-
+ ferable settings with similar key characteristics such as
+ health systems, HIV epidemiology, research experience
+ and youth population characteristics.
+ 
+<section> CONCLUSIONS
+ Compared with more traditional qualitative research
+ methods, our youth-­led HCD approach supported AYA-­
+ driven inquiry; specific, unique, real-­ time problem
+ solving and solution creation; and rapid empathy cultiva-
+ tion, proving an acceptable, rapid and effective means of
+ identifying intervention-­tailoring opportunities pretrial.
+ Findings highlight that interventions supporting AYAs
+ retention in HIV care and services should prioritise flex-
+ ibility and individualisation to respond to AYA prefer-
+ ences whenever possible. Attention to relational aspects
+ of care interactions, confidentiality, episodic adherence
+ interruptions and care transitions as youth age are para-
+ mount.
+ 
+<section> Author affiliations
+ Centre for Microbiology Research (CMR), Kenya Medical Research Institute,
+ 
+<section> Nairobi, Kenya
+ Department of Global Health, University of Washington, Seattle, Washington, USA
+ Department of International Health, Johns Hopkins University Bloomberg School of
+ Public Health, Baltimore, Maryland, USA
+ Department of Obstetrics, Gynecology, and Reproductive Sciences, University of
+ California, San Francisco, California, USA
+ Department of Child, Family, and Population Health Nursing, University of
+ Washington, Seattle, Washington, USA
+ Family AIDS Care and Education Services (FACES) Clinic, Kisumu, Kenya
+ Department of Medicine, Washington University School of Medicine, St. Louis,
+ 
+<section> Missouri, USA
+ Biostatistics and Epidemiology, University of California, Berkeley, California, USA
+ Department of Pediatrics, University of Colorado, Denver, Colorado, USA
+ 
+<section> Correction notice This article has been corrected since it published online to
+ include the Competing interests statement.
+ 
+<section> Contributors EOA, LKB, LLA and JLK drafted the manuscript. EHG, LLA, EOA,
+ LKB, JLK, GO, HA, SB, EOdoda, FO, COO, TO, EAB, ZK and IE-­W conceptualised and
+ designed the study. EOA, LKB, JLK, GO, HA, SB, EN, JO, IO, NS, BO, JN, COO, EN,
+ EOdoda, EOmondi, FO, COO, TO, ZK, IE-­W, MP, EAB, EHG and LLA contributed to
+ implementation of study activities and data analysis. LLA is the study guarantor. All
+ authors read, revised and approved the final manuscript.
+ 
+<section> Funding Funding National Institute or Nursing Research, National Institutes of
+ Health R01NR018801. National Institute of Mental Health 1K01MH130244 and
+ National Institutes of HealthK24 AI134413.
+ 
+<section> Competing interests Dr. Beres’ contribution to this publication was as a
+ consultant to Washington University in St. Louis. This arrangement has been
+ reviewed and approved by the Johns Hopkins University in accordance with its
+ conflict of interest policies.
+ 
+<section> Patient and public involvement Patients and/or the public were involved in the
+ design, or conduct, or reporting, or dissemination plans of this research. Refer to
+ the Methods section for further details.
+ 
+<section> Patient consent for publication Not applicable.
+ 
+<section> Ethics approval This study involves human participants and ethical approval for
+ this study has been obtained from all relevant Institutional Review Boards (IRBs).
+ In the USA, Washington University in St. Louis (IRB #202006141) is the single IRB
+ of record and has reviewed and approved this study protocol, with the University of
+ Colorado Denver and University of California San Francisco relying on Washington
+ University in St. Louis. In Kenya, the protocol was reviewed and approved by Kenya
+ Medical Research Institute’s (KEMRI) Scientific and Ethics Review Unit (SERU) (IRB
+ #3986). Participants gave informed consent to participate in the study before taking
+ part.
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed. 
+<section> Data availability statement Data are available on reasonable request. In
+ accordance with our NIH-­approved data sharing plan, and in order to protect the
+ privacy of the small number of participants who participate in the study, we will
+ limit sharing to insights and translation tables, available upon reasonable request.
+ 
+<section> Supplemental material This content has been supplied by the author(s). It has
+ not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been
+ peer-­reviewed. Any opinions or recommendations discussed are solely those
+ of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and
+ responsibility arising from any reliance placed on the content. Where the content
+ includes any translated material, BMJ does not warrant the accuracy and reliability
+ of the translations (including but not limited to local regulations, clinical guidelines,
+ terminology, drug names and drug dosages), and is not responsible for any error
+ and/or omissions arising from translation and adaptation or otherwise.
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution Non Commercial (CC BY-­NC 4.0) license, which
+ permits others to distribute, remix, adapt, build upon this work non-­commercially,
+ and license their derivative works on different terms, provided the original work is
+ properly cited, appropriate credit is given, any changes made indicated, and the
+ use is non-­commercial. See: http://creativecommons.org/licenses/by-nc/4.0/.
+ 
+<section> ORCID iDs
+ 
+<section> Eliud Omondi Akama http://orcid.org/0000-0003-1567-4756
+ Bertha Oketch http://orcid.org/0000-0002-6537-6792
+ 
+<section> REFERENCES
+ 1 Jerene D, Abebe W, Taye K, et al. Adolescents living with HIV are
+ at higher risk of death and loss to follow up from care: analysis
+ of cohort data from eight health facilities in Ethiopia. PLoS ONE
+ 2019;14:e0223655.
+ 2 Humphrey JM, Genberg BL, Keter A, et al. Viral suppression among
+ children and their caregivers living with HIV in Western Kenya. J Int
+ 
+<section> AIDS Soc 2019;22:e25272.
+ 3 Haghighat R, Toska E, Bungane N, et al. The HIV care Cascade for
+ adolescents initiated on antiretroviral therapy in a health District
+ of South Africa: a retrospective cohort study. BMC Infect Dis
+ 2021;21:60.
+ 4 United Nations. Youth. Available: https://www.un.org/en/global-​
+ issues/youth [Accessed 25 Jul 2023].
+ 5 Tucker JD, Iwelunmor J, Ezechi OC. Adolescent HIV in Africa:
+ linking local lives and global targets. Lancet Child Adolesc Health
+ 2019;3:203–4.
+ 6 UNICEF. The state of the world’s children 2011: adolescence an age
+ 
+<section> of opportunity; 2011. Unicef
+ 7 Pettifor A, Stoner M, Pike C, et al. Adolescent lives matter:
+ preventing HIV in adolescents. Curr Opin HIV AIDS 2018;13:265–73.
+ 8 Casale M, Carlqvist A, Cluver L. Recent interventions to improve
+ retention in HIV care and adherence to antiretroviral treatment
+ among adolescents and youth: A systematic review. AIDS Patient
+ Care STDS 2019;33:237–52.
+ 9 Reif LK, Bertrand R, Benedict C, et al. Impact of a youth-­friendly HIV
+ clinic: 10 years of adolescent outcomes in port-­au-­prince. J Int AIDS
+ Soc 2016;19:20859.
+ 10 Mburu M, Guzé MA, Ong’wen P, et al. Evaluating the effectiveness
+ of the HIV adolescent package of care (APOC) training on viral load
+ suppression in Kenya. Public Health 2019;173:146–9.
+ 11 Zanoni BC, Sibaya T, Cairns C, et al. Higher retention and viral
+ suppression with adolescent-­focused HIV clinic in South Africa.
+ 
+<section> PLoS One 2017;12:e0190260.
+ 12 World Health Organization. Engaging young people for health and
+ sustainable development: Strategic opportunities for the World
+ Health Organization and partners. 2018: 1–57. Available: http://apps.​
+ who.int/bookorders [accessed 3 May 2021].
+ 13 Jourdan D, Christensen JH, Darlington E, et al. The involvement of
+ young people in School- and community-­based Noncommunicable
+ disease prevention interventions: a Scoping review of designs and
+ outcomes. BMC Public Health 2016;16:1123.
+ 14 Abuosi AA, Anaba EA. Barriers on access to and use of adolescent
+ health services in Ghana. JHR 2019;33:197–207.
+ 15 Bazzano AN, Martin J, Hicks E, et al. Human-­centred design in
+ global health: A Scoping review of applications and contexts. PLoS
+ One 2017;12:e0186744.
+ 16 Dalberg. What is human-­centered design? Dalberg. Dalberg digital
+ publication; 2020. Available: https://dalberg.com/what-is-human-​
+ centered-design/%0Ahttps://www.dalberg.com/what-human-​
+ 
+<section> 17 United States Agency for International Development, PEPFAR.
+ Dapivirine Ring Design Guide: Human-­centered design research to
+ increase uptake and use; 2020.
+ 18 Coffey PS, Kilbourne-­Brook M. Using human-­centred design to
+ develop an innovative female condom. BMJ Innov 2021;7:399–406.
+ 19 Beres LK, Simbeza S, Holmes CB, et al. Human-­centered design
+ lessons for implementation science: improving the implementation
+ of a patient-­centered care intervention. J Acquir Immune Defic Syndr
+ 2019;82 Suppl 3:S230–43.
+ 20 Aifah A, Okeke NL, Rentrope CR, et al. Use of a human-­centered
+ design approach to adapt a nurse-­led cardiovascular disease
+ prevention intervention in HIV clinics. Prog Cardiovasc Dis
+ 2020;63:92–100.
+ 21 Bruns C. Using human-­centered design to develop a program to
+ engage south african men living with HIV in care and treatment. Glob
+ Health Sci Pract 2021;9(Suppl 2):S234–43.
+ 22 Abuogi LL, Kulzer JL, Akama E, et al. Adapt for adolescents:
+ protocol for a sequential multiple assignment randomized trial
+ to improve retention and viral suppression among adolescents
+ and young adults living with HIV in Kenya. Contemp Clin Trials
+ 2023;127:107123.
+ 23 Ministry of Health. Kenya HIV County ProfIles, Available: https://​
+ nsdcc.go.ke/wp-content/uploads/2015/10/KenyaCountyProfiles.pdf
+ [Accessed 7 Apr 2023].
+ 24 The New Double Diamond Design Process Is Here by Dennis
+ 
+<section> Hambeukers Design Leadership Notebook Medium, Available:
+ https://medium.com/design-leadership-notebook/the-new-​
+ double-diamond-design-process-7c8f12d7945e [Accessed 9 Sep
+ 2021].
+ 25 British Design Council, UK Design Council. What is the framework
+ for innovation? Design Council’s evolved Double Diamond.
+ 
+<section> 2015: 1–5. Available: https://www.designcouncil.org.uk/news-​
+ opinion/what-framework-innovation-design-councils-evolved-​
+ 
+<section> double-diamond
+ 26 Bazzano AN, Yan SD, Martin J, et al. Improving the reporting of
+ health research involving design: a proposed guideline. BMJ Glob
+ Health 2020;5:e002248.
+ 27 The Field Guide to Human-­Centered Design, Available: https://www.​
+ designkit.org/ [Accessed 24 Jan 2023].
+ 28 Wanga I, Helova A, Abuogi LL, et al. Acceptability of community-­
+ based mentor mothers to support HIV-­positive pregnant women on
+ antiretroviral treatment in Western Kenya: a qualitative study. BMC
+ Pregnancy Childbirth 2019;19:288.
+ 29 Abuogi LL, Onono M, Odeny TA, et al. Effects of behavioural
+ interventions on postpartum retention and adherence among women
+ with HIV on lifelong ART: the results of a cluster randomized trial in
+ Kenya (the MOTIVATE trial). J Int AIDS Soc 2022;25:e25852.
+ 30 Using “How Might We” Questions to Ideate on the Right Problems,
+ Available: https://www.nngroup.com/articles/how-might-we-​
+ questions/ [Accessed 24 Jan 2023].
+ 
+<section> 31 Patton MQ. Qualitative Research and Evaluation Methods3rd Edition.
+ 
+<section> Thousand Oaks, California: Sage Publications, Inc, 2022.
+ 32 Emerson RM, and IF, Shaw LL. Writing Ethnographic Fieldnotes. In:
+ 2nd ed. Chicago, 2011.
+ 33 Traditional Socio-­Behavioral Research and Human-­Centered
+ 
+<section> Design: Similarities, Unique Contributions and Synergies - The IMPT,
+ Available: https://theimpt.org/traditional-socio-behavioral-research-​
+ and-human-centered-design-similarities-unique-contributions-and-​
+ synergies/ [Accessed 4 Feb 2023].
+ 34 Affinity Diagrams: How to Cluster Your Ideas and Reveal Insights,
+ Available: https://www.interaction-design.org/literature/article/​
+ affinity-diagrams-learn-how-to-cluster-and-bundle-ideas-and-facts
+ [Accessed 4 Feb 2023].
+ 35 Kolko J. Abductive thinking and Sensemaking: the drivers of design
+ synthesis. Design Issues 2010;26:15–28.
+ 36 Haines ER, Kirk MA, Lux L, et al. Ethnography and user-­centered
+ design to inform context-­driven implementation. Transl Behav Med
+ 2022;12:ibab077.
+ 37 Musoke P, Gakumo CA, Abuogi LL, et al. A text Messaging
+ intervention to support option B+ in Kenya: A qualitative study.
+ 
+<section> J Assoc Nurses AIDS Care 2018;29:287–99.
+ 38 Odeny TA, Hughes JP, Bukusi EA, et al. Text Messaging for
+ maternal and infant retention in prevention of mother-­to-­child
+ 
+<section> HIV transmission services: A pragmatic stepped-­wedge cluster-­
+ randomized trial in Kenya. PLoS Med 2019;16:e1002924.
+ 39 Odeny TA, Bukusi EA, Cohen CR, et al. Texting improves testing.
+ 
+<section> AIDS 2014;28:2307–12.
+ 40 Odeny TA, Bailey RC, Bukusi EA, et al. Text Messaging to
+ improve attendance at post-­operative clinic visits after adult male
+ circumcision for HIV prevention: A randomized controlled trial. PLoS 
+<section> 41 Schnall R, Okoniewski A, Tiase V, et al. Using text Messaging
+ to assess adolescents’ health information needs: an ecological
+ momentary assessment. J Med Internet Res 2013;15:e54.
+ 42 Rana Y, Haberer J, Huang H, et al. Short message service (SMS)-­
+ Based intervention to improve treatment adherence among
+ 
+<section> HIV-­positive youth in Uganda: focus group findings. PLoS ONE
+ 2015;10:e0125187.
+ 43 Kihumuro RB, Muganzi DJ, Wandira EG, et al. Influence of boarding
+ secondary school environment on HIV positive students in South
+ Western Uganda. BMC Public Health 2021;21:327.
+ 44 Kose J, Lenz C, Akuno J, et al. Supporting adolescents
+ living with HIV within boarding schools in Kenya. PLoS One
+ 2021;16:e0260278.
+ 45 Hardin HK, Bender AE, Hermann CP, et al. An integrative review of
+ adolescent trust in the Healthcare provider relationship. J Adv Nurs
+ 2021;77:1645–55.
+ 46 Lei H, Nahum-­Shani I, Lynch K, et al. “A "SMART" design for
+ building individualized treatment sequences”. Annu Rev Clin Psychol
+ 2012;8:21–48.
+ 47 Ryan M, Farrar S. Using conjoint analysis to elicit preferences for
+ health care. BMJ 2000;320:1530–3.
+ 48 Wiltsey Stirman S, Baumann AA, Miller CJ. The FRAME: an
+ expanded framework for reporting adaptations and modifications to
+ evidence-­based interventions. Implement Sci 2019;14:58.
+ 49 Bergen N, Labonté R. Everything is perfect, and we have no
+ problems”: detecting and limiting social desirability bias in qualitative
+ research. Qual Health Res 2020;30:783–92.
+ 
+<section> 50 Design Thinking Bootleg — Stanford d.school, Available: https://​
+ dschool.stanford.edu/resources/design-thinking-bootleg [Accessed
+ 
+<section> 22 Jul 2023].
+ 51 Tobin GA, Begley CM. Methodological rigour within a qualitative
+ framework. J Adv Nurs 2004;48:388–96.
+ 52 Wood W, Quinn JM, Kashy DA. Habits in everyday life: thought,
+ emotion, and action. J Pers Soc Psychol 2002;83:1281–97.
+ 53 Hennink M, Hutter I, Bailey A. Qualitative research methods, 2nd ed.
+ 
+<section> SAGE Publications, 2020.
+ 
+<section> 54 Riessman CK. Narrative Methods for the Human Sciences, 1st ed.
+ 
+<section> Boston: SAGE Publications, 2008.
+ 55 Kurtz CF. Working with stories in your community or organization
+ PARTICIPATORY NARRATIVE INQUIRY. In: 3rd edn. edn. New York,
+ 2014.
+ 56 Dickin K, Griffiths M, Group M, et al. Designing by dialogue: a
+ program planners’ guide to consultative research for improving
+ young child feeding prepared for the health and human resources
+ analysis (HHRAA) project. 1997. Available: https://manoffgroup.com/​
+ wp-content/uploads/Designing-by-Dialogue.pdf/ [Accessed 09 Sep
+ 2023].
+ 57 Israel BA. Methods for community-­based participatory research for
+ health. 2013. Available: https://www.wiley.com/en-us/Methods+for+​
+ Community+Based+Participatory+Research+for+Health%2C+2nd+​
+ Edition-p-9781118021866 [Accessed 22 Jul 2023].
+ 58 Kretzmann JP, Mcknight JL. Introduction to “building communities
+ from the inside out: A path toward finding and mobilizing a
+ 
+<section> community’s assets;

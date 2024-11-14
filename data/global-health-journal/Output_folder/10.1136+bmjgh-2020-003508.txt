@@ -1,0 +1,1417 @@
+
+<section> To cite: Jensen SKG,
+ Placencio-­Castro M, Murray SM,
+ et al. Effect of a home-­visiting
+ parenting program to promote
+ early childhood development
+ 
+<section> and prevent violence: a
+ cluster-­randomized trial in
+ Rwanda. BMJ Global Health
+ 2021;6:e003508. doi:10.1136/
+ 
+<section> bmjgh-2020-003508
+ 
+<section> Handling editor Valery Ridde
+ 
+<section> ► 
+<section> Additional material is
+ published online only. To view
+ please visit the journal online
+ (http://​dx.​doi.​org/​10.​1136/​
+ 
+<section> bmjgh-​2020-​003508)
+ 
+<section> Received 21 July 2020
+ Revised 3 November 2020
+ Accepted 23 December 2020
+ 
+<section> © Author(s) (or their
+ employer(s)) 2021. Re-­use
+ permitted under CC BY-­NC. No
+ commercial re-­use. See rights
+ and permissions. Published by
+ BMJ.
+ For numbered affiliations see
+ end of article.
+ 
+<section> Correspondence to
+ Dr Theresa S Betancourt;
+ ​Theresa.​betancourt@​bc.​edu
+ 
+<section> Effect of a home-­visiting
+ 
+<section> program to promote early
+ 
+<section> development and prevent
+ 
+<section> cluster-­randomized trial
+ 
+<section> Sarah KG Jensen, 1 Matias Placencio-­Castro,
+ Robert T Brennan, 1,3 Simo Goshev, 4 Jordan
+ Laura B Rawlings, 6 Briana Wilson, 6 Emmanuel
+ Theresa S Betancourt
+ 
+<section> ABSTRACT
+ 
+<section> Introduction Families living in extreme poverty require
+ interventions to support early-­childhood development
+ (ECD) due to broad risks. This longitudinal cluster
+ randomised trial examines the effectiveness of Sugira
+ Muryango (SM), a home-­visiting intervention linked to
+ Rwanda’s social protection system to promote ECD and
+ reduce violence compared with usual care (UC).
+ 
+<section> Methods Families with children aged 6–36 months
+ were recruited in 284 geographical clusters across three
+ districts. Cluster-­level randomisation (allocated 1:1 SM:UC)
+ was used to prevent diffusion. SM was hypothesised to
+ improve child development, reduce violence and increase
+ father engagement. Developmental outcomes were
+ assessed using the Ages and Stages Questionnaire (ASQ-
+ 3) and the Malawi Development Assessment Tool (MDAT)
+ and anthropometric assessments of growth. Violence was
+ assessed using questions from UNICEF Multiple Indicators
+ Cluster Survey (MICS) and Rwanda Demographic and
+ Health Surveys (DHS). Father engagement was assessed
+ using the Home Observation for Measurement of the
+ Environment. Blinded enumerators conducted interviews
+ and developmental assessments.
+ 
+<section> Results A total of 541 SM families and 508 UC families
+ were enrolled and included in the analyses. Study attrition
+ (2.0% children; 9.6% caregivers) was addressed by
+ hot deck imputation. Children in SM families improved
+ more on gross motor (d=0.162, 95% CI 0.065 to 0.260),
+ communication (d=0.081, 95% CI 0.005 to 0.156),
+ problem solving (d=0.101, 95% CI 0.002 to 0.179) and
+ personal-­social development (d=0.096, 95% CI −0.015
+ to 0.177) on the ASQ-3. SM families showed increased
+ father engagement (OR=1.592, 95% CI 1.069 to
+ 2.368), decreased harsh discipline (incidence rate ratio,
+ IRR=0.741, 95% CI 0.657 to 0.835) and intimate partner
+ violence (IRR=0.616, 95% CI:0.458 to 0.828). There were
+ no intervention-­related improvements on MDAT or child
+ growth.
+ 
+<section> Conclusion Social protection programmes provide a
+ means to deliver ECD intervention.
+ 
+<section> Trial registration number NCT02510313.
+ 
+<section> parenting
+ 
+<section> childhood
+ 
+<section> violence: a
+ 
+<section> in Rwanda
+ 
+<section> 2 Shauna M Murray,
+ Farrar, 1 Aisha Yousafzai,
+ Habyarimana, 7 Vincent Sezibera,
+ 
+<section> Key questions
+ 
+<section> What is already known?
+ 
+<section> ► Early child development interventions can improve
+ developmental outcomes of children in severe
+ poverty.
+ 
+<section> ► Common risk exposures affecting child development
+ in low-­resource settings include malnutrition, paren-
+ tal stress and poor mental health, violence and poor
+ hygiene.
+ 
+<section> What are the new findings?
+ 
+<section> ► Sugira Muryango is a home-­visiting-­based parenting
+ intervention that addresses known risks to child de-
+ velopment in a low-­resource setting.
+ 
+<section> ► We reach the poorest families in Rwanda by lay-
+ ering a parenting intervention into an on-­ going
+ government-­organised social protection programme.
+ 
+<section> What do the new findings imply?
+ 
+<section> ► This trial demonstrates that a scalable home-­visiting
+ intervention delivered by lay workers to recipients
+ of a poverty-­targeted social protection programme
+ can promote early-­childhood development (ECD) and
+ prevent family violence when conducted within a ro-
+ bust system of supervision.
+ 
+<section> ► We add to the evidence for the efficacy and effec-
+ tiveness of lay worker delivered community-­based
+ approaches to promotion of ECD using a strong,
+ well-­powered design.
+ 
+<section> INTRODUCTION
+ Families living in extreme poverty require
+ attention to risks to healthy child devel-
+ opment, such as low stimulation, poor
+ hygiene and nutrition, violence and neglect.
+ Violence is a major factor affecting healthy
+ development, but family violence is rarely
+ addressed in early-­ childhood development
+ (ECD)-­focused interventions. 1 Moreover,
+ the typical focus of ECD interventions is on 
+<section> mothers, 2 limiting the ability to work with the full home
+ environment, including male caregivers. Despite an
+ increasing call to move beyond focusing on mothers in
+ initiatives to promote caregivers’ capabilities to provide
+ enriched environments for children, 3 few interven-
+ tion studies have focused on integrating promotion of
+ father engagement 2 and family violence prevention
+ into programmes that focus on common ECD elements
+ such as nutrition, early learning and nurturing care.
+ ECD interventions are broadly defined as program-
+ matic efforts aimed at supporting healthy child devel-
+ opment across domains of growth, developmental mile-
+ stones, cognition, language and socioemotional devel-
+ opment. Violence prevention may include education
+ on harmful effects of direct and observed violence on
+ children, and introduction of nonviolent strategies for
+ resolving parental disputes and disciplining children.
+ Previous home-­visiting interventions conducted in low
+ and middle-­ income countries demonstrate the value
+ of integrated approaches that link parenting interven-
+ tions to other ECD-­ promoting programmes including
+ economic strengthening programmes such as cash
+ transfer programmes, 5 6 nutritional interventions, 7–9
+ primary healthcare 10 and maternal mental health inter-
+ ventions. 11 However, evidence regarding interventions
+ that combine a focus on improving ECD outcomes and
+ reducing violence against children is sparse or of low
+ quality. A 2018 systematic review identified six studies
+ up to 2014. 12 Only two of these studies involved rando-
+ misation, and both the randomised trial (n=45) and the
+ cluster randomised trial (CRT) (n of clusters=5) lacked
+ sufficient numbers for randomisation to assure balance
+ across treatment and control conditions. We located an
+ additional five studies from January 2015 to May 2020
+ that featured both ECD and child violence outcomes. 13–17
+ Among these recent studies, the rigour of the study design
+ varied considerably. Two trials were randomised, but had
+ insufficient enrolment to assume balance through rando-
+ misation alone, and no stratification or matching was
+ employed. 13 14 More specifically, one small randomised
+ controlled trial of the Triple P-­positive parenting inter-
+ vention in Indonesia observed significant improvements
+ in parenting practices, parental stress and child behav-
+ ioural problems but did not examine developmental
+ milestones. 13 A randomised trial from Liberia found that
+ a parenting intervention successfully reduced harsh disci-
+ pline and improved caregiver–child interactions, but did
+ not observe any improvements in child health or devel-
+ opment. 14 Two studies used a cluster randomised design,
+ each with 24 clusters. One of these was a home-­visiting
+ programme enrolling pregnant women in South Africa,
+ and used matching at the cluster level. This study found
+ that the intervention had a significant effect on child
+ health, growth and language, but did not find significant
+ intervention effects on violence in the home. 15 The other
+ CRT, which was set in Jamaica, was a preschool-­based
+ programme that did not use matching and found positive
+ intervention effects on teacher and child behaviours, but
+ did not examine outcomes related to children’s devel-
+ opmental milestones. 16 Finally, a quasi-­ experimental
+ study using matching of counties across two provinces
+ in China found positive effects of a parenting interven-
+ tion that integrated components from the nurturing
+ care framework with violence prevention on suspected
+ developmental delay, and found that these effects were
+ partially accounted for by improvements in positive disci-
+ pline, cognitive stimulation and child growth. 17 Looking
+ at the previous literature, evidence from even the more
+ rigorous trails has been somewhat mixed. For example,
+ two studies including the CRT from South Africa had
+ significant findings in only one area (ie, ECD or violence
+ reduction). 14
+ Programmes targeting ECD and violence reduction have
+ yet to be evaluated through rigorous, large-­scale studies
+ employing randomised designs to add to the evidence of
+ impact on child outcomes. Government social protection
+ programmes present a potentially innovative platform
+ for integrating home-­visiting interventions to promote
+ ECD interventions, improving nurturing care, health and
+ nutrition, and reducing violence, thus providing a vehicle
+ for targeting poor and vulnerable populations, and
+ combining income support with a focus on behaviours
+ and investments in human capital. 5 The Rwandan
+ government established a social protection programme
+ called the ‘Vision 2020 Umurenge Programme’ in 2007
+ to address poverty and human-­capital related disparities
+ by offering direct support to poor families with young
+ children and public works-­ based support. 18 Moreover,
+ in 2017, the government established the National Early
+ Childhood Development Programme to coordinate and
+ expand an array of ECD initiatives, including ECD centres
+ and home-­visiting interventions for the most vulnerable
+ families. In this paper, we evaluate the effectiveness of the
+ Sugira Muryango (SM) (Strengthen the Family) interven-
+ tion, a relatively brief (12 sessions delivered weekly over
+ 3 months) comprehensive home-­ visiting intervention
+ for families with young children to promote ECD and
+ reduce family violence as implemented by community-­
+ based coaches and delivered in combination with Rwan-
+ da’s social protection programme compared with those
+ receiving usual care (UC) and social protection. We
+ have previously reported intervention effects on care-
+ giver behaviours immediately postintervention. 19 This
+ paper reports on results from a 12-­month follow-­up. In
+ line with our theory of change (figure 1), we hypothesise
+ that participation in SM will be associated with improved
+ child development outcomes 1 year after the intervention
+ ended because previously reported changes in caregiver
+ behaviours have succeed in building a healthy, stimu-
+ lating and safe environment that supports children’s
+ achievement of developmental milestones. Primary
+ outcomes examined at 12-­month follow-­up are therefore
+ children’s developmental milestones, father engagement
+ in childcare and violence reduction (harsh discipline,
+ maternal victimisation to intimate partner violence and
+ paternal perpetration of violence). Given the emphasis 
+<insert> Figure 1 Sugira Muryango theory of change. Reprinted with remission
+ pmc/articles/PMC7201751/. 
+<iend>
+
+ on father engagement and violence reduction, we also
+ hypothesise that such effects will be sustained 1 year after
+ the intervention ended. Measures related to child growth
+ were included as primary outcomes in the clinical trial
+ registration, but later redefined as secondary outcomes in
+ the study protocol in recognition that even programmes
+ that focus on and provide nutritional supplementation
+ struggle to achieve improvements on child growth.
+ 
+<section> METHODS
+ 
+<section> Study design
+ 
+<section> We used a stratified CRT design to test SM’s effect on
+ children’s motor, cognitive, language and social develop-
+ ment, and physical growth, as well as family-­level violence
+ and father engagement in care among families enrolled
+ in the social protection programme. The use of a CRT
+ over simple randomised assignment of families was to
+ reduce the threat of diffusion of elements of SM within
+ the setting of Rwandan villages. The CRT was conducted
+ within three Rwandan districts selected based on the
+ presence of the social protection programme and paying
+ attention to other on-­ going interventions in order to
+ minimise overlap with other large-­scale ECD interven-
+ tions that could bias results. The study protocol can be
+ found with the clinical trials registration cited above.
+ Both coaches and enumerators were blind to the family’s
+ intervention status at the time of baseline assessments.
+ Enumerators were also not informed about the family’s
+ assignment status during the two post-­intervention assess-
+ ments.
+ 
+<section> Participants
+ 
+<section> Families were eligible for inclusion in the study if they:
+ (1) were eligible for either the classic public works, which
+ from Betancourt et al -https://www.ncbi.nlm.nih.gov/
+ 
+<section> provided cash for intensive manual labour, or the newer
+ expanded public works, which provided cash for more
+ flexible, less strenuous work and thus all belonged to
+ the most extreme level of poverty in the government’s
+ household-­ranking system, Ubudehe 1; (2) had one or
+ more child(ren) aged 6–36 months and (3) were willing
+ to engage in a home-­visiting intervention. The age range
+ of 6–36 months was defined to supplement existing ECD
+ service for children in Rwanda, which are most widely
+ available for children aged 5 years and older. Exclusion
+ criteria for caregivers were a severe crisis such as psychosis
+ or suicide attempts or severe cognitive impairment which
+ would prevent the caregiver from responding to the inter-
+ views. All adult caregivers gave written informed consent
+ for themselves and their eligible children. The primary
+ caregiver was defined as the caregiver who self-­identified
+ as knowing the child best, most often the mother.
+ 
+<section> Randomisation and masking
+ Families were enrolled between 9 February 2018 and 27
+ April 2018 (see figure 2 for timeline). Government staff
+ in Nyanza, Ngoma and Rubavu districts provided lists of
+ households that were eligible for the government’s public
+ works programme. Geographically defined clusters were
+ created as non-­overlapping and comprising at least
+ families identified as eligible for the classic public works
+ programme or at least ten families identified as eligible
+ for the newer expanded public works programme, with
+ some clusters containing both ≥30 classic public works
+ and ≥10 expanded public works-­ eligible households.
+ Clusters were formed from one or more contiguous
+ villages so that one coach could provide services to all
+ eligible families in that cluster maintaining a caseload of
+ five families per coach. Within the same cluster, villages 
+<insert> Figure 3 Cluster sampling strategy and flow chart of participants in the Sugira Muryango trial. Although each cluster had a
+ 50% chance of being assigned to receive Sugira Muryango, we were not guaranteed an equal number of Sugira Muryango and
+ usual care clusters because randomisation occurred within relatively small strata that sometimes contained an odd number of
+ clusters. ePw, expanded public works; cPW, classic public works. 
+<iend>
+
+ 
+<section> Figure 2 Study timeline.
+ 
+<section> were selected to be as proximate as possible and as distal
+ from other clusters as possible, such that after random
+ assignment to SM or UC, risk of diffusion to UC fami-
+ lies would be minimised. Given the limited reach of
+ expanded public works programming at the time of the
+ CRT, 100% of clusters containing at least 10 expanded
+ public works families were sampled for participation
+ in the study. Clusters containing classic public works
+ families (including combined clusters) were randomly
+ sampled for inclusion in the CRT until the target sample
+ size of ≥1040 households. Randomisation was completed
+ at the cluster level within strata defined by public works
+ type (expanded public works only, combined expanded
+ public works/classic public works and classic public
+ works only) and geographical sector. By strata, clusters
+ were assigned random numbers and placed on a ranked
+ list. On the randomly ranked list, the first half of clusters
+ were assigned to SM. In case of an uneven number of
+ clusters per strata, randomisation was used to round the
+ number assigned to SM up or down. After cluster assign-
+ ment, households were invited to participate in the study.
+ We retained clusters if at least five families in the classic
+ public works strata or at least one family in the expanded
+ public works strata enrolled and had at least one child
+ aged 6–36 months. The final sample encompassed
+ clusters: 48 expanded PW-­ only clusters, 38 expanded
+ PW/classic PW clusters, and 112 classic PW-­only clusters
+ were retained (figure 3). Given the ongoing roll-­out of 
+<section> the expanded public works programme during the design
+ phase for the CRT, it was not possible to have expanded
+ public works families make up half of our sample, thus,
+ calculations were based on an assumption of 91 expanded
+ public works clusters and 104 classic public works clusters
+ with five households per cluster assigned to SM and UC
+ conditions. After the calculation, further adjustments
+ were made, by adding combined clusters of expanded
+ public works clusters and classic public works randomly
+ allocated to condition. Adding more classic public works
+ clusters allowed us to maintain power to test SM versus
+ UC on the primary hypotheses. The CRT enrolled a total
+ of 1049 households. Randomisation by cluster allocated
+ n=508 families to UC and n=541 families to SM. The
+ overall average number of households per cluster was
+ 6.2 (SD: 2.4), with an average number of households per
+ cluster of 6.0 (SD: 2.2) for UC families and 6.3 (SD: 2.6)
+ for SM families.
+ 
+<section> Intervention component
+ The intervention was implemented from 7 May 2018 to
+ 14 September 2018. The intervention was staggered by
+ district to ensure it started within 2 weeks of baseline data
+ collection. SM is a home-­visiting-­based intervention that
+ uses psychoeducation and active coaching of caregivers
+ to promote responsive caregiving, nutrition, hygiene and
+ nonviolent interactions among household members (see
+ figure 1 and online supplemental table 1 for overview of
+ intervention content). Active participation and engage-
+ ment of both female and male caregivers (as present in
+ the home) in childcare and household-­related decision
+ making was encouraged throughout the programme.
+ Each visit included a 15-­min active play session, in which
+ caregivers received live feedback on parent–child interac-
+ tions to support and enhance responsive care following
+ the UNICEF and the WHO Care for Child Development
+ package 20 and Nurturing Care Framework. 21 Flexible
+ scheduling and messaging during the visits encouraged
+ engagement of male caregivers in play and nurturing
+ care along with female caregivers. The coaches also
+ helped families navigate formal resources such as govern-
+ ment programmes to promote child health and nutrition
+ including supplemental nutrition for malnourished chil-
+ dren and informal supports such as those from neigh-
+ bours and extended family to address issues such as family
+ conflict and housing insecurity. The core evidence-­based
+ parenting curriculum, which makes up the backbone of
+ the SM intervention, was originally developed and tested
+ in HIV/AIDS-­ affected Rwandan families with school-­
+ aged children, which included nonviolent parenting and
+ caregiver conflict resolution strategies. 22 During previous
+ pilot studies, 19 23 a non-­ HIV/AIDS-­ specific version of
+ the SM home-­ visiting programme with an ECD focus
+ was developed by integrating UNICEF/WHO Care for
+ Child Development 20 materials with additional framing
+ consistent with the WHO and UNICEF Nurturing Care
+ Framework. 21 SM comprises 12 modules (see online
+ supplemental table 1 for details) that are delivered by
+ coaches at a pace of about one module per week. Each
+ module takes an average of 60 min.
+ Home-­ visiting modules facilitated by the coaches
+ involved participation of female and male caregivers (as
+ present) in interaction with their child(ren) whereby
+ ‘serve and return’ (ie, responsive) interactions were
+ pointed out and coached to encourage responsive and
+ stimulating parent–child interactions. Other caregivers
+ and children in the household were welcome to partic-
+ ipate. Sessions were facilitated in participating families’
+ homes, unless contraindicated due to privacy concerns.
+ Three-­ month and 6-­ month booster sessions occurred
+ from 18 November 2018 to 7 December 2018 and 4
+ March to 30 March 2019, respectively. The aim of each
+ booster visit was to reconnect with families, identify and
+ address ongoing challenges, and engage caregivers in an
+ ‘active play’ session as modelled in each home-­visiting
+ session (described below); each booster visit was approx-
+ imately 1 hour.
+ The coaches delivering SM were selected from the local
+ community using a three-­step process: (1) nomination
+ from community members; (2) a phone screening and
+ (3) an intensive in-­person interview in which applicants
+ were given a curriculum vignette of a challenging family
+ situation and asked to explain the vignette, instructed
+ to explain an image shown from the curriculum, which
+ depicted family unity, nutrition, father engagement and
+ early stimulation, and administered a writing test to
+ capture demographic information and answer brief ques-
+ tions to identify any prior experience they may have had
+ delivering community-­ based programmes (see online
+ supplemental table 2 for detail on training, supervision
+ and incentive practices). Prior to the start of the interven-
+ tion, coaches participated in a 3-­week training (120 hours),
+ followed by a multilayered approach to supervision that
+ included in-­person supervision during the first 3 weeks
+ of programme delivery, weekly telephone supervision
+ (approximately 12 hours total) and monthly in-­person
+ group supervision. Additionally, weekly in-­person peer
+ support groups, facilitated by lead coaches, were held to
+ complement supervision strategies and promote transfer
+ of audiorecordings for fidelity monitoring using lead
+ coaches’ computers (approximately 15 hours total).
+ Coaches received training on confidentiality and risk of
+ harm protocols. Coaches received a monthly stipend of
+ RWF28 000 (caseload of five households).
+ Families in both the intervention households and the
+ UC condition were eligible for the social protection
+ public works programme and services as usual from the
+ Rwandan government and its partners. There was no
+ incentive associated with participation in SM but all fami-
+ lies (SM and UC) received a stipend (RWF5000 equal to
+ 3 kg of rice) after each data collection time point. Data
+ collection was carried out by trained local enumerators
+ working for an independent research firm, who were
+ blind to the intervention status of the families. Enumer-
+ ators signed confidentiality agreements embedded in
+ their contracts and were trained to identify cases of risk 
+<section> of harm. Assessments were conducted in Kinyarwanda in
+ the family’s home, except anthropometric measurements
+ which were taken at the local health centre. All question-
+ naires were developed from pilot intervention research
+ and were forward-­ translated and back-­ translated from
+ English to Kinyarwanda following standard WHO proce-
+ dures. 23 Data were entered on Android tablets. Baseline
+ assessments were conducted between 23 April 2018 and 1
+ June 2018, with immediate postintervention assessments
+ conducted between 13 August 2018 and 30 September
+ 2018, and 12-­ month follow-­ up assessments conducted
+ between 19 August 2019 and 30 September 2019.
+ 
+<section> Outcome measures
+ The primary caregiver provided information about the
+ household, including family composition and assets. Per
+ our conceptual model (figure 1), the post-­ treatment
+ (3 month) outcomes focused on change in caregiver prac-
+ tices, including parent–child interactions, diet, health/
+ hygiene, family functioning and family violence. 24 The
+ 12-­month primary outcomes, assessed here, focused on
+ changes in children’s motor, language, cognitive and
+ social development, as well as violence reduction, and
+ father’s engagement in caregiving. Secondary outcomes
+ were child stunting (ie, child height for age equal to or
+ more than 2 SD below age and sex norms) and related
+ anthropometric assessments.
+ Child motor, language, cognitive and social devel-
+ opment was assessed using the Ages and Stages Ques-
+ tionnaire (ASQ-3), 25 and the Malawi Developmental
+ Assessment Tool (MDAT). 26 The ASQ-3 is a series of
+ age-­specific questionnaires designed to screen for devel-
+ opmental delay of children in the areas of gross motor
+ skills, fine motor skills, communication and problem
+ solving. We administered the ASQ-3 through interviews
+ with the primary caregiver. No developmental cut-­offs for
+ the ASQ-3 have been validated for use in Rwanda, thus,
+ we used continuous scoring using standard guidelines for
+ obtaining norm-­referenced z-­scores using means and SD
+ from reference samples in South Africa and Zambia.
+ The MDAT is an observational, task-­based measure used
+ to asses child development across domains of gross motor,
+ fine motor, language and socioemotional development.
+ The MDAT was developed for use in Malawi with the aim
+ to be culturally appropriate for use in rural Africa. 26 The
+ MDAT assessment was performed by trained enumera-
+ tors. We obtained norm-­referenced z-­scores using means
+ and SD from the Sanitation Hygiene Infant Nutrition
+ Efficacy study from Zimbabwe.
+ Children’s anthropometric growth was assessed using
+ measures of standardised height-­ for-­ age (HAZ), stan-
+ dardised weight-­for-­age (WAZ), standardised weight-­for-­
+ height (WHZ) and middle upper arm circumference
+ (MUAC). In coordination with community health workers
+ and local leaders, enumerators conducted child growth
+ assessments in centralised locations using locally sourced
+ MUAC tapes and height boards and scales purchased in
+ the USA. The scales were calibrated every day before data
+ collection using a weighing bag as a standard weight, to
+ check that the scales read the same weight at the begin-
+ ning of every day. If the measurements differed in any
+ way, the team checked the equipment and changed
+ batteries if needed to make sure the scales were accu-
+ rate. Height was measured in centimetres to the nearest
+ 0.1 cm. Weight was measured in kilograms to the nearest
+ 1 g. Middle upper arm circumference was measured in
+ centimetres to the nearest 0.1 cm. Standardisation was
+ done using WHO Anthro Survey Analyser software.
+ Father engagement was measured using an item from
+ the Home Observation for Measurement of the Envi-
+ ronment Inventory, 30 namely ‘father spends time every
+ day caring for the child’ with response options ‘yes/no’
+ reported by the primary caregiver. Violent and nonvio-
+ lent discipline practices were assessed using the UNICEF
+ Multiple Indicator Cluster Survey Child Development
+ and Child Disciplinary modules, as reported by the
+ primary caregivers. 31 Exposure to violent disciplinary
+ practices included being shouted or screamed at, called
+ demeaning names, shaken, spanked, slapped or beaten.
+ These exposures were summed to create a continuous
+ score. Intimate partner violence was assessed by the
+ Rwanda Demographic and Health Survey’s Domestic
+ Violence Module among caregivers who reported being
+ currently married, cohabitating or in a relationship. 32 We
+ report experiences of physical or sexual abuse victimisa-
+ tion among female caregivers and perpetration of abuse
+ among male caregivers within the last 3 months. Adverse
+ events were defined as severe malnutrition or illness of
+ the child, caregiver suicidality, reports of severe violence
+ or the death of a caregiver or child.
+ 
+<section> Sample size calculation
+ Data from two previous pilot studies were used to estimate
+ power and determine sample size for a 0.18 minimum
+ detectable standardised effect size (d) on child develop-
+ ment and violence reduction outcomes for the postinter-
+ vention and 12-­month follow-­up period assuming power
+ of 0.8 and a standard two-­tailed alpha level of p<0.05 using
+ Optimal Design V.3.01. Estimated intraclass correlation
+ for geographical clusters was 0.03 for parent–child inter-
+ actions based on published pilot data, 19 23 and a baseline
+ survey conducted in collaboration with UNICEF.
+ 
+<section> Statistical analysis
+ Effectiveness of SM was determined based on significant
+ differences in the slope of the response variable for SM
+ families compared with UC. Data were analysed by fitting
+ a linear mixed effect model for continuous outcomes
+ where the primary predictors were treatment group
+ (SM vs UC), time as a continuous variable, and their
+ two-­way interaction all of which were included as fixed
+ effects. The model had three levels of nesting: children/
+ caregivers are measured within measurement waves,
+ and measurement waves are nested within randomisa-
+ tion cluster or region. Since we expect region-­level and
+ time-­level effects, subject-­specific slopes and intercepts 
+<insert> Growth models
+ (Average change over time in
+ Sugira Muryango compared
+ with usual care)
+ Baseline to
+ postintervention
+ difference†
+ Outcome
+ Difference-­in-­
+ difference* (95% CI)
+ P
+ value Marginal effect (95% CI) Marginal effect (95% CI)
+ Child development outcomes
+  ASQ-3 Gross motor z-­score 0.294 (0.118 to 0.470) 0.001 0.298 (0.150 to 0.446) 0.597 (0.300 to 0.893)
+  ASQ-3 Fine Motor z- score 0.004 (−0.119 to 0.127) 0.95 0.061 (−0.043 to 0.165) 0.122 (−0.086 to 0.330)
+  ASQ-3 Communication z- score 0.139 (0.009 to 0.268) 0.034 0.129 (0.020 to 0.238) 0.259 (0.041 to 0.476)
+  ASQ-3 Prob. Solving z- score 0.159 (0.035 to 0.282) 0.012 0.189 (0.085 to 0.293) 0.379 (0.171 to 0.587)
+  ASQ-3 Social Emotional z- score 0.148 (0.023 to 0.273) 0.020 0.122 (0.017 to 0.228) 0.245 (0.0342 to 0.455)
+  MDAT Gross motor z- score −0.003 (−0.101 to 0.095) 0.951 0.028 (−0.055 to 0.111) 0.055 (−0.111 to 0.221)
+  MDAT fine motor z- score 0.070 (−0.058 to 0.198) 0.283 0.097 (−0.012 to 0.205) 0.193 (−0.023 to 0.410)
+  MDAT language z- score −0.022 (−0.126 to 0.080) 0.668 −0.016 (−0.103 to 0.072) −0.032 (−0.206 to 0.143)
+  MDAT socioemotional z- score 0.073 (−0.016 to 0.164) 0.108 0.060 (−0.016 to 0.136) 0.121 (−0.031 to 0.272)
+ 1.591 (1.069, 2.368) 0.022 1.565 (1.091, 2.244) 2.449 (1.191, 5.037)
+  Height-­for-­age −0.019 (-0.067 to 0.029) 0.44 −0.033 (−0.074 to 0.007) −0.067 (−0.148 to 0.0144)
+  Weight-­for-­age −0.031 (−0.071 to 0.009) 0.139 −0.038 (−0.072 to –0.003) −0.075 (−0.143 to –0.007)
+  Weight-­for-­height −0.016 (−0.069 to 0.037) 0.551 −0.015 (−0.059 to 0.029) −0.030 (−0.119 to 0.0592)
+  Middle upper arm circumference −0.057 (−0.113 to –0.001) 0.046 −0.036 (−0.083 to 0.011) −0.072 (−0.167 to 0.0227)
+ Baseline to 12-­month
+ follow-­up difference†
+ Father engagement
+  Father engagement in childcare‡
+ Child growth outcomes
+ Violence and safety
+  Harsh discipline § 0.741 (0.657 to 0.835)
+  Victimisation (female 0.616 (0.458 to 0.828)
+ caregivers)§, ¶
+  Perpetration (male caregivers)§, ** 0.604 (0.325 to 0.110)
+ <0.001 0.774 (0.688 to 0.870) 0.632 (0.510 to 0.783)
+ 0.001 0.616 (0.425 to 0.893) 0.442 (0.238 to 0.820)
+ 0.110 0.897 (0.708 to 1.134) 0.842 (0.559 to 1.266)
+ *Assesses the significance of the ‘difference-­in-­difference’ or ‘time-­by-­treatment’ interaction coefficient.
+ †Difference in marginal means estimates between Sugira Muryango and usual care at each time point.
+ ‡Among households with a father (N=524), Displayed as OR.
+ §From MICS: UNICEF’s Multiple Indicator Cluster Survey, displayed as incidence rate ratio.
+ ¶Among female caregivers reporting a current intimate partner at baseline (n=523), displayed as incidence rate ratio.
+ **Among male caregivers reporting a current intimate partner at baseline (n=450), displayed as incidence rate ratio.
+ ASQ-3, Ages and Stages Questionnaire; MDAT, Malawi Development Assessment Tool.
+ Table 1 Estimated difference-­in-­difference coefficients for continuous, binary and count outcomes 
+<iend>
+
+ were modelled as random effects nested within rando-
+ misation clusters. Additionally, the type of public works
+ programme the family participated in (a stratifier) was
+ modelled as a fixed effect. Binary outcomes were esti-
+ mated using generalised linear mixed models with
+ a binomial distribution and logistic link, and count
+ outcomes were analysed using multilevel mixed-­effects
+ negative binomial models. Other details of the model
+ are the same as the linear model described above. We
+ defined significance as observing p<0.05 (two tailed) for
+ the interaction term between treatment and time. We
+ also report adjusted effect sizes as the marginal effects
+ from the mixed effects models (marginal effect for
+ continuous outcomes and ORs for binary outcomes) for
+ the baseline to immediate postintervention and baseline
+ to 12-­month follow-­up assessments (table 1). Analyses
+ were conducted in StataMP V.16. 34 Under intention-­to-­
+ treat assumptions, we replaced lost cases using multiple
+ imputation via the HOTDECK plug-­ in module for
+ Stata 35–38 by randomly selecting five cases matched on
+ sex, public works programme type, household structure,
+ age and treatment group for child outcomes; caregiver
+ cases were matched on public works programme type,
+ age, educational achievement and treatment group. This
+ is preferred to carrying the last observation forward, a
+ method now widely understood to be problematic.
+ Quality assurance checks were conducted during data
+ collection using proprietary audit algorithms to review
+ survey metadata and flag unusual submissions for further
+ investigation by a trained data manager and senior field
+ supervisor. A random sample of 10% of all surveys were
+ automatically recorded and reviewed by a supervisor to 
+<section> ensure enumerators followed appropriate data collection
+ protocols.
+ 
+<section> Baseline equivalence and modification of intervention effects
+ 
+<section> by child sex
+ 
+<section> Per Sex and Gender Equity in Research guidelines, we
+ explored baseline equivalence and potential differen-
+ tial intervention effects by child sex by rerunning all
+ models including a main effect of gender, a treatment-­
+ by-­gender interaction, a time point-­by-­gender interac-
+ tion and a treatment-­by-­gender-­by-­time point interac-
+ tion.
+ 
+<section> RESULTS
+ 
+<section> Baseline data were collected on 1084 children and 1498
+ caregivers and intimate partners. Loss to-­follow-­up at
+ 12 months (2.0% for children; 9.6% for caregivers) and
+ item-­level missing data (0.1%–2.5%) were low across the
+ outcomes. Table 2 provides sample descriptive statistics.
+ Caregivers ranged in age from 18 to 84 years at baseline
+ and were most often the biological mother (n=950), the
+ biological father (n=433), or a grandparent (n=96). A
+ total of 70% (n=1048) of the included caregivers were
+ primary caregivers and 30% were secondary caregivers.
+ Among the primary caregivers, 98.9% were female.
+ Among the secondary caregivers 98.4% were male. At
+ baseline, 64% of the caregivers were married or cohab-
+ itating, 61% of the families reported high levels of food
+ insecurity and 48% of the children were stunted as
+ defined by a standardised HAZ score below −2 SD of
+ the reference population at baseline.
+ Results from the linear growth models and marginal
+ effects are shown in table 1. Raw means and SD are
+ reported in the online supplemental table 3; intra-­class
+ correlations for main outcomes are displayed in online
+ 
+<section> supplemental table
+ We observed differences in change over time
+ between SM and UC on the ASQ-3. Intervention fami-
+ lies improved more across the domains of gross motor
+ (β=0.294, 95% CI: 0.118 to 0.470), communication
+ (β=0.139 95% CI 0.009 to 0.268), problem solving
+ (β=0.159, 95% CI 0.035 to 0.282) and personal-­social
+ development (β=0.148, 95% CI 0.023 to 0.273). We did
+ not see any significant group differences in change on
+ fine motor development.
+ We did not observe any significant group differences in
+ changes on the MDAT across any of the domain scores:
+ gross motor, fine motor, language and socioemotional
+ development.
+ Regarding child growth, at 12-­month follow-­up, we
+ did not observe any significant intervention effects on
+ HAZ, WAZ, WHZ or MUAC (all 95% CIs crossed zero).
+ Among families with a father in the household, father
+ engagement increased more in families receiving SM
+ compared with UC (OR=1.592, 95% CI 1.069 to 2.368).
+ Families receiving SM also showed a greater decrease
+ in the use of harsh discipline (IRR=0.741, 95% CI
+ 
+<section> 0.657 to 0.835). Among those in dual-­caregiver house-
+ holds, we found that female caregivers receiving SM
+ showed a greater decrease in intimate partner violence
+ (IRR=0.616, 95% CI 0.458 to 0.828). However, there
+ was no significant reduction of male caregiver reported
+ perpetration of violence towards their partner.
+ Adverse events were reported to SM staff by coaches
+ and enumerators within 24 hours of identification.
+ From baseline to the 12-­month follow-­up assessment,
+ 28 risk of harm cases were reported among interven-
+ tion families while 27 occurred in the UC group (details
+ in online supplemental file 1). These households were
+ retained in the analyses under intention to treat.
+ 
+<section> Effects of child sex
+ Analyses examining baseline equivalence and interven-
+ tion effects by child sex did not reveal any differences in
+ intervention-­related improvements in male versus female
+ children.
+ 
+<section> DISCUSSION
+ 
+<section> The primary hypotheses of greater improvements in
+ child development, violence reduction and father
+ engagement among families receiving the intervention
+ compared with UC was supported for violence reduction,
+ father engagement and developmental outcomes meas-
+ ured by the parent-­reported ASQ-3. For family violence
+ (ie, maternal reports of intimate partner violence and
+ harsh discipline) and father engagement the hypothesis
+ of greater improvement was supported at both points
+ of intervention follow-­up. We did not see significantly
+ greater improvements on the MDAT, however, and
+ there was no evidence of greater improvement in the
+ secondary anthropometric growth outcomes. We have
+ previously shown immediate post-­treatment (3 months)
+ effects of SM on responsive caregiving, caregiver engage-
+ ment in play activities with the child, decreased use of
+ violent discipline and improvements in the mental
+ health of male and female caregivers. 24 We also observed
+ immediate pretreatment to post-­ treatment increases
+ in caregiver behaviours to support healthy child devel-
+ opment including increased dietary diversity, hygiene
+ behaviours and healthcare seeking for sick children
+ among participants in SM relative to families in UC.
+ Our theory of change (figure 1) would predict that
+ such changes in parenting behaviours, in turn, would
+ be lead to improvements in long-­term ECD and growth
+ outcomes. The combination of significant caregiver
+ behavioural change immediately post-­ treatment, and
+ improvement in developmental milestones and sustain-
+ ment of violence reduction at 12-­month postintervention
+ follow-­up supports this theoretical foundation of SM. By
+ linking an ECD programme into an existing social protec-
+ tion infrastructure, SM was able to identify and reach the
+ most vulnerable population of caregivers in Rwanda,
+ those classified as being most vulnerable according to the
+ government’s poverty ranking system. The linkage with 
+<insert> Classic public works (cPW) Expanded public works (ePW)
+ Sugira
+ Muryango+cPW cPW only
+ Sugira Muryango
+ +ePW
+ Households (n=1049)
+ High food insecurity
+ n=374
+ 239 (63.9%)
+ n=374 n=167
+ 229 (61.2%) 104 (62.3%)
+ n=134
+ 70 (52.2%)
+ Children (n=1084) n=386 n=384 n=173 n=141
+ Average age in months 21.0 (8.14) 21.8 (8.6) 20.8 (8.2) 22.3 (8.4)
+  Stunted (standardised height-­for-­age<2) 184 (47.7%) 178 (46.4%) 85 (49.1%) 75 (53.2%)
+  Wasted (standardised weight-­for-­height<2) 13 (3.4%) 9 (2.3%) 8 (4.6%) 2 (1.4%)
+ ePW only
+ Health status and well-­being
+  Underweight (standardised weight-­for-­age<2) 63 (16.3%) 71 (18.5%) 30 (17.3%) 27 (19.1%)
+  Screens positive, disability or developmental delay 110 (28.6%) 111 (29.0%) 57 (32.9%) 38 (27.1%)
+ Disciplinary practices
+  Any violent punishment 184 (47.7%) 180 (47.0%) 83 (48.0%) 59 (41.8%)
+  Caregivers (n=1498) n=555 n=564 n=168
+  Primary caregiver 374 (67.4%) 374 (66.3%) 166 (78.7%) 134 (79.8%)
+  Female 371 (66.9%) 372 (65.9%) 166 (78.7%) 134 (79.8%)
+  Average age in years 34.5 (9.7) 35.7 (10.3) 36.3 (10.6) 37.5 (12.7)
+  (Range) (18-79) (19-75) (18-79) (18-84)
+ 171 (30.8%) 166 (29.4%) 117 (55.5%) 91 (54.2%)
+  Biological mother 341 (61.4%) 338 (59.9%) 152 (72.0%) 119 (70.8%)
+  Biological father 179 (32.3%) 183 (32.4%) 44 (20.9%) 27 (16.1%)
+  Adoptive mother 2 (0.4%) 1 (0.2%) 0 (0.0%) 0 (0.0%)
+  Stepfather 1 (0.2%) 4 (0.7%) 0 (0.0%) 5 (3.0%)
+  Stepmother 1 (0.2%) 0 (0.0%) 0 (0.0%) 0 (0.0%)
+  Aunt/uncle 3 (0.5%) 2 (0.4%) 0 (0.0%) 0 (0.0%)
+  Grandparents 28 (5.0%) 36 (6.4%) 15 (7.1%) 17 (10.1%)
+  No school/don't know 112 (20.2%) 132 (23.4%) 60 (28.4%) 38 (22.6%)
+  <6 years 275 (49.5%) 252 (44.7%) 97 (46.0%) 88 (52.4%)
+  ≥6 years primary 88 (15.9%) 89 (15.8%) 26 (12.3%) 21 (12.5%)
+  Secondary/vocational school 80 (14.4%) 91 (16.1%) 28 (13.3%) 21 (12.5%)
+ 78 (39.8%)
+ 38 (21.2%)
+ 73 (35.3%)
+ 41 (22.3%)
+ 15 (29.4%)
+ 10 (23.3%)
+ 15 (36.6%)
+ 4 (12.5%)
+ n=211
+ Marital Status
+  Single, separated, divorced, widowed
+ Relationship with child
+ Educational Attainment
+ Health and safety
+  Maternal victimisation violence, last 3 months*
+  Paternal perpetration violence, last 3 months*
+ Binary variables reported as frequency (%).
+ *Among mothers (n=495) and fathers (n=438) who are married or cohabitating.
+ Table 2 Characteristics of study participants at enrolment. Continuous variables reported as means (SD) 
+<iend>
+
+ a social protection programme may introduce several
+ other benefits. For example, integration of a parenting
+ intervention within social protection systems may result
+ in higher participation rates and stronger social buy-­in
+ around the parenting programme. Moreover, combined
+ ECD and social protection programmes may benefit
+ from several synergistic effects because social protection
+ programmes tend to provide important benefits such as
+ access to health insurance and healthcare, nutritional
+ counselling and/or supplements, and cash for work that
+ can be directed towards food, and other vital househod
+ expenses, all of which impact a family’s ability to provide
+ a safe and healthy environment for a child.
+ The use of active coaching allowed SM to involve
+ all family members, including fathers and other male
+ caregivers present in the household in nurturing care
+ as reflected in increased father engagement. Indeed,
+ we note that father engagement is one of the strongest 
+<section> effects of SM, especially postintervention where fathers
+ in SM families were 2.5 times more likely to have engaged
+ with their child in the past 24 hours, compared with
+ control fathers. Flexible scheduling and messaging about
+ the importance of fathers in ensuring a nurturing and
+ safe environment for young children to grow and thrive
+ resulted in both high module attendance by fathers and
+ a significant relative increase in fathers’ involvement in
+ childcare. This adds to the important and growing litera-
+ ture on ways to engage fathers in ECD interventions and
+ childcare responsibilities. Previous work from Uganda
+ found that use of father-­only sessions, exploitation of
+ men’s pre-­existing motivation to improve their children’s
+ behaviour, and interactive delivery helped to engage
+ 
+<section> fathers
+ SM also maintained effects on reduced violence,
+ including reduced violent discipline and reduced
+ maternal reports of intimate partner violence observed
+ immediately postintervention and again 1 year after
+ the intervention ended. 24 We did not retain the reduc-
+ tion of paternal-­ reported perpetration of intimate
+ partner violence observed immediately postintervention.
+ Violence reduction is a key aim of SM and is achieved
+ through a combination of psychoeducation and coaching
+ on topics ranging from mindfulness meditation tech-
+ niques, conflict resolution, alternative strategies to harsh
+ discipline, the harmful effect of harsh discipline, the
+ benefits of responsive care and father engagement in
+ childcare. We believe that the use of active coaching and
+ instruction was central in establishing persistent changes
+ in caregiver behaviours. The inclusion of violence reduc-
+ tion was motivated by previous identification of violence
+ as a key challenge to ECD among young children in
+ Rwanda. 33 During the intervention, coaches became
+ aware of several incidents of violence in the families
+ they served and worked closely with their supervisor and
+ village officials to assess and resolve such situations and to
+ link families with existing resources.
+ Key strengths of the study compared with prior
+ related studies include the rigorous, well-­powered CRT
+ design and randomisation, including the blinding of the
+ enumerators to treatment condition and geographical
+ separation of SM locations from UC. The use of a strat-
+ ified randomised clustered design with larger numbers
+ of both clusters and families is a marked improvement
+ over studies recently reviewed systematically 12 and found
+ in our own review of more recent studies. 13–17
+ With regard to cognitive developmental outcomes, the
+ results from the ASQ-3 and MDAT were not consistent.
+ The MDAT was new to the Rwandan setting; it is possible
+ that revision of items and other refinements may be
+ necessary to ensure its sensitivity to change over time in
+ that environment. Although both the ASQ-3 (caregiver
+ report) and MDAT (direct assessment) were originally
+ developed as screening tools to detect developmental
+ delay, not growth trends, the ASQ-3 has been widely used
+ in previous intervention studies in settings as diverse as
+ Rwanda, 23 China 17 and Peru 41 and found to be sensitive to
+ effects of home-­visiting and parenting interventions. 42–44
+ The observed effects on the parent-­reported ASQ-3, in
+ the absence of similar effects on observational measures,
+ may suggest that parenting interventions change or sensi-
+ tise parents’ perception of their child’s behaviours and
+ abilities, and thus affect the parents’ ability to provide
+ parent reports over time. Moreover, although interven-
+ tion and control families were exposed to the same test
+ batteries, parents receiving the intervention may feel
+ more encouraged to report on their children’s develop-
+ mental milestones because they know they received an
+ intervention. Interestingly, a similar discrepancy between
+ parent report vs an observer rating was found in an eval-
+ uation of Peru’s home-­ visiting Cuna Mas programme
+ wherein a programme delivery fidelity measure was
+ found to correlate significantly with the ASQ-3 scores,
+ but not with the Bayley scales, 45 a gold-­standard observa-
+ tional measure administered by selected highly trained
+ psychology graduates.
+ SM also did not lead to improvements in child growth.
+ While the 95% CI crosses zero for all estimated effects
+ on growth outcomes, we saw a small negative trend
+ towards lower MUAC in the SM children at the 12-­month
+ follow-­up, but this was not significant. Several factors may
+ explain the absence of positive intervention effects on
+ children’s anthropometric outcomes. At baseline, 48% of
+ the children were stunted, which is known to decrease the
+ opportunity to change a child’s growth trajectory, because
+ the effects of early malnutrition are difficult to reverse.
+ Although the curriculum addresses child feeding, nutri-
+ tion and hygiene with the aim of improving children’s
+ health and growth, a behavioural intervention with active
+ coaching on nurturing care may not be enough to cause
+ measurable improvements in anthropometric growth,
+ particularly among extremely vulnerable households and
+ already malnourished children. For example, parental
+ training in diet among parents in extreme poverty
+ without additional direct nutrition support may not be
+ adequate to overcome past and present malnutrition.
+ In future research, the impact of SM on child growth
+ may be intensified if combined with other programmes,
+ such as child-­focused conditional cash transfers, agricul-
+ tural and food supplementation, health, water, sanitisa-
+ tion and hygiene programmes. Future research should
+ also test the proposed mechanistic pathways of change
+ in child outcomes via changes in caregiver behaviours
+ put forward in our theory of change. Moreover, future
+ analyses looking at potential moderators of interven-
+ tion outcomes (beyond child sex) should be explored
+ to understand whether certain subpopulations benefit
+ more or less from the intervention.
+ Our results are consistent with other studies that have
+ examined child development and parental behaviour
+ outcomes in the context of combined ECD and govern-
+ ment social protection programmes. In Colombia, an
+ ECD programme that delivered psychosocial stimula-
+ tion (and micronutrient supplementation) to beneficia-
+ ries of the Familias en Acción conditional cash transfer 
+<section> programme yielded promising short-­ term impacts on
+ parenting behaviours and child cognitive develop-
+ ment. 5 Specifically, the parenting intervention, which
+ consisted of weekly home visits by beneficiary-­ elected
+ female community leaders over an 18-­month period, was
+ associated with statistically significant improvements in
+ cognition (effect size 0.26 SD) and receptive language
+ (effect size 0.22 SD). Similarly, results from a randomised
+ controlled trial of a home-­based parenting intervention
+ delivered by local NGOs to households participating in
+ Niger’s unconditional cash transfer programme (Niger
+ Safety Nets) also lend support for integrated approaches
+ to supporting the holistic development of children
+ living in poverty. Among families who participated in
+ the ECD intervention, a combination of monthly home
+ visits and small group meetings, they found that chil-
+ dren had moderate improvements in socioemotional
+ development, and parents interacted with their chil-
+ dren around activities such as storytelling, counting or
+ drawing more frequently and were less likely to use harsh
+ disciplinary practices. 46 Overall, these along with current
+ findings suggest that integrated ECD and social protec-
+ tion programmes hold promise for improvements in
+ child cognitive development and parenting behaviours.
+ Evidence for anthropometric gains in combined ECD and
+ social protection programmes, however, remains elusive.
+ The potential for combined ECD and social protection
+ such as cash transfer programmes to have synergistic
+ effects remains inconclusive and understudied since most
+ studies use social protection as a platform for identifying
+ their beneficiaries and don’t include an ECD-­only arm.
+ SM, a brief, comprehensive ECD intervention delivered
+ by lay coaches, successfully targeted and reached fami-
+ lies living in extreme poverty and provided an oppor-
+ tunity for parenting support to complement income
+ support through two public works programmes. SM is
+ designed to be deployment-­focused, relatively brief and
+ delivered by lay workers with strong fidelity monitoring
+ and quality improvement-­ focused supervision. Scaling
+ out the programme to reach large numbers of families
+ in extreme poverty might best be achieved through the
+ utilisation of a pre-­existing government workforce. In
+ Rwanda, such a work force includes the inshuti z’umury-
+ ango (friends of the family) child protection worker and
+ other community health workforces. Linkage of ECD
+ programmes to the existing social protection platform,
+ as explored in this study, has several advantages; it targets
+ the most disadvantaged, supports equity, and coordinates
+ with other interventions (eg, food supplementation,
+ conditional cash transfers). Combined provision of social
+ protection and ECD intervention may also have several
+ synergistic effects because even greater gains, espe-
+ cially on anthropometric growth may be possible if the
+ programme were integrated explicitly with a programme
+ providing nutritional supplementation. Such synergistic
+ effects will be important to unpack in future research.
+ From an implementation standpoint, coordination
+ across sectors (health and social protection) need to be
+ explored further. Supervision in these systems would need
+ to be addressed to support the workforce to deliver and
+ sustain quality in delivery of the programme which likely
+ requires a different set of competencies. Testing imple-
+ mentation strategies for scaling out the intervention and
+ innovations in structures for sustainment including atten-
+ tion to quality improvement models to support sustained
+ high-­quality supervision will be critical future research.
+ A number of study limitations should be noted. First,
+ given the large sample size and focus on vulnerable fami-
+ lies, some families enrolled in this study may also have
+ been eligible for, and participated in, other interventions
+ beyond SM and the public works programme. During the
+ selection of target districts, we spoke with a broad range
+ of implementors and funders of related programmes to
+ map ongoing interventions and we selected the targeted
+ districts based on minimal overlap with other interven-
+ tions. Still, we cannot rule out the possibility that some
+ families may have participated in other interventions that
+ could influence results, although this should not differ
+ between SM and control families. We also note that this
+ study tested the linkages of an ECD intervention with a
+ social protection programme. Synergistic effects of ECD
+ intervention and social protection may mean that find-
+ ings from the current study do not necessarily gener-
+ alise to poor families who do not have access to social
+ protection programmes. A second limitation is that key
+ outcomes related to violence in the home and child devel-
+ opment assessed on the ASQ is based on parental report.
+ This always introduces some potential for reporting bias.
+ In particular, participation in the study and intervention
+ may have sensitised parents to observing changes in these
+ outcomes.
+ 
+<section> CONCLUSION
+ This CRT integrated SM into Rwanda’s social protection
+ programme as a platform for targeting poor and vulner-
+ able families with the potential for transitioning the
+ SM programme to scale. In particular, the programme
+ had a large and persistent effect on engaging fathers in
+ childcare. Moreover, we also saw smaller but significant
+ effects on violence reduction including intimate partner
+ violence and harsh discipline as well as child develop-
+ ment. With continued attention to quality and fidelity,
+ evidence-­based interventions such as SM can be scaled
+ out across settings, providing the government of Rwanda
+ and others with a critical tool for helping to break inter-
+ generational cycles of poverty and violence.
+ 
+<section> Author affiliations
+ School of Social Work, Boston College, Chestnut Hill, Massachusetts, USA
+ Lynch School of Education and Human Development, Boston College, Chestnut
+ 
+<section> Hill, Massachusetts, USA
+ Women's Study Research Center, Brandeis University, Waltham, Massachusetts,
+ 
+<section> USA
+ Academic Research Services, Boston College, Chestnut Hill, Massachusetts, USA
+ Department of Global Health and Population, Harvard T.H. Chan School of Public
+ 
+<section> Health, Boston, Massachusetts, USA
+ The World Bank, Washington, District of Columbia, USA 
+<section> FXB Rwanda, Kigali, Rwanda
+ Center for Mental Health, University of Rwanda, Kigali, Rwanda
+ 
+<section> Acknowledgements The work was made possible by the collaboration of the
+ University of Rwanda Center for Mental Health, the Ministry of Gender and Family
+ Promotion, the National Child Development Agency (formerly the National Early
+ Childhood Development Program and the National Commission for Children), the
+ Local Administrative Entities Development Agency, and the advisory committee
+ comprised of representatives from the Ministry of Local Government, National
+ Commission for Children, Rwanda Biomedical Centre, Ministry for Gender and
+ Family Promotion, National Early Childhood Development Program and the
+ University of Rwanda School of Nursing.Early Childhood Development Program
+ 
+<section> Contributors TSB conceptualised the study, obtained funding, led intervention
+ development, provided supervision and review of the manuscript. SKGJ had full
+ access to the data and lead the analyses, interpreted results and lead the writing
+ of the manuscript. MPC conducted data analyses, created tables, and contributed
+ to data interpretation and writing and had full access to the data. SMM oversaw
+ intervention implementation, data collection and made significant intellectual
+ contributions to the manuscript content. RTB contributed to study concept and
+ design, statistical consultation and drafting of the manuscript. SG provided expert
+ advice and help with data imputation and analysis. JF oversaw the integrated
+ fidelity monitoring and supervision process and provided critical review of
+ manuscript content.AY contributed subject matter expertise and critical review of
+ manuscript content. LBR and BW contributed to policy dialog management with
+ government counterparts, study design, securing funding, data interpretation and
+ writing. EH oversaw intervention implementation and policy dialog management
+ with local government. VS contributed to intervention adaptation, facilitated contact
+ and dialog with local partners and made significant intellectual contributions to the
+ intervention and manuscript content.
+ 
+<section> Funding World Bank Early Learning Partnership, Strategic Impact Evaluation Fund,
+ World Bank Japan Trust Fund, USAID Rwanda, Network of European Foundations
+ and ELMA Foundation.
+ 
+<section> Disclaimer The World Bank Group (WBG) authors contributed to study design and
+ writing of the manuscript. The findings, interpretations, and conclusions expressed in
+ this paper are entirely those of the authors. They do not necessarily reflect the views
+ of the WBG, its Board of Executive Directors, or the governments they represent. The
+ WBG does not guarantee the accuracy of the information included in this work. The
+ remaining funders, USAID Rwanda, ELMA Foundation, and the Network of European
+ Foundations played no role in study design, data collection, data analysis, data
+ interpretation, or writing of the report.
+ 
+<section> Competing interests None declared.
+ 
+<section> Patient and public involvement statement Design of the intervention was
+ carried out with input and routine consultation from stakeholders at the Ministry
+ of Gender and Family Promotion and the National Early Childhood Development
+ Program in Rwanda. We engaged with village leaders and the Ministry of Local
+ Government (MINALOC), which runs the Poverty Reduction Strategy, the Vision
+ Umurenge Program, prior to and during the study implementation to discuss
+ recruitment of participants and to inform them of the process and outcomes.
+ Representatives from the data collection firm, Laterite, and our collaborators at
+ the University of Rwanda, were closely involved in developing and refining the
+ research-­questions, study design, selection of measures and assessment tools,
+ and ethical procedures. During implementation, we worked closely with our field-­
+ based implementation partner, FXB-­Rwanda, who provided training and supervision
+ to the community-­based coaches to discuss ongoing implementation and emerging
+ issues. At the end of the study, we communicated results at a local dissemination
+ event which included all key stakeholders, including the Government of Rwanda
+ and other organisations that implement child development programs in Rwanda.
+ "The event included a facilitated discussion with program stakeholders, including
+ local government officials and study interventionists, as well as a presentation, led
+ by the Principal Investigator, on program outcomes, lessons learned and next steps.
+ 
+<section> Patient consent for publication Not required.
+ 
+<section> Ethics approval Procedures and research protocols related trial (registration
+ number NCT02510313) received ethics approval from the Harvard T. H. Chan School
+ of Public Health (IRB16-1570) and Boston College Institutional Review Boards
+ (19.017), as well as the Rwanda National Ethics Committee (no approval number
+ provided), National Commission for Science and Technology (no approval number
+ provided), and the National Institute of Statistics of Rwanda (no approval number
+ provided).
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data availability statement Data are available on request. Data can be made
+ available on request and will be made publicly available via the World Bank’s data
+ catalog at a later date.
+ 
+<section> Supplemental material This content has been supplied by the author(s). It has
+ not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been
+ peer-­reviewed. Any opinions or recommendations discussed are solely those
+ of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and
+ responsibility arising from any reliance placed on the content. Where the content
+ includes any translated material, BMJ does not warrant the accuracy and reliability
+ of the translations (including but not limited to local regulations, clinical guidelines,
+ terminology, drug names and drug dosages), and is not responsible for any error
+ and/or omissions arising from translation and adaptation or otherwise.
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution Non Commercial (CC BY-­NC 4.0) license, which
+ permits others to distribute, remix, adapt, build upon this work non-­commercially,
+ and license their derivative works on different terms, provided the original work is
+ properly cited, appropriate credit is given, any changes made indicated, and the
+ use is non-­commercial. See: http://​creativecommons.​org/​licenses/​by-​nc/​4.​0/.
+ 
+<section> REFERENCES
+ 1 Mikton C, MacMillan H, Dua T, et al. Integration of prevention of
+ violence against children and early child development. Lancet Glob
+ Health 2014;2:e442–3.
+ 2 Jeong J, Obradović J, Rasheed M, et al. Maternal and paternal
+ stimulation: Mediators of parenting intervention effects on
+ preschoolers’ development. J Appl Dev Psychol 2019;60:105–18.
+ 3 Knaul FM, Bustreo F, Horton R. Countering the pandemic of gender-­
+ based violence and maltreatment of young people: the Lancet
+ Commission. Lancet 2020;395:98–9.
+ 4 Ward CL, Wessels IM, Lachman JM, et al. Parenting for lifelong
+ health for young children: a randomized controlled trial of a
+ parenting program in South Africa to prevent harsh parenting and
+ child conduct problems. J Child Psychol Psychiatry 2020;61:503–12.
+ 5 Attanasio OP, Fernández C, Fitzsimons EOA, et al. Using the
+ infrastructure of a conditional cash transfer program to deliver a
+ scalable integrated early child development program in Colombia:
+ cluster randomized controlled trial. BMJ 2014;349:g5785.
+ 6 Lachman J, Wamoyi J, Spreckelsen T, et al. Combining parenting
+ and economic strengthening programmes to reduce violence against
+ children: a cluster randomised controlled trial with predominantly
+ male caregivers in rural Tanzania. BMJ Glob Health 2020;5:e002349.
+ 7 Walker SP, Chang SM, Vera-­Hernández M, et al. Early childhood
+ stimulation benefits adult competence and reduces violent behavior.
+ 
+<section> Pediatrics 2011;127:849–57.
+ 8 Yousafzai AK, Obradović J, Rasheed MA, et al. Effects of responsive
+ stimulation and nutrition interventions on children’s development and
+ growth at age 4 years in a disadvantaged population in Pakistan: a
+ longitudinal follow-­up of a cluster-­randomised factorial effectiveness
+ trial. Lancet Glob Health 2016;4:e548–58.
+ 9 Hamadani JD, Huda SN, Khatun F, et al. Psychosocial stimulation
+ improves the development of undernourished children in rural
+ Bangladesh. J Nutr 2006;136:2645–52.
+ 10 Powell C, Baker-­Henningham H, Walker S, et al. Feasibility of
+ integrating early stimulation into primary care for undernourished
+ 
+<section> Jamaican children: cluster randomised controlled trial. BMJ
+ 2004;329:89.
+ 11 Singla DR, Kumbakumba E, Aboud FE. Effects of a parenting
+ intervention to address maternal psychological wellbeing and child
+ development and growth in rural Uganda: a community-­based,
+ cluster-­randomised trial. Lancet Glob Health 2015;3:e458–69.
+ 12 Efevbera Y, McCoy DC, Wuermli AJ, et al. Integrating early child
+ development and violence prevention programs: a systematic
+ review. New Dir Child Adolesc Dev 2018;2018:27–54.
+ 13 Sumargi A, Sofronoff K, Morawska A. A Randomized-­Controlled
+ trial of the triple P-­Positive parenting program seminar series with
+ Indonesian parents. Child Psychiatry Hum Dev 2015;46:749–61.
+ 14 Puffer ES, Green EP, Chase RM, et al. Parents make the difference:
+ a randomized-­controlled trial of a parenting intervention in Liberia.
+ 
+<section> Glob Ment Health 2015;2:e15.
+ 15 Tomlinson M, Rotheram-­Borus MJ, le Roux IM, et al. Thirty-­six-­
+ month outcomes of a generalist Paraprofessional perinatal home
+ visiting intervention in South Africa on maternal health and child
+ health and development. Prev Sci 2016;17:937–48.
+ 16 Baker-­Henningham H, Walker S. Effect of transporting an evidence-­
+ based, violence prevention intervention to Jamaican preschools on 
+<section> teacher and class-­wide child behaviour: a cluster randomised trial.
+ 
+<section> Glob Ment Health 2018;5:e7.
+ Zhou S, Zhao C, Huang X, et al. The effect of a community-­based,
+ integrated and nurturing care intervention on early childhood
+ development in rural China. Public Health 2019;167:125–35.
+ Republic of Rwanda Local Administrative Entities Development
+ Agency (LODA). Environmental and social management framework
+ for the social protection investment project financing operation,
+ 2018. Available: https://www.​undp.​org/​content/​undp/​en/​home/​
+ search.​html?​q=​2020+​Umurenge+​Program+%​28VUP%​29%​0A
+ Betancourt TS, Franchett E, Kirk CM, et al. Integrating social
+ protection and early childhood development: open trial of a family
+ home-­visiting intervention, Sugira Muryango. Early Child Dev Care
+ 2020;190:219–35.
+ World Health Organization, UNICEF. Care for child development:
+ improving the care for young children, 2012. Available: https://
+ www.​who.​int/​maternal_​child_​adolescent/​documents/​care_​child_​
+ 
+<section> development/​en/
+ UNICEF, WHO. The world bank. nurturing care for early child
+ development: a framework for helping children survive and
+ thrive to transform health and human potential. Geneva, 2018.
+ 
+<section> Available: https://​apps.​who.​int/​iris/​bitstream/​handle/​10665/​272603/​
+ 
+<section> 9789241514064-​eng.​pdf
+ Betancourt TS, Ng LC, Kirk CM, et al. Family-­Based promotion
+ of mental health in children affected by HIV: a pilot randomized
+ controlled trial. J Child Psychol Psychiatry 2017;58:922–30.
+ Barnhart DA, Farrar J, Murray SM, et al. Lay-­worker delivered home
+ visiting promotes early childhood development and reduces violence
+ in Rwanda: a randomized pilot. J Child Fam Stud 2020;29:1804–17.
+ Betancourt TS, Jensen SKG, Barnhart DA, et al. Promoting parent-­
+ child relationships and preventing violence via home-­visiting: a
+ pre-­post cluster randomised trial among Rwandan families linked to
+ social protection programmes. BMC Public Health 2020;20:621.
+ Squires J, Bricker D. Ages & stages questionnaires, third edition
+ (ASQ-3): a parent-­completed child-­monitoring system, 2009.
+ 
+<section> Available: https://​brookespublishing.​com/​product/​asq-​3/
+ Gladstone M, Lancaster GA, Umar E, et al. The Malawi
+ developmental assessment tool (MDAT): the creation, validation,
+ and reliability of a tool to assess child development in rural African
+ settings. PLoS Med 2010;7:e1000273.
+ Hsiao C, Richter L, Makusha T, et al. Use of the ages and stages
+ questionnaire adapted for South Africa and Zambia. Child Care
+ Health Dev 2017;43:59–66.
+ Gladstone MJ, Chandna J, Kandawasvika G, et al. Independent
+ and combined effects of improved water, sanitation, and
+ hygiene (wash) and improved complementary feeding on early
+ neurodevelopment among children born to HIV-­negative mothers in
+ rural Zimbabwe: substudy of a cluster-­randomized trial. PLoS Med
+ 2019;16:e1002766.
+ World Health Organization. WHO Anthro survey analyser, 2020.
+ 
+<section> Available: https://www.​who.​int/​childgrowth/​software/​en/
+ 
+<section> 30 Caldwell BM, Bradley RH. Home observation for measurement of the
+ environment: administration manual. Tempe, AZ: Family & Human
+ Dynamics Research Institute, Arizona State University, 2003.
+ 31 UNICEF. MICS5 questionnaire for children under five, 2013.
+ 
+<section> Available: http://​mics.​unicef.​org/​tools?​round=​mics5
+ 32 National Institute of Statistics of Rwanda, ORC Macro. Rwanda
+ demographic and health survey 2005. Kigali, Rwanda, 2006.
+ 
+<section> Available: https://​dhsprogram.​com/​pubs/​pdf/​FR183/​FR183.​pdf
+ 33 UNICEF, Imbuto Foundation. Early childhood development and
+ family services: baseline evaluation in 20 sites in Rwanda, 2015.
+ 
+<section> Available: https://www.​unicef.​org/​evaldatabase/​files/​ECD_​and_​F_​
+ Baseline_​Evaluation_​Rwanda.​pdf 34 Statacorp. StataMP 16. 2019
+ 34 Statacorp, StataMP 16. Release 16. College Station, TX: StataCorp
+ 
+<section> LLC, 2019.
+ 35 Reilly M. Data analysis using hot Deck multiple imputation. The
+ Statistician 1993;42:307–13.
+ 36 Little RJA. Missing-­Data adjustments in large surveys. J Bus Econ
+ Stat 1988;6:287–96.
+ 37 Lachin JM. Fallacies of last observation carried forward analyses.
+ 
+<section> Clin Trials 2016;13:161–8.
+ 38 Mander A, Clayton D. HOTDECK: Stata module to impute missing
+ values using the hotdeck, 1999. Available: https://​ideas.​repec.​org/​c/​
+ 
+<section> boc/​bocode/​s366901.​html
+ 39 Siu GE, Wight D, Seeley J, et al. Men’s Involvement in a Parenting
+ Programme to Reduce Child Maltreatment and Gender-­Based
+ 
+<section> Violence: Formative Evaluation in Uganda. Eur J Dev Res
+ 2017;29:1017–37.
+ 40 Araujo MC, Dormal M, Rubio-­Codina M. Quality of parenting
+ programs and child development outcomes: the case of Peru’s Cuna
+ Mas. Washington D.C. Peru: Ministerio de Educación del Perú, 2018.
+ 41 Atukunda P, Muhoozi GKM, van den Broek TJ, et al. Child
+ development, growth and microbiota: follow-­up of a randomized
+ education trial in Uganda. J Glob Health 2019;9:010431.
+ 42 Worku BN, Abessa TG, Wondafrash M, et al. Effects of home-­
+ based play-­assisted stimulation on developmental performances
+ of children living in extreme poverty: a randomized single-­blind
+ controlled trial. BMC Pediatr 2018;18:29.
+ 43 Mohammed H, El-­Gibaly O, Monazea E, et al. The effect of a
+ maternal training programme on early childhood development in
+ Egypt. East Mediterr Health J 2019;25:575–82.
+ 
+<section> 44 Bayley N. Bayley scales of infant and toddler development. (3rd ED.
+ 
+<section> San Antonio, TX: The Psychological Corporation, 2006.
+ 45 Rubio-­Codina M, Attanasio O, Meghir C, et al. The socioeconomic
+ gradient of child development: cross-­sectional evidence
+ from children 6–42 months in Bogota. J Human Resources
+ 2015;50:464–83.
+ 46 Premand P, Barry O. Behavioral change promotion, cash transfers
+ and early childhood development: experimental evidence from a
+ government program in a low-­income setting. Washington D.C.,
+ 2020. Available: https://​openknowledge.​worldbank.​org/​handle/​
+ 
+<section> 10986/​34385

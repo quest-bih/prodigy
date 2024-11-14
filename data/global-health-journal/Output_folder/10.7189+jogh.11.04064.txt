@@ -1,0 +1,846 @@
+
+<section> © 2021 The Author(s)
+ 
+<section> JoGH © 2021 ISoGH
+ 
+<section> Effect of a story-based,
+ to reduce added
+ web-based randomized
+ 
+<section> Alain Vandormael 1 , Violetta
+ Hachaturyan , Maya Adam 1,2 ,
+ Caterina Favaretti , Jennifer
+ Gates , Till Bärnighausen 1,4,5
+ 
+<section> 1 Heidelberg Institute of Global Health,
+ Heidelberg University, Heidelberg,
+ 
+<section> Germany
+ 2 Department of Pediatrics, Stanford
+ University School of Medicine, Stanford,
+ 
+<section> California, USA
+ 3 Icahn School of Medicine, Mount Sinai,
+ New York, New York, USA
+ 4 Africa Health Research Institute (AHRI),
+ Durban, South Africa.
+ 5 Department of Global Health and
+ Population, Harvard T.H. Chan School
+ of Public Health, Boston, Massachusetts,
+ 
+<section> USA
+ 
+<section> Correspondence to:
+ 
+<section> Dr Alain Vandormael
+ Heidelberg Institute of Global Health (HIGH)
+ Im Neuenheimer Feld 130/3
+ Heidelberg University
+ 
+<section> Heidelberg 69120
+ 
+<section> Germany
+ alain.vandormael@uni-heidelberg.de
+ 
+<section> Cite as: Vandormael A, Hachaturyan V, Adam M, Favaretti C, Gates J, Bärnighausen
+ T. Effect of a story-based, animated video to reduce added sugar consumption: A
+ web-based randomized controlled trial. J Glob Health 2021;11:04064.
+ 
+<section> animated video
+ sugar consumption: A
+ controlled trial
+ 
+<section> Background Short and animated story-based (SAS) videos, which can be rap-
+ idly distributed through social media channels, are a novel and promising strat-
+ egy for promoting health behaviors. In this study, we evaluate the effective-
+ ness of a SAS video intervention to reduce the consumption of added sugars.
+ 
+<section> Methods In December 2020, we randomized 4159 English-speaking partici-
+ pants from the United Kingdom (1:1:1) to a sugar intervention video, a con-
+ tent placebo video about sunscreen use (no sugar message), or a placebo video
+ about earthquakes (no health or sugar message). We nested six list experiments
+ in each arm and randomized participants (1:1) to a control list or a control list
+ plus an item about consuming added sugars. The primary end-points were
+ mean differences (on a scale of 0-100) in behavioral intent and direct resto-
+ ration of freedom to consume added sugars.
+ 
+<section> Results Participants (N = 4013) who watched the sugar video had significantly
+ higher behavioral intent to cut their daily intake of added sugar (mean differ-
+ ence (md) = 16.7, 95% confidence interval (CI) = 1.5-31.8, P = 0.031), eat fresh
+ fruit daily (md = 16.7, 95% CI = 0.5-32.9, P = 0.043), and check food labels for
+ sugar content (md = 20.5, 95% CI = 2.6-38.5, P = 0.025) when compared with
+ the sunscreen (content placebo) video. The sugar video did not arouse intent
+ to restore freedom and consume added sugars when compared with the two
+ placebo videos.
+ 
+<section> Conclusions Our SAS intervention video did not arouse reactance and in-
+ creased short-term behavioral intent among participants to reduce their con-
+ sumption of added sugars. SAS videos, which draw on best practices from the
+ entertainment-education media, communication theory, and the animation in-
+ dustry, can be an effective strategy for delivering emotionally compelling nar-
+ ratives to promote health behavior change.
+ 
+<section> Trial registration German Clinical Trials Register: DRKS00022340
+ Short and animated story-based (SAS) videos are a novel and promising strategy
+ for promoting health behaviors. This strategy draws from entertainment-education
+ media [1,2], communication theory, and the animation industry [3] to create com-
+ pelling, evidence-based health messages that virtually ‘go viral’ [4]. SAS videos can
+ be developed and rapidly deployed on social media channels, avoiding the delays
+ typically associated with sluggish public health campaigns [5-8]. Importantly, SAS
+ videos can creatively sidestep social barriers and convey health messages that are
+ accessible across languages, ages, cultural affiliations, and education levels [4,5]. 
+<insert> Figure 1. An Intertwined Process Cognitive-Affective Model adapted from Dillard & Shen [14] and Zhang [17]. In this model, there are two
+ antecedents to reactance: strength of the threat to freedom and trait proneness to reactance. Reactance is conceptualized as a mediator be-
+ tween the antecedents of reactance and behavioral intent to undertake the promoted health activity. It is an intertwined process consisting
+ of a cognitive and affective component, which is an experience of hostile, aggressive or angry feelings. Further, attitudinal and behavioral
+ intentions are the consequences of reactance. The assessment of behavioral intentions can also help to measure direct restoration of free-
+ dom, which involves performing the forbidden behavior and restoring participant’s need for self-determination and control. 
+<iend>
+
+ Research has shown that packaging health recommendations in a relatable story can be more effective than
+ traditional media approaches that frame health messages as informational arguments [9,10]. To gain further
+ traction as a health communication tool, SAS videos must demonstrate their impact in reducing the knowledge
+ translation gap and improving intent toward the targeted health behavior [11,12].
+ 
+<section> To be effective, SAS videos will have to overcome the same challenges faced by other traditional methods of
+ health persuasion [13]. These methods often fail to achieve the desired effect [14], and in some cases, may
+ arouse a motivation to reject a message, a phenomenon known as reactance [15]. The theory of reactance pos-
+ its that individuals will seek to restore their freedom – after it has been eliminated or threatened with elimi-
+ nation – by performing the forbidden act [16]. In 
+<section> Figure 1, we show a pathway through which a persuasive
+ health message can arouse the direct restoration of freedom [14-17]. This conceptual model also shows how
+ a persuasive message is mediated by the antecedents, components, and consequences of reactance to affect
+ behavioral intent. A SAS intervention video should aim to attenuate direct restoration and increase intent to-
+ ward the promoted health behavior.
+ 
+<section> In this study, we investigate the effectiveness of a SAS video to reduce the consumption of added sugars [18].
+ The excessive intake of added sugars has increased worldwide and been associated with numerous adverse
+ health outcomes, including obesity, type 2 diabetes, and cardiovascular disease [19]. Several interventions
+ have used social media channels to distribute video-based messages about the harmful effects of added sugars.
+ However, a recent systematic review of 34 interventions found that only one-third provided some form of ed-
+ ucational information about how to substitute added sugars with alternatives [20]. Other added sugar studies
+ have included non-animated, web-based videos, such as a puppet show [21], an expert opinion intercut with
+ case studies [22], video courses [23], and storytelling interviews [24]. These interventions ranged from ap-
+ proximately 6-15 minutes in duration, which is longer than the optimal time required for a social media format
+ [21-24]. In addition, the interventions were specific to demographic groups (eg, Filipinos, Taiwanese, Somalis,
+ and Latinos) and populations (eg, children, patients with type 2 diabetes, mothers, and cultural minorities) [21-
+ 24]. One recent study reports that a non-narrative based health message produced significantly higher behav-
+ ioral intent to limit sugar intake than the narrative based comparison [25], while other studies have reported
+ positive changes in health-related behaviors after exposure to narrative-based video interventions [9,26,27].
+ To evaluate the effectiveness of our intervention, we used a randomized controlled trial (RCT) to assign par-
+ ticipants to a SAS video about reducing added sugar intake, or a SAS video about sunscreen use (the content
+ placebo), or a SAS video about earthquakes (the placebo). We hypothesize that the exposure to the interven-
+ tion video will improve behavioral intent to reduce the consumption of added sugars when compared to the
+ content placebo and placebo videos. Intervention effectiveness will be measured by higher behavioral intent
+ scores in the sugar intervention arm. We also hypothesize that the exposure to the intervention video will at-
+ tenuate the direct restoration of freedom to consume added sugars when compared to the content placebo and
+ placebo videos. No statistically significant difference in the direct restoration scores between the intervention
+ and placebo videos will indicate intervention effectiveness. The findings from this study will provide insights
+ for the understanding of reactance-related processes and their effect on behavioral intent in health promotion. Story-based, animated video to reduce added sugar consumption
+ 
+<section> METHODS
+ 
+<section> Trial design
+ 
+<section> In this web-based RCT, we randomized participants 1:1:1 to a SAS video about added sugars (the intervention
+ arm), a SAS video about sunscreen use (the content placebo arm), and a SAS video about earthquakes (the
+ placebo arm). We nested six list experiments in each trial arm. For each list experiment, we randomized par-
+ ticipants 1:1 to a control or treatment group. We motivate our use of the content placebo and placebo arms as
+ well as the list experiment in the Procedures section.
+ 
+<section> Trial registration
+ 
+<section> This study was registered at the German Clinical Trials Register (www.drks.de) on July th , 2020:
+ DRKS00022340.
+ 
+<section> Participants
+ 
+<section> We used the Prolific platform to recruit the web-based study participants. Inclusion criteria included being be-
+ tween the ages of 18 and 59 years (male, female, or other), being able to speak English, and having residence
+ in the United Kingdom (UK). Exclusion criteria were not any of the inclusion criteria. We recruited partici-
+ pants on a ‘first come, first served’ basis until the recruitment number (sample size) was reached. Participants
+ were provided with an informed consent form on the Prolific platform, which explained the purpose of the
+ study, the risks and benefits of the research, and a means by which a participant could contact the research-
+ er or the human subjects review board at Heidelberg University. After consenting, Prolific redirected partici-
+ pants to the Gorilla platform, where the study was hosted. Gorilla is a cloud platform that provides versatile
+ tools to undertake web-based, experimental, and behavioral research. We paid participants £1 (US$1.38) for
+ the 10-minute completion time.
+ 
+<section> Procedures
+ 
+<section> Participants were asked basic demographic questions about their age, gender, and highest education complet-
+ ed. The Gorilla algorithm then randomly assigned participants to the trial arms. Participants watched one SAS
+ video once from start to finish.
+ 
+<section> The sugar intervention video is animated, completely in English, and 3.42 minutes long. It was developed by
+ our co-author (MA) at the Stanford School of Medicine and designed for a diverse and global audience. The
+ two main characters, a mother and her pre-adolescent daughter, engage in food-related activities, such as gro-
+ cery shopping and cooking dinner. The sugar video presents educational content on health problems that arise
+ from consuming added sugars in foods, such as yoghurt, chocolate milk, and breakfast cereals. The narrative
+ also includes the story of the father in this family who dies from diabetes-associated complications from the
+ frequent consumption of soda drinks. It concludes with a text message from the World Health Organization
+ (WHO) about the recommended maximum number of teaspoons of sugar per day.
+ The content placebo video is similar in style to the sugar video: it is animated, has a length of 3.42 minutes,
+ and promotes a health message about the use of sunscreen [28]. We use the content placebo video to isolate
+ the content effect of the sugar intervention video as it does not include the content about added sugars. The
+ placebo video about earthquakes [29] is also animated and has the same length as the sugar and sunscreen
+ videos. It describes the causes and characteristics of earthquakes and contains no health-related message or
+ added sugar message. Since the Sunscreen video promotes a health message and the Earthquake video does
+ not, we attribute any significant difference in the end-points (following random assignment) to the content of
+ the sunscreen message. We call this difference the health awareness effect. The total intervention effect is there-
+ fore the sum of the content and health awareness effects.
+ 
+<section> After random assignment, all participants provided responses to questions about threat to freedom (the an-
+ tecedent to reactance), anger and negative cognition (the components of reactance), and source appraisal and
+ attitude (the consequences of reactance), as shown in 
+<section> Figure 1 and described elsewhere [30,31]. All reactance
+ components were measured on a 5-point Likert scale: (1) strongly disagree; (2) disagree; (3) neither agree nor
+ disagree; (4) agree; (5) strongly agree [32].
+ 
+<section> To reduce socially desirable responses to the behavioral intent and direct restoration questions, we nested six
+ list experiments in each arm. 
+<section> Table 1 shows the six list experiments and their items. We randomized par-
+ ticipants to either a control or treatment group. The control group received a list of five items and the treat- 
+<insert> Table 1. The six list experiments*
+ List 1: Added vs natural sugar
+ This week I feel motivated to ...
+ 1. Spend time watching TV
+ 2. Do the vacuuming in my home
+ 3. Spend time chatting with my friends online
+ 4. Pick a fight with my partner
+ 5. Rinse my nose with salt water daily
+ 6. Cut my daily intake of added sugar [in the treatment list only]
+ List 3: Fresh fruit
+ This week I feel motivated to...
+ 1. Open up a new savings plan at the bank
+ 2. Practice playing a musical instrument
+ 3. Watch a pornographic movie
+ 4. Do some online shopping
+ 5. Clean kitchen counters after use
+ 6. Eat fresh fruit daily [in the treatment list only]
+ List 5: Food labels
+ This week I feel motivated to...
+ 1. Watch a new TV series
+ 2. Practice meditation daily
+ 3. Have alcoholic drinks on at least three evenings
+ 4. Catch up on last week’s work
+ 5. Clean all floor surfaces
+ 6. Check food labels for sugar content [in the treatment list only]
+ List 2: Sugar-sweetened
+ This week
+ 1. Wash
+ 2. Spend
+ 3. Clean
+ 4. Smoke
+ 5. Clip my
+ 6. Reduce
+ List 4: Teaspoons
+ This week
+ 1. Clean
+ 2. Spend
+ 3. Try learning
+ 4. Play a
+ 5. Visit an
+ 6. Count
+ [in the
+ List 6: Home
+ This week
+ 1. Stock
+ 2. Spend
+ 3. Plan my
+ 4. Take
+ 5. Go out
+ 6. Cook
+ *In each trial arm, participants were randomized (1:1) to a control or treatment
+ the first five items only; the treatment group received the five items and a sixth
+ preceded by the question: “How many of the five/six statements do you agree
+ feel motivated (List 1, 3, 5) or unmotivated (List 2, 4, 6) to ...”. 
+<iend>
+
+ ment group received the same list with one additional
+ sugars, consumption of sugar-sweetened beverages,
+ labels, teaspoons of sugar consumed per day,
+ question: “How many of the five/six statements
+ answer how many.” The justification and methodology
+ elsewhere [30,33].
+ 
+<section> Outcome measures
+ 
+<section> We assessed two outcomes: the mean difference
+ sugars and 2) direct restoration of freedom following
+ sess behavioral intent, we used Lists 1, 3, and
+ motivated …”. To assess direct restoration, we
+ “This week I feel unmotivated …”. To avoid order
+ a random order, with the items in each list presented
+ ceiling and floor effects.
+ 
+<section> Statistical methods
+ 
+<section> We used descriptive statistics to obtain means
+ For the primary endpoints we calculated the prevalence
+ ing Lists 1, 3, and 5. We counted the mean number
+ (min = 0, max = 5) and the mean number of items
+ max = 6). For each list experiment, we then estimated
+ ence in the mean behavioral intent scores between
+ we calculated the content effect as the difference
+ sunscreen arms. We also calculated the total intervention
+ 0-100 between the sugar and earthquake arms.
+ action terms in an ordinary least squares (OLS)
+ 
+<section> beverages
+ 
+<section> I feel unmotivated to ...
+ 
+<section> my hands frequently
+ 
+<section> time watching movies
+ 
+<section> the toilets in my home
+ 
+<section> marijuana
+ 
+<section> toenails
+ the amount of sugar-sweetened beverages I drink [in the treatment list only]
+ 
+<section> of sugar
+ 
+<section> I feel unmotivated to...
+ 
+<section> my dishes after use
+ 
+<section> time on the internet
+ a new language
+ 
+<section> prank on my partner
+ 
+<section> online car sales website
+ how many teaspoons of added sugar I eat each day
+ 
+<section> treatment list only]
+ 
+<section> cooking
+ 
+<section> I feel unmotivated to...
+ up on household supplies for a month
+ 
+<section> time gardening by myself
+ 
+<section> next holiday
+ 
+<section> an online course
+ 
+<section> with my friends
+ with fresh, whole foods [in the treatment list only]
+ group. Both groups received six lists. For each list, the control group received
+ item. The items in each list were randomly ordered. Each list experiment was
+ with? We don’t want to know which ones, just answer how many. This week I
+ 
+<section> item. This item included the topic of natural vs added
+ fresh fruit intake, reading of sugar content on package
+ and home cooking. Each list experiment was preceded by the
+ do you agree with? We don’t want to know which ones, just
+ for the list experiment is described in greater detail
+ in 1) behavioral intent to reduce the consumption of added
+ exposure to the intervention or placebo message. To as-
+ 5, which begin the 5/6 items with the words “This week I feel
+ used Lists 2, 4, and 6, which begin the 5/6 items with the words
+ effects, we made Gorilla present the six list experiments in
+ in random order. We constructed the items to minimize
+ and standard deviations of gender, age, and education status.
+ of behavioral intent to reduce added sugar intake us-
+ of items that participants selected from the control list
+ that the participants selected from the treatment list (min = 0,
+ the prevalence of behavioral intent, defined as the differ-
+ the treatment and control groups [34]. From these estimates,
+ in mean scores on a scale of 0-100 between the sugar and
+ effect as the difference in mean scores on a scale of
+ We obtained these estimates by specifying the main and inter-
+ regression model, which is similar to a difference-in-difference 
+<insert> Figure 2. Trial design. 
+<iend>
+
+ Story-based, animated video to reduce added sugar consumption
+ 
+<section> analysis. We calculated standard errors, 95% confidence intervals, and P values for linear combinations of co-
+ efficients from the OLS model. For hypothesis testing for the difference in means, we used a t-distribution and
+ set a significance level at 0.05. Using regression models specifically designed for list experiments, we modelled
+ the effect of each reactance component on behavioral intent [34]. We used all of the above procedures for the
+ direct restoration experiments (List 2, 4, 6). Notation for the end-point calculations can be found in the Sup-
+ plement and the sample size calculation has been described elsewhere [30]. All statistical analyses were per-
+ formed using the statistical software R (version 4.0) (Foundation for Statistical Computing, Vienna, Austria).
+ 
+<section> Protocol
+ 
+<section> The full protocol has been published and can be accessed at any time [30].
+ 
+<section> Availability of data and materials
+ 
+<section> Data has been collected and stored on the Gorilla platform. The study investigators own and have complete
+ control of the research data, which can be accessed at any time. For statistical analysis, the data was download-
+ ed and is safely stored on a computing system maintained by the Heildelberg University.
+ 
+<section> Blinding
+ 
+<section> The participants were completely anonymous to the study investigators as the Prolific platform handled the in-
+ teraction between the study investigators and participants. Only the participant’s unique, anonymized ID was
+ used to manage the linking between the Prolific and Gorilla platforms. The outcome measures were self-re-
+ ported and submitted anonymously. The study investigators and those involved in the data analyses were
+ blinded to the group allocation.
+ 
+<section> Adverse event reporting and harms
+ 
+<section> Because the participants were anonymous to us, we were not able to report any adverse events or harms. It is
+ unlikely there were any adverse events given the format of our 10-minute web-based trial.
+ 
+<section> RESULTS
+ 
+<section> We recruited 4159 participants from the UK on the th and 10 th December 2020. After enrollment, 146 (3.5%)
+ participants did not finish the trial either due to technical reasons (poor internet connection, video
+ loading issues, system crash, etc.) or other unknown reasons. In total, 4013 participants (96.4% of the
+ recruited sam-ple) completed the trial and were included in the final analysis (Figure 2). We present the
+ baseline charac-teristics of the participants by trial arm, including gender, age, and highest education level
+ 
+<section> in 
+<section> Table 2. Of the 
+<insert> Table 2. Summary of demographic characteristics by trial arm (N = 4013)*
+ Gender:
+ Female
+ Male
+ Other
+ Age (year):
+ 18-24
+ 25-34
+ 35-44
+ 45-54
+ 55-59
+ Education:
+ Primary school or less
+ Completed high school
+ Some college, BA
+ MA, PhD
+ Placebo
+ (earthquake video), n =
+ Content
+ (sunscreen
+ 485 (61.2%)
+ 300 (37.9%)
+ 7 (0.88%)
+ 208 (26.3%)
+ 250 (31.6%)
+ 167 (21.1%)
+ 120 (15.2%)
+ 47 (5.93%)
+ 11 (1.39%)
+ 126 (15.9%)
+ 500 (63.1%)
+ 155 (19.6%)
+ *Data are presented as number (n) and proportion (%). We used the χ2 test
+ considered statistically significant. The P-values indicate that there were no significant 
+<iend>
+
+ 
+<section> placebo 
+<section> Intervention 
+<section> P-value
+ 
+<section> video), n = (sugar video), n = 2422
+ 
+<section> 0.486
+ 
+<section> 481 (60.2%) 
+<section> 1476 (60.9%)
+ 
+<section> 313 (39.2%) 
+<section> 937 (38.7%)
+ 5 (0.63%) 9 (0.37%)
+ 
+<section> 0.882
+ 
+<section> 184 (23.0%) 
+<section> 609 (25.1%)
+ 
+<section> 259 (32.4%) 
+<section> 787 (32.5%)
+ 
+<section> 175 (21.9%) 
+<section> 532 (22.0%)
+ 
+<section> 130 (16.3%) 
+<section> 350 (14.5%)
+ 
+<section> 51 (6.38%) 
+<section> 144 (5.95%)
+ 
+<section> 0.783
+ 
+<section> 13 (1.63%) 
+<section> 27 (1.11%)
+ 
+<section> 123 (15.4%) 
+<section> 374 (15.4%)
+ 
+<section> 501 (62.7%) 
+<section> 1573 (64.9%)
+ 
+<section> 162 (20.3%) 
+<section> 448 (18.5%)
+ to compare the demographic variables in three trial arms. A P-value <0.05 was
+ differences in age, gender, or educational status between the trial arms.
+ 
+<section> final sample, 60.9% were female, 32.3% were between 25-34 years of age, and 64.1% had some college ed-
+ ucation or a Bachelor's degree. We observed no statistically significant differences in baseline characteristics
+ across the three trial arms.
+ 
+<section> The mean scores for the six list experiments by trial arm and list treatment group are shown in Figure S1 in the
+ 
+<section> Online Supplementary Document. The difference in mean scores between the treatment and control groups
+ gives the prevalence of behavioral intent (Lists 1, 3, 5) and intent to restore freedom (Lists 2, 4, 6) toward added
+ sugar intake. Scores in the treatment group (6 items) are higher than in the control group (5 items) because of
+ one additional item. These differences represent the prevalence toward behavioral intent or direct restoration
+ of freedom. For example, in List 1 (of Figure S1 in the 
+<section> Online Supplementary Document), the mean score
+ for the intervention arm is 2.7 for the treatment group and 2.31 for the control group. Therefore, the preva-
+ lence of behavioral intent to cut the daily intake of added sugar is 39% (2.7-2.31 × 100).
+ 
+<section> In 
+<section> Figure 3, we compare behavioral intent (List 1, 3, 5) to reduce added sugars (after removing social desir-
+ ability bias) between the sugar, sunscreen, and earthquake videos. Results show that participants who watched
+ the sugar video had significantly higher behavioral intent to cut their daily intake of added sugar (16.7, 95%
+ 
+<section> CI = 1.5-31.8, P = 0.031), eat fresh fruit daily (16.7, 95% CI = 0.5-32.9, P = 0.043), and check food labels for
+ sugar content (20.5, 95% CI = 2.6-38.5, P = 0.025) than those in the content placebo arm. We also observed
+ high behavioral intent to reduce the intake of added sugars between the sugar and earthquake videos but
+ these differences were not statistically different. In 
+<section> Figure 3, we compare behavioral intent to restore freedom
+ (Lists 2, 4, 6) between the sugar, sunscreen, and earthquake videos. We show that there were no statistically
+ significant differences between the three videos, which implies that the sugar video did not arouse reactance
+ to the sugar message.
+ 
+<section> For each list experiment, we also assessed the effect of the six reactance components on behavioral intent and
+ direct restoration. More detailed results for the antecedents, components, and consequences of reactance are
+ presented elsewhere [31]. The plots in 
+<section> Figure 4 show how behavioral intent (Lists 1, 3, 5) and direct resto-
+ ration (Lists 2, 4, 6) change for a 1 unit increase in each reactance component. Results show that participants
+ who had a higher source appraisal score (eg, ‘The narrator of this video was knowledgeable’) and a more fa-
+ vourable attitude score (eg, ‘I agree with what the message recommends’) toward the sugar message were more
+ likely to have higher behavioral intent to reduce their consumption of added sugars. Participants who perceived
+ the message to be threatening (eg, ‘The message threatened my freedom to choose’), or who were angered by
+ the message (eg, ‘This message makes me feel angry’) or had negative cognition (eg, ‘The thoughts I had while
+ watching this video were mostly negative’), or reactance (both anger and negative cognition) were more un-
+ motivated to reduce their consumption of added sugars. Thus, participants with higher scores on these four
+ components were more likely to reject the sugar message. In addition, as the source appraisal and attitude
+ scores decreased, the intent to restore freedom increased (except for List 2 in 
+<section> Figure 4). 
+<insert> Figure 3. Prevalence of behavioral intent (Lists 1, 3, 5) and direct restoration (Lists 2, 4, 6) with 95% CIs by trial arm. The results show that
+ the prevalence of behavioral intent to reduce added sugars was significantly higher among participants who watched the sugar intervention
+ video, compared to participants in the two placebo arms (Lists 1, 3, 5). We also show that the sugar intervention video aroused lower mo-
+ tivation to restore freedom when compared with the two placebo videos (Lists 2, 4, 6), although these differences were not statistically sig-
+ nificant (which is further evidence in support of the effectiveness of the intervention). 
+<iend>
+
+ Story-based, animated video to reduce added sugar consumption 
+<insert> Figure 4. Relationship between the reactance components and behavioral intent (Lists 1, 3, 5) and direct restoration (Lists 2, 4, 6) for the
+ six list experiments. In List 1, for example, a positive source appraisal of the narrator and a favourable attitude toward the sugar message is
+ associated with higher motivation (behavioral intent) to cut the daily intake of sugar. In List 4, an unfavourable attitude toward the sugar
+ message is associated with higher scores for unmotivated intent to count the amount of teaspoons of added sugar (direct restoration). 
+<iend>
+ Story-based, animated video to reduce added sugar consumption
+ 
+<section> DISCUSSION
+ 
+<section> Short and animated (SAS) videos present a promising and effective strategy for promoting healthy behaviors.
+ Such videos can engage large and diverse audiences in evidence-based health education because they use a
+ story format, are emotionally compelling, and can be rapidly distributed through social media channels. Since
+ health education is a cornerstone for changing behaviors, it is crucial to improve the design of SAS videos to
+ increase the long-term impact of such interventions. In this study, we assessed the effectiveness of a SAS vid-
+ eo to improve behavioral intent to reduce the consumption of added sugars and to attenuate the direct resto-
+ ration of freedom to consume added sugars.
+ 
+<section> Our results show that participants who watched the sugar video had significantly higher behavioral intent to
+ reduce added sugars when compared with those who watched the sunscreen (content placebo) video. Specif-
+ ically, participants who watched the sugar video were more motivated to cut their daily intake of added sug-
+ ar, eat fresh fruit daily, and check food labels for sugar content. For these three sugar-related behaviors, be-
+ havioral intent was approximately 16% higher than the sunscreen video and 12% higher than the earthquake
+ video. Based on these results, we find evidence in favour of our first hypothesis, which states that exposure to
+ the sugar intervention will improve behavioral intent to reduce the consumption of added sugars when com-
+ pared to the placebo videos.
+ 
+<section> In this study, we also investigated if participants were likely to reject the sugar message. We did this by mea-
+ suring the participant’s attempt to restore their freedom. The theory of reactance posits that individuals will
+ seek to restore their freedom after it has been threatened with elimination by the health message. Our results
+ show that participants who watched the sugar video did not arouse intent to restore freedom significantly more
+ or less than the placebo videos. Therefore, we cannot support our second hypothesis.
+ An important contribution of our study is that we modelled the effect of the reactance components on behavior-
+ al intent and direct restoration outcomes. This was made possible by recent advances in list regression methods
+ [34]. Our analysis shows that positive appraisal of the source and a favorable attitude towards the sugar mes-
+ sage resulted in higher behavioral intent and lower intent to restore freedom. On the other hand, participants
+ who initially scored higher on the ‘negative’ components of the reactance (threat to freedom, anger, negative
+ cognition) were less motivated to change their behavior and more willing to restore their freedom. The results
+ of our study show that health messages that threaten one’s freedom and arouse reactance will be less success-
+ ful at nudging a person toward the targeted health behavior.
+ 
+<section> Our study has several strengths. First, we used an RCT design, which is the gold standard for evaluating the
+ causal impact of an intervention on a health behavior outcome. Here, we randomized participants to either
+ the sugar video intervention, a content placebo (the sunscreen video) or a placebo (the earthquake video). The
+ content placebo is an innovative feature of our study, which enabled us to quantify the content effect as the
+ difference in mean behavioral intent between the sugar video (the intervention) and the sunscreen video (the
+ content placebo). Since both videos promote a health message, and because of randomization, any significant
+ difference in mean scores should be due to the sugar reduction content of the intervention video. Similarly, we
+ calculated the total intervention effect as the difference in mean scores between the sugar video and the earth-
+ quake video (the placebo). We are not aware of any previous study that has used an experimental approach
+ to partition the effect of a SAS intervention video in this way. A third strength is that we used list experiments
+ to indirectly obtain truthful responses and reduce social desirability bias. Here, we assumed that most partic-
+ ipants know that consuming added sugars is unhealthy and that they will give socially desirable responses.
+ By asking participants to count their agreement with six items, we could indirectly estimate the prevalence of
+ participants that truly intend (in the next week) to reduce their consumption of added sugars.
+ In a previous study using the same data [31], we evaluated the effect of social authority on psychological re-
+ actance to the same sugar video described in this study. We randomized participants to the same placebo vid-
+ eos (sunscreen and earthquake) or the same sugar intervention video narrated by either a child (low social
+ authority), the child’s mother (equivalent social authority), or the family doctor (high social authority). Our
+ hypothesis was that a child narrator would arouse less reactance to the sugar message, because such a narrator
+ would be perceived as less threatening or lacking an ‘ulterior motive’. We found no significant differences in
+ reactance component scores between the three sugar narrators (child, mother, and doctor) [31]. For this study,
+ we therefore treated the three narrated intervention videos as a single intervention video, thus explaining the
+ higher number of participants randomized to the sugar video compared to the placebo videos.
+ Our study has several limitations. One limitation is that we financially compensated participants, which was
+ unavoidable given the web-based format of our study. Because of financial compensation, some studies may 
+<section> attract economically disadvantaged participants, who will be disproportionately represented and may have
+ less individual autonomy when given the choice for a lucrative incentive [35]. In our study, participants
+ were paid £1 (US$1.38) for an expected 10-minute completion time, which is fair (and close to the UK min-
+ imum wage of £6 (US$8.28) per hour for 18-20 year-olds) but not very lucrative [36]. Furthermore, given
+ that 63.6% of the participants had a Bachelor’s degree (or some college) and 83.2% had a Bachelor’s degree
+ or higher (MA, PhD), it is unlikely that our study disproportionately attracted vulnerable or economically
+ disadvantaged participants. It is also widely accepted to compensate healthy participants when the research
+ is not focused on a specific disease or treatment and does not involve potential risks [37]. Another limita-
+ tion is that we were only able to assess short-term behavioral intent to reduce the consumption of added
+ sugars. The impact of our sugar intervention on long-term behavioral change remains unknown. However,
+ our results show a promising impact on short-term behavioral intent, which is a critical first step toward
+ adopting a new behavior [38]. Furthermore, we also demonstrated that the sugar intervention aroused less
+ (but not statistically significant) reactance when compared with the two placebo videos, which is a positive
+ finding. This finding suggests that SAS videos can be an important component in the value chain of pro-
+ moting health behaviors.
+ 
+<section> CONCLUSIONS
+ 
+<section> Overall, the findings of this study demonstrate that our SAS intervention can successfully attenuate reactance
+ and improve short-term behavioral intent to reduce the consumption of added sugars. Importantly, our SAS
+ video did not arouse the participants’ motivation to restore their freedom, indicating the positive impact of
+ the video on the behavioral change. In addition, the results of this study confirm that positive source appraisal
+ and attitude towards the message can serve as reliable predictors of higher behavioral intent and lower free-
+ dom restoration, whereas greater threat to freedom and reactance (composed of anger and negative cognition)
+ may result in lower behavioral intent and higher freedom restoration. These findings can be further used to
+ inform the design of SAS videos and are aligned with existing evidence about the use of powerful video-based
+ messages in health communication [4,6,39]. This work contributes to a larger body of research investigating
+ innovative approaches to digital health messaging that leverage best practices from communication theory,
+ entertainment media, and health education. The goal of such innovation is to meet our audiences where they
+ are (on social media) and to convey science-based health messages that are accessible and engaging across a
+ broad spectrum of cultures, languages, ages, and educational backgrounds.
+ 
+<section> Ethics approval: Ethical approval was obtained from the Heidelberg University’s ethics committee (Universität Heidelberg
+ Ethikkommission der Medizinische Fakultät) on March 18, 2020, protocol: S-088/2020.
+ 
+<section> Funding: This study was funded by the Alexander von Humboldt University Professor Prize awarded to TB.
+ 
+<section> Authorship contributions: AV and VH wrote the paper. MA designed, produced, and created all intervention videos.
+ AV, VH, and CF contributed to the questionnaire development. AV and VH undertook the statistical analysis. AV and TB
+ designed the trial. All authors provided comments and feedback.
+ 
+<section> Competing interests: The authors have completed the ICMJE Declaration of Interest Form (available upon request from
+ the corresponding author) and declare no conflicts of interest.
+ 
+<section> Additional material
+ 
+<section> Online Supplementary Document
+ 
+<section> 1  Kincaid DL. Drama, emotion, and cultural convergence. Commun Theory. 2002;12:136-52. doi:10.1111/j.1468-2885.2002.
+ 
+<section> tb00263.x
+ 
+<section> REFERENCES
+ 
+<section> 2  Slater MD. Entertainment education and the persuasive impact of narratives. Narrative impact: Social and cognitive founda-
+ tions Mahwah, NJ: Lawrence Erlbaum Associates Publishers; 2002.
+ 
+<section> 3  Yoon H, Malecki EJ. Cartoon planet: worlds of production and global production networks in the animation industry. Ind
+ 
+<section> Corp Change. 2010;19:239-71. doi:10.1093/icc/dtp040
+ 
+<section> 4  Adam M, Chase RP, McMahon SA, Kuhnert K-L, Johnston J, Ward V, et al. Design preferences for global scale: a mixed-methods
+ study of “glocalization” of an animated, video-based health communication intervention. BMC Public Health. 2021;21:1223.
+ 
+<section> Medline:34172016 doi:10.1186/s12889-021-11043-w
+ 
+<section> 5  Adam M, McMahon SA, Prober C, Bärnighausen T. Human-centered design of video-based health education: An Iterative,
+ Collaborative, Community-Based Approach. J Med Internet Res. 2019;21:e12128. Medline:30698531 doi:10.2196/12128 
+<section> 6  Vandormael A, Adam M, Greuel M, Bärnighausen
+ study protocol for a multi-site randomized controlled
+ 
+<section> REFERENCES
+ 
+<section> 020-04942-7
+ 
+<section> 7  Vandormael A, Adam M, Greuel M, Gates J, Favaretti
+ eo intervention on COVID-19 prevention: an online
+ Germany, and Spain. JMIR Public Health Surveill. 2021;7:e29060.
+ 
+<section> 8  Freeman B, Potente S, Rock V, McIver J. Social media
+ the corporate sector and other social change marketers?
+ doi:10.17061/phrp2521517
+ 
+<section> 9  Gardner L, Leshner G. The role of narrative and other-referencing
+ messages. Health Commun. 2016;31:738-51. Medline:26528578
+ 
+<section> 10  Lutkenhaus RO, Jansz J, Bouman MPA. Toward spreadable
+ works. Health Promot Int. 2020;35:1241-50. Medline:31617888
+ 
+<section> 11  Guadagno RE, Rempala DM, Murphy S, Okdie BM.
+ ternet memes. Comput Human Behav. 2013;29:2312-9.
+ 
+<section> 12  Cuello-Garcia C, Pérez-Gaxiola G, van Amelsvoort L.
+ COVID-19 pandemic. J Clin Epidemiol. 2020;127:198-201.
+ 
+<section> 13  Shen F, Han J. (Ashley). Effectiveness of entertainment
+ Asian J Commun. 2014;24:605-16. doi:10.1080/01292986.2014.927895
+ 
+<section> 14  Dillard JP, Shen L. On the nature of reactance and its role
+ 68. doi:10.1080/03637750500111815
+ 
+<section> 15  Brehm SS, Brehm JW. Psychological reactance: a theory
+ 
+<section> 16  Quick BL, Stephenson MT. The reactance restoration
+ Rep. 2007;24:131-8. doi:10.1080/08824090701304840
+ 
+<section> 17  Zhang X. Effects of freedom restoration, language
+ 2020;35:1316-27. Medline:31225759 doi:10.1080/10410236.2019.1631565
+ 
+<section> 18  Adam M. SRV_C_F. 2020. Available: https://www.youtube.com/watch?v=VaQsJwFOzmM.
+ 
+<section> 19  WHO. Reducing free sugars intake in adults to reduce
+ who.int/elena/titles/free-sugars-adults-ncds/en/. Accessed:
+ 
+<section> 20  Te V, Ford P, Schubert L. Exploring social media campaigns
+ search. Schumacher U, editor. Cogent Med. 2019;6:1607432.
+ 
+<section> 21  Glorioso IG, Narciso ZV, Avilla JD, Capanzana MV.
+ material for older children. Philipp J Sci. 2018;147:589-96.
+ 
+<section> 22 Dyson  PA, Beatty S, Matthews DR. An assessment of
+ tes: Video education for people with newly diagnosed
+ doi:10.1111/j.1365-277X.2010.01077.x
+ 
+<section> 23  Chen Y-C, Huang Y-L, Chien Y-W, Chen MC. The effect
+ children. Nutrients. 2020;12:1859. Medline:32580451
+ 
+<section> 24  Njeru JW, Patten CA, Hanza MMK, Brockman TA,
+ tes digital storytelling intervention for refugees and
+ 2015;15:1311. Medline:26715465 doi:10.1186/s12889-015-2628-y
+ 
+<section> 25  Li K. Exploring the role of regulatory focus and processing
+ vertising: A study about sugar intake in the USA. Health
+ 
+<section> 0236.2020.1719320
+ 
+<section> 26  Braddock K, Dillard JP. Meta-analytic evidence for the
+ haviors. Commun Monogr. 2016;83:446-67. doi:10.1080/03637751.2015.1128555
+ 
+<section> 27  Liu S, Yang JZ. The role of temporal distance perception
+ Health Commun. 2020;25:543-53. Medline:32673189
+ 
+<section> 28  Super Scienced. The science of tanning, sun burn
+ watch?v=gV4a_9Kh3ts. Accessed: 2 July 2021.
+ 
+<section> 29  Peekaboo Kidz. What is an earthquake? The Dr. Binocs
+ youtube.com/watch?v=dJpIU1rSOFY. Accessed: 2 July
+ 
+<section> 30 Vandormael  A, Adam M, Greuel M, Hachaturyan
+ ment-education (E-E) media: study protocol for an
+ Medline:34047702 doi:10.2196/25343
+ 
+<section> 31  Hachaturyan V, Adam M, Favaretti C, Greuel M, Gates
+ informational video: an online randomized controlled
+ 
+<section> 32  Likert R. A technique for the measurement of attitudes.
+ 
+<section> 33  Corstange D. Sensitive questions, truthful answers?
+ doi:10.1093/pan/mpn013
+ 
+<section> 34  Blair G, Imai K. Statistical analysis of list experiments.
+ 
+<section> 35  Tishler CL, Bartholomae S. The recruitment of normal
+ centives. J Clin Pharmacol. 2002;42:365-75. Medline:11936560
+ 
+<section> Story-based, animated video to reduce added sugar consumption
+ T. An entertainment-education approach to prevent COVID-19 spread:
+ trial. Trials. 2020;21:1025. Medline:33323130 doi:10.1186/s13063-
+ 
+<section> C, Hachaturyan V, et al. Effect of a wordless, animated, social media vid-
+ randomized controlled trial of 15,163 adults in the USA, Mexico, UK,
+ Medline:34174778 doi:10.2196/29060
+ campaigns that make a difference: what can public health learn from
+ Public Health Res Pract. 2015;25:e2521517. Medline:25848735
+ in attenuating psychological reactance to diabetes self-care
+ doi:10.1080/10410236.2014.993498
+ entertainment-education: leveraging social influence in online net-
+ doi:10.1093/heapro/daz104
+ What makes a video go viral? An analysis of emotional contagion and In-
+ doi:10.1016/j.chb.2013.04.016
+ Social media can have an impact on how we manage and investigate the
+ Medline:32603686 doi:10.1016/j.jclinepi.2020.06.028
+ education in communicating health information: a systematic review.
+ in persuasive health communication. Commun Monogr. 2005;72:144-
+ of freedom and control. New York: Academic Press; 1981.
+ scale (RRS): A measure of direct and indirect restoration. Commun Res
+ variety, and issue type on psychological reactance. Health Commun.
+ 
+<section> Accessed: 2 July 2021.
+ the risk of noncommunicable diseases. 2019. Available: https://www.
+ 
+<section> 2 July 2021.
+ against sugar-sweetened beverage consumption: A systematic
+ Evaluation of a puppet video on physical activity as a diabetic education
+ lifestyle video education for people newly diagnosed with type 2 diabe-
+ type 2 diabetes. J Hum Nutr Diet. 2010;23:353-9. Medline:20497292
+ of an online sugar fact intervention: Change of mothers with young
+ 
+<section> doi:10.3390/nu12061859
+ Ridgeway JL, Weis JA, et al. Stories for change: development of a diabe-
+ immigrants to Minnesota using qualitative methods. BMC Public Health.
+ fluency in the effectiveness of narrative versus non-narrative ad-
+ Commun. 2021;36:837-46. Medline:31992087 doi:10.1080/1041
+ persuasive effect of narratives on beliefs, attitudes, intentions, and be-
+ in narrative vs. non-narrative persuasion related to e-cigarettes. J
+ doi:10.1080/10810730.2020.1788678
+ and skin cancer. 2016. Available: https://www.youtube.com/
+ Show Educational videos for kids. 2015. Available: https://www.
+ 2021.
+ V, Favaretti C, Gates J, et al. Reactance to social authority in entertain-
+ online randomized controlled trial. JMIR Res Protoc. 2021;10:e25343.
+ 
+<section> J, Bärnighausen T. Reactance to social authority in a sugar reduction
+ trial of 4,013 participants. J Med Internet Res. 2021.
+ Arch Psychol. 1932;22:55-55.
+ Modeling the list experiment with LISTIT. Polit Anal. 2009;17:45-63.
+ 
+<section> Polit Anal. 2012;20:47-77.
+ healthy volunteers: A review of the literature on the use of financial in-
+ doi:10.1177/00912700222011409 
+<section> 36 G  OV.UK. National minimum wage and national living wage
+ Accessed: 9 July 2021.
+ 
+<section> REFERENCES
+ 
+<section> 37 G  rady C. Payment of clinical research subjects. J Clin Invest.
+ 
+<section> 38 W  ebb TL, Sheeran P. Does changing behavioral intentions
+ idence. Psychol Bull. 2006;132:249-68. Medline:16536643
+ 
+<section> 39 F  avaretti C, Vandormael A, Hachaturyan V, Greuel M,
+ to a short and animated story-based video about added
+ Surveill. 2021. doi:10.2196/29669
+ 
+<section> rates. Available: https://www.gov.uk/national-minimum-wage-rates.
+ 2005;115:1681-7. Medline:16007244 doi:10.1172/JCI25694
+ engender behavior change? A meta-analysis of the experimental ev-
+ doi:10.1037/0033-2909.132.2.249
+ Gates J, Bärnighausen T, et al. Participant engagement and reactance
+ sugars: a web-based randomized controlled trial. JMIR Public Health

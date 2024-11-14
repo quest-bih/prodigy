@@ -1,0 +1,672 @@
+
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> OPEN ACCESS
+ 
+<section> Citation: Kaplan L, Richert K, Hülsen V, Diba F,
+ Marthoenis M, Muhsin M, et al. (2023) Impact of
+ the WHO Safe Childbirth Checklist on safety culture
+ among health workers: A randomized controlled
+ trial in Aceh, Indonesia. PLOS Glob Public Health
+ 3(6): e0001801. https://doi.org/10.1371/journal.
+ 
+<section> pgph.0001801
+ 
+<section> Editor: Hannah Tappis, Jhpiego, UNITED STATES
+ 
+<section> Received: August 2, 2022
+ 
+<section> Accepted: April 28, 2023
+ 
+<section> Published: June 16, 2023
+ 
+<section> Peer Review History: PLOS recognizes the
+ benefits of transparency in the peer review
+ process; therefore, we enable the publication of
+ all of the content of peer review and author
+ responses alongside final, published articles. The
+ editorial history of this article is available here:
+ https://doi.org/10.1371/journal.pgph.0001801
+ 
+<section> Copyright: © 2023 Kaplan et al. This is an open
+ access article distributed under the terms of the
+ Creative Commons Attribution License, which
+ permits unrestricted use, distribution, and
+ reproduction in any medium, provided the original
+ author and source are credited.
+ 
+<section> Data Availability Statement: All relevant data are
+ within the paper and its Supporting Information
+ files.
+ 
+<section> RESEARCH ARTICLE
+ 
+<section> Impact of the WHO Safe Childbirth Checklist
+ on safety culture among health workers: A
+ randomized controlled trial in Aceh, Indonesia
+ 
+<section> Lennart Kaplan 1,2‡ , Katharina Richert 3‡ , Vivien Hülsen 1‡ , Farah Diba ,
+ Marthoenis Marthoenis ID , Muhsin Muhsin ID , Samadi Samadi , Suryane Susanti ,
+ Hizir Sofyan , Ichsan Ichsan ID *, Sebastian Vollmer ID 
+<section> *
+ 
+<section> 1 University of Goettingen, Göttingen, Germany, 2 German Institute of Development and Sustainability,
+ Bonn, Germany, 3 University of Mannheim, Mannheim, Germany, 4 Universitas Syiah Kuala, Banda Aceh,
+ 
+<section> Indonesia
+ 
+<section> ‡ LK, KR and VH contributed equally to this work as joint first authors.
+ 
+<section> * ichsan@unsyiah.ac.id (II); svollmer@uni-goettingen.de (SV)
+ 
+<section> Abstract
+ 
+<section> The World Health Organization (WHO) developed the Safe Childbirth Checklist (SCC) to
+ increase the application of essential birth practices to ultimately reduce perinatal and mater-
+ nal deaths. We study the effects of the SCC on health workers safety culture, in the frame-
+ work of a cluster-randomized controlled trial (16 treatment facilities/16 control facilities). We
+ introduced the SCC in combination with a medium intensity coaching in health facilities
+ which already offered at minimum basic emergency obstetric and newborn care (BEMonC).
+ We assess the effects of using the SCC on 14 outcome variables measuring self-perceived
+ information access, information transmission, frequency of errors, workload and access to
+ resources at the facility level. We apply Ordinary Least Square regressions to identify an
+ Intention to Treat Effect (ITT) and Instrumental Variable regressions to determine a Com-
+ plier Average Causal Effect (CACE). The results suggest that the treatment significantly
+ improved self-assessed attitudes regarding the probability of calling attention to problems
+ with patient care (ITT 0.6945 standard deviations) and the frequency of errors in times of
+ excessive workload (ITT -0.6318 standard deviations). Moreover, self-assessed resource
+ access increased (ITT 0.6150 standard deviations). The other eleven outcomes were unaf-
+ fected. The findings suggest that checklists can contribute to an improvement in some
+ dimensions of safety culture among health workers. However, the complier analysis also
+ highlights that achieving adherence remains a key challenge to make checklists effective.
+ 
+<section> Introduction
+ 
+<section> The Lancet Global Health Commission on High-quality Health Systems suggests that in many
+ settings unskilled labor or avoidable mistakes lead to a suboptimal level of care despite increas-
+ ing access to the health system [1]. Particularly, childbirth remains a context that is likely to
+ benefit from an improvement of health workers’ attitudes and perceptions (which we subsume 
+<section> Funding: 1. Lower Saxony Ministry of Science and
+ 
+<section> Culture: Reducing Poverty Risk in Developing
+ Countries (received by SV) 2. European
+ 
+<section> Commission: Experts for Asia Scholarship
+ Program. (received by KR and LK) 3. German
+ 
+<section> Research Foundation (DFG): Research training
+ group 1723 “Globalization and Development”
+ (received by SV) The funders had no role in study
+ design, data collection and analysis, decision to
+ publish, or preparation of the manuscript.
+ 
+<section> Competing interests: The authors have declared
+ that no competing interests exist.
+ 
+<section> in the following under the term safety culture). In 2015, approximately 303,000 maternal
+ deaths occurred, and in 2016, 5.6 million children below the age of five died worldwide due
+ largely preventable causes [2, 3]. While the global neonatal mortality rate equaled 18.0 per
+ 1,000 live births in 2017, the UN Sustainable Development Goal 3 aims to reduce the rate to
+ 12.0 per 1,000 live births.
+ Checklists have been identified as a low-cost intervention to improve quality in different
+ sectors [4, 5] and to contribute to a “safety culture” [6]. The World Health Organization
+ (WHO) introduced a global collaborative effort to create a Safe Childbirth Checklist (SCC) [7].
+ The checklist consists of four pages, reminding users about essential practices to follow and
+ includes a brief explanation for each point.
+ To assess the SCC’s effectiveness, the WHO invited practitioners and academics alike to
+ evaluate the checklist in different contexts. A systematic review of this evidence indicates that
+ the SCC can increase essential birth practices, and may even reduce stillbirth [8]. Moreover,
+ Walker et al. [9] provide causal evidence that the SCC reduced neonatal mortality in Kenya
+ and Uganda when coupled with other interventions. However, above initial uptake, a change
+ in safety culture is required to achieve sustainable behavioral change. Active usage of the SCC
+ by health workers is a pre-condition for reaping those benefits, where, in several contexts, lim-
+ ited usage constrained the application of the checklist [10]. Observational studies conducted
+ Sri Lanka and Namibia, observed SCC usage rates of 45.8% and 75% during birthing processes
+ [11, 12]. So far, there is only scant evidence from non-randomized studies on how the intro-
+ duction of the SCC affected safety culture. Qualitative interviews among Brazilian nurses sug-
+ gest that the checklist was recognized as a quality improvement tool [13] and changed
+ routines, but also led to resistance [14]. A pre-post study conducted in Brazil concludes that
+ improvements in adherence to essential birth practices and subsequently improved clinical
+ outcomes may have been stimulated by context-specific factors such as teamwork, supportive
+ leadership, quality improvement climate and indicator-based adjustments [15]. These ele-
+ ments, alongside open communication concerning errors, and appropriate workload are con-
+ sidered essential in fostering a safety culture [16], but up to this point a causal assessment of
+ the SCC on health workers’ perceptions is missing.
+ This study aims to address this gap by providing evidence from a cluster-randomized con-
+ trolled trial on the SCC’s impact on safety culture. We estimate treatment effects on 14 vari-
+ ables measuring the following dimensions of safety culture at the facility (cluster) level: self-
+ perceived information access, information transmission, frequency of errors, workload and
+ access to resources.
+ Additionally, to carve out the causal pathways, we engage into a complier analysis, which
+ focuses on those midwives that adhere to the checklist. In other SCC evaluations, compliance
+ was measured either in terms of completing single checklist items, certain bundles (e.g.,
+ before/after birth) or the full checklists over the total number of checklists provided [17–19],
+ over the total number of live births [20], or over mothers admitted [15]. Other studies simply
+ asked health care providers whether they carried out essential birth practices outlined in the
+ SCC [21] (Abawollo et al. 2021).
+ 
+<section> Materials and methods
+ 
+<section> Ethics
+ 
+<section> Both the ethical board of the Universitas Syiah Kuala, Indonesia, (08/KE/FK/2016) and the
+ ethics committee of the University of Göttingen, Germany (June 27, 2016) reviewed the study
+ protocol and declared no objection prior to the trial. The research team registered the study
+ ISRCTN11041580 and AEARCTR-0003548. The study was supported by the Aceh provincial 
+<section> Fig 1. Randomization
+ https://doi.org/10.1371/journal.pgph.0001801.g001
+ 
+<section> health office and the district health offices of Aceh Besar, Banda Aceh, and Bireuen. We col-
+ lected informed consent both from facility leadership and the interviewed midwives.
+ 
+<section> Trial setting and participants
+ 
+<section> With a neonatal mortality rate of 34 deaths per 1000 live births, Aceh ranked 19th out of
+ provinces in Indonesia [22]. Starting in July 2016, the checklist was implemented in combina-
+ tion with a medium-intensity coaching of health workers in the districts of Aceh Besar, Banda
+ Aceh, and Bireuen. We chose a clustered design at the facility level to offer a team-based light-
+ touch implementation approach, to address the difficulty that births can take place across dif-
+ ferent shifts and to avoid spillover effects. Facilities were eligible if they offered at least basic
+ emergency obstetric and newborn care services (BEMonC covers provision of oxytocin and
+ antibiotics, manual removal of placenta, assisted vaginal delivery, removal of retained prod-
+ ucts, resuscitation of the newborn and monitoring of the newborn). BEMonC status was
+ assessed via a survey with the head of the delivery room (obstetrician or senior midwife). Out
+ of 40 eligible facilities, eight did not participate in the study as they either did not have any
+ births during the past month or asked for financial compensation, which we could not provide.
+ The sampled facilities (Fig 1) include hospitals, community health centers (puskesmas), and
+ midwife clinics. Those facilities have a total yearly volume of around 11,000 births, which
+ served as a threshold sample size from power calculations for health outcomes in our accom-
+ panying paper [23]. However, we also assessed minimal detectable effect sizes for our safety
+ culture measures at baseline (see Table C in S1 Text).
+ 
+<section> and data collection. Note: Authors’ own depiction of randomization process. 
+<section> Intervention
+ 
+<section> In collaboration with local midwives, obstetricians, and policymakers, we adapted the checklist
+ to the Acehnese context (See Fig A in S1 Text for the adapted checklist and the corresponding
+ section for an overview about adaptations). Following the Engage–Launch–Support–Model
+ the accompanying Better Birth Trial in India [5], a team of coaches introduced the checklist
+ 16 health facilities in Indonesia. Since the coaches were responsible for multiple facilities, the
+ checklist introduction was spread over several days in October 2016. The trained coaches pro-
+ vided motivating arguments and information on correct checklist use during a two-hour
+ launch event with midwives and subsequently introduced the SCC. No technical training was
+ provided given that the SCC is a reminder of essential practices that are part of the midwives’
+ professional education (on average, midwives answered eight out of nine checklist-related
+ knowledge questions correctly). Since the checklist takes a reminder function, coaches trained
+ midwives to fill out checklist copies during the birth process. Additionally, our team provided
+ a checklist poster for the delivery room. In emergencies or when not working in teams (e.g.,
+ during night shifts), midwives may have only filled out the paper checklist ex post. Over six
+ months, the coaches visited each health facility eleven times to provide new checklist copies,
+ collect filled-out SCCs, and provide feedback. The coaching was supported by two meetings
+ with the Checklist Quality Coordinator (CQC), a responsible lead person chosen within the
+ facility, to exchange best practices (the study protocols and the S1 Text provide a more detailed
+ description of the intervention).
+ 
+<section> Trial design/Randomization and masking
+ 
+<section> The research team used an optimization approach to match facilities in two groups [24]. Fol-
+ lowing this matching approach, we minimize the mean squared error between the two groups
+ on covariates and potential outcomes before treatment. Table A in S1 Text indicates that the
+ primary health outcomes and facility characteristics (i.e., facility/health organization types,
+ offered services, sampled districts) that are likely to be correlated with individual safety culture
+ were balanced at baseline, indicating a successful matching. After allocating two equally sized
+ groups of 16 facilities, the research team assigned treatment and control status randomly by
+ coin toss; and introduced the treatment subsequently in 16 facilities (50% of the sample) at the
+ facility level. Enumerators collected also data in the 16 facilities of the control group to com-
+ pare effects of the intervention. Blinding of study participants was not possible.
+ 
+<section> Outcomes and data collection
+ 
+<section> We identify four dimensions of safety culture through which the adoption of the checklist
+ could support adherence to essential practices during childbirth. First, by ticking the boxes
+ and adding supplementary data, information transmission may be improved for midwives
+ working in teams and shifts [25]. Moreover, the checklist may be an empowering point of ref-
+ erence to speak up against procedural flaws [4, 26] and to address the global issue of underre-
+ porting of mistakes in maternity care [27]. This way, the checklist may improve overall
+ information accessibility. Information transmission and access hence refer to appropriate com-
+ munication of relevant information and issues related to patient care, working in a well-coor-
+ dinated team, access to information on patient medication and diagnosis. Second, the
+ checklist is designed as a powerful reminder to recall essential steps during periods of high
+ workload and stress like emergencies [28]. Thus, it may reduce the (perceived) frequency of
+ errors and, this way, may improve the quality of care. Frequency of errors is measured as errors
+ in relation to fatigue, distractions, knowledge and excessive workload. Third, as a job-aid, the
+ checklist aims to reduce cognitive load. Nonetheless, the SCC creates further paperwork and 
+<section> may reduce health workers’ motivation [11]. Its implications on the (perceived) workload are,
+ thus, ambiguous. We measure perceived workload as the burden of paperwork and a rating
+ the average workload within the facility. Fourth, the checklist effectiveness crucially depends
+ on the availability of complementary supplies [29]. While our intervention did not include a
+ provision of supplies, our coaching approach explicitly made midwives aware of insufficient
+ supplies and stressed the requirement to demand supplies from district health offices. We
+ investigate resource access through inquiring about the adequacy of tools and resources to
+ effectively perform duties. For an overview of the survey items please consult Table F in S1
+ Text. Given the team-based intervention, we consider our main measures of interest on per-
+ ceptions and attitudes for these four dimensions at the cluster level.
+ In addition to the checklist intervention, our team collected general information on health
+ facilities and patient outcomes at the facility level and health worker characteristics and safety
+ culture dimensions at the individual level. The individual questionnaires covered 376 (out of
+ 623) midwives. We translated all items back and forth and determined the questionnaires’
+ context sensitivity via a pre-test. Our main analysis is based on the post-intervention data col-
+ lection in April 2017 with data on treatment and control clusters, while we also collected base-
+ line information between August and October 2016 (e.g., for matching facilities). Trained
+ enumerators collected the data randomly during the shifts of midwives via Computer-Assis-
+ ted-Personal-Interviews using Question Pro software. The team recorded the data with anon-
+ ymized IDs on the spot. The data was uploaded to a secure server. Data quality was ensured
+ through high frequency checks, which specifically consisted of response quality and enumera-
+ tor checks. On random occasions, enumerators were accompanied by the survey team to mon-
+ itor the interview process. We build on those data to consider our primary outcomes as
+ outlined in our trial registration at ISRCTN11041580. Despite the high baseline levels of cer-
+ tain outcomes and a potential ceiling effect, we capture sufficient variation to estimate tangible
+ effects (see Table C in S1 Text). We lost one control facility and one treatment facility, in both
+ cases because they did not have any births during the observation period. As we did not apply
+ a pair-wise matching, this attrition did not further affect our analysis.
+ 
+<section> Statistical analysis
+ 
+<section> We estimate Intention to Treat (ITT) effects using ordinary least squares regressions. The
+ basic estimation equation for the Intention to Treat (ITT) effect reads as follows:
+ 
+<section> Y 
+<section> � 
+<section> ¼ a þ b 
+<section> T þ b 
+<section> X þ ε
+ 
+<section> i 1 i 2 i I
+ 
+<section> We consider measures of safety culture in the four dimensions information accessibility and
+ transmission, perceived frequency of errors, workload, and resource access as primary out-
+ comes Y i T i indicates the facility’s treatment status refers to the team-based intervention at the
+ facility level; hence, the outcome is the average safety culture at the facility level. X i is a vector
+ covariates (facility type, urban-rural, CeMonC-status, district dummy). While we do not need
+ to include covariates in the regression due to the randomized study design, we report results
+ with covariates to increase statistical efficiency in Table D in S1 Text. ε i is the error term.
+ Additionally, we estimate Complier Average Causal Effects (CACE) for the individuals who
+ took up the treatment [30]. The CACE estimator predicts compliance with the treatment indi-
+ cator in a first stage and consecutively estimates the treatment effect among the compliers in
+ second stage (for a more elaborate description of the approach, please see the S1 Text). We
+ defined facility’s degree of compliance as a continuous indicator based on the number of com-
+ pleted checklists over the total numbers of births. Across intervention facilities, midwives used
+ the SCC for 48.6% of births. We estimated both CACE and ITT effects using Stata version 
+<section> 1. Health worker safety culture—Treatment
+ 
+<section> Accessibility and
+ 
+<section> InfoAccess1: During your shift, do you always have
+ Diagnosis (Scale 1 [No access at all] to
+ 
+<section> InfoAccess2: During your shift, do you always have
+ Medication (Scale 1 [No access at all]
+ 
+<section> Transmission
+ 
+<section> InformationFlow: Relevant information is communicated
+ team. (Scale 1 [Disagree strongly] to 6 [Agree
+ 
+<section> SpeakUp: In this clinical area, it is easy to speak
+ care. (Scale 1 [Disagree strongly] to 6 [Agree
+ 
+<section> Coordination: The delivery staff members here
+ (Scale 1 [Disagree strongly] to 6 [Agree strongly])
+ 
+<section> FreqMissed: During your most recent delivery shift-week,
+ important information during sign-out? (Scale
+ 
+<section> FreqUnsure: During your most recent delivery
+ that you were unsure of? (Scale 1 [Never]
+ of errors
+ 
+<section> ErrorKnow: During your most recent delivery shift-week,
+ because of inadequate knowledge? (Scale 1 [Never]
+ 
+<section> ErrorFatigue: During your most recent delivery
+ because of fatigue? (Scale 1 [Never] to 6 [Very
+ 
+<section> ErrorDist: During your most recent delivery shift-week,
+ because of distractions? (Scale 1 [Never] to 6
+ 
+<section> ErrorExc: During your most recent delivery shift-week,
+ because of excessive workload? (Scale 1 [Never]
+ 
+<section> Paperwork: Paperwork takes too much time. (Scale
+ 
+<section> Workload: How would you rate the average workload
+ health facility? (Scale 1 [Very low] to 5 [Very high])
+ 
+<section> to resources
+ 
+<section> ResAcc: Do you have access to the tools and resources
+ to 4 [Always])
+ 
+<section> The dependent variable is depicted in standard
+ 
+<section> **<5%, ***<1%. F-Statistics for the CACE
+ strong predictor of compliance to warrant
+ 
+<section> Results
+ 
+<section> Changes in safety culture
+ 
+<section> Table 1 provides the treatment effects on health workers’ safety culture and Fig 2 provides a
+ coefficient plot, in which whiskers indicate a 10% confidence interval. Results on information
+ access indicate neither significantly better diagnostic nor medication information. Regarding
+ information transmission, the checklist does not improve coordination and has neither statis-
+ tically significant effects on general communication flows nor on reporting. However, both
+ the ITT and the CACE, the results show a significant increase in self-reported ease of speaking
+ up when noticing patient care issues (row 4). In line with the checklist’s reminder function,
+ rows 9–12 indicate a reduction in the frequency of errors, which are, however, only significant
+ 
+<section> effects.
+ 
+<section> Mean Mean ITT (in standard CACE (in standard
+ Control Intervention deviations) deviations)
+ 
+<section> access to the following patient 3.6689 3.6605 -0.0282 -0.0580
+ 4 [Full Access]) [-0.789–0.733] [-1.505–1.389]
+ access to the following patient 3.6271 3.670 0.1375 0.2832
+ to 4 [Full Access]) [-0.622–0.897] [-1.170–1.736]
+ 
+<section> appropriately within the 5.099 5.073 -0.1240 -0.2553
+ strongly]) [-0.884–0.636] [-1.712–1.201]
+ up if I perceive a problem with 5.0194 5.1658 0.6945* 1.4301**
+ strongly]) [-0.018–1.407] [0.046–2.814]
+ work together as a well-coordinated 5.1794 5.2204 0.1563 0.3219
+ 
+<section> [-0.602–0.915] 
+<section> [-1.101–1.745]
+ how often did you forget to 1.5545 1.5620 0.0203 0.0418
+ 1 [Never] to 6 [Very often]) [-0.741–0.781] [-1.405–1.489]
+ shift-week, how often did you report 1.4092 1.5920 0.5123 1.0548
+ to 6 [Very often]) [-0.223–1.247] [-0.285–2.395]
+ 
+<section> how often did you make 1.7843 1.5548 -0.3788 -0.7800
+ to 6 [Very often]) [-1.126–0.368] [-2.260–0.699]
+ shift-week, how often did you make 1.6131 1.5265 -0.2307 -0.4749
+ often]) [-0.987–0.525] [-1.922–0.972]
+ how often did you make 1.5067 1.3033 -0.3477 -0.7160
+ [Very often]) [-1.097–0.401] [-2.178–0.746]
+ how often did you make 1.8372 1.5215 -0.6318* -1.3010*
+ to 6 [Very often]) [-1.353–0.089] [-2.849–0.247]
+ 
+<section> 1 [Disagree strongly] to 6 [Agree 2.8177 2.8887 0.0856 0.1763
+ 
+<section> [-0.675–0.846] 
+<section> [-1.268–1.621]
+ among your delivery staff at 3.0249 2.8732 -0.5679 -1.1692
+ 
+<section> [-1.297–0.161] 
+<section> [-2.655–0.316]
+ 
+<section> to do your job well? (Scale 3.4184 3.6089 0.6150* 1.2663*
+ 
+<section> [-0.108–1.338] 
+<section> [-0.161–2.694]
+ 
+<section> deviations. 95% Confidence Intervals are depicted in brackets and significance levels are indicated by stars: p-val
+ estimator is for all regressions {39.639}. Cragg-Donald Wald F statistics>10 suggest that the treatment is a
+ reliable inference (e.g., we do not face weak instrumental variable issues). 
+<section> Fig 2. Health worker safety culture. Note: Estimates refer to changes in standard deviations. Table 1 provides the
+ estimated coefficients.
+ 
+<section> https://doi.org/10.1371/journal.pgph.0001801.g002
+ 
+<section> for the reduction of perceived errors during periods of excessive workload (row 12). We also
+ consider the effects on perceived workload. Yet, neither perceived paperwork nor general
+ workload are affected. To keep implementation costs manageable, we deliberately decided to
+ not link the intervention with a provision of additional supplies or training. Yet, our coaching
+ provided input on where to access support if needed. Interestingly, there seems to be a per-
+ ceived improvement in resource access for the intervention group. We also report results with
+ basic covariates (facility type, urban-rural, CEmONC-status, district dummy) in Table D in
+ 
+<section> S1 Text.
+ 
+<section> Discussion
+ 
+<section> The literature stresses the need for measures to improve the quality of care to achieve the
+ health-related SDGs, particularly in resource-constrained settings [1, 31]. Checklists appear
+ a particularly suitable tool to improve quality of care in such settings at a comparatively low
+ cost. Previous studies indicate promising effects of the SCC on the application of essential
+ birth practices [12, 23, 28] and a reduction of stillbirths and neonatal mortality in some con-
+ texts—e.g., in Kenya and Uganda [9] or in Rajasthan, India [32]. In contrast, no mortality
+ reduction occurred in other settings [28], However, so far there was little evidence why the
+ SCC works in one context, but not the other.
+ Previous trials suggest low uptake and a tapering out of effects as a potential barrier [23,
+ 33], which is supported by limited qualitative evidence on health workers’ resistance to the
+ change in routines [14]. Thus, it is key to understand the perceptions of midwives to sustain
+ checklist use in a more rigorous manner. This study examined in Aceh province, Indonesia,
+ how the checklist affects perceptions on safety culture in the four dimensions information
+ accessibility and transmission, perceived frequency of errors, workload, and resource access 
+<section> primary outcomes. The checklist seems to empower midwives to report issues with patient
+ care, which was previously identified by qualitative work as an important issue in the context
+ of Aceh [25]. While midwives reported in focus groups that paperwork would be a burden in
+ their everyday work [23], the present study’s results suggest that the checklist seems not to con-
+ tribute significantly to a perceived increase in workload.
+ The checklist further reduces self-perceived errors during periods of high workload. More-
+ over, the checklist improves self-perceived availability of supplies, which points to empowering
+ effects for midwives to demand necessary resources, given that we did not provide any
+ resources ourselves [34]. Such positive effects of the SCC on resource access are particularly
+ notable as supplies were a binding constraint for the effectiveness of the SCC in other settings
+ [35]. The other dimensions of safety culture remained unaffected.
+ This study has some limitations. The sample is relatively small which limits statistical
+ power. All outcomes are self-reported and self-perceived measures of providers aggregated at
+ the facility level. Self-reported measures might be different, in either direction, from actual
+ outcomes. Results are specific to the context of Aceh in Indonesia and lack of external validity
+ to other settings might be an even larger concern for outcomes of safety culture than it is any-
+ ways for any RCT. Finally, we do not study the impact of safety culture on improved quality
+ care at the facilities.
+ Future research may want to validate whether the perceived improvements in errors during
+ times of high workload and reporting of maltreatment also translates into actual practices, par-
+ ticularly if bundled with a modified checklist design or with more comprehensive implementa-
+ tion programs [9, 21, 36–38]. Research on safety culture from other implementation sites
+ could help to further unravel the mixed results of SCC implementation across contexts and
+ take user experiences of health staff into account to continuously improve the tool [39].
+ 
+<section> Supporting information
+ 
+<section> S1 Text. Supplementary appendix, which provides further information on the sampling,
+ the intervention, the data collection and the statistical method.
+ 
+<section> (DOCX)
+ 
+<section> Acknowledgments
+ 
+<section> For their excellent research assistance and support of the study we thank Masyitah and Grit
+ Försterling as well as the numerous local research assistants: Mutia Elviani, Amanda Putri
+ Kairina, Aulia, Misna, Fitra Jaya Saputra, Hujjatul Balighah, Khairiah, Raziah, Nuriana, Nurul
+ Fajar, Riska Alfiani, Teddy Kurniady Thaher, Fitriatul Ula, Ruzwar Wahyudi, Zahra Sofia, Zul-
+ fazli, Alfiyatul Rahmi, Cynthia Eka Putri, Fauziah. We also very much appreciated the thought-
+ ful proofreading by Erin Flanagan and Laura Mahoney. We are incredibly grateful to the team
+ from AriadneLabs, who trained our coaches and provided advise at any point during study
+ design and implementation. Finally, we would like to thank Lisa Rogge, Stefan Klonner, Man-
+ uela de Allegri, Stephan Brenner, Christine Binzel, Simon Quinn, Anna Merkel, Christian
+ König, Miriam Romero, Christoph Kubitza, Sebastian Prediger, Jenny Aker, David McKenzie,
+ Sebastian O. Schneider, and Florina Serbanescu as well as two anonymous referees for their
+ valuable comments.
+ 
+<section> Author Contributions
+ 
+<section> Conceptualization: Lennart Kaplan, Katharina Richert, Farah Diba, Marthoenis Marthoenis,
+ Hizir Sofyan, Sebastian Vollmer. 
+<section> Data curation: Lennart Kaplan, Katharina Richert, Vivien Hülsen, Farah Diba, Marthoenis
+ Marthoenis, Muhsin Muhsin, Samadi Samadi, Suryane Susanti, Ichsan Ichsan, Sebastian
+ Vollmer.
+ 
+<section> Formal analysis: Lennart Kaplan, Katharina Richert, Vivien Hülsen.
+ 
+<section> Funding acquisition: Lennart Kaplan, Katharina Richert, Sebastian Vollmer.
+ 
+<section> Investigation: Lennart Kaplan, Katharina Richert, Sebastian Vollmer.
+ 
+<section> Methodology: Lennart Kaplan, Katharina Richert, Sebastian Vollmer.
+ 
+<section> Project administration: Farah Diba, Marthoenis Marthoenis, Muhsin Muhsin, Suryane Sus-
+ anti, Hizir Sofyan, Ichsan Ichsan.
+ 
+<section> Supervision: Lennart Kaplan, Katharina Richert, Marthoenis Marthoenis, Samadi Samadi,
+ Suryane Susanti, Ichsan Ichsan, Sebastian Vollmer.
+ 
+<section> Writing – original draft: Lennart Kaplan, Katharina Richert, Vivien Hülsen, Ichsan Ichsan,
+ Sebastian Vollmer.
+ 
+<section> Writing – review & editing: Lennart Kaplan, Vivien Hülsen, Farah Diba, Marthoenis
+ Marthoenis, Muhsin Muhsin, Samadi Samadi, Suryane Susanti, Hizir Sofyan, Sebastian
+ Vollmer.
+ 
+<section> References
+ 
+<section> Kruk ME, Gage AD, Arsenault C, Jordan K, Leslie HH, Roder-DeWan S, et al. (2018) High-quality health
+ systems in the Sustainable Development Goals era: Time for a revolution. Lancet Global Health 6(11):
+ 1196–1252. https://doi.org/10.1016/S2214-109X(18)30386-3 PMID: 30196093
+ Alkema L, Chou D, Hogan D, Zhang S, Moller AB, Gemmill A, et al. (2016) Global, regional, and national
+ levels and trends in maternal mortality between 1990 and 2015, with scenario-based projections to
+ 2030: A systematic analysis by the UN Maternal Mortality Estimation Inter-Agency Group. The Lancet
+ 387: 462–474. https://doi.org/10.1016/S0140-6736(15)00838-7 PMID: 26584737
+ Hug L., Sharrow D., Yo D. (2017) Levels & Trends in Child Mortality. United Nations Inter-agency Group
+ for Child Mortality Estimation Report 2017. [Preprint]. 2017 [cited 2021 June 12]. Available from: http://
+ documents1.worldbank.org/curated/en/358381508420391876/pdf/120551-REVISED-PUBLIC-IGME-
+ report-2017-child-mortality-final.pdf.
+ Gawande A. The Checklist Manifesto. New York: Metropolitan Books. Henry Holt and Company; 2009.
+ Hirschhorn LR, Semrau K, Kodkany B, Churchill R, Kapoor A, Spector J, et al. (2015) Learning before
+ leaping: Integration of an adaptive study design process prior to initiation of BetterBirth, a large-scale
+ randomized controlled trial in Uttar Pradesh, India. Implementation Science 10(117): 1–9.
+ Pronovost P, Sexton B. (2005) Assessing safety culture: Guidelines and recommendations. BMJ Qual
+ 
+<section> Saf 14: 231–233. https://doi.org/10.1136/qshc.2005.015180 PMID: 16076784
+ Spector JM, Agrawal P, Kodkany B, Lipsitz S, Lashoher A, Dziekan G, et al. (2012) Improving quality
+ care for maternal and newborn health: Prospective pilot study of the WHO safe childbirth checklist pro-
+ gram. PLoS One 7(5): e35151. https://doi.org/10.1371/journal.pone.0035151 PMID: 22615733
+ Tolu LB, Jeldu WG, Feyissa GT. (2020) Effectiveness of utilizing the WHO Safe Childbirth Checklist
+ improving essential childbirth practices and maternal and perinatal outcome: A systematic review and
+ meta-analysis. PLoS One 15(6): e0234320. https://doi.org/10.1371/journal.pone.0234320 PMID:
+ 
+<section> 32530940
+ Walker D, Otieno P, Butrick E, Namazzi G, Achola K, Merai R, et al. (2020) Effect of a quality improve-
+ ment package for intrapartum and immediate newborn care on fresh stillbirth and neonatal mortality
+ among preterm and low-birthweight babies in Kenya and Uganda: A cluster-randomised facility-based
+ trial. Lancet Global Health 8(8): e1061–e1070. https://doi.org/10.1016/S2214-109X(20)30232-1 PMID:
+ 
+<section> 32710862
+ Molina RL, Benski AC, Bobanski L, Tuller DE, Semrau KE. (2021) Adaptation and implementation of
+ the WHO Safe Childbirth Checklist around the world. Implementation Science Communication 2(1): 
+<section> Patabendige M, Senanayake H. (2015) Implementation of the WHO safe childbirth checklist program
+ a tertiary care setting in Sri Lanka: A developing country experience. BMC Pregnancy Childbirth 15:
+ https://doi.org/10.1186/s12884-015-0436-0 PMID: 25648543
+ Kabongo L, Gass J, Kivondo B, Kara N, Semrau K, Hirschhorn LR. (2017) Implementing the WHO Safe
+ 
+<section> Childbirth Checklist: Lessons learnt on a quality improvement initiative to improve mother and newborn
+ care at Gobabis District Hospital, Namibia. BMJ Open Quality 6(2): e000145. https://doi.org/10.1136/
+ 
+<section> bmjoq-2017-000145 PMID: 28959784
+ de Barros AG, de Morais JLP, de Medeiros Cabral AL, de Mendonça Faustino W. (2021) Checklist em
+ salas de parto: A importância dos cuidados de enfermagem para segurança do paciente. Brazilian
+ Journal of Development. 7(3). https://doi.org/10.34117/bjdv7n3-612
+ de Moraes Custódio RJ, Kapassi LB, Alves DT, Barros ÂF, Melo MC, Boeckmann LMM, et al. (2021)
+ Perceptions of nursing professionals on the use of the Safe Delivery Checklist. Cogitare Enfermagem
+ 26. https://doi.org/10.5380/ce.v26i0.74752
+ de Meneses Sousa K, Saturno-Hernández PJ, de Souza Rosendo TMS, de Freitas MR, Molina RL,
+ Medeiros WR, et al. (2022) Impact of the implementation of the WHO Safe Childbirth Checklist on
+ essential birth practices and adverse events in two Brazilian hospitals: A before and after study. BMJ
+ Open 12(3): e056908. https://doi.org/10.1136/bmjopen-2021-056908 PMID: 35288391
+ Murray M, Sundin D, Cope V. (2018) New graduate registered nurses’ knowledge of patient safety and
+ practice: A literature review. Journal of Clinical Nursing 27(1–2): 31–47. https://doi.org/10.1111/jocn.
+ 
+<section> 13785 PMID: 28252838
+ Achola KA, Kajjo D, Santos N, Butrick E, Otare C, Mubiri P, et al. (2022) Implementing the WHO Safe
+ 
+<section> Childbirth Checklist modified for preterm birth: Lessons learned and experiences from Kenya and
+ Uganda. BMC Health Services Research 22(1): 1–13.
+ Dohbit JS, Woks NIE, Koudjine CH, Tafen W, Foumane P, Bella AL, et al. (2021) The increasing use
+ the WHO Safe Childbirth Checklist: Lessons learned at the Yaoundé Gynaeco-Obstetric and Paediatric
+ Hospital, Cameroon. BMC Pregnancy Childbirth 21(1): 1–10.
+ Albolino S, Dagliana G, Illiano D, Tanzini M, Ranzani F, Bellandi T, et al. (2018) Safety and quality in
+ maternal and neonatal care: The introduction of the modified WHO Safe Childbirth Checklist. Ergonom-
+ ics 61(1): 185–193. https://doi.org/10.1080/00140139.2017.1377772 PMID: 28880716
+ Bitewulign B, Abdissa D, Mulissa Z, Kiflie A, Abate M, Biadgo A, et al. (2021) Using the WHO safe child-
+ birth checklist to improve essential care delivery as part of the district-wide maternal and newborn health
+ quality improvement initiative, a time series study. BMC Health Services Research 21(1): 1–11.
+ Abawollo HS, Tsegaye ZT, Desta BF, Mamo TT, Mamo HG, Mehari ZT, et al. (2021) Implementing a
+ modified World Health Organization safe childbirth checklist in health centers of Ethiopia: A pre and
+ post intervention study. BMC Pregnancy and Childbirth 21(1): 1–7.
+ 
+<section> UNDP, 2010. Provincial Human Development Report—Aceh 2010. http://hdr.undp.org/sites/default/
+ files/nhdr_aceh_2010_english.pdf (accessed 11 June 2021).
+ Kaplan L, Ichsan I, Diba F, Muhsin M, Marthoenis M, Richert K, et al. (2021) Effects of the World Health
+ Organization Safe Childbirth Checklist on Quality of Care and Birth Outcomes in Aceh, Indonesia: A
+ Cluster-Randomized Clinical Trial. JAMA Network Open 4(12): e2137168. https://doi.org/10.1001/
+ jamanetworkopen.2021.37168 PMID: 34860241
+ Schneider S.O., Schlather M. (2017) A new approach to treatment assignment for one and multiple
+ treatment groups. Courant Research Center Discussion Paper, 228. [Preprint]. [cited 2021 June 11].
+ 
+<section> Available from: http://www2.vwl.wiso.uni-goettingen.de/courant-papers/CRC-PEG_DP_228b.pdf.
+ Doria S, Diba F, Susanti SS, Vollmer S, Monfared IG. (2019) Mothers’ experiences of quality of care
+ and potential benefits of implementing the WHO safe childbirth checklist: A case study of Aceh, Indone-
+ sia. BMC Pregnancy Childbirth 19(1): 461. https://doi.org/10.1186/s12884-019-2625-8 PMID:
+ 
+<section> 31795951
+ Cabral RA, Eggenberger T, Keller K, Gallison BS, Newman D. (2016) Use of a surgical safety checklist
+ to improve team communication. AORN Journal 104(3): 206–216. https://doi.org/10.1016/j.aorn.2016.
+ 
+<section> 06.019 PMID: 27568533
+ 
+<section> Lindsay P, Sandall J, Humphrey C. (2012) The social dimensions of safety incident reporting in mater-
+ nity care: The influence of working relationships and group processes. Social Science & Medicine
+ (10): 1793–1799. https://doi.org/10.1016/j.socscimed.2012.06.030 PMID: 22884941
+ Semrau KEA, Hirschhorn LR, Marx Delaney M, Singh VP, Saurastri R, Sharma N, et al. (2017) Out-
+ comes of a Coaching-Based WHO Safe Childbirth Checklist Program in India. New England Journal
+ Medicine 377(24): 2313–2324. https://doi.org/10.1056/NEJMoa1701075 PMID: 29236628
+ Perry WRG, Nejad SB, Tuomisto K, Kara N, Roos N, Dilip TR, et al. (2017) Implementing the WHO
+ Safe Childbirth Checklist: Lessons from a global collaboration. BMJ Global Health 2(3). https://doi.org/
+ 10.1136/bmjgh-2016-000241 PMID: 29082003 
+<section> King G, Gakidou E, Imai K, Lakin J, Moore RT, Nall C, et al. (2009) Public policy for the poor? A rando-
+ mised assessment of the Mexican universal health insurance programme. Lancet 373: 1447–1454.
+ https://doi.org/10.1016/S0140-6736(09)60239-7 PMID: 19359034
+ Amouzou A, Jiwani SS, Da Silva IC, Carvajal-Aguirre L, Maïga A, Vaz LM. (2020) Closing the inequality
+ gaps in reproductive, maternal, newborn and child health coverage: Slow and fast progressors. BMJ
+ Global Health. 5(1): e002230. https://doi.org/10.1136/bmjgh-2019-002230 PMID: 32133181
+ Varghese B, Copas A, Kumari S, Bandyopadhyay S, Sharma J, Saha S, et al. (2019) Does the safe
+ childbirth checklist (SCC) program save newborn lives? Evidence from a realistic quasi-experimental
+ study, Rajasthan, India. Maternal Health, Neonatology and Perinatology 5: 3. https://doi.org/10.1186/
+ 
+<section> s40748-019-0098-4 PMID: 30867935
+ 
+<section> Molina RL, Neal BJ, Bobanski L, Singh VP, Neville BA, Delaney MM, et al. (2020) Nurses’ and auxiliary
+ nurse midwives’ adherence to essential birth practices with peer coaching in Uttar Pradesh, India: A
+ secondary analysis of the BetterBirth trial. Implementation Science 15(1): 1–10. https://doi.org/10.
+ 1186/s13012-019-0962-7 PMID: 31900167
+ 
+<section> Kara N, Firestone R, Kalita T, et al. (2017) The BetterBirth Program: Pursuing Effective Adoption and
+ Sustained Use of the WHO Safe Childbirth Checklist Through Coaching-Based Implementation in Uttar
+ Pradesh, India. Global Health: Science and Practice 5(2): 232–243. https://doi.org/10.9745/GHSP-D-
+ 
+<section> 16-00411 PMID: 28655801
+ 
+<section> Galvin G, Hirschhorn LR, Shaikh M, et al. (2019) Availability of Safe Childbirth Supplies in 284 Facilities
+ in Uttar Pradesh. Maternal and Child Health Journal 23(2): 240–249.
+ 
+<section> Molina R, Villar de Onis J, Reyes A, Begley M, Palazuelos L, Elliott P, et al. (2017) Implementation of
+ adapted Safe Childbirth Checklist in rural Chiapas, Mexico: An evaluation study. Lancet Global Health
+ 5: 26. https://doi.org/10.1016/S2214-109X(17)30133-X
+ 
+<section> Sobel HL, Murray JC, Mannava P, Mathai M, Silvestre MA. (2021) A case for updating the WHO Safe
+ 
+<section> Childbirth Checklist to improve newborn care: Experience from seven Asia and Pacific countries. Acta
+ 
+<section> Paediatrica 110(2): 404–408. https://doi.org/10.1111/apa.15567 PMID: 32892427
+ Zamboni K, Singh S, Tyagi M, Hill Z, Hanson C, Schellenberg J. (2021) Effect of collaborative quality
+ improvement on stillbirths, neonatal mortality and newborn care practices in hospitals of Telangana and
+ 
+<section> Andhra Pradesh, India: Evidence from a quasi-experimental mixed-methods study. Implementation Sci-
+ ence 16(1): 1–17.
+ 
+<section> Namazzi G, Achola KA, Jenny A, Santos N, Butrick E, Otieno P, et al. (2021) Implementing an intrapar-
+ tum package of interventions to improve quality of care to reduce the burden of preterm birth in Kenya
+ and Uganda. Implementation Science Communication 2(1): 1–13. https://doi.org/10.1186/s43058-021-
+ 
+<section> 00109-w PMID: 33509293

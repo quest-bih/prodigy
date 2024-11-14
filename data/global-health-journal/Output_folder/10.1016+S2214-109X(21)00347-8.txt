@@ -1,0 +1,1405 @@
+
+<section> HHS Public Access
+ 
+<section> Author manuscript
+ 
+<section> Lancet Glob Health. Author manuscript; available in PMC 2021 December
+ Author
+ 
+<section> Published in final edited form as:
+ Lancet Glob Health. 2021 November ; 9(11): e1569–e1578. doi:10.1016/S2214-109X(21)00347-8.
+ 
+<section> Manuscript
+ 
+<section> Azithromycin for the prevention of rehospitalisation and death
+ 
+<section> among Kenyan children being discharged from hospital: a
+ 
+<section> double-blind, placebo-controlled, randomised controlled trial
+ 
+<section> Patricia B Pavlinac, Benson O Singa, Kirkby D Tickell, Rebecca L Brander, Christine J
+ McGrath, Mary Amondi, Joyce Otieno, Elizabeth Akinyi, Doreen Rwigi, Joseph D Carreon,
+ Stephanie N Tornberg-Belanger, Ruth Nduati, Joseph B Babigumira, Liru Meshak, George
+ 
+<section> Author
+ 
+<section> Bogonko, Samuel Kariuki, Barbra A Richardson, Grace C John-Stewart, Judd L Walson
+ (P B Pavlinac PhD, B O Singa MBChB, K D Tickell MBBS, C J McGrath PhD, J B
+ 
+<section> Manuscript Babigumira PhD, B A Richardson PhD, G C John-Stewart MD, J L Walson MD), 
+<section> Department
+ 
+<section> of Epidemiology (S N Tornberg-Belanger MPH, G C John-Stewart, J L Walson), 
+<section> Department
+ 
+<section> of Biostatistics (B A Richardson), and Departments of Pediatrics and Medicine–Allergy and
+ 
+<section> Infectious Diseases (G C John-Stewart, J L Walson), 
+<section> University of Washington, Seattle, WA,
+ USA; Centre for Clinical Research (B O Singa, J Otieno DIP, E Akinyi BSc, D Rwigi BSc)
+ and Centre for Microbiology Research (S Kariuki PhD), 
+<section> Kenya Medical Research Institute,
+ Nairobi, Kenya; Childhood Acute Illness and Nutrition Network, Nairobi, Kenya (B O Singa,
+ K D Tickell, C J McGrath, J L Walson); 
+<section> Bill & Melinda Gates Foundation, Seattle, WA, USA
+ (R L Brander PhD); 
+<section> International AIDS Vaccine Initiative, Nairobi, Kenya (M Amondi BA);
+ 
+<section> The Clovers’ Leaves Limited Company, Tempe, AZ, USA (J D Carreon MS); 
+<section> Department
+ 
+<section> Author
+ 
+<section> of Pediatrics and Child Health, University of Nairobi, Kenyatta National Hospital, Nairobi,
+ 
+<section> Kenya (R Nduati MMed); 
+<section> Homa Bay Teaching and Referral Hospital, Homa Bay, Kenya (L
+ 
+<section> Manuscript Meshak MBChB); 
+<section> Kisii Teaching and Referral Hospital, Kisii, Kenya (G Bogonko MMed)
+ 
+<section> Summary
+ 
+<section> This is an Open Access article under the CC BY-NC-ND 4.0 license.
+ 
+<section> Correspondence to: Dr Patricia B Pavlinac, Department of Global Health, University of Washington, Seattle, WA 98105, USA,
+ ppav@uw.edu.
+ 
+<section> Contributors
+ JLW, PBP, BOS, RN, LM, BAR, JBB, and GCJ-S were responsible for the trial conceptualisation and funding acquisition. Data were
+ obtained by a clinical research team supervised by BOS, MA, JO, and EA. Training and standardisation were managed by CJM and
+ 
+<section> Author BOS. Laboratory analyses were overseen by DR, SNT-B, and SK. Clinical oversight and decision making were overseen by BOS, LM,
+ and GB. Data cleaning and analysis were done by RLB, PBP, KDT, JDC, and BAR. KDT and JDC verified the data. PBP and JLW
+ wrote the first draft of the manuscript and all authors edited and approved the content of the final manuscript. The final manuscript
+ was also reviewed by all members of the Data and Safety Monitoring Board.
+ 
+<section> Manuscript
+ 
+<section> Declaration of interests
+ BAR reports participation on Data Safety and Monitoring Boards for HIV PrEP clinical trials funded by Gilead and COVID-19
+ treatment trials funded by the US National Institute of Allergy and Infectious Diseases, outside the submitted work. All other authors
+ declare no competing interests.
+ 
+<section> Data sharing
+ The complete de-identified dataset, data dictionary, and analytical code are publicly available. Study protocol, informed consent forms,
+ statistical analysis plan, and case report forms can be found in the appendix (pp 9–128).
+ 
+<section> See Online for appendix
+ For the dataset, data dictionary, and analytical code see https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/
+ 
+<section> YTMFOJ 
+<section> Background—Mass drug administration of
+ 
+<section> Author been shown to improve survival in high-mortality
+ a time of elevated risk unaddressed by current
+ targeting empirical azithromycin administration.
+ 
+<section> Manuscript
+ 
+<section> administered at hospital discharge on risk of death
+ younger than 5 years.
+ 
+<section> Methods—In this double-blind, placebo-controlled
+ assigned (1:1) to receive a 5-day course of azithromycin
+ followed by 5mg/kg per day on days 2–5) or identically
+ from four hospitals in western Kenya. Children
+ at hospital discharge, weighed at least 2 kg, and
+ reason other than trauma, poisoning, or congenital
+ rehospitalisation in the subsequent 6-month period
+ 
+<section> Author
+ 
+<section> compared by randomisation group with Cox proportional
+ Azithromycin resistance in Escherichia coli isolates
+ 
+<section> Manuscript compared by randomisation group with generalised
+ with ClinicalTrials.gov, NCT02414399.
+ 
+<section> Findings—Between June 28, 2016, and Nov
+ discharge from hospital, with 703 (50·2%) randomly
+ placebo. Among the 1398 children included in
+ azithromycin group and 696 in the placebo group),
+ 20·4 per 100 child-years in the azithromycin group
+ group (adjusted hazard ratio 0·91, 95·5% CI 0·64–1·29,
+ common in commensal E coli isolates from enrolled
+ 
+<section> Author 406 isolates) despite only 3·7% of children having
+ hospitalisation. Azithromycin resistance was slightly
+ the azithromycin group (26·9%) than in the placebo
+ 
+<section> Manuscript 95% CI 0·95–2·09, p=0·088), with no difference
+ 
+<section> Interpretation—We did not observe a significant
+ delivered to children younger than 5 years at hospital
+ of mortality and rehospitalisation. These findings
+ mechanisms and interventions for prevention
+ period.
+ 
+<section> Funding—Eunice Kennedy Shriver National
+ 
+<section> Author 
+<section> Introduction
+ 
+<section> Over 5 million children younger than
+ from infectious diseases. 1 A large trial
+ 
+<section> Manuscript
+ 
+<section> delivered to children younger than 5
+ MORDOR trial—reported a 13·5%
+ up period. 2 These findings have prompted
+ to prevent under-5 mortality in sub-Saharan
+ statement by WHO.
+ 
+<section> azithromycin to children in sub-Saharan Africa has
+ settings. The period after hospital discharge is
+ interventions and might provide an opportunity for
+ We aimed to assess the efficacy of azithromycin
+ and rehospitalisation in Kenyan children
+ 
+<section> randomised trial, children were randomly
+ (oral suspension 10 mg/kg on day 1,
+ appearing and tasting placebo at discharge
+ were eligible if they were aged 1–59 months
+ had been admitted to hospital for any medical
+ anomaly. The primary outcome was death or
+ in a modified intention-to-treat population,
+ hazards regression and Kaplan-Meier.
+ from a random subset of children was
+ estimating equations. This trial is registered
+ 
+<section> 4, 2019, 1400 children were enrolled in the trial at
+ assigned to azithromycin and 697 (49·8%) to
+ the modified intention-to-treat analysis (702 in the
+ the incidence of death or rehospitalisation was
+ and 22·5 per 100 child-years in the placebo
+ p=0–58). Azithromycin resistance was
+ children before randomisation (37·7% of
+ received a macrolide antibiotic during the
+ higher at 3 months after randomisation in
+ group (19·1%; adjusted prevalence ratio 1·41,
+ observed at 6 months (1·17, 0·78–1·76, p=0·44).
+ 
+<section> benefit of a 5-day course of azithromycin
+ discharge despite the overall high risk
+ highlight the need for more research into
+ of morbidity and mortality in the post-discharge
+ Institute of Child Health & Human Development.
+ 
+<section> 5 years die annually in sub-Saharan Africa, primarily
+ of biannual mass drug administration of azithromycin
+ years living in Niger, Tanzania, and Malawi—the
+ reduction in child mortality during the 24-month follow­
+ interest in the empirical use of azithromycin
+ Africa, including the issuance of a policy 
+<section> Despite evidence of benefit in reducing death in specific populations and settings, mass
+ 
+<section> Author drug administration with azithromycin can lead to community-wide azithromycin resistance
+ in the intestinal resistome (the collection of all antibiotic resistance genes in intestinal
+ microbiota) and in nasal Streptococcus pneumoniae isolates. 
+<section> 4–9 Although the individual­
+ 
+<section> Manuscript
+ 
+<section> level implications of azithromycin resistance in the absence of disease are unclear, the
+ potential for reduced clinical efficacy of macrolide antibiotics is of global public health
+ concern. 
+<section> 10–12 Alternative azithromycin delivery strategies that reduce mortality while
+ limiting antibiotic pressure are urgently needed.
+ 
+<section> Targeting the delivery of azithromycin to children at high risk of death might optimise
+ benefit while minimising antibiotic exposure. 
+<section> 13 In sub-Saharan Africa, children recently
+ discharged from hospital are an accessible population at high risk of mortality and
+ rehospitalisation in the months after discharge. 
+<section> 14,15 Although the mechanisms underpinning
+ 
+<section> Author this elevated risk are incompletely understood, factors such as untreated ongoing infections,
+ nosocomial or community-acquired infections, and alterations in the gut microbiota as a
+ result of health-care exposure all likely contribute to this elevated risk.
+ 
+<section> Manuscript
+ 
+<section> We hypothesised that targeted azithromycin delivered to children at hospital discharge would
+ reduce severe morbidity and mortality while minimising population-level exposure to this
+ broad-spectrum macrolide antibiotic. To test this hypothesis, we did a randomised clinical
+ trial testing the effect of azithromycin administered at hospital discharge on risk of death and
+ rehospitalisation in Kenyan children younger than 5 years.
+ 
+<section> Methods
+ 
+<section> Study design and participants
+ 
+<section> Author The Toto Bora trial was a multi-site, double-blind, placebo-controlled randomised controlled
+ trial done at four hospitals in Kenya. The trial protocol and statistical analysis plan
+ are described elsewhere (appendix pp 9–44). 
+<section> 16 Briefly, children were recruited from the
+ 
+<section> Manuscript
+ 
+<section> inpatient wards of Kisii Teaching and Referral Hospital, Homa Bay Teaching and Referral
+ Hospital, St Paul Mission Hospital, and Kendu Adventist Mission Hospital (Kenya) between
+ June 28, 2016, and Nov 4, 2019. All children discharged during study working hours
+ (Monday to Friday 0800 h to 1600 h) were screened for eligibility. Children aged 1–59
+ months were eligible at hospital discharge if they weighed at least 2 kg and had been
+ admitted to hospital for any medical reason other than trauma, poisoning, or congenital
+ anomaly. Children were excluded if they had been prescribed a macrolide antibiotic (ie,
+ azithromycin, erythromycin, or clarithromycin) at discharge, were taking a protease inhibitor
+ (eg, lopinavir) for HIV infection, or if they had a documented allergy to macrolide
+ 
+<section> Author antibiotics. Additionally, children were excluded if their caregiver did not plan for them
+ to remain in the study area for 6 months, if a twin sibling of the same sex was enrolled
+ contemporaneously, or if the accompanying caregiver was not the legal guardian.
+ 
+<section> Manuscript
+ 
+<section> The trial was approved by the institutional review boards at the Kenya Medical Research
+ Institute (KEMRI; SERU 3086, Sept 8, 2015, to present), the Kenya Pharmacy and Poisons
+ Board (ECCT/15/10/04, Dec 3, 2015, to present), and the University of Washington (IRB 
+<section> local language (English, Kiswahili, Kisii, or Luo). If a caregiver was not literate, information
+ 
+<section> Author was read to the caregiver in the language of their choice, and consent was obtained using a
+ witnessed thumbprint.
+ 
+<section> Manuscript 
+<section> Randomisation and masking
+ Participants were randomly assigned (1:1) in blocks of ten, stratified by site, to receive either
+ azithromycin or identically appearing and tasting placebo at discharge. By use of a random
+ number generator in Microsoft Excel, each participant was assigned a unique identifier, and
+ the randomisation code linking each identifier to the allocated treatment was maintained by
+ staff not otherwise involved in the study. Identically appearing bottles were labelled with
+ the unique identifier, masking study staff and participants to randomisation group. Study
+ participants, investigators, the study staff, hospital clinicians, and individuals involved in
+ data management or analysis were masked to the allocation group during all data collection
+ 
+<section> Author and management phases of the study.
+ 
+<section> Procedures
+ 
+<section> Manuscript
+ 
+<section> Consenting caregivers were interviewed to assess demographic information and medical
+ history, and clinical data of the child were abstracted from hospital records, including
+ presenting diagnosis, medical management, length of stay, procedures done, relevant
+ medical history, physical examination, and laboratory data. Case report forms can be found
+ in the appendix (pp 53–128). These interviews ranged from 30 min to 60 min in length.
+ A physical examination was done by a study clinician, including measurement of height or
+ length, weight, and mid-upper arm circumference.
+ 
+<section> After discharge, enrolled children received either a 5-day course of oral suspension
+ 
+<section> Author formulation azithromycin (10 mg/kg on day 1, followed by 5 mg/kg per day on days 2–5)
+ or identically appearing and tasting placebo. The first dose was directly observed. Doses on
+ days 2–5 were administered by caregivers at home. Caregivers were asked to record each
+ 
+<section> Manuscript administered dose and to return bottles at the 3-month follow-up visit.
+ 
+<section> During scheduled follow-up visits at 3 months and 6 months post-discharge, history of
+ recent illness or morbidity, post-discharge medication use, and current condition of the
+ child were collected by use of a standardised questionnaire. If the child could not return
+ to the facility, a member of the study staff visited the child’s home. If the child was not
+ found at their home after two attempts, a telephone interview was done, lasting 20–45
+ min. If hospitalisations were reported during the interview, their date, length of stay, and
+ medications administered were ascertained from both caregivers and medical records (when
+ accessible). Caregivers were encouraged to bring the child to the study health facility when
+ 
+<section> Author
+ 
+<section> seeking care for illness (unscheduled visits) and the study team triaged the child’s care.
+ 
+<section> When a death occurred, a verbal autopsy was done with use of a validated questionnaire.
+ 
+<section> Manuscript
+ 
+<section> Final causes of death were determined by consensus among masked clinical investigators
+ (BOS, KDT, and JLW) on the basis of available death certificates, medical records, and
+ verbal autopsies. 
+<section> We collected whole stool or flocked rectal swabs (Pediatric FLOQswab, Copan Diagnostics,
+ 
+<section> Author Murrieta, CA, USA) before study medication administration at enrolment and at the 3­
+ month and 6-month follow-up visits. A portion of stool or swab was placed in Cary-Blair
+ media (Copan Diagnostics) within 1 h of collection. Samples were maintained between
+ 
+<section> Manuscript
+ 
+<section> 2°C and 8°C and shipped to the KEMRI Center for Microbiology laboratory in Nairobi for
+ processing within 24 h of collection. Escherichia coli colonies were grown and identified by
+ use of selective and differential agar plating, Gram staining, and oxidase testing and further
+ confirmed using API-20E testing kits (bioMerieux, Marcy-l’Étoile, France). Three colonies
+ per sample were pooled into 15% glycerol and frozen at −80°C for potential antibiotic
+ susceptibility testing.
+ 
+<section> E coli isolates from a randomly selected subset of children enrolled in the trial underwent
+ antibiotic resistance testing with the disc diffusion method. Frozen stocks were thawed,
+ 
+<section> Author quadrant-streaked onto MacConkey agar, and incubated at 37°C in ambient air. If more than
+ one morphologically distinct colony was present upon restoration, each was individually
+ subjected to antibiotic susceptibility testing. Isolates from up to three morphologies were
+ 
+<section> Manuscript placed separately in 5 mL of normal saline standardised to a 0·5 MacFarland turbidity
+ standard and plated on Mueller Hinton agar with antibiotic discs placed on the agar surface.
+ Plates were inoculated for 18–24 h at 37°C before the measurement of zones of inhibition.
+ Zone sizes had not been established for resistance to azithromycin in E coli at the time of
+ writing; therefore we considered 13 mm or more to be susceptible and 12 mm or less to
+ be resistant on the basis of epidemiological breakpoints for Salmonella enterica serotype
+ Typhi. 
+<section> 17 If a child had more than one morphologically distinct E coli isolate at a given
+ timepoint, the E coli was considered resistant to azithromycin if one or more of the colonies
+ was resistant.
+ 
+<section> Author
+ 
+<section> Outcomes
+ 
+<section> The primary outcome was death or rehospitalisation in the 6 months after hospital
+ 
+<section> Manuscript discharge. Secondary outcomes included cause-specific death and proportion of children
+ with azithromycin-resistant E coli Mild, moderate, and severe adverse events were
+ identified by the study clinicians during clinical examinations at scheduled and unscheduled
+ follow-up or reported by caregivers during interviews at scheduled visits. Event severity
+ was defined according to the 2014 Division of AIDS table for grading the severity of adult
+ and paediatric adverse events. Adverse events were captured throughout the entire follow-up
+ period, and plausible relatedness was determined by the clinical team after full review of
+ the case. Non-serious adverse events were considered to be possibly related to the study
+ drug if a recognised side-effect of azithromycin (diarrhoea, vomiting, rash, facial or airway
+ 
+<section> Author swelling, difficulty breathing, jaundice, and abdominal swelling) occurred within 72 h of a
+ scheduled drug administration (ie, within 7 days of study enrolment).
+ 
+<section> Manuscript 
+<section> Statistical analysis
+ 
+<section> A sample size of 1400 children was calculated for the primary endpoint, assuming an α level
+ of 0·05, power of 0·80, 1:1 randomisation, 20% loss to follow-up, a cumulative incidence of
+ 22·5% for the combined outcome among children treated with placebo, 
+<section> 14,15,18 and a hazard
+ ratio of 0·70. At the time of study planning (2013–14), the best evidence of the effect of 
+<section> empirical azithromycin on childhood mortality was an observed 49% reduction in mortality
+ 
+<section> Author after azithromycin mass drug administration in Ethiopia; 
+<section> 19 thus a 30% reduction was chosen
+ as a more conservative effect size.
+ 
+<section> Manuscript We used Cox proportional hazards regression to compare the rates of death or first
+ rehospitalisation after discharge on the basis of randomisation allocation, excluding any
+ children deemed ineligible after randomisation (modified intention-to-treat [mITT]). All
+ analyses were adjusted for site as an indicator variable. In secondary analyses, we
+ adjusted for breastfeeding status and a discharge diagnosis of “other”, modelled as
+ indicator variables, to account for a possible imbalance in these two variables between
+ the randomisation groups. In per-protocol analyses, we compared treatment effects in groups
+ defined by self-reported adherence to the 5-day course of azithromycin (five doses vs fewer
+ than five doses). The primary adherence measure was self-reporting at follow-up visits and
+ 
+<section> Author the secondary adherence measure was the number of bottle tick marks on returned bottles
+ collected at follow-up visits. Additionally, we did Cox regression for time to mortality
+ and time to rehospitalisation as separate endpoints. In prespecified subgroup analyses, we
+ 
+<section> Manuscript compared treatment effects in children whose caregivers reported no additional antibiotic
+ use during follow-up and among subsets of children defined by age, site, HIV status,
+ malnutrition status, and discharge diagnosis. An α of 0·045 was used as the statistical
+ significance boundary for the final primary analysis due to α spending at a predefined
+ interim analysis, as specified in the statistical analysis plan (appendix pp 31–44).
+ 
+<section> We modelled azithromycin resistance in E coli at baseline, 3 months, and 6 months of
+ follow-up by randomisation group using generalised estimating equations with a Poisson
+ link and exchangeable correlation structure, including site in the model. Models included an
+ interaction term between randomisation group and follow-up timepoint (month 3 or month
+ 
+<section> Author
+ 
+<section> 6) to test whether an effect on resistance waned with time. Prevalence ratios (PRs) were
+ reported for two-way comparisons between randomisation groups and within randomisation
+ groups, by follow-up visit. E coli isolated from stool collected at follow-up visits outside of
+ 
+<section> Manuscript
+ 
+<section> a 60–120-day window for 3-month visits and outside of a 150–210-day window for 6-month
+ visits were excluded from the primary analysis but included in sensitivity analyses. Models
+ were done in the mITT population among those with antimicrobial resistance testing done
+ and in whom E coli was isolated. All analyses were done in STATA, version 16.0, and R.
+ 
+<section> A data safety and monitoring committee reviewed monthly adverse event summaries and
+ details of severe adverse events. A single interim analysis was done in Dec 20, 2018, when
+ 50% of expected person-time (350 child-years) was accrued. O’Brien-Fleming boundaries
+ with a two-sided Z score critical value of 2·797 or −2·797 (p value <0·005) were used
+ 
+<section> Author to compare the interim analysis p value from a Kaplan-Meier log-rank test. This trial is
+ registered with ClinicalTrials.gov, NCT02414399.
+ 
+<section> Manuscript 
+<section> Role of the funding source
+ The funders had no role in study design, data collection, data analysis, data interpretation,
+ decision to publish, or preparation of the manuscript. 
+<section> Results
+ 
+<section> Author
+ 
+<section> Between June 28, 2016, and Nov 4, 2019, 3283 children discharged from study hospitals
+ were screened for eligibility and 1400 of those were enrolled in the trial, with 703 (50·2%)
+ 
+<section> Manuscript randomly assigned to azithromycin and 697 (49·8%) to placebo (figure 1). One child in each
+ group was deemed ineligible after randomisation: one child in the azithromycin group had
+ been admitted for poisoning and one in the placebo group had a twin sibling of the same sex
+ enrolled in the trial on the same day.
+ 
+<section> Among the 1398 children included in the mITT analysis, 465 (33·3%) were younger than
+ 12 months, 570 (40·8%) were girls, and 874 (62·5%) were from households living on
+ less than US$1·90 per day (table 1). At enrolment, 315 (22·6%) children were stunted,
+ 132 (9·4%) had acute malnutrition, 147 (10·5%) were exposed to HIV, and 18 (1·3%)
+ were confirmed to be infected with HIV. Common diagnoses at discharge included lower
+ 
+<section> Author
+ 
+<section> respiratory tract infection, malaria, and gastroenteritis or diarrhoea (table 1). Participant
+ characteristics were balanced across the randomisation groups, except for slightly fewer
+ 
+<section> Manuscript children in the azithromycin group with a diagnosis of “other” (driven largely by more
+ urinary tract infection diagnoses in the placebo group than in the azithromycin group)
+ and slightly more children in the azithromycin group being partly (rather than exclusively)
+ breastfed during the first 6 months of life.
+ 
+<section> Most children (1253 [89·6%]) received an antibiotic during hospitalisation, most
+ commonly penicillin (839 [60·0%] of 1398 in the mITT), gentamicin (757 [54·2%]), and
+ ceftriaxone (538 [38·5%]). Macrolides (azithromycin, clarithromycin, or erythromycin) were
+ infrequently given in hospital (52 [3·7%]), with azithromycin prescribed to only 24 (1·7%)
+ children. Many children (867 [62·0%]) were also prescribed an antibiotic at discharge, most
+ 
+<section> Author commonly amoxicillin (600 [42·9%]), penicillin (87 [6·2%]), and cefuroxime (82 [5·9%]).
+ Antimalarials were also frequently administered in hospital, with 509 (36·4%) children
+ receiving an antimalarial during hospitalisation, most commonly artemether lumefantrine
+ 
+<section> Manuscript
+ 
+<section> (161 [11·5%]), paludrine (49 [3·5%]), artesunate (447 [32·0%]), and quinine (two [0·1%]).
+ Additionally, nearly a third (379 [27·1%]) of children were prescribed an antimalarial at
+ discharge (281 [20·1%] artemether lumefantrine, 106 [7·6%] paludrine, and three [0·2%]
+ artesunate).
+ 
+<section> 34 (2·4%) children died during the 6-month follow-up and 115 (8·2%) children were
+ rehospitalised at least once (table 2). Ten children (0·7%) were hospitalised twice. The
+ incidence of the combined outcome of death or first rehospitalisation was 20·4 per
+ child-years in children randomly assigned to azithromycin and 22·5 per 100 child-years
+ 
+<section> Author in the placebo group (adjusted hazard ratio [HR] 0·91, 95·5% CI 0·64-1·29, p=0·58; table
+ 2, figure 2). The incidence of rehospitalisation alone was similar in the azithromycin and
+ placebo groups (table 2). Approximately a quarter of the 115 first rehospitalisations occurred
+ 
+<section> Manuscript in the first 30 days after initial discharge (13 [22·4%] of 58 in the azithromycin group and 15
+ [26·3%] of 57 in the placebo group). The incidence of death was 4·7 per 100 child-years in
+ the azithromycin group and 6·0 per 100 child-years in the placebo group (adjusted HR 0·79,
+ 95·5% CI 0·39-1·58). Approximately a third of deaths in each group occurred in the first
+ days of follow-up (four [26·7%] of 15 in the azithromycin group and seven [36·8%] of 
+<section> in the placebo group), two of which in each group occurred within the first 7 days. Another
+ 
+<section> Author third of deaths occurred in the 31–90-day post-discharge period (six [40·0%] of 15 in the
+ azithromycin group and six [31·6%] of 19 in the placebo group) and the remaining third
+ occurred 91–180 days after discharge (five [33·3%] of 15 in the azithromycin group and
+ 
+<section> Manuscript
+ 
+<section> six [31·6%] of 19 in the placebo group). Causes of death are reported in table 3. Subgroup
+ analyses did not identify subgroups more or less likely to benefit from azithromycin’s effect
+ on risk of rehospitalisation or death in the 6-month post-discharge period (appendix p 6).
+ 
+<section> All children were directly observed receiving the first dose of study drug, and more than
+ 90% received all five doses according to caregiver report by questionnaire (appendix p
+ 3). Roughly 70% of caregivers returned bottles for the secondary adherence assessment
+ (702 [73·3%] in the azithromycin group and 696 [71·7%] in the placebo group), and 265
+ (51·5%) in the azithromycin group and 266 (53·3%) in the placebo group indicated by tick
+ 
+<section> Author mark that all five doses were administered to the child. In per-protocol analyses—excluding
+ children who did not receive the full course (by caregiver report in questionnaire or by
+ bottle tick marks), who had consent withdrawn, or who were lost to follow-up—the effect
+ 
+<section> Manuscript of azithromycin on the risk of death or rehospitalisation (alone or in combination) did not
+ meaningfully differ from the mITT analysis results (appendix pp 4–6).
+ 
+<section> E coli were isolated from faecal samples from 1219 (87·2%) of 1398 children at hospital
+ discharge, from 1212 (96·1%) of 1261 with faecal samples at 3 months, and 1145 (94·6%) of
+ 1210 with faecal samples at 6 months. 406 children enrolled with at least one baseline E coli
+ isolate were randomly selected for antimicrobial resistance testing; of those, 350 had month
+ 3 isolates and 330 had month 6 isolates also available from within the 1-month window
+ for antimicrobial resistance testing. 153 (37·7%) baseline E coli isolates were resistant to
+ azithromycin (38·4% in the azithromycin group and 36·9% in the placebo group). At the
+ 
+<section> Author
+ 
+<section> 3-month follow-up visit, these percentages decreased by almost half in both groups (PR
+ 0·54, 95% CI 0·32–0·91, p=0·02 for month 3 vs month 0 visit in the azithromycin group,
+ and 0·52, 0·35–0·75, p=0–001 for month 3 vs month 0 visit in the placebo group; figure
+ 
+<section> Manuscript
+ 
+<section> 3). We observed a modestly higher prevalence of azithromycin resistance 3 months after
+ randomisation in the azithromycin group (26·9%) than in the placebo group (19·1%; PR
+ 1·41, 95% CI 0·95–2·09, p=0·088) with no difference at 6 months after randomisation
+ between the intervention and placebo groups (1·17, 0·78–1·76, p=0·44, p 
+<section> time-interaction
+ =0·45). When including E coli isolates that occurred outside of visit windows, results did not
+ meaningfully differ (appendix p 8).
+ 
+<section> Discussion
+ 
+<section> Author In this randomised, double-blind, placebo-controlled trial of 1400 children in Kenya, a
+ 5-day course of azithromycin administered to children being discharged from hospital did
+ not decrease the risk of the combined outcome of mortality or rehospitalisation in the
+ 
+<section> Manuscript subsequent 6-month period. We did not observe a significant benefit in this trial despite the
+ overall high risk of mortality and rehospitalisation. Our findings differ from those found in
+ other mass drug administration trials of azithromycin for mortality prevention. 
+<section> 20 The high
+ rates of adverse outcomes observed underscore the importance of the post-discharge period
+ to child health and the need to develop guidelines and interventions for this crucial period. 
+<section> WHO guidelines recommend mass drug administration with azithromycin to promote
+ 
+<section> Author survival in children aged 1–11 months in settings where the under-5 mortality is more
+ than eight deaths per 100 child-years on the basis of several trials of azithromycin delivered
+ through mass drug administration. 
+<section> 3,20 We did not detect an age effect in reducing the
+ 
+<section> Manuscript
+ 
+<section> combined outcome of death or rehospitalisation, despite observing a mortality rate of 8·1
+ deaths per 100 child-years in children younger than 1 year. This study was designed to
+ detect a primary outcome of death or rehospitalisation and was not designed or powered to
+ evaluate mortality alone or to evaluate age-specific effects. As a result, we cannot exclude
+ the possibility that azithromycin delivered at hospital discharge confers a mortality benefit
+ at least as large as that observed in studies of mass drug administration to improve child
+ survival.
+ 
+<section> Almost all children received antibiotics during their inpatient stay and most were prescribed
+ 
+<section> Author antibiotics at discharge, although we do not know how many of those prescriptions were
+ filled. It is possible that these antibiotics treated nosocomial or incompletely treated
+ infections, reducing the additional benefit of azithromycin in the early discharge period.
+ 
+<section> Manuscript Alternative treatment schedules, such as intermittent antimicrobial administration, might be
+ a more effective strategy for post-discharge treatment with azithromycin, as has been shown
+ in trials of post-discharge malaria chemoprophylaxis. 
+<section> 21,22 High antibiotic usage during and
+ immediately after hospital discharge might also have selected for antimicrobial resistance,
+ which could have further reduced the benefit conferred by azithromycin. Importantly,
+ mortality benefits observed in mass drug administration trials of azithromycin might be due
+ to the indirect effects related to population-wide delivery, such as reducing pathogen load
+ in communities and environments, which could explain the lack of effect in this targeted,
+ individually randomised trial. Such indirect effects have been observed in trials of mass drug
+ administration of azithromycin for trachoma control. 23,24
+ 
+<section> Author
+ 
+<section> Over a third of enrolled children had azithromycin resistance detected in commensal E
+ coli at the time of randomisation, despite few receiving a macrolide antibiotic during their
+ 
+<section> Manuscript
+ 
+<section> hospital stay. Although azithromycin resistance was common among children at hospital
+ discharge, resistance declined substantially in the 3 months and 6 months after discharge
+ in both study groups. This decline might be due to a fitness disadvantage of azithromycin­
+ resistant E coli isolates such that once antibiotic pressure is removed, wild-type isolates
+ become more predominant. 
+<section> 25 This occurrence could explain why individual-level antibiotic
+ use tends to be a less important driver of antibiotic resistance than community use of
+ antibiotics or a physical environment conducive to resistance-gene sharing, such as crowded
+ settings with poor sanitation. 
+<section> 26–28 We observed a slightly higher azithromycin resistance
+ prevalence in E coli isolates from children randomly assigned to the azithromycin group at
+ 
+<section> Author 3 months but this difference of borderline significance was no longer present at 6 months,
+ consistent with transient increases observed in some mass drug administration trials. 4–7,29
+ 
+<section> Manuscript Our study had high retention (>99%), a well characterised study population, complete
+ adherence to the first dose of study medication, and high adherence to the full 5-day
+ course reported by caregivers. However, our study also had important limitations. With the
+ number of events observed (n=132), we were powered to detect an HR of 0·61 for the
+ combined endpoint of death or rehospitalisation and, with 34 deaths, an HR of 0·35 for 
+<section> the outcome of death alone. Powering our trial for the observed HR of 0·91 (or a 9%
+ 
+<section> Author reduction in rehospitalisation or death) would have required 36 000 children to be enrolled.
+ 22 000 children would have been required to detect the observed HR for death alone of
+ 0·79. These sample sizes exceed what is feasible within individually randomised clinical
+ 
+<section> Manuscript
+ 
+<section> trials, but community-randomised trials are powered to detect these more modest effect
+ sizes. 2 We chose to evaluate a combined outcome of death and rehospitalisation because
+ hospitalisation is strongly associated with mortality and represents a severe economic event
+ to many families, even in settings where paediatric care is free. 
+<section> 14 However, hospitalisation
+ might be a heterogeneous outcome, driven partly by financial resources and location. 
+<section> 30 A
+ trial of azithromycin in conjunction with seasonal malaria prophylaxis in Mali and Burkina
+ Faso also used a combined outcome of all-cause hospitalisation or death and observed no
+ evidence of benefit, perhaps also due to hospitalisation being a heterogeneous outcome.
+ Additionally, the assessment of adherence to the study medication in this trial was limited to
+ 
+<section> Author self-report, which might have overestimated the true adherence to the study medication.
+ 
+<section> As countries work towards achieving the sustainable development goal of reducing
+ 
+<section> Manuscript childhood mortality to fewer than 25 deaths per 1000 livebirths, 
+<section> 32 hospital discharge
+ represents a practical timepoint for delivering life-saving interventions to children at high
+ risk. Although several trials of azithromycin delivered through mass drug administration
+ have shown mortality benefit, our trial did not show efficacy in reducing mortality or
+ rehospitalisation with a 5-day course of azithromycin administered to children younger than
+ 5 years at discharge from hospital. Novel interventions to reduce mortality and morbidity
+ during the post-discharge period are urgently needed to address the substantial burden of
+ illness during this crucial period.
+ 
+<section> Supplementary Material
+ 
+<section> Author
+ 
+<section> Refer to Web version on PubMed Central for supplementary material.
+ 
+<section> Manuscript
+ 
+<section> Acknowledgments
+ 
+<section> We thank the children who participated in these studies and their families, and the dedicated physicians, nurses,
+ scientists, and staff at each study site for their dedication and outstanding performance of clinical and laboratory
+ study activities. Pfizer donated the azithromycin and placebo, Copan Diagnostics donated all rectal swabs and
+ Cary-Blair transport media used in this clinical trial. We thank Paul Ndungu, Gerald Okeyo, and Hannah
+ Atlas, whose coordination support helped make this study possible, and Mame Mareme Diakhate, who worked
+ tirelessly on the data management. Lisa Manhart and Gillian Levine played an invaluable role in the proposal
+ development. Investigators from KEMRI-Wellcome Trust Kilifi, Jay Berkley, Anthony Scott, Joseph Waichungo,
+ Angela Karani, Donald Akech, and Horace Gumba provided microbiology expertise and training in nasopharyngeal
+ swab collection, STGG (skim milk, tryptone, glucose, and glycerin) media preparation, and laboratory quality
+ assurance and control. Alex Awuor and Caleb Okonji, with the support of Richard Omore, provided training
+ in anthropometric measurements. We are also extremely thankful to Dr Philip Walson, who helped select the
+ 
+<section> Author azithromycin dosing regimens. Finally, we are incredibly grateful to the members of the trial’s Data and Safety
+ Monitoring Board, Dr Travis Porco, Dr Andrew Prendergast, Dr Karen Kotloff, Dr Philip Ayieko, and Dr Jimmy
+ Whitworth. This study was funded by grants from the Eunice Kennedy Shriver National Institute of Child Health &
+ Human Development (National Institutes of Health; R01 HD079695 and R01 HD079695-S) to JLW.
+ 
+<section> Manuscript
+ 
+<section> References
+ 
+<section> 1. Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2016 results.
+ 
+<section> Seattle, WA: Institute for Health Metrics and Evaluation, 2017. 
+<section> 2. Keenan JD, Bailey RL, West SK, et al. Azithromycin to reduce childhood mortality in sub-Saharan
+ 
+<section> Author Africa. N Engl J Med 2018; 378: 1583–92. [PubMed: 29694816]
+ 3. WHO. WHO guideline on mass drug administration of azithromycin to children under five years of
+ age to promote child survival. Geneva: World Health Organization, 2020.
+ 
+<section> Manuscript 4. Coles CL, Mabula K, Seidman JC, et al. Mass distribution of azithromycin for trachoma control
+ is associated with increased risk of azithromycin-resistant Streptococcus pneumoniae carriage in
+ young children 6 months after treatment. Clin Infect Dis 2013; 56: 1519–26. [PubMed: 23487375]
+ 5. Haug S, Lakew T, Habtemariam G, et al. The decline of pneumococcal resistance after cessation of
+ mass antibiotic distributions for trachoma. Clin Infect Dis 2010; 51: 571–74. [PubMed: 20649409]
+ 6. Skalet AH, Cevallos V, Ayele B, et al. Antibiotic selection pressure and macrolide resistance in
+ nasopharyngeal Streptococcus pneumoniae : a cluster-randomized clinical trial. PLoS Med 2010; 7:
+ 
+<section> e1000377. [PubMed: 21179434]
+ 7. Seidman JC, Coles CL, Silbergeld EK, et al. Increased carriage of macrolide-resistant fecal E.
+ coli following mass distribution of azithromycin for trachoma control. Int J Epidemiol 2014; 43:
+ 
+<section> 1105–13. [PubMed: 24659584]
+ 8. Seidman JC, Johnson LB, Levens J, et al. Longitudinal comparison of antibiotic resistance in
+ 
+<section> Author
+ 
+<section> diarrheagenic and non-pathogenic Escherichia coli from young Tanzanian children. Front Microbiol
+ 
+<section> 2016; 7: 1420. [PubMed: 27656179]
+ 9. Doan T, Worden L, Hinterwirth A, et al. Macrolide and nonmacrolide resistance with mass
+ 
+<section> Manuscript azithromycin distribution. N Engl J Med 2020; 383: 1941–50. [PubMed: 33176084]
+ 10. Hoffman SJ, Caleo GM, Daulaire N, et al. Strategies for achieving global collective action on
+ antimicrobial resistance. Bull World Health Organ 2015; 93: 867–76. [PubMed: 26668439]
+ 11. Serina P, Riley I, Stewart A, et al. A shortened verbal autopsy instrument for use in routine
+ mortality surveillance systems. BMC Med 2015; 13: 302. [PubMed: 26670275]
+ 12. Poddighe D Macrolide resistance and longer-term assessment of azithromycin in MORDOR I. N
+ Engl J Med 2019; 381: 2184–85.
+ 13. Oldenburg CE, Arzika AM, Maliki R, et al. Optimizing the number of child deaths averted with
+ mass azithromycin distribution. Am J Trop Med Hyg 2020; 103: 1308–10. [PubMed: 32067626]
+ 14. Moisi JC, Gatakaa H, Berkley JA, et al. Excess child mortality after discharge from hospital in
+ 
+<section> Kilifi, Kenya: a retrospective cohort analysis. Bull World Health Organ 2011; 89: 725–32, 32A.
+ 
+<section> Author [PubMed: 22084510]
+ 15. Wiens MO, Pawluk S, Kissoon N, et al. Pediatric post-discharge mortality in resource poor
+ countries: a systematic review. PLoS One 2013; 8: e66698. [PubMed: 23825556]
+ 
+<section> Manuscript 16. Pavlinac PB, Singa BO, John-Stewart GC, et al. Azithromycin to prevent post-discharge morbidity
+ and mortality in Kenyan children: a protocol for a randomised, double-blind, placebo-controlled
+ trial (the Toto Bora trial). BMJ Open 2017; 7: e019170.
+ 17. Clinical and Laboratory Standards Institute. Performance standards for antimicrobial susceptibility
+ testing, 30th edn. Wayne, PA: Clinincal and Laboratory Standards Institute, 2020.
+ 18. Snow RW, Howard SC, Mung’Ala-Odera V, et al. Paediatric survival and re-admission risks
+ following hospitalization on the Kenyan coast. Trop Med Int Health 2000; 5: 377–83. [PubMed:
+ 
+<section> 10886803]
+ 19. Porco TC, Gebre T, Ayele B, et al. Effect of mass distribution of azithromycin for trachoma
+ control on overall mortality in Ethiopian children: a randomized trial. JAMA 2009; 302: 962–68.
+ 
+<section> [PubMed: 19724043]
+ 
+<section> Author 20. Oldenburg CE, Arzika AM, Amza A, et al. Mass azithromycin distribution to prevent childhood
+ mortality: a pooled analysis of cluster-randomized trials. Am J Trop Med Hyg 2019; 100: 691–95.
+ 
+<section> [PubMed: 30608051]
+ 
+<section> Manuscript 21. Kwambai TK, Dhabangi A, Idro R, et al. Malaria chemoprevention in the postdischarge
+ management of severe anemia. N Engl J Med 2020; 383: 2242–54. [PubMed: 33264546]
+ 22. Phiri K, Esan M, van Hensbroek MB, Khairallah C, Faragher B, ter Kuile FO. Intermittent
+ preventive therapy for malaria with monthly artemether-lumefantrine for the post-discharge
+ management of severe anaemia in children aged 4–59 months in southern Malawi: a multicentre,
+ randomised, placebo-controlled trial. Lancet Infect Dis 2012; 12: 191–200. [PubMed: 22172305] 
+<section> 23. House JI, Ayele B, Porco TC, et al. Assessment of herd protection against trachoma due to
+ 
+<section> Author repeated mass antibiotic distributions: a cluster-randomised trial. Lancet 2009; 373: 1111–18.
+ 
+<section> [PubMed: 19329003]
+ 24. Chidambaram JD, Melese M, Alemayehu W, et al. Mass antibiotic treatment and community
+ protection in trachoma control programs. Clin Infect Dis 2004; 39: e95–97. [PubMed: 15494901]
+ 
+<section> Manuscript
+ 
+<section> 25. Andersson DI, Hughes D. Antibiotic resistance and its cost: is it possible to reverse resistance? Nat
+ 
+<section> Rev Microbiol 2010; 8: 260–71. [PubMed: 20208551]
+ 26. Walson JL, Marshall B, Pokhrel BM, Kafle KK, Levy SB. Carriage of antibiotic-resistant fecal
+ bacteria in Nepal reflects proximity to Kathmandu. J Infect Dis 2001; 184: 1163–69. [PubMed:
+ 
+<section> 11598839]
+ 27. Ramay BM, Caudell MA, Cordón-Rosales C, et al. Antibiotic use and hygiene interact to influence
+ the distribution of antimicrobial-resistant bacteria in low-income communities in Guatemala. Sci
+ 
+<section> Rep 2020; 10: 13767. [PubMed: 32792543]
+ 28. Collignon P, Beggs JJ, Walsh TR, Gandra S, Laxminarayan R. Anthropological and socioeconomic
+ factors contributing to global antimicrobial resistance: a univariate and multivariable analysis.
+ 
+<section> Lancet Planet Health 2018; 2: e398–405. [PubMed: 30177008]
+ 
+<section> Author
+ 
+<section> 29. Doan T, Arzika AM, Hinterwirth A, et al. Macrolide resistance in MORDOR I—a cluster­
+ randomized trial in Niger. N Engl J Med 2019; 380: 2271–73. [PubMed: 31167060]
+ 30. Chuma J, Gilson L, Molyneux C. Treatment-seeking behaviour, cost burdens and coping strategies
+ 
+<section> Manuscript among rural and urban households in coastal Kenya: an equity analysis. Trop Med Int Health
+ 
+<section> 2007; 12: 673–86. [PubMed: 17445135]
+ 31. Chandramohan D, Dicko A, Zongo I, et al. Effect of adding azithromycin to seasonal malaria
+ chemoprevention. N Engl J Med 2019; 380: 2197–206. [PubMed: 30699301]
+ 32. UN General Assembly. Transforming our world: the 2030 agenda for sustainable development.
+ 2015. https://sdgs.un.org/2030agenda (accessed Sept 1, 2020).
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript 
+<section> Research in context
+ 
+<section> Author
+ 
+<section> Evidence before this study
+ 
+<section> Manuscript We reviewed relevant clinical trials on the effect of azithromycin on morbidity and
+ mortality identified by searching PubMed for articles in English from inception to
+ Dec 25, 2020, using the following MeSH search terms: “(“mortality” OR “morbidity”)
+ AND “azithromycin” AND “Africa, Sub Saharan””, with filters accepting only “(clinical
+ trials OR systematic reviews)” and “children”. These search criteria yielded 35 results,
+ including a systematic review and meta-analysis of cluster-randomised clinical trials of
+ the effect of mass azithromycin use for prevention of childhood mortality in sub-Saharan
+ Africa. This meta-analysis reported pooled child mortality rates in azithromycin-treated
+ and placebo-treated communities. We found only a single individually randomised trial
+ of azithromycin that evaluated a combined outcome of hospitalisation or death (a trial
+ 
+<section> Author
+ 
+<section> of azithromycin in conjunction with seasonal malaria chemoprevention), which found no
+ difference between randomisation groups.
+ 
+<section> Manuscript 
+<section> Added value of this study
+ 
+<section> We did an individually randomised double-blind, placebo-controlled trial of a 5-day
+ course of azithromycin given to 1400 Kenyan children who were discharged from
+ hospital. Children discharged from hospital are an accessible population at high risk
+ of morbidity and mortality, in whom the targeted use of azithromycin could reduce
+ mortality while minimising risk of community-wide antibiotic resistance. Despite the
+ high incidence of rehospitalisation and death in children treated with placebo, we found
+ no evidence of an effect of azithromycin on the combined outcome of rehospitalisation or
+ death and a modestly higher prevalence of azithromycin resistance at 3 months but not at
+ 
+<section> Author 6 months after randomisation.
+ 
+<section> Implications of all the available evidence
+ 
+<section> Manuscript As countries work towards achieving the Sustainable Development Goal of reducing
+ childhood mortality to fewer than 25 deaths per 1000 livebirths, hospital discharge
+ represents a practical timepoint for delivering life-saving interventions to children at high
+ risk. We did not find evidence of benefit in reducing mortality or rehospitalisation from
+ a 5-day course of azithromycin administered at discharge from hospital. In 2020, WHO
+ released a series of evidence reviews and guidelines recommending against universal
+ mass drug administration of azithromycin for preventing child mortality but included
+ a consideration for its use among children aged 1–11 months living in sub-Saharan
+ African settings with high child mortality rates. The lack of an observed effect in our
+ 
+<section> Author trial highlights the need for further research into mechanisms of childhood mortality
+ prevention from empirical azithromycin administration.
+ 
+<section> Manuscript 
+<insert> Author Figure 1: Trial profile
+ mITT=modified intention to treat. *Child was admitted for poisoning alone, which is an
+ exclusion criterion. †Child was a twin whose sibling had already been enrolled. 
+<iend>
+
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Manuscript 
+<insert> Author Figure 2: Kaplan-Meier curves of time to first rehospitalisation or death (A), death alone (B),
+ and time to first rehospitalisation alone (C) by randomisation group
+ HR=hazard ratio. 
+<iend>
+
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Manuscript 
+<insert> Figure 3: Percentage of Escherichia coli isolates resistant to azithromycin
+ Error bars are 95% CI. The p values are from a generalised estimating equation model
+ containing all timepoints with Poisson link, exchangeable correlation structure, and time by
+ resistance (yes or no) interaction.
+ Author
+ Manuscript
+ Author
+ Manuscript 
+<iend>
+
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript 
+<insert> Table 1:
+ Author
+ Manuscript
+ Baseline characteristics overall and by randomisation group
+ All (n=1398) Azithromycin-treated group
+ (n=702)
+ Placebo-treated group
+ (n=696)
+ Site
+ Kisii Teaching and Referral Hospital 822 (58·8%) 412 (58·7%) 410 (58·9%)
+ Homa Bay County Referral Hospital 521 (37·3%) 259 (36·9%) 262 (37·6%)
+ Kendu Adventist Hospital 36 (2·6%) 20 (2·8%) 16 (2·3%)
+ St Paul Mission Hospital 19 (1·4%) 11 (1·6%) 8 (1·1%)
+ Sociodemographic characteristics
+ Age at enrolment, months
+ Author
+ Manuscript
+ 1–5 188 (13·4%) 94 (13·4%) 94 (13·5%)
+ 6–11 277 (19·8%) 141 (20·1%) 136 (19·5%)
+ 12–23 406 (29·0%) 202 (28·8%) 204 (29·3%)
+ 24–59 527 (37·7%) 265 (37·7%) 262 (37·6%)
+ 18 (9–32) 18 (9–31) 18 (9–33)
+ Female 570 (40·8%) 276 (39·3%) 294 (42·2%)
+ Male 828 (59·2%) 426 (60·7%) 402 (57·8%)
+ Extreme poverty * 874 (62·5%) 433 (61·7%) 441 (63·4%)
+ Caregiver schooling no higher than primary school † 644 (46·1%) 333 (47·5%) 311 (44·7%)
+ Crowding (≥2 people per room living in house) 629 (45·0%) 310 (44·2%) 319 (45·8%)
+ Unimproved water source (well, spring, or surface water) † 243 (17·4%) 125 (17·8%) 118 (17·0%)
+ Reported treating drinking water †‡ 691 (50·5%) 348 (50·7%) 343 (50·4%)
+ Age at entry, months
+ Sex
+ Household living conditions
+ Author
+ Manuscript
+ Toilet type †
+ Flush 135 (9·7%) 74 (10·6%) 61 (8·8%)
+ Pit latrine 1209 (86·5%) 599 (85·4%) 610 (87·6%)
+ Open defecation 53 (3·8%) 28 (4·0%) 25 (3·6%)
+ Admission history 
+<iend>
+
+ 
+<section> Discharge diagnoses §
+ 
+<section> Anaemia 
+<section> 178 (13·4%)
+ Gastroenteritis or diarrhoea 251 (18·9%)
+ 
+<section> Author Lower respiratory tract infection 436 (32·8%)
+ 
+<section> Malaria 
+<section> 334 (25·1%)
+ 
+<section> Malnutrition 
+<section> 88 (6·6%)
+ 
+<section> Manuscript
+ 
+<section> Meningitis 
+<section> 68 (5·1%)
+ 
+<section> Sepsis 
+<section> 52 (3·9%)
+ 
+<section> 102 (15·2%) 
+<section> 76 (11·5%)
+ 
+<section> 127 (19·0%) 
+<section> 124 (18·8%)
+ 
+<section> 211 (31·5%) 
+<section> 225 (34·1%)
+ 
+<section> 174 (26·0%) 
+<section> 160 (24·2%)
+ 
+<section> 44 (6·6%) 
+<section> 44 (6·7%)
+ 
+<section> 40 (6·0%) 
+<section> 28 (4·2%)
+ 
+<section> 28 (4·2%) 
+<section> 24 (3·6%) 
+<section> All (n=1398) Azithromycin-treated group Placebo-treated group
+ 
+<section> (n=702) 
+<section> (n=696)
+ 
+<section> Author Sickle cell 
+<section> ¶ 
+<section> 108 (8·1%) 
+<section> 53 (7·9%) 
+<section> 55 (8·3%)
+ 
+<section> Tuberculosis 
+<section> 23 (1·7%) 
+<section> 13 (1·9%) 
+<section> 10 (1·5%)
+ 
+<section> Other 
+<section> ‖ 
+<section> 201 (15·1%) 
+<section> 83 (12·4%) 
+<section> 118 (17·9%)
+ 
+<section> Manuscript
+ 
+<section> Duration of hospital admission, days 3 (2–5) 3 (2–5) 3 (2–5)
+ 
+<section> Left hospital against medical advice 2 (0·1%) 1 (0·1%) 1 (0·1%)
+ Received antibiotics in hospital 1253 (89·6%) 628 (89·5%) 625 (89·8%)
+ Prescribed antibiotics at discharge 867 (62·0%) 447 (63·7%) 420 (60·3%)
+ 
+<section> Nutritional, HIV, and vaccine status
+ 
+<section> Breastfeeding status (in first 6 months of life) 
+<section> **
+ 
+<section> Exclusively breastfed 
+<section> 663 (47·4%) 
+<section> 322 (45·9%) 
+<section> 341 (49·0%)
+ 
+<section> Partly breastfed 
+<section> 632 (45·2%) 
+<section> 334 (47·6%) 
+<section> 298 (42·8%)
+ 
+<section> Author
+ 
+<section> Never breastfed 
+<section> 24 (1·7%) 
+<section> 14 (2·0%) 
+<section> 10 (1·4%)
+ 
+<section> Unknown 
+<section> 79 (5·7%) 
+<section> 32 (4·6%) 
+<section> 47 (6·8%)
+ 
+<section> Manuscript 
+<section> Stunted (HAZ <−2) 
+<section> †† 
+<section> 315 (22·6%) 
+<section> 156 (22·3%) 
+<section> 159 (22·9%)
+ 
+<section> Underweight (WAZ <−2) 
+<section> †† 
+<section> 177 (12·7%) 
+<section> 89 (12·7%) 
+<section> 88 (12·7%)
+ 
+<section> Acute malnutrition 
+<section> ‡‡
+ Severe (WHZ <−3 or MUAC <11·5 cm or oedema) 57 (4·1%) 28 (4·0%) 29 (4·2%)
+ Moderate (WHZ ≥−3 to <−2 or MUAC ≥11·5 to <12·5 75 (5·4%) 36 (5·1%) 39 (5·6%)
+ 
+<section> cm)
+ 
+<section> HIV status
+ 
+<section> Infected 
+<section> 18 (1·3%) 9 (1·3%) 9 (1·3%)
+ 
+<section> Exposed, uninfected 
+<section> §§ 
+<section> 140 (10·0%) 
+<section> 70 (10·0%) 
+<section> 70 (10·1%)
+ 
+<section> Author Exposed, unknown infection status 
+<section> ¶¶ 
+<section> 7 (0·5%) 
+<section> 3 (0·4%) 
+<section> 4 (0·6%)
+ 
+<section> HIV status unknown 
+<section> 41 (2·9%) 
+<section> 23 (3·3%) 
+<section> 18 (2·6%)
+ 
+<section> Received all age-appropriate vaccines † 
+<section> ‖‖ 
+<section> 646 (46·4%) 
+<section> 333 (47·7%) 
+<section> 313 (45·1%)
+ 
+<section> Manuscript
+ 
+<section> Data are n (%) or median (IQR). HAZ=height-for-age Z score. WAZ=weight-for-age Z score. WHZ=weight-for-height Z score. MUAC=mid-upper
+ arm circumference.
+ 
+<section> *
+ Income <US$1·90 per day.
+ 
+<section> †
+ Among those who had responses.
+ 
+<section> ‡
+ Among those who did not report using only bottled water for drinking.
+ 
+<section> §
+ Diagnoses might not be mutually exclusive; percentages are among the 1330 children who had records available and diagnosis recorded.
+ 
+<section> ¶
+ Includes sickle cell crisis and sickle cell disease as comorbidity because these were not always distinguished in medical record.
+ 
+<section> ‖
+ 
+<section> Author Urinary tract infection (n=11); fever of unknown origin (n=0); acutely unwell, unknown cause (n=4); poisoning or herbal intoxication (n=5);
+ asthma (n=30); convulsions (n=82); blood dyscrasia (n=4); congenital or acquired heart disease (n=8); cerebral palsy (n=10); diabetic ketoacidosis
+ (n=4); skin or soft tissue infection (n=16); skin disease (n=7); hernia (n=5); helminth infection (n=2); burn or trauma (n=3); liver disease (n=3);
+ congenital malformation (n=2); neurological disease (n=6); kidney disease (n=2); intestinal obstruction (n=3); cerebrovascular accident (n=1);
+ 
+<section> Manuscript
+ 
+<section> Down syndrome (n=2). 
+<section> **
+ For children younger than 6 months, defined as up until time of enrolment; exclusively breastfed defined as no other food or drink (including
+ water) except for breastmilk in the first 6 months of life; partly breastfed defined as child received breastmilk in addition to other food (including
+ formula) or drink in the first 6 months of life; never breastfed defined as no breastmilk in the first 6 months of life.
+ 
+<section> ††
+ 
+<section> Author Among those with plausible values.
+ 
+<section> ‡‡
+ MUAC only used in children aged 6 months or older.
+ 
+<section> §§
+ 
+<section> Manuscript Among children known to be uninfected with HIV who were accompanied by their biological mother whose HIV status was known (by antibody
+ test or self-report) or who were not accompanied by their biological mother but the HIV status of the biological mother was known to be positive.
+ 
+<section> ¶¶
+ Children with a biological mother infected with HIV but whose HIV infection status was not known.
+ 
+<section> ‖‖
+ 
+<section> According to the Kenya Ministry of Health vaccine schedule (allowing a 4-week window); malaria vaccine and measles vaccine at 6 months for
+ children positive for HIV were not included in the definition of all age-appropriate vaccines despite being recommended in Kenyan guidelines.
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript 
+<section> ‡ 
+<section> value 
+<section> § 
+<section> 0·58 
+<section> ‖ 
+<section> 0·49 
+<section> ** 
+<section> 0·94
+ 
+<section> p
+ 
+<section> Author
+ 
+<section> (95·5% 
+<section> outcome.
+ 
+<section> * 
+<section> estimate 
+<section> (0·64–1·29) 
+<section> (0·39–1·58) 
+<section> (0·70–1·47)
+ 
+<section> Manuscript 
+<section> ratio combined
+ 
+<section> Hazard
+ 
+<section> Effect † 
+<section> CI) 
+<section> 0·91 0·79 1·01 for
+ value
+ 
+<section> per the
+ 
+<section> rate, analysis). 
+<section> exceed
+ 
+<section> child-years
+ 
+<section> Incidence might
+ interim
+ 22·5 
+<section> 6·0 
+<section> 18·6 
+<section> outcomes
+ the
+ 
+<section> Author child­ 
+<section> at
+ 
+<section> (n=696) 
+<section> 0·005 individual
+ 
+<section> Person-time,
+ 
+<section> spending. of
+ 
+<section> Manuscript 
+<section> group years 
+<section> 306·9 
+<section> 319·1 
+<section> 306·9 
+<section> spending for
+ numbers
+ 
+<section> 2: 
+<section> Placebo-treated Participants α 0·5% α on
+ 
+<section> Table the (based thus
+ 
+<section> for outcomes;
+ interpretation
+ account
+ 
+<section> site. both site. site.
+ 
+<section> per to
+ 
+<section> rehospitalisation 
+<section> rate, child-years 
+<section> CIs 95·5% for cutoff 
+<section> by stratified had who by stratified by stratified
+ 
+<section> Incidence
+ 
+<section> Author children
+ 20·4 
+<section> 4·7 
+<section> 18·8 
+<section> reporting 0·05 Kaplan-Meier Kaplan-Meier Kaplan-Meier
+ standard
+ 
+<section> (n=702) 
+<section> some
+ 
+<section> Manuscript 
+<section> child­ 
+<section> are
+ 
+<section> first group Person-time, we therefore than from includes from from
+ 
+<section> or rather
+ 
+<section> death 
+<section> Azithromycin-treated years 
+<section> 308·9 
+<section> 321·2 
+<section> 308·9 
+<section> analysis; 0·045 equality rehospitalisation equality equality
+ 
+<section> to time 
+<section> Participants 
+<section> variable. 
+<section> interim α of 
+<section> an 
+<section> function function function
+ 
+<section> on indicator with survivor or death survivor survivor
+ 
+<section> azithromycin the compared
+ at of of of of
+ rehospitalisation 
+<section> an used test outcome test test
+ 
+<section> Author rehospitalisation 
+<section> as site was 0·005 be should log-rank 
+<section> combined 
+<section> log-rank log-rank
+ 
+<section> for
+ 
+<section> Manuscript 
+<section> of Effect or 
+<section> Death ¶ 
+<section> Death 
+<section> First Adjusted α of 
+<section> An 
+<section> values for p=0·59 The 
+<section> for p=0·50 for p=0·9
+ 
+<section> * 
+<section> † 
+<section> ‡ p § 
+<section> ¶ 
+<section> ‖ 
+<section> ** 
+<insert> Table 3:
+ Author
+ Manuscript
+ Cause of death by clinical consensus by randomisation group
+ Azithromycin-treated group (n=15) Placebo-treated (n=19)
+ LRTI or pneumonia
+ Diarrhoea
+ Malaria
+ Tuberculosis
+ Other infection *
+ Other non-infectious condition †
+ Primary cause 
+<iend>
+
+ 
+<section> Predisposing conditions
+ 
+<section> ‡
+ 
+<section> Author
+ 
+<section> HIV
+ 
+<section> Sickle-cell disease
+ 
+<section> Manuscript
+ 
+<section> SAM
+ 
+<section> Confirmed acquired condition 
+<section> §
+ 
+<section> Confirmed congenital condition 
+<section> ¶
+ 
+<section> Data are n. LRTI=lower respiratory tract infection. SAM=severe acute malnutrition.
+ 
+<section> *
+ Includes unknown cause of death with signs of infection (fever, abnormal white cell count and differential; n=1) in the azithromycin group, and
+ 
+<section> CNS infection (n=2) and unknown cause of death with signs of infection (n=8) in the placebo group.
+ 
+<section> †
+ Includes unknown cause without signs of infection (n=4), anaemia (n=2), severe sickle-cell crisis (n=1), and congestive heart failure (n=1) in the
+ azithromycin group; and anaemia (n=1), congestive heart failure (n=1), and unknown cause without signs of infection (n=1) in the placebo group.
+ 
+<section> Author ‡
+ One child in the placebo group had both severe malnutrition and HIV.
+ 
+<section> §
+ Confirmed acquired conditions include congestive heart failure in the azithromycin group and rheumatic heart disease in the placebo group.
+ 
+<section> Manuscript 
+<section> ¶
+ Confirmed congenital conditions include congenital abdominal abnormality (n=1) in the azithromycin group and cerebral palsy (n=1), congenital
+ 
+<section> heart disease (n=1), and tracheomalacia (n=1) in the placebo group.
+ 
+<section> Author
+ 
+<section> Manuscript 
+<insert> Table 4:
+ Author
+ Manuscript
+ Adverse events by randomisation group
+ Azithromycin-treated group (n=702) Placebo-treated group (n=696)
+ n (%) Days since enrolment n (%) *
+ 0–7 8–180
+ Days since enrolment
+ 0–7 8–180
+ Serious adverse events
+ Death 15 (2%) 19 (3%)
+ Life-threatening 52 (7%) 54 (8%)
+ Non-serious adverse events
+ Author
+ Manuscript
+ Severe 0 (0%) 0 (0%)
+ Moderate 193 (27%) 195 (28%)
+ Mild 81 (12%) 81 (12%)
+ Data are n (%) or n. Adverse event grade is defined according to 2014 Division of AIDS Table for Grading the Severity of Adult and Pediatric
+ Adverse Events.
+ Four serious adverse events were flagged as potentially related to the study drug during data collection, but all four were found to be in
+ placebo-treated children after unblinding the study. An additional ten moderate or mild adverse events were considered potentially related before
+ study unblinding: eight among placebo-treated children and two were in azithromycin-treated children.
+ *
+ Does not include minor complaints (eg, runny nose and bee sting). 
+<iend>
+
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript

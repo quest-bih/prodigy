@@ -1,0 +1,522 @@
+
+<section> © 2023 The Author(s)
+ 
+<section> Efficacy of personalised
+ intervention in reducing
+ and amount for
+ 
+<section> A double-blind,
+ 
+<section> Haoxiang Lin 
+<section> * ,
+ 
+<section> Min Li 
+<section> *,
+ 
+<section> Li Xiao 
+<section> *,
+ 
+<section> Chun Chang 
+<section> †,
+ Gordon G Liu †
+ 
+<section> 1 Institute for Global Health and
+ Development, Peking University,
+ 
+<section> Beijing, China
+ 2 DeZhou Center for Disease Control
+ and Prevention, Beijing, China
+ 3 China Center for Health Education,
+ 
+<section> Beijing, China
+ 4 School of Public Health, Peking
+ University, Beijing, China
+ *Joint first authorship.
+ †Joint senior authorship.
+ 
+<section> Correspondence to:
+ 
+<section> Chun Chang
+ School of Public Health,
+ 
+<section> Peking University
+ No.5 Yiheyuan Road, Haidian District,
+ 
+<section> Beijing 100871
+ 
+<section> P.R. China
+ changchun@bjmu.edu.cn
+ 
+<section> Gordon G Liu
+ Institute for Global Health and
+ Development, Peking University
+ No.5 Yiheyuan Road, Haidian District,
+ 
+<section> Beijing 100871
+ 
+<section> P.R.China
+ gordonliu@nsd.pku.edu.cn
+ 
+<section> Cite as: Lin HX, Li M, Xiao L, Chang C, Liu GG. Efficacy of personalised text
+ message intervention in reducing smoking frequency and amount for non-abstinent
+ smokers: A double-blind, randomised controlled trial. J Glob Heath 2023:13;04133.
+ 
+<section> text message
+ smoking frequency
+ non-abstinent smokers:
+ randomised controlled trial
+ 
+<section> Background Emerging evidence supports the efficacy of mobile phone interven-
+ tions for smoking cessation. However, behaviour changes of smokers who fail to
+ reach abstinence and the related psychological mechanism are still understudied.
+ We aimed to evaluate the efficacy of a behaviour change theory-based smoking
+ cessation intervention delivered through personalised text messages from the per-
+ spective of smokers who fail to reach abstinence.
+ 
+<section> Methods We conducted a two-arm, double-blind, randomised controlled trial,
+ with the intervention group receiving personalised text messages developed spe-
+ cifically for this study, and the control group receiving non-personalised ones
+ related to smoking cessation. These messages were sent over a period of three
+ months. We looked at three outcomes: changes in smoking frequency, in smoking
+ amount, and in protection motivation theory (PMT) construct scores.
+ 
+<section> Results We obtained smoking cessation results for 722 participants who went
+ through the randomisation process (intervention: 360, control: 362; block ran-
+ domisation design). Overall, 32.3% of baseline daily smokers in the intervention
+ group and 20.0% in the control group changed to weekly smokers during the fol-
+ low-up period (P < 0.001), while 43.4% of consistent daily smokers in the inter-
+ vention group and 32.8% in the control group continuously reduced their smok-
+ ing amount (P < 0.001). We observed associations between the intrinsic rewards
+ of smoking and changes from daily to weekly smoking, the perceived severity of
+ smoking and reductions in smoking amount, as well as the self-efficacy of quit-
+ ting and changes from daily to weekly smoking/reductions in smoking amount.
+ 
+<section> Conclusions We found that a personalised text message-based intervention was
+ more likely to decrease the frequency and amount of smoking in smokers who
+ failed to reach abstinence compared to a non-personalised one. We also explored
+ the possible psychological mechanism of such positive effects. Here we provide
+ evidence for countries to consider the promotion of smoking cessations using be-
+ haviour theory-driven personalised text messages, which may be more cost-effec-
+ tive than traditional approaches.
+ 
+<section> Registration Peking University: ChiCTR2100041942.
+ Studies have shown that mobile cessation programs can encourage smokers to quit
+ smoking and are affordable even in resource-poor settings, but have mostly focused
+ on showing the framework of an intervention and reporting how many smokers reach
+ abstinence (normally the three- or six-month sustained abstinence rate) [1-3]. Other
+ components, i.e. the behaviour change of smokers who fail to reach abstinence and
+ the related psychological mechanism, are still understudied. 
+<section> As even the most effective treatments help just one in four smokers quit in the long-term, and as mobile
+ cessation may have a much lower quitting rate than pharmacotherapy, exclusively measuring the quitting
+ rate is insufficient [4]. Therefore, we believe it necessary to investigate the change in smokers who fail to
+ reach abstinence and the psychological determinants of positive change in order to comprehensively eval-
+ uate mobile cessation efficacy and provide insight into how to use minimal interventions to achieve max-
+ imum effects.
+ 
+<section> Until recently, the psychological mechanism of promoting quitting behaviour using mobile health inter-
+ ventions have been explored by only a few studies [5,6], with most finding some psychological determi-
+ nants of abstinence. For example, a personalised text message program found that the intrinsic reward of
+ smoking and self-efficacy of quitting were significantly associated with quitting [5]. However, the positive
+ behavioural changes and determinants of success at different reduction stages of smokers who fail to reach
+ abstinence remain under-researched. One dimension of such behavioural changes is the continuous re-
+ duction in smoking amount, which is especially valuable in less intensive smoking cessation interventions,
+ 
+<section> such as text message-based ones
+ 
+<section> Individuals are usually advised to quit smoking abruptly on a designated “quit” day [7,8]; however, a Co-
+ chrane review published in 2019 found that reducing smoking behaviour prior to quitting could also be vi-
+ able [9]. Therefore, we believe that a stable reduction in the number of cigarettes post-intervention could be
+ a meaningful indicator for measuring the effects of a mobile cessation intervention, particularly for smok-
+ ers who fail to reach abstinence.
+ 
+<section> Reducing smoking frequency can also be a pathway of a positive change for smokers, as studies support the
+ value of lengthening the time between cigarettes [9-11]. First, a shift form daily to weekly smoking reduces
+ the average daily intake of nicotine, and consequently, decreases nicotine dependence. Second, a reduction
+ in smoking frequency represents a step towards cessation, thereby increasing self-efficacy and the likeli-
+ hood of achieving abstinence, while also providing a more achievable goal compared to complete cessation
+ for some heavy smokers who use mobile cessation support. It may also help with participant retention and
+ provide an opportunity to increase an individual’s motivation to quit.
+ 
+<section> Studies have found that personalised and behaviour change theory-based interventions could be more ef-
+ fective than only providing broad, non-specific advice [12,13] because self-relevant information can easily
+ engage attention, increase motivation for information processing, and cause more behavioural changes [14].
+ Most personalised communications are achieved through ongoing evaluation; allowing smokers to join the
+ information generation process could also increase compliance. We believe that reducing smoking frequen-
+ cy and amount are two important indicators of abstinence. A survey in the UK found that 40% of quitting
+ attempts involved an initial cut-down in consumption [9], while data from the USA showed that nearly half
+ of smokers planning to quit would choose reduction over abrupt cessation [15]. We thus hypothesised that
+ a personalised text message-based intervention would more likely lead to reductions in smoking amount
+ and frequency in smokers who fail to reach abstinence than a non-personalised one.
+ We previously conducted a randomised controlled trial (RCT) to address the evidence gap and comprehen-
+ sively evaluate the impact of mobile cessation interventions. We found that a behaviour change theory-based
+ smoking cessation intervention through personalised text messages was more effective in reducing the bio-
+ chemically verified six-month sustained abstinence rate than one based on non-personalised messages (6.9%
+ vs 3.0% (adjusted odds ratio (OR) = 2.66; 95% confidence interval (CI) = 1.21-5.83)) [3].
+ Here we aimed to evaluate the efficacy of a behaviour change theory-based smoking cessation interven-
+ tion delivered through personalised text messages from the perspective of smokers who fail to reach absti-
+ nence. We focused on behaviour change, such as reducing smoking amount or frequency, of participants
+ who continued smoking during the follow-up period. We also further sought to explore the psychological
+ mechanism of positive change.
+ 
+<section> METHODS
+ 
+<section> Study design and participants
+ 
+<section> We conducted two-arm, double-blind, randomised controlled trial in five cities in China (Beijing, Dezhou,
+ Baotou, Yakeshi, and Linzi), with participants randomised to an intervention or control group between Efficacy of text message intervention in reducing smoking frequency and amount
+ 
+<section> We included daily or weekly smokers aged ≥18 who owned a mobile phone and used WeChat, and who
+ agreed to participate by signing an informed consent form. We excluded individuals who had received any
+ smoking cessation treatment within 30 days or had a diagnosis of any mental illnesses (either current or
+ past).
+ 
+<section> The Peking University registered the clinical trial (ChiCTR2100041942). We reported this study the follow-
+ ing CONSORT reporting guidelines for randomised studies [16].
+ 
+<section> Development of the intervention framework
+ 
+<section> We based the intervention’s theoretical framework on the transtheoretical model (TTM) and protection mo-
+ tivation theory (PMT). For the TTM, we used several strategies to strengthen behaviour changes and/or to
+ achieve the next stage. On the pre-quit date, we sent messages related to consciousness raising, dramatic
+ relief, and environmental re-evaluation to smokers with weak quitting intentions, and those related to stim-
+ ulus control, self-liberation, and reinforcement management to smokers with strong quitting intentions. Af-
+ ter the quit date, we sent messages on consciousness raising, dramatic relief, environmental re-evaluation
+ and self-re-evaluation to smokers who had relapsed.
+ 
+<section> All the participants also received messages by PMT related to the severity and susceptibility of smoking, in-
+ trinsic and extrinsic rewards of smoking, self-efficacy and response efficacy and response cost of quitting.
+ The motivational messages consisted of 14 subgroups with a total of 400 text messages. A more detailed
+ framework of the text and intervention based on the TTM and PMT is reported separately [3,5,6]. The ex-
+ ample of the intervention messages are presented in Table S1 in the 
+<section> Online Supplementary Document.
+ 
+<section> Intervention tool: WeChat
+ 
+<section> WeChat is the most popular Chinese social media app, which our information technology team used to de-
+ ploy the messages. The application evaluated the PMT construct score by asking questions and recording
+ information; then, it automatically calculated the lower score of the sub-content that needed to be strength-
+ ened. Specifically, the scale comprised 21 items using a seven-point Likert-type scale with responses ranging
+ from 1 (definitely disagree) to 7 (definitely agree). Each construct subscale of PMT included three items, and
+ we computed the mean of the subscale score. The TTM stage was also identified according to the smoking
+ status of users. Then, WeChat issued personalised text messages according to the evaluation, as detailed else-
+ where. Details on the scales and the processes are available elsewhere [11,12,17,18]. The WeChat application
+ determined each smoker’s quitting intention through a five-point scale ranging from 1 (not at all likely) to
+ 5 (very likely) to in the likelihood that they would try to quit in the next six months [13].
+ 
+<section> Recruitment
+ 
+<section> We advertised the trial to smokers through paper advertising (leaflets), digital advertising (WeChat) and
+ staff (teachers and leaders). Potential participants contacted the local Disease Control and Prevention Cen-
+ ter to register their interest. The research assistants explained the study to each potential participant and
+ preliminarily assessed his or her eligibility. All eligible smokers were told they needed to come to a place on
+ a fixed date to finalize the recruitment process.
+ 
+<section> Randomisation and blinding
+ 
+<section> Participants were required to register through WeChat following recruitment. We used a randomised block
+ design, with the participant score on the Fagerström Test for Nicotine Dependence (range = 0-10, with high-
+ er scores indicating greater dependence) treated as a stratified factor [19]. The app automatically generat-
+ ed two blocks based on the test score, with block 1 comprising participants with low or moderate nicotine
+ dependence (score of 0-6 points) and block 2 comprising those with high nicotine dependence (score of
+ points). Eligible participants were assigned to the intervention group or the control group within each block
+ by simple randomisation. The WeChat system was also used to balance demographic characteristics. Ran-
+ domisation was fully computerised and automated with equal allocation. The researchers and participants
+ were all blinded. Our randomisation technique has been detailed elsewhere [3].
+ 
+<section> Intervention
+ 
+<section> Participants allocated to the intervention group received the intervention program consisting of one to two
+ personalized text messages a day for three months. 
+<section> Control group participants received non-personalised text message developed by the National Cancer In-
+ stitute (NCI); this intervention was based on well-established cognitive-behavioural cessation approaches
+ and contained 91 messages. Participants received approximately one message a day for three months. The
+ text messages provided encouragement, practical advice to help maintain cessation, and information on the
+ health effects of smoking. The details of the control group can be found elsewhere [14].
+ 
+<section> Assessment
+ 
+<section> All participants in the two groups were instructed to attend face-to-face follow-ups with research staff at
+ one, three, and six months after randomisation. The outcomes were as follows:
+ 1. Frequency reduction – achieved when a daily smoker (at baseline) had not successfully quit according to
+ the evaluation of biochemically verified six-month sustained abstinence rate, but had reduced the smok-
+ ing frequency to weekly smoking and maintained that smoking frequency during the follow-up period.
+ 2. Smoking amount reduction – achieved when a daily smoker (at baseline) had not successfully quit ac-
+ cording to the evaluation of biochemically verified six-month sustained abstinence rate, but had contin-
+ uously reduced the smoking amount or reduced to a lower level and maintained the lower level during
+ the follow-up period.
+ 3. Changes in PMT construct scores, including perceived severity, perceived vulnerability, intrinsic rewards
+ of smoking, extrinsic rewards of smoking, self-efficacy of quitting, response efficacy of quitting, and re-
+ sponse cost of quitting.
+ 
+<section> Statistical analysis
+ 
+<section> We based the sample size calculation on the formula for a two-arm RCT. To achieve 80% power with a signif-
+ icance level of 0.05 (two sided), we required a sample size of 280 individuals in each group. Assuming 20%
+ attrition in the follow-up measurements, we set the required sample size at 672, as reported elsewhere [3].
+ We used descriptive statistics to compare the baseline status between the two groups, after which we con-
+ ducted an intention-to-treat (ITT) analysis and the Russell Standard (RS) for each group. All randomised
+ subjects were included in the denominator for calculating abstinence rates, except for unavoidable loss to
+ follow-up (died or moved to an untraceable address). Those who declined to be involved in subsequent data
+ collection were counted as smokers [20].
+ 
+<section> To evaluate the impact on reducing the frequency of smoking (the amount of smoking), we first excluded
+ non-daily smokers at baseline and participants who reached biochemically verified six-month sustained
+ abstinence. Then, we identified participants who changed smoking behaviour from daily to weekly and re-
+ mained weekly smokers (who had continuously reduced the smoking amount or reduced to a lower level and
+ maintained the lower level) until all the follow-up visits were completed and categorised them as “changers”.
+ We used descriptive statistics and χ 2 tests to compare differences in the percentage of “changers” between
+ the two groups. For PMT construct scores, we compared baseline and each follow-up time point difference
+ between the two groups by t-tests.
+ 
+<section> Finally, we used generalised estimating equations (GEEs) to estimate the psychological determinants of
+ reducing the frequency of smoking and reducing the smoking amount to determine why the intervention
+ group had a more positive change. In the first set of models, we set a dummy variable indicating whether the
+ respondent reduced the frequency of smoking compared to the last follow-up visit (if yes = 1, otherwise = 0)
+ as the dependent and the PMT construct scores as the independent variable, controlling for education level,
+ living area, nicotine dependence, and monthly income. We chose an autocorrelation structure for the ma-
+ trix structure and logistic regression for the model setting. In the second set of models, we changed the de-
+ pendent variable to whether the respondent reduced their smoking amount compared to the last follow-up
+ visit (if yes = 1, otherwise = 0). The results are presented as ORs and 95% CIs. We performed all analyses in
+ SPSS, version 11.0 (SPSS, Chicago, Illinois, USA).
+ 
+<section> Ethics considerations
+ 
+<section> The Ethics Committee of Peking University Health Science Center (IRB00001052-30063) reviewed and ap-
+ proved the trial. All the participants signed informed consent forms before randomisation and knew they
+ could withdraw from the study at any time. All patient information was accessible only by personnel par-
+ ticipating in the study. We did not provide money to participants, but provided gifts (towel, umbrella, or
+ cup) if they completed one follow-up visit. 
+<insert> Figure 1. Changing smoking behaviour and
+ reducing smoking amount between the two
+ groups of current smokers. *P < 0.001.
+ their smoking amount (P < 0.001) (Figure 1).
+ We found no statistically significant differences in any of the seven PMT con-
+ struct scores between the two groups at baseline (Figure 2). However, as the
+ intervention began, the intervention group had higher scores for perceived severity of smoking and re-
+ sponse efficacy of quitting and lower scores for intrinsic and extrinsic rewards of smoking and response
+ cost of quitting.
+ In the last GEE regression (Figure 3), we estimate the psychological determinants of behaviour change. We
+ found associations between the intrinsic rewards of smoking (OR = 0.82; 95% CI = 0.74-0.90) and changes
+ from daily to weekly smoking, the perceived severity of smoking (OR = 1.16; 95% CI = 1.01- 1.32) and re-
+ ductions in smoking amount, as well as self-efficacy of quitting and changes from daily to weekly smoking
+ (OR = 1.28; 95% CI = 1.14- 1.43) as well as reductions the smoking amount (OR = 1.15; 95% CI = 1.06-1.25). 
+<iend>
+
+ 
+<section> Patient and public involvement
+ 
+<section> Patients or the public were not involved in
+ research.
+ 
+<section> RESULTS
+ 
+<section> We screened 780
+ tion or control
+ anced in their
+ 
+<section> Supplementary
+ not eligible.
+ 
+<section> We found that
+ 20.0% (n = 60)
+ low-up period
+ the intervention
+ 
+<section> DISCUSSION
+ 
+<section> To our knowledge, this is the first randomised
+ cessation intervention with a positive control
+ control policy, and the first to report the effects
+ nence. Considering the high response rate
+ positive change resulting from a text message-based
+ We found personalised text messages encouraged
+ quency. Because most mobile cessation interventions
+ an intervention which can bring positive change
+ over, reducing smoking behaviour and stabilising
+ has been developed, which may result in higher
+ However, abrupt quitting interventions are
+ suggested by medical professionals. However,
+ reducing smoking over time and quitting abruptly;
+ [9]. We do not intend to evaluate or challenge
+ ing one’s smoking frequency or amount should
+ We also managed to identify the psychological
+ weekly and reducing smoking amount. The
+ tervention decreased the intrinsic rewards
+ it a notable determinant of positive change
+ why a personalised intervention is more likely
+ who fail to reach abstinence to reduce their
+ 
+<section> This study has several limitations. First, most
+ isability to other populations. Second, our
+ tion was implemented, and a long-term evaluation
+ 
+<section> Efficacy of text message intervention in reducing smoking frequency and amount
+ 
+<section> the design, conduct, reporting, or dissemination plans of our
+ smokers and randomly assigned 722 (92.6%) to the interven-
+ group, all of whom were Chinese. Both groups were well-bal-
+ baseline characteristics Figure S1 and Table S2 in the 
+<section> Online
+ 
+<section> Document). We excluded 43 potential participants who were
+ 
+<section> 32.3% (n = 93) of baseline daily smokers in the intervention and
+ in the control group changed to weekly smokers during the fol-
+ (P < 0.001), while 43.4% (n = 125) of consistent daily smokers in
+ and 32.8% (n = 95) in the control group continuously reduced
+ controlled trial using personalised text messages for a mobile
+ group design conducted in a a country with limited tobacco
+ from the perspective of smokers who failed to reach absti-
+ from participants, our findings provide a deep insight into the
+ smoking cessation intervention in the context of China.
+ more smokers to reduce their smoking amount and fre-
+ have a relatively lower abstinence rate (<10%) [1,21],
+ to another 90% of participants is highly relevant. More-
+ at a lower level means that a stronger quitting intention
+ quitting rates in the future.
+ 
+<section> generally recommended in clinical treatment guidelines and
+ a Cochrane review found no difference in outcomes between
+ thus, individuals could be given a choice of how to quit
+ any smoking cessation guidelines, but we believe that reduc-
+ be treated as a positive change for smokers.
+ 
+<section> determinants of reducing smoking frequency from daily to
+ comparison between groups showed that the personalised in-
+ of smoking and increased perceived severity of smoking, making
+ in smoking behaviour. It also provides some indications as to
+ than a non-personalised intervention to encourage smokers
+ smoking amount and frequency.
+ 
+<section> of our participants were male and Chinese, limiting general-
+ follow-up period only lasted until six months after the interven-
+ may produce different results. Third, only daily regular 
+<insert> Figure 2. The point-to-point comparison of protection motivation theory construct scores. 
+<iend>
+
+ 
+<insert> Figure 3. Generalised estimating equations for changing smoking behaviour and reducing smoking amount on protection motivation
+ theory subconstructs. We adjusted the analysis for living area, educational level, monthly income, and nicotine dependence at baseline. 
+<iend>
+
+ smokers reported their smoking amount at baseline and each follow-up point. Therefore, we only includ-
+ ed participants who were daily smokers at baseline when measuring the effect on smoking reduction and
+ frequency-changing results. Fourth, the results can be biased because we only conducted point-to-point
+ comparisons for PMT construct scores; more robust analyses should account for the correlated nature of Efficacy of text message intervention in reducing smoking frequency and amount
+ 
+<section> the repeated measures in the data. Fifth, the results can also be influenced by other important issues, such
+ as recall or selection bias and social acceptability problems, since the data were collected from individuals
+ who decided to participate in our study.
+ 
+<section> However, our study has important implications. Although research has found that text message-based inter-
+ ventions could provide smoking cessation support, their low quitting rate remains a challenge for expanding
+ their usage to promote smoking cessation and gaining government support. Our study suggest that text mes-
+ sage-based interventions can both help smokers quit and bring change those who fail to reach abstinence,
+ making it suitable for countries with limited smoking cessation resources by allowing minimal expenses
+ for maximum effects. We also found some psychological determinants of smoking reduction; among them,
+ self-efficacy of quitting was associated with reductions in both smoking frequency and amount. This finding
+ was also confirmed by other smoking cessation studies showing that self-efficacy was the most significant
+ variable associated with forwards progress towards quitting [5,6]. Those identified psychological determi-
+ nants could help with further development of specific intervention measures for different groups of people.
+ 
+<section> CONCLUSIONS
+ 
+<section> Based on a six-month evaluation, we found that a personalised text message-based intervention was more
+ likely to decrease the frequency and amount of smoking in smokers who failed to reach abstinence com-
+ pared to a non-personalised one. Further GEE analyses suggested the possible psychological mechanism
+ of such positive effects. Our findings could help other countries that are starting to design or promote text
+ message-based smoking cessation interventions.
+ 
+<section> Acknowledgements: We would like to thank all the participants of the study
+ 
+<section> Ethics statement: This trial was reviewed and approved by the Ethics Committee of Peking University Health Science
+ Center (IRB00001052-30063). All the participants signed informed consent forms before randomization and knew they
+ could withdraw from the study at any time.
+ 
+<section> Data availability: The data of the studies is accessible via Peking University, School of Public Health.
+ 
+<section> Funding: This work was supported by the National Natural Science Foundation of China, grant number 82173637
+ 
+<section> Authorship contributions: HX L finished the first draft. M L and L X conducted this survey. HX L and M L and L X
+ contributed equally to this study. CC and GG L managed the study. CC and GG L are co-correspondence author.
+ 
+<section> Disclosure of interest: The authors completed the ICMJE Disclosure of Interest Form (available upon request from the
+ corresponding author) and disclose no relevant interests.
+ 
+<section> Additional material
+ 
+<section> Online Supplementary Document
+ 
+<section> 1  Whittaker R, McRobbie H, Bullen C, Rodgers A, Gu Y, Dobson R. Mobile phone text messaging and app-based interven-
+ 
+<section> REFERENCES tions for smoking cessation. Cochrane Database Syst Rev. 2019;10:CD006611. Medline:31638271 doi:10.1002/14651858.
+ 
+<section> CD006611.pub5
+ 
+<section> 2  Bricker JB, Watson NL, Mull KE, Sullivan BM, Heffner JL. Efficacy of Smartphone Applications for Smoking Cessation: A Ran-
+ domized Clinical Trial. JAMA Intern Med. 2020;180:1472-80. Medline:32955554 doi:10.1001/jamainternmed.2020.4055
+ 
+<section> 3  Lin H, Liu Y, Zhang H, Zhu Z, Zhang X, Chang C. Assessment of a text message–based smoking cessation intervention for
+ adult smokers in China: a randomized clinical trial. JAMA Netw Open. 2023;6:e230301. Medline:36857056 doi:10.1001/
+ 
+<section> jamanetworkopen.2023.0301
+ 
+<section> 4  L erman C. Helping smokers quit through pharmacogenetics. LDI Issue Brief. 2006;11:1-4. Medline:16827222
+ 
+<section> 5  Lin H, Li X, Zhang Y, Wen Z, Guo Z, Yang Y, et al. A randomized controlled trial of personalized text messages for smok-
+ ing cessation, China. Bull World Health Organ. 2023;101:271-80. Medline:37008265 doi:10.2471/BLT.22.289051
+ 
+<section> 6  Lin H, Wang Y, Xing Y, Han Y, Zhang C, Luo T, et al. A Personalized Mobile Cessation Intervention to Promote Smok-
+ ers From the Preparation Stage to the action Stage: Double-blind Randomized Controlled Trial. J Med Internet Res.
+ 2023;25:e41911. Medline:37099360 doi:10.2196/41911
+ 
+<section> 7  National Institute for Health and Care Excellence. Stop smoking interventions and services. London: National Institute
+ for Health and Care Excellence; 2018.
+ 
+<section> 8  Fiore MC, Jaen CR, Baker TB, Bailey WC, Benowitz NL, Curry SJ, et al. Treating tobacco use and dependence: 2008 up-
+ date. Rockville (MD): US Department of Health and Human Services; 2008.
+ 
+<section> 9  Lindson N, Klemperer E, Hong B, Ordóñez-Mena JM, Aveyard P. Smoking reduction interventions for smoking cessation.
+ Cochrane Database Syst Rev. 2019;9:CD013183. Medline:31565800 
+<section> 10  Bandura A. Self-efficacy: toward a unifying theory of behavioral change. Psychol Rev. 1977;84:191-215. Medline:847061
+ 
+<section> REFERENCES 
+<section> doi:10.1037/0033-295X.84.2.191
+ 
+<section> 11  Bouton ME, Swartzentruber D. Sources of relapse after extinction in Pavlovian and instrumental learning. Clin Psychol
+ Rev. 1991;11:123-40. doi:10.1016/0272-7358(91)90091-8
+ 
+<section> 12  DeStasio KL, Hill AP, Berkman ET. Efficacy of an SMS-Based Smoking Intervention Using Message Self-Authorship: A Pi-
+ lot Study. J Smok Cessat. 2018;13:55-8. Medline:29755598 doi:10.1017/jsc.2016.27
+ 
+<section> 13  Falk EB, Berkman ET, Whalen D, Lieberman MD. Neural activity during health messaging predicts reductions in smoking
+ above and beyond self-report. Health Psychol. 2011;30:177-85. Medline:21261410 doi:10.1037/a0022259
+ 
+<section> 14  Augustson E, Engelgau MM, Zhang S, Cai Y, Cher W, Li R, et al. Text to Quit China: An mHealth Smoking Cessation Tri-
+ al. Am J Health Promot. 2017;31:217-25. Medline:26730560 doi:10.4278/ajhp.140812-QUAN-399
+ 
+<section> 15  Shiffman S, Hughes JR, Ferguson SG, Pillitteri JL, Gitchell JG, Burton SL. Smokers’ interest in using nicotine replacement
+ to aid smoking reduction. Nicotine Tob Res. 2007;9:1177-82. Medline:17978992 doi:10.1080/14622200701648441
+ 
+<section> 16  Schulz KF, Altman DG, Moher D; CONSORT Group. CONSORT 2010 statement: updated guidelines for reporting par-
+ allel group randomized trials. Ann Intern Med. 2010;152:726-732. Medline:20335313 doi:10.7326/0003-4819-152-11-
+ 
+<section> 201006010-00232
+ 
+<section> 17  Lin H, Chen M, Yun Q, Zhang L, Chang C. Tobacco dependence affects determinants related to quitting intention and be-
+ haviour. Sci Rep. 2021;11:20202. Medline:34642382 doi:10.1038/s41598-021-99766-z
+ 
+<section> 18  Lin H, Chen M, Yun Q, Zhang L, Chang C. Protection motivation theory and smoking quitting intention: findings based on
+ structural equation modelling and mediation analysis. BMC Public Health. 2022;22:838. Medline:35473619 doi:10.1186/
+ 
+<section> s12889-022-13263-0
+ 
+<section> 19  Huang CL, Lin HH, Wang HH. The psychometric properties of the Chinese version of the Fagerstrom Test for Nicotine
+ Dependence. Addict Behav. 2006;31:2324-7. Medline:16567055 doi:10.1016/j.addbeh.2006.02.024
+ 
+<section> 20  West R, Hajek P, Stead L, Stapleton J. Outcome criteria in smoking cessation trials: proposal for a common standard. Ad-
+ diction. 2005;100:299-303. Medline:15733243 doi:10.1111/j.1360-0443.2004.00995.x
+ 
+<section> 21  Liao Y, Wu Q, Kelly BC, Zhang F, Tang YY, Wang Q, et al. Effectiveness of a text-messaging-based smoking cessation in-
+ tervention (“Happy Quit”) for smoking cessation in China: A randomized controlled trial. PLoS Med. 2018;15:e1002713.
+ Medline:30562352 doi:10.1371/journal.pmed.1002713

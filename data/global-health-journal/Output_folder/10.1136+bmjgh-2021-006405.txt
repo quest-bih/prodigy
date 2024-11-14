@@ -1,0 +1,1404 @@
+
+<section> Innovative, enhanced
+ 
+<section> management of non-­hypoxaemic
+ 
+<section> indrawing pneumonia
+ 
+<section> old children: a cluster-­randomised
+ 
+<section> in Africa and Asia
+ 
+<section> EMPIC Study Group
+ 
+<section> To cite: EMPIC Study Group. ABSTRACT
+ 
+<section> Innovative, enhanced Introduction The WHO recommends oral amoxicillin
+ community management for 2–59-­m onth-­o ld children with chest-­indrawing
+ of non-­hypoxaemic chest-­ pneumonia presenting at the health facility.
+ 
+<section> indrawing pneumonia in
+ Community-­level health workers (CLHWs) are not
+ 
+<section> 2–59-­month-­old children: a
+ cluster-­randomised trial in Africa allowed to treat these children when presented at
+ and Asia. BMJ Global Health the community level. This study aimed to evaluate
+ 2021;0:e006405. doi:10.1136/ whether CLHWs can safely and effectively treat
+ bmjgh-2021-006405 children 2–59 months-­o ld with chest indrawing with
+ a 5-­d ay course of oral amoxicillin in a few selected
+ 
+<section> Handling editor Senjuti Saha countries in Africa and Asia, especially when a referral
+ is not feasible.
+ 
+<section> ► Additional supplemental Methods We conducted a prospective multicountry
+ material is published online only.
+ To view, please visit the journal cluster-­r andomised, open-­label, non-­inferiority trial
+ online (http://​dx. d oi.​org/​10.​ in rural areas of four countries (Bangladesh, Ethiopia,
+ 1136/ b mjgh-​2021- 06405). India and Malawi) from September 2016 to December
+ 2018. Children aged 2–59 months having parents/
+ caregivers reported cough and/or difficult breathing
+ Received 25 May 2021 presenting to a CLHW were screened for enrolment.
+ Accepted 9 November 2021 CLHWs in the intervention clusters assessed children
+ for hypoxaemia and treated non-­h ypoxaemic chest-­
+ indrawing pneumonia with two times per day oral
+ amoxicillin (50 mg/kg body weight per dose) for
+ 5 days at the community level. CLHWs in the control
+ clusters identified chest indrawing and referred them
+ to a referral-­level health facility for treatment. Study
+ supervisors performed pulse oximetry in the control
+ clusters except in Bangladesh. Children were assessed
+ for the primary outcome (clinical treatment failure) up
+ to day 14 after enrolment. The accuracy and impact of
+ pulse oximetry by CLHWs in the intervention clusters
+ were also assessed.
+ 
+<section> Results In 208 clusters, 1688 CLHWs assessed 62
+ children with cough and/or difficulty breathing. Of these,
+ 4013 non-­hypoxaemic 2–59-­month-­old children with chest-­
+ indrawing pneumonia were enrolled. We excluded 116 children
+ from analysis, leaving 3897 for intention-­to-­treat analysis. In
+ the intervention clusters, 4.3% (90/2081) failed treatment,
+ including five deaths, while in the control clusters, 4.4%
+ © Author(s) (or their
+ employer(s)) 2021. Re-­use (79/1816) failed treatment, including five deaths. The adjusted
+ permitted under CC BY. risk difference was -0.01 (95% CI −1.5% to 1.5%), which
+ Published by BMJ. satisfied the prespecified non-­inferiority criterion. CLHWs
+ 
+<section> Correspondence to correctly performed pulse oximetry in 91.1% (2001/2196) of
+ Yasir Bin Nisar; n isary@​who.​int cases in the intervention clusters.
+ 
+<section> community
+ 
+<section> chest-­
+ 
+<section> in 2–59-­month-­
+ 
+<section> trial
+ 
+<section> Key questions
+ 
+<section> What is already known?
+ 
+<section> ► An estimated 22 million episodes of chest-­indrawing
+ pneumonia in children less than 5 years of age occur
+ every year globally.
+ 
+<section> ► Care-­seeking for childhood pneumonia is low, and
+ only 68% seek care from any source.
+ 
+<section> ► The WHO’s integrated management of childhood
+ illness chart booklet allows facility-­ based health
+ worker to treat chest-­indrawing pneumonia cases
+ with a 5-­day course of oral amoxicillin without refer-
+ ring them to a hospital.
+ 
+<section> ► However, community-­level health workers (CLHWs)
+ are not allowed to treat children with chest-­
+ indrawing pneumonia with oral amoxicillin, leading
+ to low coverage of pneumonia treatment.
+ 
+<section> What are the new findings?
+ 
+<section> ► In the intervention clusters, CLHWs performed pulse
+ oximetry and successfully treated non-­hypoxaemic
+ children 2–59-­month-­old with chest-­indrawing
+ pneumonia with oral amoxicillin, while in the control
+ clusters, these children were referred to a higher-­
+ level health facility as per the standard management.
+ 
+<section> ► The adjusted risk difference in the treatment failure
+ rate in treatment failure rates between the interven-
+ tion and control groups was −0.01%, which satisfied
+ the prespecified non-­inferiority criterion of the inter-
+ vention to the control clusters.
+ 
+<section> ► CLHWs correctly performed pulse oximetry in 91.1%
+ of cases in the intervention clusters.
+ 
+<section> Conclusions The community treatment of non-­
+ hypoxaemic children with chest-­indrawing pneumonia
+ with 5-­d ay oral amoxicillin by trained, equipped
+ and supervised CLHWs is non-­inferior to currently
+ recommended facility-­b ased treatment. These
+ findings encourage a review of the existing strategy of
+ community-­b ased management of pneumonia. 
+<section> Key questions
+ 
+<section> What do the new findings imply?
+ 
+<section> ► The community treatment of non-­hypoxaemic children with chest
+ -indrawing pneumonia with 5-­ day oral amoxicillin by trained,
+ equipped, and supervised CLHWs is non-­inferior to currently rec-
+ ommended facility-­based treatment.
+ 
+<section> ► CLHWs performed pulse oximetry correctly in most cases.
+ 
+<section> ► These findings encourage a review of the existing strategy of
+ community-­based management of pneumonia.
+ 
+<section> Trial registration ACTRN12617000857303; The Australian New Zealand
+ Clinical Trials Registry.
+ 
+<section> INTRODUCTION
+ Pneumonia is the number one killer of children
+ 1–59-­ month-­ old globally, with over 800 000 pneumonia-­
+ related deaths every year. 1 The burden of childhood pneu-
+ monia morbidity and mortality is higher in sub-­Saharan
+ Africa and South Asia than in other regions. 1 2 The WHO
+ and UNICEF developed integrated management of child-
+ hood illness (IMCI) for healthcare workers at primary
+ care facility 3 and integrated community case management
+ (iCCM) protocol for community-­ level health workers
+ (CLHWs). 4 Both IMCI and iCCM protocols enable
+ health workers to identify children with pneumonia using
+ clinical signs such as respiratory rate and lower chest-­
+ indrawing. 3 4 Globally, an estimated 138 million under-­
+ 
+<section> Box 1 Definition of enhanced integrated community case
+ management (pneumonia component) in intervention clusters
+ and list of danger signs assessed in the study
+ 
+<section> Part A: Community case management (pneumonia component)
+ for community-­level health workers
+ I. Intervention clusters—enhanced community case management:
+ 
+<section> ► Assess fast breathing, chest-­indrawing and danger signs (as given
+ below) in 2–59 month-­old children.
+ 
+<section> ► Perform pulse oximetry and refer hypoxaemic children to a hospital.
+ 
+<section> ► Treat 2–59-­month-­old children with chest-­indrawing with a 5-­day
+ course of oral amoxicillin.
+ II. Control clusters—standard community case management
+ 
+<section> ► Assess fast breathing, chest-­indrawing and danger signs (as given
+ below) in 2–59-­month-­old children.
+ 
+<section> ► Refer children with chest-­indrawing to a health facility.
+ 
+<section> Part B: Danger signs evaluated in 2–59-­month-­old children
+ screened for enrolment in the study
+ 
+<section> ► Cough for 14 days or more.
+ 
+<section> ► Diarrhoea for 14 days or more.
+ 
+<section> ► Blood in stools.
+ 
+<section> ► Fever (temperature 38°C or above) for 7 days or more.
+ 
+<section> ► Convulsions or fits.
+ 
+<section> ► Difficult drinking or feeding or persistent vomiting.
+ 
+<section> ► Unusually sleepy or unconscious.
+ 
+<section> ► Severely malnourished as identified through mid-­ upper arm
+ circumference <11.5 cm.
+ 
+<section> ► Swelling of both feet.
+ 
+<section> children had clinical pneumonia in 2015, and of these, 16%
+ (22 million episodes) had chest-­indrawing pneumonia.
+ Several studies have shown the effectiveness of oral
+ amoxicillin in treating chest-­ indrawing pneumonia in
+ children 2–59 months of age. 5–8 Based on this evidence,
+ the WHO modified the pneumonia guidelines 9 and
+ subsequently IMCI chart booklet to recommend a 5-­day
+ course of oral amoxicillin in 2–59-­month-­old children with
+ chest-­indrawing pneumonia without referring them to a
+ hospital. 3 Two other trials supported the evidence after
+ the WHO revision in pneumonia guideline. 10 11 However,
+ this recommendation was not extended to CLHWs using
+ the iCCM protocol 4 because of insufficient evidence on its
+ safety and efficacy at the community level, as it was only
+ available from two clinical trials, both from Pakistan. 12
+ The only evidence from Africa was from an observational
+ implementation research study that showed CLHWs could
+ manage chest-­indrawing pneumonia.
+ Hypoxaemia is associated with a significantly increased
+ risk of death in children with pneumonia. 15 A pulse
+ oximeter can non-­invasively measure peripheral oxygen
+ saturation (SpO ), and its use at the outpatient level has
+ the potential to identify pneumonia with hypoxaemia for
+ immediate referral for oxygen and injectable antibiotics
+ to a hospital. The WHO recommends oxygen for <90%
+ SpO 16 The IMCI chart booklet recommends pulse oxim-
+ eter use by a trained healthcare worker to assess hypox-
+ aemia in children with cough and or difficulty breathing
+ at a primary-­level healthcare facility. 3 However, the iCCM
+ protocol does not recommend the use of a pulse oxim-
+ eter by a CLHW.
+ Improving appropriate care seeking from health facili-
+ ties is an important part of IMCI. 3 Prompt recognition of
+ pneumonia signs and appropriate care seeking, which is
+ essential to reduce pneumonia-­related mortality in under-­5
+ children, is a key component of the WHO/UNICEF Global
+ Action Plan for the Control of Pneumonia and Diarrhoea
+ framework. 17 However, caregivers’ poor knowledge about
+ symptoms and danger signs, faith in traditional care,
+ distance to health facilities and cost can affect caregivers’
+ ability to seek proper and prompt care from health facil-
+ ities. 18–21 Care-­ seeking rates are inversely related to the
+ distance to the closest health facility. 22 23 Inappropriate care
+ seeking, including traditional care, is common. 18 24 Care
+ seeking for children less than 5 years of age with respiratory
+ symptoms is 68% globally. 25 The role of CLHWs is crucial
+ in improving the care seeking, providing prompt treatment
+ and reducing pneumonia mortality in children, especially
+ in low resource setting, where access to a health facility is
+ difficult. Reduction in mortality, increasing care seeking
+ and treatment for pneumonia, malaria and diarrhoea
+ through CLHWs was recently demonstrated by the WHO
+ Rapid Access Expansion iCCM programmed in the Demo-
+ cratic Republic of Congo, Malawi, Niger and Nigeria. 26–28
+ High-­quality data evaluating the management of chest-­
+ indrawing pneumonia by the CLHWs from various
+ countries are essential before the iCCM protocol can be
+ updated to make it consistent with the IMCI protocol. As 
+<section> hypoxaemia can accompany pneumonia, including the use
+ of pulse oximetry will assist in the identification of patients
+ with a high risk of mortality. We believe it will increase
+ care seeking, reduce delayed referrals and provide timely
+ and appropriate treatment, especially in hard to reach
+ areas where access to health facilities is difficult and where
+ referral is not feasible. This study aimed to gather evidence
+ on whether CLHWs can safely and effectively treat non-­
+ hypoxaemic children 2–59-­month-­old with chest-­indrawing
+ with a 5-­day course of oral amoxicillin in a few selected
+ countries in Africa and Asia.
+ 
+<section> METHODS
+ 
+<section> Trial design
+ 
+<section> We compared an enhanced management of pneumonia
+ package with the standard management of pneumonia at
+ the community level based on the iCCM protocol (box 1),
+ using a cluster-­ randomised controlled, open-­ label, non-­
+ inferiority trial design. The trial was conducted in four
+ countries (two in Africa (Ethiopia and Malawi) and two
+ in Asia (Bangladesh and India)), which were selected due
+ to a high burden of childhood pneumonia and having a
+ functional iCCM programme to manage childhood pneu-
+ monia.
+ 
+<section> Participants
+ 
+<section> Children aged 2–59 months having parents/caregivers
+ reported cough and/or difficult breathing presenting to
+ a CLHW with chest-­indrawing without any danger signs
+ (box 1) were screened for enrolment. Difficult breathing
+ was defined, and CLHWs were trained to identify any
+ unusual pattern of breathing in their child as described
+ by the caregivers, such as ‘fast’ or ‘noisy’ or ‘interrupted’
+ or ‘difficulty’ in breathing. We have published detailed
+ procedures, implementation of iCCM and the charac-
+ teristics of CLHWs country wise elsewhere. 29 Briefly, in
+ both intervention and control clusters, CLHWs identified
+ 2–59-­ month-­ old children with chest-­ indrawing through
+ visits by families to CLHWs. A standardised assessment of
+ sick children per iCCM protocol was undertaken. 4 CLHWs
+ counted respiratory rate using a timer (UNICEF, Copen-
+ hagen, Denmark), observed chest-­indrawing and excluded
+ those with any danger sign (box 1). Children identified
+ by the CLHW as having chest-­indrawing pneumonia were
+ re-­examined by a study supervisor within half an hour to
+ confirm the presence of chest-­indrawing. Study supervisors
+ were qualified nurses or clinical officers, hired and trained
+ in the study methodology, supervision and pulse oximetry.
+ In cases of disagreement, the supervisor’s measurements
+ were considered final.
+ The CLHWs worked from 3 to 6 days every week at
+ different sites and performed their work for around
+ to 8 hours on working days. Except for Bangladesh, the
+ CLHWs who lived in the same communities could be
+ accessed on the weekend or public holidays by the commu-
+ nity members. A fair number of families would seek care
+ from CLHWs in the study sites; however, a substantial
+ proportion would seek direct care from the health centres
+ or hospital or even private providers (at Asian sites) for
+ various reasons, including unavailability of the CLHW or
+ medicines at the community level or the perception of
+ a child being sicker. For more details, see online supple-
+ mental Table 1.
+ 
+<section> Interventions
+ In the control clusters, all enrolled children were imme-
+ diately sent to a referral facility for further management
+ as per the standard iCCM protocol, 4 no study-­mandated
+ follow-­up by the CLHWs was stipulated, who followed their
+ routine practice, whereas, in the intervention clusters,
+ enrolled children were treated by a CLHW with a 5-­day
+ course of oral amoxicillin dispersible tablets, 50 mg/kg per
+ dose two times per day according to WHO age bands. 3 On
+ the day of enrolment (day 1), the first dose was given by the
+ CLHW and demonstrated to the child’s parent/caregiver,
+ and subsequent doses were administered by the parent/
+ caregiver at home. If the child vomited within 30 min of
+ administration of oral amoxicillin, the dose was readminis-
+ tered. The treating CLHWs followed these children on days
+ 2, 4 and 7 after enrolment to assess for clinical improve-
+ ment, need for referral and adherence to therapy.
+ CLHWs performed pulse oximetry in the intervention
+ clusters to measure SpO using the Rad-­5v pulse oximeter
+ 2
+ (Masimo, Irvine, California) on the great toe in smaller
+ infants and toe or thumb in the older children. Study
+ supervisors confirmed CLHWs’ SpO measurements to
+ identify hypoxaemia (SpO <90%). 16 2 Child was referred
+ 2
+ if the supervisor confirmed the presence of hypoxaemia.
+ In the control group, study supervisors performed pulse
+ oximetry to identify hypoxaemic children except for the
+ Bangladesh site. Children of 2–59-­month-­old with chest-­
+ indrawing pneumonia, without danger signs, SpO ≥90%,
+ 2
+ and given informed written consent were enrolled in the
+ trial.
+ All CLHWs in the control and the intervention clusters,
+ study supervisors and outcome assessors were trained in
+ iCCM 4 30 through the programme’s existing training system.
+ Also, CLHWs in intervention clusters were trained in pulse
+ oximetry and treatment of children with oral amoxicillin.
+ Hands-­on refresher training was conducted by the inves-
+ tigators and study coordinators every 3–6 months. Study
+ staff, including supervisors and independent outcome
+ assessors, were also trained in pulse oximetry. Study super-
+ visors and coordinators regularly validated the clinical
+ skills (in both clusters) and pulse oximetry technique (in
+ the intervention clusters only) of CLHWs, and those who
+ performed poorly received hands-­ on training. Regular
+ refresher training was also conducted at each site. Details
+ of standardisation, supervision and monitoring process
+ have been given elsewhere.
+ Preparatory meetings with the Ministry of Health, district
+ health officers and community leaders were held at each
+ site before data collection. At the Indian site, CLHWs
+ Accredited Social Health Activists (ASHA) who had not
+ routinely treated children with fast breathing pneumonia 
+<insert> Figure 1 Screening, randomisation and follow-­up.
+ *Danger sign is defined as the presence of any of the following
+ more, blood in stools, fever (temperature 38°C or above) for 7 days
+ or persistent vomiting, unusually sleepy or unconscious, severely
+ circumference <11.5 cm, swelling of both feet. †SpO : oxygen 
+<iend>
+
+ 
+<section> signs:
+ 
+<section> saturation.
+ 
+<section> as per standard iCCM protocol, 4 were trained and evalu-
+ ated for their ability to do so and to verify their acceptance
+ in the community as treatment providers.
+ 
+<section> Study outcomes
+ The primary outcome was treatment failure by day
+ Treatment failure was defined as (a) death at any time up to
+ day 14 of enrolment, or (b) clinical deterioration (defined
+ as the presence of a danger sign or SpO <90%) on day 6,
+ 2
+ or (c) persistence of chest-­indrawing on day 6 or (d) devel-
+ opment of serious adverse event to amoxicillin by day
+ such as anaphylactic reaction, severe diarrhoea or general-
+ ised severe rash. The primary outcome was ascertained on
+ day 6 (from number b to d) and day 14 (#a) of enrolment
+ by independent outcome assessors (clinical officers/nurses
+ trained in iCCM and trial methodology) who were unaware
+ of the treatment received by the child to reduce potential
+ measurement bias. 29 The definitions of the clinical signs
+ are given in online supplemental Table 2.
+ There were three components of the secondary outcome:
+ (1) feasibility of using a pulse oximeter by CLHWs, (2)
+ performance of CLHWs for using pulse oximetry against
+ cough for 14 days or more, diarrhoea for 14 days or
+ or more, convulsions or fits, difficult drinking or feeding
+ malnourished as identified through mid-­upper arm
+ CLHW, community-­level health worker.
+ 
+<section> a standardised measurement by a trained study supervisor,
+ (3) the impact of pulse oximetry on referral and treat-
+ ment outcomes. 29 However, in this paper, we only present
+ the findings of the second and third components of the
+ secondary outcome, and the results for the first outcome
+ will be presented separately.
+ 
+<section> Sample size
+ 
+<section> For sample size calculation, a 5000 population with a 3%
+ birth rate was assumed per cluster, which gave 750 under
+ 5 children at any point over a 2-­year trial’s data collection
+ period. Using a pneumonia incidence rate of 0.25 per child
+ per year, 375 pneumonia cases per cluster per trial’s data
+ collection period were estimated. Of these estimated cases,
+ 15% were assumed as chest-­indrawing pneumonia, leading
+ to 50 children 2–59 months of age with chest-­indrawing
+ pneumonia per cluster during the trial’s data collection
+ period. If there is truly no difference between the standard
+ iCCM and enhanced iCCM (assuming 10% treatment
+ failure in both groups based on previous research, 12 13 with
+ a design effect of 1.6 and attrition of 10%, then 1340 chil-
+ dren 2–59 months of age with chest-­indrawing pneumonia 
+<section> per group were required to be 90% sure that the upper
+ limit of a two-­sided 95% CI will exclude a difference in
+ favour of the standard iCCM of >5%, assuming >50%
+ difference in the treatment failure). We expected 30 cases
+ per cluster over the data collection period, so 90 clusters
+ (45 per group) were required for random allocation.
+ A parallel trial in young infants up to 2 months with fast
+ breathing pneumonia was also carried out at the same trial
+ sites and at the same time, which required 99 clusters in
+ each group. 32 33 We chose the same number of clusters for
+ this trial also, instead of the required 45 in each group.
+ 
+<section> Randomisation
+ Clusters were randomly assigned in a 1:1 ratio to either
+ standard management (control) or enhanced manage-
+ ment (intervention) of pneumonia. Union in Bangladesh,
+ Sub-­centre in India and Health Centre in Ethiopia and
+ Malawi were the randomisation units. We performed strat-
+ ified randomisation using the cluster’s median or above
+ population as the first stratum and below the median popu-
+ lation as the second stratum. The computer-­ generated
+ randomisation lists were prepared off-­ site by the WHO
+ co-­ordinating office in Geneva not involved with the study
+ for each site. For Bangladesh, 52 clusters (26 intervention
+ and 26 control) were randomly selected out of 54; two were
+ dropped due to odd numbers in both strata. For Ethiopia,
+ 20 clusters (10 intervention and 10 control) were randomly
+ selected. For the India site, 92 clusters (46 intervention and
+ 46 control) were randomly selected out of 95; three were
+ dropped due to odd numbers in both strata. For Malawi,
+ 44 clusters (22 intervention and 22 control) were randomly
+ selected out of 46 health centres, two were dropped due to
+ odd number in both strata (more details were published
+ elsewhere).
+ 
+<section> Oversight and statistical methods
+ A technical steering committee and data safety and moni-
+ toring board (DSMB) provided oversight of the trial. Ethics
+ approvals were obtained from the WHO Ethics Review
+ Committee and the respective institutional ethics commit-
+ tees at each trial site. Informed written consent in the local
+ language was obtained from the parent/caregiver and in
+ the presence of a witness if the parent/caregiver was illit-
+ erate. The trial was performed by the principles of the
+ Declaration of Helsinki.
+ Standard case report forms were used to collect data. All
+ sites performed double data entry into a centralised data-
+ base maintained by the Data Coordinating Centre (DCC).
+ All sites uploaded a cleaned database to the DCC every
+ month for quality checks. A planned interim analysis was
+ conducted and reviewed by the DSMB after nearly 75%
+ enrolment. As the enrolment rates were higher in Asian
+ sites than African sites, the DSMB recommended ceasing
+ enrolment at Asian sites (Bangladesh and India) in mid-­
+ 2018 while continuing enrolment at African sites till the
+ end of the year.
+ Descriptive statistics were used to calculate frequencies
+ and percentages. Based on a predefined analysis plan to test
+ for non-­inferiority in the treatment failure rate between the
+ intervention and control clusters, the difference in risk of
+ treatment failure with a 95% CI was calculated and adjusted
+ for sites and clusters. Post hoc prespecified subgroup anal-
+ yses were performed to examine the difference in risk of
+ treatment failure with 95% CI between intervention and
+ control clusters.
+ For secondary outcomes, descriptive analyses were
+ performed to evaluate the accuracy and impact of the use
+ of pulse oximeter by CLHWs in intervention clusters. All
+ analyses were performed using Stata V.14.2 (Stata-­Corp,
+ College Station, Texas).
+ 
+<section> Role of the funding source
+ This study was funded by the Bill & Melinda Gates
+ Foundation (#OPP1109076/INV-­0 08068) through a
+ grant to the WHO. The funders had no role in the
+ study design or the collection, analysis or interpreta-
+ tion of the data. The funders did not write the report
+ and had no role in the decision to submit the paper
+ for publication.
+ 
+<section> Patient and public involvement statement
+ The development of the research question was
+ informed by the large burden of pneumonia-­related
+ mortality among children worldwide. Patients were
+ not advisers in this study, nor were they involved
+ in the design, recruitment or conduct of the study.
+ Results of this study will be made publicly available
+ through open-­a ccess publication where study partici-
+ pants may access them.
+ 
+<section> RESULTS
+ Enrolment, patient flow and baseline characteristics
+ CLHWs screened 62 363 children who presented with cough
+ and/or difficulty in breathing at all four trial sites in both
+ clusters, intervention (104 clusters and 32 029 children) and
+ control (104 clusters and 30 334 children) (figure 1). Online
+ supplemental Table 3 presents the distribution of danger
+ signs identified by the CLHWs during screening. Of 4206
+ children, 2–59-­month-­old with chest-­indrawing, 57 (1.4%)
+ had hypoxaemia, 106 (2.5%) were previously enrolled and
+ 30 (0.7%) did not give consent. We enrolled 2146 children
+ in the intervention and 1867 in the control clusters. CLHWs
+ followed 2113 (98.5%), 2090 (97.4%) and 1871 (87.2%) on
+ day 2, 4 and 7 after enrolment in the intervention clusters
+ (see online supplemental Table 4 for more details). Primary
+ outcome data were available for 2081 children in interven-
+ tion and 1816 in control clusters.
+ The data collection phase was carried out in Bangladesh
+ between December 2016 and May 2018, Ethiopia between
+ September 2016 and December 2018, India between March
+ 2017 and May 2018 and Malawi between December 2016
+ and July 2017. There were no important differences between
+ cluster and individual level baseline characteristics for the
+ intervention and control clusters at all four sites (table 1). 
+<insert>  Clusters—number
+  Children enrolled—number
+  Population size per cluster—median (IQR)
+  Community-­level health workers per cluster—median (IQR)
+  Distance to referral facility per cluster in kilometres—median (IQR)
+  Clusters—number
+  Children enrolled—number
+  Population size per cluster—median (IQR)
+  Community-­level health workers per cluster—median (IQR)
+  Distance to referral facility per cluster in kilometres—median (IQR)
+  Clusters—number
+  Children enrolled—number
+  Population size per cluster—median (IQR)
+  Community-­level health workers per cluster—median (IQR)
+  Distance to referral facility per cluster in kilometres—median (IQR)
+  Clusters—number
+  Children enrolled—number
+  Population size per cluster—median (IQR)
+  Community-­level health workers per cluster—median (IQR)
+  Distance to referral facility per cluster in kilometres—median (IQR)
+  Number of children enrolled at all four sites
+  Age (months)—mean (SD)
+   Age 2–11 months – no. (%)
+   Age 12–59 months—number (%)
+  Male sex—number (%)
+  Mid upper arm circumference (MUAC)* cm—mean (SD)
+   MUAC between 11.5 and 12.5 cm*—number (%)
+  Respiratory rate (breaths/minute)—mean (SD)
+   Respiratory rate ≥60 breaths/minute—number (%)
+  Axillary temperature ( C)—mean (SD)
+   Axillary temperature ≥38°C—number (%)
+ I. Cluster level characteristics
+ Bangladesh
+ Ethiopia
+ India
+ Malawi
+ II. Participant level characteristics
+ o
+ *Among children≥6 months of age.
+ Table 1 Characteristics of children at enrolment 
+<iend>
+
+ 
+<section> Primary outcome
+ In the intervention clusters, 90 (4.3%) children
+ showed clinical treatment failure by day 14 after enrol-
+ ment, including five deaths, while in the control clus-
+ ters, 79 (4.4%) children failed treatment, including
+ 
+<section> Intervention clusters
+ 
+<section> 25 000 (21 000 to 30000)
+ 
+<section> 13 (11, 14)
+ 
+<section> 17 (10, 22)
+ 
+<section> 24 000 (17 000 to 31000)
+ 
+<section> 7 (4, 11)
+ 
+<section> 37 (20, 47)
+ 
+<section> 10 000 (8000 to 13000)
+ 
+<section> 9 (8, 12)
+ 
+<section> 17 (10, 24)
+ 
+<section> 21 000 (17 000 to 26000)
+ 
+<section> 6 (2, 9)
+ 
+<section> 43 (24, 50)
+ 
+<section> (N=2146)
+ 
+<section> 15.4 (13.3%)
+ 
+<section> 1120 (52.2%)
+ 
+<section> 1026 (47.8%)
+ 
+<section> 1245 (58.0%)
+ 
+<section> 13.5 (1.2)
+ 
+<section> 358 (24.2%)
+ 
+<section> 55.5 (9.3)
+ 
+<section> 500 (27.5%)
+ 
+<section> 37.1 (0.8)
+ 
+<section> 297 (13.8%)
+ 
+<section> five deaths (table 2). The adjusted
+ between the intervention and
+ was −0.01% (95% CI −1.5%
+ analyses showed no difference
+ failure in the intervention and
+ 
+<section> Control clusters
+ 
+<section> 25 000 (21 000 to 28000)
+ 
+<section> 12 (10, 15)
+ 
+<section> 12 (7, 20)
+ 
+<section> 20 000 (13 000 to 27000)
+ 
+<section> 7 (6, 10)
+ 
+<section> 22 (10, 30)
+ 
+<section> 10 000 (8000 to 13000)
+ 
+<section> 10 (7, 12)
+ 
+<section> 19 (14, 27)
+ 
+<section> 21 000 (14 000 to 30000)
+ 
+<section> 5 (3, 7)
+ 
+<section> 54 (29, 60)
+ 
+<section> (N=1867)
+ 
+<section> 14.2 (12.4%)
+ 
+<section> 1059 (56.7%)
+ 
+<section> 808 (43.3%)
+ 
+<section> 1118 (59.9%)
+ 
+<section> 13.4 (1.2)
+ 
+<section> 375 (29.8%)
+ 
+<section> 55.3 (9.0)
+ 
+<section> 518 (27.7%)
+ 
+<section> 37.2 (0.8)
+ 
+<section> 315 (16.9%)
+ 
+<section> risk difference
+ the control clusters
+ to 1.5%). The subgroup
+ in the risk of treatment
+ control clusters. No 
+<insert> Intervention (n=2081) Control (n=1816) Adjusted* risk difference (95% CI)
+ 90 (4.3%) 79 (4.4%) −0.01% (-­1.5% to 1.5%)
+  Death at any time up to day 14 of enrolment 5 (0.2%) 5 (0.3%)
+  Clinical deterioration on day 6‡ 8 (0.4%) 11 (0.6%)
+  Persistence of chest-­indrawing on day 77 (3.7%) 63 (3.5%)
+  Serious adverse event to amoxicillin by day 0 (0.0%) 0 (0.0%)
+ Treatment failure by subgroups n/N (%) n/N (%)
+  African sites 40/856 (4.7) 42/840 (5.0) −0.4% (−3.0% to 2.1%)
+  Asian sites 50/1225 (4.1) 37/976 (3.8) 0.3% (−1.5% to 2.2%)
+  2–11 months 73/1079 (6.8) 62/1024 (6.1) 0.6% (−1.9% to 3.1%)
+  12–59 months 17/1002 (1.7) 17/792 (2.1) −0.4% (−1.8% to 0.9%)
+  Male 54/1205 (4.5) 52/1089 (4.8) −0.3% (−2.2% to 1.6%)
+  Female 36/876 (4.1) 27/727 (3.7) 0.5% (−1.7% to 2.7%)
+  MUAC between 11.5 and 12.5 cm 20/347 (5.8) 12/372 (3.2) 2.5% (−0.8% to 5.8%)
+  MUAC >12.5 cm 19/1079 (1.8) 24/848 (2.8) −1.1% (−2.5% to 0.3%)
+ Treatment failure† among all enrolled children – no. (%)
+ Reasons for treatment failure—number (%)
+ Region—number/total number (%)
+ Age categories—number/total number (%)
+ Sex—number/total number (%)
+ Mid upper arm circumference (MUAC)§—number/total
+ number (%)
+ Respiratory rate (breaths per minute)—number/total number (%)
+  <60 breaths/minute 54/1513 (3.6) 47/1323 (3.5) 0.1% (−1.5% to 1.6%)
+  ≥60 breaths/minute 36/568 (6.3) 32/493 (6.5) −0.1% (−3.2% to 3.1%)
+  Axillary temperature <38°C 83/1800 (4.6) 64/1514 (4.2) 0.4% (−1.2% to 2.0%)
+  Axillary temperature ≥38°C 7/281 (2.5) 15/302 (5.0) −1.8% (−5.4% to 1.8%)
+ Axillary temperature o C)—number/total number (%)
+ *Adjusted for sites and clusters.
+ †Defined as (a) death any time up to 14 days of enrolment; or (b) Clinical deterioration defined as the presence of any danger signs [Unable to feed or poor feeding on observation,
+ convulsion, unusually sleepy or unconscious, vomit everything] or SpO
+ 2
+ <90%; or (c) persistence of chest-­indrawing on day 6; or (d) development of serious adverse event to
+ amoxicillin by day
+ ‡Defined as the presence of any danger sign (unable to feed or poor feeding on observation, convulsion, unusually sleepy or unconscious, vomit everything) or SpO
+ 2
+ <90%.
+ §Among children≥6 months of age.
+ Table 2 Treatment failure rates in the two clusters 
+<iend>
+
+ serious adverse events of treatment were observed in
+ either group. For more details on deaths, see online
+ supplemental Table 5.
+ 
+<section> Secondary outcome
+ In the intervention clusters, CLHWs performed pulse
+ oximetry on 2255 children with chest-­indrawing, and in
+ 91.1% (2001/2196) of cases, they performed all steps of
+ pulse oximetry assessment according to the instructions
+ (table 3). The median (IQR) of SpO reading was 97% (94%
+ 2
+ and 99%). Compared with supervisors’ pulse oximeter read-
+ ings, readings by CLHWs were either the same or within
+ 2% of supervisors’ reading for 86.6% (1901/2196) of the
+ patients. Thirty-­ six (1.6%) children had SpO <90% and
+ 2
+ 
+<section> were referred immediately to the hospital, and all of them
+ survived after 14 days after the initial assessment. Online
+ supplemental Table 6 presents the sitewise breakup of chil-
+ dren in the intervention clusters with various SpO catego-
+ 2
+ 
+<section> ries.
+ 
+<section> Adherence to treatment
+ Treatment adherence was good in the intervention clusters
+ as 83.8% (1724/2058) of the patients received all 10 doses of
+ amoxicillin for 5 days, and only 3.5% (73/2058) consumed
+ less than 4 days of medicine (table 4). In the control clusters,
+ 10.5% (167/1594) received hospitalised treatment, while
+ 80.3% (1280/1594) received outpatient treatment. 
+<insert> A) Basic distribution of pulse oximetry
+ measurements
+ Children with chest-­
+ indrawing
+ Pulse oximetry performed by CLHWs—
+ number/ total number (%) 2255/2263 (99.6%)
+ Oxygen saturation—median (IQR)
+ 98 (97, 100)
+ 97 (95, 99)
+  Overall 97 (94, 99)
+  Bangladesh 97 (96, 99)
+  Ethiopia 93 (91, 95)
+  India
+  Malawi
+ Oxygen saturation category—number/
+ total number (%)
+  <90% 36/2255 (1.6%)
+  90–<93% 355/2255 (15.7%)
+  93%–100% 1864/2255 (82.7%)
+ B) Secondary outcome
+ Children with chest-­
+ indrawing
+ 2001/2196 (91.1%)
+ The difference in SpO ‡ readings
+ between CLHWs and supervisors—
+ number/ total number (%)
+  No 951/2196 (43.3%)
+  1% 625/2196 (28.5%)
+  2% 325/2196 (14.8%)
+  3% or more 295/2196 (13.4%)
+ Impact of pulse oximetry on referral and
+ outcomes—number/total number (%)
+  Hypoxaemic children§ identified and
+ referred to hospital
+ 36/2255 (1.6%)
+  Alive after 14 days of initiation
+ assessment
+ 36/36 (100%)
+ *Among CLHWs whose pulse oximetry were validated by supervisors.
+ †All steps to perform pulse oximetry are: (i) cleaned the equipment
+ before use, (ii) turned on the device correctly, (iii) selected the correct
+ probe, (iv) attached the probe correctly, (v) positioned the child
+ correctly and (vi) determined the reading correctly.
+ ‡SpO : Oxygen saturation.
+ §Defined as SpO
+ 2
+ <90%. CLHWs identified 32 hypoxaemic children,
+ while the supervisor only identified four children. Supervisors readings
+ were used to make clinical decisions and during analysis.
+ CLHW, community-­level health worker.
+ Performance of CLHWs* for using pulse
+ oximetry—number/total number (%)
+  CLHWs performed all steps† as per
+ instructions
+ Table 3 Use of pulse oximetry by CLHWs in intervention
+ clusters 
+<iend>
+
+ 
+<insert> Intervention clusters*—5 day oral
+ amoxicillin treatment (10 doses)—number
+ (%)
+  Received treatment for
+  Full 5 days (10 doses) 1724 (83.8%)
+  4 to <5 days (8 to <10 doses) 261 (12.7%)
+  <4 days (<10 doses) 73 (3.5%)
+   Control clusters—treatment at a health
+ facility following referral—number (%)
+ Children with chest-­
+ indrawing (N=1594)
+  Received
+  Inpatient treatment in a hospital 167 (10.5%)
+  Outpatient treatment from any physician
+ clinic/outpatient department of a hospital
+ 1280 (80.3%)
+  Any other treatment 147 (9.2%)
+ *Missing data of 88 children were excluded from this analysis.
+ †Information was not collected from 273 children enrolled in the first few
+ months of the study, who were excluded from this analysis.
+ Children with chest-­
+ indrawing (N=2058)
+ Table 4 Compliance with recommended treatment
+ strategy in enrolled children in intervention and control
+ clusters 
+<iend>
+
+ 
+<section> DISCUSSION
+ 
+<section> Principal findings
+ Our results demonstrate that 2–59-­ month-­ old non-­
+ hypoxaemic children with chest-­ indrawing, 5-­ day
+ oral amoxicillin treatment by trained, supervised and
+ equipped CLHWs were non-­ inferior to referral to a
+ health facility for treatment. Children treated in the
+ community by the CLHWs had a similar treatment failure
+ rate to those referred to a health facility.
+ 
+<section> Comparison with other literature
+ Two similar trials from Pakistan also showed that
+ community-­ based treatment of chest-­ indrawing pneu-
+ monia was safe and effective. 12 13 In the Haripur, Pakistan
+ trial, children 2–59-­month-­old with chest-­indrawing who
+ received oral amoxicillin treatment from CLHWs had a
+ significantly lower treatment failure rate (9%) than those
+ who received the standard management of assessment
+ and referred to a facility (18%). 12 In the Matiari, Paki-
+ stan trial, children who received oral amoxicillin treat-
+ ment from CLHWs had a non-­ significant lower treat-
+ ment failure rate (8%) than those who received standard
+ care (13%). 13 The treatment failure rates in both these
+ trials 12 13 were higher than those reported in our trial. We
+ believe that a few treatment failure criteria used in these
+ trials, that is, presence of fever plus lower chest-­indrawing
+ on day 3 of treatment, presence of fever on day 6 and
+ change of antibiotic, 12 13 were not used in our trial. When
+ we recalculated the treatment failure for the Haripur,
+ Pakistan trial using our trial treatment failure defini-
+ tion, the treatment failure in the intervention group was
+ 5.8% vs 8.6% in the control group (non-­significant risk
+ difference −2.8%). Also, we performed pulse oximetry to
+ exclude hypoxaemic children, while no pulse oximetry
+ was carried out in those trials. 12 13 Similar to our study,
+ these trials reported a low mortality rate (<1%) in both
+ intervention and control groups. 12 13 This could be attrib-
+ uted to the careful selection of study participants who did
+ not have signs of very severe disease or other comorbidity
+ and to the timely and appropriate treatment provided.
+ Few observational studies from community and health
+ facility levels have reported lower chest-­indrawing pneu-
+ monia from Africa. 14 34–37 In a large community-­based
+ study in Homabay county, Kenya, CHWs were success-
+ fully able to treat children with lower chest-­indrawing in 
+<section> the majority of cases and reported a low treatment failure
+ rate (2.1%) and five deaths (0.3%), which are similar to
+ our data. 14 A pneumococcal vaccine study from Malawi
+ introduced pulse oximeter use by health facility workers
+ and CLHWs, 34 35 which substantially increased the
+ referral to the hospitals for pneumonia cases, especially
+ those with hypoxaemia. The proportion of hypoxaemic
+ children identified by CLHWs with SpO <90% (1.2%)
+ 2
+ and those with SpO 90%–92% was a little lower than the
+ 2
+ proportion in our own study (figure 1 and table 3). Simi-
+ larly, those with danger signs of pneumonia were also
+ similar (<1%). Both hypoxaemic and danger sign pneu-
+ monia cases were excluded from enrolment in our study.
+ However, the proportion of chest-­indrawing patients in
+ our community-­based study was higher than that reported
+ by the Malawi vaccine study for CLHWs. 35 Another obser-
+ vational study from Malawi that linked community-­based
+ and health centre-­based data with the hospital admission
+ data reported that all deaths in the hospitalised pneu-
+ monia patients occurred within 24 hours of admission,
+ which could be due to delay in appropriate care seeking.
+ 
+<section> Interpretation and implications of the findings
+ There are a few potential reasons why the community-­level
+ treatment of children with chest-­indrawing pneumonia
+ was non-­inferior to the facility-­based treatment (standard
+ iCCM protocols) and why we observed low treatment
+ failure rates in both the intervention and control clus-
+ ters. The treatment success depends on early recognition
+ of pneumonia by the families or CLHWs, prompt care
+ seeking from trained healthcare providers and timely and
+ appropriate treatment. In our study, families sought early
+ care from the trained CLHWs or community volunteers
+ present in their communities, or they received home
+ visits by them. The CLHWs in the intervention clusters
+ provided prompt and appropriate treatment to the chil-
+ dren with chest-­indrawing pneumonia. The CLHWs in
+ the control clusters immediately referred them to the
+ referral level facilities after giving them a prereferral anti-
+ biotic dose. Thus, delayed referrals and failure to seek
+ appropriate care, which are important determinants of
+ treatment failure and pneumonia mortality, were avoided
+ in both groups. 18
+ Where access to health facilities is easy, and good quality
+ care is available, management of chest-­indrawing pneu-
+ monia by the CLHWs may not be necessary. However,
+ in places where access is poor, including remote areas,
+ difficult terrains, and humanitarian settings, treatment
+ of chest-­ indrawing pneumonia and the use of pulse
+ oximetry to assess hypoxaemia by CLHWs could poten-
+ tially save lives. Treating chest-­ indrawing pneumonia
+ at the community level has some potential advantages,
+ including cost saving, ease for the families, getting treat-
+ ment from someone the family knows and who is acces-
+ sible and provides higher satisfaction than facility-­based
+ care. 39 40 One cannot overlook the economic cost of out
+ of pocket expenses for seeking care at the health facilities
+ for treatment of pneumonia, which can be manifold
+ higher than the community-­level treatment cost. 41–43
+ There are useful lessons from this trial for iCCM of
+ pneumonia, diarrhoea and malaria programmes. First,
+ sustaining the clinical skills of CLHWs over time is chal-
+ lenging, 44 especially in settings where only a few sick chil-
+ dren are seen weekly at the community level. Ongoing
+ supervision, training and mentoring are required to
+ ensure consistent quality of care. 45–48 Second, a regular
+ supply of essential commodities to avoid stockouts is
+ imperative. 48 Third, CLHWs accurately performed pulse
+ oximetry to identify hypoxaemic children with pneu-
+ monia, who were referred immediately to a hospital for
+ further management, and all survived up to 2 weeks of
+ follow-­up. When adequately trained, regularly monitored
+ and supervised, and supplied with appropriate equipment
+ (pulse oximeter, paediatric probes), CLHWs performed
+ pulse oximetry correctly in children with chest-­indrawing
+ pneumonia. We selected the cut-­off value for hypoxaemia
+ (SpO <90%) as recommended by the WHO, 16 although
+ 2
+ some data have been published about SpO between 90%
+ and 93% as a risk factor for pneumonia 2 mortality. 15
+ Among the 10 deaths in this study, 9/10 (90%) had a
+ SpO of 93%–100%, and 1 (10%) had an SpO between
+ 2 2
+ 90% and <93% (online supplemental Table 3). However,
+ the low proportion (<2%) of hypoxaemia in children
+ with chest-­indrawing pneumonia seen in our study and
+ elsewhere 34 raises questions about the use of pulse oxim-
+ etry at the community level. Implementation of pulse
+ oximetry at the CLHW level is not inconsequential. It
+ brings forth real issues regarding ensuring the quality
+ with the use of pulse oximeter, selection of an appro-
+ priate pulse oximeter and age-­specific probes and that it
+ does not replace the clinical examination. Additionally,
+ the health system support and scale-­up requirements will
+ require another level of engagement and investment by
+ the policymakers and implementers. Further research is
+ required in various geographic regions to evaluate the
+ use of pulse oximeters by CLHWs, especially in resource-­
+ limited communities where access to a primary-­ level
+ healthcare facility is poor. Finally, the existing large-­scale
+ iCCM programmes would need some implementation
+ experience to learn about barriers and facilitators before
+ scaling up the inclusion of chest-­indrawing pneumonia
+ treatment.
+ There are two major interlinked concerns with the
+ empiric use of antibiotics to treat pneumonia at the
+ community level. First, pneumonia in many of these
+ children with lower chest-­ indrawing is non-­ bacterial
+ that does not need an antibiotic, and second, the use of
+ antibiotics by CLHWs may contribute to antimicrobial
+ resistance. 50 51 Until a good point of care, test is available
+ to differentiate viral from bacterial infections, empiric
+ antibiotic therapy is a useful tool to reduce pneumonia
+ mortality. WHO standard case management of pneu-
+ monia promotes the rational use of antibiotics, 52 53 which
+ has also been demonstrated through CLHWs treatment
+ of pneumonia in Zambia. 54 To reduce antibiotic use and 
+<section> minimise antimicrobial resistance, more needs to be
+ done. Recently, treatment with a shorter 3-­day oral amox-
+ icillin was shown to be non-­inferior to a 5-­day standard
+ course in Malawian children with chest-­indrawing at a
+ health facility level. 55 Further data are needed from other
+ regions to validate these findings.
+ 
+<section> Strengths and limitations
+ The strength of this trial is that this is a large multicountry
+ trial that leveraged existing iCCM infrastructure across
+ four African and Asian countries and demonstrated
+ that the community-­ level treatment of children with
+ chest-­indrawing pneumonia is safe and feasible across a
+ wide range of settings and seasons. Thus, these findings
+ contribute to the body of evidence that CLHWs can effec-
+ tively treat chest-­indrawing pneumonia in low-­resource
+ settings, especially in areas where access to health centres
+ is limited. 12–14 Our trial also demonstrated the ability of
+ CLHWs to use pulse oximetry successfully at the commu-
+ nity level to make iCCM safer. Finally, the large sample
+ size was adequate to detect a smaller non-­ inferiority
+ margin, which was appropriate given the observed lower
+ failure rate.
+ Our study had the limitation of using the WHO crite-
+ rion of chest-­indrawing pneumonia for diagnosis as the
+ standard tools of radiology and microbiology were not
+ feasible in the community setting. No single clinical sign
+ can diagnose radiological pneumonia definitively, 56 57 but
+ in a meta-­analysis, chest-­indrawing along with respiratory
+ rate higher than 50 bpm, grunting and nasal flaring,
+ had the highest pooled estimates of the positive likeli-
+ hood ratio for radiological pneumonia. 56 On the other
+ hand, determining the aetiology in physician-­diagnosed
+ hospitalised children with pneumonia is difficult even
+ when multiple samples from multiples sites are tested in
+ high-­quality laboratories shown by the PERCH study.
+ Thus, it is likely that our study included children with
+ non-­ bacterial chest-­ indrawing pneumonia who were
+ treated with antibiotics. However, because our primary
+ outcome of treatment failure (excluding death) was
+ only measured on day 6 of enrolment by independent
+ outcome assessors, we believe that practically all children
+ with only viral pneumonia would have gotten better by
+ then and had minimal effect on the primary outcome.
+ We enrolled a relatively higher number of children from
+ Asian sites compared with African sites, instead of equal
+ numbers. However, the subanalysis showed no difference
+ in treatment failure rates between the intervention and
+ control clusters in Asian and African sites.
+ 
+<section> CONCLUSIONS
+ This large multicountry trial showed that trained, super-
+ vised and equipped with oral amoxicillin CLHWs can safely
+ and effectively treat non-­ hypoxaemic 2–59-­ months-­ old
+ children with chest-­ indrawing with a 5-­ day oral amox-
+ icillin course in the community. CLHWs performed
+ pulse oximetry correctly in most cases. Treatment of
+ chest-­indrawing pneumonia in children 2–59-­months-­old
+ by CLHWs would increase access, particularly in settings
+ where access to a health facility is limited and referral to a
+ health facility is not feasible. This evidence should be used
+ to review the current WHO/UNICEF iCCM protocol.
+ 
+<section> Collaborators Enhanced Management of Pneumonia in Community (EMPIC) Study
+ 
+<section> Group: Golam Mothabbir (Bangladesh office, Save the Children USA); Shohel Rana
+ (Bangladesh office, Save the Children USA); ASM Nawshad Ahmed (Child Health
+ Research Foundation, Bangladesh); Abdullah H. Baqui (Johns Hopkins University,
+ USA); Salahuddin Ahmed (Projahnmo Research Foundation, Bangladesh); Zemene
+ Tigabu (University of Gondar, Gondar, Ethiopia); Gashaw Andargie (University of
+ Gondar, Gondar, Ethiopia); Alemayehu Teklu (University of Gondar, Gondar, Ethiopia);
+ Ashenafi Tazebew (University of Gondar, Gondar, Ethiopia); Kassahun Alemu
+ (University of Gondar, Gondar, Ethiopia); Tadesse Awoke Ayele (University of Gondar,
+ Gondar, Ethiopia); Abebaw Gebeyehu (Amhara Regional Health Bureau, Ethiopia);
+ Sunita Taneja (Center for Health Research and Development, Society for Applied
+ Studies, India); Jasmine Kaur (Center for Health Research and Development,
+ Society for Applied Studies, India); Gunjan Aggarwal (Center for Health Research
+ and Development, Society for Applied Studies, India); Sudarshan Mundra (Center
+ for Health Research and Development, Society for Applied Studies, India); Amarnath
+ Mehrotra (Center for Health Research and Development, Society for Applied
+ Studies, India); Nita Bhandari (Center for Health Research and Development,
+ Society for Applied Studies, India); Suresh Dalpath (State Health System Resource
+ Centre, Haryana, India); Amneet P. Kumar (National Health Mission, Haryana, India);
+ Gomezgani Jenda (Malawi Country Office, Save the Children, US); Humphreys
+ Nsona (Ministry of Health, Malawi); Don P Mathanga (College of Medicine, Blantyre,
+ Malawi); Peter Moschovis (Pediatric Global Health, Massachusetts General Hospital,
+ Harvard Medical School, USA); Salim Sadruddin (Momentum Country and Global
+ Leadership, USAID Grantee); Lulu M Muhe (Retired staff World Health Organization);
+ Samira Aboubaker (Retired staff World Health Organization); Shamim Ahmad Qazi
+ (Retired staff World Health Organization); Rajiv Bahl (Department of Maternal,
+ Newborn, Child and Adolescent Health and Ageing, World Health Organization,
+ Geneva, Switzerland); Yasir Bin Nisar (Department of Maternal, Newborn, Child and
+ Adolescent Health and Ageing, World Health Organization, Geneva, Switzerland).
+ 
+<section> Funding This study was funded by Bill & Melinda Gates Foundation (OPP1109076/
+ INV-­008068).
+ 
+<section> Disclaimer This manuscript is an honest and accurate account of the study being
+ reported. No aspects of this study have been omitted or withheld.
+ 
+<section> Competing interests RB and YBN are the WHO staff members and SAQ, SA and
+ LMM are ex-­staff members, and their opinions and interpretations expressed in
+ this manuscript do not represent WHO policies or recommendations.
+ 
+<section> Patient consent for publication Consent obtained from parent(s)/guardian(s)
+ 
+<section> Ethics approval This study involves human participants and was approved by
+ —WHO ERC—Local IRB from each site. Participants gave informed consent to
+ participate in the study before taking part.
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data availability statement Data are available upon reasonable request. Data are
+ available upon request soon after publication.
+ 
+<section> Supplemental material This content has been supplied by the author(s). It has
+ not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been
+ peer-­reviewed. Any opinions or recommendations discussed are solely those
+ of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and
+ responsibility arising from any reliance placed on the content. Where the content
+ includes any translated material, BMJ does not warrant the accuracy and reliability
+ of the translations (including but not limited to local regulations, clinical guidelines,
+ terminology, drug names and drug dosages), and is not responsible for any error
+ and/or omissions arising from translation and adaptation or otherwise.
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution 4.0 Unported (CC BY 4.0) license, which permits others
+ to copy, redistribute, remix, transform and build upon this work for any purpose,
+ provided the original work is properly cited, a link to the licence is given, and indication
+ of whether changes were made. See: https://creativecommons.org/licenses/by/4.0/.
+ 
+<section> REFERENCES
+ 1 GBD 2017 Lower Respiratory Infections Collaborators. Quantifying
+ risks and interventions that have affected the burden of lower 
+<section> respiratory infections among children younger than 5 years: an
+ analysis for the global burden of disease study 2017. Lancet Infect
+ Dis 2020;20:60–79.
+ McAllister DA, Liu L, Shi T, et al. Global, regional, and national
+ estimates of pneumonia morbidity and mortality in children younger
+ than 5 years between 2000 and 2015: a systematic analysis. Lancet
+ Glob Health 2019;7:e47–57.
+ World Health Organization. Integrated management of childhood
+ illness (IMCI): chart booklet. Geneva, Switzerland: WHO, 2014.
+ https://www.who.int/maternal_child_adolescent/documents/IMCI_​
+ 
+<section> chartbooklet/en/
+ World Health Organization, UNICEF. Caring for the sick child in the
+ community. Geneva, Switzerland: WHO, 2011. https://www.who.int/​
+ maternal_child_adolescent/documents/caring-for-the-sick-child/en/
+ Addo-­Yobo E, Chisaka N, Hassan M, et al. Oral amoxicillin versus
+ injectable penicillin for severe pneumonia in children aged 3 to
+ 59 months: a randomised multicentre equivalency study. Lancet
+ 2004;364:1141–8.
+ Atkinson M, Lakhanpaul M, Smyth A, et al. Comparison of oral
+ amoxicillin and intravenous benzyl penicillin for community
+ acquired pneumonia in children (pivot trial): a multicentre pragmatic
+ randomised controlled equivalence trial. Thorax 2007;62:1102–6.
+ Hazir T, Fox LM, Nisar YB, et al. Ambulatory short-­course high-­dose
+ oral amoxicillin for treatment of severe pneumonia in children: a
+ randomised equivalency trial. Lancet 2008;371:49–56.
+ Addo-­Yobo E, Anh DD, El-­Sayed HF, et al. Outpatient treatment
+ of children with severe pneumonia with oral amoxicillin in four
+ countries: the mass study. Trop Med Int Health 2011;16:995–1006.
+ World Health Organization. Revised WHO classification and
+ treatment of childhood pneumonia at health facilities: evidence
+ summaries, 2014. Switzerland: WHO. Available: https://apps.who.​
+ int/iris/bitstream/handle/10665/137319/9789241507813_eng.pdf?​
+ 
+<section> sequence=1
+ Patel AB, Bang A, Singh M, et al. A randomized controlled trial
+ of hospital versus home based therapy with oral amoxicillin for
+ severe pneumonia in children aged 3 - 59 months: The IndiaCLEN
+ Severe Pneumonia Oral Therapy (ISPOT) Study. BMC Pediatr
+ 2015;15:186.
+ Agweyu A, Gathara D, Oliwa J, et al. Oral amoxicillin versus
+ benzyl penicillin for severe pneumonia among Kenyan children: a
+ pragmatic randomized controlled noninferiority trial. Clin Infect Dis
+ 2015;60:1216–24.
+ Bari A, Sadruddin S, Khan A, et al. Community case management of
+ severe pneumonia with oral amoxicillin in children aged 2-­59 months
+ in Haripur district, Pakistan: a cluster randomised trial. Lancet
+ 2011;378:1796–803.
+ Soofi S, Ahmed S, Fox MP, et al. Effectiveness of community case
+ management of severe pneumonia with oral amoxicillin in children
+ aged 2-­59 months in Matiari district, rural Pakistan: a cluster-­
+ randomised controlled trial. Lancet 2012;379:729–37.
+ Onono M, Abdi M, Mutai K, et al. Community case management of
+ lower chest indrawing pneumonia with oral amoxicillin in children in
+ Kenya. Acta Paediatr 2018;107 Suppl 471:44–52.
+ Lazzerini M, Sonego M, Pellegrin MC. Hypoxaemia as a mortality
+ risk factor in acute lower respiratory infections in children in low
+ and middle-­income countries: systematic review and meta-­analysis.
+ 
+<section> PLoS One 2015;10:e0136166.
+ World Health Organization. Oxygen therapy for children: a manual
+ for health workers, 2016. Switzerland: World Health Organization.
+ 
+<section> Available: https://apps.who.int/iris/bitstream/handle/10665/204584/​
+ 9789241549554_eng.pdf?sequence=1
+ World Health Organization, UNICEF. Ending preventable deaths:
+ global action plan for prevention and control of pneumonia and
+ diarrhoea, 2013. World Health Organization/The United Nations
+ Children’s Fund (UNICEF). Available: https://www.who.int/woman_​
+ child_accountability/news/gappd_2013/en/#:~:text=The%20goal%​
+ 20of%20the%20newly,1%20in%201000%20by%202025
+ Kirolos A, Ayede AI, Williams LJ, et al. Care seeking behaviour
+ and aspects of quality of care by caregivers for children under
+ five with and without pneumonia in Ibadan, Nigeria. J Glob Health
+ 2018;8:020805–05.
+ Geldsetzer P, Williams TC, Kirolos A, et al. The recognition of and
+ care seeking behaviour for childhood illness in developing countries:
+ a systematic review. PLoS One 2014;9:e93427.
+ Nonyane BA, Kazmi N, Koffi AK, et al. Factors associated with delay
+ in care-­seeking for fatal neonatal illness in the Sylhet district of
+ 
+<section> Bangladesh: results from a verbal and social autopsy study. J Glob
+ Health 2016;6:010605–05.
+ Kozuki N, Guenther T, Vaz L, et al. A systematic review of
+ community-­to-­facility neonatal referral completion rates in Africa and
+ Asia. BMC Public Health 2015;15:989.
+ 
+<section> 22 Bigogo G, Audi A, Aura B, et al. Health-­seeking patterns among
+ participants of population-­based morbidity surveillance in rural
+ 
+<section> Western Kenya: implications for calculating disease rates. Int J Infect
+ Dis 2010;14:e967–73.
+ 23 Gombojav N, Manaseki-­Holland S, Pollock J, et al. The effects of
+ social variables on symptom recognition and medical care seeking
+ behaviour for acute respiratory infections in infants in urban
+ Mongolia. Arch Dis Child 2009;94:849–54.
+ 24 Uzochukwu BSC, Onwujekwe OE, Akpala CO. Community
+ satisfaction with the quality of maternal and child health services in
+ Southeast Nigeria. East Afr Med J 2004;81:293–9.
+ 25 UNICEF. State of the World’s Children 2019, 2020. UNICEF.
+ Available: https://data.unicef.org/resources/sowc-2019-statistical-​
+ tables-and-interactive-dashboard/
+ 26 Prosnitz D, Herrera S, Coelho H, et al. Evidence of impact: ICCM
+ as a strategy to save lives of children under five. J Glob Health
+ 2019;9:010801–01.
+ 27 Oresanya O, Counihan H, Nndaliman I, et al. Effect of community-­
+ based intervention on improving access to treatment for sick under-­
+ five children in hard-­to-­reach communities in niger state, Nigeria. J
+ Glob Health 2019;9:010803–03.
+ 28 Isiguzo C, Herrera S, Ufere J, et al. Improving access to appropriate
+ case management for common childhood illnesses in hard-­to-­reach
+ areas of Abia state, Nigeria. J Glob Health Rep 2019;3:e2019030.
+ 29 Enhanced Management of Pneumonia in Community (EMPIC)
+ Study Group. Community case management of chest indrawing
+ pneumonia in children aged 2 to 59 months by community health
+ workers: study protocol for a multi-­country cluster randomized open
+ label non-­inferiority trial. Int J Clin Trials 2020;7:131–41.
+ 30 World Health Organization, UNICEF. Caring for newborns and
+ children in the community: a training course for community health
+ workers, 2015. Geneva, Switzerland: who, UNICEF. Available:
+ https://www.who.int/maternal_child_adolescent/documents/​
+ community-care-newborns-children/en/
+ 31 Taneja S, Dalpath S, Bhandari N, et al. Operationalising integrated
+ community case management of childhood illnesses by community
+ health workers in rural Haryana. Acta Paediatr 2018;107 Suppl
+ 471:80–8.
+ 32 Enhanced Management of Pneumonia in Community (EMPIC) Study
+ Group, Mothabbir G, Rana S, et al. Management of fast breathing
+ pneumonia in young infants aged 7 to 59 days by community level
+ health workers: protocol for a multi-­centre cluster randomized
+ controlled trial. Int J Clin Trials 2020;7:83–93.
+ 33 Enhanced Management of Pneumonia in Community (EMPIC) Study,
+ Nisar YB. Community-­Based amoxicillin treatment for fast breathing
+ pneumonia in young infants 7-­59 days old: a cluster randomised trial
+ in rural Bangladesh, Ethiopia, India and Malawi. BMJ Glob Health
+ 2021;6:e006578.
+ 34 McCollum ED, King C, Deula R, et al. Pulse oximetry for children
+ with pneumonia treated as outpatients in rural Malawi. Bull World
+ Health Organ 2016;94:893–902.
+ 35 McCollum ED, Nambiar B, Deula R, et al. Impact of the 13-­Valent
+ pneumococcal conjugate vaccine on clinical and hypoxemic
+ childhood pneumonia over three years in central Malawi: an
+ observational study. PLoS One 2017;12:e0168209.
+ 36 Colbourn T, King C, Beard J, et al. Predictive value of pulse oximetry
+ for mortality in infants and children presenting to primary care with
+ clinical pneumonia in rural Malawi: a data linkage study. PLoS Med
+ 2020;17:e1003300–e00.
+ 37 Agweyu A, Lilford RJ, English M, et al. Appropriateness of clinical
+ severity classification of new WHO childhood pneumonia guidance:
+ a multi-­hospital, retrospective, cohort study. Lancet Glob Health
+ 2018;6:e74–83.
+ 38 Källander K, Hildenwall H, Waiswa P, et al. Delayed care seeking for
+ fatal pneumonia in children aged under five years in Uganda: a case-­
+ series study. Bull World Health Organ 2008;86:332–8.
+ 39 Buchner DL, Brenner JL, Kabakyenga J, et al. Stakeholders'
+ perceptions of integrated community case management by
+ community health workers: a post-­intervention qualitative study.
+ 
+<section> PLoS One 2014;9:e98610.
+ 40 Shaw BI, Asadhi E, Owuor K, et al. Perceived quality of care
+ of community health worker and Facility-­Based health worker
+ management of pneumonia in children under 5 years in Western
+ 
+<section> Kenya: a cross-­sectional multidimensional study. Am J Trop Med
+ Hyg 2016;94:1170–6.
+ 41 Zhang S, Sammon PM, King I, et al. Cost of management of severe
+ pneumonia in young children: systematic analysis. J Glob Health
+ 2016;6:010408–08.
+ 42 Sadruddin S, Shehzad S, Bari A, et al. Household costs for
+ treatment of severe pneumonia in Pakistan. Am J Trop Med Hyg
+ 2012;87:137–43. 
+<section> 43 Machuki JA, Aduda DSO, Omondi Abong'o B, et al. Patient-­Level
+ cost of home- and facility-­based child pneumonia treatment in Suba
+ sub County, Kenya. PLoS One 2019;14:e0225194–e94.
+ 44 Druetz T, Siekmans K, Goossens S, et al. The community case
+ management of pneumonia in Africa: a review of the evidence.
+ 
+<section> Health Policy Plan 2015;30:253–66.
+ 45 Ameha A, Karim AM, Erbo A, et al. Effectiveness of supportive
+ supervision on the consistency of integrated community cases
+ management skills of the health extension workers in 113 districts of
+ Ethiopia. Ethiop Med J 2014;52 Suppl 3:65–71.
+ 46 Nsibande D, Loveday M, Daniels K, et al. Approaches and strategies
+ used in the training and supervision of health extension workers
+ (HEWs) delivering integrated community case management (iCCM)
+ of childhood illness in Ethiopia: a qualitative rapid appraisal. Afr
+ Health Sci 2018;18:188–97.
+ 47 O'Donovan J, O'Donovan C, Kuhn I, et al. Ongoing training of
+ community health workers in low-­income andmiddle-­income
+ countries: a systematic scoping review of the literature. BMJ Open
+ 2018;8:e021467.
+ 48 Zalisk K, Guenther T, Prosnitz D, et al. Achievements and challenges
+ of implementation in a mature iCCM programme: Malawi case study.
+ 
+<section> J Glob Health 2019;9:010807.
+ 49 Hooli S, King C, Zadutsa B, et al. The epidemiology of hypoxemic
+ pneumonia among young infants in Malawi. Am J Trop Med Hyg
+ 2020;102:676–83.
+ 50 Saha SK, Schrag SJ, El Arifeen S, et al. Causes and incidence
+ of community-­acquired serious infections among young children
+ in South Asia (ANISA): an observational cohort study. Lancet
+ 2018;392:145–59.
+ 
+<section> 51 Jehan F, Nisar I, Kerai S, et al. Should fast breathing pneumonia
+ cases be treated with antibiotics? The scientific rationale for
+ revisiting management in low and middle income countries. Int J
+ Infect Dis 2019;85:64–6.
+ 52 Qazi SA, Rehman GN, Khan MA. Standard management of acute
+ respiratory infections in a children's hospital in Pakistan: impact
+ on antibiotic use and case fatality. Bull World Health Organ
+ 1996;74:501–7.
+ 53 Gouws E, Bryce J, Habicht J-­P, et al. Improving antimicrobial use
+ among health workers in first-­level facilities: results from the multi-­
+ country evaluation of the integrated management of childhood
+ illness strategy. Bull World Health Organ 2004;82:509–15.
+ 54 Graham K, Sinyangwe C, Nicholas S, et al. Rational use of
+ antibiotics by community health workers and caregivers for children
+ with suspected pneumonia in Zambia: a cross-­sectional mixed
+ methods study. BMC Public Health 2016;16:897.
+ 55 Ginsburg A-­S, Mvalo T, Nkwopara E, et al. Amoxicillin for 3 or 5 days
+ for chest-­indrawing pneumonia in Malawian children. N Engl J Med
+ 2020;383:13–23.
+ 56 Shah SN, Bachur RG, Simel DL, et al. Does this child have
+ pneumonia?: The rational clinical examination systematic review.
+ 
+<section> JAMA 2017;318:462–71.
+ 57 Rees CA, Basnet S, Gentile A, et al. An analysis of clinical predictive
+ values for radiographic pneumonia in children. BMJ Glob Health
+ 2020;5:e002708.
+ 58 Pneumonia Etiology Research for Child Health (PERCH) Study
+ Group. Causes of severe pneumonia requiring hospital admission
+ in children without HIV infection from Africa and Asia: the PERCH
+ multi-­country case-­control study. Lancet 2019;394:757–79.

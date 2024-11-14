@@ -1,0 +1,1303 @@
+
+<section> Promoting early childhood development
+ 
+<section> cost-effectiveness analysis alongside
+ 
+<section> trial
+ 
+<section> Yeji Baek, Zanfina Ademi, Thach Tran, Alice Owen, Trang Nguyen, Stanley Luchters, David
+ Beverley-Ann Biggs, Jane Fisher
+ 
+<section> Summary
+ 
+<section> Background Economic evaluations are critical to ensure effective
+ development interventions. This study aimed to estimate the cost-effectiveness
+ development intervention in rural Viet Nam.
+ 
+<section> Methods We did a cost-effectiveness study alongside a cluster-randomised
+ study included 669 mothers from 42 communes in the intervention
+ the control group. Mothers in the intervention group attended Learning
+ 12 months after delivery. The primary outcomes were child cognitive,
+ development at age 2 years. In this analysis, we estimated the incremental
+ intervention compared with the usual standard of care from the service
+ used non-parametric bootstrapping to examine uncertainty, and applied
+ 
+<section> Findings The total intervention cost was US$169 898 (start-up cost $133
+ cost per child was $58 (1 341 741 Vietnamese dong). Considering the
+ $14 and mean ICER of 1000 bootstrap samples was $14 (95% CI –0·48
+ with a 3% discount rate to costs. The ICER per language and motor
+ respectively, with a 3% discount rate to costs.
+ 
+<section> Interpretation The intervention was cost-effective: the ICER per child
+ of Viet Nam’s gross domestic product per capita, alongside other benefits
+ finding supports the scaling up of this intervention in similar socioeconomic
+ 
+<section> Funding Australian National Health and Medical Research Council and
+ 
+<section> Copyright © 2023 The Author(s). Published by Elsevier Ltd. This
+ 
+<section> license.
+ 
+<section> Introduction 
+<section> ages 0 to
+ The early years of children’s lives provide a foundation for society,
+ their lifelong health and wellbeing. Children’s brains economic
+ develop rapidly, and children acquire cognitive, language, programmes
+ and social–emotional competencies in early childhood. the USA
+ The significance of early childhood development (ECD) considering
+ has been recognised widely, including in the life, the
+ 2030 Sustainable Development Goals (SDGs) target 4.2 (to crime, and
+ ensure that all girls and boys have access to quality early of investing
+ childhood development, care, and preprimary education professionals,
+ so that they are ready for primary education). The 2017 optimal
+ Lancet Series on early childhood development highlights maximise
+ that the most promotive experiences in the early years of analyses
+ life come from nurturing care and protection from beneficial
+ parents, family, and community. 1 Nurturing care, as an beyond
+ overarching concept, requires multisectoral intervention external
+ packages across health, nutrition, education, child multicomponent
+ protection, and social protection. widely done
+ Heckman and colleagues have shown that early Emerging
+ nurturing, learning experiences, and physical health from 
+<section> Pakistan
+ 
+<section> Articles
+ 
+<section> in Viet Nam:
+ 
+<section> a cluster-randomised
+ 
+<section> B Hipgrave, Sarah Hanieh, Tuan Tran, Ha Tran,
+ 
+<section> resource use to implement and scale up child Lancet Glob Health 2023;
+ of a multicomponent early childhood 11: e1269–76
+ 
+<section> See 
+<section> Comment page e1154
+ 
+<section> For the Vietnamese translation
+ trial with a 30-month time horizon. The of the abstract see 
+<section> Online for
+ group, and 576 mothers from 42 communes in appendix
+ 
+<section> Clubs sessions from mid-pregnancy to School of Public Health and
+ 
+<section> Preventive Medicine
+ 
+<section> language, motor, and social–emotional (Y Baek MPH, Prof Z Ademi PhD,
+ cost-effectiveness ratios (ICERs) of the Thach Tran PhD, A Owen PhD,
+ provider and household perspectives. We Prof J Fisher PhD) and Centre for
+ a 3% discount rate. Medicine Use and Safety,
+ 
+<section> Faculty of Pharmacy and
+ 
+<section> Pharmaceutical Sciences
+ 692 and recurrent cost $36 206). The recurrent (Prof Z Ademi), 
+<section> Monash
+ recurrent cost alone, the base-case ICER was University, Melbourne, VIC,
+ to 30) per cognitive development score gained Australia; Research and
+ 
+<section> Training Centre for Community
+ development score gained was $22 and $20, Development, Hanoi, Viet Nam
+ 
+<section> (T Nguyen PhD, Tuan Tran PhD,
+ 
+<section> H Tran MPH); 
+<section> Centre for Sexual
+ cognitive development score gained was 0·5% Health Harare, and Zimbabwe HIV AIDS Research,
+ 
+<section> in language and motor development. This (Prof S Luchters PhD); 
+<section> Liverpool
+ 
+<section> settings. 
+<section> School of Tropical Medicine,
+ 
+<section> Liverpool, UK (Prof S Luchters);
+ 
+<section> Department of Public Health
+ 
+<section> Grand Challenges Canada. and Primary Care, Ghent
+ 
+<section> University, Ghent, Belgium
+ is an Open Access article under the CC BY 4.0 (Prof S Luchters); 
+<section> UNICEF,
+ 
+<section> Baghdad, Iraq
+ 
+<section> (D B Hipgrave PhD); 
+<section> Melbourne
+ 
+<section> School of Population and
+ 5 years substantially affect success or failure in 
+<section> Global Health (D B Hipgrave)
+ conceptualised as the Heckman equation. Their and Department of Medicine
+ analysis showed that high quality birth-to-five and Victorian Infectious
+ 
+<section> Diseases Service at the Doherty
+ for children who are disadvantaged in 
+<section> Institute (S Hanieh PhD,
+ can deliver a 13% per year return on investment, Prof B-A Biggs PhD), 
+<section> University
+ beneficial effects on health and the quality of of Melbourne, Melbourne, VIC,
+ labour incomes of participants and mothers, 
+<section> Australia
+ education. 2 Understanding the economic value 
+<section> Correspondence to:
+ 
+<section> Prof Jane Fisher, School of Public
+ in ECD can influence policy makers, health Health and Preventive Medicine,
+ and donors. Economic analyses can support Monash University, Melbourne,
+ resource allocation and priority setting to VIC 3004, Australia
+ health benefits and efficiency. Cost-effectiveness jane.fisher@monash.edu
+ 
+<section> alongside clinical studies are particularly For more on the 
+<section> Sustainable
+ because they broaden the scope of information 
+<section> Development https://unstats.un.org/sdgs/ 
+<section> Goals see
+ 
+<section> clinical efficacy with high internal and reasonable
+ 
+<section> For more on the 
+<section> Heckman
+ validity. 3 However, economic analyses of equation see https://
+ 
+<section> interventions for ECD have not been heckmanequation.org/
+ in low-income and middle-income countries.
+ evidence from China, 4 India , Kenya, 6 and
+ suggest that ECD interventions could be 
+<section> Articles
+ 
+<section> Research in context
+ 
+<section> Evidence before this study
+ We searched PubMed for economic evaluations alongside
+ clinical studies that assessed multicomponent early child
+ development (ECD) interventions in low-income and middle-
+ income countries published between Jan 1, 2000, and
+ Dec 31, 2021. The key search terms were “economic
+ evaluation”, “early childhood development”, and “low- and
+ middle-income countries” with no language restriction.
+ Additionally, we undertook backward citation searching to
+ supplement database searching.
+ 
+<section> Four relevant studies were identified: a study from Pakistan
+ published in 2014, two studies from India and China in 2020,
+ and a study from Kenya in 2021. In Pakistan, early childhood
+ interventions that include responsive stimulation were more
+ cost-effective than a nutrition intervention alone in
+ promoting ECD. Mother and child group sessions in India were
+ as effective as home visiting at a lower cost. In addition, the
+ integration of a parenting intervention within existing
+ primary health care in China was cost-effective to improve
+ ECD. Lastly, a study from Kenya indicated that the private and
+ social returns of a parenting intervention are likely to largely
+ outweigh its costs.
+ 
+<section> The existing evidence notes that ECD interventions are more
+ likely to be cost-effective. However, we did not find any
+ relevant studies from Viet Nam, and the small number of
+ studies suggests that there is scarce economic evidence.
+ 
+<section> Added value of this study
+ Our study estimated the cost-effectiveness of the Learning
+ Clubs multicomponent ECD intervention compared with the
+ cost-effective, but more research is needed to understand
+ their economic value and ways to promote optimal
+ resource allocation.
+ The General Statistics Office of Viet Nam and UNICEF
+ have measured Viet Nam’s progress towards realising the
+ SDG indicators for children and women in 2020–21.
+ There were skilled attendants at 96% of births, the
+ mortality rate in children younger than 5 years was
+ 14 per 1000 births, and 45% of children younger than
+ 6 months were exclusively breastfed. 8 Regarding child
+ care, only 65% of children aged 24–59 months received
+ early stimulation and responsive care from any adult
+ household member, 8 suggesting that more investment in
+ this area is needed. Multicomponent interventions are
+ recommended to provide nurturing care by targeting
+ multiple risks to child developmental potential.
+ Implementing multi­ component interventions requires
+ resources, and evidence on cost-effectiveness of inter­
+ ventions is crucial to guide strategic budgeting and priority
+ setting to accelerate ECD especially in resource-constrained
+ settings. Thus, this study aimed to estimate the cost-
+ effectiveness of the multicomponent ECD Learning Clubs
+ intervention done in rural Viet Nam from 2018 to 2021.
+ 
+<section> usual standard of care (pregnancy and child health-care
+ services from commune health services) in rural Viet Nam.
+ Mothers in the intervention group attended eight group
+ sessions during pregnancy, had one home visit after giving
+ birth, and had 11 group sessions during the first postpartum
+ year in addition to the standard of care. The outcomes were
+ child cognitive, language, motor, and social–emotional
+ development scores at age 2 years. Cost data included
+ intervention costs, mothers’ time for participation, and out-
+ of-pocket health-care costs.
+ The intervention was effective and low cost. Based on the
+ recurrent cost, the incremental cost-effectiveness ratio per
+ score increase in child cognitive development was US$14,
+ which is around 0·5% of Viet Nam’s gross domestic product
+ per capita, alongside other benefits in language and motor
+ development. This finding supports the scaling up of this
+ intervention in similar socioeconomic settings. In addition, it
+ contributes to the scarce economic evidence on investments
+ in ECD in resource-constrained settings.
+ 
+<section> Implications of all the available evidence
+ The current evidence supports the economic benefits of
+ investments in ECD. More economic evaluations, including
+ studies with long-term time horizons, standardised outcomes
+ that combine programme benefits, and equity considerations
+ are required for strategic planning and resource allocation to
+ reach optimal ECD.
+ 
+<section> Methods
+ Study design and participants
+ The Learning Clubs trial was a multicomponent
+ intervention designed to improve the physical and
+ mental health of mothers and the health and
+ development of their infants in HaNam, a rural Red
+ River delta province in northern Viet Nam. 9 According
+ to the protocol, an independent statistician randomly
+ selected 84 communes from the HaNam Province list
+ of 116 communes, and allocated 42 communes to each
+ trial arm using random numbers generated in Stata
+ version 9 The number of clusters and sample size
+ were calculated using Stata to detect a difference in
+ child cognitive development score ≤1 SD at age 2 years
+ of 15% in the control group and 8% in the intervention
+ group with 80% statistical power, a significance level
+ of 0·05, and an intracluster correlation coefficient of
+ 0·03. 9 Enrolment was completed in 2018, resulting in
+ 669 mothers from 42 communes in the intervention
+ group, and 576 mothers from 42 communes in the
+ control group (usual standard of care). Mothers who
+ were aged at least 18 years, pregnant, and at a gestation
+ of less than 20 weeks, were eligible to participate. 
+<section> Data on baseline characteristics were collected at and supplies
+ recruitment. 
+<section> books),
+ Mothers in the intervention group attended eight not occur
+ group sessions during pregnancy, had one home visit would occur
+ after giving birth, and had 11 group sessions during the included
+ first postpartum year. The sessions followed a structured supervision
+ curriculum comprising stage-specific information salaries
+ and participatory learning opportunities to address Learning
+ multiple risks to ECD. Other caregivers, including support
+ fathers and grandparents, also joined the sessions facilitators’
+ when feasible. The intervention addressed maternal their salaries
+ nutrition and mental health, parenting capabilities, kindergarten
+ infant health and development, and gender norms volunteers,
+ through participatory group-based learning activities, dong (VND;
+ including short videos, roleplay, problem-solving wage in
+ discussions, and demonstrations of caregiving for Mothers’
+ optimal ECD. All content was validated by the Maternal calculated
+ and Child Health Department of the Ministry of Health Learning
+ for alignment with national policies and programmes in 16 591 VND
+ Viet Nam. Mothers in the intervention group were also wage in
+ able to access their usual standard of care, including costs for
+ pregnancy and child health care from commune health structured
+ services (eg, antenatal and postnatal care, birth in a and outpatient
+ medical facility, nutrition, sexual and reproductive and outpatient
+ health education, national growth monitoring, and 12 months,
+ immunisation programmes). Mothers in the control and hospitalisation
+ group received only the usual standard of care. Costs
+ The time horizon was 30 months. 10 Mothers in the to US$
+ intervention group attended Learning Clubs sessions for the costs
+ 18 months, from mid-pregnancy to when their children International
+ were age 1 year. The outcomes were measured when all currencies
+ children were age 2 years, after a 12-month follow-up international
+ period. The trial has been described elsewhere, including
+ the study protocols for economic and process 
+<section> Outcomes
+ evaluations. 9–11 As part of economic evaluations, this Because
+ study focused on cost-effectiveness, cost-consequence, improve
+ and cost-utility analyses. Return on investment analysis primary
+ and potential effects of scaling the intervention up cognitive,
+ nationally will be the scope of another study, which domains
+ requires a modelling approach to estimate long-term Bayley Scales
+ economic benefits of the intervention. Edition.
+ Approval for the project was provided by the Monash at community
+ University Human Research Ethics Committee (certificate assesses
+ number 20160683), Melbourne, VIC, Australia, and the early memory
+ Institutional Review Board of the Hanoi School of Public formation.
+ Health (certificate number 017-017-377IDD-YTCC), Hanoi, and expressive
+ Viet Nam. Participants provided informed consent. assesses
+ emotional
+ 
+<section> Costs 
+<section> and related
+ We collected costs from the service provider and standardised
+ household perspectives. An accountant recorded the matched
+ implementation cost of the intervention every month SD of 15
+ using a granular approach to present unit cost with The
+ quantity for each cost category. The costs were divided women’s
+ into start-up and recurrent costs (table 1). Start-up costs appendix
+ included Learning Clubs package development trained
+ (eg, family books, manuals, and video clips), materials trial arms.
+ 
+<section> Articles
+ 
+<section> (eg, manuals, posters, dolls, toys, and
+ workshops, and training. Start-up costs would
+ every year but typically a lower cost revision
+ within a span of 2–5 years. Recurrent costs
+ personnel, Learning Clubs session costs, and
+ or management costs. Personnel costs were
+ for a project coordinator. Costs for organising
+ Clubs sessions included tea breaks, travel
+ for facilitators, food for nutrition education, and
+ time. Facilitators’ time was valued based on
+ for commune health workers and
+ teachers. Women’s union members were
+ and their time was valued at 16 591 Vietnamese
+ US$0·72) per hour, based on the minimum
+ Viet Nam.
+ time to participate in the intervention was
+ according to the running time for each
+ Clubs session. Their time was also valued at
+ ($0·72) per hour, based on the minimum
+ Viet Nam. 12 In addition, out-of-pocket health-care
+ mothers and children were collected through
+ interviews. Mothers reported their inpatient
+ costs during pregnancy, and inpatient
+ costs for their children from birth to
+ including medication, medical examination,
+ costs.
+ were collected in VND in 2018–19 and converted
+ ($1=23 050·24 VND). 13 In addition, we reported
+ in VND and international dollars based on the
+ Monetary Fund rates in 2019, 14 as reporting
+ could be useful for national and
+ policy makers.
+ 
+<section> this was a multicomponent intervention to
+ ECD, several outcomes were assessed. The
+ outcomes were child development in terms of
+ language, motor, and social–emotional
+ at the age of 2 years, which was assessed by the
+ of Infant and Toddler Development, Third
+ 15 Child development outcomes were measured
+ health stations. The cognitive subscale
+ sensorimotor manipulation and exploration,
+ and problem-solving skills, and concept
+ The language subscale measures receptive
+ communication. The motor subscale
+ fine and gross motor skills. The social–
+ subscale measures emotional development
+ behaviours. The scores were converted to
+ composite scores on the basis of the age-
+ and sex-matched norms with a mean of 100 and
+ (ranging from 40 to 160) for general comparisons.
+ secondary outcomes including infant health,
+ health, and home environment are in
+ 2 (pp 1–4). All outcomes were assessed by a See 
+<section> Online for appendix
+ research team masked to the allocation of the 
+<section> Articles
+ 
+<section> Unit cost 
+<section> Quantity 
+<section> Total
+ 
+<section> Start-up cost
+ 
+<section> Package development
+ 
+<section> Development of family 
+<section> $61
+ books, manuals, and video
+ 
+<section> clips
+ 
+<section> Revisions based on 
+<section> $2180
+ 
+<section> comments from provincial
+ 
+<section> agencies and family
+ 
+<section> participants
+ 
+<section> Translation and 
+<section> $2429
+ 
+<section> proofreading
+ 
+<section> Pilot testing 
+<section> $4587
+ 
+<section> Materials and supplies
+ 
+<section> Participant manuals 
+<section> $5·43
+ 
+<section> Facilitator manuals 
+<section> $0·86 
+<section> 1000
+ 
+<section> Posters 
+<section> $1·29
+ 
+<section> Leaflets 
+<section> $0·08 
+<section> 2000
+ 
+<section> USBs 
+<section> $6·46
+ 
+<section> Dolls 
+<section> $26
+ 
+<section> First aid manikin 
+<section> $1283
+ 
+<section> Toys and books 
+<section> $65
+ 
+<section> Yoga mats 
+<section> $6·51
+ 
+<section> Bathing sets 
+<section> $56
+ 
+<section> Baby illness care kits 
+<section> $4·28
+ 
+<section> Workshops
+ 
+<section> Launching workshops 
+<section> $6790
+ 
+<section> Technical workshop at 
+<section> $369
+ 
+<section> province level
+ 
+<section> Technical workshop at 
+<section> $1048
+ 
+<section> commune levels
+ 
+<section> Training
+ 
+<section> Training for provincial 
+<section> $1058
+ 
+<section> trainers
+ 
+<section> Training for commune 
+<section> $9774
+ 
+<section> facilitators: course
+ Training for commune 
+<section> $5419
+ 
+<section> facilitators: course
+ Training for commune 
+<section> $5340
+ 
+<section> facilitators: course
+ Training for commune 
+<section> $5340
+ 
+<section> facilitators: course
+ Training for commune 
+<section> $5261
+ 
+<section> facilitators: course
+ Training supervision 
+<section> $1368
+ 
+<section> Total start-up cost 
+<section> ·· 
+<section> ·· 
+<section> $133
+ (Table 1 continues in next
+ 
+<section> Statistical analysis
+ The intervention cost per child was calculated
+ dividing the total costs of the intervention by the
+ of children in the trial. The total incremental
+ included the intervention cost per child and incremental
+ out-of-pocket health-care costs compared
+ control group. To estimate the mean difference
+ and effects, we used generalised linear mixed
+ based on the intention-to-treat principle. We
+ SAS GLIMMIX procedure with gaussian family
+ 
+<section> costs 
+<section> Unit cost 
+<section> Quantity 
+<section> Total costs
+ 
+<section> (Continued from previous column)
+ 
+<section> Recurrent cost
+ 
+<section> $61 Personnel
+ 
+<section> Project coordinator per 
+<section> $249 
+<section> $4489
+ 
+<section> month
+ 
+<section> $2180 
+<section> Session costs
+ 
+<section> Tea breaks, photocopying 
+<section> $431 
+<section> $18
+ for session reminders,
+ 
+<section> travel support for
+ 
+<section> $2429 
+<section> facilitators, and
+ 
+<section> communication costs per
+ 
+<section> $4587 
+<section> commune
+ 
+<section> Nutrition sessions per 
+<section> $171 
+<section> $7182
+ 
+<section> $4341 
+<section> commune
+ $858 Commune health workers’ $1·89 $38
+ 
+<section> opportunity cost per hour
+ 
+<section> $388
+ 
+<section> Women’s union members’ 
+<section> $0·72 
+<section> $4·29
+ 
+<section> $152 
+<section> opportunity cost per hour
+ $646 Kindergarten teachers’ $1·55 $9·29
+ 
+<section> $3905 
+<section> opportunity cost per hour
+ 
+<section> $1283 
+<section> Supervision and management
+ $2903 Supervision at central level $64 $1932
+ 
+<section> $1041 
+<section> per trip
+ $2538 Supervision at provincial $11 $3387
+ 
+<section> $192 
+<section> and person-days 
+<section> district levels per
+ 
+<section> Management at provincial 
+<section> $44 
+<section> $786
+ 
+<section> $6790 
+<section> level per month
+ $369 Management meetings at $112 $224
+ 
+<section> commune level per
+ 
+<section> $1048 
+<section> meeting
+ 
+<section> Household costs
+ 
+<section> Participation cost per hour 
+<section> $0·72 
+<section> $25
+ $4232 Travelling time per hour $0·72 6·3 $4·51
+ 
+<section> Fuel cost per km 
+<section> $0·03 
+<section> $9·50
+ 
+<section> $9774 
+<section> Total recurrent cost 
+<section> ·· 
+<section> ·· 
+<section> $36
+ 
+<section> $5419 
+<section> Total cost 
+<section> ·· 
+<section> ·· 
+<section> $169
+ Total cost per child 
+<section> ·· 
+<section> ·· 
+<section> $273
+ 
+<section> $5340 
+<section> Recurrent cost per child 
+<section> ·· 
+<section> ·· 
+<section> $58
+ Cost data were collected in VND and converted to US$ ($1=23 050·24 VND) in the
+ $5340 year 2019. Numbers might not add up due to rounding. VND=Vietnamese dong.
+ 
+<section> $5261 
+<section> Table 1: 
+<section> Cost of intervention
+ 
+<section> $1368
+ 
+<section> identity link including random intercepts. The models
+ were adjusted for cluster effects with a SUBJECT option
+ 
+<section> column)
+ 
+<section> in the RANDOM statement. The costs and outcome
+ results are presented as mean and 95% CI. The
+ arithmetic mean is the usual summary statistic to
+ by consider the total cost and total effect from the budgetary
+ number perspective, and the minimisation of the mean cost and
+ costs maximisation of the mean effect from the social
+ perspective. 16 We did analyses for study protocol specified
+ with the outcomes (appendix 2 pp 1–4).
+ in costs The incremental cost-effectiveness ratios (ICERs) were
+ models estimated by dividing the mean difference in costs by
+ used the the mean difference in effects. The ICERs represent
+ and additional cost per additional unit of health effect gained. 
+<insert> the vertical axis and the difference in effects on the
+ horizontal axis on the four quadrants of cost-effectiveness
+ plane to visually represent the uncertainty around cost-
+ effectiveness from 1000 estimates. Cost-consequence
+ analyses for secondary outcomes are presented in
+ appendix 2 (pp 1–4).
+ We did multiple imputations to handle missing data on
+ out-of-pocket health-care costs. There were 238 (20%)
+ missing cases for maternal health-care costs, and 44 (4%)
+ missing cases for child health-care costs (appendix
+ pp 5–6). The imputed values were estimated with the log
+ Table 2: Out-of-pocket health-care costs
+ Intervention Control Mean difference
+ Cognitive 99·7 (98·7 to 100·7) 95·7 (94·6 to 96·7)
+ Language 99·5 (98·2 to 100·9) 97·0 (95·6 to 98·5)
+ 4·0 (2·5 to 5·5)
+ 2·5 (0·5 to 4·4)
+ Motor 104·0 (103·0 to 105·1) 101·3 (100·2 to 102·4) 2·7 (1·2 to 4·2)
+ Social–emotional 103·2 (100·5 to 105·8) 100·9 (98·2 to 103·6) 2·3 (–1·5 to 6·1)
+ Data are mean (95% CI). The standardised composite score adjusted for child age and sex was measured by the Bayley
+ Scales of Infant and Toddler Development, Third Edition. Cluster effects were adjusted for using SUBJECT in the
+ RANDOM statement in the SAS GLIMMIX procedure. 
+<iend>
+
+ 
+<insert> multiple imputation predictive mean matching algorithm
+ considering the zero-inflated cost data in economic
+ evaluations as recommended. 3,17 The imputed values
+ were estimated on the basis of sociodemographic
+ characteristics, including age, education level and
+ occupation of mothers and fathers, household wealth,
+ and the number of household members from
+ imputations.
+ For discounting, we followed WHO’s methods for the
+ economic evaluation of health care-assigned interven­
+ tions. 18 Due to the absence of consensus regarding
+ discounting health benefits, WHO presented the results
+ for two scenarios, one applying a 3% discount rate to
+ costs only (main scenario), and the other scenario using
+ a 3% discount rate for both health benefits and costs.
+ Following a similar approach, we estimated ICERs under
+ these two scenarios with a 3% discount rate on costs
+ occurred after the first year. In addition, we did sensitivity
+ analyses with discount rates of 0% and 5%. All analyses
+ used the SAS 9.4 software and Microsoft Excel Office 2019.
+ This study followed Consolidated Health Economic
+ Evaluation Reporting Standards 2022 19 and best practices
+ for trial-based economic evaluations.
+ Role of the funding source
+ The funders had no part in study design, data collection,
+ analysis, interpretation of data, writing of the report, and
+ the decision to submit the paper for publication.
+ Results
+ In total, complete data were contributed by
+ 616 mothers (92·1%) and 622 infants in the intervention
+ group, and 544 mothers (94·4%) and 546 infants in the
+ control group (appendix 2 p 7). 20 The trial profile,
+ including the reasons for dropouts such as unavailability,
+ refusal, or migration, is reported by Fisher and
+ colleagues. 20 The two groups had similar sociodemo­
+ graphic, reproductive health, household, and infant
+ characteristics as reported by Fisher and colleagues
+ Table 3:
+ (appendix
+ intervention
+ The start-up
+ $36 206
+ was $273
+ (equivalent
+ mean and
+ total health-care
+ statistically
+ groups
+ group;
+ difference
+ Out-of-pocket
+ appendix
+ Children
+ development
+ with the
+ improvement
+ motor development
+ score was
+ ment, 2·5
+ and 2·7
+ The social–emotional
+ significant
+ difference
+ outcomes
+ The base-case
+ development
+ costs based
+ bootstrap
+ development
+ with a
+ cost. The
+ motor
+ respectively,
+ recurrent 
+<iend>
+
+ We estimated the ICERs for outcomes with significant
+ differences between the two groups. In addition, we used
+ 
+<section> Maternal
+ 
+<section> a non-parametric cluster bootstrapping to investigate
+ 
+<section> Child health-care
+ 
+<section> the uncertainty around the ICERs by generating
+ 
+<section> Total health-care
+ 
+<section> 1000 estimates of the mean difference in costs and the
+ mean difference in effects. We presented the results as Data are mean
+ mean and 95% CIs. We plotted the difference in costs on statement
+ 
+<section> Child
+ 
+<section> discount
+ 
+<section> development
+ 
+<section> Articles
+ 
+<section> Intervention 
+<section> Control 
+<section> Mean difference
+ health-care cost during pregnancy $9 (5 to 14) $7 (2 to 12) $3 (–4 to 9)
+ cost from birth to age 1 year $142 (96 to 187) $147 (99 to 195) –$5 (–72 to 61)
+ cost $151 (105 to 197) $154 (105 to 202) –$3 (–70 to 64)
+ (95% CI). Costs are in US$ 2019. Cluster effects were adjusted for using SUBJECT in the RANDOM
+ in the SAS GLIMMIX procedure.
+ 
+<section> development outcomes
+ 
+<section> 2 pp 8–9). 20 The participation rate in
+ sessions was 96%.
+ cost was $133 692 and recurrent cost was
+ (table 1). The total intervention cost per child
+ and recurrent cost per child was $58
+ to 6 296 134 VND and 1 341 741 VND). The
+ 95% CI of out-of-pocket maternal, child, and
+ costs are in table 2. There was no
+ significant difference between the two
+ in total health-care costs ($151 in the intervention
+ $154 in the control group). The adjusted mean
+ in cost was –$3 (95% CI –70 to 64).
+ health-care costs by child sex are in
+ 
+<section> 2 (pp 10–11).
+ in the intervention group had higher
+ standardised composite scores compared
+ control group (table 3). There was a significant
+ in the child’s cognitive, language, and
+ scores. 20 The mean difference in the
+ 4·0 (95% CI 2·5 to 5·5) for cognitive develop­
+ (95% CI 0·5 to 4·4) for language development,
+ (95% CI 1·2 to 4·2) for motor development.
+ development score showed no
+ difference between groups: the mean
+ was 2·3 (–1·5 to 6·1). Child development
+ by sex are in appendix 2 (pp 10–11).
+ ICER per increase in child cognitive
+ score was $14 with a 3% discount rate on
+ on recurrent cost (table 4). The mean ICER of
+ samples per increase in child cognitive
+ score was $14 (95% CI –0·48 to 30),
+ rate of 3% for cost based on recurrent
+ base-case ICERs per child language and
+ score increase were $22 and $20,
+ with a discount rate of 3% for cost based on
+ cost. 
+<insert> Table 4: Cost-effectiveness results 
+<iend>
+
+ 
+<insert> to 30)
+ to 99)
+ to 53)
+ dong
+ analysis
+ difference in
+ estimates of
+ The
+ by the
+ effects
+ SAS GLIMMIX
+ costs),
+ cognitive
+ rate on
+ with
+ 2 (p 13).
+ in
+ were
+ (figure),
+ and more
+ are in
+ is likely to
+ Nam gross
+ 21 along
+ ECD has
+ of 1% as
+ when
+ Figure: Cost-effectiveness plane
+ The difference in recurrent costs on the vertical axis and the difference in child
+ development outcomes on the horizontal axis are plotted on the four quadrants
+ of cost-effectiveness plane based on 1000 bootstrapped estimates. The
+ standardised composite score adjusted for child age and sex was measured by
+ the Bayley Scales of Infant and Toddler Development, Third Edition. Costs are
+ presented in US$ 2019. Cluster effects were adjusted for using SUBJECT in the
+ RANDOM statement in the SAS GLIMMIX procedure.
+ ICERs per disability-adjusted life-years averted are less
+ than three or one times GDP per capita, as per the WHO
+ Commission on Macroeconomics and Health.
+ Discussion
+ Our findings suggest that the Learning Clubs is a cost-
+ effective intervention for promoting ECD compared with
+ the usual standard of maternal and child health care in
+ rural Viet Nam with a 30-month time horizon. Based on
+ recurrent cost, the ICER per score increase in child
+ cognitive development was $14 with a 3% discount rate
+ to costs, which is around 0·5% of Viet Nam’s GDP per
+ capita ($2786). In addition, children in the intervention
+ group had better language and motor development with
+ the ICERs per score gained of $22 and $20, respectively.
+ The ICERs were below the minimum investment
+ benchmark for ECD of G20’s initiative and the WHO
+ Commission on Macroeconomics and Health’s
+ thresholds. When both start-up and recurrent costs were
+ considered, the ICER was $68 per score increase in child
+ cognitive development. The total intervention cost per
+ child, and recurrent cost per child for the 18 month-
+ intervention was $273 and $58, respectively.
+ The cost-effectiveness of the Learning Clubs
+ intervention appears reasonable compared with previous
+ economic evaluations done alongside cluster-randomised
+ trials in low-income and middle-income countries. An
+ early childhood intervention for responsive stimulation
+ and nutrition in rural Pakistan was more cost-effective
+ than a nutrition or a stimulation intervention alone. The 
+<iend>
+
+ 
+<section> Articles
+ 
+<section> Base case 
+<section> Bootstrapping
+ 
+<section> Based on start-up and recurrent cost
+ A discount rate of 3% for cost only
+ 
+<section> Child development score increased
+ 
+<section> Cognitive 
+<section> $68 
+<section> $68 (45 to
+ Language 
+<section> $109 
+<section> $129 (59 to
+ Motor 
+<section> $99 
+<section> $101 (60 to
+ A discount rate of 3% for both cost and outcome
+ 
+<section> Child development score increased
+ 
+<section> Cognitive 
+<section> $70 
+<section> $70 (47 to
+ Language 
+<section> $112 
+<section> $133 (61 to
+ Motor 
+<section> $102 
+<section> $104 (62 to
+ 
+<section> Based on recurrent cost
+ A discount rate of 3% for cost only
+ 
+<section> Child development score increased
+ 
+<section> Cognitive 
+<section> $14 
+<section> $14 (–0·48
+ Language 
+<section> $22 
+<section> $27 (–0·78
+ Motor 
+<section> $20 
+<section> $21 (–0·70
+ A discount rate of 3% for both cost and outcome
+ 
+<section> Child development score increased
+ 
+<section> Cognitive 
+<section> $14 
+<section> $14 (–0·49
+ Language 
+<section> $23 
+<section> $27 (–0·80
+ Motor 
+<section> $21 
+<section> $21 (–0·72
+ Data are mean (95% CI). Costs are in US$ 2019, converted from Vietnamese
+ and rounded to the nearest whole dollar. The ICERs from the base-case
+ were estimated by dividing the mean difference in costs by the mean
+ effects. The ICERs from the bootstrapping analysis were from 1000
+ the mean difference in cost divided by the mean difference in effects.
+ standardised composite score adjusted for child age and sex was measured
+ Bayley Scales of Infant and Toddler Development, Third Edition. Cluster
+ were adjusted for using SUBJECT in the RANDOM statement in the
+ procedure. ICER=incremental cost-effectiveness ratio.
+ 
+<section> Considering total costs (start-up and recurrent
+ the base-case ICER per increase in child
+ development score was $68 with a 3% discount
+ costs. Cost-effectiveness results in VND and international
+ dollars are in appendix 2 (p 12). Sensitivity analyses
+ discount rates of 0% and 5% are in appendix
+ The bootstrapped estimates of the mean difference
+ recurrent costs and the mean difference in effects
+ heavily concentrated in the northeast quadrant
+ suggesting that the intervention is more costly
+ effective than the usual standard of care. The bootstrapped
+ estimates of each domain of child development
+ appendix 2 (pp 14–16).
+ The intervention with a short time horizon
+ be cost-effective to improve child cognitive development
+ as the ICERs were around 0·5% of Viet
+ domestic product (GDP) per capita ($2786 GDP)
+ with other benefits in language and motor development.
+ A benchmark of 2% of GDP for investment in
+ been proposed with a minimum benchmark
+ part of the G20’s initiative. 22 In addition, interventions
+ are considered cost-effective or very cost-effective
+ 
+<section> Cognitive development
+ 
+<section> Language development
+ 
+<section> Motor development
+ 
+<section> 100)
+ 
+<section> 346) 
+<section> (US$)
+ 
+<section> 177)
+ 
+<section> costs
+ Incremental
+ 103)
+ 
+<section> 356)
+ 
+<section> 182) 
+<section> –150
+ 
+<section> to 30) 
+<section> –300
+ 
+<section> to 96) 
+<section> –8 
+<section> –4
+ 
+<section> to 52) 
+<section> Score gained 
+<section> cost-effectiveness ratios were $18 to improve child policy makers.
+ cognitive score, $17 to improve language score, and in economic
+ $16 to improve motor development score (price analysis
+ year 2012). Similarly, another parenting intervention value more
+ from urban China was cost-effective to improve ECD alternative
+ compared with the routine primary health-care services because
+ based on the country’s GDP per capita. 4 The costs for a value
+ increasing the communication, fine motor, and overall investment
+ Ages and Stages Questionnaires scores by 1 SD were the WHO
+ $196, $268, and $203, respectively (price year 2014). thresholds
+ Additionally, in rural Kenya, a parenting intervention Using the
+ based on a group-only delivery model was more cost- level has
+ effective than a mixed-delivery model with a 0·37 SD more
+ improvement in cognition, 0·30 SD improvement in effective.
+ receptive language, and 0·16 SD improvement in countries
+ socioemotional outcomes per $100 invested (price the most
+ year 2020). 6 Direct comparison to our findings to these middle-income
+ studies was not possible because of the differences in from China.
+ contexts, health systems, interventions, comparators, intervention
+ and time horizons. Unlike other studies, the Learning time horizon,
+ Clubs intervention started before the babies were born scale up
+ and addressed maternal nutrition and mental health in effectiveness
+ addition to child development, which required extra evidence-based
+ resources. On the contrary, some intervention costs can are not
+ be reduced in terms of personnel, equipment, and resources
+ operation if the intervention is integrated into the from Jamaica
+ national system and the government use their existing early childhood
+ resources. Our findings are likely to be generalisable to such as
+ other areas with similar characteristics to this area of health,
+ Viet Nam, especially in rural and resource-constrained among
+ settings. Neighbouring countries could use our findings need for
+ when designing and implementing ECD interventions evaluations.
+ with considerations of sociopolitical and health-care capture
+ contexts. 
+<section> distribution
+ One of the major strengths of our study is that the groups
+ economic evaluation is designed alongside the cluster- Further
+ randomised trial with a study protocol published before considerations
+ trial completion. 10 Trial-based economic evaluations can economic
+ provide the economic value of interventions to guide and priority
+ resource allocation decisions, yet economic evaluations In conclusion,
+ have rarely been included in ECD trials. As such, our Clubs intervention
+ study contributes to the scarce economic evidence of and motor
+ multicomponent ECD interventions. Furthermore, our with the
+ findings could be a potential source for future health short time
+ economic modelling to estimate the economic value in holistic
+ different settings or long-term benefits of investing in child protection,
+ multicomponent interventions for ECD. As a limitation, across
+ we did not have a standardised outcome that captures all understanding
+ effects comprehensively: we presented ICERs for each difficult
+ domain of child development individually. This makes required.
+ our estimated ICERs for each domain conservative. The ensure
+ impossibility of summing cost-effectiveness ratios across efficiently.
+ different outcomes was also raised in a previous study professionals,
+ because it can be confusing to policy makers who might programmes
+ be interested in an intervention’s cumulative effect. 
+<section> Contributors
+ Capturing multiple effects altogether to estimate the All authors
+ cost-effectiveness of interventions can be useful for YB wrote
+ 
+<section> Articles
+ 
+<section> A standardised outcome to measure ECD
+ evaluations or a return-on-investment
+ can help policy makers understand its economic
+ clearly. Another limitation is that we used the
+ GDP-based cost-effectiveness thresholds
+ there was no threshold in Viet Nam to determine
+ for money of ECD intervention. We used the
+ benchmark for ECD of G20’s initiative 22 and
+ Commission on Macroeconomics and Health’s
+ for disability-adjusted life-years averted.
+ GDP-based WHO thresholds at the country
+ been controversial, because it could lead to
+ interventions being recommended as cost-
+ 24 However, there is no global consensus on how
+ should develop their thresholds, so it remains
+ frequently used threshold in low-income and
+ countries, 24 including another ECD study
+ 4 The ICERs of the Learning Clubs
+ were below two benchmarks over a short
+ which indicates good value for money to
+ the intervention. Viet Nam-specific cost-
+ thresholds are required to make further
+ decisions. In addition, long-term effects
+ explored due to the scarce time horizon and
+ to follow up outcomes over time. A 2022 study
+ reported possible long-term benefits of an
+ stimulation intervention at age 2 years,
+ better cognition, executive function, mental
+ and psychosocial skills, and fewer risk behaviours
+ participants up to age 31 years, 25 suggesting a
+ incorporating long-term benefits in economic
+ Lastly, our cost-effectiveness analysis did not
+ equity considerations. Considering the
+ of costs and benefits by socioeconomic
+ will support fair decision-making processes.
+ research which addresses long-term and equity
+ will provide a more complete picture of
+ value to strengthen strategic budget allocation
+ setting.
+ our study showed that the Learning
+ improves child cognitive, language,
+ development and is cost-effective compared
+ usual standard of care in rural Viet Nam over a
+ horizon. Achieving optimal ECD requires a
+ approach across health, nutrition, education,
+ and social protection. Collective work
+ multiple sectors is often challenging, and
+ the economic value could be even more
+ as extra resources and considerations are
+ However, economic evaluations are crucial to
+ that we use scarce resources effectively and
+ Our findings can aid policy makers, health
+ and donors in development of cost-effective
+ to bolster ECD in a sustainable way.
+ 
+<section> contributed to the study design and data interpretation.
+ the first draft of the manuscript and did the data analysis with 
+<section> Articles
+ 
+<section> support from ZA, ThT, AO, and JF. All other authors reviewed and
+ revised the manuscript. All authors approved the final draft. All authors
+ had access to all the data in the study and had final responsibility for the
+ decision to submit for publication. YB, ThT, HT, and JF have accessed
+ and verified the data, and YB and JF were responsible for the decision to
+ submit the manuscript.
+ 
+<section> Declaration of interests
+ We declare no competing interests.
+ 
+<section> Data sharing
+ 
+<section> Deidentified individual data can be made available upon written, detailed
+ requests directed to the corresponding author. Requests will be reviewed
+ on the basis of scientific merit, ethical review, legal issues, and
+ regulatory requirements.
+ 
+<section> Acknowledgments
+ The cluster-randomised controlled trial was funded by the Australian
+ National Health and Medical Research Council Project Grant
+ (GNT1100147). The economic evaluation research was funded by Grand
+ Challenges Canada under the Saving Brains Initiative (seed funding
+ 2014-2015, and TTS-1803-22331). We thank the Viet Nam Ministry of
+ Health’s Department of Maternal and Child Health, in particular
+ Nguyen Duc Vinh, and the Head of the Breastfeeding Unit,
+ Nguyen Mai Huong, for reviewing our programme content and
+ ensuring its alignment with national policies. We thank the WHO
+ Viet Nam Office’s support with the global perspectives. We appreciate all
+ the support from the HaNam Province Communist Party Peoples’
+ Committee, the Provincial Centre for Disease Control, in particular
+ Nguyen Thanh Duong, and the Deputy Directors of the Health
+ Department, including Van Tat Pham and Truong Thanh Phong, in
+ programme implementation. We are very grateful to the Viet Nam
+ National Women’s Union who served as Learning Clubs facilitators.
+ We appreciate the Research and Training Centre for Community
+ Development staff who managed programme implementation and
+ facilitator training. We are grateful to the HaNam Provincial Centre for
+ Disease Control staff who did the data collection, and the Green Pine
+ Clinic staff who did the child development assessments. We are grateful
+ that the national and provincial trainers, and the community members,
+ reviewed programme content. We appreciate the expertise and time
+ from the data safety monitoring board. Finally, we greatly appreciate the
+ time and commitment of all the facilitators and the participants in
+ Viet Nam. YB was supported by the Australian Government Research
+ Training Program Scholarship. JF is supported by the Finkel Professorial
+ Fellowship, which is funded by the Finkel Family Foundation.
+ 
+<section> References
+ 
+<section> Britto PR, Lye SJ, Proulx K, et al. Nurturing care: promoting early
+ childhood development. Lancet 2017; 389: 91–102.
+ Garca JL, Heckman JJ, Leaf DE, Prados MJ. Quantifying the life-
+ cycle benefits of an influential early-childhood program. J Polit Econ
+ 
+<section> 2020; 128: 2502–41.
+ Ramsey SD, Willke RJ, Glick H, et al. Cost-effectiveness analysis
+ alongside clinical trials II–an ISPOR Good Research Practices Task
+ Force report. Value Health 2015; 18: 161–72.
+ Shi H, Li X, Fang H, Zhang J, Wang X. The effectiveness and cost-
+ effectiveness of a parenting intervention integrated with primary
+ health care on early childhood development: a cluster-randomized
+ controlled trial. Prev Sci 2020; 21: 661–71.
+ Grantham-McGregor S, Adya A, Attanasio O, et al. Group sessions
+ or home visits for early childhood development in India: a cluster
+ RCT. Pediatrics 2020; 146: e2020002725.
+ Lopez Garcia I, Saya UY, Luoto JE. Cost-effectiveness and economic
+ returns of group-based parenting interventions to promote early
+ childhood development: results from a randomized controlled trial
+ in rural Kenya. PLoS Med 2021; 18: e1003746.
+ Gowani S, Yousafzai AK, Armstrong R, Bhutta ZA. Cost effectiveness
+ of responsive stimulation and nutrition interventions on early child
+ development outcomes in Pakistan. Ann N Y Acad Sci 2014;
+ 
+<section> 1308: 149–61.
+ 
+<section> UNICEF Viet Nam General Statistics Office. Survey measuring
+ Viet Nam Sustainable Development Goal indicators on children and
+ women 2020–2021: survey findings report. HaNoi: General
+ Statistics Office, 2021.
+ Fisher J, Tran T, Luchters S, et al. Addressing multiple modifiable
+ risks through structured community-based Learning Clubs to
+ improve maternal and infant health and infant development in
+ rural Vietnam: protocol for a parallel group cluster randomised
+ controlled trial. BMJ Open 2018; 8: e023539.
+ Nguyen T, Sweeny K, Tran T, et al. Protocol for an economic
+ evaluation alongside a cluster randomised controlled trial: cost-
+ effectiveness of Learning Clubs, a multicomponent intervention to
+ improve women’s health and infant’s health and development in
+ Vietnam. BMJ Open 2019; 9: e031721.
+ Fisher J, Nguyen T, Tran TD, et al. Protocol for a process evaluation
+ of a cluster randomized controlled trial of the Learning Club
+ intervention for women’s health, and infant’s health and
+ development in rural Vietnam. BMC Health Serv Res 2019; 19:
+ International Labour Organization. Global wage report 2020–21:
+ wages and minimum wages in the time of COVID-19. Geneva:
+ International Labour Organization, 2020.
+ The World Bank. Official exchange rate. https://data.worldbank.
+ org/indicator/PA.NUS.FCRF (accessed March 15, 2022).
+ International Monetary Fund. Implied PPP conversion rate.
+ https://www.imf.org/external/datamapper/PPPEX@WEO/
+ OEMDC/ADVEC/WEOWORLD/VNM (accessed March 15, 2022).
+ Albers CA, Grieve AJ. Test review: Bayley, N. (2006). Bayley scales of
+ infant and toddler development–third edition. San Antonio, TX:
+ Harcourt Assessment. J Psychoeduc Assess 2007; 25: 180–90.
+ Glick HA, Doshi JA, Sonnad SS, Polsky D. Economic evaluation in
+ clinical trials, 2nd edn. Oxford: Oxford University Press, 2014.
+ MacNeil Vroomen J, Eekhout I, Dijkgraaf MG, et al. Multiple
+ imputation strategies for zero-inflated cost data in economic
+ evaluations: which method works best? Eur J Health Econ 2016;
+ 
+<section> 17: 939–50.
+ Bertram MY, Lauer JA, Stenberg K, Edejer TTT. Methods for the
+ economic evaluation of health care interventions for priority setting
+ in the health system: an update from WHO CHOICE.
+ 
+<section> Int J Health Policy Manag 2021; 10: 673–77.
+ Husereau D, Drummond M, Augustovski F, et al. Consolidated
+ Health Economic Evaluation Reporting Standards
+ 2022 (CHEERS 2022) statement: updated reporting guidance for
+ health economic evaluations. Value Health 2022; 25: 3–9.
+ Fisher J, Tran T, Tran H, et al. Structured, multicomponent,
+ community-based programme for women’s health and infant health
+ and development in rural Vietnam: a parallel-group cluster randomised
+ controlled trial. Lancet Child Adolesc Health 2023; 7: 311–25.
+ The World Bank. GDP per capita (current US$)–Vietnam.
+ https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.
+ ZG?locations=VN (accessed April 21, 2022).
+ Richter LM, Desmond C, Behrman J, et al. G20’s initiative for early
+ childhood development. Lancet 2018; 392: 2695–96.
+ WHO. WHO commission on macroeconomics and health.
+ 
+<section> Macroeconomics and health: investing in health for economic
+ development. Geneva: World Health Organization, 2001.
+ Kazibwe J, Gheorghe A, Wilson D, Ruiz F, Chalkidou K, Chi YL.
+ The use of cost-effectiveness thresholds for evaluating health
+ interventions in low- and middle-income countries from
+ 2015 to 2020: a review. Value Health 2022; 25: 385–89.
+ Walker SP, Chang SM, Wright AS, Pinto R, Heckman JJ,
+ Grantham-McGregor SM. Cognitive, psychosocial, and behaviour
+ gains at age 31 years from the Jamaica early childhood stimulation
+ trial. J Child Psychol Psychiatry 2022; 63: 626–35.

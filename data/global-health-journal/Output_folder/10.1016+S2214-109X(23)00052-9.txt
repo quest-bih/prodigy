@@ -1,0 +1,1399 @@
+
+<section> Trial-of-antibiotics to assist tuberculosis
+ 
+<section> symptomatic adults in Malawi (ACT-TB
+ 
+<section> controlled trial
+ 
+<section> Titus H Divala, Elizabeth L Corbett, Chikondi Kandulu, Brewster Moyo, Peter MacPherson,
+ Lingstone Chiume, Masiye John Ndaferankhande, Sanderson Chilanga, Sabina Tazirwa
+ 
+<section> Summary
+ 
+<section> Background Clinical practice and diagnostic algorithms often assume
+ mycobacteriology-negative individuals whose symptoms improve with
+ diagnostic performance, clinical benefit, and antimicrobial resistance
+ 
+<section> Methods In this three-arm, individually randomised, open-label, controlled
+ ≥18 years) attending primary care who reported being unwell for at least
+ indication for hospitalisation at Limbe and Ndirande Health Centres
+ (1:1:1) to azithromycin (500 mg taken once per day for 3 days), amoxicillin
+ or standard of care with no immediate antibiotics, stratified by study
+ for tuberculosis (microscopy, Xpert MTB/RIF, and culture). The
+ (percentage with symptom improvement among mycobacteriology-negative
+ (death, hospitalisation, or missed tuberculosis diagnosis) among all
+ 
+<section> with ClinicalTrials.gov, NCT03545373.
+ 
+<section> Findings Between Feb 25, 2019, and March 14, 2020, 5825 adults
+ 236 [14·9%] HIV positive) were randomly assigned to standard
+ (527 participants), or amoxicillin (526 participants) groups. Overall,
+ baseline sputum mycobacteriology. 310 (79·1%) of 392 patients
+ improvement at day 8, compared with 340 (88·7%) of 383 patients
+ 8·6%, 95% CI 3·9–13·3%; p<0·0004) and 346 (89·4%) of 387 receiving
+ 4·0–13·6%; p=0·0003). The proportion of participants with day 29 composite
+ groups (standard of care 1% [7 of 530 participants], azithromycin
+ 
+<section> 526 participants]).
+ 
+<section> Interpretation Routine outpatient trial-of-antibiotics during tuberculosis
+ specificity for mycobacteriologically confirmed tuberculosis but had
+ and missed tuberculosis diagnosis. These results confirm the limited
+ opportunity for discontinuation of trial-of-antibiotics and improved
+ screening, without affecting clinical outcomes.
+ 
+<section> Funding Northern Norway Regional Health Authority (Helse
+ Commission in the UK, Wellcome Trust, UK Medical Research Council,
+ 
+<section> Development.
+ 
+<section> Copyright © 2023 The Author(s). Published by Elsevier Ltd. This
+ 
+<section> license.
+ 
+<section> Introduction Emphasising
+ Tuberculosis caused an estimated 1·6 million deaths 40% of
+ in 2021, 1 and has consistently remained one of the in 2020
+ leading causes of death worldwide, with year-on- mycobacteriological
+ year increases in mortality rates reported during the For decades,
+ COVID-19 pandemic. 2 Despite advances, with new algorithms
+ technologies such as molecular microbiology assays and broadspectrum
+ digital chest radiography with computer-aided diagnosis, negligible
+ there is still no low-cost highly accurate rapid test considering
+ that provides instrument-free point-of-care diagnosis. 3,4 clinical
+ 
+<section> Articles
+ 
+<section> diagnosis in
+ 
+<section> study): a randomised
+ 
+<section> Marriott Nliwasa, Neil French, Derek J Sloan,
+ Majiga, Jon Øyvind Odland, Katherine L Fielding
+ 
+<section> that tuberculosis can be ruled out in Lancet Glob Health 2023;
+ a trial-of-antibiotics. We aimed to investigate 11: e556–65
+ using a randomised controlled trial. See 
+<section> Comment page e486
+ 
+<section> Helse Nord TB Initiative,
+ trial, we enrolled Malawian adults (aged Kamuzu University of Health
+ 14 days (including cough) with no immediate Sciences, Blantyre, Malawi
+ 
+<section> (T H Divala PhD,
+ 
+<section> in Blantyre. Participants were randomly allocated Prof E L Corbett FMedSci,
+ (1 g taken three times per day for 5 days), C Kandulu MBBS, B Moyo MSc,
+ site. Sputum at enrolment and day 8 was tested Prof P MacPherson PhD,
+ primary efficacy outcome was day 8 specificity M Nliwasa PhD, L Chiume BSc,
+ S Chilanga BSc, ST Majiga RN,
+ participants), and day 29 clinical outcome Prof K L Fielding PhD);
+ randomised participants. This study is registered TB Centre, London School of
+ 
+<section> Hygiene & Tropical Medicine,
+ 
+<section> Bloomsbury, London, UK
+ 
+<section> (T H Divala, Prof E L Corbett,
+ were screened and 1583 (mean age 36 years; Prof P MacPherson, M Nliwasa,
+ of care (530 participants), azithromycin Prof K L Fielding); 
+<section> Malawi
+ 6·3% (100 of 1583 participants) had positive Liverpool Wellcome Trust
+ receiving standard of care reported symptom Clinical Blantyre, Research Malawi Programme, (T H Divala,
+ receiving azithromycin (adjusted difference Prof E L Corbett, C Kandulu,
+ amoxicillin (adjusted difference 8·8%, B Moyo, Prof P MacPherson,
+ clinical outcomes was similar between M Nliwasa, L Chiume,
+ M J Ndaferankhande BPharm,
+ 1% [6 of 527 participants], amoxicillin 2% [12 of S Chilanga, ST Majiga); 
+<section> Liverpool
+ 
+<section> School of Tropical Medicine,
+ 
+<section> Liverpool, UK
+ 
+<section> investigations modestly improved diagnostic (Prof P MacPherson); 
+<section> Institute
+ 
+<section> of Infection Veterinary and
+ no appreciable effect on death, hospitalisation, Ecological Science, University
+ benefit of trial-of-antibiotics, presenting an of Liverpool, Liverpool, UK
+ antimicrobial stewardship during tuberculosis (Prof N French PhD); 
+<section> School of
+ 
+<section> Medicine, University of
+ 
+<section> St Andrews, Fife, Scotland, UK
+ 
+<section> (D J Sloan PhD); 
+<section> Victoria
+ 
+<section> Nord RHF), Commonwealth Scholarship Hospital, NHS Fife, Kirkcaldy,
+ and the UK Department for International Scotland, UK
+ 
+<section> (D J Sloan); 
+<section> Department of
+ 
+<section> Public Health and Nursing,
+ 
+<section> Norwegian University of
+ is an Open Access article under the CC BY 4.0 Science and Technology,
+ 
+<section> Trondheim, Norway
+ 
+<section> (Prof J Ø Odland PhD); 
+<section> School of
+ 
+<section> Health and Wellbeing,
+ the importance of diagnostic barriers, over 
+<section> University of Glasgow,
+ pulmonary tuberculosis notifications to WHO 
+<section> Glasgow, UK
+ were based on clinical diagnosis without (Prof P MacPherson)
+ 
+<section> confirmation. 
+<section> Correspondence to:
+ clinical tuberculosis diagnosis has used Dr Titus H Divala, Helse Nord TB
+ 
+<section> Initiative, Kamuzu University of
+ based on treating symptomatic patients with Health Sciences, Blantyre
+ 
+<section> antibiotics (trial-of-antibiotics) with 312225, Malawi
+ 
+<section> Mycobacterium tuberculosis activity, and tdivala@kuhes.ac.mw
+ 
+<section> empirical treatment for tuberculosis if the
+ response is poor. 5–7 Tens of millions of such 
+<section> Articles
+ 
+<section> Research in context
+ 
+<section> Evidence before this study
+ Tuberculosis diagnostic algorithms often recommend
+ prescription of broad-spectrum antibiotics for patients whose
+ initial sputum tests are negative (trial-of-antibiotics), assuming
+ that post-antibiotic symptom improvement rules out
+ tuberculosis. We searched MEDLINE, Embase, and Global Health
+ on Feb 18, 2023, using the combined terms for “tuberculosis”,
+ “antibiotic treatment”, terms for diagnostic accuracy
+ (“sensitivity”, “specificity”, and “predictive value”), and a filter for
+ randomised trials. We searched for randomised trials published
+ from database inception to Feb 18, 2023, with no language
+ restrictions, and found no relevant publications. Our systematic
+ review and meta-analysis that pooled available observational
+ data (only eight studies), concluded that trial-of-antibiotics was
+ yet to be supported by evidence, and the meta-analysis
+ suggested that diagnostic performance was low. Not one of the
+ identified studies systematically assessed the effect on other
+ clinical outcomes and antimicrobial resistance.
+ 
+<section> Added value of this study
+ To our knowledge, this study is the first randomised trial to
+ investigate the diagnostic, clinical, and the effect on
+ 
+<section> antibiotic courses are prescribed globally every year,
+ meaning that trial-of-antibiotics is likely to be the most
+ commonly used tuberculosis triage test 8–10 and a
+ potentially important contributor to antimicrobial
+ 
+<section> resistance. 
+<section> 11–13
+ In addition to uncertain diagnostic performance and
+ concerns about antimicrobial resistance, patient safety
+ and effectiveness in improving clinical outcomes are key
+ underinvestigated considerations when trials-of-
+ antibiotics are used in tuberculosis diagnostic algorithms.
+ The potential for clinical benefit is based on the high risk
+ of bacterial infections in patients undergoing tuberculosis
+ investigations. 14–16 We aimed to conduct a randomised
+ controlled trial (the accuracy and consequences of using
+ trial-of-antibiotics for tuberculosis diagnosis [ACT-TB]) to
+ investigate the effect of a trial-of-antibiotic intervention
+ on diagnostic, clinical, and antimicrobial resistance
+ outcomes in Malawi.
+ 
+<section> Methods
+ 
+<section> Study design
+ 
+<section> We conducted this three-arm, individually randomised,
+ open-label, controlled trial among adults who presented
+ with cough for at least 14 days at two primary care
+ centres in Blantyre, Malawi. The study design has been
+ described in detail elsewhere 17 and the protocol and
+ statistical analysis plan are available in
+ 
+<section> See 
+<section> Online for appendix the appendix (pp 5, 84). The study was reviewed and
+ approved by the Kamuzu University of Health Sciences
+ Research and Ethics Committee, London School of
+ Hygiene & Tropical Medicine Research Ethics
+ 
+<section> antimicrobial resistance of trial-of-antibiotics to rule out
+ tuberculosis. Compared with standard of care, trial-of-
+ antibiotics with either azithromycin or amoxicillin modestly
+ improved diagnostic specificity for mycobacteriologically
+ confirmed tuberculosis, and provided weak evidence for
+ increased risk of antimicrobial resistance. There was no effect
+ on the composite clinical outcome (coprimary) of missed
+ tuberculosis diagnosis, hospitalisation, or death.
+ 
+<section> Implications of all the available evidence
+ These results confirm the limited benefit of trial-of-antibiotics
+ in tuberculosis screening algorithms, presenting an opportunity
+ for discontinuation of routine prescription of trial-of-
+ antibiotics and improved antimicrobial stewardship, without
+ affecting clinical outcomes. National tuberculosis and
+ antimicrobial stewardship programmes should restrict
+ prescription of empirical broad-spectrum antibiotics to patients
+ in which strong clinical or microbiological indication exists.
+ New affordable and point-of-care diagnostics for tuberculosis
+ and other respiratory pathogens are urgently needed to address
+ the unmet clinical need.
+ 
+<section> Committee, Regional Committee for Health and
+ Research Ethics–Norway, and Malawi Pharmacy,
+ Medicines, and Poisons Board (appendix p 106).
+ 
+<section> Participants
+ 
+<section> We introduced the study to adults presenting to either
+ Limbe or Ndirande Health Centres in Blantyre, Malawi,
+ by first inviting all participants with a cough to a brief
+ talk, and then conducted a detailed eligibility screen for
+ those who expressed interest. We included patients who
+ were aged at least 18 years, who had a cough, who reported
+ being unwell for at least 14 days, and who did not have
+ any danger signs (respiratory rate ≥30 breaths per min,
+ temperature ≥39°C, heart rate ≥120 beats per min,
+ confusion or agitation, respiratory distress, and systolic
+ blood pressure of <90 mm Hg). We excluded patients
+ who reported allergies to study medications, who had
+ taken antibiotics other than co-trimoxazole prophylaxis
+ within the previous 14 days, or had taken tuberculosis
+ drugs either for treatment or prevention within the
+ previous 6 months. To participate, eligible patients
+ provided written (or, if not literate, witnessed thumbprint)
+ informed consent.
+ 
+<section> Randomisation and masking
+ We used block-randomisation with variable block sizes,
+ stratified by study site, to allocate participants (1:1:1) to
+ either standard of care (no study antibiotic prescription),
+ azithromycin (azithromycin 500 mg taken once per day
+ for 3 days, from enrolment day, termed day 1), or
+ amoxicillin (amoxicillin 1 g taken three times per day for 
+<section> 5 days, from day 1). An independent statistician prepared detected
+ a randomisation list using the ralloc command in Stata. on day
+ Allocations were sealed in sequentially numbered consistent
+ opaque envelopes, opened, and assigned by site staff Pre-specified
+ upon confirming eligibility. The dosage of antibiotic accuracy
+ groups and self-administration were explained, and at day
+ participants took their first dose in the presence of study included
+ staff at the clinic with the remainder self-administered at because,
+ home. The study was not blinded, but mycobacteriology symptomatic
+ and antimicrobial resistance outcome assessment the antimicrobial
+ occurred without reference to group. proportion
+ nasopharyngeal
+ 
+<section> Procedures 
+<section> resistant
+ The standard of care group of no antibiotics until antibiotics
+ clinically indicated was based on national and global ceftriaxone,
+ guidelines. 18 We chose amoxicillin because it is the erythromycin,
+ standard first-line treatment used for trial-of-antibiotics technique.
+ in Malawi, and in line with the WHO access, watch, respiratory
+ reserve (AWaRe) classification. 19 However, amoxicillin resistance
+ might not show the best performance for trial-of- secondly,
+ antibiotics because of increasing resistance, and a S pneumoniae
+ narrow coverage for causes of community-acquired the same
+ pneumonia and atypical organisms. We therefore analysis
+ included azithromycin as a third group to represent the excluding
+ optimal biological specificity of an oral regimen due to baseline.
+ more complete coverage of atypical organisms
+ that cause community-acquired pneumonia (eg, 
+<section> Statistical
+ Mycoplasma pneumoniae and Chlamydia pneumoniae), The statistical
+ and the low resistance rates in Malawi. analysis
+ Treatments were commenced following randomisation, diagnostic
+ and outcomes were ascertained on day 8 and day day 8
+ Clinical and laboratory procedures at days 8 and 29 are (azithromycin
+ described in the published protocol paper. classify
+ (ie, 60%
+ 
+<section> Outcomes 
+<section> 1164 reference
+ We had two coprimary outcomes focused on diagnostic would provide
+ accuracy and clinical effect. The diagnostic effect primary 5%, to
+ outcome was defined as the proportion of participants achieve
+ without tuberculosis (negative reference standard) participants
+ correctly identified by the index test at day 8 (appendix for tuberculosis
+ p 1). The index test was defined as positive (improvement) sputum
+ or negative (no improvement, or no change or worsened) increasing
+ in response to the question: on day 1, you reported that 1875 in
+ you were unwell; compared to that day, has your illness a 4% risk
+ worsened, remained the same, or improved? The standard
+ reference standard was defined as positive if at least one day 29.
+ day 1 or day 8 sputum sample was positive on smear two-sided
+ microscopy, Xpert MTB/RIF (Cepheid, CA, USA) or to detect
+ culture, and negative if none were positive and at least intervention
+ one test was known to be negative. Participants received All analyses
+ their tuberculosis test results after completion of the day participant
+ 8 visit and, where applicable, tuberculosis treatment effect for
+ followed. The clinical effect coprimary outcome was a separately
+ composite measure defined as the risk of any of death, used a
+ hospitalisation, or missed tuberculosis diagnosis by day function
+ 29 among all randomised participants. Missed did not
+ tuberculosis diagnosis was defined as tuberculosis not intervention
+ 
+<section> Articles
+ 
+<section> on day 1 or day 8 sputum but documented based
+ 29 mycobacteriology or radiological findings
+ with tuberculosis.
+ secondary outcomes were diagnostic
+ in participants who could not produce sputum
+ 1 and day 8, and antimicrobial resistance. We
+ the secondary diagnostic accuracy outcome
+ in the study setting, as many as 13% of
+ adults do not produce sputum. 20 We defined
+ resistance secondary outcome as the
+ of all randomised participants whose day
+ swabs grew Streptococcus pneumoniae
+ to any of the following commonly used
+ selected from all three WHO AWaRe classes:
+ amoxicillin, cefoxitin, azithromycin, and
+ as determined using the disk diffusion
+ 
+<section> S pneumoniae was chosen as a sentinel
+ pathogen, firstly because it can acquire
+ efficiently through DNA uptake, 21,22 and
+ because the treatment of choice for these
+ are penicillins and macrolides, which are
+ drugs used as study interventions. In a post-hoc
+ we considered only incident resistant isolates,
+ participants who had resistant isolates at
+ 
+<section> analysis
+ 
+<section> approach is described in the statistical
+ plan included in the appendix (p 84). For the
+ effect primary outcome, we assumed that
+ symptom improvement in trial-of-antibiotics
+ or amoxicillin) groups would correctly
+ 60% of all mycobacteriology-negative participants
+ specificity). 23 We established that 388 of
+ standard-negative participants per group
+ 80% power at a two-sided type 1 error of
+ detect at least a 10% difference in specificity. To
+ the required 1164 mycobacteriology- negative
+ (rounded to 400 per group), we accounted
+ prevalence (20%), inability to produce
+ (15%), and day 8 loss to follow-up (5%),
+ the target recruitment to 625 per group or
+ total. For the clinical effect outcome, we assumed
+ of the composite clinical outcome in the
+ of care group, and a loss to follow-up of 10% by
+ Assuming 625 participants per group and a
+ type I error of 5%, we would have 80% power
+ a risk ratio of at least 2, comparing either
+ group to standard of care.
+ were done using the group to which the
+ was randomised. We report measures of
+ comparing azithromycin or amoxicillin groups
+ and combined, with the standard of care. We
+ generalised linear model with identity-link
+ to estimate risk differences. Our a priori design
+ adjust for multiple comparisons but reported all
+ effects with their 95% CI and p values to 
+<insert> Figure: Trial profile
+ *Unable to return for follow-up visits (42 [4%]), lives outside the study catchment areas (25 [2%]), unable to walk independently (13 [1%]), took tuberculosis treatment in the past 6 months (12 [1%]),
+ and reported an allergy to study medication (1 [<1%]). †Denominator for diagnostic accuracy primary outcome. ‡Experiencing either death, hospitalisation, or missed tuberculosis diagnosis by day
+ §Nasopharyngeal swab with Streptococcus pneumoniae resistant to commonly used antibiotics. 
+<iend>
+
+ 
+<section> Articles
+ 
+<section> Screening
+ 
+<section> day 530 assigned to standard of
+ No antibiotics on day 1, but
+ 
+<section> Visit day 8, if clinically indicated
+ 
+<section> 138 excluded from
+ analysis
+ 
+<section> 9 missed day
+ 39 positive mycobacteriology
+ 
+<section> 90 unable to produce
+ day
+ 
+<section> day 392 had negative mycobacteriology
+ 
+<section> Visit their day 8 status is known†
+ 
+<section> 14 missed day 29 visit
+ 9 lost to follow-up
+ 5 no longer interested
+ 
+<section> 530 included in denominator
+ 
+<section> day Composite primary clinical outcome‡
+ Antimicrobial resistance, a secondary
+ 
+<section> Visit outcome§
+ 
+<section> 5825
+ 
+<section> 2659
+ 
+<section> 1583
+ 
+<section> 1583
+ 
+<section> care
+ 
+<section> considered on
+ 
+<section> diagnostic impact outcome
+ 
+<section> 8 visit
+ 
+<section> sputum at day 1 and
+ 
+<section> and
+ 
+<section> for:
+ 
+<section> facilitate appropriate interpretation.
+ 
+<section> performed using Stata.
+ 
+<section> In the pre-specified analysis,
+ 
+<section> characteristics (sensitivity and
+ 
+<section> operating characteristic curve)
+ 
+<section> adults presenting with cough to
+ Limbe and Ndirande health centres
+ 
+<section> in Malawi
+ 
+<section> 3166 did not show interest in the study
+ after group sensitisation sessions
+ and were not individually assessed
+ 
+<section> for eligibility
+ 
+<section> assessed for eligibility
+ 
+<section> 1076 excluded
+ 503 took antibiotics within past 14 days
+ 198 TB preventive treatment <6 months
+ 
+<section> 95 age less than 18 years
+ 80 had prior clinical consultation
+ 
+<section> 65 symptoms less than 14 days
+ 47 signs of serious illness (danger signs)
+ 
+<section> 43 refused to participate
+ 
+<section> Other*
+ 
+<section> enrolled
+ 
+<section> randomly assigned
+ 
+<section> 527 assigned to azithromycin 526 amoxicillin
+ 500 mg taken once a day for 3 days, 1g taken three times a day for 5 days,
+ starting from enrolment day (day 1) starting from enrolment day (day 1)
+ 
+<section> 144 excluded from diagnostic impact outcome 139 excluded from diagnostic impact outcome
+ 
+<section> analysis 
+<section> analysis
+ 14 missed day 8 visit 12 missed day 8 visit
+ 28 positive mycobacteriology 30 positive mycobacteriology
+ 102 unable to produce sputum at day 1 and 97 unable to produce sputum at day 1 and
+ 
+<section> day day
+ 
+<section> 383 had negative mycobacteriology and 387 had negative mycobacteriology and
+ their day 8 status is known† their day 8 status is known†
+ 
+<section> 7 missed day 29 visit 3 missed day 29 visit
+ 6 lost to follow-up 2 lost to follow-up
+ 1 no longer interested 1 no longer interested
+ 
+<section> 527 included in denominator for: 526 included in denominator for:
+ Composite primary clinical outcome‡ Composite primary clinical outcome‡
+ Antimicrobial resistance, a secondary Antimicrobial resistance, a secondary
+ 
+<section> outcome§ 
+<section> outcome§
+ 
+<section> 24 The analysis was versus the sputum mycobacteriological reference
+ standard, and their respective 95% CIs. Post-hoc
+ we calculated test analyses were also conducted for sensitivity including:
+ area under the receiver (1) all mycobacteriology from day 1, day 8, and day 29;
+ of trial-of-antibiotics and (2) in participants with tuberculosis clinical 
+<insert> antiretroviral therapy (ART) (table 1). The participant
+ recruitment period preceded the earliest known
+ COVID-19 infections in Blantyre, Malawi.
+ Out of the randomised 1583 participants 1171 (74·0%)
+ provided a sputum sample for day 1 Xpert MTB/RIF, 1181
+ (51·7%) for day 1 smear microscopy and culture, 818 for
+ day 8 smear microscopy and culture, and 65 (4·1%) for
+ unscheduled day 29 smear microscopy and culture based
+ on clinical need (appendix p 2). The prevalence of
+ tuberculosis by day 8 (positive mycobacteriology at day 1,
+ day 8, or both) was 6·3% (100 of 1583). By day 29, an
+ additional five mycobacteriologically confirmed cases
+ and 28 clinically diagnosed cases were identified giving a
+ prevalence of 8·4% (133). We recorded 12 serious adverse
+ events (appendix p 4), which included four deaths and
+ eight hospitalisations. None of the events was related to
+ the study treatment. All events were reported to the data
+ and safety monitoring board.
+ More participants missed the day 8 visit (35 [3%] of
+ 1583) than day 29 visit (24 [1·5%]; figure). Reasons for
+ missing the day 8 visit were not systematically recorded,
+ but 24 participants missed the day 29 visits due to
+ Table 1: Baseline characteristics of the randomised population
+ either loss to follow-up (71% [17 of 24]) or withdrawal of
+ consent (29% [7]).
+ 1162 participants with negative mycobacteriology and
+ known day 8 symptom status contributed to the diagnostic
+ accuracy primary outcome (392 [34%] of 1162 in the
+ standard of care group, 383 [33%] in the azithromycin
+ group, and 387 [33%] in the amoxicillin group). This
+ sample size achieved the required number of tuberculosis-
+ negative participants per group (around 388 participants)
+ without needing the planned full recruitment of 625 per
+ group (or 1875 total) because tuberculosis prevalence had
+ declined from the anticipated 20% to 6%.
+ 310 (79·1%) of 392 patients receiving standard of care
+ reported symptom improvement at day 8, compared with
+ 340 (88·7%) of 383 patients receiving azithromycin
+ (adjusted difference 8·6%, 95% CI 3·9–13·3%;
+ p<0·0004) and 346 (89·4%) of 387 receiving amoxicillin
+ (adjusted difference 8·8%, 4·0–13·6%; p=0·0003;
+ table 2). In the subgroup analysis, diagnostic effect did
+ not vary by HIV status. 
+<iend>
+
+ diagnoses, defined as initiation of tuberculosis treatment
+ in mycobacteriology-negative patients based on routine
+ clinical or radiological diagnosis, for the reference
+ 
+<section> Age, years
+ 
+<section> standard.
+ In our pre-specified subgroup analysis, we examined Research
+ 
+<section> the diagnostic performance by HIV status. We did not Limbe
+ 
+<section> conduct a pre-specified subgroup analysis for the clinical Ndirande
+ Centre
+ 
+<section> effect primary outcome because of a low number of
+ 
+<section> Sex
+ 
+<section> events. In post-hoc per-protocol analyses for diagnostic
+ 
+<section> Female
+ 
+<section> and antimicrobial resistance effect, we excluded
+ 
+<section> Male
+ 
+<section> participants who reported incomplete adherence to
+ 
+<section> Presenting
+ 
+<section> treatment (remaining with at least one study tablet by
+ 
+<section> Fever
+ 
+<section> day 8) or taking non-study antibiotics by day
+ 
+<section> Night
+ 
+<section> Role of the funding source Chest
+ 
+<section> The funders of the study had no role in study design, Blood
+ 
+<section> data collection, data analysis, data interpretation, or Self-reported
+ loss
+ 
+<section> writing of the report.
+ 
+<section> Previous
+ 
+<section> Results 
+<section> Months
+ tuberculosis
+ 
+<section> Between Feb 25, 2019, and March 14, 2020, we screened Pregnant
+ 5825 adults presenting with cough to Limbe and Baseline
+ Ndirande Health Centres, Malawi, of whom 2659 (45·6%) BMI <19
+ expressed interest after a brief description of the study. HIV positive*
+ 1076 participants were ineligible, with most common On ART†
+ reasons being recent antibiotic treatment (503 [46·7%] of
+ 
+<section> Antimicrobial
+ 
+<section> 1076), recent or current tuberculosis preventive treatment resistance
+ (198 [18·4%]), and being aged younger than 18 years swab
+ (95 [8·8%]). 43 (4%) of 1076 adults were eligible but
+ 
+<section> Data are n
+ 
+<section> did not give consent. 1583 (27·2%) of 5825 met the *HIV status
+ eligibility criteria, gave written consent to participate, the azithromycin
+ and were randomly assigned (530 to standard of care, diagnosed
+ 527 to azithromycin, and 526 to amoxicillin (figure). HIV of 42 care participants group,
+ 
+<section> prevalence was 14·9% (236 of 1583), with 214 (97·7%) of previously
+ 219 of the previously diagnosed patients already taking
+ 
+<section> Articles
+ 
+<section> Standard of Azithromycin Amoxicillin
+ 
+<section> care (n=530) 
+<section> (n=527) 
+<section> (n=526)
+ 
+<section> 36·4 (15·9) 
+<section> 35·6 (13·8) 
+<section> 35·7 (14·8)
+ 
+<section> site
+ Health Centre 169 (32%) 167 (32%) 168 (32%)
+ 
+<section> Health 
+<section> 361 (68%) 
+<section> 359 (68%) 
+<section> 357 (68%)
+ 
+<section> 323 (61%) 
+<section> 302 (57%) 
+<section> 319 (61%)
+ 
+<section> 207 (39%) 
+<section> 224 (43%) 
+<section> 206 (39%)
+ 
+<section> symptoms and history
+ 
+<section> 326 (62%) 
+<section> 343 (65%) 
+<section> 322 (61%)
+ sweats 241 (45%) 246 (47%) 228 (43%)
+ 
+<section> pain 
+<section> 387 (73%) 
+<section> 386 (73%) 
+<section> 381 (72%)
+ 
+<section> in sputum 
+<section> 34 (6%) 
+<section> 20 (4%) 
+<section> 24 (5%)
+ 
+<section> weight 
+<section> 191 (36%) 
+<section> 183 (35%) 
+<section> 183 (35%)
+ 
+<section> tuberculosis 
+<section> 42 (8%) 
+<section> 26 (5%) 
+<section> 32 (6%)
+ 
+<section> since last 
+<section> 126·1 
+<section> 94·7 
+<section> 208·6
+ treatment (42·6–221·2) (59·3–129·8) (65·5–296·3)
+ 
+<section> 20 (4%) 
+<section> 13 (2%) 
+<section> 13 (2%)
+ 
+<section> assessments and investigations
+ 
+<section> kg/m² 
+<section> 52 (10%) 
+<section> 55 (10%) 
+<section> 47 (9%)
+ 
+<section> 83 (16%) 
+<section> 73 (14%) 
+<section> 80 (15%)
+ 
+<section> 75 (14%) 
+<section> 67 (13%) 
+<section> 72 (14%)
+ 
+<section> 45 (8%) 
+<section> 42 (8%) 
+<section> 52 (10%)
+ 
+<section> positive
+ 
+<section> (%), median (IQR), or mean (SD). ART=antiretroviral therapy.
+ unknown in 55 participants (25 in the standard of care group, 14 in
+ group, and 16 in the amoxicillin group), and HIV was newly
+ for 17 of 122 participants tested (six of 43 participants in the standard
+ four of 37 participants in the azithromycin group, and seven of
+ in the amoxicillin group). †97·7% (214 of 219 participants) of the
+ diagnosed HIV-positive participants were already on ART. 
+<insert> Table 2: Diagnostic effect of trial-of-antibiotics (primary, secondary, and pre-specified outcomes) 
+<iend>
+
+ 
+<section> Articles
+ 
+<section> Standard of
+ 
+<section> Primary outcome
+ 
+<section> Specificity among participants with sputum mycobacteriology 310/392 (79·1%)
+ 
+<section> test results*
+ 
+<section> Difference (95% CI); p value 
+<section> ··
+ 
+<section> Secondary outcome
+ Specificity with participants without sputum classified as 398/482 (82·6%)
+ 
+<section> tuberculosis negative
+ 
+<section> Difference (95% CI); p value 
+<section> ··
+ 
+<section> Pre-planned subgroup analysis
+ 
+<section> HIV status†
+ 
+<section> HIV positive 
+<section> 54/64 (84·4%)
+ 
+<section> Difference (95% CI); p value 
+<section> ··
+ 
+<section> HIV negative 
+<section> 238/307 (77·5%)
+ 
+<section> Difference (95% CI); p value 
+<section> ··
+ Interaction p value for treatment group and HIV status ··
+ 
+<section> Data are n/N (%), unless otherwise stated. n=number of participants with outcome for
+ (improvement) or negative (no improvement, no change, or worsened). *Mycobacteriology
+ culture, in which positive was defined as sputum positive on at least one test, and negative
+ differences are adjusted for study site. † Specificity by HIV status among participants
+ 
+<section> When participants who could not produce sputum
+ were included in the denominator for the diagnostic
+ effect outcome (diagnostic accuracy secondary outcome),
+ trial-of-antibiotics with either azithromycin (439 [90·5%]
+ of 485) or amoxicillin (441 [91·1%] of 484) still showed
+ improvement in specificity compared with standard of
+ care (398 [82·6%] of 482), although the effect was smaller
+ than in the primary outcome analysis (table 2).
+ The sensitivity of the three arms against the
+ primary reference mycobacteriology was 25·6% (10 of
+ patients; 95% CI 13·0–42·1) for standard of care, 10·7%
+ (3 of 28 patients; 2·3–28·2) for azithromycin, and 23·3%
+ (7 of 30 patients; 9·9–42·3) for amoxicillin (appendix
+ p 3). In post-hoc analyses, the diagnostic sensitivity
+ remained very low and similar to the standard of care
+ (standard of care 25·0% [95% CI 12·7–41·2%],
+ azithromycin 10·7% [2·3–28·2%], and amoxicillin
+ 22·6% [9·6–41·1%]) when all mycobacteriology from day
+ 1, day 8, and day 29 were included in the reference
+ standard, and did not improve (standard of care 26·1%
+ [95% CI 14·3–41·1%], azithromycin 15·8% [6·0–31·3%],
+ and amoxicillin 23·8% [12·1–39·5%]) after including
+ clinical diagnoses (appendix p 3).
+ Compared with standard of care (7 [1·3%] of 530), the
+ percentage of participants who experienced the day
+ composite clinical outcome (at least one of death,
+ hospitalisation, or missed tuberculosis diagnosis) did not
+ differ by group (azithromycin –0·2%, 95% CI –1·5 to 1·1;
+ and amoxicillin 1·0%, –0·6 to 2·6; table 3).
+ 1529 of 1583 participants (96·6% of the total
+ randomised) provided day 29 nasopharyngeal swab
+ samples, of which 10·9% (167 of 1529) grew S pneumoniae
+ (standard of care 55 [10·9%] of 506, azithromycin
+ [11·1%] of 512, amoxicillin 55 [10·8%] of 511). Overall,
+ 
+<section> care 
+<section> Azithromycin 
+<section> Amoxicillin
+ 
+<section> 340/383 (88·8%) 
+<section> 346/387 (89·4%)
+ 
+<section> 8·6% (3·9 to 13·3); p<0·0004 8·8% (4·0 to 13·6); p=0·0003
+ 
+<section> 439/485 (90·5%) 
+<section> 441/484 (91·1%)
+ 
+<section> 6·6% (2·7 to 10·4); p=0·0006 6·8% (2·9 to 10·7); p=0·0005
+ 
+<section> 52/54 (96·3%) 
+<section> 59/67 (88·1%)
+ 11·9% (1·7 to 22·1); p=0·022 3·7% (–8·1 to 15·5); p=0·61
+ 
+<section> 278/315 (88·3%) 
+<section> 275/307 (89·6%)
+ 10·7% (4·9 to 16·6); p=0·0012 12·1% (6·2 to 17·8); p=0·00004
+ 
+<section> p=0·85 
+<section> p=0·21
+ 
+<section> the index test (day 8 self-reported symptom status) defined as positive
+ based on day 1 and day 8 smear microscopy, Xpert/MTB/Rif, and tuberculosis
+ if none of the tests is positive and at least one is known to be negative. All risk
+ with sputum results.
+ 
+<section> 57·5% (96 of 167) of the isolated S pneumoniae were
+ resistant to at least one of the commonly used antibiotics
+ (ceftriaxone, amoxicillin, cefoxitin, azithromycin, and
+ erythromycin; table 3).
+ Compared with standard of care, the proportions of
+ participants whose day 29 nasopharyngeal swabs grew
+ 
+<section> S pneumoniae resistant to at least one commonly used
+ antibiotic were 2·5 percentage points higher in the
+ azithromycin group (risk difference 2·5%, 95% CI
+ –0·5 to 5·5; p=0·10).
+ The percentage of day 29 resistant isolates in the
+ amoxicillin group was similar (risk difference –0·2%,
+ 95% CI –2·9 to 2·5; p=0·90) to that of standard of care.
+ In a post-hoc analysis excluding 139 participants who
+ had resistant isolates at baseline, the percentages of
+ antimicrobial resistance positive at day 29 were 21 of
+ in the standard of care group, 36 of 485 in the azithromycin
+ group, and 18 of 474 in the amoxicillin group. Risk
+ differences, adjusted for study site, were 3·1% (95% CI
+ 0·1 to 6·1; p=0·04) for the azithromycin group and –0·6
+ (95% CI –3·1 to 1·9; p=0·66) for the amoxicillin group
+ versus the standard of care group.
+ More participants (118 [23·1%] of 511) in the amoxicillin
+ group (dosage was 12 tablets per day over 5 days)
+ remained with at least one unused study medication
+ tablet by day 8, compared with the azithromycin group
+ (11 [2·2%] of 511; dosage was two tablets per day over
+ 3 days; table 4). Participants from all three groups
+ (standard of care 62 [11·7%] of 530 participants,
+ azithromycin 22 [4·2%] of 527 participants, and
+ amoxicillin 16 [3·0%] of 526 participants) received non-
+ study antibiotics before their day 8 visit. Post-hoc per-
+ protocol analyses of the diagnostic and antimicrobial
+ resistance outcomes excluding participants who took 
+<insert> Table 3: The effect of trial-of-antibiotics on the clinical coprimary outcome and secondary outcome of antimicrobial resistance 
+<iend>
+
+ 
+<insert> Table 4: Diagnostic and antimicrobial resistance effect among participants who adhered* to study interventions 
+<iend>
+
+ 
+<section> Standard of care (n=530)
+ 
+<section> Primary outcome
+ Composite clinical endpoint of missed tuberculosis 7/530* (1·3%)
+ diagnosis, hospitalisation, and death by day
+ Risk difference (95% CI); p value ··
+ 
+<section> Individual components of the composite clinical endpoint†
+ Missed tuberculosis diagnosis 3/530 (0·6%)
+ Hospitalisation 3/530 (0·6%)
+ 
+<section> Death 
+<section> 2/530 (0·4%)
+ 
+<section> Secondary outcome
+ Antimicrobial resistance positive at day 29‡ 28/530 (5·2%)
+ Risk difference (95% CI); p value ··
+ 
+<section> Data are n/N (%), unless otherwise stated. All risk differences and ratios are adjusted for study
+ more than one of the three components of the composite clinical outcomes. ‡Number of
+ pneumoniae culture.
+ 
+<section> Standard of care
+ 
+<section> (n=530)
+ 
+<section> Treatment adherence
+ Missed at least one tablet*† Not defined
+ Took non-study antibiotics between day 1 and day 62/530 (11·7%)
+ Took at least one study or non-study antibiotic course between 80/530 (15·1%)
+ 
+<section> day 1 and day
+ Took at least two antibiotic courses during study period 9/530 (1·7%)
+ Took at least three antibiotic courses during study period 4/530 (0·8%)
+ Took at least four antibiotic courses during study period
+ Number of occasions a course of antibiotics was taken
+ Number of occasions a non-study course of antibiotics was taken
+ 
+<section> Post-hoc per-protocol analysis (including only participants who adhered to treatment
+ Diagnostic specificity at day 8‡ 282/336 (83·9%)
+ Difference in specificity between groups (95% CI); p value ··
+ Antimicrobial resistance by day 29§ 22/449 (4·9%)
+ Antimicrobial resistance risk difference (95% CI); p value ··
+ Data are n/N (%), unless otherwise stated. *The question was: out of all the study medication
+ participants who completed the study medication adherence questionnaire in audio computer
+ missing any single study drug and not taking any non-study antibiotic before or on day 8.
+ taking any non-study antibiotic by day
+ 
+<section> non-study antibiotics and those who missed any single
+ study drug tablet produced results similar to the main
+ analyses (table 4).
+ 
+<section> Discussion
+ The main findings of this individually randomised trial
+ to investigate the diagnostic, clinical, and antimicrobial
+ resistance effect of trial-of-antibiotics during tuberculosis
+ investigations were that, compared with standard of care,
+ trial-of-antibiotics with either azithromycin or amoxicillin
+ improved diagnostic specificity for mycobacteriologically
+ confirmed tuberculosis. However, routine prescription of
+ antibiotics did not improve day 29 clinical outcomes (all-
+ cause mortality, hospitalisation, and missed diagnosis of
+ 
+<section> Articles
+ 
+<section> Azithromycin (n=527) Amoxicillin (n=526)
+ 
+<section> 6/527* (1·1%) 12/526* (2·3%)
+ 
+<section> –0·2% (–1·5 to 1·1); p=0·79 1·0% (–0·6 to 2·6); p=0·24
+ 
+<section> 3/527 (0·6%) 7/526 (1·3%)
+ 3/527 (0·6%) 3/526 (0·6%)
+ 
+<section> 2/526 (0·4%)
+ 
+<section> 41/527 (7·8%) 27/526 (5·1%)
+ 2·5% (–0·5 to 5·5); p=0·10 –0·2% (–2·9 to 2·5); p=0·90
+ site. *Number randomised. †It was possible for an individual participant to have
+ participants who provided nasopharyngeal swab samples for Streptococcus
+ 
+<section> Azithromycin Amoxicillin
+ 
+<section> (n=527) 
+<section> (n=526)
+ 
+<section> 11/511 (2·2%) 118/511 (23·1%)
+ 
+<section> 22/527 (4%) 
+<section> 16/526 (3%)
+ 527/527 (100·0%) 526/526 (100·0%)
+ 
+<section> 33/527 (6·3%) 28/526 (5·3%)
+ 6/527 (1·1%) 8/526 (1·5%)
+ 
+<section> 2/527 (<1%) 
+<section> 2/526 (<1%)
+ 
+<section> group)
+ 
+<section> 322/357 (90·2%) 262/288 (91·0%)
+ 6·8% (2·1 to 11·5); p=0·0050 7·4% (2·6 to 12·3); p=0·0032
+ 36/483 (7·5%) 18/384 (4·7%)
+ 2·6% (–0·5 to 5·6); p=0·10 –0·2% (–3·1 to 2·7); p=0·88
+ tablets we gave you, are there any remaining? †Denominator is the number of
+ assisted self-interview at day 8. ‡Adherence to treatment defined as not
+ §Adherence to treatment defined as not missing any single study drug and not
+ 
+<section> tuberculosis), and might have generated antimicrobial
+ resistance in the azithromycin group.
+ The improvement in diagnostic specificity shown
+ by trial-of-antibiotics using either azithromycin or
+ amoxicillin confirms the long-established clinical
+ rationale for national and global guidelines for addressing
+ the suboptimal nature of tuberculosis diagnosis. Our
+ randomised trial further adds to the body of evidence by
+ quantifying the magnitude of the diagnostic benefit
+ allowing for a comparison against the WHO criteria
+ (target product profiles) for tuberculosis diagnostic test
+ performance. 26 The WHO target product profiles use
+ specificity of more than 80% and sensitivity more than
+ 95% as benchmarks for an ideal triage test, and specificity 
+<section> Articles
+ 
+<section> of more than 98% and sensitivity more than 95% for
+ smear microscopy-replacement test. 26 With respect to
+ specificity (primary outcome), the 88·8% (340 of 383)
+ recorded in the azithromycin group and the 89·4% (346
+ of 387) in the amoxicillin group meet the target for triage
+ test but fall below that of smear microscopy-replacement
+ tests aimed for health facility use.
+ In this study, the limited nature of the diagnostic
+ benefit is further underscored by the extremely low
+ sensitivity for both azithromycin (three [10·7%] of
+ 28 participants) and amoxicillin (seven [23·3%] of
+ 30 participants; appendix p 3). We did not include
+ sensitivity as a trial outcome, due to the anticipation of
+ much lower numbers of sputum-confirmed patients than
+ sputum-negative patients but did anticipate sufficient
+ power to provide reasonable precision around the point
+ estimate of sensitivity per group for which at least
+ 30 confirmed patients per group is required. These
+ estimates fall well below target, even when only the upper
+ 95% CIs are considered (28·2% for azithromycin, and
+ 42·3% for amoxicillin) against the minimum acceptable
+ target of 90% for triage test, and more than 80% for
+ smear microscopy-replacement tests.
+ Apart from diagnostic performance, safety is the other
+ key consideration for national programmes and clinicians
+ before routine prescription of trial-of-antibiotics to
+ outpatients without danger signs can be discontinued.
+ Withholding a course of effective antibiotic treatment
+ could affect patient safety because bacterial causes of
+ illness in patients with respiratory symptoms are
+ common, 14,27 and are an important cause of hospitalisation
+ and mortality. 14–16 The lack of difference in the risk of
+ death, hospitalisations, and missed tuberculosis diagnosis
+ between participants in the standard of care group and
+ those taking trial-of-antibiotics (azithromycin or
+ amoxicillin groups) is reassuring and strengthens the
+ argument for discontinuation of routine prescription of
+ broad-spectrum antibiotics to outpatients with respiratory
+ symptoms. However, the lack of difference could also be
+ explained by the fact that we registered very low morbidity
+ and mortality, which reduced the study power below
+ anticipated for this outcome.
+ Our safety data results are consistent with those from
+ a 2017 systematic review update comparing immediate
+ prescription with antibiotic-sparing strategies for
+ outpatients with uncomplicated acute respiratory
+ infections. 28 That review reported no difference in
+ clinical outcomes between delayed, immediate, and no
+ prescribed antibiotics for patients with cough, but was
+ based on only four studies with limited geographical
+ range. 28 Our study adds to the available data on people
+ living with HIV, a major factor affecting cause,
+ management, and prognosis of acute respiratory
+ infection. 29 14·9% of participants in this trial were HIV
+ positive. However, our results might not be generalisable
+ to settings with high HIV prevalence with lower coverage
+ of diagnosis and ART because very few (6%) were newly
+ diagnosed and 97% of those previously diagnosed were
+ already taking ART. We did not conduct a predefined
+ subgroup analysis of clinical outcomes by HIV status
+ due to the low event rate.
+ We additionally found results consistent with previous
+ reports of rapid acquisition of resistance following brief
+ exposure to azithromycin, 30,31 with the risk of resistant
+ nasal pneumococcal isolates being 2·5% (95% CI
+ –0·5 to 5·5) higher for patients randomised to receive
+ azithromycin compared with standard of care. The
+ difference was greater when patients with pre-existing
+ (baseline) antimicrobial resistance were excluded from
+ the analysis (3·1%, 95% CI 0·1 to 6·1). These results
+ add to the already existing strong body of evidence on
+ the association between empirical antibiotic treatment
+ and emergence of antimicrobial resistance. 32–34 We saw
+ no similar suggestion of rapid emergence of resistance
+ in the amoxicillin group, despite higher pre-existing
+ rates of resistance in Blantyre, Malawi, and lower
+ treatment adherence for amoxicillin compared with
+ azithromycin. 35 Unlike amoxicillin, azithromycin has a
+ long half-life 36 due to extensive uptake in tissues, 36,37
+ which has been postulated to lead to a wide mutant
+ selection window (drug concentration range in which
+ resistant mutants are selectively amplified), potentially
+ allowing greater mutant amplification than is seen with
+ 
+<section> amoxicillin. 
+<section> 30,38
+ Antibiotic prescription for patients presenting with
+ respiratory symptoms was common practice at the
+ study sites, with 46·7% (503 of 1076) of the potential
+ participants excluded due to having taken antibiotics
+ within 14 days, and self-reported use of non-study
+ antibiotics by day 29 reported by 15·1% (80 of 530) of
+ standard of care group participants. The most common
+ non-study antibiotic was amoxicillin, consistent with
+ previous reports of wide availability and easy access in
+ Malawi. 39 Taking non-study antibiotics would tend to
+ drive our antimicrobial resistance day 29 measures
+ of effect towards the null by increasing risk of
+ resistance (in the standard of care group) or by clearing
+ carriage (trial-of-antibiotic groups). However, post-hoc
+ analysis of the antimicrobial resistance outcome
+ excluding participants who reported missing at least
+ one tablet of their study medication, and those who
+ reported taking any non-study antibiotic by day 29, did
+ not have any effect on effect measures.
+ Our main study limitations include no blinding and
+ consequential room for misclassifying exposure status
+ for participants who could have accessed antibiotics
+ outside the study beyond that reported, and possible
+ underdiagnosis of active tuberculosis status. However,
+ exploratory analysis of different tuberculosis diagnostic
+ criteria and exclusion of patients known to have taken
+ antibiotics outside of the study prescriptions do not
+ support a major impact on our key conclusions. Another
+ potential source of misclassification of exposure status is
+ the self-administration of study drugs, but this reflects 
+<section> clinical practice for oral treatment in ambulatory adults. assisted self-interview.
+ Provision of daily dosing oral antibiotics under directly Hanne Husom
+ 
+<section> observed treatment approach is not routinely practised and management
+ 
+<section> for outpatients as it might not be practical. We recruited 
+<section> References
+ 
+<section> participants from a single city, limiting generalisation to WHO. publications/i/item/9789240061729
+ other settings. We did not power the study on sensitivity, WHO.
+ limiting our ability to compare differences between country
+ 
+<section> groups to specificity. However, the upper 95% CI for our WHO.
+ tuberculosis.
+ point estimates of sensitivity fell well below the WHO item/9789240016552
+ target ranges for both antibiotic groups, suggesting that WHO.
+ trial-of-antibiotics is unlikely to meet diagnostic diagnosis–rapid
+ evidence
+ acceptability criteria in this respect. handle/10665/334150
+ In conclusion, our results do not support routine Siddiqi
+ prescription of trial-of-antibiotics for the purposes of negative
+ 
+<section> establishing a diagnosis of tuberculosis in ambulatory current
+ Ministry
+ adult outpatients. Antibiotic prescriptions can be reduced programme
+ for adult outpatients with symptoms suggestive of National
+ 
+<section> tuberculosis without affecting patient clinical outcomes. management
+ Health,
+ Policy and research should urgently establish antibiotic- McDowell
+ sparing diagnostic approaches for primary care treatment:
+ management of respiratory symptoms. India.
+ Kwan
+ 
+<section> Contributors 
+<section> tuberculosis
+ THD, ELC, and KLF conceived the study. THD obtained the funding. patient
+ All authors contributed towards the study design, protocol development, 10 Getahun
+ and implementation. DJS, MJN, PM, MN, and JØ contributed to the negative
+ study planning and clinical design. NF contributed to the study planning AIDS
+ and antimicrobial resistance design. THD, ELC, CK, BM, PM, MJN, changes.
+ MN, and KLF contributed to the development of the data collection 11 WHO.
+ forms. THD, LC, and BM developed the data management plan. https://apps.who.int/iris/handle/10665/112642.
+ 
+<section> THD, CK, LC, SC, and STM developed and piloted the clinical and 2022).
+ laboratory protocols. THD and MJN developed the pharmacy plan and 12 Holmes
+ the flow and accountability of treatment allocations and study mechanisms
+ medications. THD, BM, and LC conducted the data management. 387:
+ 
+<section> THD developed the statistical analysis plan. THD, ELC, BM, and KLF 13 Laxminarayan
+ were involved in the analysis. THD, ELC, and KLF were involved in antimicrobials:
+ interpreting the data. THD, ELC, and KLF wrote the first draft. All 14 Bedell
+ authors read and approved the final manuscript. THD is the guarantor tuberculosis individuals
+ for this work. The corresponding author had full access and verified all PLoS
+ data in the study and had final responsibility for the decision to submit.
+ 
+<section> 15 Schleicher
+ 
+<section> Declaration of interests pneumoniae
+ We declare no competing interests. patients
+ Int J
+ 
+<section> Data sharing 
+<section> 16 Cain
+ The study protocol, standard operating procedures, and the ethics and HIV-infected
+ regulatory information can be accessed from: https://amr.tghn.org/ Emerg
+ study-profiles/act-tb-malawi. De-identified individual participant data 17 Divala
+ will be made available upon provision of a justified request to the of using
+ corresponding author. 
+<section> protocol
+ 
+<section> Acknowledgments 
+<section> 10: e033999.
+ 
+<section> THD the Northern is funded Norway by the Regional Commonwealth Health Authority Scholarship (Helse Commission Nord RHF). and 18 Global 2018. algorithms.pdf
+ This trial is part of his PhD work at London School of Hygiene & 19 WHO.
+ Tropical Medicine. ELC is funded by a Wellcome Trust Senior Research evaluation
+ Fellowship in Clinical Science (WT200901) that supported the publications/i/item/WHOEMPIAU2019.11
+ tuberculosis laboratory work. KLF received funds from the UK Medical 20 Nliwasa
+ Research Council (MRC), the UK Department for International specificity
+ Development (DFID) under the MRC and DFID Concordat agreement, for tuberculosis
+ and the MRC Tropical Epidemiology Group (MR/K012126/1). PM is PLoS
+ funded by Wellcome (206575/Z/17/Z). The funding agencies had no 21 Chaguza
+ role in the systematic review or preparation of this manuscript. We genetic
+ thank all participants and staff, the trial steering committee Comput
+ (Bertie Squire, Henry Mwandumba, and Amelia [Mia] Crampin), and 22 Muschiol
+ the data safety and monitoring board (Timothy Peto, Victor Mwapasa, Uptake
+ and Angela Crook). We thank Augustine Choko and Moses Kumwenda transformation
+ for contributing towards the design and piloting of the audio computer 37: 426–35.
+ 
+<section> Articles
+ 
+<section> We thank Lars Harry Vorlandand and
+ Haukland of Helse Nord RHF for support with funding
+ for the project.
+ 
+<section> Global tuberculosis report 2022. 2022. https://www.who.int/
+ (accessed Oct 28, 2022).
+ 
+<section> Global health estimates 2016: deaths by cause, age, sex, by
+ and by region. Geneva: World Health Organization, 2018.
+ Rapid communication on systematic screening for
+ 2020. https://www.who.int/publications/i/
+ (accessed Oct 28, 2022).
+ 
+<section> WHO consolidated guidelines on tuberculosis: module 3:
+ diagnostics for tuberculosis detection: web annex 4:
+ synthesis and analysis. 2020. https://apps.who.int/iris/
+ (accessed Oct 28, 2022).
+ K, Lambert M-L, Walley J. Clinical diagnosis of smear-
+ pulmonary tuberculosis in low-income countries: the
+ evidence. Lancet Infect Dis 2003; 3: 288–96.
+ of Health. Malawi national tuberculosis control
+ manual. Lilongwe: Ministry of Health, 2016.
+ Department of Health. South Africa national tuberculosis
+ guidelines 2014. Pretoria: National Department of
+ 2014.
+ A, Pai M. Treatment as diagnosis and diagnosis as
+ empirical management of presumptive tuberculosis in
+ Int J Tuberc Lung Dis 2016; 20: 536–43.
+ A, Daniels B, Saria V, et al. Variations in the quality of
+ care in urban India: a cross-sectional, standardized
+ study in two cities. PLoS Med 2018; 15: e1002653.
+ H, Harrington M, O’Brien R, Nunn P. Diagnosis of smear-
+ pulmonary tuberculosis in people with HIV infection or
+ in resource-constrained settings: informing urgent policy
+ 
+<section> Lancet 2007; 369: 2042–49.
+ 
+<section> Antimicrobial resistance: global report on surveillance. 2014.
+ 
+<section> (accessed Oct 28,
+ 
+<section> AH, Moore LS, Sundsfjord A, et al. Understanding the
+ and drivers of antimicrobial resistance. Lancet 2016;
+ 176–87.
+ R, Matsoso P, Pant S, et al. Access to effective
+ a worldwide challenge. Lancet 2016; 387: 168–75.
+ RA, Anderson ST, van Lettow M, et al. High prevalence of
+ and serious bloodstream infections in ambulatory
+ presenting for antiretroviral therapy in Malawi.
+ 
+<section> One 2012; 7: e39347.
+ GK, Feldman C. Dual infection with Streptococcus
+ and Mycobacterium tuberculosis in HIV-seropositive
+ with community acquired pneumonia.
+ 
+<section> Tuberc Lung Dis 2003; 7: 1207–08.
+ KP, Anekthananon T, Burapat C, et al. Causes of death in
+ persons who have tuberculosis, Thailand.
+ 
+<section> Infect Dis 2009; 15: 258–64.
+ TH, Fielding KL, Sloan DJ, et al. Accuracy and consequences
+ trial-of-antibiotics for TB diagnosis (ACT-TB study):
+ for a randomised controlled clinical trial. BMJ Open 2020;
+ 
+<section> Laboratory Initiative. GLI model TB diagnostic algorithms.
+ http://www.stoptb.org/wg/gli/assets/documents/GLI_
+ (accessed Oct 28, 2022).
+ WHO AWaRe classification database of antibiotics for
+ and monitoring of use. 2019. https://www.who.int/
+ (accessed Oct 28, 2022).
+ M, MacPherson P, Chisala P, et al. The sensitivity and
+ of loop-mediated isothermal amplification (LAMP) assay
+ diagnosis in adults with chronic cough in Malawi.
+ 
+<section> One 2016; 11: e0155101.
+ C, Cornick JE, Everett DB. Mechanisms and impact of
+ recombination in the evolution of Streptococcus pneumoniae.
+ 
+<section> Struct Biotechnol J 2015; 13: 241–47.
+ S, Balaban M, Normark S, Henriques-Normark B.
+ of extracellular DNA: competence induced pili in natural
+ of Streptococcus pneumoniae. BioEssays 2015; 
+<section> Articles
+ 
+<section> Wilkinson D, Newman W, Reid A, Squire SB, Sturm AW,
+ Trial-of-antibiotic algorithm for the diagnosis of tuberculosis
+ district hospital in a developing country with high HIV
+ Int J Tuberc Lung Dis 2000; 4: 513–18.
+ Rothman KJ. No adjustments are needed for multiple
+ Epidemiology 1990; 1: 43–46.
+ Mandolo J, Msefula J, Henrion MY, et al. SARS-CoV-2
+ Malawian blood donors: an analysis of seroprevalence
+ dynamics between January 2020 and July 2021. BMC Med
+ 
+<section> 19:
+ 
+<section> WHO. High priority target product profiles for new tuberculosis
+ diagnostics: report of a consensus meeting, 28–29 April
+ Geneva: World Health Organization, 2014.
+ Kapito-Tembo A, Mathanga D, Bauleni A, et al. Prevalence
+ clinical management of non-malarial febrile illnesses
+ outpatients in the era of universal malaria testing in Malawi.
+ 
+<section> Am J Trop Med Hyg 2020; 103: 887–93.
+ Spurling GKP, Del Mar CB, Dooley L, Foxlee R, Farley
+ Delayed antibiotic prescriptions for respiratory infections.
+ 
+<section> Cochrane Database Syst Rev 2017; 9: CD004417.
+ Troeger C, Blacker B, Khalil IA, et al. Estimates of the
+ regional, and national morbidity, mortality, and aetiologies
+ respiratory infections in 195 countries, 1990–2016: a systematic
+ analysis for the Global Burden of Disease Study 2016.
+ 
+<section> Lancet Infect Dis 2018; 18: 1191–210.
+ Golikova MV, Strukova EN, Portnoy YA, et al. Resistance
+ with Streptococcus pneumoniae using an in vitro dynamic
+ amoxicillin versus azithromycin at clinical exposures.
+ 
+<section> 2019; 31: 252–60.
+ 
+<section> Gilks CF. Gladstone RA, Bojang E, Hart J, et al. Mass drug administration
+ in a with azithromycin for trachoma elimination and the population
+ prevalence. structure of Streptococcus pneumoniae in the nasopharynx.
+ 
+<section> Clin Microbiol Infect 2021; 27: 864–70.
+ comparisons. Levy SB, Marshall B. Antibacterial resistance worldwide: causes,
+ challenges and responses. Nat Med 2004; 10: S122–29.
+ exposure in Goossens H, Ferech M, Vander Stichele R, Elseviers M, ESAC
+ and variant Project Group. Outpatient antibiotic use in Europe and association
+ 2021; with resistance: a cross-national database study. Lancet 2005;
+ 
+<section> 365: 579–87.
+ Everett DB, Mukaka M, Denis B, et al. Ten years of surveillance for
+ 2014. invasive streptococcus pneumoniae during the era of antiretroviral
+ scale-up and cotrimoxazole prophylaxis in Malawi. PLoS One 2011;
+ 
+<section> and 
+<section> 6: e17765.
+ among Musicha P, Cornick JE, Bar-Zeev N, et al. Trends in antimicrobial
+ resistance in bloodstream infection isolates at a large urban hospital
+ in Malawi (1998–2016): a surveillance study. Lancet Infect Dis 2017;
+ R. 
+<section> 17: 1042–52.
+ Amsden GW. Advanced-generation macrolides: tissue-directed
+ antibiotics. Int J Antimicrob Agents 2001; 18: S11–15.
+ global, Stepanić V, Koštrun S, Malnar I, et al. Modeling cellular
+ of lower pharmacokinetics of 14- and 15-membered macrolides with
+ physicochemical properties. J Med Chem 2011; 54: 719–33.
+ Drlica K, Zhao X. Mutant selection window hypothesis updated.
+ 
+<section> Clin Infect Dis 2007; 44: 681–88.
+ studies Chikowe I, Bliese SL, Lucas S, Lieberman M. Amoxicillin quality
+ model: and selling practices in urban pharmacies and drug stores of
+ 
+<section> J Chemother Blantyre, Malawi. Am J Trop Med Hyg 2018; 99: 233–38.

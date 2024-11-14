@@ -1,0 +1,1221 @@
+
+<section> To cite: Byberg S, Aaby P,
+ Rodrigues A, et al. The mortality
+ effects of disregarding the
+ 
+<section> strategy to save doses of
+ measles vaccine: a cluster-­
+ randomised trial in Guinea-­
+ Bissau. BMJ Global Health
+ 2021;6:e004328. doi:10.1136/
+ 
+<section> bmjgh-2020-004328
+ 
+<section> Handling editor Seye Abimbola
+ 
+<section> ► Additional supplemental
+ material is published online only.
+ To view, please visit the journal
+ online (http://​dx. d oi.​org/​10.​
+ 1136/ b mjgh-​2020- 04328).
+ 
+<section> Received 1 November 2020
+ 
+<section> Revised 31 March 2021
+ 
+<section> Accepted 16 April 2021
+ 
+<section> © Author(s) (or their
+ employer(s)) 2021. Re-­use
+ permitted under CC BY-­NC. No
+ commercial re-­use. See rights
+ and permissions. Published by
+ BMJ.
+ 
+<section> Bandim Health Project,
+ INDEPTH Network, Bissau,
+ 
+<section> Guinea-­Bissau
+ Bandim Health Project, OPEN,
+ University of Southern Denmark,
+ Copenhagen, Denmark
+ Research Center for Vitamins
+ and Vaccines, Statens Serum
+ Institut, Copenhagen, Denmark
+ 
+<section> Steno Diabetes Center
+ Copenhagen, Gentofte, Denmark
+ Danish Institute for Advanced
+ Study, University of Southern
+ Denmark, Odense, Denmark
+ 
+<section> Correspondence to
+ 
+<section> Dr Ane Baerent Fisker;
+ 
+<section> ​afisker@​health. s 
+<section> du.​dk
+ 
+<section> The mortality effects
+ 
+<section> strategy to save doses
+ 
+<section> vaccine: a cluster-­randomised
+ 
+<section> in Guinea-­Bissau
+ 
+<section> Stine Byberg , 1,2,3,4 Peter Aaby, 1,2,3 Amabelia
+ Christine Stabell Benn, 1,2,3,5 Ane Baerent Fisker
+ 
+<section> ABSTRACT
+ 
+<section> Introduction Measles vaccine (MV) may improve health
+ beyond measles protection. To avoid wastage from multi-­dose
+ vials, children in Guinea-­Bissau are only measles vaccinated
+ when aged 9–11 months and when six or more children are
+ present. We assessed health impacts of providing MV to all
+ measles-­unvaccinated children 9–35 months.
+ 
+<section> Methods We cluster-­randomised 182 village clusters under
+ demographic surveillance in rural Guinea-­Bissau to an ‘MV-­
+ for-­all-­policy’ arm where we offered MV regardless of age
+ and number of children present at our bi-­annual village visits,
+ or a ‘Restrictive-­MV-­policy’ arm where we followed national
+ policy. Measles-­unvaccinated children aged 9–35 months
+ were eligible for enrolment and followed to 5 years of age.
+ In intention-­to-­treat analyses, we compared mortality using
+ Cox regression analyses with age as underlying timescale.
+ The primary analysis was for children aged 12–35 months at
+ eligibility assessment. Interactions with several background
+ factors were explored.
+ 
+<section> Results Between 2011 and 2016, we followed 2778
+ children in the primary analysis. MV coverage by 3 years
+ was 97% among children eligible for enrolment under the
+ MV-­for-­all-­policy, and 48% under the Restrictive-­MV-­policy.
+ Mortality was 59% lower than anticipated and did not
+ differ by trial arm (MV-­for-­all-­policy: 45/1405: Restrictive-­
+ 
+<section> MV-­policy: 44/1373; HR: 0.95 (95% CI 0.64 to 1.43)).
+ The effect of MV-­for-­all changed over time: The HR was
+ 0.53 (95% CI 0.27 to 1.07) during the first 1½ years of
+ enrolment but 1.47 (95% CI 0.87 to 2.50) later (p=0.02,
+ test of interaction). Explorative analyses indicated that the
+ temporal change may be related to interactions with other
+ childhood interventions.
+ 
+<section> Conclusion The MV-­for-­all-­policy increased MV coverage
+ but had no overall effect on overall mortality.
+ 
+<section> Trial registration number NCT01306006.
+ 
+<section> INTRODUCTION
+ In many low-­income countries, measles vaccines
+ (MV) are provided at 9 months of age according
+ to the schedule outlined by the WHO. 1 A second
+ dose is recommended during the second year of
+ life, either through a scheduled second MV or
+ through campaigns.
+ 
+<section> of disregarding the
+ 
+<section> of measles
+ 
+<section> trial
+ 
+<section> Rodrigues,
+ 
+<section> 1,2,3
+ 
+<section> Key questions
+ 
+<section> What is already known?
+ 
+<section> ► Two randomised trials and several observational
+ studies indicate that measles vaccination lowers
+ mortality.
+ 
+<section> ► A policy of only vaccinating children aged less than
+ 12 months and only vaccinating if more than six
+ children were due to be vaccinated was practiced
+ in Guinea-­Bissau.
+ 
+<section> What are the new findings?
+ 
+<section> ► Making measles vaccine (MV) available at biannual
+ village visits increased the coverage by 3 years of
+ age to 97% compared with 48% in the control arm.
+ 
+<section> ► Providing MV for all had no overall effect on mor-
+ tality (HR: 0.95 (95% CI 0.64 to 1.43)) but the effect
+ changed during the trial period from an HR of 0.53
+ (95% CI 0.27 to 1.07) during the first 1½ years of
+ enrolment to 1.47 (95% CI 0.87 to 2.50) among chil-
+ dren enrolled later (p=0.02, test of interaction).
+ 
+<section> ► Explorative analyses indicated that the change in
+ effect over time may be explained by differential ex-
+ posure to other vaccines.
+ 
+<section> What do the new findings imply?
+ 
+<section> ► The restrictive measles vaccination policy left many
+ children unvaccinated and disregarding it (in line
+ with recommendations by WHO) increases coverage
+ and presumably improves measles control.
+ 
+<section> ► Beneficial effects of MV may be contingent on the
+ number and sequence of other vaccines.
+ 
+<section> In Guinea-­Bissau in West Africa, the offi-
+ cial country estimate for MV coverage in
+ 2011 was 78%, 3 and thus far from the recom-
+ mended coverage target of ≥90% necessary to
+ obtain measles control. 2 Although childhood
+ vaccines are provided free of charge at health
+ centres and through outreach services, there
+ are significant barriers to measles vaccina-
+ tion. Among others, we have identified the
+ focus on vaccine wastage as a major barrier.
+ Vaccination coverage for vaccines scheduled 
+<section> during infancy is assessed by 12 months of age. Providing
+ vaccines to children older than 12 months of age does
+ not count in the statistics and is considered wastage.
+ Furthermore, since MV is a live vaccine typically provided
+ in 10-­dose vials, which has to be discarded 6 hours after
+ opening, the focus on wastage has entailed that children
+ in Guinea-­Bissau are only measles vaccinated if at least
+ six children aged 9–11 months are present at the same
+ time. Hence, this ‘restrictive vial opening policy’ results
+ in missed opportunities, and fewer measles vaccinated
+ children.
+ Several observational studies 5–7 and two randomised
+ trials 8 9 from Guinea-­Bissau indicate that measles vacci-
+ nation reduces childhood mortality and morbidity to a
+ much larger extent than can be expected by preventing
+ measles infection. These potential ‘non-­specific effects’
+ (NSEs) of MV were recently examined in a WHO-­
+ sponsored literature review which concluded that the
+ marked benefits observed in both randomised trials and
+ observational studies could not be explained by preven-
+ tion of measles. 10 Thus, the restrictive vial opening policy
+ both deprives children of protection against measles
+ infection and of the beneficial NSEs of MV.
+ To assess the consequences of the restrictive vial
+ policy, we conducted a cluster-­randomised trial in rural
+ villages under health and demographic surveillance.
+ We randomised villages to either follow or disregard the
+ national measles vaccination policy during the surveil-
+ lance visits. In the national measles vaccination policy
+ arm, the ‘Restrictive-­MV-­policy’-arm, we only vaccinated
+ children 9–11 months of age and only if six or more chil-
+ dren were present at the same time. In the ‘MV-­for-­all-­
+ policy’-arm, we provided MV to all measles-­unvaccinated
+ children between 9 and 35 months of age, regardless of age
+ and number of children present at a vaccination session.
+ We hypothesised that among measles unvaccinated chil-
+ dren aged 12–35 months, mortality before 5 years of age
+ would be 30% lower in the ‘MV-­for-­all-­policy’-arm.
+ 
+<section> METHODS
+ 
+<section> Setting
+ 
+<section> The cluster-­randomised trial ‘MVEPI’ was conducted in
+ Bandim Health Project’s (BHP) health and demographic
+ surveillance system (HDSS) in rural Guinea-­Bissau. The
+ BHP follows 182 clusters of approximately 100 women of
+ fertile age and their children under 5 years of age in the
+ nine rural health regions of Guinea-­Bissau. 11 The clus-
+ ters are routinely visited every 6 months by BHP mobile
+ teams registering new pregnancies and children; for all
+ children information on vaccination status is collected
+ (online supplemental material).
+ 
+<section> Trial design and randomisation
+ The 182 rural clusters were randomised 1:1 to either
+ ‘MV-­for-­all-­policy’ or ‘Restrictive-­MV-­policy’ stratified
+ by region and pretrial mortality rates (online supple-
+ mental material). The implications of the randomisation
+ differed for 9–11-­month-­old children and older children.
+ Among older children, all unvaccinated children in the
+ MV-­for-­all-­policy clusters received MV, and no child in
+ the Restrictive-­MV-­policy clusters received MV. Among
+ the 9–11-­month-­old children, children in the MV-­for-­all-­
+ policy clusters received MV irrespective of the number of
+ measles-­unvaccinated children in the cluster, whereas in
+ Restrictive-­MV-­policy clusters, only 9–11-­month-­old chil-
+ dren in clusters with at least six 9–11 months old measles-­
+ unvaccinated children present, received MV.
+ We planned the following analyses: first, an intention-­
+ to-­treat analysis among all measles-­unvaccinated children
+ aged 12–35 months (main analysis) as well as all children
+ aged 9–35 months (the population of 12–35 months old
+ children was the basis for our sample size calculation).
+ Second, a per-­protocol analysis, including only children
+ presenting at the vaccination post and deemed eligible
+ for vaccination. Furthermore, in a third analysis, we
+ aimed to assess the community level impact of MV-­for-­all
+ among all children living in the HDSS villages from the
+ first day they could potentially have been enrolled.
+ We based our initial sample size calculations on a
+ hypothesised halving of mortality 8 but based on emerging
+ evidence updated it to a 30% reduction (online supple-
+ mental material). Assuming that providing MV-­ for-­ all
+ would lower overall mortality by 30% between enrolment
+ and 5 years of age, that 8% of follow-­up time would be
+ censured due to migration, a cluster size of 17, interclass
+ correlation coefficient of 0.5% and a registered pre-­trial
+ mortality of 8.3%, we had planned to enrol 3676 children
+ in the age group 12–35 months.
+ 
+<section> Enrolment
+ 
+<section> The trial was initiated in February 2011 and enrolment
+ ended in December 2015 when a national measles vacci-
+ nation campaign was conducted. Measles-­unvaccinated
+ children aged 9–35 months of age were eligible for
+ the trial. During the bi-­annual visits to the clusters by
+ the BHP mobile teams, mothers/guardians of measles-­
+ unvaccinated children between 9 and 35 months of age
+ were identified by trained BHP fieldworkers and inter-
+ viewed on experiences with seeking MV. The study design
+ and purpose of the MVEPI study was explained to the
+ mother/guardian. If they were interested in participating
+ in the study, the mother/guardian and child were sent to
+ the health post, where the BHP nurse performed a health
+ check of the child (online supplemental material). Chil-
+ dren in the Restrictive-­MV-­policy clusters were vaccinated
+ at the health post if six or more measles-­unvaccinated
+ children aged 9–11 months were present at the same
+ time. In the MV-­for-­all clusters, all measles-­unvaccinated
+ children aged 9–35 months at the time of the visit were
+ measles vaccinated by the BHP regardless of number of
+ children present. Only children who were not acutely
+ ill, had a mid upper-­arm circumference (MUAC) >110
+ mm and had not received a live vaccine within the last
+ days were vaccinated. Written consent was sought from
+ the mother/guardian of children older than 12 months 
+<insert> Figure 1 Children screened for eligibility and included in the
+ MVEPI trial. MUAC, mid upper-­arm circumference. 
+<iend>
+
+ who were vaccinated, as this is not standard practice in
+ Guinea-­ Bissau. The MV (Edmonston-­ Zagreb, Serum
+ Institute of India) was administered as a deep subcuta-
+ neous injection in the subscapular region.
+ Until July 2012, we enrolled children aged 9–35 months
+ in all villages of the rural Bandim HDSS. In 2012, we initi-
+ ated a randomised trial of an additional early MV in three
+ of the regions 12 and paused enrolments for the MVEPI
+ trial in these regions for 14 months (online supplemental
+ material).
+ 
+<section> Follow-up
+ 
+<section> All children followed in the MVEPI trial, were surveyed
+ through the routine BHP surveillance system bi-­annually
+ until their fifth birthday, migration or death. At every
+ bi-­annual follow-­up visit, information on vital status and
+ admissions to hospital was collected and MUAC meas-
+ ured. The reason for loss to follow-­up and date of the
+ event was noted by the BHP field workers. Registered
+ hospital admissions and deaths were followed by an inter-
+ view on the circumstances, symptoms, possible diagnosis
+ and dates.
+ 
+<section> Statistical analyses
+ To assess the impact of an MV-­for-­all-­policy, all analyses were
+ based on measles-­unvaccinated children eligible for enrol-
+ ment in the MVEPI study (intention-­to-­treat-­analyses). Since
+ the implication of the policy differed for children above
+ and below 12 months of age, the primary analysis was based
+ on the intention-­to-­treat population of children aged ≥12
+ months of age. Children aged 9–11 months were analysed
+ combined with ≥12 months old children in secondary anal-
+ yses. We compared sociodemographic and baseline health
+ variables for children eligible for enrolment in the MV-­for-­
+ all-­policy arm with children eligible for enrolment in the
+ Restrictive-­MV-­policy arm.
+ We assessed the impact of living in MV-­for-­all-­policy clus-
+ ters on mortality from the date of eligibility assessment.
+ We censored the observation time for children at the
+ date of the first event of either: their fifth birthday, death
+ (or first hospital admission, see below), migration or first
+ visit after a new MV-­campaign trial initiated by the BHP
+ in November 2016. 13 HRs were estimated in Cox propor-
+ tional hazards models with age as the underlying times-
+ cale, stratified by randomisation strata (region and high/
+ low pretrial mortality) and used robust SE to account for
+ village cluster. Proportional hazards assumptions were
+ tested using Schoenfeld residuals. In the supplementary
+ results, we show a per-­protocol analysis, including only
+ children who were enrolled in the MVEPI trial and the
+ results on the community level, including all children
+ who were visited at 9–35 months of age (figure 1).
+ In addition, we assessed the impact of the MV-­ for-­
+ all-­policy on the risk of hospital admission and MUAC
+ measured at the first visit after enrolment (online supple-
+ mental material). Main results are presented overall and
+ separately for girls and boys since prior analyses have
+ indicated that the beneficial effect of MV is stronger in
+ girls than boys. 5 8 14–16
+ To assess the effect of the MV-­ for-­ all-­ policy on MV
+ coverage and to investigate whether children in the
+ Restrictive-­ MV-­ policy arm were vaccinated elsewhere
+ after 4 enrolment, we assessed MV coverage by 36 months
+ of age. We did so among all children with a seen vaccina-
+ tion card after 36 months and among children fulfilling
+ the eligibility criteria. We report coverage by study arm
+ and age at enrolment.
+ For the mortality outcome, we conducted several anal-
+ yses to investigate determinants of the effect. Vaccination
+ campaigns during follow-­up may change the effect of
+ the trial-­intervention as a new vaccine becomes the most
+ recent vaccine in both intervention and control arm.
+ In prespecified analyses, we therefore examined whether
+ campaigns affected the mortality rate and modified the
+ effect of living in MV-­for-­all villages. To do so, we split
+ the follow-­up time at the date of eligibility to vaccination
+ campaigns during follow-­ up. A resulting dummy vari-
+ able (before/after the time-­split) was investigated as a
+ potential effect modifier. Two national MV campaigns,
+ several oral polio vaccination (OPV) campaigns and one
+ campaign with the meningitis A vaccine (MenAfriVac)
+ took place while children were followed in the trial
+ (online supplemental table 1 and figure 1). 
+<section> In explorative analyses, we stratified the analyses for
+ factors that in prior studies have been associated with
+ a differential effect of MV. The assessed background
+ factors were: season of vaccination, 18 eligibility for (likely
+ received) campaign-­MV before enrolment 19 20 and admin-
+ istration of pentavalent vaccine (Penta) at the time of
+ enrolment. 21 Since almost all children had been eligible
+ for OPV campaigns prior to enrolment, we performed
+ stratified analyses by number of OPV campaigns rather
+ than by yes/no to campaign exposure. 22 We furthermore
+ explored whether the effect differed by number of doses
+ of Penta and whether effects changed before and after
+ initiating the early MV trial, where all children below
+ months of age were offered MV regardless of the number
+ of children present. 12 For the potential effect modi-
+ fiers, we investigated interactions by including a trial-­
+ arm*potential effect modifier-­term in the Cox model,
+ and report the p value from the corresponding Wald test.
+ Unless a stratification criterion applies only to limited age
+ group, these analyses are presented for all children. All
+ analyses were performed in STATA V.16.1 (StataCorp).
+ 
+<section> Patient and public involvement statement
+ Patients and the public were not involved in the design
+ and conduct of this research.
+ 
+<section> RESULTS
+ 
+<section> Study cohorts
+ A total of 22 749 children 9–35 months of age, were recorded
+ in the BHP databases and sought visited between 2011 and
+ 2015. Four thousand seven hundred and sixty-­seven were
+ eligible for inclusion in the MVEPI trial at date of visit to
+ the villages (2339 in the Restrictive-­MV-­policy arm and 2428
+ in the MV-­for-­all-­policy arm) (the main (intention-­to-­treat)
+ analysis) and 4437 (93%) were seen at the enrolment post
+ and fulfilled the criteria for vaccination (per-­protocol anal-
+ ysis). In the Restrictive-­MV-­policy arm, 88 of 2174 children
+ (4%) seen at the vaccination post were measles vaccinated
+ at the date of enrolment according to national policy, as
+ they were between 9 and 11 months old and six and more
+ children were present. In the MV-­for-­all-­policy arm, this was
+ 2232 of 2263 (99%; figure 1).
+ 
+<section> Background characteristics
+ Table 1 displays the characteristics of children eligible for
+ inclusion. More than half (2778, 58%) were aged 12–35
+ months on eligibility assessment. Our randomisation
+ achieved balanced groups for most of the assessed factors
+ including age, sex, maternal age, maternal schooling, indi-
+ cators of socioeconomic status and prior vaccinations both
+ among children aged 12–35 months and among all chil-
+ dren. Children in the MV-­for-­all-­policy clusters were more
+ likely to receive a missed dose of Penta at eligibility assess-
+ ment (table 1). Region of residence and ethnicity of the
+ mother also differed by trial arm. For children who were
+ not enrolled as they had already received MV, there were
+ no marked differences in mortality between the MV-­for-­all
+ clusters and the Restrictive-­MV-­policy clusters during the
+ same period of follow-­up (online supplemental material).
+ 
+<section> Intervention results
+ The intervention had a marked effect on MV coverage.
+ Among children with a vaccination card inspected after
+ 3 years of age, the vaccination coverage for MV was
+ 85% (6185/7284) for children living in the Restrictive-­
+ MV-­ policy clusters while it was 96% (7269/7568) in
+ the MV-­ for-­ all clusters. Among the initially measles-­
+ unvaccinated children, less than a third of the children
+ 12 months or older in the Restrictive-­MV-­policy arm, had
+ received a routine MV by 3 years of age (figure 2).
+ Among the 2778 children aged 12–35 months when
+ eligible for enrolment, we registered 89 deaths before
+ years of age during a median follow-­up of 2.8 years (IQR:
+ 2.0–3.6 years). This corresponded to a mortality of 3.4%
+ or 12/1000 person years, which was less than half of the
+ anticipated rate based on prior data on which we had
+ based our sample size calculation. There were no differ-
+ ences in mortality for children living in the MV-­for-­all
+ versus Restrictive-­ MV-­ policy clusters (HR: 0.95 (95%
+ CI 0.64 to 1.43)) (figure 3, table 2). This was also seen
+ among all children (HR of 1.06 (95% CI 0.78 to 1.44))
+ (table 2), in the per-­protocol analyses (online supple-
+ mental table 2) and the community level analysis (online
+ supplemental material).
+ The effects tended to differ for boys and girls (table 2).
+ Among 12–35 months old girls, living in the MV-­for-­all
+ clusters was associated with a tendency towards higher
+ mortality compared with living in the Restrictive-­ MV-­
+ policy clusters (HR: 1.20 (95% CI 0.63 to 2.27), while the
+ HR was 0.78 (95% CI 0.42 to 1.45) for boys aged 12–35
+ months (p=0.39 for interaction). The same pattern was
+ observed among children aged 9–11 months. Hence,
+ though not statistically significant the sex-­ differential
+ effects became more pronounced in the combined anal-
+ ysis of all children (boys: HR=0.79 (95% CI 0.49 to 1.25);
+ girls: HR=1.43 (95% CI 0.87 to 2.35); p=0.10 for interac-
+ tion). Repeating the analyses with time since eligibility
+ assessment as underlying timescale, resolved a potential
+ problem of non-­proportional hazards and did not alter
+ conclusions (online supplemental material).
+ 
+<section> Other outcomes: hospital admissions, nutritional status and
+ 
+<section> MV coverage
+ 
+<section> There were fewer hospital admissions than deaths both
+ among children aged ≥12 months (n=61) and among all
+ children (n=133). We observed no difference in the hospital
+ admission rates between the two trial arms for children aged
+ 12–35 months (HR=1.09 (95% CI 0.66 to 1.79)). Nor was
+ there any difference among all children and no marked
+ differences by sex (online supplemental table 3).
+ No differences in MUAC at the first visit after assess-
+ ment for eligibility were seen between the two groups,
+ except for boys aged 9–11 months living in MV-­for-­
+ all-­p olicy villages, where there was a slight but statisti-
+ cally significant lower MUAC (143 mm) than among 
+<insert> Children aged 12–35 months at eligibility
+ assessment
+ Restrictive-­MV-­policy n
+ (%)
+ MV-­for-­all n
+ (%)
+ Boy 675 (49) 696 (49)
+ Girl 698 (51) 709 (51)
+ Sex of child
+ All children
+ P value
+ Restrictive-­MV-­policy n
+ (%)
+ MV-­for-­all n
+ (%)
+ 1157 (50) 1187 (49)
+ 1182 (50) 1241 (51)
+ 0.84
+ Region*
+ 0.69
+ <0.001 <0.001
+ Oio 251 (18) 186 (13) 387 (17) 312 (13)
+ Biombo 145 (11) 164 (12) 246 (11) 291 (12)
+ Gabu 195 (14) 164 (12) 362 (16) 307 (13)
+ Cacheu 69 (5) 84 (6) 113 (5) 136 (6)
+ Bafata 170 (12) 236 (17) 327 (14) 429 (18)
+ Quinara 169 (12) 160 (11) 304 (13) 312 (13)
+ Tombali 202 (15) 221 (16) 340 (15) 377 (16)
+ Bubaque 54 (4) 66 (5) 79 (3) 82 (3)
+ Bolama 29 (2) 17 (1) 51 (2) 27 (1)
+ Sao Domingos 89 (7) 107 (8) 130 (6) 155 (6)
+ Season of eligibility
+ assessment
+ 0.56 0.67
+ Rainy season 698 (51) 730 (52) 1211 (52) 1242 (51)
+ Dry season 675 (49) 675 (48) 1128 (48) 1186 (49)
+ Maternal age at birth of
+ eligible child
+ 0.58 0.35
+ <20 years 218 (16) 255 (19) 377 (16) 439 (18)
+ 20–24 years 366 (27) 368 (27) 628 (27) 628 (26)
+ 25–29 years 330 (25) 341 (25) 568 (25) 576 (24)
+ 30–34 years 245 (18) 232 (17) 422 (18) 412 (17)
+ 35+ years 179 (13) 181 (13) 302 (13) 329 (14)
+ 285 (22) 298 (23) 528 (24) 563 (24)
+ Ethnicity of mother
+ Fula
+ <0.001 <0.001
+ Balanta 478 (37) 418 (32) 755 (34) 652 (28)
+ Mandinga 236 (18) 217 (16) 417 (19) 388 (17)
+ Manjaco 45 (4) 39 (3) 75 (3) 66 (3)
+ Pepel 115 (9) 161 (12) 187 (9) 287 (12)
+ Other 123 (10) 188 (14) 247 (11) 354 (15)
+ Never went to school 887 (67) 890 (66) 1514 (67) 1545 (66)
+ Went to school 430 (33) 455 (34) 750 (33) 802 (34)
+ Yes 35 (2) 45 (3) 65 (3) 87 (4)
+ No 1338 (98) 1360 (97) 2274 (97) 2341 (96)
+ Maternal schooling 0.52
+ Was the child a twin?
+ 0.28
+ 0.30
+ Type of roof
+ 0.11
+ 0.17 0.16
+ Straw 628 (48) 675 (51) 1041 (46) 1128 (48)
+ Hard 679 (52) 655 (49) 1214 (54) 1211 (52)
+ Toilet 0.62 0.88
+ No toilet 384 (30) 379 (29) 601 (27) 619 (27)
+ Latrine or inside 917 (70) 945 (71) 1642 (73) 1709 (73)
+ Radio 0.69
+ P value
+ 0.94
+ Table 1 Characteristics of the measles-­unvaccinated children followed in the MVEPI trial 
+<iend>
+
+ 
+<section> Continued 
+<insert> Children aged 12–35 months at eligibility
+ assessment All children
+ Restrictive-­MV-­policy n
+ (%)
+ Restrictive-­MV-­policy n
+ (%)
+ MV-­for-­all n
+ (%)
+ MV-­for-­all n
+ (%) P value
+ Yes 950 (73) 951 (73) 1660 (74) 1712 (74)
+ No 348 (27) 361 (28) 580 (26) 601 (26)
+ Received all pentavalent
+ vaccines before eligibility
+ assessment
+ 0.39
+ P value
+ 0.26
+ Yes 806 (59) 802 (57) 1414 (60) 1429 (59)
+ No 567 (41) 603 (43) 925 (40) 999 (41)
+ Received a missing
+ pentavalent vaccine at
+ eligibility assessment
+ 11 (2) 20 (3) 0.14 282 (30) 359 (36) 0.01
+ Mean age at eligibility
+ assessment (months (SD))
+ 19 (7) 19 (7) 0.71 15 (7) 15 (7) 0.98
+ 1394 (99) 0.08 2255 (96) 2324 (96) 0.22
+ 68 (5) 0.49 59 (3) 68 (3) 0.55
+ 1286 (91) 0.87 2195 (94) 2284 (95) 0.74
+ Eligible for OPV campaign 1369 (100)
+ before enrolment
+ Eligible for MV campaign
+ before enrolment
+ 59 (4)
+ Among children enrolled in the study
+ Enrolled in the study 1259 (92)
+ Anthropometrics at
+ enrolment
+ Mean MUAC, mm (SD) 143 (12) 144 (11) 0.17 142 (12) 143 (12) 0.35
+ Mean mothers MUAC, mm
+ (SD)
+ 265 (30) 267 (30) 0.30 265 (30) 267 (31) 0.15
+ Mean weight, kg (SD) 9.19 (1.68) 9.34 (1.63) 0.15 8.63 (1.62) 8.70 (1.62) 0.38
+ Mean temperature, °C (SD) 36.3 (0.5) 36.3 (0.5) 0.17 36.3 (0.5) 36.3 (0.5) 0.35
+ Fever at enrolment (n (%)) 63 (5) 71 (6) 0.57 109 (5) 122 (5) 0.58
+ Coughing at enrolment (n
+ (%))
+ 56 (5) 62 (5) 0.65 109 (5) 121 (5) 0.61
+ Diarrhoea at enrolment (n
+ (%))
+ 49 (4) 53 (4) 0.77 98 (5) 105 (5) 0.83
+ Vomiting at enrolment (n
+ (%))
+ 13 (1) 16 (1) 0.62 35 (2) 33 (2) 0.68
+ Proportions compared by χ 2 test. Means compared by linear regression with cluster robust SE.
+ *Cacheu and São Domingos are combined as one health region in the national system, but are two administrative regions in the Bandim health and
+ demographic surveillance system.
+ MUAC, mid upper-­arm circumference; MV, measles vaccine; OPV, oral polio vaccine.
+ Table 1 Continued 
+<iend>
+
+ boys living in Restrictive-­MV-­policy villages (145 mm)
+ (online supplemental table 4).
+ 
+<section> Prespecified stratified analyses of mortality effects:
+ interactions with other interventions
+ Vaccination campaigns during follow-­up may change the
+ effect of the trial-­intervention as a new vaccine becomes
+ the most recent vaccine in both intervention and control
+ arm. 17 We examined whether campaigns affected
+ the mortality rate and modified the effect of living in
+ MV-­for-­all villages. When splitting the follow-­up time into
+ before and after MV campaigns, the mortality rate among
+ children aged 12–35 months differed, the HR for after
+ versus before MV campaigns being 0.45 (95% CI 0.28 to
+ 0.75). The HR for after versus before OPV campaigns was
+ 
+<section> 0.81 (95% CI 0.45 to 1.45) and the HR for after versus
+ before the MenAfriVac campaign was 1.11 (95% CI 0.48
+ to 2.58).
+ Splitting the follow-­ u p time of children eligible
+ for enrolment into before and after the MV or OPV
+ campaigns, showed no marked differences between
+ the two trial arms. However, among all children, the
+ HR for MV-­f or-­a ll was 0.97 (95% CI 0.70 to 1.34) prior
+ to the MenAfriVac campaign but 2.42 (95% CI 0.89
+ to 6.60) after the campaign (p=0.09 for interaction)
+ (online supplemental table 5). The potential nega-
+ tive effect tended to be more pronounced in girls
+ (HR=5.77 (95% CI 0.68 to 48.39)) than boys (1.58
+ (95% CI 0.43 to 5.79)). 
+<insert> Figure 2 Measles vaccination (MV) coverage by 36 months
+ of age among children with a vaccination card seen after
+ months.
+ MV coverage assessed among: all (all children with eligibility
+ assessment) 14 852 (69%); eligible at 12–35 months: 1923
+ (69%); eligible at 9–11 months: 1424 (72%); eligible at 9–35
+ months: 3347 (70%). 
+<iend>
+
+ 
+<insert> Figure 3 Kaplan-­Meier survival estimates by trial arm. All
+ children aged 12–35 months.
+ MV, measles vaccine. 
+<iend>
+
+ 
+<section> Explorative analyses
+ In explorative analyses, we assessed if the effect varied
+ over time and by factors which in prior trials have proved
+ important for the effect of MV. Among children with
+ eligibility assessment in the rainy season, living in the
+ MV-­for-­all clusters tended to be associated with higher
+ mortality compared with living in the Restrictive-­ MV-­
+ policy clusters (HR=1.35 (95% CI 0.72 to 2.53)), whereas
+ children with eligibility assessment in the dry season
+ tended to benefit from living in the MV-­for all clusters,
+ HR=0.69 (95% CI 0.40 to 1.21), p=0.13 for a differential
+ effect. The tendencies were similar when the analysis was
+ extended to all children (online supplemental table 6)
+ and for hospital admissions (online supplemental table
+ 3).
+ When analysed by enrolment period, the effect differed
+ significantly before and after the initiation of the concur-
+ rent early MV trial. Among children aged 12–35 months,
+ living in the MV-­for-­all villages tended to be beneficial
+ (HR=0.53 (95% CI 0.27 to 1.07)) if they were assessed
+ for eligibility before 18 July 2012 (period 1), but not after
+ (period 2): HR=1.47 (95% CI 0.87 to 2.50) (p=0.02 for
+ interaction) (figure 2). Extending the analysis to all chil-
+ dren, the HR was 0.70 (95% CI 0.43 to 1.15) in period
+ 1 and 1.46 (95% CI 0.99 to 2.14) in period, p=0.03 for
+ interaction. The differential effect was strongest for girls,
+ where the HR changed from 0.38 (95% CI 0.10 to 1.49)
+ to 2.15 (95% CI 0.93 to 4.97) (p=0.04) while the HRs for
+ boys were 0.63 (95% CI 0.27 to 1.49) and 0.98 (95% CI
+ 0.42 to 2.30) (online supplemental figure 2). Changing
+ the cut-­off date did not alter conclusions (online supple-
+ mental material). Since effects differed over time, we
+ furthermore assessed if potentially explanatory factors
+ changed over time.
+ First, previous studies have shown that OPV-­campaigns
+ may affect the effect of MV. 22 23 99% (2765/2778) of
+ children aged 12–35 months had been exposed to one
+ or more OPV campaigns prior to eligibility assessment
+ (median number: 3 (IQR: 2–4)). For the younger chil-
+ dren aged 9–11 months, 91% (1816/1989) had been
+ exposed (median number: 2 (IQR 1–2)) (online supple-
+ mental table 7). Children who had been exposed to two
+ or fewer campaigns prior to enrolment, tended to have
+ higher mortality if they lived in the MV-­for-­all clusters
+ than if they lived in the restrictive MV clusters, HR=1.69
+ (95% CI 0.97 to 2.95). In contrast, children who had
+ been exposed to three or more OPV campaigns bene-
+ fitted from living in the MV-­ for-­ all clusters, HR=0.54
+ (95% CI 0.31 to 0.97) (p=0.005 for interaction). The
+ pattern was similar for all children (table 3). Finer subdi-
+ visions of number of doses of campaign OPV indicated
+ beneficial effects among children exposed to 3 or 4+
+ doses, negative effects in children exposed to 0–1 dose
+ (online supplemental figure 3). The differential effect
+ was observed in both boys and girls (online supplemental
+ figure 3) and may have been stronger after exposure to
+ OPV campaigns after enrolment (online supplemental
+ table 8).
+ In the first period, more children were exposed to
+ several OPV campaigns before eligibility assessment
+ (online supplemental figures 4 and 5). The median
+ number among 12–35 months old children was 4 (IQR:
+ 3–5), while it was 2 (IQR: 2–3) in the second period.
+ The pattern of lower HR for children exposed to ≥3
+ campaigns was observed in both periods (online supple-
+ mental figure 5).
+ As indicated in table 1, Penta administered at enrolment
+ differed between the two arms of the study. We therefore
+ explored how effects varied by Penta status. Reception
+ of Penta at eligibility assessment did not modify effects
+ (online supplemental table 9). Among children who had
+ not received Penta3 at enrolment, living in the MV-­for-­
+ all-­policy villages tended to be beneficial, HR: 0.59 (95%
+ CI 0.31 to 1.14) while it was not among children who had
+ received Penta3: HR: 1.33 (95% CI 0.77 to 2.31) (p=0.06
+ for interaction) (table 4). The differential effect was
+ similar in all children (p=0.008 for interaction). Strati-
+ fying by doses of Penta indicated a dose–response rela-
+ tionship (online supplemental figure 6). 
+<insert> N
+ Deaths/person years Mortality rate (per
+ (PYRS) 1000 PYRS) HR 95% CI*
+ Children 12–35 months at eligibility assessment
+ Restrictive MV policy 1373 44/3698 11.9 1.00 (ref)
+ MV for all 1405 45/3723 12.1 0.95 (0.64 to 1.43)
+ Restrictive MV policy 2339 81/6775 12.0 1.00 (ref)
+ MV for all 2428 92/6983 13.2 1.06 (0.78 to 1.44)
+ P value test of
+ interaction
+ All Children
+ Children 12–35 months at eligibility assessment
+ Boys 0.39
+ Restrictive MV policy 26/1867 13.9 1.00 (ref)
+ MV for all 22/1884 11.7 0.78 (0.42 to 1.45)
+ Restrictive MV policy 18/1831 9.8 1.00 (ref)
+ MV for all 23/1838 12.5 1.20 (0.63 to 2.27)
+ Girls
+ All Children
+ Boys 0.10
+ Restrictive MV policy 1157 47/3438 13.7 1.00 (ref)
+ MV for all 1187 39/3454 11.3 0.79 (0.49 to 1.25)
+ 1182
+ 1241
+ 34/3337
+ 53/3529
+ 10.2
+ 15.0
+ 1.00 (ref)
+ 1.43 (0.87 to 2.35)
+ Girls
+ Restrictive MV policy
+ MV for all
+ *Estimated in a Cox proportional hazards model stratified for region and pretrial mortality level. 95% CI estimated using a robust SE
+ accounting for intra-­cluster correlation.
+ MV, measles vaccine.
+ Table 2 Mortality and HRs for death among children eligible for enrolment in the MVEPI trial. Overall and stratified by sex of
+ eligibility assessment 
+<iend>
+
+ The Penta3 coverage in children aged 12–35 months
+ was higher during period 2 (61%, 941/1551) than
+ period 1 (54% (667/1226)) (relative risk adjusted for
+ randomisation strata=1.09 (1.02–1.17)). Higher HR with
+ increasing number of Pentas was observed throughout
+ the trial (online supplemental figure 7).
+ 
+<section> DISCUSSION
+ 
+<section> Providing MV-­ for-­ all at our biannual visits resulted in
+ a marked increase in MV coverage. More than half of
+ the children in the Restrictive-­MV-­policy arm were still
+ measles-­unvaccinated by 3 years of age. Therefore, from a
+ measles preventive point of view, it is imperative that MV
+ is provided to all children regardless of age and number
+ of children present. This way the target coverage for
+ 
+<section> MV of ≥90%, set forth by the WHO, may be reached.
+ We have previously shown that the Restrictive-­MV-­policy
+ entails that mothers take their children several times to
+ seek MV—on average 1.4 times, conferring considerable
+ costs and time spent on taking the child to the health-
+ care facility for MV. 24 The average cost of one MV dose
+ in a 10-­dose vial was US$0.279 in 2017 and it is thus one
+ of the cheapest vaccines in the national immunisation
+ programmes. 25 In comparison, one dose of Penta had a
+ price of US$2.25 in 2017. Thus, providing MV for all chil-
+ dren is a cheap childhood intervention which is key in
+ the strive for measles elimination.
+ We found no overall effect on mortality, hospital
+ admissions and MUAC for children living in clusters
+ randomised to MV-­ for-­ all-­ policy compared with chil-
+ dren living in clusters randomised to Restrictive-­ MV-­
+ policy. Though the effect tended to differ by exposure to
+ routine and campaign vaccines, the lower than expected
+ mortality may have limited the power of these analyses.
+ Most remarkable, the mortality effect changed from
+ being beneficial in the beginning to have negative effects
+ in the last part of the trial.
+ 
+<section> Strengths and limitations
+ Nesting the trial into the HDSS with bi-­annual household
+ visits, allowed for better registration and more precision
+ of child age as well as the date of death and migrations.
+ Thanks to the HDSS we also had full follow-­up and prior
+ data available and could perform stratification of clus-
+ ters based on pretrial mortality levels prior to randomi-
+ sation. Background factors were generally evenly distrib-
+ uted among the two trial arms and we observed similar
+ mortality by trial arm among the group of previously 
+<insert> Table 4 Mortality and HRs for death of children eligible for enrolment in the MVEPI trial, according to number of doses of
+ pentavalent vaccines (Penta) prior to assessment of eligibility
+ N
+ Deaths/person
+ years (PYRS)
+ Mortality rate
+ (per 1000 PYRS) HR 95% CI*
+ Children 12–35 months at eligibility assessment†
+ Penta3 before eligibility assessment
+ P value test of
+ interaction
+ 0.06
+ Restrictive MV policy 22/2206 10.0 1.00 (ref)
+ MV for all 30/2123 14.1 1.33 (0.77 to 2.31)
+ No Penta3 before eligibility assessment
+ Restrictive MV policy 22/1491 14.8 1.00 (ref)
+ MV for all 15/1600 9.4 0.59 (0.31 to 1.14)
+ All children
+ Penta3 before eligibility assessment 0.008
+ Restrictive MV policy 1414 41/4184 9.8 1.00 (ref)
+ MV for all 1429 61/4136 14.7 1.46 (0.97 to 2.19)
+ 40/2591
+ 31/2847
+ 15.4
+ 10.9
+ 1.00 (ref)
+ 0.66 (0.43 to 1.03)
+ No Penta3 before eligibility assessment
+ Restrictive MV policy
+ MV for all
+ *Estimated in a Cox proportional hazards model stratified for region and pretrial mortality level. 95% CI estimated using a robust SE
+ accounting for intra-­cluster correlation.
+ †Among 12–36 months old children with inspected vaccination cards during follow-­up, 16% (157/953) of children of initially Penta3
+ unvaccinated children received Penta3; among 9–11 months this was 91% (629/693).
+ MV, measles vaccine. 
+<iend>
+
+ 
+<insert> Deaths/person
+ N years (PYRS)
+ Mortality rate
+ (per 1000 PYRS) HR 95% CI*
+ Children 12–35 months at eligibility assessment
+ 0–2 doses
+ P value test of
+ interaction
+ 0.005
+ Restrictive MV policy 16/1651 9.7 1.00 (ref)
+ MV for all 28/1631 17.2 1.69 (0.97 to 2.95)
+ Restrictive MV policy 28/2046 13.7 1.00 (ref)
+ MV for all 17/2092 8.1 0.54 (0.31 to 0.97)
+ ≥3 doses
+ All Children
+ 0–2 doses 0.004
+ Restrictive MV policy 1474 49/4471 11.0 1.00 (ref)
+ MV for all 1548 72/4637 15.5 1.38 (0.99 to 1.94)
+ 32/2304
+ 3/254
+ 13.9
+ 11.8
+ 1.00 (ref)
+ 0.57 (0.33 to 0.98)
+ ≥3 doses
+ Restrictive MV policy
+ MV for all
+ *Estimated in a Cox proportional hazards model stratified for region and pretrial mortality level. 95% CI estimated using a robust SE
+ accounting for intra-­cluster correlation.
+ MV, measles vaccine.
+ Table 3 Mortality and HRs for death of children eligible for enrolment in the MVEPI trial, according to number of doses of oral
+ polio vaccine in campaigns prior to assessment of eligibility 
+<iend>
+
+ measles vaccinated children who were not eligible for
+ trial participation. The clusters under surveillance in
+ the rural HDSS have been sampled with a probability
+ of sampling proportional to population size, but do not
+ include the capital area, where the likelihood that having
+ a low number of children present for vaccination would
+ be lower. Thus, estimates cannot be extrapolated to the
+ whole country.
+ Our main outcome was mortality. Due to the regular
+ follow-­up of the children, we consider the information 
+<section> on this hard end-­point very valid. Even when children
+ are travelling, other informants than the mother usually
+ provide valid information on the vital status of the child.
+ Our secondary outcome, hospital admissions, was based
+ on statements made by the mother or another relative,
+ but as hospital admissions are rare and major health
+ events, we still consider the information reliable (online
+ supplemental material).
+ The lower than expected mortality during the follow-­up
+ period, meant that we did not have the planned power
+ to detect a significant difference in mortality if the real
+ effect had been as hypothesised (online supplemental
+ material). Additionally, there were potentially important
+ effect modifiers that we did not have sufficient power to
+ examine. Furthermore, the policy was not implemented
+ strictly: though children older than 12 months were not
+ vaccinated by our teams, 31% of the children aged 12–35
+ months in the Restrictive-­MV-­policy clusters had received
+ MV during follow-­ up. This may have diminished our
+ ability to detect a potential effect of the MV-­for-­all-­policy.
+ We have performed many stratified analyses, and
+ though the stratification variables are informed by prior
+ studies, their number increases the risk of chance find-
+ ings. No correction has been made for multiple compar-
+ isons and the results of our stratified analyses should be
+ interpreted with caution.
+ 
+<section> Consistency with other studies
+ Among children who were eligible for enrolment in
+ MVEPI in the dry season, both mortality and hospital
+ admissions tended to be lower in the MV-­for-­all villages
+ than in the Restrictive-­MV-­policy clusters, while it tended
+ to be higher in the rainy season. Stronger beneficial
+ effects in the dry season have previously been observed
+ in a randomised trial of early MV for both mortality 8 and
+ admissions.
+ Almost all children in the present trial were exposed
+ to OPV campaigns prior to enrolment. These campaigns
+ may have beneficial effects on overall child mortality 26
+ and in a recent trial of two-­dose MV versus one dose MV,
+ OPV campaign was associated with a lower mortality,
+ particularly among children in the one-­dose MV group
+ and with stronger effects for girls. 23 28 Our findings that
+ the effects of MV differed by the number of OPV doses,
+ with negative effects in children exposed to 1–2 doses,
+ but beneficial effects in children exposed to 3+ doses, has
+ not been examined previously. In prior studies, we have
+ assessed the effect in young children in early MV trials
+ who have been exposed to 0, 1 or 2 campaigns, and in
+ these observed that the HR increased across additional
+ doses of OPV before MV. 22 28 However, the children in
+ these trials were much younger and therefore given OPV
+ (rather than OPV+vitamin A) and exposed to 2 versus
+ dose of MV.
+ We have previously observed that children receiving
+ additional doses of DTP after MV during follow-­up did
+ not benefit from MV. 20 29 In the present trial, we observed
+ that children fully vaccinated with the DTP-­containing
+ Penta had a negative effect, while children still missing
+ doses of Penta benefitted. This has not been examined
+ previously.
+ MV has been associated with beneficial effects primarily
+ for girls. 8 20 However, in this trial, girls in MV-­for-­all-­policy
+ clusters had higher mortality than girls in Restrictive-­
+ MV-­policy clusters. Our stratified analyses indicate that
+ subsequent exposure to MenAfriVac and potentially
+ prior exposure to OPV could offer explanations for the
+ contrast. Negative effects of vaccination with other non-­
+ live vaccines after MV have been observed previously 30
+ and negative interactions between OPV and MV may be
+ stronger for girls than boys.
+ 
+<section> Interpretation and implications
+ We observed an inversion in the effect of the interven-
+ tion over time, with the effect shifting from an almost
+ 50% lower mortality during the first period of the trial
+ to an almost 50% higher mortality during the second
+ period of the trial. This change in effect was particularly
+ marked for girls. We speculate that part of the change in
+ effect might be explained by the exposure to the MenA-
+ friVac campaign, which could potentially have increased
+ mortality in period 2, particularly in the MV-­for-­all-­policy
+ clusters and particularly for girls. This presupposes that
+ the increased mortality associated with receiving non-­
+ live vaccines after MV is generalisable to MenAfriVac.
+ However, the NSEs of MenAfriVac have not been inves-
+ tigated yet. Our exploratory analyses also identified the
+ increase in Penta coverage and differential exposure to
+ several OPV campaigns prior to enrolment as potential
+ explanations. Both exposure to 0–2 doses of campaigns
+ OPV and Penta3 which appeared to cause a negative
+ effect of MV-­ for-­ all, were more common in period
+ than period 1 and the patterns were consistent within
+ period 1 and period 2. Similar patterns were observed for
+ both sexes, but the potential negative effects appeared
+ stronger in girls than boys (online supplemental figure
+ 5). The observations were unplanned, and though the
+ internal consistency supports causality, we cannot rule
+ out that other factors correlated with the identified effect
+ modifiers may have played a role.
+ Numerous studies have demonstrated that non-­ live
+ vaccines after MV have a negative effect particularly for
+ girls. 14 17 29 31 We speculate that this might explain the
+ observed pattern after MenAfriVac. We have argued else-
+ where that providing a live vaccine after non-­live vaccines
+ reverses a potential detrimental effect of the non-­live
+ vaccine. 17 However, the present data suggest that MV
+ after Penta3 may not always be sufficient. Despite no
+ measurable overall benefit on health, it was clear that the
+ MV-­for-­all-­policy had a marked effect on MV coverage.
+ 
+<section> CONCLUSION
+ The MV-­for-­all-­policy facilitated vaccination opportunities
+ for children who would otherwise be unlikely to receive
+ measles vaccination. We found no overall effect on child 
+<section> health but detected differential mortality patterns indi-
+ cating that both prior and subsequent vaccine exposures
+ 
+<section> affect the response to MV.
+ 
+<section> Twitter Ane Baerent Fisker @AneFisker
+ 
+<section> Contributors PA, AR, CSB and ABF designed the trial. SB and ABF supervised
+ enrolments, follow-­up, data entry and data cleaning. SB and ABF analysed the data.
+ SB wrote the first draft of the paper. ABF has primary responsibility for the final
+ content. All authors contributed to and approved the final version of the paper.
+ 
+<section> Funding The Danish National Research Foundation (grant: DNRF108) funded the
+ data collection. Odense University Hospital (grant: A70) co-­funded the salary of SB.
+ Independent Research Fund Denmark (Sapere Aude Research Leader grant: 9060-­
+ 00018B) and Lundbeck Foundation (Ascending Investigator grant: R313-2019-635)
+ support ABF’s work.
+ 
+<section> Competing interests None declared.
+ 
+<section> Patient consent for publication Not required.
+ 
+<section> Ethics approval The protocol was approved by the National Ethics Committee in
+ Guinea-­Bissau and the Central Ethical Committee in Denmark gave consultative
+ approval.
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data availability statement Data are available upon request. Requests for access
+ to the data should be addressed to the corresponding author.
+ 
+<section> Supplemental material This content has been supplied by the author(s). It has
+ not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been
+ peer-­reviewed. Any opinions or recommendations discussed are solely those
+ of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and
+ responsibility arising from any reliance placed on the content. Where the content
+ includes any translated material, BMJ does not warrant the accuracy and reliability
+ of the translations (including but not limited to local regulations, clinical guidelines,
+ terminology, drug names and drug dosages), and is not responsible for any error
+ and/or omissions arising from translation and adaptation or otherwise.
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution Non Commercial (CC BY-­NC 4.0) license, which
+ permits others to distribute, remix, adapt, build upon this work non-­commercially,
+ and license their derivative works on different terms, provided the original work is
+ properly cited, appropriate credit is given, any changes made indicated, and the
+ use is non-­commercial. See: http:// c reativecommons.​org/​licenses/​by-​nc/​4.​0/.
+ 
+<section> ORCID iDs
+ 
+<section> Stine Byberg http:// o rcid.​org/​0000-​0002-​3626-​3609
+ Ane Baerent Fisker http://​orcid.​org/​0000-​0002-​8521-​0992
+ 
+<section> REFERENCES
+ 1 World Health Organization. Summary of WHO Position Papers -
+ Recommendations for Routine Immunization, 2018. Available: http://
+ www.​who.​int/​immunization/​policy/​Immunization_​routine_​table1.​pdf?​
+ ua=1 [Accessed 25 Jul 2018].
+ 2 World health Organization. Measles vaccines: who position paper –
+ April 2017. Wkly Epidemiol Rec 2017;92:205–28.
+ 3 World Health Organization. Who vaccine-­preventable diseases:
+ monitoring system. 2019 global summary, 2019. Available: http://​
+ apps.​who.​int/​immunization_​monitoring/​globalsummary/​countries?​
+ countrycriteria%​5Bcountry%​5D%​5B%​5D=​GNB&​commit=​OK
+ [Accessed 28 Feb 2020].
+ 4 Fisker AB, Hornshøj L, Rodrigues A, et al. Effects of the introduction
+ of new vaccines in Guinea-­Bissau on vaccine coverage, vaccine
+ timeliness, and child survival: an observational study. Lancet Glob
+ Health 2014;2:e478–87.
+ 5 Aaby P, Samb B, Simondon F, et al. Non-­specific beneficial effect of
+ measles immunisation: analysis of mortality studies from developing
+ countries. BMJ 1995;311:481–5.
+ 6 Kristensen I, Aaby P, Jensen H. Routine vaccinations and child
+ survival: follow up study in Guinea-­Bissau, West Africa. BMJ
+ 2000;321:1435–8.
+ 7 Mogensen SW, Aaby P, Smedman L, et al. Introduction of standard
+ measles vaccination in an urban African community in 1979 and
+ overall child survival: a reanalysis of data from a cohort study. BMJ
+ Open 2016;6:e011317.
+ 
+<section> 8 Aaby P, Martins CL, Garly M-­L, et al. Non-­specific effects of
+ standard measles vaccine at 4.5 and 9 months of age on childhood
+ mortality: randomised controlled trial. BMJ 2010;341:c6495.
+ 9 Aaby P, Garly M-­L, Balé C, et al. Survival of previously
+ measles-­vaccinated and measles-­unvaccinated children in an
+ emergency situation: an unplanned study. Pediatr Infect Dis J
+ 2003;22:798–805.
+ 10 Higgins JPT, Soares-­Weiser K, López-­López JA, et al. Association
+ of BCG, DTP, and measles containing vaccines with childhood
+ mortality: systematic review. BMJ 2016;355:i5170.
+ 11 Thysen SM, Fernandes M, Benn CS, et al. Cohort profile : Bandim
+ Health Project's (BHP) rural Health and Demographic Surveillance
+ System (HDSS)-­a nationally representative HDSS in Guinea-­Bissau.
+ 
+<section> BMJ Open 2019;9:e028775.
+ 12 Fisker AB, Nebie E, Schoeps A, et al. A two-­center randomized trial
+ of an additional early dose of measles vaccine: effects on mortality
+ and measles antibody levels. Clin Infect Dis 2018;66:1573–80.
+ 13 Varma A, Jensen AKG, Thysen SM, et al. Research protocol of two
+ concurrent cluster-­randomized trials: real-­life effect of a campaign
+ with measles vaccination (RECAMP-­MV) and real-­life effect of a
+ campaign with oral polio vaccination (RECAMP-­OPV) on mortality
+ and morbidity among children in rural Guinea-­Bissau. BMC Public
+ Health 2019;19:1506.
+ 14 Aaby P, Jensen H, Samb B, et al. Differences in female-­male
+ mortality after high-­titre measles vaccine and association with
+ subsequent vaccination with diphtheria-­tetanus-­pertussis and
+ inactivated poliovirus: reanalysis of West African studies. Lancet
+ 2003;361:2183–8.
+ 15 Aaby P, Vessari H, Nielsen J, et al. Sex differential effects of routine
+ immunizations and childhood survival in rural Malawi. Pediatr Infect
+ Dis J 2006;25:721–7.
+ 16 Aaby P, Martins C, Bale C, et al. Sex differences in the effect of
+ vaccines on the risk of hospitalization due to measles in Guinea-­
+ bissau. Pediatr Infect Dis J 2010;29:324–8.
+ 17 Benn CS, Fisker AB, Rieckmann A, et al. Vaccinology: time to
+ change the paradigm? Lancet Infect Dis 2020;20:e274–83.
+ 18 Martins CL, Benn CS, Andersen A, et al. A randomized trial of a
+ standard dose of Edmonston-­Zagreb measles vaccine given at
+ 4.5 months of age: effect on total hospital admissions. J Infect Dis
+ 2014;209:1731–8.
+ 19 Byberg S, Thysen SM, Rodrigues A, et al. A general measles
+ vaccination campaign in urban Guinea-­Bissau: comparing child
+ mortality among participants and non-­participants. Vaccine
+ 2017;35:33–9.
+ 20 Fisker AB, Rodrigues A, Martins C, et al. Reduced all-­cause child
+ mortality after general measles vaccination campaign in rural
+ Guinea-­Bissau. Pediatr Infect Dis J 2015;34:1369–76.
+ 21 Fisker AB, Ravn H, Rodrigues A, et al. Co-­administration of live
+ measles and yellow fever vaccines and inactivated pentavalent
+ vaccines is associated with increased mortality compared with
+ measles and yellow fever vaccines only. An observational study from
+ Guinea-­Bissau. Vaccine 2014;32:598–605.
+ 22 Aaby P, Andersen A, Martins CL, et al. Does oral polio vaccine have
+ non-­specific effects on all-­cause mortality? Natural experiments
+ within a randomised controlled trial of early measles vaccine. BMJ
+ Open 2016;6:e013335.
+ 23 Nielsen S, Fisker AB, Sie A. Contradictory mortality results in early
+ 2-­dose measles vaccine trials: oral polio vaccine campaigns may
+ explain differences. Submitted.
+ 24 Byberg S, Fisker AB, Rodrigues A, et al. Household experience and
+ costs of seeking measles vaccination in rural Guinea-­Bissau. Trop
+ Med Int Health 2017;22:12–20.
+ 25 UNICEF. Supply and logistics - Vaccine price data, 2018. Available:
+ https://www.​unicef.​org/​supply/​index_​57476.​html [Accessed 25 Jul
+ 2018].
+ 26 Andersen A, Fisker AB, Rodrigues A, et al. National immunization
+ campaigns with oral polio vaccine reduce all-­cause mortality: a
+ natural experiment within seven randomized trials. Front Public
+ Health 2018;6:13.
+ 27 Andersen A, Fisker AB, Nielsen S, et al. National immunisation
+ campaigns with oral polio vaccine may reduce all-­cause mortality:
+ an analysis of 13 years of demographic surveillance data from an
+ urban African area. Clin Infect Dis 2020. doi:10.1093/cid/ciaa1351.
+ [Epub ahead of print: 19 Sep 2020].
+ 28 Nielsen S, Fisker AB, Silva da I. Randomised controlled trial of early
+ 2-­dose measles vaccination and childhood mortality. Submitted.
+ 29 Aaby P, Jensen H, Simondon F, et al. High-­titer measles vaccination
+ before 9 months of age and increased female mortality: do we have
+ an explanation? Semin Pediatr Infect Dis 2003;14:220–32.
+ 30 Aaby P, Jensen H, Whittle H. High-­titre measles vaccine and female
+ mortality. Lancet 2003;362:1765. 
+<section> 31 Aaby P, Ravn H, Benn CS, et al. Randomized trials comparing
+ inactivated vaccine after medium- or high-­titer measles vaccine with
+ standard titer measles vaccine after inactivated vaccine: a meta-­
+ analysis. Pediatr Infect Dis J 2016;35:1232–41.

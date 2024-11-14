@@ -1,0 +1,918 @@
+
+<section> © 2022 The Author(s) 
+<section> Cite as: Ghosh R, Otieno
+ JoGH © 2022 ISoGH Research Collaborative.
+ in Kenya and Uganda:
+ 
+<section> Effect of a quality improvement
+ for management of preterm
+ outcomes of all births in
+ 
+<section> A secondary analysis from
+ cluster randomized trial
+ 
+<section> Rakesh Ghosh *, Phelgona
+ 
+<section> Background A large
+ 
+<section> Otieno 
+<section> *, Elizabeth
+ 
+<section> first day of birth. The
+ Butrick , Nicole Santos , crease mortality among
+ Peter Waiswa 3,4 †, Dilys intrapartum care. The
+ Walker 1,5 †; Preterm Birth the package reduced
+ 
+<section> Initiative Kenya and fants. This secondary
+ age on stillbirth and
+ 
+<section> Uganda Implementation
+ 
+<section> 20 participating facilities
+ 
+<section> Research Collaborative
+ 
+<section> Methods Eligible facilities
+ 
+<section> 1 University of California, San ther the intervention
+ Francisco, Institute for Global strengthening and
+ Health Sciences, USA Checklist; facilities
+ 2 Center for Clinical Research, ring using PRONTO
+ Kenya Medical Research Institute, collaboratives. We
+ Nairobi, Kenya
+ 3 Makerere University, School of 
+<section> Results Of the total
+ Public Health, Uganda births and Uganda
+ 4 Department of Global Public respectively. There
+ Health, Karolinska Institutet, trol arm and 439 in
+ Sweden fect of the intervention
+ 5 University of California, San confidence interval
+ Francisco, School of Medicine,
+ 
+<section> (95% CI = 0.72-1.73);
+ Department of OB/GYN and
+ 
+<section> trends were similar
+ Reproductive Sciences, USA
+ *Joint first authorship. 
+<section> Conclusions The intervention
+ †Joint senior authorship. da but not in Kenya.
+ ferences that were observed
+ 
+<section> Registration This trial
+ 
+<section> Globally, an estimated
+ birth (PTB: birth before
+ 
+<section> Correspondence to: majority occur in low-
+ 
+<section> Rakesh Ghosh pregnancies end in stillbirth,
+ Institute for Global Health Sciences, sub-Saharan Africa, combined
+ University of California San Francisco nancy-related causes,
+ 550 16th St, San Francisco About 40% of the neonatal
+ 
+<section> California
+ 
+<section> USA around the time of labor
+ 
+<section> Rakesh.Ghosh@ucsf.edu tance of quality intrapartum
+ 
+<section> P, Butrick E, Santos N, Waiswa P, Walker D; Preterm Birth Initiative Kenya and Uganda Implementation
+ Effect of a quality improvement intervention for management of preterm births on outcomes of all births
+ A secondary analysis from a facility-based cluster randomized trial. J Glob Health 2022;12:04073.
+ 
+<section> intervention
+ 
+<section> births on
+ 
+<section> Kenya and Uganda:
+ 
+<section> a facility-based
+ 
+<section> proportion of early neonatal deaths occur at the time or on the
+ Preterm Birth Initiative East Africa (PTBi EA) set out to de-
+ preterm births through improving quality of facility-based
+ PTBi EA cluster randomized trial’s primary analysis showed
+ intrapartum stillbirth and neonatal death among preterm in-
+ analysis examines the impact of the PTBi intervention pack-
+ predischarge newborn deaths combined, among all births in
+ in Kenya and Uganda.
+ 
+<section> were pair-matched and randomly assigned (1:1) into ei-
+ or the control group. All facilities received support for data
+ a modified World Health Organization (WHO) Safe Childbirth
+ in the intervention group additionally received provider mento-
+ simulation and team training as well as quality improvement
+ abstracted data from maternity registers.
+ 
+<section> 29 442 births that were included, Kenya had 8468 and 6465
+ had 8719 and 5790 births, in the control and intervention arms,
+ were 935 stillbirths and predischarge newborn deaths in the con-
+ the intervention arm. The adjusted odds ratio (aOR) for the ef-
+ on the combined outcome, among all births, was 0.96 (95%
+ (CI) = 0.69-1.32), which was different by country: Kenya – 1.12
+ Uganda – 0.65 (95% CI = 0.44-0.98); P = 0.025. These
+ 
+<section> interaction
+ after excluding the PTBi primary cohort.
+ 
+<section> package improved survival among all births in Ugan-
+ These results suggest the importance of context and facility dif-
+ between the two countries.
+ 
+<section> is registered with ClinicalTrials.gov, NCT03112018.
+ 
+<section> 2.7 million neonatal deaths occur annually, of which preterm
+ 37 completed weeks of gestation) is the leading cause and the
+ and middle-income countries (LMIC) [1]. Another 2.6 million
+ of which more than three-quarters occur in South Asia and
+ [2]. In 2017, almost 300 000 women died from preg-
+ 86% of which occurred in sub-Saharan Africa and South Asia [3].
+ deaths and stillbirths and 46% of the maternal deaths occur
+ or on the day of birth [4]. These statistics highlight the impor-
+ care and its significance to maternal and newborn survival. 
+<section> The Preterm Birth Initiative – East Africa (PTBi EA) set out to decrease the burden of mortality among PTB
+ through improving quality of facility-based intrapartum care. Per our study logic model of change [5], an intra-
+ partum-immediate newborn quality improvement package focused on preterm identification and management
+ would result in improved survival. While the PTBi EA intervention package emphasized key topics related to
+ PTB, it also sought to improve overall quality of care during the intrapartum and immediate postnatal period
+ in the facility, which research has shown to be key to saving newborn lives [6]. Specifically, the intervention
+ package was developed based on available evidence that up to two-thirds of neonatal deaths could be avert-
+ ed by improved uptake of evidence-based practices described by the Every Newborn Action Plan [4]. Previ-
+ ous research recommended the use of priority packages in an integrated approach for effective improvement
+ in neonatal outcomes [4,6]. Each of the PTBi package components was chosen because it met stakeholder re-
+ quirements of: (a) having the potential to improve quality of care for preterm infants as well as for the moth-
+ er-baby dyad more generally, and (b) demonstrable effectiveness as standalone interventions based on prior
+ evidence. Our intervention package reinforced evidence-based practices, many of which should be observed
+ for all births including those of intrapartum monitoring and neonatal resuscitation [7].
+ The PTBi EA trial’s primary analysis showed the package to be effective in reducing intrapartum stillbirth and
+ neonatal death (primary outcome), as well as predischarge newborn mortality (secondary outcome) among
+ preterm infants [8]. Because stakeholders involved in the design and implementation of the intervention pack-
+ age prioritized elements believed to improve care for all births, we hypothesized that it would also impact sur-
+ vival among all births. Therefore, the objective of this secondary analysis was to examine the impact of the PTBi
+ quality improvement intervention package on stillbirth and predischarge newborn mortality, as a composite
+ outcome, among all births in participating facilities starting in October 2016 up to June 2018 in Uganda and
+ up to March 2019 in Kenya. As the facilities in the two countries were heterogenous by several accounts, we
+ also examined if the intervention effect was differential by country. We additionally investigated the impact
+ of the intervention on predischarge maternal mortality. Our manuscript follows the recommendations of the
+ CONSORT Statement [9] that is relevant for cluster randomized trials.
+ 
+<section> METHODS
+ 
+<section> Study design and setting
+ 
+<section> As described elsewhere, PTBi EA conducted an unblinded, pair-matched cluster-randomized controlled trial
+ (cRCT) in select health facilities in Migori County, Kenya and Busoga Region, Uganda [5]. Interventions were
+ delivered at the facility level. Twenty-three rural and peri-urban facilities were assessed for inclusion in the cRCT
+ (Figure S1 in the 
+<section> Online Supplementary Document) with the following criteria: (a) 24-hour labor and de-
+ livery services, (b) at least 200 births per year, and (c) a comparable facility in the same country to pair-match.
+ Three facilities - one county referral hospital in Kenya, one district referral and one regional referral hospital in
+ Uganda - were excluded from the cRCT because of lack of comparable facilities to pair-match. However, these
+ referral facilities received the intervention package in order to benefit from any quality improvement activi-
+ ties, achieve and maintain similar quality of care standards, and to prevent lower-level facilities from referring
+ to a center with inferior quality of care.
+ 
+<section> In Kenya, the cRCT included 14 public and two non-profit missionary facilities. Among these, two performed
+ caesarean sections and none had functional newborn care units or onsite pediatricians. One control site added
+ caesarean section capacity while the study was ongoing. Together, the 16 facilities had approximately 11
+ deliveries per year, during the study period. On average, one to two midwives covered each shift.
+ In Uganda, the cRCT included four district-level facilities, two public and two non-profit missionary hospi-
+ tals. All four facilities did caesarean sections, and each had a newborn care unit without capacity for contin-
+ uous positive airway pressure or an onsite pediatrician. Together, the four facilities had approximately 9000
+ deliveries per year, during the study period. The facilities in Uganda were higher volume than those in Kenya,
+ with two to three midwives per shift.
+ 
+<section> Matching and randomization
+ 
+<section> Counts of indicators between June 2015 and May 2016 from maternity registers were used to match and gener-
+ ate 10 facility pairs. A non-bipartite matching algorithm was used to match by country, monthly deliveries, de-
+ liveries to staff ratio, stillbirth rate, low-birthweight rate, and predischarge newborn death rate [5,8]. Field teams
+ reviewed the preliminary matched pairs, and five of the ten pairs were re-matched on the basis of local knowl-
+ edge of functional level and facility type. After final matching, a study statistician randomly assigned one from
+ each pair to the intervention group. Nature of the intervention rendered allocation concealment impossible. Quality improvement intervention for management of preterm births
+ 
+<section> Intervention
+ 
+<section> The intervention package for the trial was designed using an integrated approach to optimize care for the moth-
+ er-baby dyad, to impact provider behavior at critical moments during triage, labor, birth, and the early neonatal
+ period. The four components of the interventions package are described in detail elsewhere [7]. Additional-
+ ly, a summary is provided in Figure S2. in the 
+<section> Online Supplementary Document. The intervention package
+ included: (a) PRONTO simulation and team training; (b) quality improvement collaboratives; (c) modified
+ Safe Childbirth Checklist (mSCC); and (d) data strengthening [5,7]. The package aimed to strengthen provid-
+ er skills, teamwork and emphasized use of evidence-based practices for PTB, including but not limited to the
+ appropriate administration of antenatal corticosteroids, immediate skin to skin contact, breastfeeding, new-
+ born resuscitation, and feeding preterm neonates. PRONTO training focused on provider skill development in
+ emergency obstetric and neonatal care, including preeclampsia, hemorrhage and a focus on PTB, while quality
+ improvement collaboratives allowed intervention facilities to discuss quality improvement projects and their
+ effects on target indicators. The mSCC served to provide reminders of key evidence-based practices, with an
+ emphasis on PTB and triage processes prior to admission. The data strengthening component focused on ma-
+ ternity register completion and data quality particularly for accurate gestational age and outcome indicators.
+ Data strengthening and introduction of the mSCC were implemented in both intervention and control facil-
+ ities beginning in May 2016 and continuing throughout the study. In October 2016, PRONTO training and
+ quality improvement collaboratives began in the 10 intervention facilities and continued throughout the study
+ period. Before the trial began, sites were assessed and if basic equipment and/or supplies, such as functional
+ digital scales and neonatal bag and masks, were found unavailable, PTBi EA provided these items to standard-
+ ize resource availability across sites. These expenses did not exceed US$50 000 in either country.
+ 
+<section> Data collection
+ 
+<section> Anonymized individual-level data for all births were extracted each month from facility-based maternity reg-
+ isters by PTBi study staff and entered into an encrypted Open Data Kit platform. Each mother and infant were
+ assigned unique but linked identifiers. Data collected include, maternal (age, multiplicity, referral status) and
+ newborn (birth weight, gestational age at birth, APGAR scores, infant sex) characteristics, mode of delivery
+ and maternal and newborn status at birth and discharge.
+ 
+<section> While preterm neonates (defined as fresh stillbirths and livebirths weighing 1000-2499 g irrespective of ges-
+ tational age, or 2500-2999 g with a recorded gestational age of less than 37 weeks) were invited to participate
+ for follow-up at 28 days after birth for the cRCT primary analysis, there was no provision for follow-up after
+ discharge for the remaining births in the cohort. For our primary cRCT analysis, any stillborn and liveborn
+ neonates weighing less than 1000 g, irrespective of gestational age, were excluded because they were consid-
+ ered previable in both countries. However, all births registered in the maternity ward, regardless of their birth
+ weight or gestational age, were included in this secondary analysis.
+ 
+<section> Outcomes
+ 
+<section> Birth outcome was determined by triangulating delivery status, APGAR scores and baby discharge status. Still-
+ births included intrapartum stillbirth (recorded as “fresh stillbirth” and defined as intrauterine death of a fetus
+ during labor or delivery), antepartum stillbirth (recorded as “macerated stillbirth” and defined as intrauterine
+ death of a fetus before the onset of labor showing degenerative changes), and those recorded only as “stillbirth”
+ in the maternity register. Sometimes the delivery status and/or the baby discharge status recorded only stillbirth,
+ ie, a sub type was not defined, and the APGAR scores were zero. Those cases were designated as “undefined
+ stillbirth.” To reconcile the heterogeneity, we included intrapartum, antepartum and undefined stillbirths into
+ one overall group as “stillbirth.” Predischarge newborn mortality was defined as death of a liveborn baby be-
+ fore facility discharge, which we combined with stillbirth and investigated as a composite outcome in this sec-
+ ondary analysis. Pregnancy-related maternal death was defined as deaths from any cause related to or aggra-
+ vated by pregnancy or its management during pregnancy and childbirth, as recorded in the maternity register.
+ 
+<section> Sample size
+ 
+<section> Sample size for the primary outcome of the PTBi cRCT is presented elsewhere [5,8]. For this secondary analy-
+ sis with 29 442 births (Table 1 and 
+<section> Figure 1) and estimated intracluster correlation of 0.02, the power is 56%
+ at the 5% significance level to detect a 1.8% difference between the two arms (5.4% vs 3.6%, 
+<section> Table 2), for
+ the composite outcome. For Uganda, with 14 509 births, this study had 78% power to detect a 2.8% (7.5%
+ vs 4.7%, 
+<section> Table 2) difference between the study arms. 
+<insert> Table 1. Characteristics (%, n) of all births in the two countries, aggregated and separately*
+ Both countries aggregate
+ Characteristics
+ Maternal characteristics
+ Age categories (years)
+ 13-17
+ 18-35
+ 36-53
+ Caesarean sections
+ Vaginal delivery
+ Multiple gestations
+ Singletons
+ Neonatal characteristics
+ Male
+ Birth weight <2500 g
+ Gestational age
+ <37completed weeks
+ Kenya Uganda
+ Control
+ (n = 17 187)
+ % n
+ Intervention
+ (n = 12 255)
+ % N
+ Control
+ (n = 8468)
+ % n
+ Intervention
+ (n = 6465)
+ % n
+ Control
+ (8719)
+ Intervention
+ (5790)
+ % n % n
+ 7.6
+ 87.0
+ 5.4
+ 20.7
+ 79.9
+ 4.5
+ 95.5
+ 1297
+ 14
+ 3499
+ 13
+ 16
+ 8.9
+ 86.2
+ 4.9
+ 14.1
+ 86.2
+ 3.9
+ 96.1
+ 1085
+ 10
+ 1724
+ 10
+ 11
+ 8.3
+ 87.1
+ 4.6
+ 11.4
+ 88.6
+ 3.8
+ 96.2
+ 7348
+ 7461
+ 8143
+ 11.5
+ 84.2
+ 4.3
+ 3.8
+ 96.2
+ 2.7
+ 97.3
+ 5427
+ 6186
+ 6292
+ 6.9
+ 87.0
+ 6.1
+ 29.8
+ 70.2
+ 5.2
+ 94.8
+ 7512
+ 2542
+ 5988
+ 8264
+ 6.0
+ 88.5
+ 5.7
+ 25.7
+ 74.4
+ 5.2
+ 94.8
+ 5061
+ 1477
+ 4288
+ 5488
+ 50.4
+ 7.9
+ 8661
+ 1347
+ 50.8
+ 8.9
+ 6228
+ 1067
+ 49.3
+ 5.4
+ 4171 51.7
+ 6.5
+ 3340 51.5
+ 10.5
+ 4490 49.9
+ 11.6
+ 2888
+ 10.9 1872 12.6 1541 9.5 10.3 12.3 1072 15.1
+ *Numbers will not add up to the total in each study arm because of missing data. 
+<iend>
+
+ 
+<insert> Figure 1. The Preterm Birth Initiative (PTBi) study trial profile for all births. The included and the excluded sample were
+ compared to examine selection bias. 
+<iend>
+ 
+<insert> Table 2. Effect of PTBi intervention (odds ratio, OR) on neonatal and maternal outcomes in all births across the two countries, aggregated
+ and separately*
+ Inter-
+ vention
+ OR
+ (95% CI)
+ Stillbirth + predischarge
+ newborn mortality
+ (combined)
+ 935/17 439/12
+ 0.96
+ (0.69-1.32)
+ Stillbirth 719/17 308/12
+ 216/16 131/11
+ 29/15 16/10
+ Predischarge newborn
+ mortality
+ Predischarge maternal
+ mortality
+ 0.88
+ (0.65-1.20)
+ 0.96
+ (0.83-1.10)
+ 0.89
+ (0.52-1.51)
+ Kenya Uganda
+ Inter-
+ action
+ P-value
+ Control Inter-
+ vention
+ OR
+ (95% CI)
+ 0.025† 285/8468 167/6465
+ 1.12
+ (0.72-1.73)
+ 0.029† 209/8468 115/6465
+ 0.098 76/8259 52/6350
+ 0.939 9/7076 5/5521
+ 1.04
+ (0.79-1.36)
+ 1.12
+ (0.86-1.47)
+ 0.86
+ (0.30-2.43)‡
+ Control Inter-
+ vention
+ OR
+ (95% CI)
+ 650/8719 272/5790
+ 0.65
+ (0.44-0.98)
+ 510/8719 193/5790
+ 140/8209 79/5597
+ 20/8218 11/4971
+ 0.59
+ (0.36-0.97)
+ 0.88
+ (0.76-1.02)
+ 0.90
+ (0.45-1.80)
+ CI – confidence interval, PTBi – preterm birth initiative
+ *Models are adjusted for matched pairing of facilities and clustering of births within facilities.
+ †Interaction P-value for Country × Intervention, suggesting statistically significant difference in the outcome between the two countries.
+ ‡Two pairs of clusters (6 facilities) were dropped from the Kenya maternal mortality model because there were no maternal deaths in either the control or the
+ intervention facilities. These results are likely unstable because of few outcomes.
+ Both countries aggregate
+ Control 
+<iend>
+
+ Quality improvement intervention for management of preterm births
+ 
+<section> Statistical analysis
+ 
+<section> For this secondary analysis, all births (n = 29 442) were included (Figure 1) and their characteristics were
+ 
+<section> all births
+ 
+<section> compared across arms to examine arm balance. We also examined the trend of the composite outcome stillbirth
+ and predischarge newborn mortality, by arms, over the study period. We followed similar analytical methods
+ to measure the intervention effect, as reported previously for the primary analysis [8]. With individual births
+ as unit, we performed intention-to-treat analysis using multilevel logistic regression adjusting for pairing be-
+ cause of the pair-matched design. We used a random intercept for each facility, accounting for clustering of
+ deliveries within facilities and quantified appropriate standard errors. We quantified the overall effect of the
+ PTBi intervention and the differential effect by country, as the facilities in the two countries were relatively
+ heterogenous. The statistical significance of the differential effect (interaction) by country was examined us-
+ ing a product term in the model, following which we fit stratified models. The main results report the effect
+ of intervention on the composite outcome as well as the other outcomes by comparing all births between the
+ intervention and the control facilities, during the study period.
+ 
+<section> We have previously reported an effect of the PTBi intervention on the primary outcome that included only
+ preterm and low birth weight neonates followed up to 28 days (n = 2938) [8]. In order to under-
+ 
+<section> PTBi primary cohort
+ 
+<section> stand if any effect observed between the intervention and outcomes among all births is independent of the ef-
+ fect observed in the PTBi primary cohort reported previously, we conducted sensitivity analysis_1 by excluding
+ the PTBi primary cohort (ie, n – n = 27 397). Further, in sensitivity analysis_2 we excluded all
+ 
+<section> all births PTBi primary cohort
+ 
+<section> preterm neonates to examine if any observed effect was driven by the effect on PTB. In other words, the sensi-
+ tivity analysis_2 was restricted to term births (ie, n – n = 25 003). This sensitivity analysis excluded
+ 
+<section> all births all preterm
+ 
+<section> the PTBi primary cohort, preterm macerated stillbirths that were ineligible for the PTBi primary cohort, moth-
+ ers who delivered preterm and declined consent for 28-day follow-up after birth, and mothers who were not
+ consented for other reasons. Finally, we examined selection bias by comparing study characteristics of the in-
+ cluded (n = 29 442) with the excluded sample (n = 19 046), as shown in 
+<section> Figure 1. To understand if
+ 
+<section> all births excluded
+ 
+<section> differential selection of the study sample could be a potential alternative explanation for any observed effect,
+ we performed sensitivity analysis_3 by combining the included (n ) with the excluded births (n ). All
+ 
+<section> all births 
+<section> excluded
+ 
+<section> hypothesis tests were two-tailed at the 5% significance level. Analyses were conducted using STATA version
+ 
+<section> 17.0 (StataCorp).
+ 
+<section> The cRCT was approved by the respective Review Boards at the University of California San Francisco (16–
+ 19162, 29-March-2016), the Kenya Medical Research Institute Scientific (KEMRI/SERU/CCR/0034/3251, 12-
+ May-2016), the Makerere University Higher Degrees and the Uganda National Council of Science and Technol-
+ ogy (MUSPH HDREC 395, 17-June-2016). We obtained a waiver of consent to obtain de-identified line-by-line
+ data from maternity registers. The trial is registered on ClinicalTrials.gov, NCT03112018. 
+<insert> Figure 2. Temporal trends of the combined percentage of stillbirths and pre-
+ discharge newborn mortality among all births, by the Preterm Birth Initia-
+ tive (PTBi) study trial arms in Kenya and Uganda, reported for each quarter.
+ In Kenya, we truncated in June 2018 to show comparable time points for
+ both countries in this graph.
+ countries, 1.04 (95% CI = 0.79-1.36) in Kenya, and
+ 0.59 (95% CI = 0.36-0.97) in Uganda. However, pre-
+ discharge newborn mortality and predischarge mater-
+ nal mortality were similar in both arms and there was
+ no statistically significant effect of the intervention on
+ these two outcomes, overall or by country (Table 2).
+ In sensitivity analysis_1 (Table 3), when the PTBi primary cohort was excluded, the results remained large-
+ ly the same as in all births (aggregated for both countries – 0.93 (95% CI = 0.68-1.28); Kenya – 1.07 (95% 
+<iend>
+
+ 
+<insert> Table 3. Effect of PTBi intervention (odds ratio, OR) on neonatal and maternal outcomes in all births across the two countries, aggregated
+ and separately, after excluding the PTBi primary cohort*
+ Both countries aggregate
+ Control Inter-
+ vention
+ OR
+ (95% CI)
+ Stillbirth + predischarge
+ 0.93
+ neonatal mortality 773/16 113 348/11
+ (0.68-1.28)
+ (combined)
+ 0.83
+ Stillbirth 611/16 113 252/11
+ (0.63-1.09)
+ Predischarge neonatal 0.97
+ 162/15 502 96/11
+ mortality (0.81-1.14)
+ Predischarge maternal 1.28
+ 19/13 15/9116
+ mortality‡ (0.82-2.00)
+ Kenya Uganda
+ Inter-
+ action
+ P-value
+ Control Inter-
+ vention
+ OR
+ (95% CI)
+ 0.018† 240/8032 135/6016
+ 1.07
+ (0.84-1.35)
+ 0.023† 181/8032 95/6016
+ 0.101 59/7851 40/5921
+ 0.607 6/6296 4/4598
+ 1.02
+ (0.81-1.29)
+ 1.18
+ (0.83-1.67)
+ 1.05
+ (0.39-2.79)
+ Control Inter-
+ vention
+ OR
+ (95% CI)
+ 533/8081 213/5268
+ 0.62
+ (0.41-0.96)
+ 430/8081 157/5268
+ 103/7651 56/5111
+ 13/7611 11/4518
+ 0.56
+ (0.33-0.95)
+ 0.86
+ (0.72-1.02)
+ 1.39
+ (0.85-2.27)
+ CI – confidence interval, PTBi – preterm birth initiative
+ *Models are adjusted for matched pairing of facilities and clustering of births within facilities.
+ †Interaction P-value for Country × Intervention, suggesting statistically significant difference in the outcome between the two countries.
+ ‡Three pairs of clusters (6 facilities) were dropped from the maternal mortality model because there were no maternal deaths in either the control or the in-
+ tervention facilities. The results for Kenya are likely unstable because of few outcomes. 
+<iend>
+
+ 
+<section> RESULTS
+ 
+<section> The number of participants in the two study
+ sions, 29 442 births were included, with 17 187
+ had 8468 and 6465 and Uganda had 8719 and
+ Across both countries aggregated, about 87%
+ evenly distributed across the arms (Table 1). About
+ 14% in the intervention arm. Likewise, multiple
+ intervention arm (3.9%). In contrast, the proportions
+ control arm than in the intervention arm.
+ 
+<section> By country, Kenya had a higher proportion of
+ portion of cesarean section compared to Uganda
+ Proportions of neonates with low birth weight and
+ arms and the exclusions are shown in 
+<section> Figure 1. After all exclu-
+ in the control arm and 12 255 in the intervention arm. Kenya
+ 5790 births in the control and intervention arms, respectively.
+ of all births were among women aged between 18 and 35 years
+ 21% had cesarean section in the control arm compared to
+ births were slightly higher in the control (4.5%) than in the
+ of low birth weight and PTB were generally lower in the
+ births among women less than 18 years and a much lower pro-
+ (Table 1). Multiple births were lower in Kenya than in Uganda.
+ PTB were generally lower in Kenya than in Uganda (Table 1).
+ 
+<section> Over the study period and aggregated across both
+ countries, there were 935 stillbirths and predischarge
+ newborn mortality in the control and 439 in the inter-
+ vention arm, with rates of 54.4 and 35.8 per 1000 total
+ births, respectively. This rate was lower in Kenya (33.7
+ controls and 25.8 intervention) than in Uganda (74.5
+ controls and 47.0 intervention). The adjusted OR for
+ the effect of the intervention on the composite out-
+ come was 0.96 (95% CI = 0.69-1.32), which was dif-
+ ferent by country: Kenya – 1.12 (95% CI = 0.72-1.73);
+ Uganda – 0.65 (95% CI = 0.44-0.98); P = 0.025
+ 
+<section> interaction
+ 
+<section> (Table 2). The temporal trends in the composite out-
+ come show a difference by arm in Uganda but not for
+ Kenya (Figure 2). The results for stillbirths only were
+ similar to the composite outcome (Table 2) with an
+ OR of 0.88 (95% CI = 0.65-1.20) aggregated for both Quality improvement intervention for management of preterm births
+ 
+<section> CI = 0.84-1.35); Uganda – 0.62 (95% CI = 0.41-0.96); P = 0.018,). In sensitivity analysis_2 (Table S1 in
+ 
+<section> interaction
+ 
+<section> the 
+<section> Online Supplementary Document), when we restricted to term births, the results became stronger (ag-
+ gregated for both countries – 0.77 (95% CI = 0.56-1.05); Kenya – 0.99 (95% CI = 0.77-1.29); Uganda – 0.59
+ (95% CI = 0.45-0.79); P = 0.006). Furthermore, compared to the results among all births, the interven-
+ 
+<section> interaction
+ tion effect for predischarge newborn mortality became significant, aggregated for both countries (0.83, 95%
+ CI = 0.70-0.97) and for Uganda (0.77, 95% CI = 0.75-0.79). The effect on predischarge maternal mortality,
+ which was based on few events, flipped direction and remained statistically non-significant.
+ We observed a difference in distribution of stillbirths by study arms between all births and the excluded births
+ (Table S2 in the 
+<section> Online Supplementary Document). However, in sensitivity analysis_3, when all births were
+ combined with excluded births (n : 29 442 + n : 19 046 = 48 488, 
+<section> Figure 1), the effect of the interven-
+ 
+<section> all births excluded
+ 
+<section> tion and the difference by country remained similar (Table S3 in the 
+<section> Online Supplementary Document).
+ 
+<section> DISCUSSION
+ 
+<section> The PTBi intervention package did not show a measurable impact on newborn survival among all births in
+ the 20 hospitals across Kenya and Uganda combined. However, results suggest improved newborn survival
+ only in the Ugandan hospitals demonstrating that this package of facility-based interventions focused on PTB,
+ has the potential to improve survival of all births in the facility. The environment of continuous training and
+ quality improvement likely increases skills among providers, but also serves to refresh overall evidence-based
+ care for all births and affects general quality of intrapartum care in the facilities. For predischarge newborn
+ mortality alone or for predischarge maternal mortality, the intervention did not show significant effects overall
+ or by country, though the confidence interval for the former is more in support of an effect, rather than null
+ effect [10]. In the case of predischarge maternal mortality, no significant effect is likely due to too few events.
+ Robustness of the results to various sensitivity analyses reaffirms that these are likely true effects and not po-
+ tentially driven by alternative explanations.
+ 
+<section> The lack of significant results in Kenya suggests that the context of the two countries may be key as an im-
+ portant implementation research finding. Kenya had 16 facilities ranging from health centers to sub-county
+ hospitals, reflecting more variation in the types of cases attended, availability of medical doctors, infrastruc-
+ ture and equipment across facilities. For example, only 3 of the 16 Kenyan facilities, while all 4 Ugandan fa-
+ cilities, had caesarean sctions capacity and newborn units. Furthermore, when counts of births and outcomes
+ were compared within matched pairs, the results were more heterogeneous in Kenya than in Uganda. Ken-
+ ya also experienced a protracted health worker strike which may have caused degradation in provider skills
+ (including possible degradation in the effect of the intervention) and accelerated staff turnover. On the other
+ hand, all 4 Ugandan hospitals were at the district level and staffed by on-site pediatricians and obstetricians.
+ Stronger results for Uganda could also be due to a number of factors including greater improvement in care,
+ given worse rates to begin with, better fit between the intervention package and the levels of care provided
+ in these facilities, and/or factors affecting fidelity of implementation. For example, with larger delivery vol-
+ umes in Uganda facilities than Kenya facilities, this may have provided more frequent opportunity for pro-
+ viders to implement skills learned through the PTBi intervention package. These observations illustrate the
+ importance of recognizing and considering contextual factors that may influence both intervention imple-
+ mentation and outcomes.
+ 
+<section> One possible implication of these results is that packages such as the PTBi may be optimally effective at a cer-
+ tain level of the health care system. Facilities in Kenya were much smaller and may not have been optimally
+ organized to most benefit from the intervention, or high staff turnover may have had a disproportionate impact.
+ The same intensity of intervention may have impacted more in lowering the rates in Uganda (because the rates
+ were much higher to begin with) than in Kenya by better catering to the health system needs in that country
+ [11]. Thus, a range of factors may have contributed towards marked improvement in Uganda but not in Kenya.
+ As this analysis investigates a secondary outcome, and in light of no overall effect, the results should be viewed
+ critically. This group previously reported significant effect of the intervention on the survival of preterm in-
+ fants in the intervention facilities compared to the control facilities [8]. This article is a logical extension of the
+ analysis to all (preterm and term) births. The remarkably similar magnitude of the intervention effect among
+ all births in Uganda (OR = 0.65, 95% CI = 0.44-0.98, n ~ 14 500) reported here with that reported previously
+ among PTB births in Kenya and Uganda (OR = 0.66, 95% CI = 0.54-0.81, n ~ 3000) is unlikely to be by chance.
+ We have demonstrated that the intervention effect among all births is not driven by the effect on PTB (sensitivity
+ analysis_1). Rather, the results hold when the PTBi primary cohort and all other PTB were excluded, demon- 
+<section> strating that the effect was more likely to be on term births as well as PTB. Furthermore, in term births (sen-
+ sitivity analysis_2), the intervention effect was significant for predischarge newborn mortality, overall as well
+ as in Uganda, unlike in all births. The significance achieved despite a smaller sample in sensitivity analysis_2
+ was possible because the effect was larger in magnitude in term births than in all births. This finding signifies
+ that the intervention increased chances of survival among the term births as it did among the PTB (reported
+ earlier [8]). This interpretation is further supported by results obtained after adjusting for APGAR score when
+ the intervention effect becomes non-significant (Table S4 in the 
+<section> Online Supplementary Document). We hy-
+ pothesize that the intervention effect can be explained by APGAR at 5 minutes since it is in the causal pathway
+ between intervention and increased survival (as a mediator). The intervention likely improved providers’ abil-
+ ity to assess newborn status at birth as well as the confidence to manage a neonate not spontaneously breath-
+ ing at birth. In fact, the intervention included reinforcement of key actions providers should take in the first
+ 5 minutes of life for a newborn not spontaneously breathing at birth (eg, immediate neonatal resuscitation).
+ We explored potential alternative explanations for the intervention effect. The series of exclusions (Figure 1)
+ leading to the final study sample could have induced selection bias. More stillbirths were excluded in the inter-
+ vention arm than in the control arm (Table S2 in the 
+<section> Online Supplementary Document). However, this was
+ not the case for predischarge newborn mortality. Large differences between the included and excluded births
+ were not observed for any other characteristics (Table S2 in the 
+<section> Online Supplementary Document). We con-
+ ducted sensitivity analysis to examine if the main results were due to differential selection of study samples in
+ the two arms. Results presented in Table S3 in the 
+<section> Online Supplementary Document demonstrate that se-
+ lection bias, if any, is unlikely to explain the intervention effect. Given the nature of the intervention and as-
+ sessments of outcomes, which are expected to be uniform within a facility, measurement bias is also unlikely.
+ Our findings are similar to others taking a package approach including quality improvement and provider
+ training. Ashish et al. reported a stepped wedge trial in Nepal that included both quality improvement in-
+ terventions and provider training focused on neonatal resuscitation in public hospitals with at least 1000
+ births per year [12]. Of note, our facilities in Uganda all had more that 1000 births per year, whereas Kenyan
+ facilities ranged from 310-1599 deliveries per year [8]. Similar to our results, the Nepal study found a pos-
+ itive impact on stillbirth and newborn mortality, though there was some variability across facilities [12]. In
+ addition, a systematic review of quality improvement as a single intervention was reported to have variable
+ effects, while quality improvement combined with provider training shows positive impact on health out-
+ comes [13]. Unique components of the PTBi intervention like simulation and team training implemented in
+ Mexico demonstrated that it can reduce neonatal mortality [14]. In other studies, from Guatemala and India,
+ PRONTO’s simulation and team training increased use of evidence-based practices in normal and compli-
+ cated deliveries when these activities were integrated along with didactic teaching and demonstrations [15-
+ 18]. Similar packaged interventions are currently being implemented in several sub-Saharan countries to ex-
+ amine if individual components can synergistically act with each other to bring about a larger reduction in
+ perinatal mortality [19,20].
+ 
+<section> The study has several strengths as well as limitations. Amongst the key strengths are the randomized design
+ and the availability of data on all births that allowed investigation beyond PTB. The consistency and the logical
+ coherence of these results with the earlier results on PTB lends credibility. This trial is an important addition to
+ the literature in its demonstration that a package approach can be advantageous, though it may not be equal-
+ ly effective in all contexts, pointing to the need for further implementation research in this area. An important
+ limitation was power, despite which the Uganda-specific results were strong enough to reach statistical signif-
+ icance. The intervention was a package of four components (quality improvement collaboratives, PRONTO
+ simulation and team training, mSCC and data strengthening), two of which (mSCC and data strengthening)
+ were implemented in the control facilities. Thus, the comparison group in this trial were not pure controls,
+ which could potentially underestimate the effect. There was a health worker strike in Kenya during the trial,
+ which likely affected provider turnover, provider motivation, and retention of any pre-strike learning. Data
+ for the study were obtained from facility registers, which may have quality issues, especially during excessive
+ delivery loads. However, data strengthening component of the intervention likely mitigated some of its effect,
+ as described elsewhere [8]. There may have been some misclassification between stillbirth and predischarge
+ newborn mortality among infants who died very shortly after birth. Such misclassification will not affect the
+ results for the combined outcome but may have affected the stillbirths or predischarge mortality specific re-
+ sults. Finally, despite best efforts, perfect matching of facilities within pairs may not have been achieved, espe-
+ cially regarding immoveable infrastructure and community characteristics to which these facilities cater. Such
+ differences could have left residual imbalance between arms. Quality improvement intervention for management of preterm births
+ 
+<section> CONCLUSIONS
+ 
+<section> The PTBi intervention appears to have improved survival not only among PTB, as reported earlier, but also
+ among all births in Uganda. We did not observe the same effect in Kenya, which is intriguing and hints to-
+ wards factors that were contextually different in the two countries. Efforts to sustain the achieved improve-
+ ment should be the next logical step of focus. From the research perspective, it will be important to delineate
+ the differences in package implementation, settings and care that might have led to these results.
+ 
+<section> Acknowledgements: We acknowledge the women and their infants who consented to participate in this trial. We would
+ also like to thank the health providers of each study facility, whose dedication to serve the patients is humbling. We thank
+ the Ministries of Health of Kenya and Uganda, and the local health authorities in Migori County, Kenya, and the Busoga
+ region, Uganda, for their partnership and trust in this joint endeavor. We thank the community health volunteers in Ken-
+ ya for their effort and commitment to the work in Migori. We also thank the local and national advisory boards in each
+ country. Furthermore, we thank the research teams at UCSF, Makerere University, and Kenya Medical Research Institute
+ for their hard work and dedication to this study. We are grateful for the members of the Preterm Birth Initiative East Af-
+ rica External Advisory Committee, our colleagues at the California Preterm Birth Initiative, and the members of our joint
+ Strategic Advisory Board.
+ 
+<section> Funding: This work was supported by the East Africa Preterm Birth Initiative, which was funded by the Bill and Melinda
+ Gates Foundation (OPP1107312). Under the grant conditions of the Foundation, a Creative Commons Attribution 4.0 Ge-
+ neric License has already been assigned to the Author Accepted Manuscript version that might arise from this submission.
+ 
+<section> Authorship contributions: DW was responsible for the acquisition of funding, oversight, and interpretation. DW, PO,
+ PW, EB, and NS, worked on the PTBi trial design. RG, EB, NS and DW conceptualized the secondary analysis, RG con-
+ ducted the analysis and along with EB, NS and DW synthesized the results. PW and PO helped with data interpretation.
+ RG drafted the manuscript and DW, EB, NS, PO and PW reviewed and edited it. Members of the Preterm Birth Initiative
+ Kenya and Uganda Implementation Research Collaborative contributed directly to the cRCT implementation and data
+ collection. These members include Rikita Merai, Lara Miller, Alejandra Benitez, Ryan Keating, Felicia Lester, Roger Myrick
+ (UCSF); Leah Kirumbi, Nelly Mugo, Grace Nalwa, Beatrice Olack, David Ogolla, Anthony Wanyoro, Kevin Achola, Chris-
+ topher Otare (Kenya); and Darious Kajjo, Ayub Kakaire, Lawrence Kazibwe, Rogers Mandu, Angela Namala, Harriet Nam-
+ buya, Yowana Omwosi, Phillip Wanduru, Gertrude Namazzi, Paul Mubiri (Uganda).
+ 
+<section> Disclosure of interest: The authors completed the ICMJE Disclosure of Interest Form (available upon request from the
+ corresponding author) and declare that Dilys Walker is cofounder of PRONTO International. All other authors disclose
+ no relevant interests.
+ 
+<section> Additional material:
+ 
+<section> Online Supplementary Document
+ 
+<section> 1  Liu L, Oza S, Hogan D, Chu Y, Perin J, Zhu J, et al. Global, regional, and national causes of under-5 mortality in 2000-15:
+ an updated systematic analysis with implications for the sustainable development goals. Lancet. 2016;388:3027-35. Med-
+ 
+<section> REFERENCES
+ 
+<section> line:27839855 doi:10.1016/S0140-6736(16)31593-8
+ 
+<section> 2  Blencowe H, Cousens S, Jassir FB, Say L, Chou D, Mathers C, et al. National, regional, and worldwide estimates of stillbirth rates
+ in 2015, with trends from 2000: a systematic analysis. Lancet Glob Health. 2016;4:e98-108. Medline:26795602 doi:10.1016/
+ 
+<section> S2214-109X(15)00275-2
+ 
+<section> 3 World  Health Organization. Maternal mortality. 2019 07/23/2020]; Available from: https://www.who.int/news-room/fact-
+ sheets/detail/maternal-mortality.
+ 
+<section> 4  Lawn JE, Blencowe H, Oza S, You D, Lee AC, Waiswa P,et al. Every Newborn: progress, priorities, and potential beyond sur-
+ vival. Lancet. 2014;384:189-205. Medline:24853593 doi:10.1016/S0140-6736(14)60496-7
+ 
+<section> 5  Otieno P, Waiswa P, Butrick E, Namazzi G, Achola K, Santos N, et al. Strengthening intrapartum and immediate newborn care to
+ reduce morbidity and mortality of preterm infants born in health facilities in Migori County, Kenya and Busoga Region, Uganda:
+ a study protocol for a randomized controlled trial. Trials. 2018;19:313. Medline:29871696 doi:10.1186/s13063-018-2696-2
+ 
+<section> 6  Bhutta ZA, Das JK, Bahl R, Lawn JE, Salam RA, Paul VK, et al. Can available interventions end preventable deaths in moth-
+ ers, newborn babies, and stillbirths, and at what cost? Lancet. 2014;384:347-70. Medline:24853604 doi:10.1016/S0140-
+ 
+<section> 6736(14)60792-3
+ 
+<section> 7  Namazzi G, Achola KA, Jenny A, Santos N, Butrick E, Otieno P, et al. Implementing an intrapartum package of interventions
+ to improve quality of care to reduce the burden of preterm birth in Kenya and Uganda. Implementation science communica-
+ tions. 2021;2(1):1-13.
+ 
+<section> 8  Walker D, Otieno P, Butrick E, Namazzi G, Achola K, Merai R, et al. Effect of a quality improvement package for intrapartum
+ and immediate newborn care on fresh stillbirth and neonatal mortality among preterm and low-birthweight babies in Kenya
+ and Uganda: a cluster randomised facilitybased trial. Lancet Glob Health. 2020;8:e1061-70. Medline:32710862 doi:10.1016/
+ 
+<section> S2214-109X(20)30232-1 
+<section> R  ennie D. CONSORT revised – improving the reporting
+ doi:10.1001/jama.285.15.2006
+ 
+<section> REFERENCES
+ 
+<section> 10 A  mrhein V, Greenland S, McShane B. Scientists rise
+ line:30894741 doi:10.1038/d41586-019-00857-9
+ 
+<section> 11 M  old JW, Hamm RM, McCarthy LH. The law of diminishing
+ J Am Board Fam Med. 2010;23:371-5. Medline:20453183
+ 
+<section> 12 K  c A, Ewald U, Basnet O, Gurung A, Pyakuryal SN, Jha
+ ment package on intrapartum-related mortality in Nepal:
+ 2019;16:e1002900. Medline:31498784 doi:10.1371/journal.pmed.1002900
+ 
+<section> 13 G  arcia-Elorrio E, Rowe SY, Teijeiro ME, Ciapponi A,
+ strategy in low-and middle-income countries: a systematic
+ line:31581197 doi:10.1371/journal.pone.0221919
+ 
+<section> 14 W  alker DM, Cohen SR, Fritz J, Olvera-García M, Zelek
+ tion-based program in obstetric and neonatal emergencies
+ doi:10.1097/SIH.0000000000000106
+ 
+<section> 15 W  alton A, Kestler E, Dettinger JC, Zelek S, Holme F,
+ newborn care training scheme on non-emergency delivery
+ Medline:26797198 doi:10.1016/j.ijgo.2015.08.009
+ 
+<section> 16 G  hosh R, Spindler H, Dyer J, Christmas A, Cohen S, Das
+ gram and improvement in intrapartum and newborn care
+ 
+<section> 17 G  hosh R, Spindler H, Morgan M, Cohen S, Begum N,
+ and intrapartum asphyxia in a quality improvement initiative
+ 2019;14:e0216654. Medline:31276503 doi:10.1371/journal.pone.0216654
+ 
+<section> 18 K  estler E, Ambrosio G, Hemming K, Hughes JP, Matute
+ perinatal outcomes in rural Guatemala: A stepped-wedge
+ Medline:32524605 doi:10.1002/ijgo.13262
+ 
+<section> 19 A  kuze J, Annerstedt KS, Benova L, Chipeta E, Dossou J-P,
+ tality and morbidity (ALERT): study protocol for a stepped-wedge
+ Uganda. BMC Health Serv Res. 2021;21:1324. Medline:34895216
+ 
+<section> 20 K  amala BA, Ersdal HL, Mduma E, Moshiro R, Girnary S,
+ cluster implementation project in 30 public health-facilities
+ Medline:34663296 doi:10.1186/s12913-021-07145-1
+ of randomized trials. JAMA. 2001;285:2006-7. Medline:11308440
+ up against statistical significance. Nature. 2019;567:305-7. Med-
+ returns in clinical medicine: how much risk reduction is enough?
+ doi:10.3122/jabfm.2010.03.090178
+ BK, et al. Effect of a scaled-up neonatal resuscitation quality improve-
+ a stepped-wedge cluster randomized controlled trial. PLoS Med.
+ Rowe AK. The effectiveness of the quality improvement collaborative
+ review and meta-analysis. PLoS One. 2019;14:e0221919. Med-
+ 
+<section> ST, Fahey JO, et al. Impact evaluation of PRONTO Mexico: a simula-
+ and team training. Simul Healthc. 2016;11:1. Medline:26312613
+ Walker D. Impact of a low-technology simulation-based obstetric and
+ practices in Guatemala. Int J Gynaecol Obstet. 2016;132:359-64.
+ 
+<section> A, et al. Simulation and team training embedded nurse mentoring pro-
+ in a low-resource setting in India. J Glob Health. 2019;10:021010.
+ Gore A, et al. Diagnosis and management of postpartum hemorrhage
+ using nurse-mentoring and simulation in Bihar, India. PLoS One.
+ 
+<section> J, Moreno M, et al. An integrated approach to improve maternal and
+ cluster randomized trial. Int J Gynaecol Obstet. 2020;151:109-16.
+ Gross MM, et al. Action leveraging evidence to reduce perinatal mor-
+ cluster-randomised trial in Benin, Malawi, Tanzania and
+ doi:10.1186/s12913-021-07155-z
+ Østrem OT, et al. SaferBirths bundle of care protocol: a stepped-wedge
+ in five regions, Tanzania. BMC Health Serv Res. 2021;21:1117.

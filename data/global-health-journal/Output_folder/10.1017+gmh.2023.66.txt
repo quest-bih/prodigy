@@ -1,0 +1,1527 @@
+
+<section> Mental Health promotion intervention for adolescents in
+ 
+<section> Vietnam: Two-arm, parallel, controlled trial
+ 
+<section> www.cambridge.org/gmh
+ 
+<section> Thach Duc Tran , Huong Nguyen , Ian Shochet , Nga Nguyen , Nga La ,
+ 
+<section> Research Article Astrid Wurfl , Jayne Orr , Hau Nguyen , Ruby Stocker 1 and Jane Fisher
+ 
+<section> Cite this article: Tran TD, Nguyen H, Shochet I, Global and Women’s Health, Public Health and Preventive Medicine, Monash University, Melbourne, VIC, Australia;
+ 
+<section> Nguyen N, La N, Wurfl A, Orr J, Nguyen H, Department of Health Promotion, Hanoi University of Public Health, Hanoi, Vietnam and 3 School of Psychology and
+ 
+<section> Stocker R and Fisher J (2023). School-based Counselling, Queensland University of Technology, Brisbane, QLD, Australia
+ 
+<section> universal mental health promotion intervention
+ 
+<section> for adolescents in Vietnam: Two-arm, parallel, 
+<section> Abstract
+ 
+<section> controlled trial. Cambridge Prisms: Global
+ 
+<section> Mental Health, 10, e69, 1–12 The aim of this study was to evaluate the effects of Happy House, a universal school-based
+ 
+<section> https://doi.org/10.1017/gmh.2023.66 programme, in reducing adolescents’ depressive symptoms and improving their mental well-
+ being, coping self-efficacy and school connectedness. This was a school-based, two-arm parallel
+ 
+<section> Received: 08 May 2023
+ 
+<section> Revised: 25 August 2023 controlled trial. Depressive symptoms were measured using the Centre for Epidemiologic Studies
+ 
+<section> Accepted: 12 October 2023 Depression Scale. Data were collected at recruitment, and at 2 weeks and 6 months post-
+ intervention. Mixed-effect models were conducted to estimate the effects of the intervention
+ 
+<section> Keywords: on the outcomes. A total of 1,084 students were recruited. At 2 weeks post-intervention, the effect
+ 
+<section> depression; universal intervention;
+ 
+<section> adolescents; school; low- and middle-income size on depressive symptoms was 0.11 (p = 0.011) and the odds of having clinically significant
+ 
+<section> countries depressive symptoms were lower in the intervention compared to the control (0.56, p = 0.027).
+ Both of these were no longer significant at 6 months post-intervention. Psychological well-being
+ 
+<section> Corresponding author: mean scores in the intervention were significantly higher than in the control at 2 weeks post-
+ 
+<section> Thach Duc Tran; intervention (effect size 0.13). Coping self-efficacy mean scores were significantly higher in the
+ 
+<section> Email: Thach.tran@monash.edu
+ 
+<section> intervention group at both 2-week and 6-month post-intervention (effect sizes from 0.17 to 0.26).
+ Data support the potential of Happy House to reduce the prevalence of adolescent mental health
+ problems and to promote positive mental health in the school context in Vietnam.
+ 
+<section> Impact statement
+ 
+<section> In high-income settings, school-based universal mental health promotion programmes have been
+ proven to be effective at improving adolescents’ mental health and well-being, including pre-
+ venting and reducing the prevalence of depression in a large number of studies. Very few similar
+ studies have been conducted in low- and middle-income countries. Among those, four studies
+ found that school-based universal mental health promotion interventions had positive effects on
+ students’ depression and anxiety. This universal school-based mental health programme can
+ improve adolescents’ psychological well-being, coping self-efficacy and anger management, in
+ addition to reducing depressive symptoms. The effects were observed not only immediately after
+ the intervention, but some also at the 6 months follow-up. This programme, if integrated into the
+ existing school curriculum in Vietnam and other low-and middle-income countries, might have
+ potential long-term benefits for adolescents’ mental health and their physical health, academic
+ performance and productivity in adulthood.
+ 
+<section> Introduction
+ 
+<section> © The Author(s), 2023. Published by Cambridge
+ 
+<section> University Press. This is an Open Access article, Depression among adolescents is a major public health problem worldwide as it is the fourth most
+ 
+<section> distributed under the terms of the Creative frequent cause of adolescent disability-adjusted life years (GBD 2019 Diseases and Injuries
+ 
+<section> Commons Attribution licence (http:// Collaborators, 2020). Universal mental health promotion interventions are delivered to a broad
+ 
+<section> creativecommons.org/licenses/by/4.0), which
+ 
+<section> permits unrestricted re-use, distribution and population and aim to strengthen positive aspects of mental health, regardless of prior mental
+ 
+<section> reproduction, provided the original article is health status or risk factors. The school setting is well-suited and has necessary resources for
+ 
+<section> properly cited. sustainable large-scale roll-out of universal mental health programmes for adolescents, which use
+ health education approaches and do not require professionals (Regan et al., 2020). In high-income
+ countries, several school-based universal mental health promotion programmes were found to be
+ effective at improving adolescents’ mental health and well-being, including preventing and
+ reducing the prevalence of depression (Arora et al., 2019; Feiss et al., 2019).
+ As school enrolment rates among children and adolescents increase rapidly in low- and
+ middle-income countries (LMIC) (UNESCO, 2015), there is increased recognition of the
+ potential of universal school-based mental health programmes in preventing adolescent mental 
+<section> health problems. In a recent systematic review (Caldwell et al.,
+ 2019) of school-based universal interventions targeting depression
+ and anxiety, only five (Bonhauser et al., 2005; Gallegos, 2008; Rivet-
+ Duval et al., 2011; Araya et al., 2013; Velásquez et al., 2015) of
+ 76 studies were conducted in LMIC. Four (Bonhauser et al., 2005;
+ Gallegos, 2008; Rivet-Duval et al., 2011; Araya et al., 2013) of the
+ five studies reported positive effects on students’ mental health
+ outcomes. Another systematic review of universal school-based
+ mental health programmes in LMIC found that nine of the
+ 12 included studies reported significant effects on depression
+ and/or anxiety at post-evaluation (Bradshaw et al., 2021). A num-
+ ber of recent school-based trials aimed to address adolescent mental
+ health problems in LMIC (Michelson et al., 2020; Malik et al., 2021;
+ Osborn et al., 2021). However, these studies all targeted adolescents
+ with existing clinically significant symptoms of mental health
+ problems; none investigated a universal intervention.
+ Most universal mental health programmes, particularly school-
+ based programmes, have been developed in high-income countries
+ (Fazel et al., 2014a). Adaptation of evidence-based programmes
+ developed in high-income countries for use in resource-constrained
+ settings is a cost-effective and widely-used approach (Chowdhary
+ et al., 2014). The evidence on the effectiveness of a number of adopted
+ mental health interventions in new settings is positive (Benish et al.,
+ 2011; Chowdhary et al., 2014). However, some trials of programmes
+ adopted and implemented in other countries had smaller effect sizes
+ than those implemented within the country of development
+ (Wigelsworth et al., 2016). The complexity of international transfer-
+ ability of mental health programmes across countries and cultures is
+ significant. A rigorous process from initial feasibility and acceptabil-
+ ity assessment, cultural adaptation and testing of the adapted pro-
+ gramme are crucial to ensure adequate effectiveness, as if
+ implemented in the original setting (Bernal et al., 2009).
+ The Resourceful Adolescent Program (RAP) (Shochet and Wurfl,
+ 2015), a universal school-based programme developed in Australia,
+ aims to build psychological resilience and enhance the coping
+ resources among adolescents to prevent depression and promote
+ positive mental health. The RAP is a commercialised programme.
+ The RAP is delivered in facilitated groups and comprises activities
+ informed by cognitive behaviour therapy (CBT) (Beck et al., 1979)
+ and interpersonal psychotherapy (IPT) (Mufson et al., 1993).
+ Aspects of CBT are incorporated into RAP to support adolescents
+ to improve their ability to keep calm in stressful circumstances,
+ engage in positive self-talk, and strengthen problem solving capacity,
+ all to ultimately enhance self- and affect regulation. In addition, IPT
+ is included to assist adolescents to build and maintain support
+ networks, and to encourage the use of perspective and empathy to
+ reduce interpersonal conflict.
+ The effectiveness of RAP has been reported in three studies,
+ particularly from English speaking, high-income countries.
+ In Australia, one trial found that two intervention groups, RAP-A
+ (RAP for adolescents) and RAP-F (RAP-A plus a programme for
+ parents), had significantly larger decreases in depressive symptoms
+ at post-intervention and 10-month follow-up, in comparison to the
+ control group, who received the normal school curriculum (Shochet
+ et al., 2001). Another trial compared RAP-Kiwi, the New Zealand
+ version of RAP, to a placebo (art and craft activities without CBT)
+ (Merry et al., 2004). To enhance the acceptability to New Zealand
+ teenagers, the overall structure of the RAP was kept, but language,
+ cartoons, and anecdotes were adapted in consultation with teen-
+ agers, teachers and Asian and Pacific advisers. At post-intervention,
+ the RAP-Kiwi group had significantly larger decreases in depression
+ scores for both the Beck Depression Inventory II (Beck et al., 1996)
+ and the Reynolds Adolescent Depression Scale (Reynolds, 1986).
+ Over the 18-month follow-up period, the Reynolds Adolescent
+ Depression Scale scores remained significantly different between
+ the intervention and placebo groups.
+ The RAP has been used in 12 LMICs in the Pacific Islands, Asian,
+ African and North American regions. However, Rivet-Duval et al.’s
+ Mauritius-based study is the only one that has assessed the effect-
+ iveness of the RAP among secondary school students (Rivet-Duval
+ et al., 2011). In that study, the overall structure and content of the
+ RAP was retained after consultation with teachers about cultural
+ relevance. The programme was delivered by teachers in the English
+ language. The intervention group had improved self-esteem and
+ coping skills at post-intervention and 6-month follow-up in com-
+ parison to the control group (normal curriculum only). The inter-
+ vention had decreased symptoms of depression post-intervention,
+ but not at 6-month follow-up. There is to date no study assessing the
+ effectiveness of a translated version of RAP in an LMIC.
+ The importance of adolescent mental health is increasingly
+ being recognised in Vietnam as well as in other LMICs. A recent
+ study in Vietnam reported that up to 23% of adolescents in schools
+ were experiencing clinically significant depressive symptoms (Thai
+ et al., 2020). However, there are a lack of effective school-based
+ mental health programmes that have high acceptability, feasibility
+ and sustainability (Klasen and Crombag, 2013; Fazel et al., 2014b).
+ As a universal strengths-based programme, RAP focuses on iden-
+ tifying and developing strengths for every student, rather than only
+ targeting students who are at high risk or who have pre-existing
+ mental health problems. By including all students, RAP enhances
+ acceptability and minimises stigma (Shochet et al., 2001). Our team
+ has translated RAP and adapted it for use in upper secondary
+ schools (years 10–12) in Vietnam to create the Vietnamese version,
+ named ‘Happy House’. The aim of this study was to examine the
+ effects of Happy House delivered in schools on the mental health of
+ adolescents. Specifically, we tested the hypotheses that the inter-
+ vention could reduce adolescents’ depressive symptoms and
+ improve their mental well-being, coping self-efficacy, and school
+ connectedness 2 weeks after completion of the intervention and at
+ the 6-month follow-up, when compared to adolescents receiving
+ the regular school curriculum.
+ 
+<section> Methods
+ 
+<section> Study design
+ 
+<section> This study was a school-based, two-arm, parallel, controlled trial
+ conducted in Hanoi, Vietnam (Tran et al., 2020).
+ 
+<section> Study settings
+ 
+<section> Vietnam is located in south east Asia and is classified as a lower-
+ middle income country, with a population of 98 million people.
+ Hanoi is the capital city, one of the two largest cities in Vietnam.
+ The population of eight million people in Hanoi is equally split
+ between those living in urban and rural areas. In 2019, the school
+ enrolment rate among school-aged children (6–18 years old) was
+ 91.7%, an increase from 79.1% in 1999 (GSO, 2019).
+ 
+<section> Participant recruitment
+ 
+<section> A multiple-stage method was used to select participants. First, we
+ randomly selected two districts from a total of 12 urban districts
+ and two from a total of 18 rural districts in Hanoi Province. Second, 
+<section> two public high schools in each of the selected districts were
+ randomly selected. In each of the selected schools, three to four
+ grade 10 classes were randomly chosen and invited to participate in
+ the study. Classes were only included if the school principal and
+ class head teacher gave informed consent. In each district, we
+ randomly assigned one school to the intervention and the other
+ to the control arm. All participants in a single school received the
+ same intervention. The sample selection process was performed by
+ an independent statistician using Stata, Version 16 (StataCorp LP,
+ College Station, Texas, USA) to create sequences of computer-
+ generated random numbers.
+ All students in the selected grade 10 classes (usually aged 15–
+ 16 years) were eligible. Students received an information package
+ consisting of two explanatory statements (one for the student and
+ the other for their parent/s or guardian/s) and a consent form from
+ the research team a week prior to recruitment. If a parent/guardian
+ and student agreed for the student to participate, the parent/guard-
+ ian signed the written consent form, and the student returned the
+ form to the research team on the day of baseline survey adminis-
+ tration. Only students who agreed and who had a parent/guardian’s
+ written consent to participate were recruited for this study.
+ 
+<section> Intervention
+ 
+<section> Several major adaptations of RAP were made to create the Happy
+ House programme, and these changes are described in detail else-
+ where (La et al., 2022). First, Happy House was restructured from
+ 11 45-min sessions to six 90-min sessions over 6 weeks, without
+ reducing the content (Supplementary Tables 1 and 2). Each Happy
+ House session spans two consecutive school periods, each lasting
+ 45 min, with a 5-min break in between. These sessions replaced
+ Civic Education and Ethics lessons. Second, the Vietnamese version
+ was adapted so that it could be delivered in whole-class groups (40–
+ 45 students). The group sizes are larger than that of the original
+ RAP (15 students). However, it is not feasible to deliver the Happy
+ House programme in smaller groups because of constraints on
+ facilities and human resources, and the school curriculum in Viet-
+ nam. Finally, images and videos were adapted, redrawn and remade
+ using Vietnamese characters. The relevance, comprehensibility and
+ acceptability of Happy House were established through two pilot
+ tests: a four-day facilitator training course including 12 volunteer
+ teachers and 12 Vietnamese researchers, and a pilot test with
+ 43 participants recruited from a grade 10 class. In this study,
+ teachers were included as facilitators, because integrating this pro-
+ gramme into the existing school curriculum and being delivered by
+ teachers will increase the sustainability in LMIC, where school
+ counsellors are rarely available.
+ The programme has a set of illustrated participant materials and
+ short videos, and a facilitator’s manual with detailed guidelines to
+ ensure fidelity. Fidelity was assessed using a checklist for facilitators
+ to complete after each session, and a brief monitoring/supervision
+ meeting between facilitators and the Vietnam Project Coordinator
+ at the end of each intervention day. Issues that arose were discussed
+ in these supervision meetings to reach a consensus solution. Par-
+ ticipation rates for each session were closely monitored.
+ In this trial, students in the intervention group received the
+ Happy House programme in whole-class groups, in addition to
+ their regular school curriculum. Each Happy House session was led
+ by a main facilitator who was a school teacher. The facilitator was
+ assisted by a member of the Vietnamese research team. The facili-
+ tator was primarily responsible for delivering the session content,
+ while the assistant assisted with material preparation and
+ supported small group activities. Their roles were distinct and they
+ were not rating students, so ’inter-rater reliability checks’
+ between the facilitator and the assistant were neither indicated
+ nor warranted.
+ The control group received only the standard academic curricu-
+ lum. In Vietnam, a standard academic curriculum for each grade in
+ high school including subjects, contents and reference books is
+ applied for every school. The subjects the Grade 10 students have
+ are Math, Physics, Chemistry, Biology, Technology, History, Geog-
+ raphy, Literature, Civic Education, Secondary Language, Physical
+ Education, and Computer Science. There are some contents related
+ to health (in Physical Education and Biology) and interpersonal
+ relationships (in Civic Education), but these do not include any
+ mental health content or specific topics that presented in Happy
+ House. The intervention group received the same standard aca-
+ demic curriculum.
+ 
+<section> Procedure
+ 
+<section> The baseline survey was conducted 1 week after all participants
+ were recruited. There were two follow-up assessments after the
+ intervention. These were completed 2 weeks (hereafter called ‘post-
+ intervention’) and 6 months post-intervention (hereafter called ‘6-
+ month follow-up’). Baseline and follow-up assessments with the
+ students were undertaken using self-completed questionnaires dur-
+ ing a usual 45-min class session supervised by two trained data
+ collectors from the Hanoi University of Public Health (HUPH).
+ The instructions on how to complete the questionnaire were given
+ orally at the beginning of the session. Students were asked to return
+ the completed questionnaire sealed in an envelope which was
+ provided. Data collectors were the only staff present. Students
+ who did not want to participate and students whose parents did
+ not grant consent for them to participate were invited to the school
+ library to do their homework.
+ Data collectors and data analysts were blinded to trial arms. A
+ code number identifying the school, but not the trial arm, was
+ assigned for each participant. Trial arms were un-blinded after
+ the main analyses were conducted.
+ 
+<section> Outcomes
+ 
+<section> Primary outcome
+ Depressive symptoms were measured using the Centre for Epi-
+ demiologic Studies Depression Scale Revised (CESD-R) (Eaton
+ et al., 2004), a 20-item scale that reflects the Diagnostic and Statis-
+ tical Manual of Mental Disorders, Fourth Edition (DSM-IV) defin-
+ ition of Major Depressive Disorder (American Psychiatric
+ Association, 2000). Responses to each of the items were given on
+ a five-point Likert scale from 0 = ‘Not at all or less than 1 day in the
+ past week’ to 4 = ‘Nearly every day for 2 weeks’. The total scale scores
+ ranged from 0 to 80, with higher scores indicating more depressive
+ symptoms. A total score < 16 was used as the cut-off for ‘no clinically
+ significant depressive symptoms’, as this is the widely-used cut-off
+ score (Radloff, 1977; Eaton et al., 2004). The CESD has been
+ validated for use among adolescents in Vietnam (Nguyen et al.,
+ 2007), but the revised version has not yet been validated in this
+ context. We examined the construct validity of the CESD-R using
+ the baseline data of this study. Evidence of unidimensional meas-
+ urement, excellent internal consistency (Cronbach’s alpha coeffi-
+ cient = 0.92) and measurement invariance between males and
+ females were established (Tran et al., 2022a). 
+<section> Secondary outcomes
+ Subjective mental well-being was assessed using the Mental Health
+ Continuum Short Form (MHC-SF) (Keyes et al., 2008). MHC-SF
+ consists of 14 items (feelings of well-being). Each item is scored
+ from 0 = ‘Never’ to 5 = ‘Every day’. MHC-SF comprises three
+ distinct subscale scores (dimensions): emotional well-being
+ (3 items); social well-being (5 items); and psychological well-being
+ (6 items). The emotional well-being subscale reflects positive emo-
+ tional and life satisfaction. The social well-being subscale is meas-
+ ures self-appraisal of their positive social functioning (social
+ coherence, social acceptance, social actualisation, social contribu-
+ tion, and social integration). The psychological well-being subscale
+ reflects the extent to which an individual is realising their potential,
+ including self-acceptance, personal growth, purpose in life, positive
+ relations with others, autonomy, and environmental mastery.
+ Higher dimension scores reflect better mental well-being. A valid-
+ ation study confirmed the hypothesised factorial structure of the
+ three subscales and a high level of internal consistency (Cronbach’s
+ alpha coefficients of 0.81, 0.78 and 0.82 for emotional, social, and
+ psychological well-being, respectively) among adolescents in Viet-
+ nam (Ha, 2020).
+ 
+<section> Specific self-efficacy for coping with stress was measured using the
+ Coping Self-Efficacy Scale (CSES) (Chesney et al., 2006). The CSES
+ assesses 26 behaviours that an individual might do when things
+ aren’t going well or when they are having problems. The respond-
+ ent rates on an 11-point scale (0 = ‘Cannot do at all’ to 10 = ‘Certain
+ I can do’) the extent to which they believe they could perform each
+ behaviour. The behaviours are grouped into three categories of
+ coping strategies (sub-scales): problem-focused (concentrating on
+ changing the stressor itself and its physical impact), emotion-
+ focused (managing emotional responses to the event), and social
+ support seeking. The CSES has not been locally validated. There-
+ fore, we examined the structural aspect of the construct validity of
+ the CSES using this study’s baseline data (Tran et al., 2022b). The
+ original three sub-scale model was confirmed with some differ-
+ ences. Two items (21 and 23) did not load into any of the sub-scales
+ and were excluded, and item two (problem-focused) and item
+ 18 (social support) were moved to the emotion-focused subscale.
+ In our validated version of the CSES, emotion-focused coping has
+ nine items; problem-focused coping has the ten items; and social
+ support coping has five items. Cronbach’s alpha coefficients of the
+ three sub-scales were at acceptable levels (emotion-focused: 0.91,
+ problem-focused: 0.86, and social support: 0.75). Measurement
+ invariance between males and females was supported. Sub-scale
+ scores are the total scores of all items in each sub-scale. A higher
+ sub-scale score indicates more self-efficacy for that coping strategy.
+ 
+<section> School connectedness, the bond adolescents feel towards their
+ school, was assessed using a scale developed by The National
+ Longitudinal Study of Adolescent Health (Sieving et al., 2001)
+ which comprises five statements scoring from 0 = ‘strongly dis-
+ agree’ to 4 = ‘strongly agree’. The total scale score ranges from 0 to
+ 20, where higher scores indicate higher levels of school connected-
+ ness. This scale has been used in research on adolescent’s health in
+ Vietnam (Pham, 2015).
+ All of these outcomes were assessed at all three timepoints
+ (baseline, post-intervention, and 6-month follow-up).
+ 
+<section> Baseline characteristics
+ 
+<section> We collected baseline characteristics of the participants including
+ their age, sex (What is your sex? male or female), number of
+ members in their household, parents’ education and occupation,
+ and physical health (having a chronic condition such as asthma,
+ heart disease, hepatitis, diabetes, allergies, or epilepsy or disability),
+ using study-specific questions. The burden of academic activities
+ was assessed using the Educational Stress Scale for Adolescents
+ (Sun et al., 2011) which comprises 16 items about pressure from
+ study, worry about grades, despondency, high self-expectation, and
+ workload. Anger coping strategies were assessed using the Behav-
+ ioural Anger Response Questionnaire for Children and Adolescents
+ (BARQ-C) (Miers et al., 2007). Burden of academic activities
+ (Pham, 2015) and anger coping strategies (Nguyen, 2010) are the
+ major factors of depression and other mental health outcomes
+ among student adolescents.
+ 
+<section> Statistical analyses
+ 
+<section> Sample size
+ 
+<section> The number of participants was calculated using the sampsi com-
+ mand in Stata, Version 16 (StataCorp LP, College Station, Texas,
+ USA). In each study arm, a minimum sample size of 502 adolescents
+ was needed to detect a difference in the proportions of CESD-R
+ score ≥ 16 of 41% (Nguyen et al., 2013) in the control arm and 31%
+ in the Happy House intervention arm at 6-month follow-up (power
+ of 90%, significance level of 0.05, and intra-cluster correlation of
+ 0.01).
+ 
+<section> Statistical methods
+ The primary outcome was included in both binary (clinically sig-
+ nificant vs. no clinically significant depressive symptoms) and con-
+ tinuous (CESD-R total score) formats. For each primary and
+ secondary outcome, we performed two mixed models: Model 1 to
+ estimate the difference in the outcome between the two arms at post-
+ intervention and Model 2 to estimate the difference at 6-month
+ follow-up. In these models, we controlled for all baseline character-
+ istics presented in Table 1 (including the baseline values of the
+ outcomes) and cluster-effects (district, school and class). The mixed-
+ effect models incorporated random effects for district, school and
+ class (specified as the data levels) and a fixed effect for trial arm
+ (included in the models as an explanatory variable), which is the
+ effect of the intervention on the outcome. Cohen’s d effect sizes were
+ calculated for significant continuous outcomes (adjusted mean
+ difference over the pooled standard deviation). Intraclass correl-
+ ation coefficients (ICC) at the class level were calculated from those
+ mixed models. The model assumptions including multicollinearity
+ and normal distribution of standard errors were examined. The
+ largest variance inflation factor (VIF), which measures the correl-
+ ation and strength of correlation between the predictor variables in a
+ regression model, is less than 10 indicating little or no multicolli-
+ nearity. Graphical methods (Q-Q plot) were used to examine the
+ normality assumption of the standard errors. All analyses followed
+ intention-to-treat principles at the individual-level using Stata, Ver-
+ 
+<section> sion
+ As outlined in the protocol (Tran et al., 2020) we also planned to
+ conduct ancillary analyses, including subgroup analyses by attend-
+ ance (participated or did not participate) and a mediation analysis,
+ testing the effects of the intervention on the primary outcome at
+ 6-month follow-up. In the mediation analysis, we intended to run
+ multilevel structural equation models in MPlus Version 8 (Muthen
+ and Muthen, 2017). The mediators that we planned to test were the
+ secondary outcomes at 2 weeks post-intervention, as they were the
+ intermediate outcomes that the intervention targeted to change.
+ In the protocol, we planned to performed multi-imputation to
+ treat missing data. However, conducting mixed effect model 
+<insert> Table 1. Baseline characteristics of participants by study arm 
+<iend>
+
+ 
+<section> Number of clusters
+ Number of participants per class, Median (min–max)
+ 
+<section> Demographic characteristics
+ 
+<section> Age in years, mean (SD)
+ 
+<section> Females, n (%)
+ 
+<section> Urban, n (%)
+ Living with both biological parents, n (%)
+ 
+<section> Number of siblings, n (%)
+ 
+<section> None
+ 
+<section> One
+ 
+<section> Two or more
+ 
+<section> Mother’s education level, n (%)
+ 
+<section> University or above
+ 
+<section> Diploma/technical degree
+ 
+<section> High school (year 12)
+ 
+<section> Secondary school (year 9) or lower
+ 
+<section> Do not know
+ 
+<section> Mother’s main occupation, n (%)
+ 
+<section> Government officer
+ 
+<section> Private sector employee
+ 
+<section> Self-employed
+ 
+<section> Farmer
+ Not currently engaged in income-generating activity/do not know
+ 
+<section> Father’s education level, n (%)
+ 
+<section> University or above
+ 
+<section> Diploma/technical degree
+ 
+<section> High school (year 12)
+ 
+<section> Secondary school (year 9) or lower
+ 
+<section> Do not know
+ 
+<section> Father’s main occupation, n (%)
+ 
+<section> Government officer
+ 
+<section> Private sector employee
+ 
+<section> Self-employed
+ 
+<section> Farmer
+ Not currently engaged in income-generating activity/do not know
+ 
+<section> Family has a car, n (%)
+ 
+<section> Physical health
+ 
+<section> Self-reported major chronic disease and/or physical disability, n (%)
+ Self-reported physical health, n (%)
+ 
+<section> Very good
+ 
+<section> Good
+ 
+<section> Fair
+ 
+<section> Poor/very poor
+ 
+<section> Control group 
+<section> Intervention group
+ 
+<section> (N = 552) 
+<section> (N = 531) 
+<section> p-value
+ 
+<section> n/a
+ 
+<section> 44 (37–47) 
+<section> 44 (41–48) 
+<section> n/a
+ 
+<section> 15.3 (0.3) 
+<section> 15.3 (0.3) 
+<section> 0.706
+ 
+<section> 325 (58.9) 
+<section> 331 (62.3) 
+<section> 0.404
+ 
+<section> 284 (51.5) 
+<section> 256 (48.2) 
+<section> 0.938
+ 
+<section> 496 (89.9) 
+<section> 471 (88.7) 
+<section> 0.756
+ 
+<section> 19 (3.5) 
+<section> 28 (5.3) 
+<section> 0.422
+ 
+<section> 318 (57.8) 
+<section> 275 (52.2) 
+<section> 0.338
+ 
+<section> 213 (38.7) 
+<section> 224 (42.5) 
+<section> 0.606
+ 
+<section> 220 (39.9) 
+<section> 142 (26.7) 
+<section> 0.437
+ 
+<section> 52 (9.4) 
+<section> 62 (11.7) 
+<section> 0.240
+ 
+<section> 97 (17.6) 
+<section> 97 (18.3) 
+<section> 0.916
+ 
+<section> 93 (16.9) 
+<section> 116 (21.9) 
+<section> 0.502
+ 
+<section> 90 (16.3) 
+<section> 114 (21.5) 
+<section> 0.248
+ 
+<section> 149 (27.0) 
+<section> 103 (19.4) 
+<section> 0.288
+ 
+<section> 112 (20.3) 
+<section> 86 (16.2) 
+<section> 0.331
+ 
+<section> 147 (26.6) 
+<section> 210 (39.6) 
+<section> 0.191
+ 
+<section> 70 (12.7) 
+<section> 65 (12.2) 
+<section> 0.960
+ 
+<section> 74 (13.4) 
+<section> 67 (12.6) 
+<section> 0.700
+ 
+<section> 217 (39.3) 
+<section> 140 (26.4) 
+<section> 0.442
+ 
+<section> 35 (6.3) 
+<section> 54 (10.2) 
+<section> 0.106
+ 
+<section> 106 (19.2) 
+<section> 90 (17.0) 
+<section> 0.717
+ 
+<section> 83 (15.0) 
+<section> 100 (18.8) 
+<section> 0.618
+ 
+<section> 111 (20.1) 
+<section> 147 (27.7) 
+<section> 0.126
+ 
+<section> 133 (24.1) 
+<section> 91 (17.1) 
+<section> 0.282
+ 
+<section> 97 (17.6) 
+<section> 81 (15.3) 
+<section> 0.626
+ 
+<section> 185 (33.5) 
+<section> 223 (42.0) 
+<section> 0.335
+ 
+<section> 63 (11.4) 
+<section> 57 (10.7) 
+<section> 0.932
+ 
+<section> 74 (13.4) 
+<section> 79 (14.9) 
+<section> 0.494
+ 
+<section> 189 (34.2) 
+<section> 131 (24.7) 
+<section> 0.360
+ 
+<section> 58 (10.6) 
+<section> 61 (11.6) 
+<section> 0.757
+ 
+<section> 93 (16.9) 
+<section> 92 (17.4) 
+<section> 0.703
+ 
+<section> 193 (35.2) 
+<section> 174 (32.9) 
+<section> 0.935
+ 
+<section> 250 (45.5) 
+<section> 252 (47.6) 
+<section> 0.860
+ 
+<section> 13 (2.3) 
+<section> 11 (2.1) 
+<section> 0.899
+ 
+<section> (Continued) 
+<insert> Table 1. (Continued)
+ Centre for Epidemiologic Studies Depression Scale Revised score, Mean (SD)
+ Centre for Epidemiologic Studies Depression Scale Revised score ≥ 16, n (%)
+ Mental Health Continuum Short, Mean (SD)
+ Burden of academic activities
+ Educational Stress Scale score, mean (SD)
+ Baseline data of the outcomes
+ Emotional well-being score
+ Social well-being score
+ Psychological well-being score
+ Emotion-focused
+ Problem-focused
+ Social-support seeking
+ Direct anger-out
+ Assertion
+ Social support-seeking
+ Distraction
+ Rumination
+ Coping self-efficacy scale (CSES) score, mean (SD)
+ School connectedness scale score, mean (SD)
+ Behavioural anger response questionnaire for children and adolescents (BARQ-C), 
+<iend>
+
+ analysis under the multi-imputation led to many convergence
+ problems. The proportions of missing data were relatively small
+ and there was no evidence of data missing not at random. There-
+ fore, missing data were treated in several steps. For each instru-
+ ment, in cases where less than 20% of items were missing, missing
+ data were imputed using the regression imputation method to
+ predict the item’s missing value from other items of that instru-
+ ment, other correlated instruments and socio-demographic char-
+ acteristics. After the imputations, the remaining missing data were
+ treated using pairwise deletion in the analyses.
+ 
+<section> Ethics approval
+ 
+<section> This study was a part of a trial study that has been approved by
+ Monash University Human Research Ethics Committee
+ (Certificate Number: 21455), Melbourne, Victoria, Australia; the
+ Institutional Review Board of the Hanoi University of Public Health
+ (488/2019/YTCC-HD3), Hanoi, Vietnam; and Queensland Uni-
+ versity of Technology’s Office of Research Ethics and Integrity
+ (2000000087).
+ 
+<section> Results
+ 
+<section> Sample
+ 
+<section> Recruitment and the baseline survey were conducted from th to
+ th of October, 2020. The post-intervention survey was completed
+ from st to th of December, 2020 and the 6-month follow-up data
+ 
+<section> Control group 
+<section> Intervention group
+ 
+<section> (N = 552) 
+<section> (N = 531) 
+<section> p-value
+ 
+<section> 28.1 (8.7) 
+<section> 28.1 (8.0) 
+<section> 0.981
+ 
+<section> 11.4 (12.2) 
+<section> 12.0 (12.0) 
+<section> 0.729
+ 
+<section> 142 (25.8) 
+<section> 133 (25.1) 
+<section> 0.842
+ 
+<section> 3.0 (1.1) 
+<section> 2.8 (1.1)
+ 
+<section> 10.2 (3.7) 
+<section> 9.7 (3.7) 
+<section> 0.120
+ 
+<section> 13.9 (6.4) 
+<section> 13.2 (6.5) 
+<section> 0.226
+ 
+<section> 17.5 (7.5) 
+<section> 16.5 (6.8) 
+<section> 0.075
+ 
+<section> 56.8 (19.6) 
+<section> 53.3 (19.8) 
+<section> 0.019
+ 
+<section> 68.2 (20.0) 
+<section> 64.3 (19.2) 
+<section> 0.036
+ 
+<section> 32.0 (10.5) 
+<section> 30.6 (9.9) 
+<section> 0.068
+ 
+<section> 18.6 (3.4) 
+<section> 18.4 (3.3) 
+<section> 0.724
+ 
+<section> mean (SD)
+ 
+<section> 5.9 (1.7) 
+<section> 5.9 (1.7) 
+<section> 0.769
+ 
+<section> 8.1 (1.9) 
+<section> 7.5 (2.0) 
+<section> 0.006
+ 
+<section> 7.5 (2.0) 
+<section> 7.3 (1.8) 
+<section> 0.208
+ 
+<section> 16.1 (3.2) 
+<section> 16.7 (3.4) 
+<section> 0.024
+ 
+<section> 7.8 (2.0) 
+<section> 7.8 (1.9) 
+<section> 0.634
+ 
+<section> completed paper-based survey to an online survey (built in Qual-
+ trics Insight Platform, Provo, UT) due to COVID-19 restrictions
+ imposed on Hanoi during the period of data collection.
+ A total of 1,084 from 1,128 eligible students (96.1%) were
+ recruited and provided baseline data. The recruitment rate was
+ slightly higher in the intervention than the control group (Figure 1).
+ No school or teachers selected refused to participate in this study.
+ One participant withdrew after the baseline survey and was not
+ included in the analyses. The number of participants with any
+ missing data at baseline was 29 (2.7%), at post-intervention was
+ 21 (1.9%) and at 6-month follow-up was 20 (1.9%). The missing
+ proportions were similar in the two groups. The baseline charac-
+ teristics of the groups with or without missing data of the primary
+ outcome were not significantly different (Supplementary Table 3),
+ suggesting that data were missing at complete random or missing at
+ random.
+ Overall, all students in the intervention group attended at least
+ five in six Happy House sessions. The number of students missing
+ one session was 27 (5.0%).
+ 
+<section> Baseline data
+ 
+<section> The socio-demographic characteristics of the two groups were
+ slightly different (Table 1). In the control group, a greater propor-
+ tion had parents with a higher level of education and working as
+ government officers. The self-reported physical health and burden
+ of academic activities were approximately similar between the two
+ groups. There were some minimal differences in baseline data of the 
+<insert> Figure 1. Trial profile. 
+<iend>
+
+ 
+<section> Estimation of intervention effects
+ 
+<section> The fidelity checklists were completed by the facilitators after all
+ sessions. These indicate that 100% of activities and content were
+ delivered as planned.
+ The odds of having the primary outcome (clinically significant
+ depressive symptoms; CESD-R score ≥ 16) at post-intervention
+ were statistically significantly lower in the intervention compared
+ to the control group, when taking into account cluster effects and
+ baseline data (Table 2). Similarly, the mean CESD-R score was
+ statistically significantly lower in the intervention compared to the
+ control group. Both of these differences became insignificant at
+ 6-month follow-up.
+ There were some differences in the secondary outcomes
+ between the two groups. The fully adjusted MHC-SF psychological
+ well-being subscale mean differences between the intervention and
+ control groups were significantly different at post-intervention, in
+ favour of the intervention. All of the CSES subscale scores (with the
+ exception of the emotion-focused subscale at 6-month follow-up)
+ were significantly higher (more self-efficacy for coping with stress)
+ in the intervention group at both time points. No effect of the
+ intervention on the MHC-SF emotional and social-well-being or
+ school connectedness was found.
+ VIFs in all models in Table 2 were less than 10 indicating little or
+ no multicollinearity. The residuals of all models were approxi-
+ mately normally distributed.
+ 
+<section> Ancillary analyses
+ 
+<section> We did not conduct the ancillary analysis by attendance because
+ almost all participants in the intervention group attended all ses-
+ sions. We did not perform mediation analyses because the effect of
+ the intervention on the primary outcome at 6-month follow-up was
+ not significant.
+ 
+<section> Discussion
+ 
+<section> This school-based, two-arm, parallel, controlled trial addresses a
+ major gap in evidence for the effectiveness of universal school-
+ based mental health promotion programmes for adolescent in
+ LMICs. Our main findings demonstrated that Happy House was
+ effective in reducing depressive symptoms and promoting psycho-
+ logical well-being at post-intervention among adolescents. This
+ study included a large sample size which was drawn from both
+ urban and rural areas. The refusal, attrition, and missing data rates
+ were minimal.
+ The prevalence of adolescents attending schools with clinically
+ significant depressive symptoms at baseline was high but consistent
+ with what found in previous studies in Vietnam (Thai et al., 2020).
+ That prevalence is also similar to the results of a meta-analysis of
+ 43 studies from many countries, using General Health Question-
+ naire, a common mental disorders symptom checklist (Silva et al.,
+ 2020). Symptom checklist instruments cannot provide diagnoses.
+ However, clinically significant symptoms of mental health dis-
+ orders are the target of prevention programmes. The large preva-
+ lence found in this study suggests that universal prevention
+ programmes for adolescent mental health are warranted and in
+ urgent need.
+ The proportions of students reporting clinically significant
+ depressive symptoms increased from baseline to 2 weeks post-
+ intervention (by 1.8%) and to 6 months follow-up (by 3.4%) in
+ the control. It decreased from baseline to 2 weeks post-intervention
+ (by 1.2%) and increased in 6 months follow-up (by 1.2%) in the
+ intervention group. Concerns about potential iatrogenic harms
+ (adverse effects) of universal school-based mental health pro-
+ grammes (Hsu, 1996; Foulkes and Stringaris, 2023) arise due to
+ the possibility that providing information and self-management
+ strategies could raise awareness, but be insufficient to some sub-
+ groups and not relevant to others. However, it’s important to note 
+<insert> Table 2. Mean differences of the outcomes between trial arms at post-intervention and 6-month follow-up
+ Control group
+ Outcome n (%)
+ Intervention group
+ n (%)
+ Adjusted a odds ratio
+ (Intervention: 1; Control: 0) p-value
+ Centre for Epidemiologic Studies Depression Scale revised score ≥
+ Post-intervention 155 (28.6%) 125 (23.9%) 0.56 (0.36; 0.88) 0.011
+ Six-month follow-up 157 (29.2%) 138 (26.3%) 0.75 (0.51; 1.09) 0.132
+ Adjusted a mean difference
+ (95%CI)
+ (Intervention:1; Control:0)
+ Control group
+ Mean (SD)
+ Intervention group
+ Mean (SD)
+ Post-intervention 11.7 (11.5) 11.0 (10.5) 1.17 ( 2.20; 0.14) 0.027 0.11
+ Six-month follow-up 12.7 (12.7) 12.3 (12.5) 0.62 ( 1.90; 0.67) 0.349 –
+ 10.2 (3.8) 9.6 (3.8) 0.26 ( 0.63; 0.10) 0.154 –
+ Cohen’s d effect size b
+ Centre for Epidemiologic Studies Depression
+ Scale revised score
+ Mental health continuum short form score
+ Post-intervention
+ Emotional well-being score
+ Social well-being score 13.8 (6.5) 13.8 (6.1) 0.57 ( 0.07; 1.21) 0.083 –
+ Psychological well-being score 17.0 (7.5) 17.1 (7.0) 0.91 (0.06; 1.77) 0.036 0.13
+ Six-month follow-up
+ Emotional well-being score 10.4 (3.8) 9.8 (3.8) 0.26 ( 0.66; 0.14) 0.203 –
+ Social well-being score 14.3 (6.5) 14.2 (6.7) 0.51 ( 0.15; 1.17) 0.132 –
+ Psychological well-being score 17.6 (7.2) 17.6 (7.1) 0.73 ( 0.02; 1.47) 0.056 –
+ Problem-focused sub-scale score 68.7 (21.0) 70.3 (18.6) 4.23 (1.82; 6.66) 0.001 0.21
+ Emotion-focused sub-scale score 58.2 (19.2) 59.2 (17.9) 3.18 (1.07; 5.28) 0.003 0.17
+ Social support sub-scale score 31.7 (10.6) 32.9 (10.2) 2.35 (0.80; 3.90) 0.003 0.23
+ 69.5 (21.5) 70. 6 (19.8) 3.82 (1.00; 6.64) 0.008 0.19
+ Coping self-efficacy scale (CSES) score
+ Post-intervention
+ Six-month follow-up
+ Problem-focused sub-scale score
+ Emotion-focused sub-scale score 60.0 (18.9) 60.3 (17.7) 2.36 ( 0.10; 4.83) 0.060 –
+ Social support sub-scale score 30.8 (10.9) 32.5 (10.6) 2.82 (1.45; 4.19) < 0.001 0.26
+ School connectedness scale score
+ a
+ Post-intervention 18.8 (3.7) 18.5 (3.8) 0.08 ( 0.58; 0.41) 0.741 –
+ Six-month follow-up 18.7 (3.6) 18.5 (3.6) 0.01 ( 0.73; 0.72) 0.985 –
+ Adjusted for cluster-effects and baseline characteristics (categories) presented in Table 1.
+ b 
+<iend>
+ Calculated for significant continuous outcomes.
+ that the increase in the proportion of clinically significant depres-
+ sive symptoms in the intervention group from post-intervention to
+ the 6-month follow-up might not necessarily indicate harm caused
+ by the programme. Several factors support this interpretation.
+ Firstly, a significant reduction in depressive symptoms was
+ observed immediately post-intervention. Secondly, the increase in
+ depressive symptoms was observed in both the intervention and
+ control groups. Finally, and the most important, this study was
+ implemented during the COVID-19 pandemic. Throughout the
+ 6 months follow-up period, strict restrictions were in place in Hanoi
+ including stay-at-home lockdowns. There is evidence worldwide on
+ the adverse impact of COVID-19 restrictions on adolescents’
+ mental health (Panchal et al., 2023). The pattern of changes docu-
+ mented in this study is likely to reflect the broader influence of the
+ pandemic on adolescents’ mental health. It suggests that pro-
+ grammes like this one that focus on building psychological know-
+ ledge and skills are insufficient to modify the effects of lockdowns, a
+ special situation, on adolescent mental health. Adolescent mental
+ health related to the pandemic in this and other resource-
+ constrained contexts warrants further research.
+ The positive effect of the intervention on depressive symptoms
+ found at 2 weeks post-intervention but not at 6-month follow-up is
+ similar to the results of the RAP-A trial in other LMICs (Rivet-Duval
+ et al., 2011). However, it is not consistent with the findings of two 
+<section> trials of RAP-A in Australia and New Zealand, both high-income
+ countries, which found that the effect remained 10–18 months after
+ the intervention (Shochet et al., 2001; Merry et al., 2004). Two trials
+ (Gallegos, 2008; Araya et al., 2013) of other school-based universal
+ mental health interventions in LMICs followed up after a 6–
+ 12 months and assessed depressive symptoms. Both trials did not
+ find a significant impact of the intervention on the outcome at the
+ follow-up timepoints. There are too few studies to draw conclusions
+ about the difference in effectiveness of interventions between high-
+ income countries and LMICs. However, our findings and the pre-
+ vious literature suggest that more efforts to sustain the beneficial
+ effects of the interventions on depressive symptoms in LMIC are
+ warranted. Integration of regular booster sessions may be useful to
+ maintain the positive effects of the intervention.
+ Compared to other analogous interventions, the magnitude of
+ the effects of Happy House on depressive symptoms (Cohen’s d of
+ 0.11) has effect sizes smaller than some but higher than the others.
+ In LMIC, Rivet-Duval et al. (2011) found a Cohen’s d effect size on
+ post-intervention depressive symptoms of 0.32, Gallegos (2008)
+ reported an effect size of 0.28 on post-intervention depressive
+ symptoms and 0.10 at 6 month follow-up, and Fuspita et al. (2018)
+ found an effect size of on post-intervention depressive symptoms
+ of 1.57, but others did not find any significant effects (Conley
+ et al., 2015; Velásquez et al., 2015; Bradshaw et al., 2021). Conley
+ et al. (2015) conducted a meta-analysis of 103 universal mental
+ health prevention programmes for higher education students and
+ found a pooled effect size of 0.2 for depressive symptoms and the
+ effect size of our study is higher than 29 programmes (28%). Dray
+ et al. (2017) found a pooled effect size of 0.08 of 49 universal
+ school-based resilience-focused interventions for children and
+ adolescents’ depressive symptoms. Tanner-Smith et al.’s review
+ of 74 meta-analyses to assess the effects of universal mental health
+ promotion and prevention programmes for school-age youth
+ provides the mean effect size distributions which are the appro-
+ priate evidence-based standards for judging the relative effects of
+ universal prevention programmes for adolescents (Tanner-Smith
+ et al., 2018). For the interventions targeting internalising prob-
+ lems (anxiety, depression, or other mental health conditions), the
+ th , th , and 75th percentile effect sizes are 0.10, 0.18 and 0.27,
+ respectively. Therefore, the effect size of our intervention is larger
+ than 25% of other universal prevention programmes. Overall,
+ universal school-based interventions targeting adolescents’ men-
+ tal health have relatively small effect sizes per participant. How-
+ ever, universal interventions like Happy House can reach a large
+ number of people. Therefore, even with a small change for an
+ individual, universal interventions can have large potential for
+ populations.
+ Our study is the first to date in an LMIC to assess the impact of a
+ universal school-based mental health programme on subjective
+ mental well-being. Mental well-being is related to, but different
+ from, mental illness, such as depression (Keyes, 2005). Among the
+ three dimensions of mental well-being, we found that Happy House
+ improves psychological well-being, but not emotional or social
+ well-being. The higher psychological well-being people have, the
+ more they like most parts of themselves (self-acceptance), have
+ warm and trusting relationships (positive relations with others), see
+ themselves developing into better people (personal growth), have a
+ direction in life (purpose in life), are able to shape their environ-
+ ment to satisfy their needs (environmental mastery), and have a
+ degree of self-determination (autonomy). Through the RAP prin-
+ ciples of building adolescents’ resilience and focusing on their
+ strengths, Happy House appears to impact psychological well-
+ being directly. Emotional well-being is the individual’s satisfaction
+ with life overall, and social well-being consists of social coherence,
+ social acceptance, social actualisation, social contribution, and
+ social integration. The intervention primarily focuses on improving
+ relationships and reducing conflict; a much narrower focus than
+ what emotional and social well-being covers. In this study, all three
+ dimensions of mental well-being were measured as part of the well-
+ being assessment. If emotional and social well-being were
+ improved, it may have been interesting to observe that Happy
+ House could have impacts outside the aim. However, it is not
+ surprising that we found that Happy House improves only psycho-
+ logical well-being but not the other two positive mental health
+ domains significantly.
+ In the CBT components of Happy House, adolescents are
+ encouraged to develop a variety of skills to manage stressful and
+ difficult circumstances, including maintaining positive self-talk,
+ keeping calm (self-regulation and self-relaxation), problem-solving
+ (defining problems, considering solutions, using a step-by-step
+ approach for carrying out and evaluating the solution), and support
+ networks (encouraging seeking help when necessary to maintain
+ their emotional well-being). In this study, the positive effects of
+ Happy House on all three coping strategies (problem-focused,
+ emotion-focused, and social support seeking) were demonstrated.
+ These findings are consistent with the RAP trial in Mauritius in
+ which the intervention improved coping skills at postintervention
+ and 6-month follow-up (Rivet-Duval et al., 2011). The improve-
+ ments in adequate coping skills were reported in some other
+ universal school-based programmes in lower-middle-income
+ countries (Barry et al., 2013). The evidence, all together, strongly
+ support that adolescents’ coping skills can be improved through
+ school-based universal programmes.
+ The matter of employing p-value adjustments in trials involving
+ multiple outcome measures is a subject of ongoing debate. On one
+ hand, there are recommendations advocating for p-value adjust-
+ ments due to the increased risk of encountering at least one stat-
+ istically significant test result by chance alone, leading to potential
+ misidentification of differences (Bland and Altman, 1995). Con-
+ versely, adjustments can diminish the likelihood of committing
+ type I errors (i.e., introducing ineffective treatments) but can
+ thereby elevate the possibility of type II errors (i.e., overlooking
+ effective treatments), an outcome equally significant to type I errors
+ (Rothman, 1990; Feise, 2002). In the context of this study, p-value
+ adjustments were not taken into consideration prior to the analyses
+ (as outlined in the protocol). However, upon applying p-value
+ adjustments to the secondary outcomes via the Bonferroni correc-
+ tion formula (Hsu, 1996), the strictest method, it becomes evident
+ that the three Coping Self-Efficacy Scale subscales exhibited sig-
+ nificant improvement post-intervention and at the 6-month
+ follow-up, except for the Emotion-focused and Problem-focused
+ sub-scale scores at the 6-month follow-up.
+ One of the adaptations of the RAP in Vietnam is increasing the
+ group size from up to 16 adolescents in the original version to
+ encompass the entire class (approximately 40 to 45 students), The
+ adaption aims to enhance acceptability and feasibility when scaling
+ up. During the pilot, we encountered several challenges related to
+ the larger group sizes. Firstly, ensuring that the majority of students
+ grasp the session’s content adequately poses a difficulty for the
+ facilitator. Secondly, engaging all students in discussions becomes
+ more complex. Finally, many activities are more difficult to execute
+ and manage within a larger group, sometimes leading to disorder
+ and disruptions to nearby classes. To address these challenges, we
+ formulated strategies including adding an assistant to support the 
+<section> facilitator in each session and occasionally dividing the class into
+ smaller groups for discussions and activities when necessary.
+ We acknowledge some limitations of this study. First, we could
+ not randomise the classes because multiple classes per school were
+ involved in this study. If students in the same school (but different
+ classes) received different types of intervention, it would have
+ increased the risk of contamination significantly. We acknowledge
+ that the school characteristics (including teachers and students
+ within the school) could be confounding factors that led to biases
+ in this study. Second, we did not pair schools between intervention
+ and control groups due to the lack of necessary data that could help
+ balance the baseline characteristics between the two study arms.
+ Third, the main outcome measure is not a diagnostic instrument.
+ However, the CESD-R is the one of the most widely accepted
+ depressive symptom checklists in research and clinical practice.
+ This scale covers all symptoms in the DSM-IV’s diagnostic criteria
+ for Major Depressive Disorder. Fourth, all our data were self-
+ reported, which may have introduced response biases. Fifth, fidelity
+ in this study was self-assessed by the facilitators. There was no
+ assessment on the delivery quality and engagement conducted. We
+ planned for this assessment to be conducted by research team
+ members from Australia. However, COVID-19 restrictions during
+ the course of intervention prevented team members travelling
+ internationally. Sixth, this study was implemented during the
+ COVID-19 pandemic. Nevertheless, we are confident that
+ COVID-19 pandemic did not cause any significant bias in this
+ study because both study arms experienced the same COVID-19
+ restrictions during the study period. Finally, we had hoped that our
+ study would provide information about the mechanisms of the
+ effect of the intervention on the main outcome. However, the
+ intervention only had an effect on the main outcome at post-
+ intervention, the same timepoint the potential mediators were
+ measured. Therefore, as the criterion of time order was not met,
+ we were prevented from conducting these ancillary analyses.
+ 
+<section> Implications and conclusions
+ 
+<section> This study demonstrates the positive impact of Happy House on
+ adolescents’ depressive symptoms, psychological well-being, and
+ stress coping strategies. This trial had high recruitment and par-
+ ticipation rates and no adverse effects were found. The findings of
+ this study can be generalised to other areas in Vietnam and other
+ countries with similar social, economic and cultural environments.
+ We suggest that further adaptation of this programme to
+ improve long-term effects is warranted. This programme, if inte-
+ grated into the existing school curriculum with regular booster
+ sessions, might have potential wider long-term benefits. Effective
+ problem solving and emotion regulation strategies for adolescents
+ are all potentially beneficial to not only their mental health but also
+ their physical health, academic performance and productivity in
+ adulthood. A retest of the adapted version is also necessary to
+ confirm the long-term effects before scaling up can be considered.
+ In addition, a barrier for the scale up of RAP in Vietnam and other
+ LMICs is that RAP is commercialised. It is free for research but has
+ a charge if it is being implemented. We are conducting an economic
+ analysis alongside this trial and the results will be published in a
+ separate paper. That economic analysis will provide necessary
+ information for policy makers and programmers to make decisions
+ on taking this programme to scale.
+ In conclusion, this study strongly supports that Happy House
+ has great potential to be integrated into the existing school
+ curriculum to reduce the prevalence of adolescent mental health
+ problems, and to promote positive mental health in Vietnam.
+ 
+<section> Open peer review. To view the open peer review materials for this article,
+ please visit http://doi.org/10.1017/gmh.2023.66.
+ 
+<section> Supplementary material. The supplementary material for this article can be
+ found at https://doi.org/10.1017/gmh.2023.66.
+ 
+<section> Data availability statement. The data that support the findings of this study
+ are available on request from the corresponding author, T.D.T. The data are not
+ publicly available due to their containing information that could compromise
+ the privacy of research participants.
+ 
+<section> Acknowledgements. The authors are especially grateful to the adolescents
+ who contributed their experiences to this research.
+ 
+<section> Author contribution. T.D.T., Hu.N., I.S., and J.F. designed this study. All
+ authors conducted this study. H.N. managed the data. T.D.T. and
+ H.N. conducted the statistical analysis. T.D.T. wrote the draft of this paper.
+ All authors provided the interpretation of results and critically reviewed the
+ draft. All authors reviewed and agreed on the content of the final submitted
+ version. T.D.T., Hu.N., and J.F. have accessed and verified the data. T.D.T. and
+ J.F. were responsible for the decision to submit the manuscript.
+ 
+<section> Financial support. This work was supported by the Australian National
+ Health and Medical Research Council (GNT1158429), and the Vietnam
+ National Foundation for Science and Technology Development
+ (NHMRC.108.01–2018.02). T.D.T. is supported by a Monash Strategic Bridging
+ Fellowship; J.F. is supported by a Finkel Professorial Fellowship, which is funded
+ by Finkel Foundation. The funders had no role in study design; in collection,
+ analysis and interpretation of data; in the writing of the report; and in the
+ decision to submit the paper for publication.
+ 
+<section> Competing interest. The authors declare none.
+ 
+<section> Ethics standard. This study is part of a larger trial which has been granted
+ ethical approval by Monash University Human Research Ethics Committee,
+ Melbourne, Australia (approval number: 21455), the Institutional Review Board
+ of the Hanoi University of Public Health, Hanoi, Vietnam (Certificate Number:
+ 488/2019/YTCC-HD3), and Queensland University of Technology’s Office of
+ Research Ethics and Integrity, Brisbane, Australia (2000000087).
+ 
+<section> Trial registration number. Registered with the Australian New Zealand
+ 
+<section> Clinical Trials Registry, registration number: ACTRN12620000088943
+ (3/2/2020). WHO Universal Trial Number: U1111–1246-4,079.
+ 
+<section> References
+ 
+<section> American Psychiatric Association (2000) Diagnostic and Statistical Manual
+ of Mental Disorders, 4th Edn. Washington, DC: American Psychiatric
+ Association.
+ 
+<section> Araya R, Fritsch R, Spears M, Rojas G, Martinez V, Barroilhet S, Vohringer P,
+ Gunnell D, Stallard P, Guajardo V, Gaete J, Noble S and Montgomery AA
+ (2013) School intervention to improve mental health of students in Santiago,
+ Chile: A randomized clinical trial. JAMA Pediatrics 167(11), 1004–1010.
+ 
+<section> Arora PG, Collins TA, Dart EH, Hernández S, Fetterman H and Doll B (2019)
+ Multi-tiered systems of support for school-based mental health: A systematic
+ review of depression interventions. School Mental Health 11(2), 240–264.
+ 
+<section> Barry MM, Clarke AM, Jenkins R and Patel V (2013) A systematic review of
+ the effectiveness of mental health promotion interventions for young people
+ in low and middle income countries. BMC Public Health 13,
+ Beck AT, Rush AJ, Shaw BF and Emery G (1979) Cognitive Therapy of
+ 
+<section> Depression: A Treatment Manual. New York, NY: Guilford Press.
+ 
+<section> Beck AT, Steer RA and Brown G (1996) Beck Depression Inventory–II. Psy-
+ chological Assessment. Washington, DC: American Psychological Associ-
+ ation. 
+<section> Benish SG, Quintana S and Wampold BE (2011) Culturally adapted psycho-
+ therapy and the legitimacy of myth: A direct-comparison meta-analysis.
+ 
+<section> Journal of Counseling Psychology 58(3), 279–289.
+ 
+<section> Bernal G, Jiménez-Chafey MI and Rodríguez MMD (2009) Cultural adapta-
+ tion of treatments: A resource for considering culture in evidence-based
+ practice. Professional Psychology: Research and Practice 40(4),
+ Bland JM and Altman DG (1995) Multiple significance tests: The Bonferroni
+ 
+<section> method. BMJ 310(6973),
+ Bonhauser M, Fernandez G, Puschel K, Yanez F, Montero J, Thompson B and
+ 
+<section> Coronado G (2005) Improving physical fitness and emotional well-being in
+ adolescents of low socioeconomic status in Chile: Results of a school-based
+ controlled trial. Health Promotion International 20(2), 113–122.
+ 
+<section> Bradshaw M, Gericke H, Coetzee BJ, Stallard P, Human S and Loades M
+ (2021) Universal school-based mental health programmes in low-and
+ middle-income countries: A systematic review and narrative synthesis. Pre-
+ 
+<section> ventive Medicine 143, 106317.
+ 
+<section> Caldwell DM, Davies SR, Hetrick SE, Palmer JC, Caro P, Lopez-Lopez JA,
+ Gunnell D, Kidger J, Thomas J, French C, Stockings E, Campbell R and
+ 
+<section> Welton NJ (2019) School-based interventions to prevent anxiety and depres-
+ sion in children and young people: A systematic review and network meta-
+ analysis. Lancet Psychiatry 6(12), 1011–1020.
+ 
+<section> Chesney MA, Neilands TB, Chambers DB, Taylor JM and Folkman S (2006) A
+ validity and reliability study of the coping self-efficacy scale. British Journal of
+ Health Psychology 11(3), 421–437.
+ 
+<section> Chowdhary N, Jotheeswaran AT, Nadkarni A, Hollon SD, King M, Jordans
+ MJ, Rahman A, Verdeli H, Araya R and Patel V (2014) The methods and
+ outcomes of cultural adaptations of psychological treatments for depressive
+ disorders: A systematic review. Psychological Medicine 44(6), 1131–1146.
+ 
+<section> Conley CS, Durlak JA and Kirsch AC (2015) A meta-analysis of universal
+ mental health prevention programs for higher education students. Prevention
+ Science 16(4), 487–507.
+ 
+<section> Dray J, Bowman J, Campbell E, Freund M, Wolfenden L, Hodder RK,
+ McElwaine K, Tremain D, Bartlem K, Bailey J, Small T, Palazzi K, Old-
+ meadow C and Wiggers J (2017) Systematic review of universal resilience-
+ focused interventions targeting child and adolescent mental health in the
+ school setting. Journal of the American Academy of Child and Adolescent
+ Psychiatry 56(10), 813–824.
+ 
+<section> Eaton WW, Muntaner C, Smith C, Tien A and Ybarra M (2004) Center for
+ epidemiologic studies depression scale: Review and revision (CESD and CESD-
+ R). In Maruish ME (ed.), The Use of Psychological Testing for Treatment Planning
+ and Outcomes Assessment. Mahwah, NJ: Lawrence Erlbaum, pp. 363–377.
+ 
+<section> Fazel M, Hoagwood K, Stephan S and Ford T (2014a) Mental health inter-
+ ventions in schools in high-income countries. The Lancet Psychiatry 1(5),
+ 377–387.
+ 
+<section> Fazel M, Patel V, Thomas S and Tol W (2014b) Mental health interventions in
+ schools in low-income and middle-income countries. Lancet Psychiatry 1(5),
+ 388–398.
+ 
+<section> Feise RJ (2002) Do multiple outcome measures require p-value adjustment?
+ BMC Medical Research Methodology 2, 1–4.
+ 
+<section> Feiss R, Dolinger SB, Merritt M, Reiche E, Martin K, Yanes JA, Thomas CM
+ 
+<section> and Pangelinan M (2019) A systematic review and meta-analysis of school-
+ based stress, anxiety, and depression prevention programs for adolescents.
+ 
+<section> Journal of Youth and Adolescence 48(9), 1668–1685.
+ 
+<section> Foulkes L and Stringaris A (2023) Do no harm: Can school mental health
+ interventions cause iatrogenic harm? BJPsych Bulletin 47, 267–269.
+ 
+<section> Fuspita H, Susanti H and Putri DE (2018) The influence of assertiveness
+ training on depression level of high school students in Bengkulu, Indonesia.
+ 
+<section> Enfermeria Clinica 28, 300–303.
+ 
+<section> Gallegos J (2008) Preventing Childhood Anxiety and Depression: Testing the
+ Effectiveness of a School-Based Program in México. Doctor of Philosophy, The
+ University of Texas at Austin.
+ 
+<section> GBD 2019 Diseases and Injuries Collaborators (2020) Global burden of
+ 369 diseases and injuries in 204 countries and territories, 1990-2019: A
+ systematic analysis for the global burden of disease study 2019. Lancet
+ 
+<section> (10258), 1204–1222.
+ 
+<section> GSO (2019). Population and Housing Census. Hanoi, General Statistics Office
+ of Viet Nam.
+ 
+<section> Ha TTK (2020) Subjective well-being of adolescents and their parents in
+ Vietnam. In Rich GJ, Jaafar JLS and Barron D (eds), Psychology in Southeast
+ 
+<section> Asia: Sociocultural, Clinical, and Health Perspectives. London: Routledge,
+ pp. 116–133.
+ 
+<section> Hsu J (1996) Multiple Comparisons: Theory and Methods. New York: CRC
+ Press.
+ 
+<section> Keyes CL (2005) Mental illness and/or mental health? Investigating axioms of
+ the complete state model of health. Journal of Consulting and Clinical
+ 
+<section> Psychology 73(3),
+ Keyes CL, Wissing M, Potgieter JP, Temane M, Kruger A and van Rooy S
+ (2008) Evaluation of the mental health continuum-short form (MHC-SF) in
+ setswana-speaking South Africans. Clinical Psychology & Psychotherapy
+ 
+<section> (3), 181–192.
+ 
+<section> Klasen H and Crombag A-C (2013) What works where? A systematic review of
+ child and adolescent mental health interventions for low and middle income
+ countries. Social Psychiatry & Psychiatric Epidemiology 48(4), 595–611.
+ 
+<section> La NL, Shochet I, Tran T, Fisher J, Wurfl A, Nguyen N, Orr J, Stocker R and
+ 
+<section> Nguyen H (2022) Adaptation of a school-based mental health program for
+ adolescents in Vietnam. PLoS One 17(8), e0271959.
+ 
+<section> Malik K, Michelson D, Doyle AM, Weiss HA, Greco G, Sahu R, EJ J, Mathur S,
+ Sudhir P, King M, Cuijpers P, Chorpita B, Fairburn CG and Patel V (2021).
+ 
+<section> “Effectiveness and costs associated with a lay counselor-delivered, brief
+ problem-solving mental health intervention for adolescents in urban, low-
+ income schools in India: 12-month outcomes of a randomized controlled
+ trial.” PLoS Medicine 18(9), e1003778.
+ 
+<section> Merry S, McDowell H, Wild CJ, Bir J and Cunliffe R (2004) A randomized
+ placebo-controlled trial of a school-based depression prevention program.
+ 
+<section> Journal of the American Academy of Child and Adolescent Psychiatry 43,
+ 538–547.
+ 
+<section> Michelson D, Malik K, Parikh R, Weiss HA, Doyle AM, Bhat B, Sahu R,
+ Chilhate B, Mathur S, Krishna M, Sharma R, Sudhir P, King M, Cuijpers P,
+ Chorpita B, Fairburn CG and Patel V (2020) Effectiveness of a brief lay
+ counsellor-delivered, problem-solving intervention for adolescent mental
+ health problems in urban, low-income schools in India: A randomised
+ controlled trial. Lancet Child Adolescent Health 4(8), 571–582.
+ 
+<section> Miers AC, Rieffe C, Terwogt MM, Cowan R and Linden W (2007) The relation
+ between anger coping strategies, anger mood and somatic complaints in
+ children and adolescents. Journal of Abnormal Child Psychology 35(4),
+ 653–664.
+ 
+<section> Mufson L, Moreau D, Weissman MM and Klerman GL (1993) Interpersonal
+ psychotherapy for adolescent depression. In Klerman GL and Weissman MM
+ (eds), New Applications of Interpersonal Psychotherapy. Washington, DC:
+ American Psychiatric Association Press, pp. 130–166.
+ 
+<section> Muthen LK and Muthen BO (2017) Mplus User’s Guide. Eighth Edition. Los
+ 
+<section> Angeles, CA: Muthén & Muthén.
+ 
+<section> Nguyen DT, Dedding C, Pham TT, Wright P and Bunders J (2013) Depression,
+ anxiety, and suicidal ideation among Vietnamese secondary school students
+ and proposed solutions: A cross-sectional study. BMC Public Health 13, 1195.
+ 
+<section> Nguyen N-QT (2010) Relations between the Experience and Control of Anger,
+ and Somatization and Internalizing Psychopathology among Middle-School
+ Children in Vietnam. Master of Science, Vanderbilt University.
+ 
+<section> Nguyen T, Le V and Dunne M (2007) Validity and reliability of depression and
+ anxiety scales using in community-based adolescent research. Vietnam Jour-
+ nal of Public Health 7(7), 25–31.
+ 
+<section> Osborn TL, Venturo-Conerly KE, Arango GS, Roe E, Rodriguez M, Alemu
+ RG, Gan J, Wasil AR, Otieno BH, Rusch T, Ndetei DM, Wasanga C,
+ Schleider JL and Weisz JR (2021) Effect of Shamiri layperson-provided
+ intervention vs study skills control intervention for depression and anxiety
+ symptoms in adolescents in Kenya: A randomized clinical trial. JAMA
+ Psychiatry 78(8), 829–837.
+ 
+<section> Panchal U, de Pablo GS, Franco M, Moreno C, Parellada M, Arango C and
+ 
+<section> Fusar-Poli P (2023) The impact of COVID-19 lockdown on child and
+ adolescent mental health: Systematic review. European Child & Adolescent
+ Psychiatry 32, 1151–1177.
+ 
+<section> Pham TTB (2015) Study Burden, Academic Stress and Mental Health among
+ High School Students in Vietnam. Doctor of Philosophy, Queensland Uni-
+ versity of Technology. 
+<section> Radloff LS (1977) A self-report depression scale for research in the general
+ population. Applied Psychol Measurements 1, 385–401.
+ 
+<section> Regan M, Fawzi WW and Patel V (2020) Promoting global adolescent health:
+ Realizing the transformative potential of schools. The Journal of Adolescent
+ Health 66(5), 526–528.
+ 
+<section> Reynolds W (1986) Adolescent Depression Scale-High School Version. Odessa,
+ FL: Psychological Assessments Resources.
+ 
+<section> Rivet-Duval E, Heriot S and Hunt C (2011) Preventing adolescent depression
+ in Mauritius: A universal school-based program. Child and Adolescent Men-
+ tal Health 16(2), 86–91.
+ 
+<section> Rothman KJ (1990) No adjustments are needed for multiple comparisons.
+ 
+<section> Epidemiology 43–46.
+ 
+<section> Shochet IM, Dadds MR, Holland D, Whitefield K, Harnett PH and
+ 
+<section> Osgarby SM (2001) The efficacy of a universal school-based program to
+ prevent adolescent depression. Journal of Clinical Child Psychology 30,
+ 303–315.
+ 
+<section> Shochet IM and Wurfl A (2015) Resourceful Adolescent Program: Group
+ Leader’s Manual. Brisbane, Australia: School of Psychology and Counselling,
+ Queensland University of Technology.
+ 
+<section> Sieving RE, Beuhring T, Resnick MD, Bearinger LH, Shew M, Ireland M and
+ 
+<section> Blum RW (2001) Development of adolescent self-report measures from the
+ National Longitudinal Study of adolescent health. Journal of Adolescent
+ Health 28(1), 73–81.
+ 
+<section> Silva SA, Silva SU, Ronca DB, Gonçalves VSS, Dutra ES and Carvalho KMB
+ (2020) Common mental disorders prevalence in adolescents: A systematic
+ review and meta-analyses. PLoS One 15(4), e0232007.
+ 
+<section> Sun J, Dunne MP, Hou X-Y and Xu A-q (2011) Educational stress scale for
+ adolescents: Development, validity, and reliability with Chinese students.
+ 
+<section> Journal of Psychoeducational Assessment 29(6), 534–546.
+ 
+<section> Tanner-Smith EE, Durlak JA and Marx RA (2018) Empirically based
+ mean effect size distributions for universal prevention programs targeting
+ school-aged youth: A review of meta-analyses. Prevention Science 19(8),
+ 1091–1101.
+ 
+<section> Thai TT, Cao PLT, Kim LX, Tran DP, Bui MB and Bui HHT (2020) The effect
+ of adverse childhood experiences on depression, psychological distress and
+ suicidal thought in Vietnamese adolescents: Findings from multiple cross-
+ sectional studies. Asian Journal of Psychiatry 53, 102134.
+ 
+<section> Tran T, La N, Nguyen H, Shochet I, Nguyen N, Wurfl A, Orr J, Nguyen H,
+ Stocker R and Fisher J (2022a) Validation of the coping self-efficacy scale:
+ Vietnamese version for adolescents. BMC Psychology 10(1), 1–9.
+ 
+<section> Tran T, Nguyen H, Shochet I, Nguyen N, La N, Wurfl A, Orr J, Nguyen H,
+ Stocker R and Fisher J (2022b) Construct validity of the Centre for
+ Epidemiologic Studies Depression Scale Revised – Vietnamese Version
+ (CESDR-V) among adolescents, Preprint (Version 1) available at Research
+ Square. https://doi.org/10.21203/rs.3.rs-1855898/v1.
+ 
+<section> Tran T, Nguyen HT, Shochet I, Wurfl A, Orr J, Nguyen N, La N, Nguyen H,
+ Stocker R, Nguyen T, Le M and Fisher J (2020) School-based, two-arm,
+ parallel, controlled trial of a culturally adapted resilience intervention to
+ improve adolescent mental health in Vietnam: Study protocol. BMJ Open
+ 
+<section> 10(10), e039343.
+ 
+<section> UNESCO (2015) How long will it take to achieve universal primary and
+ secondary education? Technical Background Note for the Framework for
+ Action on the post-2015 Education Agenda, United Nations Educational,
+ Scientific and Cultural Organization.
+ 
+<section> Velásquez AM, López MA, Quiñonez N and Paba DP (2015) Yoga for the
+ prevention of depression, anxiety, and aggression and the promotion of
+ socio-emotional competencies in school-aged children. Educational Research
+ and Evaluation 21(5–6), 407–421.
+ 
+<section> Wigelsworth M, Lendrum A, Oldfield J, Scott A, Ten Bokkel I, Tate K and
+ 
+<section> Emery C (2016) The impact of trial stage, developer involvement and inter-
+ national transferability on universal social and emotional learning programme
+ outcomes: A meta-analysis. Cambridge Journal of Education 46(3), 347–376.

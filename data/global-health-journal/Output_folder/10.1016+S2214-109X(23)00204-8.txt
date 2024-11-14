@@ -1,0 +1,1744 @@
+
+<section> Effectiveness and safety of intermittent preventive
+ 
+<section> treatment with dihydroartemisinin–piperaquine or
+ 
+<section> artesunate–amodiaquine for reducing malaria and related
+ 
+<section> morbidities in schoolchildren in Tanzania: a randomised
+ 
+<section> controlled trial
+ 
+<section> Geofrey Makenga, Vito Baraka, Filbert Francis, Swabra Nakato, Samwel Gesase, George Mtove, Rashid Madebe, Edna Kyaruzi, Daniel T R Minja,
+ John P A Lusingu, Jean-Pierre Van geertruyden
+ 
+<section> Summary
+ 
+<section> Background In high transmission settings, most school-aged children harbour malaria parasites without showing
+ symptoms, often leading to anaemia and possibly impaired psychomotor and cognitive abilities. We aimed to assess
+ the effectiveness and safety of intermittent preventive treatment for malaria in school-aged children (IPTsc) living in
+ 
+<section> highly endemic areas.
+ 
+<section> Methods We did an open-label randomised controlled trial in seven primary schools in northeastern Tanzania.
+ Schoolchildren aged 5–15 years were individually randomly assigned (1:1:1) to receive dihydroartemisinin–piperaquine,
+ artesunate–amodiaquine, or standard of care (control) using a balanced block design. Drugs were administered by
+ schoolteachers, with supervision from study nurses, at months 0 (baseline), 4, and 8, and were given in line with
+ manufacturer’s recommendations with dose based on the child’s bodyweight. The primary endpoints were change
+ from baseline in mean haemoglobin concentration at months 12 and 20, and clinical incidence of malaria and
+ prevalence of parasitaemia at months 12 and 20 in the intervention groups versus the control group. The outcome data
+ were collected through longitudinal surveys conducted every 4 months. Data were analysed on the basis of intention to
+ treat (including all randomised participants) and per protocol (comprising children who completed the full 3-day
+ regimen of all three IPTsc treatment rounds as assigned). This study is registered with ClinicalTrials.gov (NCT03640403).
+ 
+<section> Findings Of the 1797 children scheduled for clinical screening, 1566 were enrolled and randomly allocated (526 to receive
+ dihydroartemisinin–piperaquine, 527 to receive artesunate–amodiaquine, and 513 to receive standard of care). Due to
+ COVID-19-related school closures, only two schools were visited at month 12 (135 children in the dihydroartemisinin–
+ piperaquine group, 131 in the artesunate–amodiaquine group, and 118 in the control group). At month 12, compared
+ with the control group, the change from baseline in mean haemoglobin concentration was increased by 0·5 g/dL (95% CI
+ 0·2 to 0·8; p<0·0001) in the dihydroartemisinin–piperaquine group and 0·5 g/dL (0·2 to 0·7; p=0·0020) in the
+ artesunate–amodiaquine group in the intention-to-treat analysis (with similar findings in the per protocol analysis). In
+ the same period, in the intention-to-treat analysis, the prevalence of malaria parasitaemia increased from 28·5% (138 of
+ 485 participants) to 33·6% (39 of 116) in the control group, but decreased from 28·0% (139 of 497) to 12·0% (15 of 125)
+ in the dihydroartemisinin–piperaquine group (–21·6 percentage points [95% CI –31·9 to –11·3], p=0·0001 vs control at
+ month 12) and from 24·7% (124 of 502) to 16·0% (20 of 125) in the artesunate–amodiaquine group (–17·6 percentage
+ points [–28·4 to –6·9], p=0·0015). The decrease for artesunate–amodiaquine was larger in the per protocol analysis
+ (–25·3 percentage points [–36·3 to –14·2], p<0·0001). The protective effect of IPTsc against malaria parasitaemia was
+ 64% (95% CI 39 to 79; p<0·0001) for dihydroartemisinin–piperaquine and 52% (23 to 70; p=0·0015) for artesunate–
+ amodiaquine in the intention-to-treat analysis, and was slightly higher on per protocol analysis. The protective effect
+ against clinical malaria at month 12 was 20% (95% CI 9 to 29; p=0·0002) for dihydroartemisinin–piperaquine and 19%
+ (8 to 28; p=0·0004) for artesunate–amodiaquine. No significant differences in any primary outcomes between the
+ intervention and control groups were noted at month 20. Dihydroartemisinin–piperaquine and artesunate–amodiaquine
+ were associated with a small number of mild adverse events, and there were no treatment-related serious adverse events
+ 
+<section> or deaths.
+ 
+<section> Interpretation IPTsc with dihydroartemisinin–piperaquine or artesunate–amodiaquine is a safe and effective approach
+ to reducing malaria parasitaemia, clinical malaria, and related morbidities, and is feasible to implement through
+ programmes delivered by schoolteachers.
+ 
+<section> Funding Flemish Interuniversity Council (VLIRUOS), EU EDCTP2 programme (MaReCa project), and Global
+ 
+<section> Minds 2019.
+ 
+<section> Articles
+ 
+<section> Lancet Glob Health 2023;
+ 
+<section> 11: e1277–89
+ 
+<section> See 
+<section> Comment page e1156
+ 
+<section> For the Swahili translation of the
+ 
+<section> abstract see 
+<section> Online for
+ 
+<section> appendix
+ 
+<section> National Institute for Medical
+ 
+<section> Research, Tanga Centre, Tanga,
+ 
+<section> Tanzania (G Makenga MD MSc,
+ V Baraka PhD, F Francis MSc,
+ S Gesase MD, G Mtove MD MSc,
+ R Madebe MSc, D T R Minja PhD,
+ 
+<section> Prof J P A Lusingu MD PhD); 
+<section> Dar
+ 
+<section> es Salaam University College of
+ 
+<section> Education, University of Dar es
+ 
+<section> Salaam, Dar es Salaam,
+ 
+<section> Tanzania (E Kyaruzi PhD); 
+<section> Global
+ 
+<section> Health Institute, University of
+ 
+<section> Antwerp, Antwerp, Belgium
+ 
+<section> (G Makenga, S Nakato MSc,
+ 
+<section> Prof J-P Van geertruyden MD
+ 
+<section> PhD); 
+<section> Centre for Medical
+ 
+<section> Parasitology, University of
+ 
+<section> Copenhagen, Copenhagen,
+ 
+<section> Denmark (Prof J P A Lusingu)
+ 
+<section> Correspondence to:
+ 
+<section> Dr Geofrey Makenga, National
+ 
+<section> Institute for Medical Research,
+ 
+<section> Tanga Centre, PO Box 5004,
+ 
+<section> Tanga, Tanzania
+ 
+<section> geofmacky@gmail.com 
+<section> Articles
+ 
+<section> Copyright © 2023 The Author(s). Published by Elsevier Ltd.
+ 
+<section> Introduction
+ According to the WHO malaria report 2022, the WHO
+ African Region had an estimated 234 million cases of
+ malaria in 2021, which accounted for about 95% of global
+ malaria cases. Compared with other age groups, school-
+ aged children (5–15 years) have a high prevalence of
+ malaria in most endemic areas of sub-Saharan Africa. 2–5
+ In most cases, these children remain asymptomatic,
+ which makes them susceptible to anaemia and impaired
+ cognitive ability. 4,6 Reduced haemoglobin concentrations
+ are often a consequence of long durations of infection or
+ recurrent malaria episodes, both of which have been
+ associated with increased gametocyte production 8 that
+ continues to propagate transmission. Control strategies
+ rely mainly on insecticide-treated nets and effective case
+ management with artemisinin combination therapies.
+ However, studies show low use of bednets in school-aged
+ 
+<section> Research in context
+ 
+<section> Evidence before this study
+ Before our study, we conducted a systematic review and meta-
+ analysis to explore the correlation between the malaria parasite
+ carriage in pregnant women and school-aged children living in
+ similar malaria-endemic settings of sub-Saharan Africa. We
+ searched the Malaria in Pregnancy Library, PubMed, Cochrane
+ Library, and Web of Science to include studies indexed or
+ published until Dec 10, 2018. Combinations of the following
+ search terms were used: “children” OR “pregnant women” AND
+ “malaria” OR “Plasmodium falciparum” AND “prevalence” AND
+ “Africa”. No language or date restrictions were applied to this
+ search. We updated our search to March 31, 2023, by searching
+ PubMed for review articles with the main search terms “malaria
+ prevalence OR burden AND school aged children AND Africa”,
+ with no language or date restrictions. Studies showed that
+ most school-aged children (aged 5–15 years) in high
+ transmission settings harbour malaria parasites without
+ showing symptoms, which makes them susceptible to anaemia
+ and impaired cognitive ability. School-aged children were twice
+ as likely to carry malaria parasites as were pregnant women
+ living in the same community, and there was a strong linear
+ correlation between the prevalence of malaria infection in
+ school-aged children and pregnant women (r=0·93, p<0·0001).
+ Despite children being at high risk, with strong correlation to
+ that in their surrounding community, school-aged children still
+ lack targeted interventions tailored to them. Systematic
+ reviews by Cohee and colleagues (2020) and Matangila and
+ colleagues (2015) have shown that intermittent preventive
+ treatment for malaria in school-aged children (IPTsc) is an
+ effective tool to reduce malaria and malaria-related anaemia.
+ These findings support the hypothesis that clearing otherwise
+ untreated, asymptomatic infections might provide a window of
+ opportunity for haematological recovery by decreasing the rate
+ of destruction and removal of parasitised red blood cells and
+ 
+<section> This is an Open Access article under the CC BY 4.0 license.
+ 
+<section> children; 5 thus, a targeted chemopreventive treatment
+ could be a better option for this age group.
+ Clearing otherwise-untreated asymptomatic infections
+ might provide a window for haematological recovery by
+ decreasing the rate of destruction and removal of
+ parasitised erythrocyte and improving the erythrocyte
+ production rate in the bone marrow. 6 Artemisinin
+ combination therapies are highly effective against the
+ pathogenic asexual parasite stages and immature
+ gametocytes, resulting in a substantial reduction of post-
+ treatment malaria transmission compared with non-
+ artemisinin regimens. 9 Several studies have shown
+ intermittent preventive treatment for malaria in school-
+ aged children (IPTsc) to be a feasible and effective
+ tool 10,11 to prevent clinical malaria and reduce malaria
+ parasitaemia and anaemia in schoolchildren. However,
+ there is still little evidence on the optimal drug and
+ improving the erythrocyte production rate in the bone marrow.
+ However, the optimal drug regimen or schedule for IPTsc has
+ not been established, and most studies have advocated for the
+ use of non-artemisinin combination therapies for IPTsc. In
+ addition, the feasibility of using schoolteachers to implement
+ IPTsc has been minimally investigated.
+ 
+<section> Added value of this study
+ We conducted a study with a pragmatic design to mimic how
+ IPTsc could be implemented in Tanzania. We chose
+ artemisinin combination therapy drugs that were registered
+ and used as alternatives to first-line regimens in Tanzanian
+ malaria diagnostics and treatment guidelines, meaning that
+ these drugs were well known and had good safety profiles
+ from a regulatory perspective. We used schoolteachers to
+ administer IPTsc, a strategy that was deemed feasible and
+ effective. We chose a schedule that would provide maximum
+ protective benefit as it mimicked malaria seasonality in the
+ study area. Our design included a second year with no
+ intervention, in which we found no rebound effect, although
+ the benefits obtained in the interventional year disappeared,
+ highlighting a need for sustained IPTsc intervention to
+ maintain the gains in the long term and protect subsequent
+ cohorts.
+ 
+<section> Implications of all the available evidence
+ WHO’s 2023 guidelines for malaria recommend the use of IPTsc
+ in malaria-endemic settings with moderate to high perennial or
+ seasonal transmission to reduce disease burden. Our findings
+ provide further field-based evidence that malaria control
+ programmes should consider implementing IPTsc. Use of
+ schoolteachers was feasible for IPTsc programmatic
+ implementation and possible integration, as schoolteachers are
+ already used to deliver school-based mass anthelmintic drug
+ administration and nutritional programmes. 
+<section> schedule for implementation of IPTsc in the context of including
+ transmission seasonality and school programmes. consent
+ Implementing IPTsc with the first-line drug for treating parents
+ clinical malaria might not be a good approach, as it could asked to
+ contribute to drug resistance. However, artemisinin
+ partner drugs that have shown antagonistic resistance 
+<section> Randomisation
+ mechanisms to those of the first-line drug can be Children
+ considered for preventive strategies. 12 In this study, groups:
+ we used dihydroartemisinin-piperaquine because of amodiaquine,
+ its longer prophylactic effect compared with other balanced
+ artemisinin combination therapies and because it is listed reference,
+ as an alternative to first-line treatment of uncomplicated block size
+ malaria in Tanzania. Artesunate–amodiaquine was of each
+ chosen for similar reasons and has been shown to have by the
+ increased sensitivity in areas (including Tanzania) where sealed envelopes.
+ amodiaquine was banned in the early 2000s. 12 Thus, we up in no
+ undertook an individual randomised controlled trial to one for
+ investigate the protective effect and safety of IPTsc with evaluation
+ either dihydroartemisinin–piperaquine or artesunate– six consecutive
+ amodiaquine compared with the standard of care (passive in the
+ detection) against malaria and its morbidities in children allocation
+ attending primary school and living in a highly malaria- study clinicians
+ endemic area. nurse.
+ opened
+ 
+<section> Methods 
+<section> technicians
+ 
+<section> Study design and participants group allocation
+ This was a randomised, controlled, open-label study identification
+ assessing the safety and effectiveness against anaemia
+ and malaria morbidity of two antimalarial drug- 
+<section> Procedures
+ combinations, dihydroartemisinin–piperaquine and The interventional
+ artesunate–amodiaquine, compared with no antimalarial intervals
+ chemoprevention (the control group), in children atten­ (August,
+ ding school in Muheza, Tanga, northeastern Tanzania. In second
+ this area, malaria transmission occurs throughout the year to assess
+ and has two seasonal peaks following the rainy season were provided
+ from December to January and from March to May. 13,14 guidelines
+ Participants were recruited from seven primary schools with malaria.
+ located in seven villages with high malaria prevalence artesunate–amodiaquine
+ according to a previous malariometric survey. 13 Each village line with
+ (Pangamlima, Songa Kibaoni, Heinkele, Kwakibuyu, dose (3-day
+ Mhamba, Bwitini, and Mkulumilo) had only one public weight,
+ primary school of 200–550 students. The trial design and Schoolteachers
+ protocol have been published previously. to children
+ We recruited schoolchildren with no signs or symptoms Dihydroartemisinin
+ of malaria. Boys and girls in class 5 or below (aged tablets
+ 5–15 years) who had no clinical features of severe ceutical,
+ anaemia and no known chronic illness or history of Guilin
+ hypersensitivity to the study drugs were enrolled. piperaquine
+ The study was granted ethical clearance by the children
+ Medical Research Coordinating Committee of Tanzania weighing
+ (approval numbers NIMR/HQ/R.8a/Vol.IX/2818, NIMR/ three for
+ HQ/R.8c/Vol.I/668 [ for amendment], and NIMR/HQ/ weighing
+ R.8c/Vol.I/1276 [ for ethical clearance renewal]). tablet of
+ Regulatory approval was obtained from the Tanzania children
+ Medicines and Medical Devices Authority (approval artesunate
+ number TFDA0017/CTR/0018/07). We also obtained 18 to <36
+ permission from various levels of local government children
+ 
+<section> Articles
+ 
+<section> local school committees. Written informed
+ for participation was obtained from children’s
+ or guardians, and children aged 11 or older were
+ assent.
+ 
+<section> and masking
+ 
+<section> were randomly assigned (1:1:1) to one of three
+ dihydroartemisinin–piperaquine, artesunate–
+ or control. Randomisation was done with a
+ block design, with the control group used as
+ with an online randomisation service. 15 A
+ of six was used to ensure equal representation
+ study group. A randomisation list was generated
+ data manager and provided to study nurses in
+ During enrolment, children were lined
+ particular order in two lines (one for boys and
+ girls) before passing through the clinical
+ room where randomisation took place; every
+ pupils from the same class were included
+ same randomisation block to ensure balanced
+ per school and class. Pupils deemed eligible by
+ were randomly allocated by the study
+ In a sequential manner, a sealed envelope was
+ before each eligible child. The laboratory
+ analysing the samples were masked to the
+ of the participants because the sample
+ details did not show the study group.
+ 
+<section> treatments were given at 4-month
+ for the first year: at baseline, month
+ 2019), and month 8 (January, 2020; figure 1). A
+ non-interventional year of follow-up was planned
+ possible rebound effects, and no study drugs
+ during this period; standard treatment
+ were followed for children who fell ill
+ Dihydroartemisinin–piperaquine and
+ 
+<section> were administered orally, in
+ study group allocation, as a full therapeutic
+ course) according to the child’s body­
+ following the manufacturer’s package insert.
+ were trained to administer the drugs
+ with supervision from study nurses.
+ (40 mg) and piperaquine (320 mg)
+ (D-Artepp; manufactured by Guilin Pharma­
+ Shanghai, China) were donated to the study by
+ Pharmaceuticals Tanzania. Dihydroartemisinin–
+ dosage per bodyweight was one tablet for
+ weighing 11 to <17 kg, one and a half for those
+ 17 to <25 kg, two for those weighing 25 to <36 kg,
+ those weighing 36 to <60 kg, and four for those
+ 60 to <80 kg. Artesunate–amodiaquine (one
+ 50 mg artesunate and 135 mg amodiaquine for
+ weighing 12 to <18 kg; one tablet of 100 mg
+ and 270 mg amodiaquine for children weighing
+ kg, and two of these higher-dose tablets for
+ weighing ≥36 kg; Winthrop; manufactured by 
+<insert> Figure 1: Study timeline and
+ profile
+ Children could continue in the
+ study even if they missed
+ *Intervention was given
+ at these visits (months 0, 4,
+ 8). †Visit was disrupted by
+ school closure due to
+ COVID-19 pandemic; only
+ two schools were visited
+ before closure.
+ 87 excluded from per-protocol analysis
+ 34 received incomplete treatment
+ 11 missed assessment visits
+ 0 discontinued treatment
+ 15 treated for anaemia
+ 27 treated for clinical malaria
+ 439 included in per-protocol analysis
+ 92 excluded from per-protocol analysis
+ 28 received incomplete treatment
+ 15 missed assessment visits
+ 6 discontinued treatment
+ 16 treated for anaemia
+ 27 treated for clinical malaria
+ 435 included in per-protocol analysis
+ 89 excluded from per-protocol analysis
+ 28 missed assessment visits
+ 4 deviated from protocol
+ 0 discontinued or withdrew
+ 16 treated for anaemia
+ 41 treated for clinical malaria
+ 424 included in per-protocol analysis 
+<iend>
+
+ 
+<section> Articles
+ 
+<section> A
+ 
+<section> Study treatment given at each visit
+ 
+<section> Visit 1 (baseline) 
+<section> Visit 3 (month 8)
+ 
+<section> Assessments: 
+<section> Assessments:
+ 
+<section> parasitaemia and 
+<section> haemoglobin
+ 
+<section> haemoglobin 
+<section> concentration
+ 
+<section> concentration
+ 
+<section> March–April, 2019 August, 2019 January, 2020
+ 
+<section> Visit 2 (month 4)
+ 
+<section> Assessments:
+ 
+<section> haemoglobin
+ 
+<section> concentration
+ 
+<section> B
+ 
+<section> 1797 schoolchildren assessed for eligibility
+ 
+<section> 1587 enrolled
+ 
+<section> 1566 randomised
+ 
+<section> 526 assigned to dihydroartemisinin– 527 assigned to artesunate–amodiaquine
+ piperaquine group and completed group and completed visit 1 (baseline)*
+ 
+<section> visit 1 (baseline)*
+ 
+<section> 487 completed visit 2* 
+<section> 491 completed visit 2*
+ 
+<section> 39 missed visit 
+<section> 36 missed visit
+ 
+<section> 485 completed visit 3* 486 completed visit 3*
+ 
+<section> 41 missed visit 
+<section> 41 missed visit
+ 
+<section> 135 completed visit 131 completed visit
+ 391 missed visit† 
+<section> 396 missed visit†
+ 
+<section> 481 completed visit 473 completed visit
+ 45 missed visit 
+<section> 54 missed visit
+ 
+<section> 474 completed visit 477 completed visit
+ 52 missed visit 
+<section> 50 missed visit
+ 
+<section> 526 included in intention-to-treat analysis 527 included in intention-to-treat
+ 
+<section> visits.
+ 
+<section> and
+ 
+<section> Assessments only
+ 
+<section> Visit 5 (month 16)
+ 
+<section> Assessments:
+ 
+<section> haemoglobin
+ 
+<section> concentration
+ 
+<section> March, 2020 July–August, 2020 December, 2020
+ 
+<section> Visit 4 (month 12) 
+<section> Visit 6 (month 20)
+ 
+<section> Assessments: 
+<section> Assessments:
+ 
+<section> parasitaemia and 
+<section> parasitaemia and
+ 
+<section> haemoglobin 
+<section> haemoglobin
+ 
+<section> concentration 
+<section> concentration
+ 
+<section> 210 not enrolled
+ 
+<section> 189 not present for school visit
+ 
+<section> 21 declined to consent
+ 
+<section> 21 excluded through screening
+ 1 haemoglobin <7 g/dL
+ 
+<section> 8 medical reasons
+ 
+<section> 12 weight <14 kg
+ 
+<section> 513 assigned to control group and
+ 
+<section> completed visit 1 (baseline)*
+ 
+<section> 475 completed visit 2*
+ 
+<section> 38 missed visit
+ 
+<section> 455 completed visit 3*
+ 
+<section> 58 missed visit
+ 
+<section> 118 completed visit
+ 395 missed visit†
+ 
+<section> 449 completed visit
+ 64 missed visit
+ 
+<section> 446 completed visit
+ 67 missed visit
+ 
+<section> analysis 513 included in intention-to-treat analysis 
+<section> Sanofi Pharmaceuticals) was procured from an agent or Any sick
+ distributor in Kenya. Dihydroartemisinin–piperaquine teachers)
+ and artesunate–amodiaquine were WHO prequalified. To diagnostic
+ account for the possible effect of endemic soil-transmitted hospital
+ helminths and schistosomiasis on anaemia in the study episodes
+ area, all participants were treated with albendazole disease
+ (400 mg) given orally at baseline and 1 year later during participants
+ a routine annual mass drug administration by the identification
+ Tanzanian Neglected Tropical Diseases Control Program. school
+ Praziquantel at 40 mg/kg was given orally to children with community
+ schistosomiasis. 
+<section> identify
+ During follow-up, clinical assessment and testing were event form
+ done every 4 months for 20 months (six visits; figure 1). clinicians
+ Considering convenience related to the school calendar the consenting
+ and programme, baseline clinical assessments and instructed
+ testing were done in March–April, 2019 (visit 1), followed contact
+ by August, 2019 (visit 2), January, 2020 (visit 3; although school)
+ visit 3 could have been in December 2019, this date was assess
+ not convenient as children were on annual leave from warranted
+ school). Visit 4 was done in March, 2020; however, this treatment
+ visit was interrupted by the COVID-19 pandemic, which child showed
+ resulted in school closure (only two schools were would be
+ attended at this timepoint). This interruption was shared clinicians
+ across study groups because study participants were Community
+ individually randomised. Visits 5 and 6 were done in severe conditions,
+ July–August, 2020, and December, 2020, respectively. confirm
+ At baseline and at each follow-up visit, children was verified
+ underwent a standardised assessment of symptoms and visit the
+ a focused physical examination, including measurement from the
+ of weight and temperature. Thick and thin blood smears their child
+ were done to measure malaria parasitaemia using a light charge
+ microscope, with samples obtained from participants that were
+ before treatment at baseline, and at months 12 (visit 4) the hospital
+ and 20 (visit 6). Malaria parasitaemia prevalence was of the study
+ calculated as the number of children with any parasites collection
+ (irrespective of species) on thick blood smears divided by school
+ the total number of children enrolled and tested. 17,18 community
+ Before treatment at baseline and at visits 4 and 6, stool respective
+ samples were collected to test for soil-transmitted A 20 m
+ helminths and urine samples to test for schistosomiasis. the IPTsc
+ Haemoglobin concentration was measured with a cognitive
+ haemoglobinometer (HemoCue, Ängelholm, Sweden) Attention
+ before study treatment at baseline and each follow-up and colleagues.
+ visit. Anaemia was defined according to WHO age- classes
+ specific cutoff points for haemoglobin (<11·5 g/dL for Psychomotor
+ children aged 6–11 years, <12·0 g/dL for those aged measure
+ 12–14 years, <13·0 g/dL for boys aged 15 years, and exercise
+ <12·0 g/dL for girls aged 15 years). 19 Weight and height fitness
+ were assessed at each visit, BMI and other anthropometric VO max
+ index Z scores (height-for-age and weight-for-age) were described
+ calculated with methods described elsewhere. 17,18 attention
+ The study team engaged with three school health could score
+ teachers, two community health workers, and at least one further
+ health facility in the study area to track, manage, and
+ document adverse events and clinical malaria episodes 
+<section> Outcomes
+ that occurred between visits. The study team collected In both
+ such reports monthly during routine supervision visits. the primary
+ 
+<section> Articles
+ 
+<section> child (as reported by parents, guardians, or
+ was tested for malaria with a malaria rapid
+ test (mRDT) before being referred to a nearby
+ for further treatment. The documented malaria
+ were used to ascertain the incidence of clinical
+ episodes in accordance with the protocol. 14 All
+ had an identification card that contained an
+ number, the child’s name, and the child’s
+ class. Using this card for identification, the
+ health worker or health facility worker would
+ the participant and record the case on an adverse
+ and this information was verified by the study
+ before being entered into the database. During
+ process, parents or guardians were
+ that, if their child became sick, they should
+ the nearby health facility (preidentified per
+ or the community health worker, who would
+ whether the child had a febrile illness that
+ testing with an mRDT and, if positive,
+ for malaria. If the mRDT was negative or the
+ signs of severe condition malaria, the child
+ referred to the nearby health facility, where
+ would proceed per local treatment standards.
+ health workers did not treat children with
+ but followed up at the health facility to
+ if the child had malaria or not. This information
+ by the study clinicians, who would regularly
+ health facility to obtain relevant information
+ hospital register. If parents or guardians took
+ directly to the hospital, the health facility in
+ would record such cases on special study forms
+ collected by study clinicians after verification on
+ register. This service was provided regardless
+ group to which the child was assigned. The
+ of malaria incidence data was not affected by
+ closures due to COVID-19 pandemic, as the
+ health workers continued their service in the
+ villages or schools.
+ shuttle run test 20 was used to assess the effect of
+ intervention on psychomotor function, and
+ function was assessed with the Test of Everyday
+ for Children (TEA-Ch) as described by Manly
+ 21 These tests were done on pupils of
+ 4 and 5 at baseline and months 12 and 20.
+ function was determined by VO max, a
+ of how much oxygen an individual uses during
+ at a maximum effort, and was translated as a
+ score. 20 Each fitness score was translated into
+ (mL/kg per min) by calculation using a formula
+ by Leger and colleagues. 20 For sustained
+ measured using the TEA-Ch battery, a child
+ from 0 to 40. Cognitive and psychomotor are
+ detailed in the protocol 14 and elsewhere.
+ 
+<section> the intention-to-treat and per protocol analyses,
+ endpoints were change from baseline in 
+<insert> Table 1: Baseline characteristics 
+<iend>
+
+ 
+<section> Articles
+ 
+<section> mean haemoglobin concentration at months 12 and 20 of PCR-confirmed submicroscopic parasitaemia, prevalence
+ follow-up, and incidence and prevalence of clinical malaria of validated common P falciparum polymorphisms
+ and malaria parasitaemia at months 12 and 20 of follow- associated with drug sensitivity, and change in serum
+ up. Secondary study endpoints were anaemia prevalence antibody responses to P falciparum AMA-1 and MSP-1 , all
+ at months 4, 8, 12, 16, and 20 of follow-up (although measured at baseline and months 12 and 20.
+ initially specified in the protocol as a primary endpoint, it The study team in collaboration with community
+ was replaced with malaria prevalence after the basline health workers and school health teachers monitored
+ survey, since anaemia was already reflected by change adverse events. For each round of IPTsc, children were
+ in haemoglobin); and change from baseline in cognitive asked the day after receiving the drug if they had any
+ and psychomotor scores at months 12 and 20. Other adverse events since dosing. In addition, children and
+ outcomes (which will be reported in separate publications) parents were informed to report any adverse event to the
+ were improvement in school attendance, prevalence of study team through community health workers or
+ 
+<section> Intention to treat 
+<section> Per protocol
+ 
+<section> Dihydroartemisinin– Artesunate– Control group Dihydroartemisinin– Artesunate– Control group
+ piperaquine group amodiaquine group (n=513) piperaquine group amodiaquine group (n=424)
+ 
+<section> (n=526) 
+<section> (n=527) 
+<section> (n=439) 
+<section> (n=435)
+ 
+<section> Age, years
+ 5–9 296/526 (56·3%) 274/527 (52·0%) 286/513 (55·8%) 238/439 (54·2%) 215/435 (49·4%) 225/424 (53·1%)
+ 10–15 230/526 (43·7%) 253/527 (48·0%) 227/513 (44·2%) 201/439 (45·8%) 220/435 (50·6%) 199/424 (46·9%)
+ 
+<section> Median 9 (7–11) 9 (7–11) 9 (7–11) 9 (7–11) 
+<section> 10 (8–11) 9 (7–11)
+ 
+<section> Sex
+ Male 278/526 (52·9%) 267/527 (50·7%) 281/513 (54·8%) 230/439 (52·4%) 219/435 (50·3%) 225/424 (53·1%)
+ Female 248/526 (47·1%) 260/527 (49·3%) 232/513 (45·2%) 209/439 (47·6%) 216/435 (49·7%) 199/424 (46·9%)
+ History of malaria in the past month 156/524 (29·8%) 180/525 (34·3%) 162/512 (31·6%) 128/437 (29·3%) 147/433 (33·9%) 133/423 (31·4%)
+ Sleeps under bednet 411/526 (78·1%) 418/527 (79·3%) 408/513 (79·5%) 343/439 (78·1%) 346/435 (79·5%) 338/424 (79·7%)
+ 
+<section> Socioeconomic status*
+ High 183/524 (34·9%) 172/527 (32·6%) 158/512 (30·9%) 151/439 (34·4%) 144/435 (33·1%) 133/424 (31·4%)
+ Moderate 156/524 (29·8%) 173/527 (32·8%) 171/512 (33·4%) 129/439 (29·4%) 141/435 (32·4%) 139/424 (32·8%)
+ Low 185/524 (35·3%) 182/527 (34·5%) 183/512 (35·7%) 159/439 (36·2%) 150/435 (34·5%) 152/424 (35·8%)
+ 
+<section> Parents’ educational level
+ Secondary school and higher 31/501 (6·2%) 22/508 (4·3%) 38/490 (7·8%) 25/417 (6·0%) 20/417 (4·8%) 29/404 (7·2%)
+ Primary school 406/501 (81·0%) 426/508 (83·9%) 393/490 (80·2%) 339/417 (81·3%) 348/417 (83·5%) 327/404 (80·9%)
+ None 64/501 (12·8%) 60/508 (11·8%) 59/490 (12·0%) 53/417 (12·7%) 49/417 (11·8%) 48/404 (11·9%)
+ Median number of children per household 3 (2–4), N=487 3 (2–4), N=491 3 (2–4), N=467 3 (2–4), N=404 3 (2–4), N=404 3 (2–4), N=383
+ Median number of rooms per household 3 (3–4), N=498 3 (2–4), N=506 3 (2–4), N=488 3 (3–4), N=413 3 (2–4), N=416 3 (2–4), N=402
+ 
+<section> Nutritional status
+ Weight for age Z score <–2 142/526 (27·0%) 152/527 (28·8%) 136/513 (26·5%) 122/439 (27·8%) 127/435 (29·2%) 111/424 (26·2%)
+ Height for age Z score <–2 116/526 (22·1%) 112/527 (21·3%) 99/513 (19·3%) 102/439 (23·2%) 99/435 (22·8%) 82/424 (19·3%)
+ BMI Z score <–2 145/526 (27·6%) 158/527 (30·0%) 136/513 (26·5%) 119/439 (27·1%) 133/435 (30·6%) 109/424 (25·7%)
+ 
+<section> Study endpoints at baseline
+ Mean haemoglobin concentration 11·6 (1·4), N=526 11·6 (1·3), N=527 11·6 (1·4), N=513 11·6 (1·3), N=439 11·7 (1·3), N=435 11·6 (1·4), N=424
+ Prevalence of anaemia 254/526 (48·3%) 264/527 (50·1%) 261/513 (50·9%) 208/439 (47·4%) 217/435 (49·9%) 212/424 (50·0%)
+ Prevalence of malaria 139/497 (28·0%) 124/502 (24·7%) 138/485 (28·5%) 116/414 (28·0%) 106/412 (25·7%) 111/402 (27·6%)
+ 
+<section> Plasmodium falciparum parasite density, 
+<section> N=135 
+<section> N=123 
+<section> N=136 
+<section> N=114 
+<section> N=106 
+<section> N=109
+ 
+<section> parasites per μL
+ 
+<section> Geometric mean 
+<section> 760·0 
+<section> 713·1 
+<section> 845·6 
+<section> 768·5 
+<section> 686·0 
+<section> 772·1
+ Mean 4607·8 (22688·6) 6727·4 (45350·2) 2827·2 (2827·1) 5200·0 (24653·1) 7411·8 (48823·5) 2271·8 (3790·5)
+ Prevalence of soil-transmitted helminths 4/517 (0·8%) 6/518 (1·2%) 6/500 (1·2%) 4/432 (0·9%) 5/427 (1·2%) 5/413 (1·2%)
+ Prevalence of schistosomiasis 47/513 (9·2%) 40/517 (7·7%) 43/497 (8·7%) 38/429 (8·9%) 33/426 (7·7%) 33/411 (8·0%)
+ 
+<section> Data are n/N (%), median (IQR), or mean (SD). *Principal component analysis (PCA) was used to categorise children and their respective households into different socioeconomic statuses, with household
+ socioeconomic scores categorised as low, moderate, or high; variables considered in the PCA were type and building material of the house (roof, walls, floor, and ceiling), toilet type, presence of electricity,
+ ownership of radio, mobile phone, bicycle, motorbike, and vehicle, ratio of number of bedrooms to number of house occupants, occupation of head of household, and number of animals and size of land owned
+ by the family. 
+<insert> Table 2: Effect of intermittent preventive treatment for malaria in school-aged children on haemoglobin concentration 
+<iend>
+
+ school health teachers or through
+ health facilities. These events were
+ accordingly.
+ 
+<section> Statistical analysis
+ The planned number of school
+ (534 per study group), a sample
+ 90% power (z =1·282) to detect
+ β
+ 
+<section> concentration of 0·2 g/dL (effect
+ previous study), 22 using a paired
+ rate of 0·05 (z =1·96), assuming
+ 
+<section> 1 – α
+ 
+<section> and a loss to follow-up of
+ assumptions, the decreased sample
+ 19-related school closures at
+ 80% power to detect a similar
+ baseline survey and the routine
+ were entered directly into REDCap
+ mobile REDCap tools. 14,23 Paper-based
+ laboratory results) were double-entered
+ entry clerks into a database
+ Access 2010 and verified, and
+ analyses were done with STATA
+ Data were analysed longitudinally,
+ STATA, and the effect of
+ concentrations was assessed with
+ analysis, comparing haemoglobin
+ individual subject and between
+ 
+<section> Dihydroartemisinin–
+ 
+<section> piperaquine group
+ n
+ 
+<section> Interventional period
+ 
+<section> Month 0 (baseline)
+ 
+<section> Intention to treat
+ 
+<section> Per protocol
+ 
+<section> Month
+ Intention to treat
+ 
+<section> Per protocol
+ 
+<section> Month
+ Intention to treat
+ 
+<section> Per protocol
+ 
+<section> Month
+ Intention to treat
+ 
+<section> Per protocol
+ 
+<section> Non-interventional period
+ 
+<section> Month
+ Intention to treat
+ 
+<section> Per protocol
+ 
+<section> Month
+ Intention to treat
+ 
+<section> Per protocol
+ 
+<section> clinicians at local
+ recorded and graded
+ 
+<section> children was 1602
+ size that would provide
+ a change in haemoglobin
+ 
+<section> size based on a
+ t test with a type 1 error
+ 
+<section> an SD of 1·25 g/dL
+ 30%. Under the same
+ 
+<section> size due to COVID-
+ visit 4 (n=384) still had
+ effect size. During the
+ follow-up visits, data
+ 
+<section> platforms using
+ 
+<section> data (from
+ 
+<section> by two data
+ developed in Microsoft
+ consistency checks and
+ version 15.0.
+ 
+<section> set as panel data in
+ IPTsc on haemoglobin
+ a linear mixed-model
+ 
+<section> changes within an
+ study groups. Measures
+ 
+<section> Artesunate–
+ 
+<section> amodiaquine group
+ 
+<section> Mean n 
+<section> Mean
+ haemoglobin, haemoglobin,
+ 
+<section> g/dL (SD) 
+<section> g/dL (SD)
+ 
+<section> 11·6 (1·4) 
+<section> 11·6 (1·3)
+ 
+<section> 11·6 (1·3) 
+<section> 11·7 (1·2)
+ 
+<section> 12·6 (1·4) 
+<section> 11·9 (1·5)
+ 
+<section> 12·6 (1·4) 
+<section> 12·0 (1·4)
+ 
+<section> 11·2 (1·2) 
+<section> 12·7 (1·4)
+ 
+<section> 11·2 (1·2) 
+<section> 12·7 (1·3)
+ 
+<section> 11·6 (1·2) 
+<section> 11·7 (1·2)
+ 
+<section> 11·6 (1·2) 
+<section> 11·7 (1·1)
+ 
+<section> 11·6 (1·2) 
+<section> 11·7 (1·2)
+ 
+<section> 11·7 (1·2) 
+<section> 11·7 (1·2)
+ 
+<section> 11·5 (1·2) 
+<section> 11·5 (1·3)
+ 
+<section> 11·6 (1·2) 
+<section> 11·6 (1·2)
+ 
+<section> Articles
+ 
+<section> for comparison of treatment groups were expressed
+ as prevalence, mean difference, and protective effect. As
+ done previously, 22 protective effect was calculated as
+ 1 − (rate ratio [of malaria parasitaemia, clinical malaria,
+ or anaemia]) × 100%. Kaplan–Meier analysis was
+ used to estimate time to first episode of clinical malaria.
+ 95% CIs were calculated for all outcome of interest
+ using the linear mixed model, and p<0·05 was
+ considered statistically significant when comparing
+ dihydroartemisinin–piperaquine or artesunate–amodia­
+ quine with control, whereas a p<0·025 was considered
+ significant when comparing dihydroartemisinin–
+ piperaquine with artesunate–amodiaquine (presented
+ in appendix 2). Data were analysed on the basis See 
+<section> Online for appendix
+ of intention to treat (in which eligible randomised
+ schoolchildren were included) and per protocol (in
+ which children with incomplete or missing dosing,
+ those with concomitant treatment of malaria or
+ anaemia, and those who were not treated according to
+ the randomisation were excluded).
+ This study is registered with ClinicalTrials.gov
+ (NCT03640403).
+ 
+<section> Role of the funding source
+ The funders of the study had no role in design, data
+ collection, data analysis, data interpretation, or writing of
+ the report.
+ 
+<section> Control group Dihydroartemisinin–piperaquine Artesunate–amodiaquine vs
+ 
+<section> vs control group control group
+ n Mean Difference in mean p value Difference in mean p value
+ haemoglobin, change in change in
+ g/dL (SD) haemoglobin haemoglobin
+ concentration from concentration from
+ baseline, g/dL (95% CI) baseline, g/dL (95% CI)
+ 
+<section> 11·6 (1·4) 
+<section> ·· 
+<section> ·· 
+<section> ·· 
+<section> ··
+ 
+<section> 11·6 (1·4) 
+<section> ·· 
+<section> ·· 
+<section> ·· 
+<section> ··
+ 
+<section> 12·1 (1·5) 0·4 (0·2 to 0·6) <0·0001 –0·2 (–0·4 to –0·0) 0·0330
+ 12·1 (1·5) 0·5 (0·3 to 0·7) <0·0001 –0·2 (–0·4 to 0·0) 0·0930
+ 
+<section> 11·9 (1·6) –0·7 (–0·9 to –0·5) <0·0001 0·8 (0·6 to 1·0) <0·0001
+ 11·9 (1·5) –0·7 (–0·9 to –0·5) <0·0001 0·8 (0·6 to 1·0) <0·0001
+ 
+<section> 11·1 (1·3) 0·5 (0·2 to 0·8) <0·0001 0·5 (0·2 to 0·7) 0·0020
+ 11·1 (1·3) 0·6 (0·3 to 0·9) <0·0001 0·5 (0·2 to 0·8) 0·0020
+ 
+<section> 11·7 (1·2) 0·0 (–0·2 to 0·1) 0·6840 0·0 (–0·2 to 0·2) 0·9930
+ 11·7 (1·2) 0·0 (–0·2 to 0·2) 0·6820 0·0 (–0·2 to 0·1) 0·6440
+ 
+<section> 11·4 (1·3) 0·1 (–0·1 to 0·3) 0·3910 0·1 (–0·1 to 0·3) 0·2770
+ 11·5 (1·3) 0·0 (–0·2 to 0·3) 0·6640 0·1 (–0·1 to 0·3) 0·4710 
+<insert> Table 3: Effective of intermittent preventive treatment for malaria in school-aged children on prevalence of anaemia and malaria parasitaemia 
+<iend>
+
+ 
+<section> Articles
+ 
+<section> Prevalence, n/N (%)
+ 
+<section> Dihydroartemisinin– Artesunate– Control group
+ 
+<section> piperaquine group 
+<section> amodiaquine group
+ 
+<section> Anaemia
+ 
+<section> Baseline
+ Intention to treat 254/526 (48·3%) 264/527 (50·1%) 261/513 (50·9%)
+ Per protocol 208/439 (47·4%) 217/435 (49·9%) 212/424 (50·0%)
+ 
+<section> Month
+ Intention to treat 106/487 (21·8%) 192/491 (39·1%) 172/475 (36·2%)
+ Per protocol 91/433 (21·0%) 162/420 (38·6%) 155/422 (36·7%)
+ 
+<section> Month
+ Intention to treat 299/485 (61·6%) 95/486 (19·5%) 187/455 (41·1%)
+ Per protocol 266/431 (61·7%) 74/404 (18·3%) 171/424 (40·3%)
+ 
+<section> Month
+ Intention to treat 68/135 (50·4%) 54/131 (41·2%) 71/118 (60·2%)
+ Per protocol 61/118 (51·7%) 47/116 (40·5%) 64/105 (61·0%)
+ 
+<section> Month 16*
+ Intention to treat 224/481 (46·6%) 214/473 (45·2%) 218/449 (48·6%)
+ Per protocol 194/425 (45·6%) 196/440 (44·5%) 188/392 (48·0%)
+ 
+<section> Month 20*
+ Intention to treat 232/474 (48·9%) 238/477 (49·9%) 242/446 (54·3%)
+ Per protocol 207/430 (48·1%) 207/431 (48·0%) 210/392 (53·6%)
+ 
+<section> Malaria parasitaemia
+ 
+<section> Baseline
+ Intention to treat 139/497 (28·0%) 124/502 (24·7%) 138/485 (28·5%)
+ Per protocol 116/414 (28·0%) 106/412 (25·7%) 111/402 (27·6%)
+ 
+<section> Month
+ Intention to treat 15/125 (12·0%) 20/125 (16·0%) 39/116 (33·6%)
+ Per protocol 12/109 (11·0%) 13/112 (11·6%) 38/103 (36·9%)
+ 
+<section> Month 20*
+ Intention to treat 123/446 (27·6%) 121/446 (27·1%) 120/426 (28·2%)
+ Per protocol 113/408 (27·7%) 100/403 (24·8%) 105/372 (28·2%)
+ 
+<section> Results
+ 
+<section> At the baseline survey, 17 1797 children were scheduled
+ clinical screening, of which 189 did not
+ 21 declined participation, and 21 were excluded
+ basis of screening (either because of low bodyweight
+ [12 children], medical reasons [eight children],
+ haemoglobin concentration [one child]). 1566
+ (97% of the calculated sample size) were enrolled
+ randomly allocated to the three study
+ dihydroartemisinin–piperaquine (n=526), artesunate–
+ amodiaquine (n=527), and control (n=513). The
+ loss to follow-up across all study visit was 18·8%
+ 9396 visits missed). Across the three groups,
+ missed visit 2, 140 (9%) missed visit 3, 1182 (75%)
+ visit 4 (when follow-up was affected by COVID-19-related
+ school closures, and only two schools, Pangamlima
+ and Songa-kibaoni 17 [n=384], were attended
+ closures occurred), 163 (10%) missed visit
+ 169 (11%) missed visit 6 (due to outmigration
+ dropout [n=6], absenteeism [n=84], distributed
+ 
+<section> Dihydroartemisinin–piperaquine vs 
+<section> Artesunate–amodiaquine vs control
+ 
+<section> control group 
+<section> group
+ Percentage points p value Percentage points p value
+ 
+<section> difference (95% CI) 
+<section> difference (95% CI)
+ 
+<section> –2·6 (–8·7 to 3·5) 0·4040 –0·8 (–6·9 to 5·3) 0·8001
+ –2·6 (–9·3 to 4·0) 0·4415 –0·1 (–6·8 to 6·6) 0·9731
+ 
+<section> –14·4 (–20·1 to –8·8) <0·0001 2·9 (–3·2 to 9·0) 0·3535
+ –15·7 (–21·7 to –9·7) <0·0001 1·8 (–4·7 to 8·4) 0·5813
+ 
+<section> 20·5 (14·3 to 26·8) <0·0001 –21·6 (–27·3 to –15·8) <0·0001
+ 21·4 (14·8 to 27·9) <0·0001 –22·0 (–28·0 to –16·0) <0·0001
+ 
+<section> –9·8 (–22·0 to 2·4) 0·1181 –19·0 (–31·2 to 6·7) 0·0028
+ –9·3 (–22·2 to 3·7) 0·1644 –20·4 (–33·3 to –7·5) 0·0024
+ 
+<section> –2·0 (–8·4 to 4·4) 0·5452 –3·3 (–9·7 to 3·1) 0·3142
+ –2·3 (–9·2 to 4·5) 0·5081 –3·4 (–10·2 to 3·4) 0·3242
+ 
+<section> –5·3 (–11·8 to 1·1) 0·1069 –4·4 (–10·8 to 2·1) 0·1847
+ –5·4 (–12·3 to 1·4) 0·1197 –5·5 (–12·4 to 1·3) 0·1121
+ 
+<section> –0·5 (–6·1 to 5·1) 0·8657 –3·7 (–9·3 to 1·8) 0·1820
+ 0·4 (–5·7 to 6·6) 0·8967 –1·9 (–8·0 to 4·2) 0·5434
+ 
+<section> –21·6 (–31·9 to –11·3) 0·0001 –17·6 (–28·4 to –6·9) 0·0015
+ –25·9 (–36·9 to –14·9) <0·0001 –25·3 (–36·3 to –14·2) <0·0001
+ 
+<section> –0·6 (–6·5 to 5·4) 0·8458 –1·0 (–7·0 to 4·9) 0·7316
+ –0·5 (–6·8 to 5·8) 0·8692 –3·4 (–9·6 to 2·8) 0·2820
+ 
+<section> across groups, and death [n=1], which occurred in the
+ for control group). Absenteeism was mainly due to farming
+ show up, activities coinciding with scheduled study visits,
+ on the especially during rainy seasons.
+ 1566 schoolchildren were included in the intention-to-
+ or low treat analyses and 1298 in the per protocol analyses
+ children (table 1), with no significant differences in baseline
+ and characteristics between study groups in either analysis.
+ groups: The baseline characteristics of participants can be found
+ in a previously published paper. 17 A further description
+ overall of baseline characteristics of schoolchildren missing
+ (1767 of month 12 (five schools) and those who were attended
+ 113 (7%) (two schools) is shown in appendix 2 (p 4; further detailed
+ missed outcome analysis for the two schools is shown on
+ pp 14–20).
+ Compared with the control group, change from baseline
+ before the in mean haemoglobin concentration at month 12 was
+ 5, and significantly higher in the dihydroartemisinin–piperaquine
+ [n=78], group (0·5 g/dL [95% CI 0·2–0·8], p<0·0001 in the
+ evenly intention-to-treat analysis; 0·6 g/dL [0·3–0·9], p<0·0001 in 
+<insert> Figure 2: Protective effect of IPTsc against malaria parasitaemia in schoolchildren at month 12 of intervention
+ IPTsc=intermittent preventive treatment for malaria in school-aged children. *For the comparison between the two IPTsc regimens, negative values favour
+ dihydroartemisinin–piperaquine and positive values favour artesunate–amodiaquine. 
+<iend>
+
+ the per protocol analysis) and in the artesunate– analysis
+ amodiaquine group (0·5 g/dL [0·2–0·7], p=0·0020 in the effect of
+ intention-to-treat analysis; 0·5 g/dL [0·2–0·8], p<0·0001 in p=0·0015)
+ the per protocol analysis; table 2). However, the change in p<0·0001)
+ mean haemoglobin across timepoints was not smooth in number
+ the dihydroartemisinin–piperaquine group compared malaria
+ with the control group, with a significantly higher change dihydroartemisinin–piperaquine
+ from baseline at month 4 but a significant decrease for artesunate–amodiaquine
+ at month 8 (table 2; appendix 2 p 5). The artesunate– analysis.
+ amodiaquine group showed a smooth increase in mean (3–7; p<0·0001)
+ haemoglobin concentration from baseline to month 8, IPTsc showed
+ although the increases were slightly smaller than those in malaria
+ the control group at month 4 and significant increases Following
+ versus the control group were found only at months 8 and against
+ 12. During the non-interventional period (months 16 and p=0·0022)
+ 20), the respective changes in mean haemoglobin group and
+ concentration were not significantly different from those amodiaquine
+ in the control group (table 2; appendix 2 p 5). time survived
+ IPTsc significantly reduced malaria parasitaemia. the dihydroartemisinin–piperaquine
+ At month 12, after three rounds of IPTsc administration, and artesunate–amodiaquine
+ the prevalence of malaria parasitaemia was reduced the control
+ by 21·6 percentage points (95% CI 11·3–31·9; number
+ p<0·0001) compared with the control group in the 64 days
+ intention-to-treat analysis and by 25·9 percentage piperaquine
+ points (14·9–36·9; p<0·0001) in the per protocol amodiaquine
+ analysis in the dihydroartemisinin–piperaquine group. group,
+ In the artesunate–amodiaquine group, the reduction each dihydroartemisinin–piperaquine
+ was 17·6 percentage points (6·9–28·4; p=0·0015) amodiaquine
+ compared with the control group in the intention-to- (appendix
+ treat analysis and 25·3 percentage points (14·2–36·3; In each
+ p<0·0001) in the per protocol analysis. When we rates were
+ assessed the rebound effect in the year following the control
+ intervention, by month 20, the prevalence of malaria effect against
+ parasitaemia in all study groups had returned to of IPTsc
+ baseline prevalence (table 3). (95% CI
+ The protective effect of dihydroartemisinin– piperaquine
+ piperaquine against malaria parasitaemia was amodiaquine
+ 64% (95% CI 39–79; p=0·0001) in intention-to-treat pp 8, 21).
+ analysis and 70% (46–84; p<0·0001) in the per protocol in the entire
+ 
+<section> Dihydroartemisinin–piperaquine vs control
+ 
+<section> Intention to treat
+ 
+<section> Per protocol
+ 
+<section> Artesunate–amodiaquine vs control
+ 
+<section> Intention to treat
+ 
+<section> Per protocol
+ 
+<section> Artesunate–amodiaquine vs dihydroartemisinin–piperaquine
+ 
+<section> Intention to treat
+ 
+<section> Per protocol
+ 
+<section> –148
+ 
+<section> Favours control* Favours
+ 
+<section> Articles
+ 
+<section> at month 12 (figure 2). The respective protective
+ artesunate–amodiaquine was 52% (23–70;
+ in the intention-to-treat and 68% (44–82;
+ in the per protocol analysis (figure 2). The
+ needed to treat (NNT) to prevent one case of
+ parasitaemia was 5 (95% CI 3–9; p<0·0001) for
+ 
+<section> and 6 (4–15; p=0·0015)
+ 
+<section> in the intention-to-treat
+ In the per protocol analysis, the NNT was
+ for both interventions. At month 20,
+ no significant protective effect against
+ parasitaemia (appendix 2 pp 8, 21).
+ the first round of IPTsc, the protective effect
+ clinical malaria was 29% (95% CI 9 to 44;
+ for the dihydroartemisinin–piperaquine
+ 19% (–2 to 36; p=0·0314) for the artesunate–
+ group (appendix 2 p 8). The person-
+ without event was significantly longer in
+ 
+<section> group (263·3 days)
+ 
+<section> group (258·7 days) than in
+ group (205·8 days; appendix 2 p 8). The mean
+ of days to first episode of clinical malaria was
+ (95% CI 60–67) for the dihydroartemisinin–
+ group, 59 days (55–64) for the artesunate–
+ group, and 45 days (40–50) for the control
+ and was significantly different when comparing
+ 
+<section> and artesunate–
+ groups against the control group
+ 
+<section> 2 p 20).
+ round of IPTsc, the clinical malaria incidence
+ lower in the intervention groups than in the
+ group (appendix 2 p 8). The overall protective
+ IPTsc on clinical malaria after three rounds
+ administration in a 12-month period was 20%
+ 9–29; p=0·0002) for dihydroartemisinin–
+ and 19% (8–28; p=0·0004) for artesunate–
+ in the intention-to-treat analysis (appendix
+ The NNT to prevent one case of clinical malaria
+ year was 38 (95% CI 25–85; p=0·0002) for
+ 
+<section> Protective effect, % p value
+ 
+<section> (95% CI)
+ 
+<section> 64 (39 to 79) 
+<section> 0·0001
+ 
+<section> 70 (46 to 84) 
+<section> <0·0001
+ 
+<section> 52 (23 to 70) 
+<section> 0·0015
+ 
+<section> 68 (44 to 82) 
+<section> <0·0001
+ 
+<section> 30 (–148 to 280) 
+<section> 0·3621
+ 
+<section> 5 (–121 to 50) 
+<section> 0·8884
+ 
+<section> IPTsc* 
+<insert> Figure 3: Time to first episode of clinical malaria following IPTsc
+ Kaplan-Meier curves show clinical malaria-free survival throughout the first three rounds of IPTsc in a 12-month
+ period (A) and during the non-interventional period following the initial year of IPTsc administration (B). IPTsc was
+ administered at months 0, 4, and 8. Children who already had clinical malaria at the start of the analysis period
+ were censored at time 0, and thus not shown in the graphs. IPTsc=intermittent preventive treatment for malaria in
+ school-aged children. 
+<iend>
+
+ 
+<section> Articles
+ 
+<section> A Three rounds of IPTsc (1 year)
+ 
+<section> Control
+ 
+<section> Dihydroartemisinin–piperaquine
+ 
+<section> (%) 
+<section> Artesunate–amodiaquine
+ 
+<section> survival
+ 
+<section> malaria-free
+ 
+<section> Clinical
+ 
+<section> Log-rank p<0·0001, χ²=20·49
+ 
+<section> Number at risk
+ 
+<section> Control
+ Dihydroartemisinin–piperaquine
+ Artesunate–amodiaquine
+ 
+<section> B Non-interventional period
+ 
+<section> (%)
+ 
+<section> survival
+ 
+<section> malaria-free
+ 
+<section> Clinical
+ 
+<section> Log-rank p=0·5709, χ²=1·12
+ 
+<section> Number at risk 
+<section> Follow-up (months)
+ 
+<section> Control
+ Dihydroartemisinin–piperaquine
+ Artesunate–amodiaquine
+ 
+<section> dihydroartemisinin–piperaquine and 40 (25–97;
+ p=0·0004) for artesunate–amodiaquine.
+ The survival estimates were significantly higher in
+ the dihydroartemisinin–piperaquine and artesunate–
+ amodiaquine groups than in the control group after three
+ rounds of IPTsc (up to month 12; log-rank p<0·0001;
+ figure 3A). However, there was no effect noted in the non-
+ interventional year (months 12–20; log-rank p=0·5709;
+ figure 3B). Further analysis using Cox regression is
+ described in appendix 2 (p 9).
+ At month 12, compared with the control group,
+ the difference in prevalence of anaemia in the dihydro­
+ artemisinin–piperaquine group was non-significant in
+ the intention-to-treat analysis (–9·8 percentage points
+ [95% CI –22·0 to 2·4], p=0·1181) and per protocol analysis
+ (–9·3 [–22·2 to 3·7], p=0·1644), whereas the artesunate–
+ amodiaquine group showed a significant reduction in
+ the intention-to-treat analysis (–19·0 percentage points
+ 
+<section> [–31·2 to –6·7], p=0·0028) and per protocol analysis
+ (–20·4 percentage points [–33·3 to –7·5], p=0·0024;
+ table 3). The protective effect of IPTsc against anaemia
+ following three rounds (month 12) of dihydroartemisinin–
+ piperaquine medication was not significant (16% [95% CI
+ –5 to 33], p=0·1181), whereas artesunate–amodiaquine
+ showed protective effect of 32% (12 to 47; p=0·0028) at the
+ same timepoint in the intention-to-treat analysis
+ (appendix 2 p 7). Based on artesunate–amodiaquine being
+ administered three times per year, the NNT to prevent
+ one case of anaemia was 5 (95% CI 3–15; p=0028;
+ intention-to-treat analysis). There were no significant
+ effects on anaemia at months 16 and 20, when no
+ medications were provided (appendix 2 pp 7, 21).
+ In the linear mixed regression model, there was no
+ significant effect of IPTsc on cognitive or psychomotor
+ function (appendix 2 p 10). However, on multivariate
+ analysis (appendix 2 p 10), boys had significantly higher
+ mean cognitive scores (2·8 [95% CI 0·2–5·4], p=0·0401)
+ than girls at all timepoints. Likewise, psychomotor
+ function was associated with older age, male sex, and
+ number of successive visits. Boys had higher mean
+ VO max scores (5·2 [95% CI 4·2–6·2], p<0·0001)
+ than girls at all assessment time points, unrelated to the
+ IPTsc intervention. On per protocol analysis, increased
+ haemoglobin concentration was associated with an
+ increase in unadjusted VO max at a coefficient of 0·5
+ (95% CI 0·0–1·0; p=0·0470).
+ On drug administration days, 30 adverse events
+ were recorded in the intervention groups (16 in the
+ dihydroartemisinin–piperaquine group and 14 in the
+ artesunate–amodiaquine group), all of which were mild,
+ except for one case of skin rash that was deemed
+ moderate (appendix 2 p 12). These events were deemed
+ to be drug-related and were expected on the basis of
+ drug packet inserts. During the follow-up period, we
+ recorded five serious adverse events unrelated to the
+ study drugs: three in the control group (two cases
+ of severe malaria and one case of septicaemia), one
+ in the dihydroartemisinin–piperaquine group (herbal
+ intoxication), and one in the artesunate–amodiaquine
+ group (severe malaria). All participants recovered well,
+ except for one child in the control group, who had two
+ serious adverse events (severe malaria) on separate
+ occasions, and died after the second episode due to
+ severe anaemia, possibly secondary to severe malaria. All
+ events were reported to the Medical Research
+ Coordination Committee and to the Tanzania Medicines
+ and Medical Devices Authority.
+ Compliance with prescribed medication was
+ satisfactory as trained schoolteachers provided medi­
+ cation under direct observation at schools. Children who
+ did not attend school on the dosing day were followed up
+ at home to administer medication. Over the course of
+ study follow-up, six participants from the artesunate–
+ amodiaquine group discontinued the study drug on
+ parental request, for reasons based on either family 
+<section> conflict (n=1, missed third round of medication), mild to dihydroartemisinin–piperaquine.
+ moderate adverse events following medication (n=4, derivatives
+ missed third round of medication), and or had started reductions
+ antiretroviral medication at the time coinciding with the thus worth
+ second dose of medication (n=1, missed rounds 2 and 3 in mean
+ of medication). Decisions to discontinue taking the study in both
+ drugs were made after thorough discussion with parents, group at
+ and the children were allowed to continue with routine in DR Congo
+ follow-up visits until the study ended. with the
+ using
+ 
+<section> Discussion piperaquine.
+ We found that IPTsc consisting of either concentration
+ dihydroartemisinin–piperaquine or artesunate– suggesting
+ amodiaquine delivered three times at 4-month intervals provided
+ was associated with a small but significant increase the prevalence
+ in mean haemoglobin concentration and reduced of IPTsc
+ prevalence of malaria parasitaemia at month 12, and multifactorial
+ reduced incidence of clinical malaria episodes in the Although
+ first year of intervention among schoolchildren in asymptomatic,
+ communities in Tanzania where malaria is endemic. clinical
+ IPTsc is expected to curtail parasite transmission in consistent
+ malaria-endemic communities. 24 The study design compared
+ allowed an assessment of an interventional period of IPTsc could
+ 1 year followed by another year without intervention periods
+ to ascertain the risk of rebound effect. In the non- episode
+ interventional period (from month 8 to month 20—ie, higher
+ from the last round of IPTsc administration to month 20), time to
+ the prevalence of malaria parasitaemia was similar to pyrimethamine
+ that at baseline. The findings highlight the need for pyrimethamine
+ continuous implementation of IPTsc to maintain the event of
+ benefits in the long term. We hypothesise that, while 59 days
+ keeping other malaria control measures intact, routine (p 20), these
+ clearance of parasitaemia with IPTsc could deplete before
+ parasites in the transmission cycle in the long term and reduce
+ thereby accelerate the reduction in malaria burden children
+ towards elimination. Adverse events recorded in this tend to
+ study were almost all mild and were similar in frequency parasitaemia
+ between the two intervention groups. IPTsc delivery This longer
+ through schoolteachers led to satisfactory compliance pragmatic
+ and could be useful in future pragmatic implementation. administering
+ Furthermore, the provision of anthelmintic treatment to three times
+ all children, regardless of study group, strengthens the malaria
+ evidence that the observed effect on anaemia was mainly might occur
+ caused by a reduction in malaria parasitaemia. and the
+ Over the course of IPTsc, the change in haemoglobin naturally
+ showed a varying trend for both drugs, as observed risk of resistance
+ previously. 22 In the dihydroartemisinin–piperaquine Previous
+ group, mean haemoglobin concentration was decreased use regimens
+ at month 8 compared with the control group following therapies
+ the second round of treatment; however, at month 12, combination
+ following the third round of treatment, mean change was of malaria.
+ 0·5 g/dL higher than that in the control group, despite do not
+ the mean haemoglobin concentration being similar to pyrimethamine,
+ the baseline level. The variation could be by coincidence, combination
+ since haemoglobin was measured almost 4 months after including
+ IPTsc treatment. On preliminary analysis in another pyrimethamine)
+ IPTsc implementation study, 25 we did not see this effect of events 6,22
+ 
+<section> Articles
+ 
+<section> However, artemisinin’s
+ have been reported to cause transient
+ in reticulocyte count, 26 and their effects are
+ exploring. Nevertheless, the overall increase
+ haemoglobin concentration was significant
+ drug groups compared with the control
+ month 12. A similarly designed study conducted
+ reported a haemoglobin increase compared
+ control group of 0·39 g/dL after IPTsc
+ sulfadoxine–pyrimethamine combined with
+ 22 This effect of IPTsc on mean haemoglobin
+ has also been noted in other studies,
+ that IPTsc cleared parasites and thereby
+ a window for haematological recovery, 6 reducing
+ of anaemia. The low but significant effect
+ on anaemia might be explained by the
+ causal relationship of anaemia. 22,26,27
+ most schoolchildren in our study were
+ 17 the protective effect of IPTsc against
+ malaria and parasitaemia was significant and
+ with previous studies; 10 minor variations
+ with previous studies of the protective effect of
+ be explained by differences in transmission
+ at the time of assessment. The mean time to first
+ of clinical malaria observed in our study was
+ than that observed in DR Congo, where mean
+ first event was 29 days after sulfadoxine–
+ and 47 days after sulfadoxine–
+ plus piperaquine. 22 Given the time to
+ 64 days for dihydroartemisinin–piperaquine and
+ for artesunate–amodiaquine noted in our study,
+ drugs could be strategically applied shortly
+ the peak of transmission during a season to
+ transmission to other at-risk groups, mainly
+ younger than 5 years and pregnant women, who
+ have symptomatic malaria and in whom malaria
+ correlates well with that in schoolchildren.
+ protective time would allow for successful
+ schedules for implementation, such as
+ the drugs once per school term or two to
+ in a year (depending on the local number of
+ peaks in a year). 10,28 The transient infection that
+ when the drug’s prophylactic effect wanes
+ malaria peak is declining could help to maintain
+ acquired immunity 29 and possibly reduce the
+ developing.
+ studies of IPTsc led to recommendations to
+ other than artemisinin combination
+ for preventive purposes, because artemisinin
+ therapies are used for the treatment
+ 6,22 However, antimalarial therapies that
+ include artemisinin—such as sulfadoxine–
+ amodiaquine, chloroquine, or a
+ of such drugs—have faced challenges
+ development of resistance (eg, sulfadoxine–
+ 30 and poor adherence due to adverse
+ limiting their use in IPTsc. Recently, the use of 
+<section> Articles
+ 
+<section> artemisinin combination therapies for IPTsc that are not
+ used as first-line treatment in that country has been
+ suggested. 10 A drug combination with longer half-life,
+ such as dihydroartemisinin–piperaquine, could provide
+ prolonged protection, as suggested in previous studies.
+ The ideal situation would be the use of a single-dose
+ drug, but none of the currently licensed or marketed
+ drug have this property., Development of a new drug or
+ formulation with such a property would take time,
+ while the need for IPTsc remains eminent. Whichever
+ regimens are used, continuous monitoring of drug
+ resistance molecular markers will be required (eg, using
+ samples from the school malaria parasitological surveys)
+ as an integral part of intervention deployment plans.
+ IPTsc showed no significant effect on cognitive or
+ psychomotor functions in the current study, which might
+ be due to an insufficient sample size to provide power to
+ detect differences between study groups. Other studies
+ have shown an effect of IPTsc on cognitive and
+ psychomotor function using similar or different testing
+ tools. 6,18 However, previously used tests were not exactly
+ the same as the one used in this study (cognitive score
+ scale of 20 vs 40 in our study). Our results showed that
+ psychomotor function was significantly associated with
+ haemoglobin increase (on per protocol analysis), which
+ was in line with other studies. 6,18
+ One limitation of our study was the interruption of
+ visit 4 (an important outcome assessment visit) due to the
+ COVID-19 pandemic, when only two schools were visited
+ before closures occurred. This interruption affected
+ the assessment of primary objective on change in
+ haemoglobin after three rounds of IPTsc (at month 12),
+ although the sample size had sufficient power (80%) to
+ detect the differences observed. The overall percentage of
+ missed visits was low at around 19%, and there were no
+ significant differences in baseline characteristics between
+ those lost to follow-up and those who were followed up or
+ in loss to follow-up between study groups, suggesting
+ that the treatment effects were not caused by sampling
+ bias. In addition, the study design including individual
+ randomisation and linear mixed model analysis was
+ robust enough to ascertain the effect of IPTsc on an
+ individual participant level in each study group.
+ A comparison of participant characteristics between
+ five schools not visited and the two schools visited
+ at month 12 showed some differences (eg, in baseline
+ prevalence of anaemia [57% vs 28%], malaria prevalence
+ 
+<section> [26% vs 32%], history of malaria in the past month
+ 
+<section> [32% vs 22%], and nutritional status; appendix 2 p 4). The
+ individual randomisation with a balanced block approach
+ ensured each school had balanced study groups and the
+ study outcome focused on differences at the individual
+ subject level per group. In addition, after adjusting
+ for factors that differed between study groups (eg,
+ socioeconomic status or weight-for-age Z score), the
+ observed effect of IPTsc on change in haemoglobin
+ concentration and malaria prevalence remained
+ essentially the same (appendix 2 pp 13–22). The clinical
+ malaria incidence data were compensatory as most cases
+ were recorded by local health workers even during
+ COVID-19-related school closures. Another limitation is
+ that we were unable to do an extensive battery of cognitive
+ tests for possible comparison with a variety of studies that
+ used different kinds of cognitive tests, and repeated use
+ of the same cognitive test at multiple timepoints meant
+ that improved performance was inevitable across all study
+ groups (ie, participants knew what to expect). We collected
+ data on school academic performance and absenteeism
+ that will be available in a separate publication.
+ In conclusion, our findings provide additional evidence
+ that implementation of IPTsc should be considered
+ as an important intervention within malaria control
+ programmes, as recommended by WHO’s 2023 guidelines
+ for malaria, 28 to reduce the malaria burden in school-
+ aged children in whom malaria parasitaemia is prevalent
+ in most malaria-endemic areas of sub-Saharan Africa,
+ thereby shrinking the reservoir and reducing malaria and
+ anaemia in those communities. For easier implementation,
+ we suggest that IPTsc be sustained and integrated into
+ school-based health programmes (as is currently done for
+ nutrition and mass anthelmintic drug administration), to
+ increase the benefit of anaemia reduction.
+ 
+<section> Contributors
+ 
+<section> GMa, VB, JPAL, and J-PVg conceptualised the study. GMa wrote the
+ original draft. FF, GMa, GMt, VB, J-PVg, and SN contributed to data
+ curation, software, visualisation, and validation. GMa, VB, FF, J-PVg,
+ DTRM, SG, and JPAL contributed to project administration, formal
+ analysis, and resources. GMa, VB, DTRM, GMt, RM, EK, JPAL, and
+ J-PVg contributed to investigation and methodology. VB, JPAL, and
+ J-PVg contributed to supervision and funding acquisition. All authors
+ had full access to all the data in the study and had final responsibility for
+ the decision to submit for publication.
+ 
+<section> Declaration of interests
+ We declare no competing interests.
+ 
+<section> Data sharing
+ 
+<section> Data will be available from the corresponding author, with approval from
+ the collaborating institutions and a signed data transfer agreement from
+ the National Institute for Medical Research, Tanzania.
+ 
+<section> Acknowledgments
+ The study was funded by the Flemish Interuniversity Council (VLIRUOS),
+ Belgium (TEAM initiative, grant number TZ2017TEA451A102). Additional
+ funding was provided by the MaReCa project as part of the EDCTP2
+ programme supported by the EU (grant number TMA2015SF-998-
+ MaReCa, awarded to JPAL), and the sandwich PhD scholarship Global
+ Minds 2019 in support of a PhD student. We thank the Muheza District
+ officials, the District Medical Officer, district school health and National
+ Neglected Tropical Diseases Control Programme (NTDCP) coordinators,
+ schoolteachers, parents and guardians of children, and the participants
+ for their collaboration and support in the conduct of the study. We also
+ thank stakeholders for the school health programme: The Ministry of
+ Health; the Ministry of Education, Science and Technology; the
+ President’s Office-Regional Administration and Local Government; the
+ National Malaria Control Programme; and the NTDCP for their cordial
+ inputs with regard to study implementation and policy. We thank the
+ National Institute for Medical Research (NIMR) Director General and his
+ staff for coordination of the study team and external stakeholders to the
+ school health programme; NIMR Tanga Centre staff for their cordial
+ support during the preparation and implementation of the study; Global
+ Health Institute staff (Universiteit Antwerpen, Belgium) for their
+ administrative and logistical support; Guilin Pharmaceuticals Tanzania 
+<section> donation of dihydroartemisinin–piperaquine drugs (D-Artepp); Tanzania
+ J Ngede for her important work as a study clinician; the NIMR program:
+ staff, Safari Kinunghi and Tecla Angelo, for providing training in activities
+ administration of cognitive and psychomotor functions; and Steven Makenga
+ (University of Antwerp) and Bruno Mmbando (NIMR Tanga asymptomatic
+ for their inputs on statistical analysis in this study. cognitive
+ eastern
+ Nankabirwa
+ WHO. World malaria report 2022. Dec 8, 2022. https://www.who. Brooker
+ int/publications/i/item/9789240064898 (accessed Dec 31, 2022). among
+ Makenga G, Menon S, Baraka V, et al. Prevalence of malaria setting
+ parasitaemia in school-aged children and pregnant women in WHO.
+ endemic settings of sub-Saharan Africa: a systematic review and and assessment
+ meta-analysis. Parasite Epidemiol Control 2020; 11: e00188. handle/10665/85839
+ Chacky F, Runge M, Rumisha SF, et al. Nationwide school malaria Léger
+ parasitaemia survey in public primary schools, the United Republic 20 metre
+ of Tanzania. Malar J 2018; 17: 6: 93–101.
+ Nankabirwa J, Brooker SJ, Clarke SE, et al. Malaria in school-age 
+<section> Manly
+ children in Africa: an increasingly important challenge. Robertson
+ Trop Med Int Health 2014; 19: 1294–309. the Test
+ Walldorf JA, Cohee LM, Coalson JE, et al. School-age children are a sample
+ reservoir of malaria infection in Malawi. PLoS One 2015; 10: e0134061. 42: 1065–81.
+ Clarke SE, Jukes MC, Njagi JK, et al. Effect of intermittent preventive Matangila
+ treatment of malaria on health and education in schoolchildren: Van Geertruyden
+ a cluster-randomised, double-blind, placebo-controlled trial. Lancet treatment
+ 
+<section> 2008; 372: 127–38. 
+<section> and SP
+ Price RN, Simpson JA, Nosten F, et al. Factors contributing to a randomised
+ anemia after uncomplicated falciparum malaria. Am J Trop Med Hyg 49: 339–47.
+ 
+<section> 2001; 65: 614–22. 
+<section> Harris
+ Clarke SE, Rouhani S, Diarra S, et al. Impact of a malaria Research
+ intervention package in schools on Plasmodium infection, anaemia methodology
+ and cognitive function in schoolchildren in Mali: a pragmatic research
+ cluster-randomised trial. BMJ Glob Health 2017; 2: e000182. Staedke
+ WWARN Gametocyte Study Group. Gametocyte carriage in community-level
+ uncomplicated Plasmodium falciparum malaria following treatment malaria
+ with artemisinin combination therapy: a systematic review and a cluster-randomised
+ meta-analysis of individual patient data. BMC Med 2016; 14: Makenga
+ Cohee LM, Opondo C, Clarke SE, et al. Preventive malaria treatment cluster
+ among school-aged children in sub-Saharan Africa: a systematic effectiveness
+ review and meta-analyses. Lancet Glob Health 2020; 8: e1499–511. dihydroartemisinin-piperaquine
+ Matangila JR, Mitashi P, Inocêncio da Luz RA, Lutumba PT, school-aged
+ Van Geertruyden JP. Efficacy and safety of intermittent preventive mitigation.
+ treatment for malaria in schoolchildren: a systematic review. 
+<section> Cisse
+ Malar J 2015; 14: with
+ 
+<section> Okell LC, Reiter LM, Ebbe LS, et al. Emerging implications of intermittent
+ policies on malaria treatment: genetic changes in the Pfmdr-1 gene 4: e7164.
+ affecting susceptibility to artemether–lumefantrine and artesunate– Menendez
+ amodiaquine in Africa. BMJ Glob Health 2018: 3: e000999. Parasitol
+ Mtove G, Mugasa JP, Messenger LA, et al. The effectiveness of non- WHO.
+ pyrethroid insecticide-treated durable wall lining to control malaria who.int/iris/handle/10665/366432
+ in rural Tanzania: study protocol for a two-armed cluster Cowman
+ randomized trial. BMC Public Health 2016; 16: disease.
+ Makenga G, Baraka V, Francis F, et al. Effectiveness and safety of Thomsen
+ intermittent preventive treatment for malaria using either single
+ dihydroartemisinin–piperaquine or artesunate–amodiaquine in multidrug
+ reducing malaria related morbidities and improving cognitive ability before
+ in school-aged children in Tanzania: a study protocol for a controlled therapy.
+ randomised trial. Contemp Clin Trials Commun 2020; 17: 100546.
+ Sealed Envelope. Create a blocked randomisation list. https://
+ sealedenvelope.com/simple-randomiser/v1/lists (accessed
+ Feb 3, 2018).
+ 
+<section> Articles
+ 
+<section> Ministry of Health. Neglected tropical diseases control
+ mass drug administration. https://www.ntdcp.go.tz/
+ (accessed Aug 14, 2017).
+ G, Baraka V, Francis F, et al. Attributable risk factors for
+ malaria and anaemia and their association with
+ and psychomotor functions in schoolchildren of north-
+ Tanzania. PLoS One 2022; 17: e0268654.
+ J, Wandera B, Kiwanuka N, Staedke SG, Kamya MR,
+ SJ. Asymptomatic Plasmodium infection and cognition
+ primary schoolchildren in a high malaria transmission
+ in Uganda. Am J Trop Med Hyg 2013; 88: 1102–08.
+ Haemoglobin concentrations for the diagnosis of anaemia
+ of severity. 2011. https://apps.who.int/iris/
+ (accessed Dec 31, 2019).
+ LA, Mercier D, Gadoury C, Lambert J. The multistage
+ shuttle run test for aerobic fitness. J Sports Sci 1988;
+ 
+<section> T, Anderson V, Nimmo-Smith I, Turner A, Watson P,
+ IH. The differential assessment of children’s attention:
+ of Everyday Attention for Children (TEA-Ch), normative
+ and ADHD performance. J Child Psychol Psychiatry 2001;
+ 
+<section> JR, Doua JY, Mitashi P, da Luz RI, Lutumba P,
+ JP. Efficacy and safety of intermittent preventive
+ in schoolchildren with sulfadoxine/pyrimethamine (SP)
+ plus piperaquine in Democratic Republic of the Congo:
+ controlled trial. Int J Antimicrob Agents 2017;
+ 
+<section> PA, Taylor R, Thielke R, Payne J, Gonzalez N, Conde JG.
+ Electronic Data Capture (REDCap)—a metadata driven
+ and workflow process for providing translational
+ informatics support. J Biomed Inform 2009; 42: 377–81.
+ SG, Maiteki-Sebuguzi C, Rehman AM, et al. Assessment of
+ effects of intermittent preventive treatment for
+ in schoolchildren in Jinja, Uganda (START-IPT trial):
+ trial. Lancet Glob Health 2018; 6: e668–79.
+ G, Seth MD, Baraka V, et al. Implementation research of a
+ randomized trial evaluating the implementation and
+ of intermittent preventive treatment for malaria using
+ 
+<section> on reducing malaria burden in
+ children in Tanzania: methodology, challenges, and
+ 
+<section> Malar J 2023; 22:
+ 
+<section> B, Cairns M, Faye E, et al. Randomized trial of piperaquine
+ sulfadoxine-pyrimethamine or dihydroartemisinin for malaria
+ preventive treatment in children. PLoS One 2009;
+ 
+<section> C, Fleming AF, Alonso PL. Malaria-related anaemia.
+ 
+<section> Today 2000; 16: 469–76.
+ WHO guidelines for malaria, 14 March 2023. https://apps.
+ (accessed Mar 29, 2023).
+ AF, Healer J, Marapana D, Marsh K. Malaria: biology and
+ 
+<section> Cell 2016; 167: 610–24.
+ TT, Ishengoma DS, Mmbando BP, et al. Prevalence of
+ nucleotide polymorphisms in the Plasmodium falciparum
+ resistance gene (Pfmdr-1) in Korogwe district in Tanzania
+ and after introduction of artemisinin-based combination
+ Am J Trop Med Hyg 2011; 85: 979–83.

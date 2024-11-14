@@ -1,0 +1,1125 @@
+
+<section> 2019;
+ 
+<section> ORIGINAL RESEARCH
+ 
+<section> Personalized E-Coaching in Cardiovascular
+ 
+<section> Risk Reduction: A Randomized
+ 
+<section> Mohammed Y. Khanji *,† , Armida Balawon 
+<section> * , Redha
+ Jagat Narula § , Myriam Hunink ‖,¶ , Francesca Pugliese
+ 
+<section> Objectives: To assess whether electronic (e-) coaching,
+ factor counselling with additional email prompts, provides
+ ard of care (SOC) in individuals at increased risk.
+ 
+<section> Methods: Between June 2013 and May 2015, 402 participants
+ versus SOC. Participants free of manifest cardiovascular
+ QRISK2 cardiovascular risk of ≥10% were enrolled.
+ 
+<section> velocity (PWV) from baseline to six months was the
+ change in blood pressure (BP), weight, and risk scores.
+ 
+<section> Results: Mean (±SD) age was 65.5 (5.6) years with 37%
+ 94%. There was no difference in PWV reductions between
+ m/s vs. –0.25 m/s, 95% confidence interval –0.39 to
+ improvement between groups for BP, weight, Framingham,
+ was more favorable in those with a higher level of education
+ gender, presence of diabetes, baseline QRISK2 score,
+ 
+<section> Conclusions: In individuals at increased cardiovascular
+ estly reduced future risk. Personalized e-coaching did
+ no evidence to routinely recommend e-coaching in cardiovascular
+ 
+<section> Trial registration: HAPPY London ClinicalTrials.gov:
+ 
+<section> Introduction
+ The rise in obesity, diabetes and an aging population
+ raises concern for future incidence and prevalence of
+ cardiovascular disease (CVD). Primary prevention of CVD
+ through risk factor reduction may reduce future burden
+ [1–3]. Innovative measures to improve cardiovascular
+ health are needed with nine potentially modifiable risk
+ factors accounting for over 90% of the population attrib-
+ utable risk of a first myocardial infarction based on the
+ findings from the INTERHEART Study [4]. Cochrane sys-
+ tematic reviews have concluded that interventions using
+ counselling and education aimed at behavior change
+ do not reduce mortality or clinical events in the general
+ population but may be effective in reducing mortality
+ 
+<section> * Centre for Advanced Cardiovascular Imaging and Research,
+ William Harvey Research Institute, Queen Mary University of
+ 
+<section> London, UK
+ 
+<section> † Barts Health NHS Trust, London, UK
+ 
+<section> ‡ Cardiologie Centra Nederland, Utrecht, NL
+ 
+<section> § Mount Sinai Heart, Icahn School of Medicine at Mount Sinai,
+ 
+<section> New York, US
+ ‖ Department of Clinical Epidemiology and Radiology, Erasmus
+ 
+<section> MC, Rotterdam, NL
+ 
+<section> ¶ Center for Health Decision Sciences, Harvard T.H. Chan School
+ of Public Health, Boston, MA, US
+ Corresponding author: Mohammed Y. Khanji (m.khanji@qmul.ac.uk)
+ 
+<section> 85(1): 107, 1–10. DOI: https://doi.org/10.5334/aogh.2496
+ 
+<section> Controlled Trial
+ 
+<section> Boubertakh *,† , Leonard Hofstra ‡ ,
+ 
+<section> *,† and Steffen E. Petersen *,†
+ 
+<section> using personalized web-based lifestyle and risk
+ additional risk reduction when added to stand-
+ were allocated 1:1 to e-coaching and SOC
+ disease, with internet access, and a 10-year
+ Change in oscillometric carotid-femoral pulse wave
+ primary endpoint. Secondary outcomes included
+ Analysis was by intention to treat.
+ 
+<section> females. Primary outcome data were available for
+ e-coaching and standard of care groups (–0.16
+ 0.22, p = 0.56). There were no differences in the
+ or QRISK2 scores. Pulse wave velocity change
+ (p = 0.04), but was not associated with age,
+ or logins to the website.
+ risk, a comprehensive ‘health check’ program mod-
+ not provide added risk reduction. Currently there is
+ health check programs.
+ 
+<section> NCT01911910
+ 
+<section> in high risk populations [5]. There is some evidence that
+ behavior change using computer tailoring can be effec-
+ tive in changing lifestyle and risk factors [6–8]. Internet
+ and email access have increased globally and electronic
+ (e-) coaching may aid preventative strategies, potentially
+ allowing efficient, easy to use and cost-effective ways to
+ improve the health and wellbeing of many. E-coaching
+ may encourage individuals to improve lifestyle factors
+ through identifying individual needs, setting personal-
+ ized goals, using strategies to support change and rein-
+ forcement during the process [6]. This may be possible
+ without overburdening existing healthcare facilities and
+ encourage self-care and autonomy in managing personal
+ health. The use of e-coaching has been applied to single
+ risk factor modification with variable but mostly posi-
+ tive findings with dietary behavior change [9], increas-
+ ing physical activity [10], and smoking cessation [11].
+ Though no differences were seen when addressing mul-
+ tiple risk factors in patients with familial hypercholester-
+ olemia [12].
+ The Heart Attack Prevention Program for You (HAPPY)
+ initially provided generic lifestyle e-coaching in a Dutch
+ population over 3 months [13]. Participants with inter-
+ mediate to high CVD risk (n = 141) were followed over
+ 12 months with a relative reduction in CVD risk of 13.8%
+ using the PROCAM risk score. The study did not have a
+ control group and was not randomized. 
+<section> Aim
+ 
+<section> To assess the clinical effectiveness of personalized e-coach-
+ ing as a primary prevention tool to reduce CVD risk in
+ individuals with increased 10-year CVD risk.
+ 
+<section> Methods
+ 
+<section> Study design
+ The HAPPY London trial was a single-center, two-arm ran-
+ domized controlled trial with 1:1 allocation to e-coach-
+ ing and SOC versus SOC alone, stratified into moderate
+ (QRISK2 10–20%) and high-risk (QRISK2 ≥ 20%), (Clinical-
+ 
+<section> Trials.gov: NCT01911910). From June 2013 to November
+ 2014, 402 adults were recruited based on guideline rec-
+ ommended risk scores to identify individuals at increased
+ risk of developing CVD to facilitate risk reduction [14–16].
+ Follow-up was for 6 months with a final visit in May 2015.
+ The study was not blinded.
+ 
+<section> Participants
+ Participants were aged between 40 and 74 years and had
+ a 10-year CVD risk score of 10% or higher based on the
+ UK validated QRISK2 score [17]. They needed to have easy
+ access (i.e. home computer, mobile phone, local library)
+ to the Internet and email and have sufficient fluency of
+ the English language to understand and comply with the
+ written and verbal advice. Participants were excluded if
+ they had established CVD (myocardial infarction, stroke
+ or angina) or life-threatening conditions.
+ Recruitment was primarily by postal invitation for
+ potentially eligible individuals identified from primary
+ care database searches. Potential participants completed
+ a registration and screening questionnaire on the study
+ website (www.happylondon.info) to check eligibility.
+ Screening visit was booked using online scheduling.
+ Three subsequent visits took place at the William Harvey
+ Heart Centre; baseline (within 2 weeks of screening visit),
+ 3-months and 6-months from baseline. Randomization
+ occurred prior to the baseline visit. Email appointment
+ reminders were sent prior to visits. Assessments included
+ lifestyle (including detailed dietary intake) and quality
+ of life questionnaires (EQ-5D-3L, SF-36, recent physical
+ activity questionnaire [RPAQ]), blood pressure (BP, Omron
+ 705IT, Omron Corporation, Kyoto, Japan), blood tests, fol-
+ lowing an 8-hour fast (lipid profile, glucose, high sensi-
+ tive C-reactive protein [hsCRP] and estimated glomerular
+ filtration rate [eGFR]), carotid ultrasound scan (Panasonic
+ Cardio Health System, Panasonic Healthcare Co. Ltd,
+ Yokohama, Japan) and oscillometric method to assess
+ PWV and pulse wave analysis (Vicorder device, Skidmore
+ Medical, UK).
+ All participants gave written informed consent. The
+ study was approved by the national Research Ethics
+ Committee (NRES committee – London, REC reference
+ 13/LO/0094) and was conducted in accordance with the
+ declaration of Helsinki.
+ 
+<section> Patient and Public Involvement
+ Patients and public were involved during trial design
+ including assessing feasibility of taking part in a lifestyle
+ intervention trial with requirement for internet access,
+ reviewing and providing feedback on the patient informa-
+ tion sheet, consent form, and advertisement posters.
+ 
+<section> Randomization
+ Randomization was performed using an in-house soft-
+ ware tool with allocation sequence concealment using
+ two strata. Randomization into the treatment or control
+ group was performed after confirming eligibility (see sup-
+ plementary material for more details).
+ 
+<section> Intervention
+ E-coaching involved computer-tailoring, a method of
+ assessing individuals’ suboptimal lifestyle and risk factors
+ and selecting communication content using data-driven
+ decision rules that produce feedback automatically from
+ a database of content options. Participants had personal
+ logins and passwords. Written information was provided
+ on the website with links to other sites and online videos.
+ The HAPPY London web-based tool provided a personal-
+ ized score for their lifestyle and 10-year CVD risk score,
+ provided tailored advice and information specifically
+ for those suboptimal factors that were relevant to that
+ participants. Ideal targets were highlighted as goals and
+ then updated following 3 and 6 months visits, providing
+ dynamic tailoring to increase efficacy [6]. Dynamic tailor-
+ ing entailed updating the participants lifestyle and risk
+ factor profiles and personalized advice based on the fol-
+ low-up assessments. Additional regular email reminders
+ were sent to encourage achievement of goals. The email
+ reminders were correlated to the number of suboptimal
+ factors. Participants received instructions on how to use
+ the website, lasting 5–10 minutes during the baseline
+ visit. The web team (web developers and programmers)
+ developed the content with input from the research team
+ members (MYK and SEP).
+ 
+<section> Standard of Care
+ All participants received personalized face-to-face coun-
+ selling on suboptimal lifestyle and cardiovascular risk
+ factors based on guideline recommendations once dur-
+ ing the baseline visit, lasting 10–15 minutes [15]. All
+ participants completed a lifestyle questionnaire. Advice
+ on factors including blood pressure, cholesterol, glucose
+ readings, smoking, weight, physical activity, fruit, and veg-
+ etable intake, alcohol intake and stress was provided by a
+ trained physician (MYK).
+ 
+<section> Outcomes
+ 
+<section> Primary outcome was baseline to 6-months PWV change.
+ Secondary outcomes included changes in BP, weight, cho-
+ lesterol, glucose, hsCRP, carotid intima media thickness,
+ quality of life, Framingham risk score, QRISK2 scores, and
+ self-reported physical activity using the validated RPAQ.
+ 
+<section> Pulse Wave Velocity
+ Carotid femoral PWV and augmentation index, mark-
+ ers of global arterial stiffness, were measured using the
+ Vicorder device. Measurements were obtained by placing
+ a 10cm wide blood pressure cuff around the upper left
+ thigh measuring the femoral pulse and a 3cm partial cuff 
+<section> around the neck at the level of the left carotid artery. The
+ path-length was calculated according to manufacturer’s
+ instructions, from suprasternal notch to a defined point
+ on the upper part of the femoral cuff. The cuffs were
+ inflated simultaneously to 65 mmHg with 2 high quality
+ waveforms simultaneously recorded for 3 seconds using
+ a volume displacement method. The foot-to-foot transit
+ time was measured and values for carotid-femoral PWV
+ were derived automatically by the software (Supplemen-
+ tary Figure 1). The average of 2 PWV measures was used.
+ 
+<section> Cardiovascular risk calculation
+ A 10-year QRISK2 risk score was calculated once blood
+ results were available at baseline, three-month, and six-
+ month visits. Due to changes in the QRISK2 algorithm
+ during the study period we recalculated this for all visits
+ at the end of the study using the most up-to-date QRISK2
+ (https://qrisk.org) algorithm for standardization.
+ 
+<section> Sample size calculation
+ Sample size calculation was based on a two-sample t-test
+ with equal variances. The Type I error was set at 5% (two-
+ sided). The standard deviation of 0.29 m/s for Vicorder
+ measured PWV were based on published inter-study
+ reproducibility data [18]. We proposed a sample size of
+ 200 patients in each treatment arm assuming a dropout
+ rate of 15–20% at the follow-up visit and having 80%
+ power to detect a 0.1 m/s difference in PWV between the
+ treatment groups (Supplementary Table 1).
+ 
+<section> Statistical analysis
+ Analysis was performed on an intention to treat basis
+ using R statistical software (version 3.4.4). Mean ± stand-
+ ard deviation was used for normally distributed variables.
+ Median and interquartile ranges were used for data not
+ normally distributed. T-test was used for normally distrib-
+ uted continuous measures and chi-square for categorical
+ variables. Where variables were not normally distributed
+ non-parametric tests were used (Wilcoxon rank sum test).
+ Six-month changes in PWV and other parameters between
+ treatment and control arms were compared for statistical
+ difference. Agreement between repeated measurements
+ was analyzed using student’s paired t-test. Reproducibil-
+ ity was assessed with intraclass correlation coefficient and
+ Bland-Altman Plots. Regression analysis was used to assess
+ for potential covariates that predicted PWV change.
+ 
+<section> Results
+ 
+<section> The online ‘mini-check’ for eligibility was completed by
+ 891 people and 501 fulfilled the preliminary inclusion cri-
+ teria and accepted invitation for participation. Of these,
+ 402 had a QRISK2 score of 10% or more and were ran-
+ domized (see 
+<section> Figure 1, CONSORT flow diagram). Mean
+ age was 65.5 ± 5.6 years and 37% were females. Median
+ 10-year QRISK2 score was 16.5% and mean Framingham
+ Risk score was 17.5%. Demographics and baseline charac-
+ teristics including CVD risk factors are included in 
+<section> Table 1.
+ 
+<section> The proportion of participants with a high QRISK2 score
+ was similar in both the e-coaching and SOC groups (36%
+ vs. 31%). During the study there were no important harms
+ or unintended effects experienced by the participants (see
+ Supplementary Table 2 for full study CONSORT checklist).
+ The only reason for not being randomized into the
+ study was having a 10-year QRISK2 score of less than 10%.
+ During the study 24 participants (6%) dropped out and
+ did not have follow-up measurements (11 from e-coach-
+ ing group and 13 from the SOC). Following baseline
+ assessment, statin medication was initiated in 12 versus
+ individuals and antihypertensive medication was initiated
+ in 4 versus 4 individuals in the e-coaching and SOC group,
+ respectively, by their primary care physician.
+ After 6 months there was no significant difference in
+ the reduction in the PWV between the e-coaching (–0.16
+ m/s) and SOC groups (–0.25 m/s), mean difference
+ between groups 0.09 m/s, 95 % confidence interval (CI)
+ –0.39 to 0.22, p = 0.56, Cohen’s d = 0.05 (Figure 2). Even
+ when baseline difference was adjusted, there remained no
+ difference in the 6-month PWV between the e-coaching
+ and SOC groups –0.017 m/s vs –0.025 m/s, CI –0.029;
+ 0.044, p = 0.679.
+ 
+<section> Table 2 summarizes the changes seen at follow up
+ in each group. There were similar modest improve-
+ ments seen between the e-coaching and SOC, including
+ improved systolic BP, diastolic BP, weight, hip circumfer-
+ ence, waist circumference, fasting total cholesterol, fast-
+ ing LDL cholesterol, fasting triglyceride, fasting glucose,
+ and a reduction in the 10-year Framingham Risk score
+ (see Supplementary Table 3 for baseline and six-month
+ differences in each group and Supplementary Figure 2 for
+ trends in changes from baseline and the three-month and
+ six-month visits). Lifestyle improvements were also seen
+ in both groups, including a reduction in alcohol intake,
+ increased moderate physical activity, measured as min-
+ utes per week averaged over a five-day week (25 minutes
+ vs. 8 minutes, p = 0.54), and an improved overall lifestyle
+ score which considered a number of lifestyle factors, with
+ the best possible score of 10 (0.74 vs. 0.66, p = 0.45). There
+ was also an improvement in the proportion of participants
+ achieving guideline-based targets for risk factors includ-
+ ing systolic BP, diastolic BP, BMI, cholesterol levels, waist
+ circumference and achieving over 150 minutes moder-
+ ate physical activity per week which was similar in both
+ groups (Supplementary Table 4).
+ Self-rated health state scores improved for both groups.
+ The sum of the visual analogue scale value, which pro-
+ vides an indexed value based on the combination of the
+ 5 dimensions of the EQ-5D-3L questionnaire, did not
+ show any change over the study period either within or
+ between the groups. There was no reduction in mean
+ carotid intima media thickness (CIMT) over 6-months
+ in either group. The mean number logins to the HAPPY
+ London website was 13 for the e-coaching group over the
+ six-month study period.
+ Univariate analysis showed that a higher level of educa-
+ tion was a predictor of more favorable change in PWV only
+ in the e-coaching group (–0.37 (0.18), p = 0.04). Change in
+ PWV was not associated with age, gender, presence of dia-
+ betes or hypertension, baseline QRISK2 score, or the total
+ number of logins to the website in either the e-coaching
+ or SOC groups. 
+<insert> Figure 1: CONSORT flow diagram for the HAPPY London study.
+ The reproducibility of PWV was good. The difference
+ between repeated PWV measurements was –0.14 +/–
+ 0.5 m/s (p = 0.38) with limits of agreement of –1.10 to
+ 0.82 m/s and intra-class correlation coefficient was 0.89
+ (p < 0.001). 
+<iend>
+
+ 
+<section> Discussion
+ To our knowledge this is the first study to assess the impact
+ of personalized e-coaching in a high-risk primary preven-
+ tion cohort using robust cardiovascular surrogate mark-
+ ers. This study showed that e-coaching, using Internet and
+ email-based heart attack prevention program on top of
+ the SOC, compared with SOC alone did not further reduce
+ cardiovascular risk based on interval change of the PWV
+ surrogate marker and other CVD risk markers. E-coaching
+ and SOC both modestly improved PWV and a number of
+ cardiovascular risk factors that translated in a reduced esti-
+ mated 10-year CVD risk based on QRISK2 and Framingham
+ scores. Similar to previous studies, the frequency of logins
+ to the website was low in the e-coaching group suggest-
+ ing low degree of engagement with the online content.
+ Given previous studies showing similar low engagement
+ with website information, we had pre-emptively provided
+ personalized emails as encouragement and reminders and
+ the option of nominating a ‘buddy’ to help with motiva-
+ tion, to complement the website content.
+ Higher level of education was associated with favorable
+ reduction in PWV in the e-coaching group. The potential
+ reasons for this may be linked to better understanding of
+ the content and better means and ability to implement
+ lifestyle modification.
+ 
+<section> Impact of Electronic Coaching in Prevention
+ Previous outcomes of e-coaching studies have been varied
+ and the end points, designs, and strategies utilized have
+ been heterogeneous. Limited studies exist in primary CVD
+ prevention. A meta-analysis assessing the effectiveness of
+ Internet-based interventions targeting participants with
+ increased CVD risk identified five randomized controlled
+ trials in diabetic patients and four in those with increased
+ CVD risk predominantly due to high BP. Authors noted
+ shortage of studies investigating the effectiveness of Inter-
+ net-based interventions on direct CVD outcomes such as
+ cardiac mortality or adverse events. They noted some evi-
+ dence suggesting that interactive self-management pro-
+ grams that include lifestyle education and self-monitoring 
+<insert> Table 1: Demographics and baseline clinical characteristics for both groups. 
+<iend>
+
+ 
+<section> Clinical Values E-coaching group SOC group
+ 
+<section> (n = 205) 
+<section> (n = 197)
+ Age (years) 65.1(6.3) 65.9(4.8)
+ Male sex, no. (%) 127(62.0) 126(64.0)
+ University education, no. (%) 109(53) 97(49)
+ 
+<section> Smoking history, no. (%)
+ Non-smoker 104(50.7) 80(40.6)
+ Ex-smoker 86(42.0) 101(51.3)
+ Light (<10 cigarettes/day) 9(4.4) 9(4.6)
+ Moderate (11–19) 6(2.9) 3(1.5)
+ 
+<section> Heavy (>20) 
+<section> 4(2.0)
+ 
+<section> Ethnicity, no. (%)
+ White 182(88.8) 172(87.3)
+ 
+<section> Asian 
+<section> 20(9.8) 
+<section> 14(7.1)
+ Black Afro-Caribbean 1(0.5) 5(2.5)
+ 
+<section> Other 
+<section> 2(1.0) 
+<section> 6(3.0)
+ 
+<section> Medical History
+ Rheumatoid Arthritis, no. (%) 8(3.9) 3(1.5)
+ BP medication, no. (%) 105(51.2) 83(42.1)
+ Cholesterol medication, no. (%) 98(47.8) 84(42.6)
+ Diabetes, no. (%) 35(17.1) 22(11.2)
+ Atrial fibrillation, no. (%) 9(4.4) 11(5.6)
+ Family History CAD, no. (%) 75(36.6) 60(31)
+ 
+<section> Risk Scores
+ QRISK2*, 10-year risk, % 16.5(12.7; 23.1) 16.5(12.6; 21.1)
+ Framingham risk score, 10-year risk, % 16(9) 17.8(10)
+ 
+<section> Risk Stratification
+ High risk, no. (%) 73(36) 62(31)
+ QRISK2 for high risk*, 10-year risk, % 25.7(22.2; 31.2) 26.3(21.8; 31.2)
+ Mod risk (n) 132(64) 135(69)
+ QRISK2 for mod*, 10-year risk, % 13.9(11.8; 16.2) 13.7(11.6; 16.7)
+ High risk or diabetes, no. (%) 79(39) 67(34)
+ Systolic BP, mmHg 132.5(13.3) 132.3(14.8)
+ Diastolic BP, mmHg 79.2(9.2) 80(8.6)
+ Weight, Kg 80.7(18.4) 79.7(16)
+ BMI, Kg/m 28.1(5.6) 27.4(4.4)
+ Hip circumference, cm 104.7(10.3) 103.6(8.2)
+ Waist circumference, cm 95.8(15.2) 95.4(12)
+ Total Cholesterol, mmol/L 4.9(1.1) 5.1(1.1)
+ HDL, mmol/L 1.6(0.5) 1.6(0.4)
+ LDL, mmol/L 2.8(1) 2.9(1)
+ Triglyceride*, mmol/L 1.1(0.8; 1.5) 1.3(0.8;
+ 
+<section> P value
+ 
+<section> 0.15
+ 
+<section> 0.75
+ 
+<section> 0.42
+ 
+<section> 0.053
+ 
+<section> 0.08
+ 
+<section> 0.53
+ 
+<section> 0.12
+ 
+<section> 0.76 §
+ 
+<section> 0.76 §
+ 
+<section> 0.76 §
+ 
+<section> 0.76 §
+ 
+<section> 0.25
+ 
+<section> 0.08
+ 
+<section> 0.40
+ 
+<section> 0.12
+ 
+<section> 0.75
+ 
+<section> 0.25
+ 
+<section> 0.56
+ 
+<section> 0.54
+ 
+<section> 0.38
+ 
+<section> 0.99
+ 
+<section> 0.38
+ 
+<section> 0.95
+ 
+<section> 0.4
+ 
+<section> 0.88
+ 
+<section> 0.34
+ 
+<section> 0.56
+ 
+<section> 0.16
+ 
+<section> 0.25
+ 
+<section> 0.81
+ 
+<section> 0.09
+ 
+<section> 0.95
+ 
+<section> 0.10
+ 
+<section> 1.5) 
+<section> 0.31 
+<insert> Figure 2: Change in carotid-femoral pulse wave velocity over six months. 
+<iend>
+
+ 
+<section> Clinical Values
+ 
+<section> Glucose*, mmol/L
+ 
+<section> hsCRP*, mg/L
+ 
+<section> eGFR, mL/min/1.73 sqm
+ 
+<section> Physical activity, minutes per day
+ Lifestyle score, out of 10, 10 being best score
+ 
+<section> Surrogate Markers
+ 
+<section> PWV, m/s
+ 
+<section> CIMT (combined right and left), mm
+ 
+<section> Quality of Life
+ 
+<section> Self-rated health state*, best health score
+ 
+<section> EQ-5D-3L VAS value*, best quality of life score 1)
+ Results presented as mean (SD) or *median (interquartile range), unless
+ § white vs. non-white.
+ 
+<section> Abbreviations: BMI, body mass index; BP, blood pressure; CAD, coronary
+ CIMT, carotid intima-media thickness; eGFR, estimated glomerular
+ visual analogue scale – validated questionnaire; HDL, high-density
+ tein; IQR, inter quartile range; LDL, low-density lipoprotein cholesterol;
+ of health behaviors may be of benefit in improving some
+ clinical CVD risk factors such as BP [19]. However, most
+ studies concentrated on patients with either diabetes or
+ hypertension.
+ Studies assessing the impact of smart phones and wear-
+ able mobile technology in CVD risk reduction are limited
+ and, where available, often rely on self-reporting and do
+ not conform to an intention to treat analysis [20]. A recent
+ study in young adults with increased weight found that
+ the addition of wearable technology to standard behav-
+ ioral intervention resulted in less weight loss over 2 years
+ suggesting that devices that monitor and provide feed-
+ back on physical activity may not offer an advantage over
+ standard behavioral weight loss approaches [21].
+ Optimum follow-up period is debatable. Studies with
+ follow-up of 6-months or less with weight loss have shown
+ 
+<section> E-coaching group SOC group P value
+ 
+<section> (n = 205) 
+<section> (n = 197)
+ 
+<section> 5.5(5.1; 6.0) 5.5(5.1; 5.9) 0.71
+ 
+<section> 1.2(0.7; 2.5) 1.3(0.7; 2.4) 0.76
+ 
+<section> 82.9(20.1) 81.9(17.9) 0.58
+ 
+<section> 70.8(75.6) 64.9(91.9) 0.48
+ 
+<section> 6.9(1.3) 6.8(1.3) 0.22
+ 
+<section> 8.5(1.7) 8.9(1.6) 0.027*
+ 
+<section> 0.705(0.13) 0.736(0.13) 0.02*
+ 
+<section> 80(65–90) 80(65–90) 0.21
+ 
+<section> 0.76(0.73; 01.0) 0.76(0.69; 1.0) 0.39
+ 
+<section> stated otherwise.
+ 
+<section> artery disease; PWV, carotid-femoral pulse wave velocity;
+ filtration rate; EQ-5D-3L VAS, Euroqol, 5 dimension, 3 level
+ lipoprotein cholesterol; hsCRP, high sensitivity C-reactive pro-
+ Mod, moderate; pd, per day; QOL, quality of life.
+ group differences [22]. Six-month follow-up was selected
+ to capture sustainability of behavioral changes allowing
+ time for detectable effects to take place. Longer follow-up
+ beyond six months may have been informative for longer-
+ term differences, although this seems unlikely to change
+ the findings based on the 3- and 6-month trends showing
+ convergence in the primary end point of PWV between
+ the two groups (Supplementary Figure 2).
+ Primary prevention studies generally require long fol-
+ low-up and large participant numbers to powerfully detect
+ hard cardiac end points. This creates obvious resource
+ and administrative challenges. Use of robust surrogate
+ markers can help identify potentially useful interven-
+ tions that can then be further studied. We therefore used
+ PWV which is one of the most validated method to non-
+ invasively measure arterial stiffness and is recognized as a 
+<insert> Table 2: Comparison of change over six months between intervention group and SOC group. 
+<iend>
+
+ 
+<section> Clinical Values E-coaching group SOC group Mean difference p-value
+ 
+<section> n = n = between groups
+ 
+<section> Follow-up 
+<section> Mean change 
+<section> Follow-up 
+<section> Mean 
+<section> over six months
+ 
+<section> over change over 
+<section> (95% CI)
+ 
+<section> months 
+<section> 6 months
+ 
+<section> Primary Endpoint
+ 
+<section> PWV † 8.3 (1.4) –0.16 8.6 (1.7) –0.25 0.09 (–0.39; 0.22) 0.56
+ 
+<section> Secondary Endpoints
+ Systolic BP, mmHg 129.5 (13.6) –3.18 130.7 (14.7) –1.688 –1.5 (–4.2; 1.2) 0.27
+ Diastolic BP, mmHg 76.7 (9.1) –2.37 78 (8.7) –2.076 –0.29 (–1.6; 1.1) 0.67
+ Weight, kg 78.9 (18.1) –1.22 79 (15.8) –0.763 –0.45 (–1.0; 0.1) 0.10
+ BMI, kg/m2 27.4 (5.3) –0.42 27.1 (4.4) –0.247 –0.17 (–0.4; 0) 0.07
+ Hip circumference, cm 102.2 (9.9) –2.19 101.8 (8.2) –1.809 –0.38 (–1.2; 0.5) 0.37
+ Waist circumference, 92.7 (14.7) –2.55 93.4 (12) –2.048 –0.5 (–1.5; 0.5) 0.31
+ 
+<section> cm
+ Total Cholesterol, 4.8 (1) –0.16 4.9 (1) –0.197 0.04 (–0.1; 0.2) 0.60
+ 
+<section> mmol/L
+ HDL, mmol/L 1.6 (0.5) –0.03 1.6 (0.4) –0.017 –0.01 (–0.1; 0) 0.64
+ LDL, mmol/L 2.6 (0.9) –0.10 2.8 (0.9) –0.142 0.04 (–0.1; 0.2) 0.56
+ Triglyceride, mmol/L 1.2 (0.8) –0.08 1.2 (0.6) –0.113 0.03 (–0.1; 0.1) 0.56
+ Glucose, mmol/L 5.6 (1.3) –0.29 5.5 (1.1) –0.266 –0.03 (–0.2; 0.2) 0.77
+ HsCRP, mg/L 2.3 (5.9) –0.26 2.2 (5.4) 0.004 –0.27 (–1.9; 1.3) 0.75
+ eGFR mL/min/ 82.3 (17) –0.64 83 (20.2) 1.225 –1.87 (–4.8; 1.1) 0.22
+ 
+<section> 1.73sqm)
+ Alcohol per week, units 7.9 (9.4) –0.78 7.7 (8.2) –1.081 0.3 (–0.7; 1.3) 0.54
+ Physical activity, 98 (145.5) 25.10 74.2 (100.3) 8.448 16.65 (–10.3; 43.6) 0.23
+ 
+<section> minutes per day
+ Lifestyle score, best 7.7 (1.2) 0.74 7.5 (1.3) 0.659 0.08 (–0.1; 0.3) 0.45
+ 
+<section> score
+ CIMT (left and right), 0.72 (0.14) 0.014 0.75 (0.13) 0.015 0.02 (–0.017; 0.015) 0.91
+ 
+<section> mm
+ QRISK2 score, 10-year 19.2 (8.5) 0.14 18.9 (8.6) 0.01 0.24 (–0.4; 0.6) 0.63
+ 
+<section> risk, %
+ 
+<section> Expected QRISK2 at 
+<section> 19.6 (8.1) 
+<section> 19.3 (8.8)
+ 
+<section> 6 months # 
+<section> 10-year
+ 
+<section> risk, %
+ Framingham risk score, 16.1 (8.9) –1.23 16.6 (9.5) –1.37 0.14 (–0.9; 1.2) 0.79
+ 
+<section> 10-year risk, %
+ Self-rated health state 85 (75; 90) 4.81 84 (69; 90) 5.58 –0.77 (–6.5; 4.9) 0.79
+ 
+<section> (best health 100)*
+ EQ-5D-3L VAS value 0.76 (0.7; 1.0) –0.00 0.76 (0.70; 1.0) 0.01 –0.01 (–0.02; 0.05) 0.44
+ 
+<section> (best value 1)*
+ 
+<section> Total logins to study 
+<section> 12.8 
+<section> 9.1 
+<section> <0.001
+ 
+<section> Website, n
+ Results presented as mean (SD) or *median (interquartile range), unless stated otherwise.
+ 
+<section> Abbreviations: BMI, body mass index; BP, blood pressure; CAD, coronary artery disease; CIMT, carotid intima-media thickness; eGFR,
+ estimated glomerular filtration rate; EQ-5D-3L VAS, Euroqol, 5 dimension, 3 level visual analogue scale – validated questionnaire;
+ HDL, high-density lipoprotein cholesterol; hsCRP, high sensitivity C-reactive protein; IQR, inter quartile range; LDL, low-density
+ lipoprotein cholesterol; Mod, moderate; n, number; PWV, carotid-femoral pulse wave velocity; QOL, quality of life.
+ # Naturally expected due to older age only if other factors unchanged. QRISK increases with increasing age.
+ † Corrected when extreme outlier excluded (a single reading of 27 m/s which was very different to a subsequent visit for the same
+ patient and compared to all other readings). 
+<section> surrogate marker for future cardiovascular events [23]. It
+ is considered the gold standard index of aortic stiffness,
+ as it is a relatively simple method with reported accuracy,
+ reproducibility and an independent and strong predictor
+ of adverse outcomes [24, 25]. There is however only weak
+ indirect evidence of change in PWV and long-term out-
+ comes [26]. A study is under way to clarify this gap [27].
+ Finally, we only assessed the impact of adding e-coaching
+ to SOC but did not test whether it could be effective when
+ used as a part replacement to some SOC visits.
+ Our study included individuals who had high total cardi-
+ ovascular risk. CVD risk assessment, using risk calculators
+ to guide management, is now widely advocated in many
+ primary prevention guidelines [14–16]. Our study utilized
+ robust and sensitive surrogate markers, which confirmed
+ that risk reduction programs have a modest improve-
+ ment in future risk in general, but no additional clinical
+ benefit with the addition of e-coaching. It may be argued
+ that more information may provide motivation for future
+ change or increase awareness of risk factors and health
+ information. However, in resource limited healthcare sys-
+ tems rationalization occurs, with resources diverted from
+ interventions that do not show objective benefit towards
+ those with evidence of effectiveness.
+ 
+<section> Strengths and Limitations
+ Our study is one of the largest of its kind and included a
+ variety of sensitive measures to evaluate outcomes. The
+ Internet tool and email reminders incorporated aspects of
+ e-coaching that have shown benefit including personaliza-
+ tion, dynamic feedback, goal setting and incorporation of
+ social media. We had a very low drop-out rate of only 6%.
+ There were some limitations to our study. Researchers
+ were not blinded and although we were strict in follow-
+ ing the pre-specified protocol this may have led to pos-
+ sible bias. The adherence to the website segment of the
+ e-coaching tool was low. We had anticipated this and
+ added complementary features such as email reminders
+ to overcome this known issue. Mobile phone applications
+ and platform optimization may increase participant inter-
+ action with the e-coaching and may improve effective-
+ ness. Volunteering effect may have been present and our
+ cohort represented more Caucasians, males, and those
+ with higher educational qualifications than the general
+ London population, thus making generalizability chal-
+ lenging. Only people with Internet access were eligible
+ which may have created a selection bias.
+ 
+<section> Conclusions
+ In individuals at increased cardiovascular risk, a comprehen-
+ sive ‘health check’ program modestly reduced future risk.
+ Personalized e-coaching did not provide added risk reduc-
+ tion. Currently there is no evidence to routinely recom-
+ mend e-coaching in cardiovascular health check programs.
+ 
+<section> Transparency Declaration
+ The lead author affirms that this manuscript is an hon-
+ est, accurate, and transparent account of the study being
+ reported; that no important aspect of the study has been
+ omitted; and that any discrepancies from the study as
+ planned and registered have been explained.
+ 
+<section> What is already known on this topic
+ Rising obesity, diabetes and aging population is likely to
+ lead to increased incidence and prevalence of cardiovascu-
+ lar disease, which is already a leading cause of morbidity
+ and mortality.
+ Interventions using counselling and education for
+ behavior change do not reduce mortality or clinical events
+ in the general population but may be effective in high
+ risk population.
+ There is some evidence that electronic coaching can
+ be effective in improving lifestyle and risk factors when
+ addressing single risk factors.
+ 
+<section> What this study adds
+ Face to face counselling for lifestyle and risk factors from
+ a health care professional provides modest improvements
+ in cardiovascular risk.
+ Electronic coaching, using personalized website and
+ email reminders, does not provide additional risk reduc-
+ tion when added to standard of care in individuals consid-
+ ered at high risk. Although participants with higher levels
+ of education may derive some benefit.
+ 
+<section> How might this impact on clinical practice
+ We found no evidence to routinely recommend electronic
+ coaching on top of current standard of care in primary
+ prevention programs for individuals at increased risk.
+ Digital and mobile health systems should undergo care-
+ ful evaluation for effectiveness before being rolled out in
+ prevention or health and wellbeing programs particularly
+ given resource constraints.
+ 
+<section> Abbreviations
+ 
+<section> BP = Blood Pressure
+ CIMT = Carotid Intima Media Thickness
+ CVD = Cardiovascular Disease
+ E = Electronic
+ eGFR = estimated Glomerular Filtration Rate
+ HAPPY = Heart Attack Prevention Program for You
+ hsCRP = High sensitive C-reactive Protein
+ PWV = Pulse Wave Velocity
+ RPAQ = Recent Physical Activity Questionnaire
+ 
+<section> SOC = Standard of Care
+ 
+<section> Additional Files
+ The additional files for this article can be found as follows:
+ 
+<section> • 
+<section> Supplementary Figure 1. Method for calculating the
+ transit time (TT) used to derive carotid-femoral PWV,
+ using the ‘foot-to-foot’ using the Vicorder device. DOI:
+ https://doi.org/10.5334/aogh.2496.s1
+ 
+<section> • 
+<section> Supplementary Figure 2. Change in parameters
+ at three- and six-month follow-up. DOI: https://doi.
+ org/10.5334/aogh.2496.s2
+ 
+<section> • 
+<section> Online Only Supplement. CONSORT checklist, sup-
+ plementary Tables and further study methods and 
+<section> summary details. DOI: https://doi.org/10.5334/
+ 
+<section> aogh.2496.s3
+ 
+<section> Acknowledgements
+ We would like to thank all participants and staff that
+ contributed in allowing the successful completion of
+ the HAPPY London study. In particular all the staff at the
+ William Harvey Heart Centre, general practices in London
+ that helped with recruitment and the Public and Patient
+ Advisory Group that helped review documents and post-
+ ers for the study.
+ 
+<section> Funding Information
+ This work was supported by a large project grant from
+ Barts Charity for the HAPPY London study (grant
+ number 437/1412). The HAPPY London team acknowl-
+ edges the support of the National Institute for Health
+ Research, through the Clinical Research Network.
+ Panasonic provided loan of the CardioHealth system for
+ carotid ultrasound assessment. This work forms part of
+ the translational research portfolio of the Barts Biomedi-
+ cal Research Centre, which is supported and funded by
+ the NIHR. The funders had no role in the design of the
+ study; the collection, analysis, and interpretation of the
+ data; or the decision to approve publication of the final
+ manuscript.
+ 
+<section> Competing Interests
+ No financial disclosures declared by any of the authors.
+ JN and LH are the founders of the Happy Globally
+ Foundation. Within the Happy Globally Foundation the
+ e-health tool was developed as a potentially low cost
+ means to improve the lifestyle of many individuals.
+ 
+<section> Author Contributions
+ All authors had access to the data and had a role in the
+ writing of the manuscript.
+ 
+<section> References
+ 1. 
+<section> Rechel B, Doyle Y, Grundy E and 
+<section> McKee M. How
+ Can Health Systems Respond to Population Ageing?
+ 2009. World Health Organization Europe; 2010.
+ 2. 
+<section> Khanji MY, Bicalho VVS, van Waardhuizen CN,
+ Ferket BS, Petersen SE and 
+<section> Hunink MGM. Car-
+ diovascular risk assessment: A systematic review of
+ guidelines. Ann Intern Med. 2016; 165(10): 713–722.
+ 
+<section> DOI: https://doi.org/10.7326/M16-1110
+ 3. 
+<section> Khanji MY, van Waardhuizen CN, Bicalho VVS,
+ Ferket BS, Hunink MGM and 
+<section> Petersen SE. Life-
+ style advice and interventions for cardiovascular
+ risk reduction: A systematic review of guidelines.
+ 
+<section> Int J Cardiol. 2018; 263: 142–151. DOI: https://doi.
+ org/10.1016/j.ijcard.2018.02.094
+ 4. 
+<section> Yusuf S, Hawken S, Ounpuu S, et al. Effect of
+ potentially modifiable risk factors associated with
+ myocardial infarction in 52 countries (the Inter-
+ 
+<section> Heart study): Case-control study. Lancet. 2004;
+ 5. 
+<section> Ebrahim S, Taylor F, Ward K, Beswick A, Burke
+ 
+<section> M and 
+<section> Davey Smith G. Multiple risk factor inter-
+ ventions for primary prevention of coronary
+ heart disease. Ebrahim S (ed.), Cochrane Database
+ Syst Rev. 2011; (1): CD001561. DOI: https://doi.
+ org/10.1002/14651858.CD001561.pub3
+ 6. 
+<section> Krebs P, Prochaska JO and 
+<section> Rossi JS. A meta-
+ analysis of computer-tailored interventions
+ for health behavior change. Prev Med. 2010;
+ 51(3–4): 214–221. DOI: https://doi.org/10.1016/j.
+ 
+<section> ypmed.2010.06.004
+ 7. 
+<section> Kroeze W, Werkman A and 
+<section> Brug J. A systematic
+ review of randomized trials on the effectiveness
+ of computer-tailored education on physical activ-
+ ity and dietary behaviors. Ann Behav Med. 2006;
+ 31(3): 205–223. DOI: https://doi.org/10.1207/
+ 
+<section> s15324796abm3103_2
+ 8. 
+<section> Widmer RJ, Collins NM, Collins CS, West CP,
+ 
+<section> Lerman LO and 
+<section> Lerman A. Digital health inter-
+ ventions for the prevention of cardiovascular dis-
+ ease: A systematic review and meta-analysis. Mayo
+ Clin Proc. 2015; 90(4): 469–480. DOI: https://doi.
+ org/10.1016/j.mayocp.2014.12.026
+ 9. 
+<section> Neville LM, O’Hara B and 
+<section> Milat AJ. Computer-
+ tailored dietary behavior change interventions: A
+ systematic review. Health Education Research. 2009;
+ 24(4): 699–720. DOI: https://doi.org/10.1093/her/
+ 
+<section> cyp006
+ 10. 
+<section> Neville LM, O’Hara B and 
+<section> Milat A. Computer-
+ tailored physical activity behavior change inter-
+ ventions targeting adults: A systematic review. Int J
+ Behav Nutr Phys Act. 2009; 6: 30. DOI: https://doi.
+ org/10.1186/1479-5868-6-30
+ 11. 
+<section> Chen Y-F, Madan J, Welton N, et al. Effective-
+ ness and cost-effectiveness of computer and other
+ electronic aids for smoking cessation: A systematic
+ review and network meta-analysis. Health Technol
+ Assess. 2012; 16(38): 1–205, iii–v. DOI: https://doi.
+ 
+<section> org/10.3310/hta16380
+ 12. 
+<section> Broekhuizen K, van Poppel MNM, Koppes LL,
+ Kindt I, Brug J and van Mechelen W. Can multi-
+ ple lifestyle behaviors be improved in people with
+ familial hypercholesterolemia? Results of a paral-
+ lel randomized controlled trial. Cameron DW (ed.),
+ PLoS ONE. 2012; 7(12): e50032. DOI: https://doi.
+ org/10.1371/journal.pone.0050032
+ 13. 
+<section> Hofstra L, Laufer E, Dijk F, van Dieijen M,
+ 
+<section> Wellens HJJ and 
+<section> Narula J. Mass screening and
+ intervention by mass communication: The HAPPY
+ Program. Global Heart. 2011; 6(4): 221–222. DOI:
+ https://doi.org/10.1016/j.gheart.2011.08.005
+ 14. 
+<section> National Clinical Guideline Centre (UK). Lipid
+ 
+<section> Modification: Cardiovascular Risk Assessment and
+ the Modification of Blood Lipids for the Primary and
+ Secondary Prevention of Cardiovascular Disease;
+ July 2014.
+ 15. 
+<section> Perk J, De Backer G, Gohlke H, et al. European 
+<section> 2012; 223(1): 1–68. DOI: https://doi.org/10.1016/j.
+ atherosclerosis.2012.05.007
+ 16. 
+<section> JBS3 Board. Joint British Societies’ consensus recom-
+ mendations for the prevention of cardiovascular dis-
+ ease (JBS3). Heart. 2014; 100(Suppl 2): ii1–ii67. DOI:
+ https://doi.org/10.1136/heartjnl-2014-305693
+ 17. 
+<section> Hippisley-Cox J, Coupland C, Vinogradova Y,
+ et al. Predicting cardiovascular risk in England and
+ 
+<section> Wales: Prospective derivation and validation of
+ QRISK2. BMJ. 2008; 336(7659): 1475–1482. DOI:
+ https://doi.org/10.1136/bmj.39609.449676.25
+ 18. 
+<section> Collier SR, Kanaley JA, Carhart R, et al. Effect
+ of 4 weeks of aerobic or resistance exercise train-
+ ing on arterial stiffness, blood flow and blood
+ pressure in pre- and stage-1 hypertensives. J Hum
+ Hypertens. 2008; 22(10): 678–686. DOI: https://doi.
+ org/10.1038/jhh.2008.36
+ 19. 
+<section> Pietrzak E, Cotea C and 
+<section> Pullman S. Primary and
+ secondary prevention of cardiovascular disease: Is
+ there a place for Internet-based interventions? J
+ Cardiopulm Rehabil Prev. 2014; 34(5): 303–317. DOI:
+ https://doi.org/10.1097/HCR.0000000000000063
+ 20. 
+<section> Burke LE, Ma J, Azar KMJ, et al. Current science
+ on consumer use of mobile health for cardiovascu-
+ lar disease prevention: A scientific statement from
+ the American Heart Association. Circulation. 2015;
+ 132(12): 1157–1213. DOI: https://doi.org/10.1161/
+ 
+<section> CIR.0000000000000232
+ 21. 
+<section> Jakicic JM, Davis KK, Rogers RJ, et al. Effect of
+ wearable technology combined with a lifestyle
+ intervention on long-term weight loss: The IDEA
+ randomized clinical trial. JAMA. 2016; 316(11):
+ 1161–1171. 
+<section> DOI: https://doi.org/10.1001/
+ 
+<section> jama.2016.12858
+ 
+<section> How to cite this article: Khanji MY, Balawon A, Boubertakh R, Hofstra
+ Personalized E-Coaching in Cardiovascular Risk Reduction: A Randomized
+ 85(1): 107, 1–10. DOI: https://doi.org/10.5334/aogh.2496
+ 
+<section> 22. 
+<section> Petersen KS, Blanch N, Keogh JB and 
+<section> Clifton PM.
+ 
+<section> Effect of weight loss on pulse wave velocity: System-
+ atic review and meta-analysis. Arterioscler Thromb
+ Vasc Biol. 2015; 35(1): 243–252. DOI: https://doi.
+ org/10.1161/ATVBAHA.114.304798
+ 23. 
+<section> Sutton-Tyrrell K, Najjar SS, Boudreau RM, et
+ al. Elevated aortic pulse wave velocity, a marker of
+ arterial stiffness, predicts cardiovascular events in
+ well-functioning older adults. Circulation. 2005;
+ 111(25): 3384–3390. DOI: https://doi.org/10.1161/
+ 
+<section> CIRCULATIONAHA.104.483628
+ 24. 
+<section> Asmar R, Benetos A, Topouchian J, et al. Assess-
+ ment of arterial distensibility by automatic pulse
+ wave velocity measurement. Validation and clini-
+ cal application studies. Hypertension. 1995; 26(3):
+ 485–490. 
+<section> DOI: https://doi.org/10.1161/01.
+ 
+<section> HYP.26.3.485
+ 25. 
+<section> Lehmann ED, Parker JR, Hopkins KD,
+ 
+<section> Taylor MG and 
+<section> Gosling RG. Validation and
+ reproducibility of pressure-corrected aortic
+ distensibility measurements using pulse-
+ wave-velocity Doppler ultrasound. J Biomed
+ Eng. 1993; 15(3): 221–228. DOI: https://doi.
+ org/10.1016/0141-5425(93)90118-I
+ 26. 
+<section> Guerin AP, Blacher J, Pannier B, Marchais SJ,
+ 
+<section> Safar ME and 
+<section> London GM. Impact of aortic stiff-
+ ness attenuation on survival of patients in end-stage
+ renal failure. Circulation. 2001; 103(7): 987–992.
+ 
+<section> DOI: https://doi.org/10.1161/01.CIR.103.7.987
+ 27. 
+<section> Laurent S, Briet M and 
+<section> Boutouyrie P. Arterial stiff-
+ ness as surrogate end point: Needed clinical trials.
+ 
+<section> Hypertension. 2012; 60(2): 518–522. DOI: https://
+ doi.org/10.1161/HYPERTENSIONAHA.112.19
+ 
+<section> 4456
+ 
+<section> L, Narula J, Hunink M, Pugliese F and Petersen SE.
+ Controlled Trial. Annals of Global Health. 2019;

@@ -1,0 +1,1057 @@
+
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> OPEN ACCESS
+ 
+<section> Citation: Plazy M, Doucet M-H, Timbo Songbono
+ C, Sanon A, Issiaka B, Martin C, et al. (2023)
+ Acceptability and feasibility of home and hospital
+ follow-up in Burkina Faso and Guinea: A mixed-
+ method study among patients of the COVID-19
+ Coverage-Africa clinical trial. PLOS Glob Public
+ 
+<section> Health 3(7): e0001545. https://doi.org/10.1371/
+ 
+<section> journal.pgph.0001545
+ 
+<section> Editor: Ferdinand Mukumbang, University of
+ 
+<section> Washington, UNITED STATES
+ 
+<section> Received: January 4, 2023
+ 
+<section> Accepted: June 18, 2023
+ 
+<section> Published: July 12, 2023
+ 
+<section> Peer Review History: PLOS recognizes the
+ benefits of transparency in the peer review
+ process; therefore, we enable the publication of
+ all of the content of peer review and author
+ responses alongside final, published articles. The
+ editorial history of this article is available here:
+ https://doi.org/10.1371/journal.pgph.0001545
+ 
+<section> Copyright: © 2023 Plazy et al. This is an open
+ access article distributed under the terms of the
+ Creative Commons Attribution License, which
+ permits unrestricted use, distribution, and
+ reproduction in any medium, provided the original
+ author and source are credited.
+ 
+<section> Data Availability Statement: Study data cannot be
+ made publicly available. The ANRS COV33
+ 
+<section> RESEARCH ARTICLE
+ 
+<section> Acceptability and feasibility of home and
+ hospital follow-up in Burkina Faso and
+ 
+<section> Guinea: A mixed-method study among
+ patients of the COVID-19 Coverage-Africa
+ 
+<section> clinical trial
+ 
+<section> Mélanie Plazy ID 1☯ *, Marie-Hélène Doucet 1☯ , Christine Timbo Songbono 2,3 ,
+ Anselme Sanon , Bamba Issiaka , Caroline Martin ID , Inès Da , Anthony L’hostellier ID ,
+ Olivier Marcy , Denis Malvy ID 1,5 , Armel Poda , Alexandre Delamou ,
+ Abdramane Berthé ID , Joanna Orne-Gliemann ID
+ 
+<section> 1 University of Bordeaux, National Institute for Health and Medical Research (INSERM) UMR 1219,
+ Research Institute for Sustainable Development (IRD) EMR 271, Bordeaux Population Health Research
+ Centre, Bordeaux, France, 2 African Centre of Excellence in the Prevention and Control of Communicable
+ Diseases (CEA-PCMT), Faculty of Sciences and Health Techniques, Gamal Abdel Nasser University,
+ Conakry, Republic of Guinea, 3 The Alliance for International Medical Action (ALIMA), Conakry, Republic of
+ Guinea, 4 Muraz Centre, Department of Public Health, Bobo-Dioulasso, Burkina Faso, 5 Division of Tropical
+ Medicine and Clinical International Health, Department of Infectious Diseases and Tropical Medicine, CHU
+ Pellegrin, Bordeaux, France, 6 Superior Institute of Health Sciences, Nazi Boni University, CHU Sourô
+ Sanou, Bobo Dioulasso, Burkina Faso
+ 
+<section> ☯ These authors contributed equally to this work.
+ 
+<section> * melanie.plazy@u-bordeaux.fr
+ 
+<section> Abstract
+ 
+<section> Patient experiences and perspectives on trial participation and follow-up may influence their
+ compliance with research procedures or negatively impact their well-being. We aimed to
+ explore the acceptability and feasibility of home-based and hospital-based follow-up modali-
+ ties among COVID-19 patients enrolled in the ANTICOV ANRS COV33 Coverage-Africa
+ trial in Burkina Faso and Guinea. The trial (2021–2022) evaluated the efficacy of treatments
+ to prevent clinical worsening among COVID-19 patients with mild to moderate symptoms.
+ Patients were either based at home or hospitalized, as per national recommendations, and
+ followed-up through face-to-face visits and phone calls. We conducted a mixed-methods
+ sub-study administering a questionnaire to all consenting participants and individually inter-
+ viewing purposively selected participants. We performed descriptive analyses of Likert
+ scale questions for the questionnaires and thematic analysis for the interviews. We con-
+ ducted framework analysis and interpretation. Of the 400 trial patients, 220 completed the
+ questionnaire (n = 182 in Burkina Faso, n = 38 in Guinea) and 24 were interviewed (n =
+ and n = 8, respectively). Participants were mostly followed-up at home in Burkina Faso; all
+ patients from Guinea were first hospitalized, then followed-up at home. Over 90% of partici-
+ pants were satisfied with follow-up. Home follow-up was considered acceptable if (i) partici-
+ pants perceived they were not severely ill, (ii) it was combined with telemedicine, and (iii) the
+ risk of stigma could be avoided. Hospital-based follow-up was viewed as a way to prevent 
+<section> COVERAGE Africa study is sponsored by the ANRS
+ MIE (French Agency for Research on AIDS and
+ viral hepatitis / Emerging Epidemic Diseases). We
+ are therefore obliged to abide by French and
+ European legal restrictions such as French law no.
+ 78-17 of January 6, 1978 relating to data
+ processing, files and freedoms usually called "Loi
+ informatique et libertés" and European law "GDPR"
+ General Data Protection Regulation that govern
+ data sharing and stipulate that data cannot be
+ shared in open access to an undeclared third party
+ if study participants have not been informed and
+ did not give their consent for it. Thus, persons
+ wishing to have access to the interviews or
+ questionnaire data may submit a request to the
+ study sponsor (ANRS, clinique@anrs.fr), who will
+ take steps to assess whether the request can be
+ fulfilled. That said, all quantitative and qualitative
+ (verbatim extracts) data allowing to answer our
+ study questions are presented in the paper.
+ 
+<section> Funding: This work was supported by ANRS MIE
+ (sponsor, ANRS COV33) and by the global health
+ agency Unitaid as part of ACT-A. The ANTICOV
+ Study is also funded by the German Federal
+ Ministry of Education and Research (BMBF)
+ through KfW, and received additional support from
+ the European & Developing Countries Clinical Trials
+ Partnership (EDCTP) – under its second
+ programme supported by the European Union with
+ additional funding from the Swedish government –
+ the Starr International Foundation and the Stavros
+ Niarchos Foundation (SNF). The funders had no
+ role in study design, data collection and analysis,
+ decision to publish, or preparation of the
+ manuscript.
+ 
+<section> Competing interests: The authors have declared
+ that no competing interests exist.
+ 
+<section> contamination of family members, but could be badly experienced when mandatory and
+ conflicting with family responsibilities and commitments. Phone calls were seen as reassur-
+ ing and as a way to ensure continuity of care. These overall positive findings support the
+ development of home-based follow-up for mildly ill patients in West-Africa, provided that
+ both emotional and cognitive factors at individual, familial/inter-relational, healthcare and
+ national levels be addressed when planning the implementation of a trial, or developing any
+ public health strategy.
+ 
+<section> Introduction
+ 
+<section> The COVID-19 pandemic has challenged health systems and societies over the world. Despite
+ the relatively low number of confirmed cases [1], the virus causing COVID-19 has spread
+ widely on the African continent, with an estimated rate of two-thirds (65.1%) of Africans hav-
+ ing been exposed to the SARS-CoV-2 virus [2].
+ The response of national health authorities to the COVID-19 pandemic and crisis, whether
+ in terms of prevention, management and treatment guidelines, has differed between African
+ countries and has evolved over time. The previous Ebola Virus epidemic in Guinea, Liberia,
+ and Sierra Leone played an important role in triggering partial or full lockdowns of uninfected
+ persons and/or isolation of people who tested positive for SARS-CoV-2 during the current
+ COVID-19 pandemic [3, 4]. In some countries for instance, all people with COVID-19 were
+ immediately and strictly isolated in healthcare facilities, while in others, only people with severe
+ COVID-19 symptoms were hospitalized and milder cases were asked to self-isolate at home [5].
+ In addition, mainly because this emerging epidemic disease was not well understood at first and
+ effective treatments were lacking back in 2020, many people expressed fear of contamination
+ and death [6–8]. Stigmatization towards those sick and recovered from COVID-19 has thus
+ been reported [9–12], especially in settings that have faced the recent Ebola epidemic [13].
+ A large number of clinical trials have been conducted over the world [14] to find safe and
+ efficient treatments for COVID-19, but very few have been conducted in Africa [15]. While
+ some hospital-based trials aimed to reduce the risk of death among hospitalized COVID-19
+ patients with severe symptoms, others aimed to prevent clinical worsening among ambulatory
+ COVID-19 patients with mild and moderate symptoms [16]. Such patients do not require spe-
+ cialized inpatient care, and can therefore be followed in outpatient units or at home.
+ Participating in a clinical trial often requires extensive follow-up beyond the disease itself,
+ which may be experienced differently depending on whether participants are followed-up at
+ home or in a healthcare facility. Their experience may consequently negatively affect their
+ well-being and ultimately impact the implementation and outcomes of the trial. Conducting
+ therapeutic trial on COVID-19 among mildly symptomatic patients may add further particu-
+ larities to their trial experience, including if they are followed-up at home. They may not feel
+ sick, which may reduce their compliance to treatment and research procedures; they may feel
+ constrained in their daily routine by the strict requirements of research procedures; or they
+ may fear the indirect disclosure of their COVID-19 disease to their entourage/neighbors when
+ being visited by the medical team. There is scarce literature exploring the experiences and
+ points of view of patients followed-up once they are enrolled in a therapeutic clinical trial for
+ an emerging infectious disease. Only one qualitative study was found, which described experi-
+ ences and challenges in participating in a hospital-based COVID-19 trial among patients with
+ severe symptoms in Austria [17]. Outside of the infectious disease field, some studies assessed
+ the implementation of home-care strategies for diverse indications including chronic 
+<section> obstructive pulmonary disease [18], chemotherapy for cancer [19], and care following knee
+ hip replacement [20]. However, no literature exploring the experiences and points of view of
+ patients with mild symptoms participating in a clinical trial for an emerging infectious disease
+ was found, whether followed-up at home or in a hospital, including in the African context.
+ We sought to explore the acceptability and feasibility of home-based and hospital-based fol-
+ low-up among patients with mild to moderate symptoms enrolled in a COVID-19 clinical trial
+ in Burkina Faso and Guinea.
+ 
+<section> Materials and methods
+ 
+<section> Study setting: The ANTICOV ANRS COV33 Coverage-Africa
+ 
+<section> This research was conducted as part of the ANTICOV ANRS COV33 Coverage-Africa (Clini-
+ calTrials.gov Identifier: NCT04920838), a clinical trial, sponsored by ANRS-MIE and nested
+ in the 01-COV ANTICOV platform trial, that aimed at evaluating the efficacy of repurposed
+ drugs to prevent clinical worsening among COVID-19 patients with mild to moderate symp-
+ toms. The trial was implemented in the West-African urban contexts of Conakry (Guinea,
+ Apr 2021–30 Dec 2021), Ouagadougou and Bobo-Dioulasso (Burkina Faso, 29 July 2021–21
+ Nov 2022). This randomized clinical trial tested several treatments, including inhaled and oral
+ drugs (in tablet form). Patients eligible for trial enrolment were at an early stage of their disease
+ (less than 7 days of symptoms), had symptomatic but non-severe disease, i.e. with peripheral
+ oxygen saturation equal of above 94% as measured by pulse oximetry, and were 40 years of age
+ or older, or 18 years of age or older with comorbidity including obesity, treated hypertension
+ or treated diabetes mellitus.
+ Recommendations for COVID-19 management have differed between countries. In Bur-
+ kina Faso, individuals who tested positive for SARS-CoV-2 and had mild to moderate symp-
+ toms have been asked to stay at home: they can either be visited at home by mobile teams, or
+ be followed-up in outpatient settings (i.e. going back and forth to a nearby health facility for
+ their follow-up). Hospitalization has been restricted to patients with more severe symptoms
+ at risk of clinical worsening. In Guinea, all patients (both symptomatic and asymptomatic)
+ have been hospitalized in dedicated treatment centers; patients were discharged home when
+ they tested negative for SARS-CoV-2.
+ Trial procedures regarding patient enrolment and follow-up were defined in line with these
+ national COVID-19 management recommendations prevailing during the study period. Trial
+ participants were followed-up for 28 days. Clinical follow-up included: 1) face-to-face assess-
+ ments (at inclusion and on days 7, 14 and 21), either in a hospital, at home or in a local outpa-
+ tient clinic; and 2) daily follow-up phone calls for three weeks except at days 7, 14 and 21, with
+ a final end-of-study phone call on day 28; patients could contact the trial medical team when-
+ ever they needed to.
+ 
+<section> Study design and participants
+ 
+<section> As part of the trial, we conducted a mixed-methods sub-study following a convergent parallel
+ design, aiming at assessing the acceptability and feasibility of trial implementation (thereafter
+ called the ‘Accept study’), from the point of view of different stakeholders. The present paper
+ focuses on patient perspectives regarding follow-up in the trial, combining quantitative and
+ qualitative data collected from the first enrolment in April 2021 to the end of February 2022.
+ The quantitative component aimed at measuring, in an exhaustive and standardised way, the
+ level of patients’ satisfaction and agreement regarding specific statements, and facilitating
+ comparisons between the different follow-up models and between countries. The qualitative
+ component aimed at exploring in depth participants’ individual experiences, views, and 
+<section> feelings about these modalities of follow-up. Combining both quantitative and qualitative data
+ aimed at providing a comprehensive assessment of the acceptability and feasibility of the dif-
+ ferent modalities of follow-up from patients’ perspectives. The ‘Accept study’ was introduced
+ to all trial patients, using an information sheet presented by the investigator during trial enrol-
+ ment; those who agreed to participate in the sub-study signed a consent form. All consenting
+ participants were invited to respond to a structured questionnaire. A sub-sample of partici-
+ pants was also invited to consent to individual in-depth interviews. We purposively selected
+ these patients to maximize heterogeneity in their profiles and experiences within the trial [21],
+ mainly according to the following criteria: gender; age; schooling level; follow-up setting
+ (home or hospital); and treatment administration method (inhalation or oral tablets).
+ 
+<section> Conceptual framework
+ 
+<section> We assessed participants’ experiences and views about the acceptability of the different follow-
+ up models, referring to their satisfaction and subjective assessment of the appropriateness of
+ these models; this evaluation was based on both cognitive and emotional responses. To do so,
+ we used Sekhon’s Theoretical Framework of Acceptability [22], which includes seven domains
+ such as the affective attitude (feeling) towards the intervention–in this case, the follow-up
+ model–, the perceived burden for participating in the intervention, and the perceived effective-
+ ness of the intervention. In addition, we investigated one specific aspect of the concept of feasi-
+ bility [23], that is participants’ views about the contextual conditions that made a follow-up
+ model possible for them or not. During data analysis and interpretation, we used the Socio-
+ ecological Model [24], to make sense of our results according to the following levels: individual
+ (i.e. participant’s experience or views concerning him/herself only); familial and inter-rela-
+ tional (i.e. relative to the participant’s family members or entourage/neighbors); healthcare
+ (e.g. relating to aspects concerning healthcare providers’ work); national (i.e. regarding
+ national policies or recommendations). Finally, participants’ narratives were analyzed in the
+ light of the sociocultural context in which they live, including the fact that West African socie-
+ ties are generally characterized by a culture of interdependence among family/community
+ members [25, 26], as opposed to individualism.
+ 
+<section> Data collection
+ 
+<section> Data for the Accept study were collected by phone (mainly to avoid the risk of COVID-19
+ transmission) by interviewers who were independent from the trial medical team, and who
+ received extensive training on the objectives of the study and data-collection tools.
+ For the quantitative component, a 30-minute questionnaire was administered to patients
+ days (D8) after their inclusion in the trial. The questions addressed the following: socio-demo-
+ graphic information, perceptions regarding COVID-19, circumstances of the COVID-19 diag-
+ nosis, lived experience and satisfaction with follow-up within the trial, contacts with the
+ medical team, treatment experience, perceptions of clinical trials, mental health, and contact
+ with family and entourage. Satisfaction of a specific follow-up model was assessed only among
+ those who reported having experienced that said model. Satisfaction questions were phrased
+ statements, with which participants could agree or not, using a five points ordinal Likert scale.
+ Interviewers entered responses directly on a tablet dedicated to the study, using the Research
+ Electronic Data Capture (REDCap) software.
+ For the qualitative component, two semi-structured individual interviews were conducted
+ for each selected participant: 4 days (D4), and between 14 and 21 days (D14-21) after the trial
+ enrolment. This two-step process aimed at preventing possible fatigue associated with a long
+ interview over the phone (vs in person). D4 interviews lasted an average of 35 minutes, and 
+<section> D14-21, 38 minutes. The interview guide explored at D4: experience of COVID-19 disease;
+ beliefs regarding COVID-19; experience of taking part in the clinical trial; at D14-21: experi-
+ ence and points of view of the different types of follow-up; and consequences of the trial partic-
+ ipation on their life. Data were audio recorded.
+ Study tools were designed in French and, when necessary, questions were translated into
+ local languages and/or adapted to local culture to maximize participants’ understanding [27].
+ In particular, key words and expressions were pre-translated into the main local languages to
+ ensure maximum standardization in data collection. Interviews were conducted in French
+ (n = 21) or in a local language (Guinean local languages: Soussou n = 1, Pular n = 1; Burkina
+ 
+<section> Faso local language: Dioula n = 1), following participant’s preference, and were thereafter tran-
+ scribed into French. The quotes presented in this paper were translated into English.
+ 
+<section> Data analysis
+ 
+<section> We analyzed participants’ experiences and perceptions of being followed-up face-to-face and
+ on the phone, while they were based at home or hospitalized. We did not investigate their
+ experiences and views of being followed-up in outpatient settings as this modality was not part
+ of the original trial implementation plan.
+ For the quantitative component, we performed descriptive analyses of Likert scale questions
+ stratified by country and excluding missing values, using R software version 4.1.0.
+ For the qualitative component, we performed a classical thematic analysis [28], consisting
+ of the following steps: 1) a codebook was developed, based on the themes of the interview
+ guides as well as on the key elements relating to acceptability and feasibility of home, facility-
+ based, and telephone follow-up modalities; 2) all transcripts were read, and then deductively
+ coded using the MAXQDA qualitative data analysis management software (version 2022); 3)
+ recurring sub-themes were identified and summarized.
+ Both quantitative and qualitative findings were then integrated for joint analysis and triangula-
+ tion of all results. Our mixed-methods analysis aimed at revealing underlying meanings of partici-
+ pants’ views and experiences, in context. To do so, we performed framework analysis, a systematic
+ thematic analysis method which consists of managing and organizing results into a matrix, facili-
+ tating the identification of patterns (tendencies) in the data [21, 29, 30]. We conducted 3 phases
+ results classification: first within a three-dimensional matrix, comprising the acceptability and fea-
+ sibility dimensions [22, 23], for each follow-up modality (home, hospital, telephone), and each
+ country (S1 Table); then distinguishing between cognitive and emotional responses [22], i.e. pri-
+ marily based on reason or emotions; finally according to the levels of the Socio-Ecological Model
+ [24]. Overall, we interpreted the results taking into account the sociocultural contexts of Burkina
+ Faso and Guinea. Results and interpretations were validated by the co-researchers in Burkina Faso
+ and Guinea, acting as “cultural brokers” (i.e providing validation of cultural meanings) [31].
+ 
+<section> Ethics
+ 
+<section> The Coverage-Africa study was approved by the National Ethics Committee for Health
+ Research in Burkina Faso (No2021-02-047) and the National Ethics Committee for Health
+ Research of the Republic of Guinea (No043/CNERS/21).
+ 
+<section> Results
+ 
+<section> Description of study participants
+ 
+<section> As of February 28, 2022, of 548 persons eligible for inclusion in Burkina Faso and Guinea,
+ were enrolled in the trial, of whom 334 consented to participate in the Accept study (Fig 1). 
+<section> Fig 1. Population selection for the acceptability / feasibility sub-study of the Coverage-Africa trial. 2021–2022.
+ 
+<section> https://doi.org/10.1371/journal.pgph.0001545.g001
+ 
+<section> Among them, 220 completed the questionnaire (182 in Burkina Faso and 38 in Guinea) (see
+ description in Table 1); and 24 patients were also interviewed (16 in Burkina Faso and 8 in
+ Guinea) (see characteristics in Table 2).
+ All participants responding to the questionnaire in Burkina Faso were based at home from
+ trial enrolment; 2 of them were subsequently hospitalized before D8 because of symptoms
+ worsening; at D8, 114 reported having had at least one follow-up visit at home since enrol-
+ ment. In Guinea, all participants were hospitalized in a ‘COVID-19 treatment center’ at trial
+ enrolment; at D8, 11 were back home among which 4 reported having received at least one fol-
+ low-up visit at home (Table 1). As per the participants who were selected for the interviews,
+ were based at home for the entire duration of their trial participation in Burkina Faso. In
+ Guinea, all were hospitalized for at least one week and 7/8 had returned home before D14. In
+ addition, 11 participants in Burkina Faso and 5 in Guinea had at least one home-based visit
+ before D14-D21 (Table 2).
+ 
+<section> Overall acceptability and feasibility of follow-up models
+ 
+<section> More than 90% of participants reported being “completely satisfied” or “satisfied” overall with
+ the different follow-up models implemented during the trial, either at home or in the hospital,
+ and through complementary phone calls (Fig 2). Participants’ satisfaction was however
+ nuanced in the qualitative interviews as well as with specific quantitative statements.
+ 
+<section> Acceptability and feasibility of home-based follow-up
+ 
+<section> Health considerations. Participants from both countries generally expressed the view
+ that home was a suitable environment for being followed-up, if one has no or mild symptoms,
+ i.e. that “the person’s physical condition [. does not require 24-hour supervision” (Burkina
+ Faso, woman, 65 y.o.), and is not worried about a worsening health condition. This positive
+ opinion was supported by–and even conditional on–the reassurance that they were also fol-
+ lowed-up by phone during the days without home visits, and that they could call the medical
+ team at any time in case of health concerns. No participant reported having difficulties with
+ taking the treatment at home, either by inhalation or orally. Only a few respondents (12%)
+ were worried about not being able to see a healthcare professional every day during their
+ home follow-up (Fig 2); for example, in his interview, one participant from Burkina Faso was
+ convinced that his level of illness would have required hospitalization and close monitoring. 
+<insert> Table 1. Description of Accept questionnaire respondents. Coverage-Africa. 2021–2022.
+ Burkina Faso (n = 182)
+ N (%)
+ Guinea (n = 38) Total (n = 220)
+ n (%) N (%)
+ Age (in years)
+ 18–39 (9) (27) (12)
+ 40–59 (70) (42) (66)
+ 60+ (21) (30) (22)
+ Missing
+ Sex
+ Women (53) (61) (55)
+ Men (47) (39) (45)
+ None / Primary (7) (29) (11)
+ Secondary / Professional (47) (21) (42)
+ University (46) (50) (47)
+ Level of schooling
+ Missing
+ Family structure
+ Lives alone (1) (0)
+ Lives with only one other adult (6) (5)
+ Lives with 2+ other adults without children (16) (24) (17)
+ Lives with at least 1 child (77) (71) (76)
+ Individual compound, isolated house (82) (50) (77)
+ Shared compound, apartment block (18) (50) (23)
+ Inhalation (51) (34) (46)
+ Tablets (orally) (48) (66) (54)
+ (99) (0) (82)
+ Type of habitation
+ Treatment administration method
+ Location until D8
+ Home only
+ First hospitalized then discharged at home before D8 (0) (29)
+ First at home then hospitalized (1) (0)
+ Hospitalization only (0) (71) (12)
+ Yes (63) (11) (54)
+ No (37) (89) (46)
+ Home-based face-to-face follow-up at D7
+ https://doi.org/10.1371/journal.pgph.0001545.t001 
+<iend>
+
+ 
+<section> “In my condition, at least on the first day, they should have kept me, monitored me, reassured
+ me, so that I could really know that [. there were people who could help me at any time,
+ 
+<section> but that was not the case.” (Burkina Faso, man, 44 y.o.)
+ 
+<section> Concerns related to the entourage. The large majority of participants (92%) were afraid
+ of transmitting COVID-19 to their family (Fig 2), and many of those who participated in the
+ qualitative interviews stated they appreciated the advice given by healthcare providers on how
+ to avoid contamination of family members and neighbors.
+ Moreover, about 25% of participants in Burkina Faso and 45% in Guinea reported being
+ concerned that their neighbors would know they were sick from COVID-19 when followed
+ home (Fig 2): in the qualitative interviews, participants explained that home visits by medical
+ teams usually trigger curiosity from neighbors–even gossip or indiscretions–, especially when
+ living in a shared compound. 
+<insert> Table 2. Description of Accept interviewees. Coverage-Africa. 2021–2022.
+ Age (in years)
+ 18–39
+ 40–59
+ 60+
+ Sex
+ Women
+ Men
+ None / Primary
+ Secondary / Professional
+ University
+ Level of schooling
+ Type of habitation
+ Individual compound, isolated house
+ Shared compound, apartment block
+ Inhalation
+ Tablets (orally)
+ Only at hospital
+ Only at home
+ First hospitalized then discharged at home between the first and the second interview
+ Yes, at least one
+ No
+ Treatment administration method
+ Location until D14-D21 interview
+ Home-based face-to-face follow-up at D7 or D14
+ * In Guinea, one participant was unable to participate in the nd interview on D14-21
+ https://doi.org/10.1371/journal.pgph.0001545.t002 
+<iend>
+
+ 
+<section> Burkina Faso (n = 16) 
+<section> Guinea (n = 8*) 
+<section> Total (n = 24)
+ 
+<section> due to a worsening of his health condition
+ 
+<section> “[. where I live, no one knows that I have COVID-19. [If doctors came to my home] it
+ could make my neighborhood aware that I am sick.” (Guinea, woman, 32 y.o.)
+ 
+<section> "[. you know, we are in a society where most of the time if you see a car arriving at some-
+ one’s place, people will ask themselves: "Ha! Why did they come to visit him?” But me, person-
+ ally I don’t mind because I was able to explain to people that it’s done as part of my treatment
+ monitoring, that’s why [the caregivers] came to visit me." (Guinea, man, 45 y.o.)
+ 
+<section> Comfort and practicality. Participants appreciated being at home while being sick from
+ Covid-19 (Fig 2); in the interviews, they reported that they felt more at ease being in their own
+ personal environment and it allowed them to do their household chores. Some women
+ explained that staying at home while they had COVID-19 allowed them to take care of their
+ children–and thus have peace of mind.
+ 
+<section> "The fact that we are at home, especially as a mother, makes me feel better, more reassured.
+ At least I can see what is going on at home." (Burkina Faso, woman, 48 y.o.)
+ 
+<section> Most participants (96%) perceived that home follow-up visits were convenient (Fig 2). As
+ explained in the interviews, they could indeed avoid the burden of going to the hospital (i.e. 
+<section> Fig 2. Participants’ experiences with the hospital-based, home-based and phone calls follow-up modalities at D8
+ within the Coverage-Africa trial. 2021–2022.
+ 
+<section> https://doi.org/10.1371/journal.pgph.0001545.g002
+ 
+<section> travel time; expenses for fuel) and the constraints and inconveniences of being in the hospital
+ (e.g. completing all the administrative procedures; waiting time).
+ 
+<section> "I prefer [that the medical follow-up team comes to my home] because it is less effort for me,
+ with the traffic in Conakry, there you come and find me at home, you do your work and
+ 
+<section> leave”. (Guinea, woman, 71 y.o.)
+ 
+<section> In both countries, all participants felt comfortable having the medical team in their home,
+ even if two persons (one in Burkina Faso, one in Guinea) reported that it was not easy to find
+ private space for the consultation (Fig 2).
+ 
+<section> Continuity of care. For participants from Guinea who were initially hospitalized, sus-
+ tained follow-up at home after hospital discharge was seen as a continuity of care. In both
+ countries, participants expressed that home visits were an indication that healthcare workers
+ were serious and took care of their patients. Some said home visits made them feel important, 
+<section> as it is unusual to have a visit from a doctor “if you are not a boss or a businessman” (Guinea,
+ man, 64 y.o.). Home visits by the medical team were also seen by some as a novelty, an excep-
+ tional innovation that deserves to be encouraged.
+ 
+<section> "Following a patient in a hospital, [. declaring him cured and coming to visit him at home,
+ asking about [his] reality, I think that this is an exceptional professionalism, it is an innova-
+ tion in health that must be encouraged. [. it shows the professionalism of the medical team
+ because we are the focus of their interest”. (Guinea, man, 64 y.o.,)
+ 
+<section> Acceptability and feasibility of hospital-based follow-up
+ 
+<section> Health considerations. In Burkina Faso, participants shared that if they had experienced
+ more severe symptoms, they would have been in favor of being followed-up as inpatients. In
+ Guinea, several participants stated they appreciated having been hospitalized and followed in
+ treatment center during the infectious phase of their disease. In both countries, participants
+ expressed a sense of reassurance that, in a hospital, there would be increased monitoring and
+ quicker intervention by health professionals if their health deteriorated; in the questionnaires,
+ all the Guinean participants (100%) declared that seeing health care professionals every day
+ was reassuring.
+ 
+<section> "[. if it’s necessary and [the doctor] feels that my condition requires internment [hospitali-
+ zation], there’s no reason for me to refuse. In my case, that was not the case." (Burkina Faso,
+ 
+<section> man, 68 y.o.)
+ 
+<section> “I think the best thing for me is to stay in the hospital until the test is negative. Because noth-
+ ing reassures me about those who are followed at home.” (Guinea, man, 45 y.o)
+ However, 50% of participants from Guinea agreed that it was difficult to be hospitalized for
+ COVID-19 while they were not having severe symptoms. As explained in the individual inter-
+ views, some participants perceived that their health condition did not require hospitalization.
+ 
+<section> “I’m here, I don’t suffer from anything, nothing hurts me, I’m only here to waste time.”
+ 
+<section> (Guinea, woman, 32 y.o.)
+ 
+<section> Concerns related to the entourage. In the interviews, hospitalization was often perceived
+ as a good strategy to prevent contamination of other family members; this was also reported
+ by 37/38 of questionnaire respondents in Guinea (Fig 2). Interviews also suggested that, in the
+ Guinean context, patients perceived hospitalization as advantageous because the neighbor-
+ hood would not know that they had COVID-19; half of the respondents to the questionnaire
+ agreed with this statement (Fig 2).
+ 
+<section> “[. no one around me knows that I am ill with COVID-19 and hospitalized at the treat-
+ ment center, for them I have traveled, I am in Kankan.” (Guinea, woman, 32 y.o.)
+ Some participants were however unhappy with hospitalization. Not being able to get out
+ from the facility was seen as a barrier to managing family life and providing basic care for their
+ children, leading to feelings of worry and frustration. Mandatory hospitalization as in Guinea
+ was even experienced by some participants as being in a prison from where they wanted to
+ leave as rapidly as possible. In addition, the ban on visitors during the COVID-19 pandemic 
+<section> led hospitalized patients to feel anxious, deprived from customary visits by at least one family
+ member for moral support and care.
+ 
+<section> "I had no choice [to be followed in a hospital]. [. my father [. told me to be brave until
+ the day I was released. But this bothers me, as I’m the head of the family. I left my child [who
+ is] ill, I had to borrow money to give to my mother so that she could send my child to a hospi-
+ tal. Every morning I have to go out to get food for my children, otherwise they can’t have food.
+ I’m here, I don’t suffer from anything, nothing hurts me, I’m here only to waste time [. for
+ nothing. [. I am really upset. [. My mother called me [to tell me] that my child is lying
+ sick, that he even had a seizure. I explained this to the doctor who [. told me to wait. I
+ waited until the evening, [and] I escaped." (Guinea, woman, 32 y.o.)
+ “I’m losing my time [. it’s not a place for leisure so I want to run away and get out.”
+ 
+<section> (Guinea, man, 64 y.o.)
+ 
+<section> Hospital environment considerations. While some patients were totally satisfied with
+ hospitalization–to the point of making one of them "forget the disease" (Guinea, man, 64 y.o.),
+ other patients shared difficult experiences of being in dirty and/or overcrowded rooms.
+ 
+<section> "I told Dr [X] that I can’t live in this, I can’t leave my home, come, and you put me in this. If
+ that’s it, I would rather stay at home and confine myself there. At home, I can’t say I have lux-
+ ury, but still, I know it’s clean. If I’m sick, I can’t come and live where it’s dirty. (Guinea,
+ 
+<section> woman, 55 y.o.)
+ 
+<section> In Burkina Faso, some participants mentioned that hospital settings were perceived as
+ poorly organized, providing inadequate quality of care at the beginning of the pandemic, and
+ were thus psychologically disruptive to COVID-19 patients (and their families). One partici-
+ pant even feared that hospitalization would equate to death.
+ 
+<section> "[. the information and images that we saw at the beginning [of the pandemic] of COVID
+ cases that were interned [i.e. hospitalized], are not very positive. When we see that, we don’t
+ expect to have all the care. So I wouldn’t want to be [hospitalized] for the study. Because we
+ get the impression that the care is not correct." (Burkina Faso, woman, 40 y.o.)
+ "All of those I knew who were hospitalized, none of them survived. They all passed away. In
+ my opinion they kill them on purpose. It looks like the doctors are giving these patients injec-
+ tions to kill them. It is for this reason that I do not like to go to the hospital." (Burkina Faso,
+ 
+<section> woman, 43 y.o.)
+ 
+<section> Acceptability and feasibility of phone follow-up
+ 
+<section> Health considerations. In both the interviews and in the questionnaire (Fig 2), phone
+ calls were mainly perceived as reassuring, as participants would be quickly assisted in case of
+ health deterioration, especially for patients followed at home. Participants underlined the
+ importance of combining telephone calls with face-to-face assessments so that the medical
+ team could assess their actual health status. Only a few people (<4%) found it difficult to talk
+ about their illness over the phone (Fig 2).
+ 
+<section> [The phone calls] are always a relief, it makes me feel better, it shows that I’m being well fol-
+ 
+<section> lowed.” (Burkina Faso, man, 46 y.o.) 
+<section> "[. through phone calls they can’t see my blood pressure and so, if they come to my house,
+ they can see my condition concretely." (Guinea, man, 45 y.o.)
+ 
+<section> Practicality. The majority of participants (>99% in Burkina Faso and 76% in Guinea)
+ reported that it was easy to find a private space to discuss on the phone with the trial medical
+ team. Yet, in Guinea, some interview respondents found it difficult especially when they were
+ hospitalized in a shared room, or in the presence of family members or visitors at the time of
+ the calls. Additionally, some spoke of missed calls, unstable telephone network, unavailability
+ of healthcare team members to answer their calls, and calls being somewhat disruptive.
+ 
+<section> "Well, that’s fine. Except that when you’re a bit busy and they call, you find that it’s a bit of
+ trick [disturbing]. Otherwise, when you’re sitting down, you have nothing to do, and then
+ they call you, [. it is not a problem." (Burkina Faso, woman, 39 y.o.)
+ 
+<section> Participants perceived that phone follow-up also presented several advantages for the medi-
+ cal team; it saved travel time especially when workload was too heavy and in the urban context
+ of Conakry where traffic jams are a daily concern.
+ 
+<section> [. we are in a city where traffic jams are legendary and the doctor also has his time, but,
+ we can use this other channel to treat, maybe we will not only save time but, they will also con-
+ sult many more patients than by [home visit]. I think it’s an excellent thing". (Guinea, man,
+ 
+<section> 64 y.o.)
+ 
+<section> Continuity of care. In the interviews, many participants considered phone calls as a way
+ to ensure continuity of care with face-to-face assessments. Phone follow-up meant that health-
+ care providers cared about their health and well-being. For some participants, telephone fol-
+ low-up was perceived as a modern model of care, a technological evolution that can be
+ considered.
+ 
+<section> « [. it is the health professionals [. who contributed to having good results by taking the
+ parameters, by giving me the medication. So if the same people after my recovery continue to
+ call me, [. I consider that I am not abandoned to myself. I am followed by professionals
+ and I know that my health is their concern.” (Guinea, man, 64 y.o.)
+ 
+<section> Discussion
+ 
+<section> The COVID-19 pandemic has led to rapid, alternative, innovative, and sometimes drastic deci-
+ sions in terms of patient management and follow-up, in response to national priorities and
+ strategies for epidemic control. It has also led to considering alternative models for implement-
+ ing clinical trials, including home-based and hybrid trials, that can include home visits and
+ remote follow-up through the use of mobile technologies [32]. Our findings inform on the
+ acceptability and feasibility of home-based and hospital-based follow-up among pauci-symp-
+ tomatic COVID-19 patients, in the context of a COVID-19 clinical trial in sub-Saharan Africa.
+ In our study, participants from Burkina Faso and Guinea were satisfied overall with the fol-
+ low-up implemented in the Coverage-Africa trial–whether they were seen by the trial medical
+ team at home or during hospitalization. They nevertheless raised some issues, mainly relating
+ to the place where they experienced their illness; however, they did not talk much about the
+ follow-up as such, the two being intertwined in their reality. Our analysis showed that factors
+ influencing their views and experiences of the appropriateness of follow-up were sometimes 
+<section> Fig 3. Factors associated with acceptability follow-ups models of care mapped according to the adaptation of the
+ 
+<section> socio-ecological model. Coverage-Africa trial. 2021–2022.
+ 
+<section> https://doi.org/10.1371/journal.pgph.0001545.g003
+ 
+<section> cognitive/rational in nature, but more importantly, emotion-related, with recurrent reference
+ to fears/worries or reassurance (Fig 3). Also, participants’ concerns pertained to individual,
+ familial/inter-relational, healthcare and national level factors. Finally, participants’ views were
+ modulated by the sociocultural context in which they live as well as by the COVID-19 national
+ recommendations.
+ 
+<section> Cognitive responses
+ 
+<section> Convenience/practicality was a key individual-level factor associated with participants’ percep-
+ tion of acceptability and feasibility of follow-up. Patients followed-up at home appreciated
+ avoiding the burden of going to the hospital (i.e. travel time; expenses of fuel), as reported in
+ study conducted in the UK [18]. Patients also shared their satisfaction with being in their own
+ environment, which they perceived as more comfortable compared to the hospital, as also
+ reported for other health conditions in the UK, South Korea and Australia [18–20].
+ As per factors having an incidence on the organization of healthcare, participants followed
+ at home did not report specific challenges with the feasibility of finding a private room/space
+ for face-to-face assessments and phone follow-ups. However, hospitalized patients in a shared
+ room reported problems finding privacy for phone follow-ups. Technical difficulties such as
+ missed calls or unstable network were among the most common challenges of phone follow-
+ up, as already well-evidenced in the field of digital health [33]. But participants also acknowl-
+ edged that phone follow-ups allowed the medical team to avoid travel and traffic congestion,
+ thereby reducing their burden–i.e. the perceived effort–related to patient follow-up. In addi-
+ tion, in Guinea, home-based follow-up after hospitalization was perceived as continuity of
+ care, which is consistent with reports from trial participants in the UK [18].
+ 
+<section> Emotional responses
+ 
+<section> Participants’ perception of the severity of their COVID-19 symptoms emerged as the most
+ important criterion for judging the appropriateness of the follow-up models in the context of 
+<section> their participation in the Coverage-Africa trial. Indeed, patients who perceived their symptoms
+ as mild found it appropriate to be followed at home, as long as they were reassured through the
+ phone follow-up and the possibility to contact the medical team by telephone if necessary. In
+ contrast, the hospital setting was considered more reassuring–and therefore more acceptable–
+ for patients with moderate to severe symptoms, in that they could benefit from more rapid
+ assessment and care if their health deteriorated. This need for reassurance stems from the fear
+ of physical and psychological suffering and the fear of dying, which are related to the need for
+ safety–which is recognized as a basic human need according to Maslow’s hierarchy [34].
+ Several participants alluded to both family support and family commitments as key drivers of
+ the acceptability of different follow-up models. Among hospitalized participants, the inability to
+ have a family member at their bedside was a source of distress, as also showed in a study con-
+ ducted in Austria among hospitalized patients with severe symptoms [17]. Social support is
+ indeed important in times of hardship, especially in the case of emerging epidemics [35, 36], as
+ well as in the West African collectivist context of strong solidarity [37]. Hospitalized mothers also
+ expressed worries and stress about being unable to manage their household and leaving their
+ young children without care. Correspondingly, mothers who were followed-up at home appreci-
+ ated being able to look after the well-being of their family. In settings where there are no or lim-
+ ited social safety nets, parents–and especially mothers–must rely on their own means to take on
+ their daily lives and, in some cases, to ensure their survival and that of their children [25].
+ As per inter-relational factors, the acceptability of home-based follow-up was influenced, for
+ some participants by the fear of stigmatization–particularly among those living in conditions
+ where they could easily be observed by the neighborhood (e.g. shared compound). Although
+ stigma and ostracism appear to be an adaptive response to allow uninfected individuals to avoid
+ contracting the COVID-19 disease [38, 39], this social exclusion can cause shame and affect the
+ psychological well-being of those who experience it [40, 41], especially in the West African col-
+ lectivist context where social ties are central [42–45]. In Guinea, our study carried out with
+ community members showed that some people prefer to avoid disclosing that they have been
+ infected in order to prevent any possible stigma [37]. Hospitalization may be a better option for
+ those patients who wish to remain discreet about their SARS-CoV-2 infection, compared to
+ home follow-up. Nevertheless, others participants, especially in Burkina Faso, appreciated that
+ the trial medical team came to their homes and took into account their physical living environ-
+ ment by giving advice on how to prevent contamination of relatives and neighbors. Overall, our
+ findings suggest that the individual’s immediate social environment (e.g. shared vs individual
+ compound) should be part of the considerations for successful health interventions.
+ Finally, a national level factor emerged from the narratives in Guinea, where hospitalization
+ of all COVID+ individuals in an “epidemiological treatment center” was mandatory. In this
+ context, some participants experienced this obligation as imprisonment; cases of “escape”
+ from these treatment centers were reported. We hypothesize that such reactions stem, among
+ other things, from the social context of mistrust of the Guinean government and health
+ authorities, as reported by community members in Conakry [37]. These findings suggest that
+ policies involving mandatory hospitalization of COVID-19 patients might have led, and could
+ lead to in the future if replicated, some people to avoid being tested for COVID-19, thus pre-
+ venting them from receiving appropriate care and risking contaminating their family/entou-
+ rage, which could be counterproductive in terms of epidemic control.
+ 
+<section> Strengths and limitations of the study
+ 
+<section> To our knowledge, this study is the first to explore the acceptability and feasibility, from the
+ perspective of West African participants, of different follow-up models for patients with mild 
+<section> to moderate infectious disease in the context of their participation in a clinical trial. This study
+ used a mixed-methods design that included, among others, implementation research and
+ social science concepts and research tools. The qualitative sample was characterized by a selec-
+ tion of participants with diversified profiles in terms of age, sex and level of schooling, which
+ allowed us to elicit a variety of points of view. The findings showed a convergence between
+ qualitative and quantitative data, thus contributing to the validity of our results. The fact that
+ the study was conducted in two West African countries allowed us to explore two different
+ local contexts and national policies and sociocultural specificities. Our multidisciplinary team
+ of social science researchers, public health experts, medical doctors (including infectious dis-
+ eases specialists) and epidemiologists from Burkina Faso, Guinea and France, contributed to
+ enhancing the richness of data collected and to validating the scientific and sociocultural inter-
+ pretations of the data. Moreover, we used an in-depth analysis methodology, which was based
+ on a comprehensive conceptual framework, allowing for a thorough investigation of the issues
+ at stake.
+ Yet, we acknowledge some limitations regarding this study. We included only individuals
+ who already consented to participate in the trial, i.e. de facto had accepted the models of fol-
+ low-up proposed in the trial (aligned to that of the country). In Guinea, national recommenda-
+ tions at the time of the trial—i.e. all individuals who tested positive for COVID-19 had to be
+ hospitalized—may have caused some people to avoid getting tested [37]: this could potentially
+ affect the profile of the patients enrolled in the trial if the latter had different characteristics
+ compared to the patients included. Also, one of the documented reasons for refusal to partici-
+ pate in the Coverage-Africa trial was the fear of a high number of follow-up visits and calls;
+ therefore, the fact that participants in the ‘Accept study’ had already agreed to take part in the
+ trial and therefore to these follow-up conditions, suggests a possible selection bias leading to
+ higher acceptability. Many participants had a “privileged” profile, i.e. living in a home with a
+ private yard or having a relatively high level of education, which may explain why few of them
+ reported fearing stigmatization; this potential socioeconomic bias related to participant selec-
+ tion may also have prevented the identification of structural barriers regarding home and
+ phone-based follow-up, such as access to individual rooms. Several trial participants who con-
+ sented to participate in the ‘Accept’ sub-study did not ultimately complete the questionnaire.
+ This was mainly due to the fact that there was no available research assistant in Burkina Faso
+ for some time; also some participants did not answer the phone calls from interviewers. How-
+ ever, as these non-respondents did not differ from the other participants in terms of sex and
+ age, we believe there is a low risk of selection bias. In addition, although the number of partici-
+ pants included in Burkina Faso is relatively high, it is quite small in Guinea due to the epi-
+ demic curve (i.e. low number of confirmed cases at the time of the study), which limits the
+ estimation of observations regarding the quantitative component in this country. Moreover,
+ the questionnaire was drafted in a very short period of time, in the context of an epidemic
+ emergency where the research protocol and tools had to be quickly submitted for ethical
+ approval; some questions may have been too simplistic. This may explain the lack of diversity
+ and contrast in some responses, and thus consequently that we were unable to perform statisti-
+ cal tests to determine whether certain socio-demographic factors were associated with partici-
+ pants’ perceptions. As stated above, we have not assessed the experiences of being followed-up
+ in outpatient settings in Burkina Faso; this modality would benefit from evaluation to inform
+ future clinical trials. Also, we have used Sekhon’s Theoretical Framework of Acceptability only
+ at the analysis phase and not specifically for the development of the questionnaire and the
+ interview guide: this may explain why we did not find results for all constructs of acceptability
+ (as shown in the S1 Table). Both quantitative and qualitative data were collected by phone; this
+ may have impaired the rapport between the interviewers and the interviewees thus creating 
+<section> environment less conducive to the free expression of experiences and feelings [46]. Partici-
+ pants may have minimized their experiences/points of view about their participation in the
+ trial because of social desirability towards the interviewer; however, the interviewers were
+ independent of the medical team so we are confident that this prevarication bias was limited.
+ In addition, patients mostly reported views about the place where they were followed-up rather
+ than their views about the follow-up by healthcare professionals per se; this may have led to
+ some confusion, especially in Guinea where all patients were hospitalized at the onset of their
+ infection, as interactions with healthcare professionals who were not directly involved in the
+ trial might have influenced their perspectives and experiences of the trial follow-up. Finally,
+ the study was conducted in two urban settings: results might not be fully applicable to West-
+ African rural settings.
+ 
+<section> Conclusions
+ 
+<section> The COVID-19 pandemic "catalyzed" the implementation of out-of-hospital follow-up models
+ for clinical trials, such as home and telephone follow-ups. Our study shows that home follow-
+ up in the context of a clinical trial was acceptable for mildly ill West-African patients, mainly
+ provided that (i) they did not perceive their illness as too severe, (ii) it was combined with tele-
+ medicine, and (iii) risk of stigma could be avoided. The implementation of strategies to
+ decrease the risk and/or fear of stigma and help communities to better deal with emerging
+ infectious diseases is key to ensure good follow-up conditions for patients and trial partici-
+ pants. Furthermore, home follow-up was generally preferred, especially by mothers who could
+ continue to care for their children. Our results also highlight the importance of emotions in
+ the acceptability of trial follow-up models and suggest that emotion-based considerations
+ should be included when assessing the feasibility and planning the implementation of a trial,
+ or developing any public health strategy. Furthermore, not taking into account emotional
+ imperatives may have an incidence on patients’ mental health–by generating worries, stress,
+ distress, anxiety, shame, etc.–which is counterproductive in the context of healthcare, and
+ even deleterious. The results of this study highlighted the importance the importance to con-
+ duct formative research on patients’ perspectives, concerns and needs according to their living
+ contexts, when planning clinical trials, especially in the context of an epidemic emergency.
+ Also, the recommendations of this study will inform health policy makers on the acceptability
+ and feasibility of models for following patients who are not severely ill, as well as researchers
+ for the design of clinical trials to evaluate the effectiveness of treatments.
+ 
+<section> Supporting information
+ 
+<section> S1 Table. Participants’ subjective assessment of the appropriateness of the different fol-
+ low-up models of the Coverage-Africa trial, mapped according to the Theoretical Frame-
+ work of Acceptability (Sekhon et al.,2017). 2021–2022.
+ 
+<section> (DOCX)
+ 
+<section> Acknowledgments
+ 
+<section> We would first like to thank all study participants as well as the medical teams involved in the
+ follow-up of participants in Burkina Faso and Guinea. We also would like to thank Dr. Mat-
+ thias Borchert for feedback on protocol and interview guide development. We are grateful to
+ the ANRS | MIE, sponsor of the ANRS COV33 Coverage-Africa trial, as well as to DNDi, the
+ leading institution of the ANTICOV study consortium and more specifically to its coordinator
+ Dr. Nathalie Strub-Wourgaft, for their support. We would also like to thank Dr. Aminata 
+<section> Bagayoko who led the fieldwork in Conakry from the onset of the project until August 1st,
+ 2021, as well as to Dr. Camille Fritzell who acted as the international project manager until
+ October 2021.
+ 
+<section> Author Contributions
+ 
+<section> Conceptualization: Mélanie Plazy, Marie-Hélène Doucet, Joanna Orne-Gliemann.
+ 
+<section> Data curation: Mélanie Plazy, Marie-Hélène Doucet, Christine Timbo Songbono, Anselme
+ Sanon, Bamba Issiaka.
+ 
+<section> Formal analysis: Mélanie Plazy, Marie-Hélène Doucet.
+ 
+<section> Investigation: Christine Timbo Songbono, Anselme Sanon, Bamba Issiaka.
+ 
+<section> Methodology: Mélanie Plazy, Marie-Hélène Doucet, Joanna Orne-Gliemann.
+ 
+<section> Project administration: Caroline Martin, Anthony L’hostellier.
+ 
+<section> Software: Mélanie Plazy, Marie-Hélène Doucet.
+ 
+<section> Validation: Joanna Orne-Gliemann.
+ 
+<section> Writing – original draft: Mélanie Plazy, Marie-Hélène Doucet.
+ 
+<section> Writing – review & editing: Christine Timbo Songbono, Anselme Sanon, Bamba Issiaka,
+ Caroline. Martin, Inès Da, Anthony L’hostellier, Olivier Marcy, Denis Malvy, Armel Poda,
+ Alexandre Delamou, Abdramane Berthé, Joanna Orne-Gliemann.
+ 
+<section> References
+ 
+<section> World Health Organization. WHO Coronavirus (Covid-19) dashboard: situation by region. 2022 [cited
+ Jun 2022]. Available: https://covid19.who.int/table
+ Lewis HC, Ware H, Whelan M, Subissi L, Li Z, Ma X, et al. SARS-CoV-2 infection in Africa: a systematic
+ review and meta-analysis of standardised seroprevalence studies, from January 2020 to December
+ 2021. BMJ Glob Health. 2022; 7: e008793. https://doi.org/10.1136/bmjgh-2022-008793 PMID:
+ 
+<section> 35998978
+ Afolabi MO, Folayan MO, Munung NS, Yakubu A, Ndow G, Jegede A, et al. Lessons from the Ebola epi-
+ demics and their applications for COVID-19 pandemic response in sub-Saharan Africa. Dev World
+ Bioeth. 2021; 21: 25–30. https://doi.org/10.1111/dewb.12275 PMID: 32654261
+ Impouma B, Williams GS, Moussana F, Mboussou F, Farham B, Wolfe CM, et al. The first 8 months
+ COVID-19 pandemic in three West African countries: leveraging lessons learned from responses to the
+ 2014–2016 Ebola virus disease outbreak. Epidemiol Infect. 2021; 149: e258. https://doi.org/10.1017/
+ 
+<section> S0950268821002053 PMID: 34493348
+ Waya JLL, Ameh D, Mogga JLK, Wamala JF, Olu OO. COVID-19 case management strategies: what
+ are the options for Africa? Infect Dis Poverty. 2021; 10: 30. https://doi.org/10.1186/s40249-021-00795-
+ 
+<section> 7 PMID: 33731226
+ Rwafa-Ponela T, Price J, Nyatela A, Nqakala S, Mosam A, Erzse A, et al. “We Were Afraid”: Mental
+ Health Effects of the COVID-19 Pandemic in Two South African Districts. Int J Environ Res Public
+ Health. 2022; 19: 9217. https://doi.org/10.3390/ijerph19159217 PMID: 35954573
+ Schmidt T, Cloete A, Davids A, Makola L, Zondi N, Jantjies M. Myths, misconceptions, othering and
+ stigmatizing responses to Covid-19 in South Africa: A rapid qualitative assessment. PloS One. 2020;
+ 15: e0244420. https://doi.org/10.1371/journal.pone.0244420 PMID: 33351852
+ Folayan MO, Ibigbami O, Brown B, El Tantawi M, Aly NM, Zuñiga RAA, et al. Fear of contagion, emo-
+ tional stress and coping strategies used by adults during the first wave of the COVID-19 pandemic in
+ Nigeria. BMC Psychiatry. 2022; 22: 732. https://doi.org/10.1186/s12888-022-04360-w PMID:
+ 
+<section> 36424567
+ Adom D, Mensah JA, Osei M. The psychological distress and mental health disorders from COVID-19
+ stigmatization in Ghana. Soc Sci Humanit Open. 2021; 4: 100186. https://doi.org/10.1016/j.ssaho.
+ 
+<section> 2021.100186 PMID: 34250461 
+<section> Babatunde OA, Owoicho SA, Sunday ST, Akande A, Yesufu BM, Akanbi IM, et al. An Assessment of
+ Perceived Stigmatization of Patients Infected with COVID-19 in the Nation’s Epicenter of the Pandemic:
+ A Cross-Sectional Study of Residents of Agege, Lagos, Nigeria. West Afr J Med. 2021; 38: 1206–1215.
+ https://doi.org/10.55891/wajm.v39i1.100 PMID: 35037451
+ Cénat JM, Dalexis RD, Guerrier M, Noorishad P-G, Derivois D, Bukaka J, et al. Frequency and corre-
+ lates of anxiety symptoms during the COVID-19 pandemic in low- and middle-income countries: A multi-
+ national study. J Psychiatr Res. 2021; 132: 13–17. https://doi.org/10.1016/j.jpsychires.2020.09.031
+ 
+<section> PMID: 33035760
+ Cénat JM, Noorishad P-G, Kokou-Kpolou CK, Dalexis RD, Hajizadeh S, Guerrier M, et al. Prevalence
+ and correlates of depression during the COVID-19 pandemic and the major role of stigmatization in low-
+ and middle-income countries: A multinational cross-sectional study. Psychiatry Res. 2021; 297:
+ 113714. https://doi.org/10.1016/j.psychres.2021.113714 PMID: 33453497
+ Cénat JM, Farahi SMMM, Dalexis RD, Darius WP, Bukaka J, Balayulu-Makila O, et al. Mental distress
+ before and during the COVID-19 pandemic: A longitudinal study among communities affected by Ebola
+ virus disease in the DR Congo. Psychiatry Res. 2022; 314: 114654. https://doi.org/10.1016/j.psychres.
+ 
+<section> 2022.114654 PMID: 35660968
+ National Library of Medicine (U.S.). ClinicalTrials.gov: Interventional Studies on COVID-19. 11 Oct
+ 2022 [cited 11 Oct 2022]. Available: https://clinicaltrials.gov/ct2/results?cond=COVID-19&age_v=
+ 
+<section> &gndr=&type=Intr&rslt=&Search=Apply
+ Edem B, Williams V, Onwuchekwa C, Umesi A, Calnan M. COVID-19-related research in Africa: a
+ cross-sectional review of the International Clinical Trial Registration Platform (ICTRP). Trials. 2021; 22:
+ 682. https://doi.org/10.1186/s13063-021-05621-x PMID: 34620207
+ Dillman A, Zoratti MJ, Park JJH, Hsu G, Dron L, Smith G, et al. The Landscape of Emerging Random-
+ ized Clinical Trial Evidence for COVID-19 Disease Stages: A Systematic Review of Global Trial Regis-
+ tries. Infect Drug Resist. 2020; 13: 4577–4587. https://doi.org/10.2147/IDR.S288399 PMID: 33376364
+ Hofstetter L, Tinhof V, Mayfurth H, Kurnikowski A, Rathkolb V, Reindl-Schwaighofer R, et al. Experi-
+ ences and challenges faced by patients with COVID-19 who were hospitalised and participated in a ran-
+ domised controlled trial: a qualitative study. BMJ Open. 2022; 12: e062176. https://doi.org/10.1136/
+ 
+<section> bmjopen-2022-062176 PMID: 36220325
+ Dismore LL, Echevarria C, van Wersch A, Gibson J, Bourke S. What are the positive drivers and poten-
+ tial barriers to implementation of hospital at home selected by low-risk DECAF score in the UK: a quali-
+ tative study embedded within a randomised controlled trial. BMJ Open. 2019; 9: e026609. https://doi.
+ org/10.1136/bmjopen-2018-026609 PMID: 30948606
+ Jang H, Kim S, Kim D, Park M, Rhue S, Lee C, et al. “It’s a part of the patient”: The experiences of
+ patients with cancer undergoing home-based chemotherapy from patients’ and nurses’ perspectives.
+ Asia-Pac J Oncol Nurs. 2022; 9: 100072. https://doi.org/10.1016/j.apjon.2022.04.011 PMID: 35692730
+ Wallis JA, Gearon E, Naylor J, Young K, Zayontz S, Risbey P, et al. Barriers, enablers and acceptability
+ of home-based care following elective total knee or hip replacement at a private hospital: A qualitative
+ study of patient and caregiver perspectives. PloS One. 2022; 17: e0273405. https://doi.org/10.1371/
+ 
+<section> journal.pone.0273405 PMID: 36001608
+ Miles MB, Huberman AM, Saldana J. Qualitative data analysis: A methods sourcebook (4th edition).
+ Thousand Oaks, United States of America, SAGE Publications. 2018.
+ Sekhon M, Cartwright M, Francis JJ. Acceptability of healthcare interventions: an overview of reviews
+ and development of a theoretical framework. BMC Health Serv Res. 2017; 17: 88. https://doi.org/10.
+ 1186/s12913-017-2031-8 PMID: 28126032
+ O’Cathain A, Hoddinott P, Lewin S, Thomas KJ, Young B, Adamson J, et al. Maximising the impact of
+ qualitative research in feasibility studies for randomised controlled trials: guidance for researchers. Pilot
+ Feasibility Stud. 2015; 1: 32. https://doi.org/10.1186/s40814-015-0026-y PMID: 27965810
+ McLeroy KR, Bibeau D, Steckler A, Glanz K. An ecological perspective on health promotion programs.
+ Health Educ Q. 1988; 15: 351–377. https://doi.org/10.1177/109019818801500401 PMID: 3068205
+ Vuarin R, Leimdorfer F, Werner JF, Gérard E, Tiékoura O. L’Afrique des individus. Itinéraires citadins
+ dans l’Afrique contemporaine (Abidjan, Bamako, Dakar, Niamey). Édition Karthala. Paris, France.
+ 1997.
+ Triandis HC. Individualism-Collectivism and Personality. J Pers. 2001; 69: 907–924. https://doi.org/10.
+ 1111/1467-6494.696169 PMID: 11767823
+ Epstein J, Santo RM, Guillemin F. A review of guidelines for cross-cultural adaptation of questionnaires
+ could not bring out a consensus. J Clin Epidemiol. 2015; 68: 435–441. https://doi.org/10.1016/j.jclinepi.
+ 
+<section> 2014.11.021 PMID: 25698408
+ Green J, Thorogood N. Qualitative methods for health research (3rd ed.). London: SAGE Publications
+ Ltd. 2014. 
+<section> Ritchie J, Spencer L. Qualitative Data Analysis for Applied Policy Research. The Qualitative Research-
+ er’s Companion. Thousand Oaks California, United States of America: SAGE Publications, Inc.;
+ 2002. pp. 305–329. https://doi.org/10.4135/9781412986274.n12
+ 
+<section> Gale NK, Heath G, Cameron E, Rashid S, Redwood S. Using the framework method for the analysis
+ qualitative data in multi-disciplinary health research. BMC Med Res Methodol. 2013; 13: 117. https://
+ doi.org/10.1186/1471-2288-13-117 PMID: 24047204
+ 
+<section> Geertz C. The Javanese Kijaji: The Changing Role of a Cultural Broker. Comp Stud Soc Hist. 1960; 2:
+ 228–249. https://doi.org/10.1017/S0010417500000670
+ 
+<section> Emson C, Diver S, Chachi L, Megally A, Small C, Downie J, et al. CASCADE: a phase 2, randomized,
+ double-blind, placebo-controlled, parallel-group trial to evaluate the effect of tezepelumab on airway
+ inflammation in patients with uncontrolled asthma. Respir Res. 2020; 21: 265. https://doi.org/10.1186/
+ 
+<section> s12931-020-01513-x PMID: 33050900
+ 
+<section> Opoku D, Stephani V, Quentin W. A realist review of mobile phone-based health interventions for non-
+ communicable disease management in sub-Saharan Africa. BMC Med. 2017; 15: 24. https://doi.org/10.
+ 1186/s12916-017-0782-z PMID: 28162090
+ 
+<section> Maslow AH. A theory of human motivation. Psychol Rev. 1943; 50: 370–396. https://doi.org/10.1037/
+ 
+<section> h0054346
+ 
+<section> Leung CMC, Ho MK, Bharwani AA, Cogo-Moreira H, Wang Y, Chow MSC, et al. Mental disorders fol-
+ lowing COVID-19 and other epidemics: a systematic review and meta-analysis. Transl Psychiatry.
+ 2022; 12: 205. https://doi.org/10.1038/s41398-022-01946-6 PMID: 35581186
+ Kunzler AM, Stoffers-Winterling J, Stoll M, Mancini AL, Lehmann S, Blessin M, et al. Mental health and
+ psychosocial support strategies in highly contagious emerging disease outbreaks of substantial public
+ concern: A systematic scoping review. PloS One. 2021; 16: e0244748. https://doi.org/10.1371/journal.
+ 
+<section> pone.0244748 PMID: 33534786
+ 
+<section> Doucet M-H, Songbono CT, Plazy M, Martin C, Fritzell C, Sow MS, et al. Perceptions of COVID-19
+ among communities of Conakry (Guinea): a qualitative study exploring the context of the ANRS COV33
+ Coverage-Africa therapeutic trial. BMJ Open. 2022; 12: e061715. https://doi.org/10.1136/bmjopen-
+ 
+<section> 2022-061715 PMID: 36574985
+ 
+<section> Demirtaş-Madran HA. Exploring the Motivation Behind Discrimination and Stigmatization Related to
+ 
+<section> COVID-19: A Social Psychological Discussion Based on the Main Theoretical Explanations. Front Psy-
+ chol. 2020; 11: 569528. https://doi.org/10.3389/fpsyg.2020.569528 PMID: 33281671
+ Oaten M, Stevenson RJ, Case TI. Disease avoidance as a functional basis for stigmatization. Philos
+ Trans R Soc B Biol Sci. 2011; 366: 3433–3452. https://doi.org/10.1098/rstb.2011.0095 PMID:
+ 
+<section> 22042920
+ 
+<section> Cénat JM, McIntee S-E, Guerrier M, Derivois D, Rousseau C, Dalexis RD, et al. Psychological distress
+ among adults from the urban and rural areas affected by the Ebola virus disease in the Democratic
+ Republic of the Congo. Soc Psychiatry Psychiatr Epidemiol. 2021; 56: 57–62. https://doi.org/10.1007/
+ 
+<section> s00127-020-01904-x PMID: 32537693
+ 
+<section> Crea TM, Collier KM, Klein EK, Sevalie S, Molleh B, Kabba Y, et al. Social distancing, community
+ stigma, and implications for psychological distress in the aftermath of Ebola virus disease. PloS One.
+ 2022; 17: e0276790. https://doi.org/10.1371/journal.pone.0276790 PMID: 36322544
+ Papadopoulos C, Foster J, Caldwell K. “Individualism-collectivism” as an explanatory device for mental
+ illness stigma. Community Ment Health J. 2013; 49: 270–280. https://doi.org/10.1007/s10597-012-
+ 
+<section> 9534-x PMID: 22837106
+ 
+<section> Sylla G. Ce que la COVID-19 fait aux relations sociales [Guinée]. ARIACOV_ APHRO-COV confer-
+ ence. 2021. Available: https://aphro-cov.com/wp-content/uploads/2021/03/APHRO-CoV_
+ Webinaire27_experienceGuinee_GSylla.pdf
+ 
+<section> Chap Goffman E. 10. Selections from Stigma. 2nd ed. In: Davis LJ, editor. The Disability Studies
+ Reader. 2nd ed. Routledge; 2006. pp. 131–140.
+ 
+<section> Shin H, Dovidio J, Napier J. Cultural Differences in Targets of Stigmatization Between Individual- and
+ Group-Oriented Cultures. Basic Appl Soc Psychol. 2013; 35: 98–108. https://doi.org/10.1080/
+ 
+<section> 01973533.2012.746604
+ 
+<section> Hensen B, Mackworth-Young CRS, Simwinga M, Abdelmagid N, Banda J, Mavodza C, et al. Remote
+ data collection for public health research in a COVID-19 era: ethical implications, challenges and oppor-
+ tunities. Health Policy Plan. 2021; 36: 360–368. https://doi.org/10.1093/heapol/czaa158 PMID:
+ 
+<section> 33881138

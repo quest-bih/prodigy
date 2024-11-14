@@ -1,0 +1,1504 @@
+
+<section> Effect of a multifaceted intervention
+ 
+<section> quality of care through stepwise certification
+ 
+<section> health-care facilities in Tanzania: a cluster-randomised
+ 
+<section> controlled trial
+ 
+<section> Jessica J C King, Timothy Powell-Jackson, Christina Makungu, Nicole Spieker, Peter Risha,
+ 
+<section> Summary
+ 
+<section> Background Quality of care is consistently shown to be inadequate
+ middle-income countries, including in private facilities, which are rapidly
+ effective quality stewardship mechanisms. The SafeCare programme
+ a standards-based approach adapted to low-resource settings, involving
+ to loans, to improve clinical quality and facility business performance.
+ programme on quality of patient care in faith-based and private for-profit
+ 
+<section> Methods In this cluster-randomised controlled trial, health facilities
+ centres, or hospitals in the faith-based or private for-profit sectors in
+ using computer-generated stratified randomisation to receive the
+ assessment only (control). Implementing staff and participants were
+ primary outcomes were measured by fieldworkers who had no knowledge
+ outcomes were health worker compliance with infection prevention
+ observation of provider–patient interactions, and correct case management
+ endline (after a minimum of 18 months). Analyses were by modified
+ 
+<section> ISRCTN, ISRCTN93644888.
+ 
+<section> Findings Between March 7 and Nov 30, 2016, we enrolled and
+ intervention (n=118) or control (n=119). Nine facilities (seven intervention
+ during the trial and were not included in the analysis. We observed
+ interactions between Feb 7 and April 5, 2018. Health facilities received
+ May 3 and June 12, 2018. Intervention facilities had a 4·4 percentage
+ SafeCare standards assessment score at endline than control facilities.
+ in clinical quality between intervention and control groups at endline.
+ 8181 (56·9%) of 14 366 indications in intervention facilities and 8336
+ (absolute difference 2·2 percentage points, 95% CI –0·2 to –4·7;
+ 120 (27·0%) of 444 standardised patients in the intervention group
+ (absolute difference –2·8 percentage points, 95% CI –8·6 to –3·1; p=0·36).
+ 
+<section> Interpretation SafeCare did not improve clinical quality as assessed by
+ management. The absence of effect on clinical quality could reflect
+ intensity, insufficient links between structural quality and care
+ improvement, and inadequate financial and regulatory incentives for
+ 
+<section> Funding UK Health Systems Research Initiative (Medical Research
+ UK Department for International Development, Global Challenges
+ 
+<section> Copyright © 2021 The Author(s). Published by Elsevier Ltd. This is an
+ 
+<section> Introduction middle-income
+ Quality of care has risen high up the global health policy consistently
+ agenda. Together with expanding coverage and financial LMICs
+ protection, quality of care is a key component of health half of
+ reforms inspired by universal health coverage. 1,2 Poor for serious
+ quality of care is estimated to result in approximately medicines
+ 5·7–8·4 million deaths per year in low-income and Health-care-associated
+ 
+<section> Articles
+ 
+<section> to improve clinical
+ 
+<section> (SafeCare) in
+ 
+<section> Abdallah Mkopi, Catherine Goodman
+ 
+<section> in health-care settings in many low-income and Lancet Glob Health 2021
+ growing in number but often do not have Published 
+<section> Online
+ aims to address this gap in quality of care, using August 4, 2021
+ assessments, mentoring, training, and access https://doi.org/10.1016/
+ 
+<section> We assessed the effect of the SafeCare S2214-109X(21)00228-X
+ 
+<section> facilities in Tanzania. See 
+<section> Online/Comment
+ 
+<section> https://doi.org/10.1016/
+ 
+<section> S2214-109X(21)00286-2
+ were eligible if they were dispensaries, health London School of Hygiene &
+ Tanzania. We randomly assigned facilities (1:1) Tropical Medicine, London, UK
+ full SafeCare package (intervention) or an (J J C King MSc,
+ masked to outcome measurement and the T Powell-Jackson PhD,
+ 
+<section> Prof C Goodman PhD); 
+<section> Ifakara
+ of the study group allocation. The primary Health Institute, Dar es Salaam,
+ and control (IPC) practices as measured by Tanzania (C Makungu MA,
+ of undercover standardised patients at A Mkopi PhD); 
+<section> PharmAccess
+ intention to treat. The trial is registered with International, Amsterdam,
+ 
+<section> Netherlands (N Spieker PhD);
+ 
+<section> PharmAccess Tanzania, Dar es
+ 
+<section> Salaam, Tanzania (P Risha PhD)
+ randomly assigned 237 health facilities to the 
+<section> Correspondence to:
+ facilities and two control facilities) closed Ms Jessica King, London School
+ 29 608 IPC indications in 5425 provider–patient of Hygiene and Tropical
+ 
+<section> Medicine, London WC1H 9SH,
+ visits from 909 standardised patients between UK
+ point (95% CI 0·9–7·7; p=0.015) higher mean jessica.king@lshtm.ac.uk
+ 
+<section> However, there was no evidence of a difference
+ Compliance with IPC practices was observed in
+ (54·7%) of 15 242 indications in control facilities
+ p=0·071). Correct management occurred in
+ and in 136 (29·2%) of 465 in the control group
+ 
+<section> compliance with IPC practices and correct case
+ a combination of insufficient intervention
+ processes, scarcity of resources for quality
+ improvement.
+ 
+<section> Council, Economic and Social Research Council,
+ Research Fund, and Wellcome Trust).
+ 
+<section> Open Access article under the CC BY 4.0 license.
+ 
+<section> countries (LMICs), 3 where patient care is
+ shown to be inadequate. In primary care in
+ it is common for outpatients to receive less than
+ the recommended clinical actions, 2,4 diagnoses
+ conditions are frequently incorrect, 5,6 and
+ are widely under-provided and over-provided.
+ 
+<section> infections con­ 
+<section> tinue to be an 
+<section> Articles
+ 
+<section> Research in context
+ 
+<section> Evidence before this study
+ We searched for studies English, published up to December,
+ 2019, that evaluated the effect of interventions working with
+ private facilities on clinical quality of care in low-income and
+ middle-income countries (LMICs), using PubMed, Web of
+ Science, and Google Scholar (formal literature) and websites of
+ key donor agencies, research institutions, private sector-focused
+ consultancies, non-governmental organisations, and academic
+ organisations including Private Health in Developing Countries,
+ The World Bank, US Agency for International Development,
+ Population Services International, Private Sector Partnerships
+ One, Health Systems 20/20, Reproductive Health Vouchers, and
+ the UK Department for International Development (grey
+ literature), using terms related to the domains of “private”,
+ “LMIC”, and a range of interventions (eg, “social franchising”).
+ No evaluations of SafeCare or similar models in private facilities
+ were identified. We reviewed controlled evaluations of
+ accreditation and social franchising interventions, which have
+ some similar components to SafeCare: three randomised
+ important threat to patient safety, reflecting poor infection
+ prevention and control (IPC) practices. 2,8
+ There are concerns regarding quality of care in both
+ the public and private health-care sector. 2 The private
+ sector is a substantial and growing provider of health
+ services in many LMICs, responsible for around 63–67%
+ of health care for sick children and 30–39% of maternal
+ health care when averaged across 70 LMICs. 9 Such high
+ use of private health care partly reflects the established
+ use of private medicine retailers and the provision of
+ private health care by faith-based organisation facilities,
+ but the use of for-profit private clinics and hospitals has
+ grown rapidly in recent decades, reflecting urbanisation,
+ the growth of the middle class, rising expectations of
+ quality not met by the public sector, and empanelment of
+ private facilities within social health insurance systems.
+ Quality of care is extremely variable across such private
+ health-care facilities, 12,13 and there are concerns about
+ the scarcity of effective quality stewardship mechanisms
+ for this sector. 14 Statutory regulation of private facilities
+ is typically very weak, with rare inspection and
+ erratic enforcement, reflecting inadequate resources and
+ capacity at the national level. 15 Although health-care
+ accreditation systems can, in theory, complement or
+ substitute regulation of the facilities to some degree, the
+ standards required by international accreditation bodies
+ seem unattainable and the process too expensive for the
+ vast majority of private facilities in LMICs. Alternative
+ strategies to improve the quality of care in private facilities
+ have been tried, including provider training, social
+ franchising, and quality improvement cycles. 15 However,
+ the evidence base on the effectiveness of these strategies
+ is scarce. Although there is some evidence that social
+ franchising improves quality as perceived by patients,
+ controlled trials found no or weak efficacy with regard to clinical
+ quality, while three non-randomised studies had mixed effects,
+ and might have been affected by selection bias.
+ 
+<section> Added value of this study
+ This study is the first evaluation of the effect of SafeCare on
+ clinical quality of care, and one of very few randomised controlled
+ trials on any intervention aiming to improve quality in the private
+ sector in LMICs. The SafeCare intervention led to a small
+ improvement in adherence to SafeCare standards, but there was
+ no effect on clinical quality of care.
+ 
+<section> Implications of all the available evidence
+ The SafeCare programme can improve structural quality, but
+ there is no evidence that, at the intensity usually implemented,
+ it has an effect on clinical quality of care. Improving clinical
+ quality of care remains an important challenge and the
+ evidence base does not yet provide guidance on which
+ approaches are most promising.
+ 
+<section> there is no robust evidence that any of these strategies
+ improve clinical quality of care in an operational setting.
+ These quality-of-care concerns led to the development
+ of the SafeCare model, an innovative approach that adapts
+ international accreditation standards to low-resource
+ settings and supports health facilities to attain higher
+ standards, recognising improvement through stepwise
+ formal certification. 17 SafeCare is a multifaceted inter­
+ vention. At its heart are the SafeCare standards, a
+ comprehensive set of measurable indicators, which are
+ used to assess health facilities and assign them to one of
+ five quality levels from the lowest (1) to the highest (5).
+ The standards cover clinical care, ancillary services, and
+ management processes, and are accredited by the
+ International Society for Quality in Health Care, having
+ been designed in partnership with the Joint Commission
+ International and the Council for Health Service
+ Accreditation of Southern Africa. 18 SafeCare standards
+ address the full range of a facility’s operations, in contrast
+ to many other quality improvement interventions that
+ focus on specific clinical areas or target individual
+ clinicians. 19 Following a SafeCare assessment, facilities
+ receive a tailored quality improvement plan, with
+ implementation supported through clinical and business
+ training, mentoring visits, and access to loans. Facilities
+ receive a repeat SafeCare assessment after 1–2 years, with
+ the intention that they gradually progress through the
+ quality levels. With multiple components to the
+ intervention there are numerous ways to improve, but the
+ essence of the theory of change is that a greater adherence
+ to SafeCare standards will lead to improvements in
+ clinical quality, and business support will improve the
+ facility’s financial performance. The intention is to create
+ a virtuous circle; improvements in quality attract more 
+<section> revenue from patients and institutional purchasers, and health or
+ improved business performance facilitates greater had previously
+ investment in quality improvement. Launched in 2011, with APHFTA
+ and currently the only programme of its kind, SafeCare 280 potentially
+ has been implemented in 14 countries in sub-Saharan the study
+ Africa, in over 2500 facilities, which receive over 5 million approached
+ visits per month. 
+<section> explain
+ The objective of this study was to evaluate the from the
+ effectiveness of SafeCare in improving clinical quality of dispersed
+ care at the facility level. We chose to evaluate SafeCare in of mainland
+ Tanzania, where it was being implemented on a large Health
+ scale in private facilities across the country and with UK those interviewed
+ Government funding through the Human Development practices
+ Innovation Fund. The private sector accounts for 29% of patients.
+ health facilities in Tanzania (15% faith-based and 14% for- written
+ profit), including hospitals and primary level facilities worker
+ (health centres and smaller dispensaries). 20 Historically, the facility
+ public oversight of private health facilities has been consent
+ weak, although more recently there has been a strong an unspecified
+ commitment to enhancing quality in both the public and participating
+ private sectors, 21 since the roll-out of the government star during patient–provider
+ rating initiative in 2015, which involves the inspection of an exit
+ all facilities and threats of closure for those that do not observations,
+ improve. 
+<section> adult caretaker
+ aged younger
+ 
+<section> Methods 
+<section> accompanied
+ 
+<section> Study design 
+<section> patients
+ We did a cluster-randomised controlled trial in private were accompanied
+ health facilities (clusters) in mainland Tanzania. curative
+ Facilities were screened and recruited by implementing visits for
+ partners of PharmAccess (a non-profit organisation care), and
+ enabling access to better health care for people in (including
+ sub-Saharan Africa) in Tanzania: the Association of payments).
+ Private Health Facilities in Tanzania (APHFTA), which the patient
+ represents mainly for-profit facilities, and the Christian
+ Social Services Commission (CSSC), which represents 
+<section> Randomisation
+ mostly faith-based facilities. Facilities were recruited We randomised
+ from the Northern, Eastern, Central, Southern, and package
+ Southern Highlands zones of Tanzania (Lake zone was with no
+ excluded as SafeCare was already rolled out there before Randomisation
+ study commencement). recruitment
+ The study protocol was approved by the ethics graphical
+ committees of the Ifakara Health Institute (04–2016; facilities
+ Dar Es Salaam, Tanzania), the National Institute of so that the
+ Medical Research (IX/2415; Dar Es Salaam, Tanzania), was the
+ and the London School of Hygiene & Tropical Medicine facilities
+ (10493; London, UK). Alongside this effectiveness number
+ study, we also did a process evaluation to understand A letter
+ implementation, mechanisms of effect, and context, sealed in
+ which we draw on in the Discussion. given to
+ envelope
+ 
+<section> Participants 
+<section> once written
+ Eligible facilities were dispensaries and health centres SafeCare
+ that were members of APHFTA, and dispensaries, health partner
+ centres, and hospitals that were members of CSSC. masked
+ Facilities were ineligible if they refused to provide consent baseline
+ to participate, provided specific services only (eg, mental They were
+ 
+<section> Articles
+ 
+<section> maternity services), were tertiary hospitals, or
+ been exposed to SafeCare. We worked
+ and CSSC to select a non-random list of
+ eligible facilities for participation in
+ (appendix p 2). The partner organisations See 
+<section> Online for appendix
+ these facilities to confirm their eligibility,
+ the study, and obtain written informed consent
+ facility manager. Study facilities were widely
+ across both urban and rural areas, in 18 regions
+ Tanzania.
+ workers participating in the study comprised
+ for a facility survey, those whose IPC
+ were observed, and those visited by standardised
+ For the facility survey and IPC observations,
+ informed consent was obtained from the health
+ before the start of data collection. At the time of
+ survey, facility managers were also asked to
+ to visits from undercover standardised patients at
+ date within the next 3 months. Patients
+ in the study were those directly observed
+ interactions, and those who gave
+ interview before leaving the facility. For the
+ all patients were eligible if they or their
+ gave verbal informed consent. Individuals
+ than 18 years were excluded if they were not
+ by an adult caretaker. For the exit interviews,
+ were eligible if they were aged at least 18 years or
+ by an adult caretaker, had received
+ outpatient care (therefore excluding routine
+ growth checks, immunisations, or antenatal
+ had completed their visit to the facility
+ collecting prescribed treatments and making
+ Written informed consent was obtained from
+ or caretaker before the start of the interview.
+ 
+<section> and masking
+ 
+<section> facilities (clusters) to the SafeCare
+ (intervention) or an initial SafeCare assessment
+ further support (control) in a ratio of 1:1.
+ was stratified by partner organisation,
+ cohort, hospital or non-hospital, and geo­
+ zone. Specifically, we randomly allocated health
+ to intervention or control, stratifying the sample
+ proportion allocated to each of the two groups
+ same within each stratum. Randomisation of
+ was done using a computer-generated random
+ in Stata version 14.1.
+ revealing the study group assignment was
+ an envelope labelled with the facility name and
+ a SafeCare quality assessor who opened the
+ to inform the facility manager of the allocation
+ informed consent was given and the baseline
+ assessment was complete. PharmAccess staff,
+ organisations, and facility participants were
+ to study group allocation during recruitment and
+ assessment, but not for the rest of the study.
+ also masked to outcome measurement—ie, 
+<section> Articles
+ 
+<section> they did not know what clinical quality metrics they were
+ to be assessed on.
+ 
+<section> Procedures
+ 
+<section> For the 
+<section> SafeCare website see The SafeCare programme supports private health facilities
+ 
+<section> www.safe-care.org to improve quality of care and business performance.
+ The programme also includes quality-related policy
+ support and advocacy at the health system level, but the
+ trial intervention evaluated only the direct support to
+ facilities. The SafeCare intervention was implemented
+ by partners APHFTA and CSSC. Following initial sensi­
+ tisation activities, SafeCare assessments were done by the
+ implementation staff in both intervention and control
+ facilities at baseline and, after a minimum of 18 months,
+ at endline. Control facilities received a simple report of
+ their assessment, but no further support. Separate data
+ collection was done by the research team at endline,
+ including observations of IPC practices, standardised
+ patient visits, a survey of facility managers, and patient
+ exit interviews (appendix p 3).
+ The initial SafeCare assessment assessed 170 standards
+ grouped into 13 service elements: governance and
+ management, human resource management, patient
+ rights and access to care, management of information,
+ risk management, primary health care, inpatient care,
+ surgery and anaesthesia, laboratory services, diagnostic
+ imaging, medication management, facility management
+ services, and support services. Quality assessors
+ measured how well facilities met the criteria, awarding
+ an overall score between 0 and 100, and a performance
+ level of one to five, with higher scores indicating better
+ results. Quality assessors were employees of PharmAccess
+ and were typically clinicians (clinical officers or nurses)
+ who had completed a 70 h training programme with
+ PharmAccess.
+ Facilities in the intervention group received a quality
+ improvement plan that highlighted specific areas for
+ improvement, actions to be taken, and the facility staff
+ member responsible; mentoring visits from quality
+ assessors to monitor progress on implementation of the
+ quality improvement plan; training on topics such as
+ infection control, waste management, customer care,
+ business management, record keeping, and patient
+ 
+<section> For the 
+<section> Medical Credit Fund rights; and the opportunity to apply to the Medical Credit
+ 
+<section> website see www. Fund, which is also part of the PharmAccess Group, for
+ 
+<section> medicalcreditfund.org underwritten loans to fund specific quality improvement
+ activities.
+ Quality assessors provided direct support to the
+ managers of facilities in the intervention group, in the
+ form of in-person mentoring visits to facilities, onsite
+ training sessions, and offsite classroom training sessions
+ for groups of facilities, attended by managers and
+ clinicians. A full-time business analyst, employed by
+ the Medical Credit Fund, made facilities aware of the
+ SafeCare service during regional meetings attended by
+ managers, and supported the writing of business cases
+ and loan applications. Mentoring visits were intended to
+ be quarterly (at least five visits were expected to take
+ place in the 18–24-month period between baseline and
+ endline SafeCare assessments), and staff from each
+ facility were expected to attend at least two training
+ sessions (either onsite or in the classroom).
+ We measured health provider compliance with IPC
+ practices using observations of provider–patient
+ interac­tions. 6 h of observation were done in each facility
+ over the course of 1 day: 3 h in the consultation rooms,
+ 1·5 h in the laboratory, and 1·5 h in the injection or
+ dressing room. Fieldworkers recorded every indication
+ (situation in which an infection risk to either patient,
+ provider, or both was presented) and action (taken to
+ mitigate the risk) using a tool that we developed according
+ to WHO guidelines and previous studies 8,24,25 and adapted
+ to Tanzanian standards. 26 The data were double entered on
+ tablets using ODK Collect version 1.12.1. Health providers
+ and patients were asked for written consent to participate
+ in the study before observation commenced, but they
+ were not informed of the focus on IPC practices or shown
+ the tool. On the same day as observation, a survey of the
+ health facility was done with the facility manager or
+ representative, during which facility characteristics,
+ patient numbers, and facility revenue were recorded. Also,
+ up to eight patients per facility were given an exit interview.
+ Implementation staff and study fieldworkers were not
+ present at the same facility simultaneously.
+ Standardised patients were undercover healthy
+ fieldworkers, trained to present at health facilities
+ reporting specific symptoms and medical history, and to
+ record the care they received. We describe the methods
+ and the protocol for standardised patient safety in more
+ detail in the appendix (pp 4–24). Briefly, on the basis of
+ predefined selection criteria and a systematic review of the
+ literature, we developed four standardised patient cases:
+ asthma, non-malarial febrile illness, tuberculosis, and
+ upper respiratory tract infection. Case descriptions and
+ their corresponding correct management definitions are
+ given in the appendix (p 4). Standardised patients were
+ trained for 2 weeks, with extensive piloting and testing to
+ ensure faithful reproduction of cases and recording of
+ data. Each facility received each of the four standardised
+ patient cases once, within the 3 months following consent
+ being given. Standardised patients completed a debriefing
+ questionnaire on a smartphone using ODK Collect
+ version 1.12.1 immediately after the visit, and supervisors
+ verified the information with the standardised patient the
+ same day. A follow-up telephone survey was done with
+ facility managers to assess whether any standardised
+ patients were detected (appendix pp 21–22).
+ In terms of contamination, no control facilities
+ received a quality improvement plan or mentoring visits,
+ and seven control facilities attended some training. In
+ practice, both intervention and control facilities had the
+ opportunity to apply for a Medical Credit Fund loan, and
+ two control facilities obtained such a loan during the
+ study period. 
+<insert> estimated to provide 80% power to detect an absolute
+ increase of 9·0 percentage points in the intervention
+ group versus the control group at a 5% level of
+ Figure 1: Trial
+ At least one
+ least one IPC
+ patient case 
+<iend>
+
+ 
+<section> Outcomes significance.
+ The two prespecified primary outcomes of the trial account
+ were observed compliance of health workers with IPC The
+ practices and correct case management of standardised for clustering
+ patients at 18–24 months. The choice of outcomes regression
+ reflected close consultation with staff involved in stratum
+ SafeCare’s design and implementation, to capture the analysis
+ programme’s broad aim of improving clinical quality of facilities
+ care, together with its emphasis on IPC practices. endline
+ Compliance with IPC practices was defined as the marginal
+ proportion of indications for which a correct action was compliance
+ done. 8 Each of the 21 potential indications had a of indication.
+ corresponding IPC action (appendix pp 29–30). For outcome
+ example, for each patient having blood drawn (indication), the correct
+ a new needle was required (action). Indications were defined
+ coded as either compliant or non-compliant (binary). management,
+ Correct case management was defined as the patient
+ proportion of standardised patients who were managed primary
+ in accordance with the national standard treatment present
+ guidelines 27 (appendix p 4). The definition of correct management
+ management was case-specific and it was coded as a (p 4). For
+ binary outcome (correct or incorrect). individual
+ Secondary outcomes were the facility SafeCare assess­ logistic
+ ment score (based on adherence to the 170 criteria, as within
+ described previously); patient experience-of-care score sensitivity
+ (based on responses to 21 Likert questions in the patient including
+ exit interview); patient out-of-pocket spending (including domain
+ any consultation fee, and expenditure on medications
+ and laboratory tests as measured by the standardised
+ patients); facility caseload per month (measured by the
+ facility survey using facility records from each medical
+ department for the 3 preceding months); and facility
+ revenue per month (measured by the facility survey
+ using facility records on each income source for the
+ 3 preceding months). The methods for measuring the
+ secondary outcomes are described in more detail in
+ the appendix (pp 30–32). Management quality was a
+ prespecified secondary outcome, and will be reported 119 facilities
+ 
+<section> elsewhere.
+ 
+<section> Statistical analysis
+ We planned to recruit 240 health facilities. For compliance
+ with IPC practices, on the basis of estimated compliance 117 facilities
+ of 31% in the control group 8 and an assumed intracluster
+ correlation coefficient of 0·1, a sample size of 120 facilities 3
+ 
+<section> 113
+ 
+<section> in each of the two groups with 115 indications observed
+ in each facility was estimated to provide 80% power to
+ detect an absolute increase of 5·6 percentage points in
+ the intervention group versus the control group at a 5%
+ level of significance. For correct case management, on
+ the basis of an estimate of 52% in the control group and
+ an assumed intracluster correlation coefficient of 0, a
+ sample size of 120 facilities in each of the two groups 112 received
+ with four standardised patient visits in each facility was
+ 
+<section> Articles
+ 
+<section> These calculations conservatively took no
+ of the stratified randomisation.
+ analysis of the primary outcomes accounted
+ using a multilevel mixed-effects logistic
+ that included facility random effects and
+ fixed effects. A modified intention-to-treat
+ was done for all endpoints, and included all
+ that remained open until the corresponding
+ assessment. We report effect sizes as both
+ (absolute) effects and odds ratios. For
+ with IPC practices, analysis was at the level
+ The primary outcome was a dichotomous
+ that is present if the health worker undertook
+ IPC action corresponding to the indication, as
+ in the appendix (pp 29–30). For correct case
+ analysis was at the level of standardised
+ visit with data pooled across the four cases. The
+ outcome was a dichotomous outcome that is
+ if a standardised patient received correct case
+ during a visit as defined in the appendix
+ comparison of correct case management by
+ case, we used penalised maximum likelihood
+ regression to address the problem of separation
+ strata. 28 We also report results from a series of
+ checks and pre­specified subgroup analyses,
+ compliance with IPC practices by safety
+ (appendix pp 40–49). Although not prespecified,
+ 
+<section> 280 facilities assessed for eligibility
+ 
+<section> 43 ineligible or unwilling to participate
+ 
+<section> 237 facilities recruited and randomised
+ 
+<section> assigned to control 118 facilities assigned to intervention
+ 
+<section> 2 facilities closed 7 facilities closed
+ 
+<section> evaluated at endline 111 facilities evaluated at endline
+ 1 evaluated IPC only 5 evaluated SPs only
+ 
+<section> evaluated SPs only 
+<section> 106 evaluated IPC and SPs
+ 
+<section> evaluated IPC and SPs
+ 
+<section> 6 facilities closed 2 facilities closed
+ 
+<section> 1 facility reopened
+ 
+<section> second assessment 109 received second assessment
+ 
+<section> profile
+ 
+<section> provider–patient interaction was observed in 223 facilities (five facilities had no eligible patients) and at
+ indication in 220 facilities (three facilities had interactions with no indications). At least one standardised
+ was assessed in 227 facilities. IPC=infection prevention and control practices. SP=standardised patients. 
+<insert> Table 1: Baseline characteristics of intervention and control facilities 
+<iend>
+
+ 
+<section> Articles
+ 
+<section> Intervention 
+<section> Control
+ 
+<section> facilities 
+<section> facilities
+ 
+<section> (n=118) 
+<section> (n=119)
+ 
+<section> SafeCare assessment score 
+<section> * 41·8% (12·5) 41·7% (12·2)
+ 
+<section> Partner organisation
+ 
+<section> APHFTA 
+<section> 60 (51%) 
+<section> 59 (50%)
+ 
+<section> CSSC 
+<section> 58 (49%) 
+<section> 60 (50%)
+ 
+<section> Facility level
+ 
+<section> Dispensary 
+<section> 65 (55%) 
+<section> 68 (57%)
+ 
+<section> Health centre 
+<section> 35 (30%) 
+<section> 33 (28%)
+ 
+<section> Hospital 
+<section> 18 (15%) 
+<section> 18 (15%)
+ 
+<section> Facility location
+ Inside Dar es Salaam, Tanzania 22 (19%) 21 (18%)
+ Outside Dar es Salaam, Tanzania 96 (81%) 98 (82%)
+ 
+<section> Facility location type
+ 
+<section> Urban 
+<section> 38 (32%) 
+<section> 35 (29%)
+ 
+<section> Periurban 
+<section> 32 (27%) 
+<section> 34 (29%)
+ 
+<section> Rural 
+<section> 48 (41%) 
+<section> 50 (42%)
+ 
+<section> Facility opening hours
+ Open 24 h, 7 days a week 72 (61%) 76 (64%)
+ 
+<section> Staffing and infrastructure
+ 
+<section> Number of medical doctors 0 (1–2) 1 (0–2)
+ 
+<section> Number of clinical officers 2 (1–3) 1 (1–2)
+ Number of nurses and midwives 2 (1–5) 3 (1–5)
+ 
+<section> Number of total staff 
+<section> 14 (9–27) 
+<section> 15 (9–27)
+ Number of consulting rooms 2 (1–3) 2 (1–3)
+ Number of inpatient admission beds 0 (0–45) 0 (0–30)
+ Data are mean (SD), n (%), and median (IQR). APHFTA=Association of Private
+ Health Facilities in Tanzania. CSSC=Christian Social Services Commission. *% of
+ maximum score.
+ 
+<section> we also examined correct management by standardised
+ patient case. Secondary outcomes measured at the facility
+ level were analysed using ordinary least squares, with
+ the inclusion of stratum fixed effects. The patient
+ experience-of-care score and patient out-of-pocket
+ spending were analysed using a linear mixed-effects
+ model that included facility random effects and stratum
+ fixed effects. We made no adjustment for multiplicity of
+ testing. Missingness was assumed to be at random and
+ missing values were not imputed. Analyses were done
+ with Stata version 14.1. The trial is registered at ISRCTN
+ (ISRCTN93644888).
+ 
+<section> Role of the funding source
+ The funder of the study had no role in study design, data
+ collection, data analysis, data interpretation, or writing of
+ the report.
+ 
+<section> Results
+ 
+<section> Facilities were recruited from March 7 to Nov 30, 2016.
+ 280 facilities were selected as potentially eligible. After
+ approaching the facilities, 43 (15%) were ineligible or
+ unwilling to participate, leaving a total of 237 facilities
+ participating, of which 118 were randomly assigned
+ to the intervention group and 119 to the control group
+ (figure 1). Compliance with IPC practices was assessed
+ between Feb 7 and April 5, 2018, (mean overall follow-up
+ period of 21·2 months [SD 2·1]; 21·2 months [1·9] in
+ the intervention facilities and 21·2 months [2·2] in the
+ control facilities) in 228 facilities (eight facilities had
+ perman­ently closed since recruitment and one was closed
+ for renovations). IPC observations in eight (4%) of the
+ 228 facilities resulted in no indications being observed.
+ 29 608 IPC indications were observed (14 366 in the
+ intervention group and 15 242 in the control group) in
+ 5425 provider–patient interactions. Correct manage­ment
+ of standardised patients was assessed between May 3 and
+ June 12, 2018 (mean follow-up period of 23·8 months
+ [SD 2·0]; 23·8 months [1·8] in the intervention facilities
+ and 23·8 months [2·2] in the control facilities), in
+ 227 facilities (one facility, assigned to the control group
+ was owned by a private company and served only
+ their employees so standardised patients could not visit
+ undercover). 909 standardised patient visits were done
+ (444 visits in the intervention group and 465 in the control
+ group). The endline SafeCare assessment was done
+ between Oct 12, 2017, and Dec 3, 2018, (mean follow-up
+ period of 23·4 months [SD 1·4]; 23·5 months [1·6] in the
+ intervention facilities and 23·4 months [1·2] in the control
+ facilities) in 221 facilities (a further eight facilities closed
+ down and one facility reopened).
+ 118 (100%) facilities in the intervention group received
+ a quality improvement plan based on a visit from a
+ quality assessor. Fidelity was lower with respect to
+ mentoring visits (mean 3·1 visits [SD 1·5] of five
+ expected) and training sessions (mean 0·6 [0·8] of two
+ expected, although informal training during mentoring
+ visits was generally not recorded). Only two of the
+ 118 intervention facilities received a loan as part of the
+ intervention.
+ There was no difference in the baseline SafeCare
+ score between the two randomised groups (table 1). The
+ intervention and control facilities were also well balanced
+ with respect to other baseline characteristics. 132 (56%) of
+ the 237 facilities were dispensaries. They were spread
+ across urban, periurban, and rural areas, with the majority
+ (194 [81%] of 237) located outside the commercial capital,
+ Dar es Salaam. Infrastructure and staffing numbers
+ reflected the small or medium size of many facilities. The
+ median number of patient visits per clinician per day
+ was 8·7 (IQR 4·3–16·7) in the intervention group, and
+ 8·2 (3·8–14·2) in the control group. The age and sex of
+ patients observed during IPC observations were similar in
+ the intervention and control groups (appendix p 39). Nine
+ facilities were lost to follow-up (7 in the intervention group
+ and 2 in the control group), although there was no
+ evidence that attrition affected baseline balance between
+ trial groups (appendix p 36). We found no strong evidence
+ of IPC observations being subject to a Hawthorne effect
+ (appendix pp 41–44). 
+<insert> Table 2: Primary outcomes at endline 
+<iend>
+
+ 
+<insert> data using patient volume, or excluded the 48 (5·2%) of
+ 909 standardised patient visits categorised as detected in
+ the follow-up telephone survey (appendix p 44). Results
+ of the post-hoc subanalyses of IPC-practice compliance
+ by safety domain and correct case management by type
+ of case also showed no significant differences between
+ groups (table 2); prespecified subgroup analyses for
+ the primary endpoints are presented in the appendix
+ (pp 45–46).
+ Facilities in the intervention group had a mean endline
+ SafeCare assessment score of 55·2% (95% CI 52·3–58·1)
+ compared with 50·8% (48·2–53·3) for facilities in the
+ control group (figure 2). The difference was 4·4
+ percentage points (95% CI 0·9–7·7; p=0·015). The
+ increase in SafeCare score between baseline and endline
+ was 12·8 percentage points (95% CI 10·1–15·4) in the
+ intervention group, compared with 8·7 (6·7–10·7) in
+ Figure
+ and
+ Error
+ the
+ in
+ p=0·014).
+ improvements
+ resource
+ risk
+ (appendix
+ facilities
+ SafeCare
+ level
+ Table
+ outcomes.
+ monthly 
+<iend>
+
+ 
+<section> Articles
+ 
+<section> Intervention facilities Control facilities Absolute percentage OR (95% CI) p value
+ 
+<section> point difference
+ 
+<section> (95% CI)
+ 
+<section> IPC compliance* 8181/14 366 (56·9%) 8336/15 242 (54·7%) 2·2% (–0·2 to 4·7) 1·10 (0·99 to 1·21) 0·07
+ Hand hygiene compliance 361/4201 (8·6%) 295/4454 (6·6%) 1·1% (–0·7 to 2·8) 1·35 (0·84 to 2·17) 0·23
+ Glove use compliance 2539/3369 (75·4%) 2576/3539 (72·8%) 3·5% (–2·7 to 9·8) 1·22 (0·86 to 1·73) 0·27
+ Injection and blood draw 4114/4228 (97·3%) 4306/4515 (95·4%) 0·7% (–0·2 to 1·6) 1·61 (0·89 to 2·92) 0·14
+ 
+<section> compliance
+ Disinfection compliance 16/416 (3·8%) 24/426 (5·6%) 0·1% (–1·6% to 1·7) 1·07 (0·28 to 4·06) 0·93
+ Waste segregation compliance 1183/2152 (55·0%) 1196/2308 (51·8%) 4·2% (–2·4 to 10·8) 1·19 (0·90 to 1·57) 0·22
+ Overall correct case management 120/444 (27·0%) 136/465 (29·2%) –2·8% (–8·6 to 3·1) 0·87 (0·65 to 1·17) 0·36
+ 
+<section> of standardised patients†
+ 
+<section> Asthma 
+<section> 7/111 (6·3%) 
+<section> 6/116 (5·2%) 
+<section> 1·2% (–5·2 to 7·6) 
+<section> 1·23 (0·42 to 3·55) 
+<section> 0·71
+ Non-malarial febrile illness 79/111 (71·2%) 85/117 (72·6%) –1·9% (–13·8 to 10·0) 0·91 (0·50 to 1·64) 0·75
+ Tuberculosis 23/111 (20·7%) 33/116 (28·4%) –9·0% (–20·0 to 2·1) 0·60 (0·32 to 1·13) 0·12
+ Upper respiratory tract infection 11/111 (9·9%) 12/116 (10·3%) –1·1% (–9·3 to 7·1) 0·89 (0·38 to 2·08) 0·80
+ Data are n/N (%), unless otherwise specified. For standardised patients, the denominator in the control group varies across cases because one facility received
+ two standardised patients with non-malarial febrile illness. IPC=infection prevention and control practices. OR=odds ratio. *Assessed in 106 facilities in the intervention
+ group and 114 facilities in the control group. †Assessed in 111 facilities in the intervention group and 116 facilities in the control group.
+ 
+<section> In the intervention group, 8181 (56·9%) of 14
+ indications were met with IPC-practice compliance and
+ 
+<section> in the control group 8336 (54·7%) of 15 242 indications 
+<section> (%)
+ 
+<section> were met with IPC-practice compliance, with an absolute score
+ difference of 2·2 percentage points (95% CI –0·2 to 4·7; 
+<section> assessment
+ 
+<section> p=0·071; table 2) and an intracluster correlation
+ coefficient of 0·030. In the adjusted analysis, controlling
+ for age, sex, and indication, IPC-practice compliance SafeCare
+ was 2·3 percentage points higher (0·3 to 4·4; p=0·028)
+ 
+<section> in the intervention group than in the control group. In 
+<section> Mean
+ 
+<section> the intervention group, 120 (27·0%) of 444 standardised
+ patients received correct case management, compared
+ 
+<section> with 136 (29·2%) of 465 in the control group, with an 
+<section> Control 
+<section> Intervention 
+<section> Control 
+<section> Intervention
+ 
+<section> absolute difference of –2·8 percentage points (95% CI 
+<section> Baseline 
+<section> Endline
+ 
+<section> –8·6 to 3·1; p=0·36; table 2) and an intracluster 
+<section> Control 
+<section> Intervention 
+<section> Control 
+<section> Intervention
+ 
+<section> correlation coefficient of less than 0·0001. The results 
+<section> (n=112) 
+<section> (n=109) 
+<section> (n=112) 
+<section> (n=109)
+ 
+<section> remained similar when we adjusted the analysis for 
+<section> Mean 
+<section> 42·1% 
+<section> 42·4% 
+<section> 50·8% 
+<section> 55·2%
+ 
+<section> standardised patient fieldworker and case, weighted the 
+<section> (95% CI) 
+<section> (39·8–44·3) 
+<section> (40·0–44·8) 
+<section> (48·2–53·3) 
+<section> (52·3–58·1)
+ 
+<section> 2: 
+<section> Change in SafeCare assessment score over time in the intervention
+ 
+<section> control groups
+ 
+<section> bars=95% CI.
+ 
+<section> control group, with a between-group difference
+ score change of 4·0 percentage points (0·8–7·1;
+ The increase in the SafeCare score reflected
+ in a number of service elements: human
+ management, patient rights and access to care,
+ management, inpatient care, and support services
+ p 37). At endline, 9 (8%) of 109 intervention
+ and 7 (6%) of 112 control facilities had attained
+ level 4, and none in either group had attained
+ 
+<section> 3 reports the results of the other secondary
+ Differences between the trial groups in
+ patient volumes and monthly facility revenue 
+<insert> Table 3: Secondary outcomes at endline 
+<iend>
+
+ 
+<section> Articles
+ 
+<section> Intervention facilities Control
+ n 
+<section> Mean (SD) n
+ Facility patient visits per month 1024 (1447)
+ 
+<section> Outpatient visits 
+<section> 936 (129)
+ Inpatient admissions 89 (199)
+ Facility revenue, US$* per month 8833 (18 483)
+ Cash user fee revenue 5143 (14 683)
+ Insurance revenue 2850 (6886)
+ Other revenue sources 868 (3434)
+ Patient experience of care† 90·8% (8·9)
+ Patient out-of-pocket spending, US$* 5·17 (8·37)
+ Data are n (number of facilities or number of patients accordingly) or mean (SD), unless specified.
+ regression that included stratum fixed effects. The p value is based on robust standard errors.
+ that included facility random effects and stratum fixed effects. *Converted from Tanzanian
+ maximum score.
+ 
+<section> were large and economically meaningful but the point
+ estimates were imprecise, with CIs that included both
+ the possibility of no effect, or a large and important
+ effect. There was no significant difference in patient
+ experience of care and patient out-of-pocket spending.
+ We carried out an exploratory cross-sectional analysis
+ of our own data to assess associations between SafeCare
+ level and clinical quality. Pooling intervention and
+ control facilities, we found a modest positive correlation
+ between SafeCare level and correct standardised
+ patient management (Spearman’s rank correlation
+ coefficient 0·225, p=0·0008), and no association between
+ SafeCare level and IPC-practice compliance (p=0·13).
+ 
+<section> Discussion
+ We did a randomised controlled trial of an intervention
+ package designed to address quality of care in a holistic
+ manner in health facilities in a low-resource setting. The
+ intervention started from a very low base in terms of
+ clinical quality; IPC-practice compliance in the control
+ group at endline was observed in only 55% of indications,
+ and correct management occurred in just 29% of
+ standardised patients. The intervention had a modest
+ positive effect (an increase of 4·4 percentage points) on
+ compliance with SafeCare standards, as measured by the
+ SafeCare assessment score. However, this increase in
+ SafeCare score did not translate into an improvement in
+ clinical quality, with 57% of indications being compliant
+ with IPC practices and only 27% of standardised patients
+ receiving correct case management in the intervention
+ group. The findings are perhaps unsurprising given
+ the small effect of the SafeCare package on SafeCare
+ score results.
+ Turning to the strengths and limitations of the
+ evaluation, generalisability was enhanced by the study’s
+ large scale, wide geographical reach, inclusion of
+ both faith-based and for-profit facilities, and real-world
+ operational conditions. By design, control facilities
+ 
+<section> facilities Difference (95% CI) p
+ Mean (SD)
+ 822 (1050) 145 (–111 to 401)
+ 
+<section> 735 (903) 
+<section> 145 (–90 to 380)
+ 
+<section> 87 (193) 
+<section> –1 (–34 to 33)
+ 6840 (10 194) 1664 (–2061 to 5389)
+ 3999 (6057) 790 (–2167 to 3748)
+ 2152 (4560) 582 (–771 to 1935)
+ 541 (1899) 270 (–387 to 927)
+ 90·7% (8·6) 0·2 (–1·0 to –1·4)
+ 4·91 (7·90) 0·13 (–1·41 to 1·68) 0·87
+ For facility-level outcomes, the difference is from an ordinary
+ For patient-level outcomes, the difference is from a linear mixed-effects
+ shillings using 2018 World Bank exchange rate, 1 US$=2263·781 TZS.
+ 
+<section> received a copy of their baseline SafeCare
+ as the report was not accompanied by any explanation
+ or further support, implementers felt it
+ unlikely to have led to a substantial quality improvement
+ in most facilities. A key strength of the
+ was the use of robust measures of clinical
+ care: IPC observation and standardised
+ Process measures such as these directly assess
+ behaviour and adherence to established clinical
+ lines, and are therefore much more closely
+ to health out­ comes than structural measures.
+ observations were potentially susceptible
+ Hawthorne effect, 29 in which study participants’
+ awareness of being observed causes them to
+ behaviour. However, when we examined the relationship
+ between compliance and order number of
+ observed, we found no strong evidence of such
+ (appendix pp 41–43). The use of standardised
+ has a particular advantage as a quality measurement
+ tool, allowing comparison across facilities
+ confounding due to mixing of patients and
+ allowing facilities to be blinded to measurement
+ and fieldworkers masked to random assignment.
+ limitation of the study was that the cases presented
+ the standardised patients needed to have
+ symptoms or require invasive examinations.
+ generally, in our primary outcomes, it was not
+ to capture all types of clinical improvement
+ be expected from the intervention (eg, we did
+ inpatient care or emergency referrals). However,
+ measures were chosen to be core to the intervention
+ scope, and of high priority in public health terms.
+ We did not do a costing of the intervention,
+ possible to roughly estimate the cost per facility
+ basis of the overall SafeCare expenditure for
+ of which the intervention group facilities
+ The total grant was for US$3·9 million for 5
+ 466 facilities were enrolled. Excluding $158
+ 
+<section> value
+ 
+<section> 0·27
+ 
+<section> 0·22
+ 
+<section> 0·97
+ 
+<section> 0·38
+ 
+<section> 0·60
+ 
+<section> 0·40
+ 
+<section> 0·42
+ 
+<section> 0·72
+ 
+<section> least squares
+ 
+<section> model
+ 
+<section> †% of
+ 
+<section> report, but
+ 
+<section> was very
+ 
+<section> evaluation
+ 
+<section> quality of
+ patients.
+ 
+<section> provider
+ 
+<section> guide­
+ 
+<section> related
+ 
+<section> IPC
+ 
+<section> to the
+ 
+<section> alter their
+ 
+<section> patients
+ 
+<section> an effect
+ 
+<section> patients
+ 
+<section> without
+ 
+<section> cases, and
+ 
+<section> A
+ 
+<section> by
+ 
+<section> no visible
+ 
+<section> More
+ 
+<section> possible
+ 
+<section> that might
+ 
+<section> not assess
+ 
+<section> the
+ 
+<section> but it is
+ 
+<section> on the
+ 
+<section> Tanzania,
+ were part.
+ 
+<section> years, and
+ 
+<section> 000 not 
+<section> directly related to the facility-level intervention implies a remote
+ cost of just over $8000 per facility. staff to
+ Although no other evaluations of SafeCare-style However,
+ programmes were identified in private facilities in SafeCare
+ LMICs, two evaluations of similar accreditation There
+ programmes for private hospitals had similar results to facilities
+ the current study. A randomised controlled trial in obtained
+ South Africa 30 and a non-randomised controlled study profit,
+ in Zambia 31 both found that the accreditation programme facilities
+ had an effect on accreditation score, but almost no effect property
+ on other quality indicators. No other robust studies were for-profit
+ identified. 32 Two randomised controlled trials of social faced by
+ franchising in private facilities in India also found no or banks, facilities’
+ weak effect on quality of care. 33,34 A study of SafeCare in and their
+ public facilities in Nigeria did not measure clinical of the
+ quality-of-care outcomes, but found that SafeCare was outlook.
+ associated with short-term, but not sustained, increases In terms
+ in some SafeCare standards. 35 the deterioration
+ Quality of care was poor in both intervention and negatively
+ control groups. Less than a third of standardised patients discouraged
+ in both groups received the correct care for their that government
+ condition, with particularly low rates for those presenting been reduced.
+ with asthma and upper respiratory tract infection were exposed
+ (table 2). Compliance with IPC practices was particularly during
+ low for hand hygiene, disinfection, and waste segregation, vision from
+ although it was high for injection and blood draws programmes
+ (table 2); further results are published elsewhere. 36 Major sations
+ deficiencies in quality of care have been reported in reported
+ similar standardised patient studies in other LMICs, 5,6,37 and the
+ and in a similar IPC study from Kenya. 8 Poor quality of assessments
+ care is unlikely to be explained by facilities being too assessment
+ busy given the estimated median number of patient involved
+ visits per clinician per day (8·4 per facility). or mentoring.
+ To explore the reasons for the absence of improvement assessment
+ on clinical quality, we consider the fidelity and quality of concerned
+ implementation, contextual factors, and the functioning facility closure.
+ of the expected causal mechanisms. 23 We draw on the Tanzania’s
+ process evaluation (to be published separately), which National
+ involved a review of administrative data and interviews over the
+ with facilities, implementing staff, and other stakeholders. related
+ Facility staff were positive about SafeCare. They found (appendix
+ the SafeCare standards well conceived and appreciated dampened
+ their holistic nature across the facility, although some intervention
+ smaller facilities perceived the standards as very programmes,
+ demanding. The staff praised the clarity of the quality of 8·7 percentage
+ improvement plans, and found implementing staff score in
+ friendly and helpful, particularly valuing mentorship There
+ visits as important for guidance and morale. The main intervention
+ concern of facility staff was the infrequency of mentoring rests on
+ visits, which partly reflected the relatively low intensity of score) leading
+ the planned intervention, together with lower than evidence
+ planned implementation: facilities received less than correlated
+ two-thirds of planned mentoring visits and training of our own
+ sessions. Implementation staff explained that a key factor we found
+ behind lower than expected implementation was delays level and
+ in receiving their budget from the funder. Implementation no association
+ staff also highlighted the challenges of reaching some compliance.
+ 
+<section> Articles
+ 
+<section> facilities, and the reluctance of some facility
+ attend classroom training without compensation.
+ this intensity of support is not atypical of
+ elsewhere in Africa.
+ was particularly low uptake of loans to help
+ pay for any substantial upgrading required,
+ by only two intervention facilities, both for-
+ late in the intervention period. Faith-based
+ generally could not take loans because church
+ could not be used as collateral. Low uptake in
+ facilities was said to reflect initial problems
+ PharmAccess in establishing relationships with
+ poor financial records and credit history,
+ concerns about high interest rates, the duration
+ application process, and the general economic
+ 
+<section> of contextual factors, many facilities felt that
+ in Tanzania’s economic situation
+ affected facility incomes, which might have
+ investment, and CSSC facilities reported
+ support to faith-based facilities had
+ Both intervention and control facilities
+ to a range of other quality-related activities
+ the study period. This included regular super­
+ district health teams, quality improvement
+ run by other non-governmental organi­
+ often for specific health areas (73% of facilities
+ participating in at least one such programme),
+ government’s star rating assessments. These
+ were based on a similar but more narrow
+ of structural quality than SafeCare, and also
+ a quality improvement plan, but no training
+ Nearly all facilities had a star rating
+ during our study period, and facilities were
+ that a poor star rating assessment could risk
+ Empanelment of private facilities within
+ social health insurance mechanism, the
+ Health Insurance Fund, was also increasing
+ study period. Although participation in quality-
+ programmes was balanced between study groups
+ p 47), it is possible that other support activities
+ the measured effect of SafeCare as both
+ and control facilities responded to other
+ perhaps partly explaining the improvement
+ points in mean SafeCare assessment
+ the control group.
+ could also be weaknesses in hypothesised
+ causal mechanisms. The SafeCare approach
+ changes in structural quality (the SafeCare
+ to changes in care processes. However,
+ has shown that structural quality is often poorly
+ with process quality. 38 Cross-sectional analysis
+ data provided mixed evidence on this point:
+ a modest positive correlation between SafeCare
+ correct standardised patient management, and
+ between SafeCare level and IPC -practice
+ At endline, only 16 (15%) of 237 facilities had 
+<section> Articles
+ 
+<section> reached SafeCare level 4 and none had reached level 5;
+ senior SafeCare implementation staff argued that the
+ links between structure and clinical quality are likely to
+ be stronger as facilities progress to these higher levels,
+ when they have the basics in place and focus more on
+ adherence to clinical standards.
+ 
+<section> For the study data see The intervention theory also relies on facilities being
+ 
+<section> datacompass.lshtm.ac.uk able to afford to improve standards. Although standards
+ had negligible budget implications, smaller facilities
+ were said to struggle to pay for more qualified staff, or a
+ regular supply of IPC-practice materials. Finally, a key
+ assumption is that facility staff will be motivated to
+ increase compliance with SafeCare standards, either
+ because of intrinsic concern for quality of care, or
+ because they view SafeCare as good business sense.
+ However, the link between SafeCare standards and
+ increased facility income could be tenuous if patients
+ cannot easily perceive quality improvements or if
+ providers do not expect patients to be sensitive to
+ improvements. Stronger external incentives might
+ enhance motivation—eg, if SafeCare scores were directly
+ linked to facility empanelment or reimbursement in
+ social health insurance, or to regulatory penalties. 39,40 It is
+ important to consider quality improvement as a systems-
+ level issue, requiring not only behaviour change at the
+ facility level, but also better preservice education,
+ coordination across quality improvement mechanisms,
+ and appropriate integration with health financing,
+ procurement, and regulatory systems.
+ Quality of care was low in both intervention and control
+ facilities, highlighting the importance of developing
+ strategies to improve quality of care at the provider
+ and system levels. However, although the SafeCare
+ intervention led to modest improvements in SafeCare
+ assessment scores, no effect was seen on clinical quality
+ of care. These findings indicate that a higher burden
+ of proof should be placed on policy makers and
+ funders looking to invest in such interventions. Further
+ experimentation and evaluation is clearly needed to
+ identify effective and affordable quality improvement
+ approaches, with possible strategies including increased
+ intervention intensity using digital approaches, more
+ careful selection of facilities for enrolment, creation of
+ stronger financial or regulatory incentives for quality
+ improvement, and increased focus on improving clinical
+ care processes.
+ 
+<section> Contributors
+ 
+<section> CG, TP-J, NS, and PR conceived and designed the study. Data collection
+ tools were developed by JJCK, TP-J, CG, and CM. Data collection was led
+ by CM and JJCK. Data analysis was done by JJCK and TP-J, who have
+ accessed and verified the underlying data. The first draft of the manuscript
+ was written by JJCK and TP-J. All authors had full access to all the data in
+ the study and had final responsibility for the decision to submit for
+ publication. The authors are solely responsible for the design and conduct
+ of this study, all study analyses, the drafting and editing of the Article, and
+ its final contents. All authors reviewed and approved the final manuscript.
+ 
+<section> Declaration of interests
+ This study, through the Health Systems Research Initiative, was partly
+ funded by the UK Government’s Department for International
+ Development, which also funded the SafeCare intervention through its
+ Human Development Innovation Fund programme.
+ 
+<section> Data sharing
+ 
+<section> Individual participant data that underlie the results reported in this Article
+ (text, tables, figures, and appendices), after deidentification, along with
+ the study protocols, data collection tools, and analytic code, will be made
+ available immediately following publication without end date, to anyone
+ who wishes to access the data for any purpose. Data will be available at the
+ London School of Hygiene & Tropical Medicine Data Compass site.
+ 
+<section> Acknowledgments
+ This research was supported by a grant from the UK Health Systems
+ Research Initiative (Medical Research Council, Economic and Social
+ Research Council, Department for International Development, Global
+ Challenges Research Fund, and Wellcome Trust; MR/N015061/1).
+ We thank staff at APHFTA, CSSC, PharmAccess Tanzania, and all
+ participating health facilities for their collaboration on this study. We are
+ grateful to the anonymous interviewees at study health facilities for their
+ participation in the qualitative component of the study, and to
+ Susannah Woodd for her advice on infection prevention and control.
+ 
+<section> References
+ 
+<section> WHO, Organisation for Economic Co-operation and Development,
+ International Bank for Reconstruction and Development. Delivering
+ quality health services: a global imperative for universal health
+ coverage. Geneva, Switzerland: World Health Organization, 2018.
+ Kruk ME, Gage AD, Arsenault C, et al. High-quality health systems
+ in the Sustainable Development Goals era: time for a revolution.
+ 
+<section> Lancet Glob Health 2018; 6: e1196–252.
+ National Academies of Sciences, Engineering, and Medicine.
+ 
+<section> Crossing the global quality chasm: improving health care
+ worldwide. Washington, DC: The National Academies Press, 2018.
+ Das J, Hammer J, Leonard K. The quality of medical advice in low-
+ income countries. J Econ Perspect 2008; 22: 93–114.
+ Daniels B, Kwan A, Pai M, Das J. Lessons on the quality of
+ tuberculosis diagnosis from standardized patients in China, India,
+ Kenya, and South Africa. J Clin Tuberc Other Mycobact Dis 2019;
+ 
+<section> 16: 100109.
+ Burger R, Christian CS, Gerdtham UG, et al. Use of simulated
+ patients to assess hypertension case management at public
+ healthcare facilities in South Africa. J Hypertens 2020; 38: 362–67.
+ Mendelson M, Røttingen JA, Gopinathan U, et al. Maximising
+ access to achieve appropriate human antimicrobial use in low-
+ income and middle-income countries. Lancet 2016; 387: 188–98.
+ Bedoya G, Dolinger A, Rogo K, et al. Observations of infection
+ prevention and control practices in primary health care, Kenya.
+ 
+<section> Bull World Health Organ 2017; 95: 503–16.
+ Grépin KA. Private sector an important but not dominant provider
+ of key health services in low- and middle-income countries.
+ 
+<section> Health Aff (Millwood) 2016; 35: 1214–21.
+ 10 Kagawa RC, Anglemyer A, Montagu D. The scale of faith based
+ organization participation in health service delivery in developing
+ countries: systematic [corrected] review and meta-analysis.
+ 
+<section> PLoS One 2012; 7: e48457.
+ 11 Mackintosh M, Channon A, Karan A, Selvaraj S, Cavagnero E,
+ Zhao H. What is the private sector? Understanding private
+ provision in the health systems of low-income and middle-income
+ countries. Lancet 2016; 388: 596–605.
+ 12 Berendes S, Heywood P, Oliver S, Garner P. Quality of private and
+ public ambulatory health care in low and middle income countries:
+ systematic review of comparative studies. PLoS Med 2011; 8: e1000433.
+ 13 Morgan R, Ensor T, Waters H. Performance of private sector health
+ care: implications for universal health coverage. Lancet 2016;
+ 
+<section> 388: 606–12.
+ 14 Independent Accountability Panel. Private sector: who is
+ accountable? For women’s, children’s and adolescents’ health.
+ 
+<section> Geneva, Switzerland: World Health Organization, 2018.
+ 15 Montagu D, Goodman C. Prohibit, constrain, encourage, or
+ purchase: how should we engage with the private health-care
+ sector? Lancet 2016; 388: 613–21.
+ 16 Montagu D, Goodman C, Berman P, Penn A, Visconti A.
+ Recent trends in working with the private sector to improve basic
+ healthcare: a review of evidence and interventions.
+ 
+<section> Health Policy Plan 2016; 31: 1117–32. 
+<section> Johnson MC, Schellekens O, Stewart J, van Ostenberg P, de Wit TR, McCambridge
+ Spieker N. SafeCare: an innovative approach for improving quality Hawthorne
+ through standards, benchmarking, and improvement in low- and participation
+ middle-income countries. Jt Comm J Qual Patient Saf 2016; 
+<section> Salmon
+ 
+<section> 42: 350–71. 
+<section> accreditation
+ McArdle S. SafeCare standards re-accredited by ISQua. 2018. Province,
+ https://www.isqua.org/news/safecare-standards-re-accredited-by- Research
+ isqua.html (accessed Nov 19, 2018). Quality
+ Rowe AK, Rowe SY, Peters DH, Holloway KA, Chalker J, evaluation.
+ Ross-Degnan D. Effectiveness of strategies to improve health-care zambiacomplete.pdf
+ provider practices in low-income and middle-income countries: Flodgren
+ a systematic review. Lancet Glob Health 2018; 6: e1163–75. inspection
+ Darcy N, Perera S, Stanley S, et al. Case study: the Tanzania health outcomes.
+ facility registry. In: Moahi KH, Bwalya KJ, Sebina PM, eds. 
+<section> Tougher
+ Healthcare policy and reform: concepts, methodologies, tools, and franchising
+ applications. Hershey, PA, USA: IGI Global, 2019: 339–68. and reproductive
+ Ministry of Health and Social Welfare. National health and social a quasi-experimental
+ welfare quality improvement strategic plan 2013–2018. Tanzania: Mohanan
+ The United Republic OF Tanzania, 2013. franchising
+ Gage AD, Yahya T, Kruk ME, et al. Assessment of health facility childhood
+ quality improvements, United Republic of Tanzania. Bull World
+ Bull World Health Organ 2020; 98: 849–858A. Dunsch
+ Craig P, Dieppe P, Macintyre S, Michie S, Nazareth I, Petticrew M. supervision,
+ Developing and evaluating complex interventions: the new Medical National
+ Research Council guidance. BMJ 2008; 337: a1655. Powell-Jackson
+ WHO. Revised injection safety assessment tool (tool C–revised). and control
+ 2008. https://www.who.int/infection-prevention/tools/injections/ sectional
+ ToolC-revised.pdf?ua=1 (accessed April 30, 2020). Lancet
+ WHO. Health systems financing: the path to universal coverage Daniels
+ (World Health Report). Geneva: World Health Organisation, 2010. to assess
+ The United Republic of Tanzania Ministry of Health and Social sectional
+ Welfare. National infection prevention and control standards for 2017;
+ hospitals in Tanzania. Baltimore, MD: Jhpiego, 2012. Leslie
+ Ministry of Health, Community Development, Gender, Elderly and observed
+ Children. Standard treatment guidelines and national essential study
+ medicines list Tanzania mainland. 2017. http://www.tzdpg.or.tz/ Limato
+ fileadmin/documents/dpg_internal/dpg_working_groups_clusters/ quality
+ cluster_2/health/Key_Sector_Documents/Tanzania_Key_Health_ maternal
+ Documents/STANDARD_TREATMENT_GUIDELINES__ Indonesia.
+ CORRECT_FINAL_USE_THIS-1.pdf (accessed April 30, 2020). Mate
+ Firth D. Bias reduction of maximum likelihood estimates. path
+ Biometrika 1993; 80: 27–38. 2014;
+ 
+<section> Articles
+ 
+<section> J, Witton J, Elbourne DR. Systematic review of the
+ effect: new concepts are needed to study research
+ effects. J Clin Epidemiol 2014; 67: 267–77.
+ J, Heavens J, Lombard C, Tavrow P. The impact of
+ on the quality of hospital care: KwaZulu-Natal
+ Republic of South Africa. Bethesda, MA: Operations
+ Results, 2003.
+ Assurance Project. The Zambia accreditation program
+ June, 2005. http://www.qaproject.org/pubs/PDFs/
+ (accessed April 30, 2020).
+ G, Gonçalves-Bradley DC, Pomey M-P. External
+ of compliance with standards for improved healthcare
+ 
+<section> Cochrane Database Syst Rev 2016; 12: CD008992.
+ S, Dutt V, Pereira S, et al. Effect of a multifaceted social
+ model on quality and coverage of maternal, newborn,
+ health-care services in Uttar Pradesh, India:
+ study. Lancet Glob Health 2018; 6: e211–21.
+ M, Giardili S, Das V, et al. Evaluation of a social
+ and telemedicine programme and the care provided for
+ diarrhoea and pneumonia, Bihar, India.
+ 
+<section> Health Organ 2017; 95: 343–52E.
+ FA, Evans DK, Eze-Ajoku E, Macis M. Management,
+ and health care: a field experiment. Cambridge, MA:
+ Bureau of Economic Research, 2017.
+ T, King JJC, Makungu C, et al. Infection prevention
+ compliance in Tanzanian outpatient facilities: a cross-
+ study with implications for the control of COVID-19.
+ 
+<section> Glob Health 2020; 8: e780–89.
+ B, Dolinger A, Bedoya G, et al. Use of standardised patients
+ quality of healthcare in Nairobi, Kenya: a pilot, cross-
+ study with international comparisons. BMJ Glob Health
+ 
+<section> 2: e000333.
+ HH, Sun Z, Kruk ME. Association between infrastructure and
+ quality of care in 4 healthcare services: a cross-sectional
+ of 4,300 facilities in 8 countries. PLoS Med 2017; 14: e1002464.
+ R, Tumbelaka P, Ahmed R, et al. What factors do make
+ improvement work in primary health care? Experiences of
+ health quality improvement teams in three Puskesmas in
+ 
+<section> PLoS One 2019; 14: e0226804.
+ KS, Rooney AL, Supachutikul A, Gyani G. Accreditation as a
+ to achieving universal quality health coverage. Glob Health
+ 
+<section> 10:

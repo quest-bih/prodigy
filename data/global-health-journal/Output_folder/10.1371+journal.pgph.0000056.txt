@@ -1,0 +1,1528 @@
+
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> OPEN ACCESS
+ 
+<section> Citation: Freeman MC, Delea MG, Snyder JS, Garn
+ JV, Belew M, Caruso BA, et al. (2022) The impact
+ of a demand-side sanitation and hygiene
+ promotion intervention on sustained behavior
+ change and health in Amhara, Ethiopia: A cluster-
+ randomized trial. PLOS Glob Public Health 2(1):
+ e0000056. https://doi.org/10.1371/journal.
+ 
+<section> pgph.0000056
+ 
+<section> Editor: Reginald Quansah, University of Ghana
+ 
+<section> School of Public Health, GHANA
+ 
+<section> Received: July 23, 2021
+ 
+<section> Accepted: December 7, 2021
+ 
+<section> Published: January 7, 2022
+ 
+<section> Peer Review History: PLOS recognizes the
+ benefits of transparency in the peer review
+ process; therefore, we enable the publication of
+ all of the content of peer review and author
+ responses alongside final, published articles. The
+ editorial history of this article is available here:
+ https://doi.org/10.1371/journal.pgph.0000056
+ 
+<section> Copyright: © 2022 Freeman et al. This is an open
+ access article distributed under the terms of the
+ Creative Commons Attribution License, which
+ permits unrestricted use, distribution, and
+ reproduction in any medium, provided the original
+ author and source are credited.
+ 
+<section> Data Availability Statement: Data from the trial is
+ available via 10.17605/OSF.IO/VH7YS. Additional
+ 
+<section> RESEARCH ARTICLE
+ 
+<section> The impact of a demand-side sanitation and
+ hygiene promotion intervention on sustained
+ behavior change and health in Amhara,
+ Ethiopia: A cluster-randomized trial
+ 
+<section> Matthew C. Freeman ID *, Maryann G. Delea , Jedidiah S. Snyder , Joshua V. Garn ID ,
+ Mulusew Belew , Bethany A. Caruso ID , Thomas F. Clasen ID , Gloria D. Sclar ID ,
+ Yihenew Tesfaye , Mulat Woreta , Kassahun Zewudie ID , Abebe
+ Gebremariam Gobezayehu 3,6
+ 
+<section> 1 Gangarosa Department of Environmental Health, Rollins School of Public Health, Emory University,
+ Atlanta, Georgia, United States of America, 2 School of Community Health Sciences, University of Nevada,
+ Reno, Nevada, United States of America, 3 Emory Ethiopia, Bahir Dar and Addis Ababa, Ethiopia, 4 Hubert
+ Department of Global Health, Rollins School of Public Health, Emory University, Atlanta, Georgia, United
+ States of America, 5 Department of Social Anthropology, Bahir Dar University, Bahir Dar, Ethiopia, 6 School
+ of Nursing, Emory University, Atlanta, Georgia, United States of America
+ 
+<section> * matthew.freeman@emory.edu
+ 
+<section> Abstract
+ 
+<section> Behaviors related to water, sanitation, and hygiene (WASH) are key drivers of infectious dis-
+ ease transmission, and experiences of WASH are potential influencers of mental well-
+ being. Important knowledge gaps exist related to the content and delivery of effective
+ WASH programs and their associated health impacts, particularly within the contexts of gov-
+ ernment programs implemented at scale. We developed and tested a demand-side inter-
+ vention called Andilaye, which aimed to change behaviors related to sanitation, personal
+ hygiene, and household environmental sanitation. This theory-informed intervention was
+ delivered through the existing Ethiopian Health Extension Programme (HEP). It was a multi-
+ level intervention with a catalyzing event at the community level and behavior change activi-
+ ties at group and household levels. We randomly selected and assigned 50 kebeles (sub-
+ districts) from three woredas (districts), half to receive the Andilaye intervention, and half the
+ standard of care sanitation and hygiene programming (i.e., community-led total sanitation
+ and hygiene [CLTSH]). We collected data on WASH access, behavioral outcomes, and
+ mental well-being. A total of 1,589 households were enrolled into the study at baseline;
+ 1,472 households (94%) participated in an endline assessment two years after baseline,
+ and approximately 14 months after the initiation of a multi-level intervention. The interven-
+ tion did not improve construction of latrines (prevalence ratio [PR]: 0.99; 95% CI: 0.82, 1.21)
+ or handwashing stations with water (PR: 0.96; 95% CI: 0.72, 1.26), or the removal of animal
+ feces from the compound (PR: 1.10; 95% CI: 0.95, 1.28). Nor did it impact anxiety (PR:
+ 0.90; 95% CI: 0.72, 1.11), depression (PR: 0.83; 95% CI: 0.64, 1.07), emotional distress
+ (PR: 0.86; 95% CI: 0.67, 1.09) or well-being (PR: 0.90; 95% CI: 0.74, 1.10) scores. We
+ report limited impact of the intervention, as delivered, on changes in behavior and mental
+ well-being. The effectiveness of the intervention was limited by poor intervention fidelity. 
+<section> information is available via OSF site https://osf.io/
+ vh7ys/.
+ 
+<section> Funding: This research was funded by grants to
+ Emory University from the World Bank Group
+ (7175829 / PI:MCF), Children’s Investment Fund
+ Foundation (1606-01334 / PI:MCF), and the
+ International Initiative for Impact Evaluation
+ (TW11.1016 / PI:MCF). The funders have
+ otherwise played no role in the design of the study;
+ collection, analysis, or interpretation of the data; or
+ writing of the manuscript.
+ 
+<section> Competing interests: The authors declare no
+ competing interests.
+ 
+<section> While sanitation and hygiene improvements have been documented in Ethiopia, behavioral
+ slippage, or regression to unimproved practices, in communities previously declared open
+ defecation free is widespread. Evidence from this trial may help address knowledge gaps
+ related to challenges associated with scalable alternatives to CLTSH and inform sanitation
+ and hygiene programming and policy in Ethiopia and beyond.
+ 
+<section> Trial registration: This trial was registered with clinicaltrials.gov (NCT03075436) on
+ March 9, 2017.
+ 
+<section> Introduction
+ 
+<section> Inadequate water, sanitation, and hygiene (WASH) are key drivers of infectious disease trans-
+ mission [1, 2]. Diarrhea accounts for an estimated 1.65 million deaths annually [3] and nearly
+ 10% of all under-5 deaths in low-income settings [4]. Deficiencies in WASH are also a major
+ contributor of neglected tropical diseases (NTDs) [5, 6]. Over one billion people are at risk of
+ soil-transmitted helminthiasis, which leads to nearly five million disability adjusted life years
+ (DALYs), and schistosomiasis leads to two million DALYs [7, 8]. Trachoma, the leading infec-
+ tious cause of blindness [9], is precipitated by repeat infections with Chlamydia trachomatis
+ bacteria, which are often perpetuated by poor hygiene [10]. These infections are environmen-
+ tally mediated [11], and are largely attributed to inadequate WASH [12, 13].
+ While WASH studies have primarily focused on infectious diseases or anthropometric mea-
+ sures of growth amongst young children, this narrow focus does not fully encapsulate the
+ World Health Organization (WHO)’s definition of health as “a state of complete physical,
+ mental, and social well-being and not merely the absence of disease or infirmity” [14]. A grow-
+ ing body of research has identified linkages between water and sanitation and mental health
+ outcomes [14–17]. For example, extensive qualitative and quantitative research has demon-
+ strated how water insecurity can influence mental health, particularly among women [18–21].
+ Research on sanitation and mental health is emergent, and predominantly qualitative [22–24].
+ A cross-sectional study in Odisha, India, found women’s sanitation insecurity—their negative
+ sanitation experiences and concerns—to be associated with stress, depression, distress, and
+ impaired general well-being, even among those with access to a sanitation facility [25]. Fur-
+ ther, a systematic review of sanitation and well-being found open defecation and use of sanita-
+ tion facilities can negatively influence mental and social well-being for women and girls,
+ especially when they experience or perceive a lack of privacy and safety [14]. As such, improve-
+ ments in women’s mental health likely requires more than physical access to sanitation facili-
+ ties, but also gender-sensitive modifications to facilities and shifts in gender norms to improve
+ women’s experiences of sanitation [23, 25]. To date, limited research has assessed the impact
+ of water interventions on mental health outcomes [26], and few studies have assessed the
+ impact of sanitation interventions on mental health outcomes [14].
+ Despite the urgent need to improve sanitation and hygiene—including the target of univer-
+ sal basic access to sanitation as part of Sustainable Development Goal target 6.2—many large-
+ scale sanitation interventions have shown poor uptake and sustainability [27], as well as mixed
+ impacts on health [1]. Without sustained sanitation and hygiene behavior change, health gains
+ are unlikely.
+ Community-led total sanitation (CLTS) has been heralded as a low-cost approach to
+ improve community coverage of sanitation [28]. CLTS uses a demand-side approach—pro-
+ moting the demand to execute improved sanitation behaviors, rather than supply-side 
+<section> provision of infrastructure—that involves engaging the community, typically via an initial
+ “triggering” event, to become open defecation free (ODF) through community-activities and
+ local champions. Rigorous evaluations of CLTS, like those of other sanitation interventions,
+ have yielded mixed health effects [29–31]. To date, there is mixed evidence on the potential
+ CLTS to achieve and sustain changes to WASH coverage and access [32–35]. Engaging local
+ champions in CLTS delivery may yield beneficial results. Program delivery through Health
+ Extension Workers (HEW) and the engagement of teachers both led to substantial improve-
+ ments in sanitation coverage and use [34], although less than when delivered by trained natu-
+ ral leaders in Ghana [32]; yet these gains were not well sustained [36].
+ There are several documented limitations of community-led total sanitation and hygiene
+ (CLTSH), a variation of CLTS that incorporates hygiene-related interventions. HEWs charged
+ with implementing CLTSH have many responsibilities, limited incentives and motivations,
+ few tools, and little capacity to continually reinforce messages [37]. The use of negative affec-
+ tive motivators employed by CLTS(H) may not be culturally appropriate or the most effective
+ drivers of sanitation and hygiene behavior change [38], and may erode mental well-being.
+ Together, the focus on negative affective motivators, poor facilitation of initial triggering, and
+ a lack of follow-up, has left many communities with negative impressions of CLTSH initiatives
+ [39].
+ In Ethiopia, CLTSH, which has been implemented widely through the Ethiopian Health
+ Extension Programme (HEP), relies chiefly on negative affective motives (e.g., shame, disgust)
+ to drive open defecation cessation. However, like prior evaluations of CLTS, evidence suggests
+ that CLTSH is largely ineffective, with one out of six Ethiopian households continuing to prac-
+ tice open defecation after their respective villages were certified as ODF [40].
+ We designed a study to generate evidence to address knowledge gaps related to demand-
+ side sanitation and hygiene programming and examine less studied, yet critical, inter-personal
+ factors related to sustained behavioral adoption and downstream health impacts [41]. Specifi-
+ cally, we conducted a cluster-randomized trial (CRT) to test whether an intervention delivered
+ at scale within the existing Ethiopian HEP would lead to sustained WASH behavior change
+ and improved mental health. Leveraging feedback received from community members and
+ key stakeholders, we designed a theoretically-informed [42–44] and evidence-based demand-
+ side sanitation and hygiene intervention called Andilaye—Amharic for “togetherness/integra-
+ tion.” The intervention takes a positive, encouragement approach to behavior change by pro-
+ moting incremental improvements in behavior and incorporating behavioral maintenance
+ strategies to foster sustained behavior change.
+ 
+<section> Methods
+ 
+<section> The study’s primary aim was to determine whether a demand-side sanitation and hygiene
+ intervention (Andilaye) impacted WASH behavior change and mental health, specifically gen-
+ eral well-being and symptoms of anxiety, depression, and non-specific emotional distress. A
+ protocol detailing the methods, intervention, and baseline results are published elsewhere [41].
+ 
+<section> Ethics and trial registration
+ 
+<section> Ethical approval for the Andilaye Trial was provided by Emory University (IRB00076141), the
+ London School of Hygiene & Tropical Medicine (9595), and locally by the Amhara Regional
+ Health Bureau (HRTT0135909). The trial was registered with clinicaltrials.gov
+ (NCT03075436) on March 9, 2017. Approval was obtained at district and sub-district govern-
+ ment offices. Informed consent was obtained orally at each household due to low literacy rates 
+<section> of the population and concerns about historically coercive practices which including obtaining
+ signatures. Oral consent was approved by all ethics boards.
+ 
+<section> Study design
+ 
+<section> This parallel CRT was conducted in West Gojjam and South Gondar Zones of the Amhara
+ National Regional State, a region of Ethiopia in which WASH conditions are inadequate [45],
+ slippage in sanitation coverage and improved sanitation behaviors has been documented, and
+ several NTDs (e.g., soil-transmitted helminths, trachoma) are hyperendemic [46]. Three dis-
+ tricts (woredas)—Bahir Dar Zuria Woreda in West Gojjam Zone and Fogera and Farta Wore-
+ das in South Gondar Zone—were targeted for this study and represent a range of the
+ topographical conditions present in Amhara, and Ethiopia in general. We targeted specific
+ behaviors, including sanitation (constructing, maintaining, and using a latrine), personal
+ hygiene (handwashing at key times and face washing), and household environmental sanita-
+ tion (keeping animals separate from living quarters and keeping the compound free of feces).
+ We sought to investigate whether any changes in WASH behaviors targeted by the Andilaye
+ intervention were sustained, and we tracked intervention fidelity through a process evaluation.
+ We employed a structured sampling strategy to randomly select 50 eligible clusters within
+ our sampling frame. Fig 1 provides further details in the CONSORT flow diagram. Clusters
+ were defined as rural or peri-urban sub-districts (kebeles)—the smallest government adminis-
+ trative unit in Ethiopia—that were accessible throughout the course of the year. Of the
+ kebeles enrolled into the study, 22 were selected from Farta, 12 from Fogera, and 16 from Bahir
+ Dar Zuria. The secondary sampling unit for this study was the household; specifically, any
+ household residing in a targeted, sentinel village (gott) within a randomly selected study kebele.
+ 
+<section> We utilized a ‘fried egg’ [47] approach to purposively select one to two gotts that were either
+ situated in or near the center of the kebele (if there were centric gotts) or were not adjacent to
+ any other study kebele (in the event there are no centric gotts). This approach minimized spill-
+ over of intervention effects and other externalities associated with the research between inter-
+ vention and control clusters, especially those adjacent to each other. The number of targeted
+ gotts depended only on the number of eligible households identified in gott census books.
+ Following baseline data collection, a stratified random design at the woreda-level was used
+ to assign an equal number of study kebeles to either the Andilaye intervention or the control
+ group receiving no intervention using a computer-based random number generator. To secure
+ balance across three key potential confounders (i.e., latrine coverage, washing station with
+ soap coverage, and head of household education), we established a priori that the intervention
+ and control mean values for these three variables, using baseline data, should be within two
+ standard deviations of the overall mean [41]. The randomization process was repeated twice
+ using replacement rerandomization [48] to achieve balance according to that a priori
+ criterion.
+ The Health Extension Services Package, and its accompanying CLTSH module delivered
+ via the HEP, were being scaled throughout Ethiopia [49] and reflected the existing govern-
+ ment-supported demand-side sanitation and hygiene approach. No attempt was made to mod-
+ ify the roll out of this standard of care of WASH programming in any of our study kebeles.
+ 
+<section> There were no meaningful differences in the number of previously CLTSH-triggered and
+ 
+<section> ODF certified kebeles, between study arms (Fig 1). Baseline WASH and demographic statistics
+ [41], along with the fact that 39 of 50 kebele study clusters randomly selected for inclusion in
+ the Andilaye Trial had been triggered with CLTSH, and certified ODF, provided strong evi-
+ dence that behavioral slippage was, indeed, an issue that needed to be addressed in Amhara
+ and perhaps elsewhere in Ethiopia. 
+<section> Fig 1. CONSORT flow diagram.
+ 
+<section> https://doi.org/10.1371/journal.pgph.0000056.g001
+ 
+<section> “Andilaye” intervention
+ 
+<section> The Andilaye intervention motto was “Together we can be a strong, caring, healthy commu-
+ nity”. Intervention activities offered aspirational messages that emphasized the need for collec-
+ tive action to make positive change in the community and used verbal persuasion to enhance 
+<section> collective efficacy perceptions [50]. The Andilaye intervention focused on three WASH-related
+ behavioral themes, informed by formative research: (1) sanitation, (2) personal hygiene, and
+ (3) household environmental sanitation. Within these themes were 11 constituent practices
+ targeted by the intervention (Table 1); these practices were identified through formative
+ research as ones that could be targeted using demand-side approaches, and were seen as
+ achievable, per stakeholder feedback [41].
+ Intervention activities and behavior change tools were informed by our formative research
+ and specifically designed to incorporate techniques that addressed behavioral factors such as
+ action knowledge, perceived personal and household barriers to behavioral adoption, identifi-
+ cation and planning, and behavioral control perceptions amongst others [41]. Activities
+ occurred at four levels—district, community, group, and household (S1 Fig and S1 Table). Key
+ activities included community mobilization and commitment events, community conversa-
+ tions with influential community members through facilitated group dialog, and household
+ counseling visits with caregivers—all of which were guided by behavior change tools (e.g.,
+ community commitment banner, community conversations flipbook, and household counsel-
+ ing flipbook and goal cards) with illustrations produced by an artist based in Ethiopia.
+ The Andilaye intervention was delivered through Ethiopia’s HEP, via trained government-
+ salaried Woreda Health Office officials, HEWs, and volunteer Women’s Development Army
+ Leaders (WDALs) (Fig 2; see S2 Table for an alignment of relevant roles and responsibilities
+ the HEP and Andilaye Trial). Implementation of the Andilaye intervention was overseen by
+ Ethiopia-based study team. The Andilaye intervention commenced with district-level capacity
+ building activities, such as action planning to orient key government stakeholders and training
+ of trainers who would facilitate intervention activities in kebeles allocated to receive the Andi-
+ laye intervention. Further, district-level refresher trainings and adaptive management activities
+ were conducted to reinforce previously acquired knowledge and skills, address trainer/facilita-
+ tor turnover, and review successes and address challenges faced in implementing group and
+ household level activities. Community-level activities included the ‘Whole System in the
+ Room’ [51], community mobilization and commitment events, and cross-fertilization visits.
+ These activities intended to engage community stakeholders in action planning, create an
+ enabling environment in which change may occur, and address inter-personal factors related
+ to public commitment, social norms, and social support related to improved practices, among
+ others. WDALs from each intervention kebele were trained on how to conduct Andilaye
+ household counseling visits with caregivers from each household in her catchment area.
+ WDALs are unpaid community health workers as part of the government-organized Women’s
+ Development Army (WDA) strategy, which uses networks of neighboring women to increase
+ the efficiency of HEWs in reaching every household, with one WDAL for every 30 households.
+ During household-level counselling visits, trained WDALs provided personalized counselling
+ to caregivers to equip them with the knowledge, skills, and motivation necessary to adopt and
+ maintain improved WASH practices. Structured community conversations, implemented by
+ trained community facilitators, provided further opportunity for group-level counselling and
+ support.
+ 
+<section> Outcomes of interest
+ 
+<section> Survey instruments administered for our impact evaluation collected data on key outcomes
+ through self-reports from respondents and other household members. Primary outcomes of
+ interest included mental health and three targeted WASH behavioral themes (1) sanitation,
+ personal hygiene, and (3) household environmental sanitation behaviors, consisting of 11 con-
+ stituent practices (Table 1). To measures WASH outcomes, we pulled from standard WASH 
+<insert> Table 1. Key outcome indicators for WASH behavioral themes and constituent practices of interest of the Andilaye intervention at endline.
+ Indicators Intervention
+ Sanitation (S) Total N %
+ Control
+ Total N % PR (95% CI) PD (95% CI)
+ a 
+<iend>
+
+ 
+<section> S1: Construct a long-lasting latrine that is comfortable
+ • Households with access to at least one household
+ 
+<section> • Households with access to an improved household
+ 
+<section> • Households with access to a fully constructed household
+ 
+<section> S2: Repair your latrine whenever it is damaged
+ • Facility observed to require obvious repair
+ 
+<section> S3: Upgrade your latrine so it becomes more long-lasting,
+ • Household has added or improved anything on
+ 
+<section> • Households with latrine with smooth and cleanable
+ 
+<section> • Presence of drop hole cover in the latrine
+ 
+<section> S4: Close your pit when it becomes full and reconstruct
+ • Is the pit that is in use full or close to being full
+ 
+<section> S5: All household members use a latrine every time they
+ • Respondent always exclusively used a latrine for
+ 
+<section> • Head of household always exclusively used a latrine
+ 
+<section> • Ages 4–17 always exclusively used a latrine for defecation
+ 
+<section> S6: Immediately dispose of children’s feces into the latrine
+ • Child feces were safely disposed of during the last
+ 
+<section> Personal hygiene (PH)
+ 
+<section> PH1: All household members wash their hands with
+ animal and human feces, even children’s feces
+ • Household hand or facewashing station(s)
+ 
+<section> • The last time the respondent defecated, s/he cleaned
+ 
+<section> • The last time the index child defecated, s/he cleaned
+ 
+<section> PH2: All household members wash their hands with
+ food
+ 
+<section> • The last time the respondent prepared food, s/he
+ before beginning food preparations
+ 
+<section> PH3: All household members wash their faces with water
+ available
+ 
+<section> • Ocular discharge present among children aged
+ 
+<section> • Wet nasal discharge present among children aged
+ 
+<section> • Dry nasal discharge present among children aged
+ 
+<section> and hygienic
+ 
+<section> latrine 61.2 62.0 0.99 (0.82, 0.00 (-0.13,
+ 
+<section> 1.21) 
+<section> 0.12)
+ latrine c 34.6 30.6 1.13 (0.81, 0.41 (-0.07,
+ 
+<section> 1.59) 
+<section> 0.15)
+ latrine 33.0 28.7 1.15 (0.86, 0.04 (-0.46,
+ 
+<section> 1.54) 
+<section> 0.13)
+ 
+<section> 70.1 
+<section> 80.5 
+<section> 0.88 (0.78, 
+<section> -0.10 (-0.19,
+ 
+<section> 0.99) 
+<section> -0.01)
+ 
+<section> comfortable, and hygienic
+ the latrine since its original construction 17.2 15.7 1.08 (0.71, 0.01 (-0.06,
+ 
+<section> 1.65) 
+<section> 0.08)
+ slab/floor 16.3 13.3 1.19 (0.70, 0.03 (-0.05,
+ 
+<section> 2.03) 
+<section> 0.11)
+ 
+<section> 18.2 
+<section> 10.0 
+<section> 1.77 (1.19, 
+<section> 0.08 (0.02,
+ 
+<section> 2.63) 
+<section> 0.14)
+ 
+<section> a new latrine
+ 
+<section> 11.7 
+<section> 12.6 
+<section> 0.92 (0.57, 
+<section> -0.01 (-0.68,
+ 
+<section> 1.49) 
+<section> 0.05)
+ 
+<section> defecate
+ 
+<section> defecation during last 7 days 53.2 54.1 0.99 (0.79, 0.00 (-0.12,
+ 
+<section> 1.24) 
+<section> 0.12)
+ for defecation during last 7 days 36.5 33.0 1.07 (0.79, 0.03 (-0.09,
+ 
+<section> 1.47) 
+<section> 0.15)
+ during last 7 days 1447 42.6 1385 35.0 1.15 (0.89, 0.06 (-0.05,
+ 
+<section> 1.50) 
+<section> 0.16)
+ 
+<section> 2 days 36.7 41.2 0.96 (0.69, -0.02 (-0.15,
+ 
+<section> 1.32) 
+<section> 0.11)
+ 
+<section> water and soap or soap substitute AFTER handling
+ 
+<section> 98.3 
+<section> 97.7 
+<section> 1.01 (0.99, 
+<section> 0.01 (-0.01,
+ 
+<section> 1.02) 
+<section> 0.02)
+ hands with water and soap, substitute 51.9 46.1 1.13 (0.94, 0.06 (-0.03,
+ 
+<section> 1.35) 
+<section> 0.15)
+ hands with water and soap, substitute 43.9 39.6 1.12 (0.92, 0.05 (-0.04,
+ 
+<section> 1.35) 
+<section> 0.13)
+ 
+<section> water and soap or soap substitute BEFORE handling
+ 
+<section> cleaned hands with water and soap, substitute 53.6 48.5 1.11 (0.95, 0.05 (-0.03,
+ 
+<section> 1.29) 
+<section> 0.13)
+ 
+<section> whenever they are dirty and use soap when it is
+ 
+<section> 1–9 years 26.9 30.4 0.88 (0.68, -0.04 (-0.11,
+ 
+<section> 1.15) 
+<section> 0.04)
+ 1–9 years 37.0 39.4 0.94 (0.78, -0.02 (-0.09,
+ 
+<section> 1.13) 
+<section> 0.05)
+ 1–9 years 42.7 45.2 0.97 (0.81, -0.02 (-0.10,
+ 
+<section> 1.16) 
+<section> 0.06)
+ 
+<section> (Continued 
+<insert> Table 1. (Continued)
+ Indicators Intervention
+ Sanitation (S) Total N %
+ Control
+ Total N % PR (95% CI) PD (95% CI)
+ a
+ • Dirt/dust/other debris present among children aged 1–9 years 50.5 49.5 1.03 (0.89,
+ 1.20)
+ 0.02 (-0.06,
+ 0.09)
+ 82.2 82.4 1.01 (0.92,
+ 1.11)
+ 0.01 (-0.07,
+ 0.08)
+ • Animal feces/waste not left out in open in compound 56.4 51.2 1.10 (0.95,
+ 1.28)
+ 0.05 (-0.03,
+ 0.13)
+ • Solid waste was not observed to have been left out in the open 34.6 27.6 1.26 (0.93,
+ 1.69)
+ 0.07 (-0.02,
+ 0.17)
+ Household Environmental Sanitation (HES)
+ HES1: Keep all animals separated from the house
+ • Observed animal feces present in the compound
+ HES2: Keep the household compound clean by disposing of all animal feces and other waste on a DAILY
+ basis
+ Notes.
+ a We used log-linear binomial regression models to compare the prevalence of the outcomes between the intervention and control arms. Models accounted the stratified
+ design by including woreda indicator variables [58], and accounted for clustering within kebeles by using generalized estimating equations with robust standard errors.
+ b
+ c
+ Prevalence differences (PD) were calculated using post-estimation commands to estimate the average marginal effects.
+ “Improved” was defined based on the WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply and Sanitation definition.
+ https://doi.org/10.1371/journal.pgph.0000056.t001 
+<iend>
+
+ 
+<section> Fig 2. The Andilaye 
+<section> Trial consists
+ process evaluation, and (3) impact
+ Implementation of Andilaye intervention
+ quarterly monitoring (June to July
+ the delivery of intervention activities.
+ since the completion of a catalyzing
+ months of household-level behavior
+ facilitators) and 13–14 months since
+ 
+<section> https://doi.org/10.1371/journal.pgph.0000056.g002
+ 
+<section> of three major phases: (1) formative research and intervention design, (2) intervention implementation and
+ 
+<section> evaluation. Kebele and household enrollment took place during baseline data collection (March to April 2017).
+ activities began in September 2017 and continued through midline data collection (March to April 2018),
+ and November to December 2018), and endline evaluation (March to May 2019). See S1 Table for specific dates of
+ Midline data reflected at least 2 months since the start of household-level behavior change activities and 3 weeks
+ community-level mobilization and commitment event. Our endline data reflected the implementation of 14–15
+ change activities and 6–7 months of group-level behavior change activities (as dictated by trained activity
+ the community mobilization and commitment events. 
+<section> indicators and leveraged formative research data to contextually adapt survey prompts and
+ answer choices (shown in S4 Table of Delea et al., 2019). Sustainability of WASH-related
+ behaviors was measured through the proportion of individuals and households consistently
+ practicing target behaviors at midline and endline.
+ For mental health, we assessed subjective well-being using the validated WHO’s Well-Being
+ Index (WHO-5) [52] and symptoms of anxiety, depression, and non-specific emotional dis-
+ tress using the Hopkins Symptom Checklist (HSCL) [53]. WHO-5 asks the respondent to indi-
+ cate how frequently they relate to each of five statements in the previous two weeks using a
+ five-point Likert scale. Higher scores are better (range: 0–25) with scores below 13 indicating
+ poor well-being. The HSCL is a non-diagnostic tool that includes 25 items to assess symptoms
+ of anxiety (items 1–10), depression (items 11–25) and overall emotional distress (all 25 items).
+ We omitted two items from the depression set: an item on sexual desire, which was deemed
+ inappropriate for unmarried women, and an item on suicide ideation, because we were unable
+ to provide clinical recourse if needed. Participants indicated how much symptoms bothered
+ them in the previous week (‘not at all’ [1] to ‘Extremely’ [4]). The final score for each state is
+ mean of responses for each of the relevant items (range from 1 to 4). Scores of 1.75 or higher
+ indicate that the condition could be present while lower scores are an indication of lower anxi-
+ ety, depression, or distress.
+ Secondary outcomes included 7-day and 2-day diarrhea period prevalence, measured
+ through caregiver report of the index child (i.e., youngest child in the household aged one to
+ nine years at baseline), sanitation insecurity, and water insecurity. For sanitation insecurity,
+ we asked respondents to indicate how often (never, sometimes, often, always) they felt one of
+ seven different forms of sanitation insecurity (i.e., 7 factors). Scores were means of all items
+ the factor. A higher score represents higher sanitation insecurity. The factors were predesig-
+ nated, and based on a validation that was done in another study [23]. Water insecurity was
+ measured through the Household Water Insecurity Experiences (HWISE) scale [54]. HWISE
+ includes 12 items with four response categories (never, rarely, sometimes, often/always). The
+ score is the sum of responses, ranging from 0–36. A higher score indicates greater household
+ water insecurity, and we considered households to be water insecure with a score of 12 or
+ more, as described elsewhere [54]. Measures of collective efficacy [50] and intermediate behav-
+ ioral antecedents were also collected, but are not reported here.
+ 
+<section> Process evaluation
+ 
+<section> We conducted a process evaluation alongside our impact evaluation to describe and analyze
+ key aspects of the Andilaye’s implementation and provide insights and understanding of pro-
+ gram impacts. We defined fidelity as the degree to which the intervention or program was
+ delivered as intended [55]. Quantitative process data on dose delivered, participation, and
+ dose received were collected through the direct observation of all district and community-level
+ activities—these activities being facilitated or co-facilitated by the Ethiopia-based study team.
+ Questions were incorporated into our survey instruments administered during quarterly mon-
+ itoring and endline data collection to capture exposure to key Andilaye behavior change activi-
+ ties by respondents from study-enrolled households in intervention kebeles. This included self-
+ reported awareness of and attendance at the community mobilization and commitment event
+ and community conversations, and the number of household counseling visits received from
+ WDALs. Per protocol, all community members were targeted to attend the community mobi-
+ lization and commitment event; routine (1–2 per month) community conversations primarily
+ focused on influential community members (e.g., male heads of households, religious leaders,
+ mother-in-laws) targeted in the ‘Whole System in the Room’; and caregivers were to receive 
+<section> monthly household counseling visits (each visit lasting approximately 30 minutes) following
+ the typical structure for the WDAL and in accordance the HEP.
+ 
+<section> Sample size and power
+ 
+<section> A detailed description of sample size considerations is published in the study protocol [41].
+ Briefly, we powered this study on mental well-being outcomes, as measure by the HSCL [53],
+ utilizing data from Ethiopia and East Africa suggesting that approximately 20–35% of rural
+ women experience elevated symptoms of anxiety and depression [56, 57]. Our sample size
+ determination indicated we should recruit and enroll 25 households from each of our 50 study
+ kebeles, with 25 kebeles per study arm, targeting one index child per household. We increased
+ our final sample size to accommodate for 20% of households being lost to follow-up. Our tar-
+ get sample, therefore, included 30 households in each kebele, or 1,500 households in total (i.e.,
+ 
+<section> 750 per study arm).
+ 
+<section> Data collection
+ 
+<section> Data were collected via structured household interviews and observations by trained enumera-
+ tors during rounds of data collection. Surveys were collected using mobile phones equipped
+ with the freely available Open Data Kit (http://opendatakit.org/). Households with at least one
+ child aged one to nine years were randomly selected from the gott census book residing in the
+ target gott(s) of the 50 study kebeles at baseline, and were followed for each round of data col-
+ lection. Fig 2 and S1 Table provide a summary of the timeline of intervention implementation
+ in relation to points of data collection for our impact evaluation. At the time of endline data
+ collection, household-level activities had taken place for the past 14–15 months, group-level
+ activities for the past 6–7 months, and community-level mobilization and commitment events
+ were completed 13–14 months prior. Elements of the intervention were still ongoing during
+ the time of our endline data collection, and we did not collect further data after the endline
+ visit. Given the nature of the intervention, neither participants nor field teams were blinded
+ intervention status.
+ 
+<section> Analytical methods
+ 
+<section> We followed a pre-analysis plan developed following baseline data collection [41]. The primary
+ analysis method was an “intention-to-treat” analysis, which compares the intervention arm
+ the control arm without regard to intervention fidelity or compliance. The majority of our pri-
+ mary and secondary outcomes were binary variables, and for these we used log-linear binomial
+ regression models and report the prevalence ratio (PR). For these binary outcomes we also
+ present prevalence differences (PD), which were calculated using the post-estimation margins
+ command to estimate the average marginal effects. For continuous outcomes, such as WHO-5
+ and HSCL scores, we used linear regression models. All models included an intervention vari-
+ able as a fixed effect, accounted for the stratified design through the inclusion of the woreda
+ indicator variable [58], and incorporated generalized estimating equations with robust stan-
+ dard errors to account for the clustering of observations within kebeles. For each of our pri-
+ mary outcomes of interest, we assessed if there was interaction across various sub-groups,
+ including exposure to previous CLTSH triggering and sex of the index child. We also assessed
+ if water insecurity modified the effectiveness on hygiene behaviors. For all of these analyses,
+ we included interaction terms to test if effect modification was present (i.e., the interaction
+ term had a p-value <0.05).
+ 
+<section> To assess whether any improvements in WASH behaviors were sustained between follow-
+ up periods, we compared the prevalence of key targeted sanitation, hygiene, household 
+<section> environmental sanitation indicators between the demand-side intervention arm and the con-
+ trol arm group using the baseline, midline, and endline data (Fig 2).
+ 
+<section> Results
+ 
+<section> Survey results
+ 
+<section> Our baseline assessment showed balance in terms of our primary outcomes of interest and
+ demographic variables [41]. Our endline results reflect complete data from 1,472 (93%) of
+ 1,589 households enrolled in the study at baseline, and exceeded our sample size requirement
+ of 1,250 households. Of the 793 enrolled intervention households and 796 enrolled control
+ households, retention was similar in both arms, at 94% and 92%, respectively (Fig 1). A large
+ majority (90%) of the respondents were female, who were typically the primary caretakers. Of
+ these 1,472 respondents, 85% were the mother of the index child.
+ 
+<section> Process evaluation
+ 
+<section> Reports from Woreda Health Offices collected at endline indicated that none of the 50 study
+ kebeles (intervention or control) received additional CLTSH triggering or re-triggering during
+ the course of the Andilaye Trial. For the Andilaye intervention, the fidelity of action planning
+ workshops and trainings at the district and community levels were high (See S3 Table for a
+ summary of process data on dose delivered, participation, and dose received for all interven-
+ tion activities). All three study woredas and their intervention kebeles (n = 25) had action plan-
+ ning and management (S3a Table) and training and capacity building (S3b Table)
+ intervention activities completed as planned, at the district and community levels, respectively.
+ Participation was high among targeted government and community stakeholders during cata-
+ lyzing and maintenance action planning and management activities (S3a Table). Nearly all of
+ our targeted Woreda Health Office officials, HEWs, and WDALs were trained on Andilaye
+ counseling visits with caregivers and all intervention kebeles had a pair of facilitators trained
+ on Andilaye community conversations—including rounds of review meetings and refresher
+ trainings (S3b Table). All intervention kebeles had a community mobilization and commit-
+ ment event completed as planned, with an estimated average of around 300 adult community
+ members in attendance per event (S3c Table).
+ Our household process evaluation survey results reflect complete data from 703 (89%) and
+ 707 (89%) of 793 study-enrolled households in intervention kebeles from quarterly monitoring
+ and endline data collection, respectively. Reported frequency of household-level counseling
+ visits reflected a total of 665 study-enrolled households as these questions were not relevant
+ 42 households that were residents of WDALs who were trained to conduct Andilaye counsel-
+ ling visits.
+ Household respondent-reported exposure of key behavior change activities varied, but was
+ generally suboptimal (Fig 3). Overall, only 18% of respondents reported attending the commu-
+ nity mobilization and commitment event, and 22% reported being aware of the activity in the
+ months following the event (i.e., during quarterly monitoring). At endline, 28% of respondents
+ reported attending at least one community conversation, and 46% reported being aware of the
+ activity. WDALs and their supervisors (i.e., HEWs) were trained to facilitate monthly counsel-
+ ing visits with households in their catchment area. However, at endline, only 59% of respon-
+ dents reported receiving a counseling visit and 43% reported receiving at least one follow-up
+ visit during the 14-15-month implementation period. No intervention kebele had WDALs
+ conducting counseling visits monthly. The average number of visits was 2–3 among respon-
+ dents reporting at least one counseling visit (n = 391) (S3c Table). For households receiving
+ visit, 72% of respondents reported that they set household goals or incremental improvements, 
+<section> Fig 3. Respondent-reported exposure
+ in intervention kebeles (n = 793)
+ quarterly monitoring visits and awareness
+ received by endline visits. A total
+ monitoring and endline, respectively.
+ relevant for study-enrolled households
+ responsible for conducting the Andilaye
+ https://doi.org/10.1371/journal.pgph.0000056.g003
+ 
+<section> of key behavior change activities of the Andilaye intervention. Respondents from study-enrolled households
+ were surveyed on their awareness and attendance in the community-level mobilization and commitment event during
+ and attendance of group-level community conversations and frequency household-level counseling visits
+ of 703 (89%) and 707 (89%) surveys with responses to process evaluation prompts were completed from quarterly
+ Reported frequency of counseling visits reflected a total of 665 survey responses as these questions were not
+ that were residents of caregivers who were trained as Women’s Development Army Leaders (WDALs)
+ counselling visits (n = 42).
+ 
+<section> and two-thirds reported that they identified barriers and their WDAL provided counseling on
+ how to plan for, cope with, and overcome barriers in accordance to the Andilaye behavior
+ change tools (i.e., household counseling flipbook and goal cards) (S3c Table).
+ 
+<section> Impacts on sanitation, personal hygiene, and household environmental
+ 
+<section> sanitation
+ 
+<section> The intervention did not increase latrine access. At endline, 62% of both intervention and con-
+ trol households had at least one latrine (prevalence ratio [PR] 0.99; 95% CI: 0.82, 1.21)
+ (Table 1). There was no difference in the prevalence of improved latrines (PR 1.13; 95% CI:
+ 0.81, 1.59) or in fully constructed latrines (PR 1.15; 95% CI: 0.86, 1.54). Although there were
+ improvements in many latrine characteristics in the intervention arm compared to the control
+ arm (e.g., presence of water available or cleansing agent near or inside the latrine for hand-
+ washing, and water available for flushing or self-cleansing), the conditions (e.g., presence of
+ feces on floor) of latrines in the intervention arm were often poor (S4 Table).
+ The intervention did not impact defecation practices. Overall, 40% of respondents reported
+ practicing open defecation during the previous two days; only 46% of respondents had defe-
+ cated in any latrine during the previous two days (S4 Table). All measures of latrine utilization
+ and non-utilization were similar across intervention and control arms. This includes 
+<section> indicators of respondent open defecation (PR: 1.05; 95% CI: 0.76, 1.45), safe disposal of child
+ feces (PR: 0.96; 95% CI: 0.69, 1.32), and number of people from another household who used
+ latrine during last seven days (difference: -0.40; 95% CI: -0.85, 0.05).
+ The intervention did not impact personal hygiene behaviors. The prevalence of washing
+ stations with water (PR: 0.96; 95% CI: 0.72, 1.26) was similar between the intervention and
+ control arms. Presence of hand or face washing stations were observed in 98% of households
+ (Table 1), although water and soap were observed in only 20% of handwashing stations and
+ 2% of facewashing stations (S4 Table). The prevalence of stations with soap was higher in the
+ intervention arm, although only 3% of households in this arm had a washing station with soap
+ present. Among all children aged one to nine years at endline, observations of facial cleanliness
+ indicated 29% had ocular discharge, 38% had wet nasal discharge, 44% had dry nasal dis-
+ charge, and 50% had dust, dirt, or debris on their faces (Table 1). There were no meaningful
+ differences between the study arms for any of these facial cleanliness measures.
+ We found no evidence that the Andilaye intervention impacted household environmental
+ sanitation. Across both arms, the majority of respondents and heads of household had animal
+ herding responsibilities (88% overall), and animal feces were present in the compound in 82%
+ household compounds (S4 Table). A similar proportion of households in intervention and
+ control kept animals separate from the house (PR = 1.01, 95% CI 0.91, 1.11). About half of
+ households did not leave animal feces/waste in the open (Table 1); this was similar between
+ the intervention and control arms (PR = 1.10; 95% CI: 0.95, 1.28).
+ 
+<section> Sustained changes of key indicators. There was little difference in the sustainability of
+ key targeted indicators—assessed by changes between midline and endline—on sanitation
+ access and practices, personal hygiene access and practices, and household environmental san-
+ itation over the course of follow up (Fig 4). At midline, most variables continued to show little
+ difference between the intervention and control arms, although the prevalence of drop hole
+ covers in latrines and the prevalence of appropriate hygiene behaviors were more common in
+ the intervention arm. At the endline visit, the prevalence of drop hole cover was largely sus-
+ tained in the intervention arm, while the prevalence of drop hole covers decreased in the con-
+ trol arm (PR = 1.77’ 95% CI: 1.19, 2.63). All other variables at endline had similar prevalence
+ levels when comparing the two arms. While the prevalence of hand hygiene behaviors was
+ maintained at levels similar to the midline visit, increases in hand hygiene behaviors in the
+ control arm narrowed the difference between the intervention and control arms at endline.
+ Over the two follow-up surveys, there was an increase in the prevalence of household hand or
+ facewashing stations that appeared among study arms.
+ 
+<section> Impacts on mental health
+ 
+<section> There was no difference between study arms in the scores for anxiety, depression, emotional
+ distress or general well-being (Table 2). There was also no difference between the intervention
+ and control arms in the prevalence of each mental health condition: anxiety (PR = 0.90; 95%
+ 
+<section> CI: 0.72, 1.11), depression (PR: 0.83; 95% CI: 0.64, 1.07), emotional distress (PR: 0.86; 95% CI:
+ 0.67, 1.09) and poor well-being (PR: 0.90; 95% CI: 0.74, 1.10) (Table 2). All measures of mental
+ health trended in the protective direction for both mean scores and prevalence (2–3% reduc-
+ tion), but were not statistically different between study arms.
+ 
+<section> Secondary health outcomes
+ 
+<section> Reported diarrhea. Diarrhea prevalence during the last seven days among index children
+ was similar in the intervention (7%) and control (6%) arms (PR: 1.20; 95% CI: 0.74, 1.93; 
+<insert> Table 3). Among index children, there were also similarities comparing study arms in diarrhea
+ prevalence when assessing episodes over the last two days (PR: 1.25; 95% CI: 0.71, 2.22).
+ Water and sanitation insecurity. The intervention did not statistically reduce water inse-
+ curity prevalence between intervention (5.7%) and control (8.8%) arms (PR: 0.50 (95% CI: .21,
+ 1.2); Table 3). At endline, sanitation insecurity scores related to social support were statistically
+ lower (i.e., better) in the intervention arm than in the control arm (score difference: -0.10, 95% 
+<iend>
+
+ 
+<section> Fig 4. The prevalence of key sanitation,
+ https://doi.org/10.1371/journal.pgph.0000056.g004
+ 
+<section> personal hygiene, and household environmental sanitation indicators over time. 
+<insert> Table 2. Mental well-being outcomes at endline.
+ Indicator Cronbach Alpha
+ Anxiety score b
+ Depression score b
+ Emotional distress score b
+ Well-being score c
+ High Anxiety
+ Control
+ Mean (SD) N Mean (SD) - difference (95% CI) ae
+ 0.89 1.46 (0.61) 1.52 (0.64) - –0.06 (–0.14, 0.02)
+ 0.87 1.35 (0.48) 1.39 (0.52) - –0.04 (–0.08, 0.01)
+ 0.93 1.29 (0.46) 1.33 (0.49) - –0.04 (–0.09, 0.01)
+ 0.97 17.6 (6.8) 17.0 (6.7) - 0.50 (–0.19, 1.28)
+ Prevalence N % N % PR (95% CI) d PD (95% CI) e
+ Intervention
+ Scores N
+ - 22.2 24.8 0.90 (0.72, 1.11) –0.03 (–0.08, 0.03)
+ High Depression - 14.0 16.9 0.83 (0.64, 1.07) –0.03 (–0.07, 0.01)
+ High Emotional distress - 14.0 16.4 0.86 (0.67, 1.09) –0.02 (–0.06, 0.01)
+ Poor well-being g - 25.2 27.8 0.90 (0.74, 1.10) –0.03 (–0.08, 0.02)
+ Notes.
+ a We used linear regression models to estimate the difference in the outcomes comparing the intervention and control arms. Models accounted the stratified design by
+ including woreda indicator variables [58], and accounted for clustering within kebeles by using generalized estimating equations with robust standard errors.
+ b We asked respondents to indicate how much the symptoms bothered them in the previous week with four potential response options (not at all (1) to extremely (4)).
+ The first ten symptoms assess anxiety (i.e., ‘suddenly scared for no reason’, ‘nervousness or shakiness inside’), the next 13 assess depression (i.e. ‘feeling low in energy’,
+ ‘feeling hopeless about the future’), and the 23 collectively assess non-specific emotional distress. For each outcome, the score is the sum of the responses divided by the
+ number of items.
+ c We asked respondents about well-being, and responses ranged from ‘(0) At no time’ to (5) All of the time’. Scores were summed, and range from 0–25; the higher the
+ score, the better the well-being.
+ d We used similar log-linear binomial regression models to compare the prevalence of the outcomes between the intervention and control arms.
+ e Prevalence differences (PD) were calculated using post-estimation commands to estimate the average marginal effects.
+ Each of the above scores was dichotomized, with scores greater than 1.75 indicating a positive status for any of the three outcomes.
+ g The above score was dichotomized with scores below 13 indicating poor well-being.
+ https://doi.org/10.1371/journal.pgph.0000056.t002 
+<iend>
+
+ 
+<section> CI: -0.16, -0.43), indicating a reduced frequency of experiencing the circumstances in the
+ social support domain (e.g., trouble finding support to watch dependents during urination,
+ worry about dependents when going to defecate, had to leave dependents alone to urinate,
+ etc.). Other sanitation insecurity measures were similar between arms.
+ 
+<section> Interaction and effect modification
+ 
+<section> There was no interaction of the intervention by previous CLTSH triggering for any of the pri-
+ mary outcome variables of interest. We did not detect effect measure modification by sex for
+ any of the four mental health outcomes. Similarly, we did not detect interaction by child’s sex
+ for any of these outcomes. We also did not detect interaction between the intervention and
+ water insecurity on any of the primary handwashing or face washing variables.
+ 
+<section> Discussion
+ 
+<section> The Andilaye intervention generally did not improve WASH conditions or outcomes. Without
+ sustained changes to these WASH conditions and behaviors, changes in well-being were not
+ likely, and indeed, were not detected. Improving sanitation and hygiene behaviors in rural
+ communities remains a considerable challenge, especially in regions with poor water access
+ and high levels of WASH-related NTD endemicity. Most studies designed to change sanitation
+ and hygiene behavior are efficacy studies [27]—meant to assess changes under controlled con-
+ ditions; ours was an effectiveness study, designed to measure changes in a real-world context.
+ We believe that poor fidelity of intervention delivery played a considerable role in uptake of 
+<insert> Table 3. Secondary health outcomes at endline.
+ Indicator Cronbach Alpha
+ Diarrhea
+ Intervention Control
+ N % N % PR (95% CI) a PD (95% CI) b
+ During the last 2 days, index child had three or more loose stools per
+ day
+ - 5.9 4.7 1.62 (0.71,
+ 2.22)
+ 0.01 (–0.018, 0.042)
+ During the last 7 days, index child had three or more loose stools per
+ day
+ - 7.1 6.0 1.20 (0.74,
+ 1.93)
+ 0.01 (–0.019, 0.043)
+ Water and sanitation insecurity scores N mean (SE) N mean (SE) - difference (95% CI)
+ c 
+<iend>
+
+ 
+<section> Water-HWISE Scale d
+ 
+<section> Sanitation-Potential harms d
+ 
+<section> Sanitation-Social expectations resultant repercussions
+ 
+<section> Sanitation-Physical exertion or strain d
+ 
+<section> Sanitation-Night concerns d
+ 
+<section> Sanitation-Social support d
+ 
+<section> Sanitation-Physical agility d
+ 
+<section> Sanitation-Defecation place d
+ 
+<section> Water insecurity prevalence
+ Water insecure (HWISE score 12 or more) d
+ 
+<section> Notes.
+ a We used log-linear binomial regression models to
+ design by including woreda indicator variables [58],
+ b Prevalence differences (PD) were calculated using
+ c We used similar linear regression models to estimate
+ d We asked respondents to indicate how often they
+ other items in that factor and divided by the numbers
+ study [23]. A higher score represents higher sanitation
+ the intervention and control arms. This used a 12-item
+ response categories ranging from 0–36. A higher score
+ elsewhere [54].
+ 
+<section> https://doi.org/10.1371/journal.pgph.0000056.t003
+ 
+<section> 0.96 565 1.71 (0.37) 2.71 (0.89) - –1.29 (–3.19, 0.61)
+ 
+<section> 0.85 
+<section> 0.46 
+<section> 0.50 - 
+<section> –0.05 (–0.13, 0.03)
+ 
+<section> (0.026) 
+<section> (0.033)
+ d 
+<section> 0.79 
+<section> 0.28 
+<section> 0.30 - 
+<section> –0.03 (–0.09, 0.03)
+ 
+<section> (0.025) 
+<section> (0.022)
+ 
+<section> 0.57 
+<section> 0.42 
+<section> 0.40 - 
+<section> 0.01 (–0.11, 0.13)
+ 
+<section> (0.046) 
+<section> (0.043)
+ 
+<section> 0.56 
+<section> 0.32 
+<section> 0.37 - 
+<section> –0.05 (–0.12, 0.02)
+ 
+<section> (0.022) 
+<section> (0.027)
+ 
+<section> 0.88 
+<section> 0.10 
+<section> 0.20 - 
+<section> –0.10 (–0.16, –0.43)
+ 
+<section> (0.021) 
+<section> (0.023)
+ 
+<section> 0.56 
+<section> 0.14 
+<section> 0.14 - 
+<section> 0.00 (–0.05, 0.05)
+ 
+<section> (0.017) 
+<section> (0.020)
+ 
+<section> 0.81 
+<section> 0.35 
+<section> 0.32 - 
+<section> 0.02 (–0.06, 0.11)
+ 
+<section> (0.038) 
+<section> (0.028)
+ 
+<section> N % N % 
+<section> PR (95% CI) a 
+<section> PD (95% CI) b
+ - 
+<section> 5.7 
+<section> 8.8 
+<section> 0.50 (0.21, 
+<section> -0.05 (-0.12, 0.03)
+ 
+<section> 1.23)
+ 
+<section> compare the prevalence of the outcomes between the intervention and control arms. Models accounted the stratified
+ and accounted for clustering within kebeles by using generalized estimating equations with robust standard errors.
+ post-estimation commands to estimate the average marginal effects.
+ the difference in the outcomes comparing the intervention and control arms.
+ felt some form of sanitation insecurity (never, sometimes, often, always). These items were then summed with all
+ of items to create a score. The factors were predesignated, and based on a validation that was done in another
+ insecurity. d We used similar linear regression models to estimate difference comparing the outcomes between
+ scale with four response categories (never, rarely, sometimes, often/always), and a total summed score of those
+ indicates greater household water insecurity. We considered water insecure as a score of 12 or more, as described
+ 
+<section> the intervention, pointing to challenges in delivering demand-side sanitation and hygiene
+ interventions at scale and through existing community-based models.
+ We did not find statistical differences between study arms at endline and few promising
+ trends in intervention communities for some of the targeted behaviors. Changes were much
+ lower than with approaches found by Crocker et al. elsewhere in Ethiopia [33, 36]. Similarly,
+ Apanga et al. found that implementation of the Rural Sustainable Sanitation and Hygiene for
+ All (SSH4A) approach that employs a multidimensional intervention led to a large increase
+ 77 percentage points in sanitation coverage in Ethiopia and also coverage gains in many other
+ countries under study [59], although slippage did occur after conclusion of program activities,
+ whereas many other countries sustained their previous sanitation coverage gains [60].
+ Our Andilaye intervention did not statistically impact validated mental health measures.
+ Few studies have measured the impact of a sanitation intervention on mental health outcomes 
+<section> despite calls for broader investigations of sanitation-related health impacts [14, 61, 62]. In
+ rural India, women’s experiences of sanitation, as measured by a validated sanitation insecu-
+ rity measure, were associated with well-being, anxiety, depression, and distress, even when
+ women had access to a facility [25]. Similarly, in urban Mozambique, latrine location and
+ neighborhood violence were important determinants of safety perceptions and corresponding
+ psychosocial stress [63]. These findings highlight the need for interventions to consider the
+ experience of sanitation beyond access to a facility alone and the intrinsic value of sanitation
+ [64]. We assessed if changes to sanitation access and sanitation insecurity—changes that we
+ anticipated would be generated by this intervention—would lead to improved mental health
+ states, including improved well-being and reduction in symptoms associated with anxiety,
+ depression, distress and general wellbeing. The intention-to-treat analysis did not detect
+ changes to mental well-being scores or to sanitation insecurity scores, which was perhaps lim-
+ ited by our short evaluation period, and sanitation quality (Fig 2). However, we saw some,
+ non-statistically different, preventive trends across all mental health measures which were pri-
+ marily among women (90% of respondents). Our impact on sanitation social support is indica-
+ tive of the underlying philosophy of the Andilaye intervention, which was designed contrary
+ the “shame” drivers of more traditional CLTSH [28, 65]. These findings are encouraging
+ despite the low fidelity of the intervention delivery at household-level, suggesting improved
+ fidelity may result in evidence of impact. We believe further studies are warranted to test the
+ hypothesis that improved sanitation would impact mental well-being, as our intervention did
+ not change sanitation behaviors, quality, or access.
+ The purpose of this study was to develop and test an intervention that could be scaled
+ within the existing Ethiopian HEP. The intervention was designed to be incorporated into pre-
+ vailing programs (e.g., HEP) to demonstrate potential for scale-up, and did not succeed in this
+ regard. For example, despite high attendance at trainings and action planning workshops, and
+ the provision of supportive supervision and on-the-job-training tools, many households did
+ not receive Andilaye counseling visits (Fig 3). WDALs and HEWs reported that they did not
+ receive supportive supervision from relevant government officials in accordance with their
+ action plans (S3b Table). While supportive supervision considerations were acknowledged
+ and incorporated into the design of the Andilaye intervention, these requirements did not go
+ above and beyond what is expected of the HEP (S2 Table) [66]. These delivery challenges are
+ consistent with those associated with CLTSH programming and HEP more broadly [37, 67].
+ Additionally, a majority of intervention kebeles had non-active WDALs at the start of imple-
+ mentation, as identified by our Ethiopian-based study team during initial recruitment of activ-
+ ity facilitators. At endline, only 66% of respondents from our process evaluation surveys were
+ able to identify the WDAL responsible for conducting their Andilaye counseling visits (S3c
+ Table). A cross-sectional study in four regions of Ethiopia found similar trends in varying lev-
+ els of WDAL strategy implementation strength among 423 kebeles [68]. Importantly, findings
+ from Damtew et al. suggest HEP outreach activities were higher in kebeles where active WDAL
+ density was higher (i.e., fewer households per active WDAL). Although HEWs were paid
+ health workers, WDALs were not. This has brought questions of ethics and sustainability as
+ WDALs are increasingly asked to provide more and more services. Recent qualitative and
+ quantitative studies suggest that unpaid WDALs are actually worse off than their peers and
+ makes women, especially unmarried women, vulnerable to negative gossip and psychological
+ distress [69, 70]. Although this point goes much deeper into the political economy, it is an
+ important gap to bring up in the context of empowering women volunteers to enact positive
+ change in their communities [71]. Further, when community health workers are paid to
+ deliver the intervention, there is evidence of successful delivery [72]. Together, these findings 
+<section> raise questions about the possibility of bringing new programs and approaches to the HEP
+ without adequate support.
+ Evidence suggests that it is important to move away from information-based interventions
+ to address the array of behavioral factors and determinants that operate at various levels of
+ influence [73–78]. Few sanitation and hygiene interventions employ behavioral theory to
+ locally adapt messages [36, 79]. Exceptions include the SuperAmma intervention, which was
+ developed and implemented in India, and found substantial gains in handwashing with soap
+ [80] and studies that examined the effectiveness of the risk, attitudes, norms, abilities and self-
+ regulation (RANAS) behavioral model to intervention design and showed positive impacts on
+ a variety of WASH behaviors including safe water consumption, solar water disinfection,
+ handwashing, and cleaning of shared sanitation [81–87]. Our intervention aimed to focus on
+ variety of contextually appropriate behavioral factors rather than knowledge alone. Given the
+ low fidelity of the intervention delivery, further capacity building of federal, regional, and
+ local-level government officials as well as community-level change agents may be necessary
+ the successful implementation of approaches that move beyond dissemination of information
+ and messages [88–90].
+ The WASH sector has traditionally relied on unpaid female labor (in this case HEWs,
+ WDALs), which are gender exploitative approaches that reinforce women as the household
+ duty bearers for WASH [91]. While our assessment of mental health highlights the potential
+ impact on women beyond their roles as mothers and caregivers, our intervention strategy pro-
+ vided little exception to the longstanding program strategy of adding to the already burden-
+ some roles as child caregiver. Interventions that fail to assess burdens on women, and mothers
+ in particular, may impose harms or burdens that can exacerbate inequalities [92]. Gender-dis-
+ aggregated data on the workload of women and girls in household responsibilities [93], as well
+ as better sex-disaggregated data on program outcomes could support WASH strategies that
+ lead to gender transformative, and ultimately more sustainable programming [61].
+ 
+<section> Study strengths
+ 
+<section> Our intervention was theory-informed and included an extensive intervention design process
+ during which we emphasized the solicitation and incorporation of feedback from key stake-
+ holders at regional, zonal, woreda, and community-levels. It was designed to be delivered at
+ scale within the Ethiopian HEP. We utilized a randomized study design, in which intervention
+ and control communities were allocated to treatment arms randomly. While CRTs tend to
+ emphasize internal validity, we made considerable effort to enhance external validity. Our
+ study was spread over three woredas in two zones, yielding a heterogeneous mix of contexts
+ and topographical conditions—which serve as a proxy for factors such as soil type, access to
+ markets, and flooding risk—and support external validity of the findings. To improve interval
+ validity, we used a ‘fried egg’ [47] approach—while allocation occurred at the kebele level,
+ intervention activities and data collection occur in one to two sentinel gotts per kebele, purpo-
+ sively selected to minimize spillover. We targeted both rural and peri-urban communities and
+ collected behavioral outcome data on a variety of household members (e.g., primary female
+ caregiver of index child, head of household, all children aged 0–17 years).
+ 
+<section> Study limitations
+ 
+<section> The study faced significant delays in gaining local ethical approval to start the project which
+ led to truncated implementation and follow-up periods. Key government actors were less
+ involved than planned, which may have led to sub-optimal fidelity. The integration of Andilaye
+ intervention activities into non-Ethiopian HEP delivery structures (e.g., hired independent 
+<section> community implementers) may yield further investigations into the effectiveness of the inter-
+ vention on sustained behavior change and mental well-being. Several of our behavioral out-
+ comes were reported (vs. observed), and these types of outcomes may be prone to reporting
+ biases, indicated by differences in our reported and observed measures.
+ 
+<section> Conclusions
+ 
+<section> We did not find that the Andilaye intervention yielded changes in behaviors and conditions
+ related to sanitation, personal hygiene, or household environmental sanitation; nor did it
+ impact mental health outcomes. Limited integration of Andilaye activities into the HEP likely
+ explains the minimal impact observed and points to considerable challenges related to imple-
+ menting demand-side interventions at scale in Ethiopia. There is a crucial need to identify and
+ scale effective service delivery models in order to meet the ambitious Sustainable Development
+ Goal targets for sanitation and hygiene [94]. Evidence from this trial may help address knowl-
+ edge gaps related to scalable alternatives to CLTSH and inform sanitation and hygiene pro-
+ gramming and policy in Ethiopia and beyond. A greater emphasis on implementation
+ research in WASH delivery would support tools and approaches for developing, testing, and
+ adapting scalable best-practice interventions [95].
+ 
+<section> Supporting information
+ 
+<section> S1 Fig. Diagram summarizing the Andilaye intervention.
+ 
+<section> (PDF)
+ 
+<section> S1 Table. Summary of the Andilaye intervention activities and dates of delivery.
+ 
+<section> (PDF)
+ 
+<section> S2 Table. Alignment of relevant roles and responsibilities of the Ethiopian Health Exten-
+ sion Programme (HEP) and Andilaye 
+<section> Trial.
+ 
+<section> (PDF)
+ 
+<section> S3 Table. Summary of process data for the Andilaye 
+<section> Trial.
+ 
+<section> (PDF)
+ 
+<section> S4 Table. Andilaye 
+<section> Trial indicators used to assess WASH behavior.
+ 
+<section> (PDF)
+ 
+<section> Acknowledgments
+ 
+<section> The authors would like to thank our Andilaye study participants, who generously gave their
+ time to participate in our formative work, behavioral trials, and summative assessment sur-
+ veys. We are grateful for the support we receive from numerous partners at the Democratic
+ Republic of Ethiopia’s Federal Ministry of Health; the Amhara Regional Health Bureau; South
+ Gondar and West Gojjam Zonal Health Departments; and the Bahir Dar Zuria, Farta, and
+ Fogera Woreda Health Offices. We would also like to acknowledge support provided by the
+ Health Extension Workers, Women’s Development Army Leaders, and Health Development
+ Army members from our study kebeles. We thank the cadre of field supervisors and enumera-
+ tors who captured these data (Yeworkwuha Abay, Mantegbosh Abebe, Selamawit Abebe,
+ Tigist Abebe, Rosa Abesha, Mahider Adamu, Balemlaye Addisu, Adanech Admasu, Tirusew
+ Alayu, Adisalem Arega, Yalemwork Asaye, Destaw Asnakew, Yalemwork Ayanew, Ayalnesh
+ Belay, Asayech Bimrew, Tigist Bitew, Tiruzer Engidaw, Yeserash Gashaw, Natsenat Gebretsad-
+ kan, Woyneshet Genetu, Tewodaj Gizachew, Tibeltalech Mihiret, Yehizbalem Minale, Senait 
+<section> Mulualem, Eleni Nebiyu, Elsabet Seyoum, Mulubirhan Shitu, Sewunet Tadesse, Beza Tesfaye,
+ Rahel Tsegaye, Sintayehu Wasihun, and Maritu Yibrie).
+ 
+<section> Author Contributions
+ 
+<section> Conceptualization: Matthew C. Freeman, Maryann G. Delea.
+ 
+<section> Formal analysis: Matthew C. Freeman, Jedidiah S. Snyder, Joshua V. Garn.
+ 
+<section> Funding acquisition: Matthew C. Freeman, Maryann G. Delea, Abebe Gebremariam
+ Gobezayehu.
+ 
+<section> Investigation: Matthew C. Freeman, Maryann G. Delea, Jedidiah S. Snyder, Gloria D. Sclar,
+ Yihenew Tesfaye, Mulat Woreta, Kassahun Zewudie, Abebe Gebremariam Gobezayehu.
+ 
+<section> Methodology: Matthew C. Freeman, Maryann G. Delea, Jedidiah S. Snyder, Joshua V. Garn,
+ Bethany A. Caruso, Thomas F. Clasen.
+ 
+<section> Project administration: Matthew C. Freeman, Maryann G. Delea, Jedidiah S. Snyder, Mulu-
+ sew Belew, Kassahun Zewudie, Abebe Gebremariam Gobezayehu.
+ 
+<section> Supervision: Matthew C. Freeman, Maryann G. Delea, Jedidiah S. Snyder, Mulusew Belew,
+ Mulat Woreta, Kassahun Zewudie, Abebe Gebremariam Gobezayehu.
+ 
+<section> Writing – original draft: Matthew C. Freeman.
+ 
+<section> Writing – review & editing: Matthew C. Freeman, Maryann G. Delea, Jedidiah S. Snyder,
+ Joshua V. Garn, Mulusew Belew, Bethany A. Caruso, Thomas F. Clasen, Gloria D. Sclar,
+ Yihenew Tesfaye, Mulat Woreta, Kassahun Zewudie, Abebe Gebremariam Gobezayehu.
+ 
+<section> References
+ 
+<section> Freeman MC, Garn JV, Sclar GD, Boisson S, Medlicott K, Alexander KT, et al. The impact of sanitation
+ on infectious disease and nutritional status: A systematic review and meta-analysis. Int J Hyg Environ
+ Health. 2017; 220: 928–949. https://doi.org/10.1016/j.ijheh.2017.05.007 PMID: 28602619
+ Wolf J, Hunter PR, Freeman MC, Cumming O, Clasen T, Bartram J, et al. Impact of drinking water, sani-
+ tation and handwashing with soap on childhood diarrhoeal disease: updated meta-analysis and meta-
+ regression. Trop Med Int Health. 2018; 23: 508–525. https://doi.org/10.1111/tmi.13051 PMID:
+ 
+<section> 29537671
+ Troeger C, Blacker BF, Khalil IA, Rao PC, Cao S, Zimsen SR, et al. Estimates of the global, regional,
+ and national morbidity, mortality, and aetiologies of diarrhoea in 195 countries: a systematic analysis
+ the Global Burden of Disease Study 2016. Lancet Infect Dis. 2018; 18: 1211–1228. https://doi.org/10.
+ 1016/S1473-3099(18)30362-1 PMID: 30243583
+ Roth GA, Abate D, Abate KH, Abay SM, Abbafati C, Abbasi N, et al. Global, regional, and national age-
+ sex-specific mortality for 282 causes of death in 195 countries and territories, 1980–2017: a systematic
+ analysis for the Global Burden of Disease Study 2017. The Lancet. 2018; 392: 1736–1788. https://doi.
+ org/10.1016/S0140-6736(18)32203-7 PMID: 30496103
+ Freeman MC, Ogden S, Jacobson J, Abbott D, Addiss DG, Amnie AG, et al. Integration of water, sanita-
+ tion, and hygiene for the prevention and control of neglected tropical diseases: a rationale for inter-sec-
+ toral collaboration. PLoS Negl Trop Dis. 2013; 7: e2439. https://doi.org/10.1371/journal.pntd.0002439
+ 
+<section> PMID: 24086781
+ WHO. WASH and health working together: A “how to” guide for neglected tripical disease programmes.
+ 
+<section> Geneva: World Health Organization & the Neglected Tropical Disease NGO Network; 2019.
+ Murray CJ, Vos T, Lozano R, Naghavi M, Flaxman AD, Michaud C, et al. Disability-adjusted life years
+ (DALYs) for 291 diseases and injuries in 21 regions, 1990–2010: a systematic analysis for the Global
+ Burden of Disease Study 2010. Lancet. 2013; 380: 2197–2223.
+ Pullan RL, Smith JL, Jasrasaria R, Brooker SJ. Global numbers of infection and disease burden of soil
+ transmitted helminth infections in 2010. Parasit Vectors. 2014; 7:
+ Resnikoff S, Pascolini D, Etya’ale D, Kocur I, Pararajasegaram R, Pokharel GP, et al. Global data on
+ visual impairment in the year 2002. Bull World Health Organ. 2004; 82: 844–51. PMID: 15640920 
+<section> Stocks ME, Ogden S, Haddad D, Addiss DG, McGuire C, Freeman MC. Effect of water, sanitation, and
+ hygiene on the prevention of trachoma: a systematic review and meta-analysis. PLoS Med. 2014; 11:
+ e1001605. https://doi.org/10.1371/journal.pmed.1001605 PMID: 24586120
+ Prüss-Ustün A, Wolf J, Corvalán C, Bos R, Neira M. Preventing disease through healthy environments:
+ A global assessment of the burden of disease through environmental risks. Geneva: WHO; 2016.
+ Grimes JE, Croll D, Harrison WE, Utzinger J, Freeman MC, Templeton MR. The relationship between
+ water, sanitation and schistosomiasis: a systematic review and meta-analysis. PLoS Negl Trop Dis.
+ 2014; 8: e3296. https://doi.org/10.1371/journal.pntd.0003296 PMID: 25474705
+ Strunz EC, Addiss DG, Stocks ME, Ogden S, Utzinger J, Freeman MC. Water, sanitation, hygiene, and
+ soil-transmitted helminth infection: a systematic review and meta-analysis. PLoS Med. 2014; 11:
+ e1001620. https://doi.org/10.1371/journal.pmed.1001620 PMID: 24667810
+ Sclar GD, Penakalapati G, Caruso BA, Rehfuess EA, Garn JV, Alexander KT, et al. Exploring the rela-
+ tionship between sanitation and mental and social well-being: A systematic review and qualitative syn-
+ thesis. Soc Sci Med. 2018; 217: 121–134. https://doi.org/10.1016/j.socscimed.2018.09.016 PMID:
+ 
+<section> 30316053
+ 
+<section> Bisung E, Elliott SJ. Psychosocial impacts of the lack of access to water and sanitation in low-and mid-
+ dle-income countries: a scoping review. J Water Health. 2017; 15: 17–30. https://doi.org/10.2166/wh.
+ 
+<section> 2016.158 PMID: 28151436
+ 
+<section> Kangmennaang J, Elliott SJ. Linking water (in)security and wellbeing in low-and middle-income coun-
+ tries. Water Secur. 2021; 13: 100089. https://doi.org/10.1016/j.wasec.2021.100089
+ Wutich A, Brewis A, Tsai A. Water and mental health. WIREs Water. 2020; 7. https://doi.org/10.1002/
+ 
+<section> wat2.1461
+ 
+<section> Brewis A, Choudhary N, Wutich A. Household water insecurity may influence common mental disorders
+ directly and indirectly through multiple pathways: Evidence from Haiti. Soc Sci Med. 2019; 238: 112520.
+ https://doi.org/10.1016/j.socscimed.2019.112520 PMID: 31473576
+ Collins SM, Mbullo Owuor P, Miller JD, Boateng GO, Wekesa P, Onono M, et al. ‘I know how stressful
+ is to lack water!’ Exploring the lived experiences of household water insecurity among pregnant and
+ postpartum women in western Kenya. Glob Public Health. 2019; 14: 649–662. https://doi.org/10.1080/
+ 17441692.2018.1521861 PMID: 30231793
+ 
+<section> Mushavi RC, Burns BFO, Kakuhikire B, Owembabazi M, Vořechovská D, McDonough AQ, et al. “When
+ you have no water, it means you have no peace”: A mixed-methods, whole-population study of water
+ insecurity and depression in rural Uganda. Soc Sci Med. 2020; 245: 112561. https://doi.org/10.1016/j.
+ socscimed.2019.112561 PMID: 31790879
+ 
+<section> Stevenson EG, Greene LE, Maes KC, Ambelu A, Tesfaye YA, Rheingans R, et al. Water insecurity in
+ dimensions: An anthropological perspective on water and women’s psychological distress in Ethiopia.
+ Soc Sci Med. 2012; 75: 392–400. https://doi.org/10.1016/j.socscimed.2012.03.022 PMID: 22575697
+ Biswas D, Joshi S. Sanitation and gendered psychosocial stress in peri-urban Bangalore. Dev Pract.
+ 2021; 31: 548–557. https://doi.org/10.1080/09614524.2020.1862762
+ Caruso BA, Clasen TF, Hadley C, Yount KM, Haardörfer R, Rout M, et al. Understanding and defining
+ sanitation insecurity: Women’s gendered experiences of urination, defecation and menstruation in rural
+ Odisha, India. BMJ Glob Health. 2017; 2: e000414. https://doi.org/10.1136/bmjgh-2017-000414 PMID:
+ 
+<section> 29071131
+ 
+<section> Sahoo KC, Hulland KRS, Caruso BA, Swain R, Freeman MC, Panigrahi P, et al. Sanitation-related psy-
+ chosocial stress: A grounded theory study of women across the life-course in Odisha, India. Soc Sci
+ Med. 2015; 139: 80–89. https://doi.org/10.1016/j.socscimed.2015.06.031 PMID: 26164119
+ Caruso BA, Cooper HL, Haardörfer R, Yount KM, Routray P, Torondel B, et al. The association between
+ women’s sanitation experiences and mental health: A cross-sectional study in Rural, Odisha India.
+ SSM-Popul Health. 2018; 5: 257–266. https://doi.org/10.1016/j.ssmph.2018.06.005 PMID: 30094321
+ Stevenson E, Ambelu A, Caruso B, Tesfaye Y, Freeman M. Community water improvement, household
+ water insecurity, and women’s psychological distress: An intervention and control study in Ethiopia.
+ PloS One. 2016; 11: e0153432. https://doi.org/10.1371/journal.pone.0153432 PMID: 27124391
+ Garn JV, Sclar GD, Freeman MC, Penakalapati G, Alexander KT, Brooks P, et al. The impact of sanita-
+ tion interventions on latrine coverage and latrine use: A systematic review and meta-analysis. Int J Hyg
+ Environ Health. 2017; 220: 329–340. https://doi.org/10.1016/j.ijheh.2016.10.001 PMID: 27825597
+ Kar K, Chambers R. Handbook on community-led total sanitation. 2008.
+ Patil SR, Arnold BF, Salvatore AL, Briceno B, Ganguly S, Colford JM Jr, et al. The Effect of India’s Total
+ Sanitation Campaign on Defecation Behaviors and Child Health in Rural Madhya Pradesh: A Cluster
+ Randomized Controlled Trial. PLOS Med. 2014; 11: e1001709. https://doi.org/10.1371/journal.pmed.
+ 
+<section> 1001709 PMID: 25157929 
+<section> Pattanayak SK, Yang J-C, Dickinson KL, Poulos C, Patil SR, Mallick RK, et al. Shame or subsidy revis-
+ ited: social mobilization for sanitation in Orissa, India. Bull World Health Organ. 2009; 87: 580–587.
+ https://doi.org/10.2471/blt.08.057422 PMID: 19705007
+ 
+<section> Pickering AJ, Djebbari H, Lopez C, Coulibaly M, Alzua ML. Effect of a community-led sanitation inter-
+ vention on child diarrhoea and child growth in rural Mali: a cluster-randomised controlled trial. Lancet
+ Glob Health. 2015; 3: e701–e711. https://doi.org/10.1016/S2214-109X(15)00144-8 PMID: 26475017
+ Crocker J, Abodoo E, Asamani D, Domapielle W, Gyapong B, Bartram J. Impact evaluation of training
+ natural leaders during a community-led total sanitation intervention: a cluster-randomized field trial in
+ Ghana. Environ Sci Technol. 2016; 50: 8867–8875. https://doi.org/10.1021/acs.est.6b01557 PMID:
+ 
+<section> 27428399
+ 
+<section> Crocker J, Geremew A, Atalie F, Yetie M, Bartram J. Teachers and sanitation promotion: an assess-
+ ment of community-led total sanitation in Ethiopia. Environ Sci Technol. 2016; 50: 6517–6525. https://
+ doi.org/10.1021/acs.est.6b01021 PMID: 27211881
+ 
+<section> Guiteras R, Levinsohn J, Mobarak AM. Encouraging sanitation investment in the developing world: a
+ cluster-randomized trial. Science. 2015; 348: 903–906. https://doi.org/10.1126/science.aaa0491 PMID:
+ 
+<section> 25883316
+ 
+<section> Hammer J, Spears D. Village sanitation and child health: effects and external validity in a randomized
+ field experiment in rural India. J Health Econ. 2016; 48: 135–148. https://doi.org/10.1016/j.jhealeco.
+ 
+<section> 2016.03.003 PMID: 27179199
+ 
+<section> Crocker J, Saywell D, Bartram J. Sustainability of community-led total sanitation outcomes: Evidence
+ from Ethiopia and Ghana. Int J Hyg Environ Health. 2017; 220: 551–557. https://doi.org/10.1016/j.ijheh.
+ 
+<section> 2017.02.011 PMID: 28522255
+ 
+<section> Snel M, Jacimovic R. Turning CLTS Challenges into Opportunities for Success. PanAfrican CLTS Pro-
+ gramme: Empowering Self-Help Sanitation of Rural and Peri-Urban Communities and Schools in Africa.
+ 
+<section> The Hague, The Netherlands: IRC; 2014.
+ 
+<section> Alemu F, Kumie A, Medhin G, Gebre T, Godfrey P. A socio-ecological analysis of barriers to the adop-
+ tion, sustainablity and consistent use of sanitation facilities in rural Ethiopia. BMC Public Health. 2017;
+ 17: 706. https://doi.org/10.1186/s12889-017-4717-6 PMID: 28903743
+ Berhe R, Delea M, Sclar G, Woreta M, Zewudie K, Muhammed S, et al. Maintaining behaviour change:
+ innovations in demand-side sanitation and hygiene interventions. Shaw RJ Ed Transform Sustain Resil-
+ ient WASH Serv Proc 41st WEDC Int Conf Nakuru Kenya 9–13 July 2018. 2018;
+ Abebe TA, Tucho GT. Open defecation-free slippage and its associated factors in Ethiopia: a system-
+ atic review. Syst Rev. 2020; 9: 252. https://doi.org/10.1186/s13643-020-01511-6 PMID: 33143715
+ Delea MG, Snyder JS, Belew M, Caruso BA, Garn JV, Sclar GD, et al. Design of a parallel cluster-ran-
+ domized trial assessing the impact of a demand-side sanitation and hygiene intervention on sustained
+ behavior change and mental well-being in rural and peri-urban Amhara, Ethiopia: Andilaye study proto-
+ col. BMC Public Health. 2019; 19: 801. https://doi.org/10.1186/s12889-019-7040-6 PMID: 31226957
+ Flay BR, Petraitis J. The Theory of Triadic Influence: A New Theory of Health Behavior With Implica-
+ tions for Preventive Interventions. Adv Med Sociol. 1994; 4: 19–44.
+ 
+<section> Michie S, Richardson M, Johnston M, Abraham C, Francis J, Hardeman W, et al. The behavior change
+ technique taxonomy (v1) of 93 hierarchically clustered techniques: building an international consensus
+ for the reporting of behavior change interventions. Ann Behav Med Publ Soc Behav Med. 2013; 46: 81–
+ 95. https://doi.org/10.1007/s12160-013-9486-6 PMID: 23512568
+ 
+<section> Mosler HJ. A systematic approach to behavior change interventions for the water and sanitation sector
+ in developing countries: a conceptual model, a review, and a guideline. Int J Env Health Res. 2012; 22:
+ 431–49. https://doi.org/10.1080/09603123.2011.650156 PMID: 22292899
+ CSA-Ethiopia ICF. International: Ethiopia Demographic and Health Survey 2016. Cent Stat Agency
+ Ethiop ICF Int Addis Ababa Ethiop Calverton Md USA. 2017.
+ 
+<section> Initiative International Trachoma. Global Trachoma Atlas. Trach Atlas Available. 2019.
+ Hayes RJ, Moulton LH. Cluster Randomised Trials. Taylor & Francis; 2009. https://books.google.co.uk/
+ books?id=p-rPAAAACAAJ.
+ 
+<section> Lachin JM. Statistical properties of randomization in clinical trials. Control Clin Trials. 1988; 9: 289–311.
+ https://doi.org/10.1016/0197-2456(88)90045-1 PMID: 3060315
+ 
+<section> Wang H, Tesfaye R, Ramana G, Chekagn C. Ethiopia Health Extension Program: An Institutionalized
+ Community Approach for Universal Health Coverage. Washington, D.C.: World Bank; 2016.
+ Delea M, Sclar G, Woreta M, Haardörfer R, Nagel C, Caruso B, et al. Collective efficacy: Development
+ and validation of a measurement scale for use in public health and development programmes. Int J
+ Environ Res Public Health. 2018; 15: 2139. https://doi.org/10.3390/ijerph15102139 PMID: 30274212 
+<section> The Federal Democratic Republic of Ethiopia Ministry of Health. Implementation Guideline for CLTSH
+ Programming. Addis Ababa. 2012.
+ Bech P. Measuring the dimension of psychological general well-being by the WHO-5. Qual Life Newsl.
+ 
+<section> 2004; 15–16.
+ Derogatis LR, Lipman RS, Rickels K, Uhlenhuth EH, Covi L. The Hopkins Symptom Checklist (HSCL):
+ A self-report symptom inventory. Behav Sci. 1974; 19: 1–15. https://doi.org/10.1002/bs.3830190102
+ 
+<section> PMID: 4808738
+ Young SL, Boateng GO, Jamaluddine Z, Miller JD, Frongillo EA, Neilands TB, et al. The Household
+ 
+<section> Water InSecurity Experiences (HWISE) Scale: development and validation of a household water inse-
+ curity measure for low-income and middle-income countries. BMJ Glob Health. 2019; 4. https://doi.org/
+ 10.1136/bmjgh-2019-001750 PMID: 31637027
+ Carroll C, Patterson M, Wood S, Booth A, Rick J, Balain S. A conceptual framework for implementation
+ fidelity. Implement Sci. 2007; 2: 40. https://doi.org/10.1186/1748-5908-2-40 PMID: 18053122
+ Hadley C, Tegegn A, Tessema F, Cowan JA, Asefa M, Galea S. Food insecurity, stressful life events
+ and symptoms of anxiety and depression in east Africa: evidence from the Gilgel Gibe growth and
+ development study. J Epidemiol Community Health. 2008; 62: 980–986. https://doi.org/10.1136/jech.
+ 
+<section> 2007.068460 PMID: 18854502
+ Hadley C, Patil CL. Food insecurity in rural Tanzania is associated with maternal anxiety and depres-
+ sion. Am J Hum Biol. 2006; 18: 359–368. https://doi.org/10.1002/ajhb.20505 PMID: 16634017
+ Kahan BC, Morris TP. Reporting and analysis of trials using stratified randomisation in leading medical
+ journals: review and reanalysis. BMJ. 2012; 345: e5840. https://doi.org/10.1136/bmj.e5840 PMID:
+ 
+<section> 22983531
+ Apanga PA, Garn JV, Sakas Z, Freeman MC. Assessing the Impact and Equity of an Integrated Rural
+ 
+<section> Sanitation Approach: A Longitudinal Evaluation in 11 Sub-Saharan Africa and Asian Countries. Int J
+ Environ Res Public Health. 2020; 17: 1808. https://doi.org/10.3390/ijerph17051808 PMID: 32164375
+ Sakas Z, Apanga PA, Freeman M, Snyder JS, Garn JV. Assessing the sustainability of an integrated
+ rural sanitation approach in 10 countries in Africa and Asia. Colorado WASH Symposium; 2021 Mar
+ University of Colorado, Boulder.
+ Caruso BA, Sevilimedu V, Fung IC-H, Patkar A, Baker KK. Gender disparities in water, sanitation, and
+ global health. Lancet Lond Engl. 2015; 386: 650–651. https://doi.org/10.1016/S0140-6736(15)61497-0
+ Pradyumna A, Im P, Ck G. Moving beyond sanitation’s diarrhoea fixation. Lancet Glob Health. 2015;
+ e16. https://doi.org/10.1016/S2214-109X(14)70288-8 PMID: 25539960
+ Shiras T, Cumming O, Brown J, Muneme B, Nala R, Dreibelbis R. Shared latrines in Maputo, Mozam-
+ bique: exploring emotional well-being and psychosocial stress. BMC Int Health Hum Rights. 2018; 18:
+ 30. https://doi.org/10.1186/s12914-018-0169-z PMID: 30045729
+ Jain A, Subramanian SV. Intrinsic and instrumental perspectives to sanitation. SSM—Popul Health.
+ 2018; 5: 267–269. https://doi.org/10.1016/j.ssmph.2018.07.005 PMID: 30094322
+ Bateman M, Engel S. To shame or not to shame—that is the sanitation question. Dev Policy Rev. 2018;
+ 36: 155–173. https://doi.org/10.1111/dpr.12317
+ Workie NW and R Gandham NV. Ethiopia—The health extension program in Ethiopia. Washington,
+ DC: World Bank; 2013. http://documents.worldbank.org/curated/en/356621468032070256/Ethiopia-
+ The-health-extension-program-in-Ethiopia.
+ Assefa Y, Gelaw YA, Hill PS, Taye BW, Van Damme W. Community health extension program of Ethio-
+ pia, 2003–2018: successes and challenges toward universal coverage for primary healthcare services.
+ Glob Health. 2019; 15: 24. https://doi.org/10.1186/s12992-019-0470-1 PMID: 30914055
+ Damtew ZA, Karim AM, Chekagn CT, Fesseha Zemichael N, Yihun B, Willey BA, et al. Correlates of
+ Women’s Development Army strategy implementation strength with household reproductive, maternal,
+ newborn and child healthcare practices: a cross-sectional study in four regions of Ethiopia. BMC Preg-
+ nancy Childbirth. 2018; 18: 373. https://doi.org/10.1186/s12884-018-1975-y PMID: 30255789
+ Maes K, Closser S, Tesfaye Y, Abesha R. Psychosocial distress among unpaid community health work-
+ ers in rural Ethiopia: Comparing leaders in Ethiopia’s Women’s Development Army to their peers. Soc
+ Sci Med. 2019; 230: 138–146. https://doi.org/10.1016/j.socscimed.2019.04.005 PMID: 31009880
+ Maes K, Closser S, Tesfaye Y, Gilbert Y, Abesha R. Volunteers in Ethiopia’s women’s development
+ army are more deprived and distressed than their neighbors: cross-sectional survey data from rural
+ Ethiopia. BMC Public Health. 2018; 18: 258. https://doi.org/10.1186/s12889-018-5159-5 PMID:
+ 
+<section> 29444660
+ Closser S, Napier H, Maes K, Abesha R, Gebremariam H, Backe G, et al. Does volunteer community
+ health work empower women? Evidence from Ethiopia’s Women’s Development Army. Health Policy
+ Plan. 2019. https://doi.org/10.1093/heapol/czz025 PMID: 31143930 
+<section> Fankhauser K, Nagel CL, Barstow CK, Kirby M, Thomas EA. Geospatial-temporal, demographic, and
+ programmatic adoption characteristics of a large-scale water filter and improved cookstove intervention
+ in Western Province, Rwanda. Cogent Environ Sci. 2019; 5: 1625481.
+ Briscoe C, Aboud F. Behaviour change communication targeting four health behaviours in developing
+ countries: a review of change techniques. Soc Sci Med 1982. 2012; 75: 612–621. https://doi.org/10.
+ 1016/j.socscimed.2012.03.016 PMID: 22541798
+ Hulland K, Martin N, Dreibelbis R, DeBruicker Valliant J, Winch P. What factors affect sustained adop-
+ tion of safe water, hygiene and sanitation technologies? A systematic review of literature Hulland K,
+ Martin N, Dreibelbis R, DeBruicker Valliant J, Winch P (2015) What factors affect sustained adoption
+ safe water, hygiene and sanitation technologies? A systematic review of literature. London: EPPI-Cen-
+ tre, Social Science Research Unit, UCL Institute of Education, University College London. UCL Institute
+ of Education, University College London: London: EPPI-Centre, Social Science Research Unit; 2015
+ p.
+ Marteau TM, Hollands GJ, Fletcher PC. Changing human behavior to prevent disease: the importance
+ of targeting automatic processes. Science. 2012; 337: 1492–1495. https://doi.org/10.1126/science.
+ 
+<section> 1226918 PMID: 22997327
+ Rabbi SE, Dey NC. Exploring the gap between hand washing knowledge and practices in Bangladesh:
+ a cross-sectional comparative study. BMC Public Health. 2013; 13: 89. https://doi.org/10.1186/1471-
+ 
+<section> 2458-13-89 PMID: 23363772
+ Wood W, Neal DT. Healthy through habit: Interventions for initiating & maintaining health behavior
+ change. Behav Sci Policy. 2016; 2: 71–83. https://doi.org/10.1353/bsp.2016.0008
+ Delea MG, Solomon H, Solomon AW, Freeman MC. Interventions to maximize facial cleanliness and
+ achieve environmental improvement for trachoma elimination: A review of the grey literature. PLoS
+ Negl Trop Dis. 2018; 12: e0006178. https://doi.org/10.1371/journal.pntd.0006178 PMID: 29370169
+ Whittington D, Radin M, Jeuland M. Evidence-based policy analysis? The strange case of the random-
+ ized controlled trials of community-led total sanitation. Oxf Rev Econ Policy. 2020; 36: 191–221.
+ Biran A, Schmidt WP, Varadharajan KS, Rajaraman D, Kumar R, Greenland K, et al. Effect of a behav-
+ iour-change intervention on handwashing with soap in India (SuperAmma): a cluster-randomised trial.
+ Lancet Glob Health. 2014; 2: e145–54. https://doi.org/10.1016/S2214-109X(13)70160-8 PMID:
+ 
+<section> 25102847
+ 
+<section> Contzen N, Meili IH, Mosler H-J. Changing handwashing behaviour in southern Ethiopia: A longitudinal
+ study on infrastructural and commitment interventions. Soc Sci Med. 2015; 124: 103–114. https://doi.
+ org/10.1016/j.socscimed.2014.11.006 PMID: 25461867
+ Friedrich MND, Kappler A, Mosler H-J. Enhancing handwashing frequency and technique of primary
+ caregivers in Harare, Zimbabwe: A cluster-randomized controlled trial using behavioral and microbial
+ outcomes. Soc Sci Med. 2018; 196: 66–76. https://doi.org/10.1016/j.socscimed.2017.10.025 PMID:
+ 
+<section> 29128787
+ Huber AC, Tobias R, Mosler H-J. Evidence-Based Tailoring of Behavior-Change Campaigns: Increas-
+ ing Fluoride-Free Water Consumption in Rural Ethiopia with Persuasion: Tailoring of Behavior-Change
+ Campaigns. Appl Psychol Health Well-Being. 2014; 6: 96–118. https://doi.org/10.1111/aphw.12018
+ 
+<section> PMID: 24218018
+ Inauen J, Mosler H-J. Developing and testing theory-based and evidence-based interventions to pro-
+ mote switching to arsenic-safe wells in Bangladesh. J Health Psychol. 2014; 19: 1483–1498. https://doi.
+ org/10.1177/1359105313493811 PMID: 23864069
+ Kraemer SM, Mosler H-J. Effectiveness and Effects of Promotion Strategies for Behaviour Change:
+ 
+<section> Solar Water Disinfection in Zimbabwe: PROMOTION OF BEHAVIOUR CHANGE. Appl Psychol. 2012;
+ 61: 392–414. https://doi.org/10.1111/j.1464-0597.2011.00475.x
+ Lilje J, Mosler H-J. Effects of a behavior change campaign on household drinking water disinfection in
+ the Lake Chad basin using the RANAS approach. Sci Total Environ. 2018; 619–620: 1599–1607.
+ https://doi.org/10.1016/j.scitotenv.2017.10.142 PMID: 29111247
+ Tumwebaze IK, Mosler H-J. Effectiveness of group discussions and commitment in improving cleaning
+ behaviour of shared sanitation users in Kampala, Uganda slums. Soc Sci Med. 2015; 147: 72–79.
+ https://doi.org/10.1016/j.socscimed.2015.10.059 PMID: 26547047
+ Abbink J. Dam controversies: contested governance and developmental discourse on the Ethiopian
+ 
+<section> Omo River dam: DAM CONTROVERSIES, ETHIOPIA. Soc Anthropol. 2012; 20: 125–144. https://doi.
+ 
+<section> org/10.1111/j.1469-8676.2012.00196.x
+ Adem TA. The Local Politics of Ethiopia’s Green Revolution in South Wollo. Afr Stud Rev. 2012; 55: 81–
+ 102. https://doi.org/10.1017/S0002020600007216 
+<section> Maes K, Closser S, Vorel E, Tesfaye Y. A Women’s Development Army: Narratives of Community
+ Health Worker Investment and Empowerment in Rural Ethiopia. Stud Comp Int Dev. 2015; 50: 455–
+ 478. https://doi.org/10.1007/s12116-015-9197-z
+ Pederson A, Greaves L, Poole N. Gender-transformative health promotion for women: a framework for
+ action. Health Promot Int. 2015; 30: 140–150. https://doi.org/10.1093/heapro/dau083 PMID: 25231058
+ Evans DK, Jakiela P, Knauer HA. The impact of early childhood interventions on mothers. Science.
+ 2021; 372: 794–796. https://doi.org/10.1126/science.abg0132 PMID: 34016770
+ Caruso BA, Sinharoy SS. Gender data gaps represent missed opportunities in WASH. Lancet Glob
+ Health. 2019; 7: e1617. https://doi.org/10.1016/S2214-109X(19)30449-8 PMID: 31708141
+ Amebelu A, Ban R, Bhagwan J, Brown J, Chilengi R, Chandler C, et al. The Lancet Commission on
+ water, sanitation and hygiene, and health. The Lancet. 2021; 0. https://doi.org/10.1016/S0140-6736
+ 
+<section> (21)02005-5
+ Haque SS, Freeman MC. The Applications of Implementation Science in Water, Sanitation, and
+ Hygiene (WASH) Research and Practice. Environ Health Perspect. 2021; 129: 065002. https://doi.org/
+ 
+<section> 10.1289/EHP7762 PMID: 34132602

@@ -1,0 +1,724 @@
+
+<section> ISSN 1916-9736 
+<section> E-ISSN 1916-9744
+ Published by Canadian Center of Science and Education
+ 
+<section> Carnosine Treatment for Gulf War Illness:
+ 
+<section> A Randomized Controlled Trial
+ 
+<section> James N. Baraniuk , Suliman El-Amin , Rebecca Corey , Rakib U. Rayhan 1 & Christian R. Timbol
+ Divison of Rheumatology, Immunology and Allergy, Georgetown University, Washington DC, USA
+ Correspondence: James N. Baraniuk, Divison of Rheumatology, Immunology, and Allergy, Room 3004F, 3PHC
+ Building, Georgetown University, 3800 Reservoir Rd NW, Washington DC 20007-2197, USA. Tel:
+ 1-202-687-8231. Fax: 1-202-687-9886. E-mail: baraniuj@georgetown.edu
+ 
+<section> Received: January 15, 2013 
+<section> Accepted: February 1, 2013 
+<section> Online Published: February 4, 2013
+ 
+<section> doi:10.5539/gjhs.v5n3p69 
+<section> URL: http://dx.doi.org/10.5539/gjhs.v5n3p69
+ 
+<section> Abstract
+ 
+<section> About 25% of 1990-1991 Persian Gulf War veterans experience disabling fatigue, widespread pain, and
+ cognitive dysfunction termed Gulf War illness (GWI) or Chronic Multisymptom Illness (CMI). A leading theory
+ proposes that wartime exposures initiated prolonged production of reactive oxygen species (ROS) and central
+ nervous system injury. The endogenous antioxidant L-carnosine (β-alanyl-L-histidine) is a potential treatment
+ since it is a free radical scavenger in nervous tissue. To determine if nutritional supplementation with
+ L-carnosine would significantly improve pain, cognition and fatigue in GWI, a randomized double blind placebo
+ controlled 12 week dose escalation study involving 25 GWI subjects was employed. L-carnosine was given as
+ 500, 1000, and 1500 mg increasing at 4 week intervals. Outcomes included subjective fatigue, pain and
+ psychosocial questionnaires, and instantaneous fatigue and activity levels recorded by ActiWatch Score devices.
+ Cognitive function was evaluated by WAIS-R digit symbol substitution test. Carnosine had 2 potentially
+ beneficial effects: WAIS-R scores increased significantly, and there was a decrease in diarrhea associated with
+ irritable bowel syndrome. No other significant incremental changes were found. Therefore, 12 weeks of
+ carnosine (1500 mg) may have beneficial cognitive effects in GWI. Fatigue, pain, hyperalgesia, activity and
+ other outcomes were resistant to treatment.
+ 
+<section> Keywords: clinical trial, Chronic Fatigue Syndrome, homocarnosine, digit symbol substitution test
+ 
+<section> 1. Introduction
+ 
+<section> Gulf War illness (GWI) is a multisymptom disorder affecting an estimated 25% of the 700,000 military veterans
+ of the First Persian Gulf War (1990-91) (Fukuda et al., 1998; Kang, Li, Mahan, Eisen, & Engel, 2009; Research
+ Advisory Committee on Gulf War Veterans’ Illnesses [RAC-GWVI], 2008). GWI veterans have a wide
+ spectrum of “functional” complaints including disabling fatigue, diffuse musculoskeletal pain, gastrointestinal
+ dysfunction, sleep abnormalities, and cognitive impairments (Spencer et al. 1998; McCauley et al. 2002; Steele
+ 2000). Neurological dysfunction may be a common pathophysiological mechanism. This would be consistent
+ with the hypothesis that war time exposures to combinations of low levels of sarin and other nerve gas agents,
+ the acetylcholinesterase inhibitor pyridostigmine bromide, organophosphate and other pesticides, particulate and
+ volatile organic compounds in smoke from oil-well fires, depleted uranium, immune activation by simultaneous
+ administration of multiple vaccines and their adjuvants, and stressors of deployment to a hot, dry, dehydrating
+ environment may have acted synergistically to initiate central nervous system injury (RAC-GWVI, 2008; Steele,
+ Sastre, Gerkovich, & Cook, 2012; Glass et al., 2006; Hernández et al., 2012; Harley et al., 2011; Block et al.,
+ 2004). Stressors combined with pyridostigmine bromide, N, N-diethyl-m-toluamide (DEET), and permethrin can
+ disrupt the blood brain barrier and cause neuron death in animal models (Abdel-Rahman, Shetty, & Abou-Donia,
+ 2002). Reactive oxidant species (ROS) may mediate the neuronal damage (Golomb, 2008; Li, Shou, Borowitz,
+ 
+<section> & Isom, 2001).
+ 
+<section> If ROS production is a continued component of GWI neuropathology, then brain antioxidants may have a critical
+ protective role. Differences in production or turnover of endogenous or supplemental antioxidants may be one
+ factor that discriminates between veterans who have developed GWI and those without the syndrome.
+ L-Homocarnosine (γ-aminobutyric acid – L-histidine) is the premier antioxidant dipeptide in the brain.
+ Unfortunately, this chemical is not available for clinical use. L-Carnosine (β-alanine-L-histidine) is a closely 
+<section> related dipeptide that may scavenge ROS in the central nervous system (Boldyrev, Dupin, Bunin, Babizhaey, &
+ Severin, 1987; Kohen, Yamamoto, Cundy, & Ames, 1988) and act as an antioxidant and buffering ion in muscle
+ and possibly other peripheral tissues (Abe, 2000; Holliday & McFarland, 2000). Carnosine may promote brain
+ health because autistic children taking 800 mg a day demonstrated significant cognitive improvements (Chez et
+ al., 2002). This suggested that carnosine may cross the blood brain barrier.
+ 
+<section> The primary aims of this pilot Phase I/II study were to determine if carnosine improved activity and
+ instantaneous fatigue scores (ActiWatch Score accelerometer device, MiniMiter, Bend, OR) (Gironda, Lloyd, &
+ Clark, 2007; Kim et al., 2010), Chronic Fatigue Syndrome (CFS) Severity Score (Baraniuk, Clauw, & Gaumond,
+ 1998; Baraniuk, Naranch, Maibach, & Clauw, 2000) pain and tenderness (dolorimetry) (Naranch et al., 2002)
+ and quality-of-life domains (Sherbourne, 1995) compared to placebo in GWI subjects. Psychometric and
+ cognitive measures were secondary outcomes.
+ 
+<section> 2. Materials and Methods
+ 
+<section> 2.1 Study Design
+ 
+<section> This randomized double blind placebo controlled pilot study of carnosine (500 mg capsules, Village Green
+ Apothecary, Bethesda, MD; Food and Drug Administration Investigational New Drug FDA IND # 101,700)
+ versus indistinguishable microcrystalline cellulose capsules was tested as add-on therapy in GWI. Dose
+ escalation started with 500 mg once daily, and increased to 500 mg twice daily, and then 1,000 mg in the
+ morning and 500 mg in the evening (1,500 mg/day) at 4 week intervals (ClinicalTrials.gov identifier
+ NCT00810368). Sets of 4 x 100 capsule bottles were prepared and blocks with 3 placebo and 3 carnosine sets
+ randomly mixed. Each set was assigned a sequential 6 digit alpha-numerical identification code so study drug
+ could be dispensed by research pharmacists not involved in blinding the study. After the week 12 visit, the
+ capsules per day were tapered by 1 per week until discontinued. The study was approved by the Georgetown
+ University Institutional Review Board (ID # 2008-068). Data analysis, recruitment, protocol implementation,
+ and patient participation all occurred at Georgetown University Medical Center and Hospital in Washington,
+ D.C. of the United States.
+ 
+<section> The planned sample size of n=13 subjects completing each arm was based on individual incremental
+ improvements (Δ) in the primary outcomes of: (i) CFS Severity Score (Δ ≥ 5 / 32) (Baraniuk et al., 1998;
+ Baraniuk et al., 2000a; Baraniuk, Naranch, Maibach, & Clauw, 2000b); (ii) instantaneous fatigue (Δ ≥ 2 using
+ the 0 to 10 point ordinal scale) (Kim et al., 2010); (iii) activity levels (Δ ≥ 20%) using ActiWatch Score
+ accelerometer devices (Gironda et al., 2007); and (iv) increased accuracy of 4 / 35 letters on 2-back working
+ memory tasks performed during fMRI testing (Owen, 2005; Caseras et al., 2006; Altman, 1991; Altman, 1982;
+ Cohen, 1988) (The 2-back tests and fMRI results will be reported elsewhere). Secondary outcomes are described
+ below. Stringent, conservative criteria for significant treatment responses required: (a) balanced groups with
+ comparable week 0 values, (b) significant improvement with carnosine but not placebo by 2-tailed paired
+ Student’s t-tests (p ≤ 0.05), and (c) significant differences between the 2 treatment responses at week 12 (p ≤
+ 0.05 by 2-tailed unpaired Student’s t-tests). Fisher’s Exact test was used when required. Data were reported as
+ means and incremental changes (Δ) between weeks 0 and 12 ± standard deviations (SD).
+ 
+<section> 2.2 Subject Recruitment
+ 
+<section> Subjects were recruited by on-line and newspaper advertisements, and other contacts. Telephone informed
+ consent was obtained to determine eligibility and contact information. GWI subjects were eligible if they met the
+ 1998 CDC criteria (Fukuda et al., 1998; RAC-GWVI, 2008) or had been diagnosed with chronic fatigue
+ syndrome after Persian Gulf deployment (Gray, Reed, Kaiser, Smith, & Gastanaga, 2002). Exclusions included
+ active military personnel, pregnant women, children, persons suffering from major chronic illnesses or
+ psychiatric disorders, and persons with metal implants or other exclusions from fMRI testing (Fukuda et al.,
+ 1998; Kang et al., 2009; RAC-GWVI, 2008; Spencer et al., 1998; McCauley et al., 2002; Steele, 2000).
+ 
+<section> 2.3 Study Questionnaires
+ 
+<section> The CFS Severity score allowed subjects to score the cardinal features of fatigue, cognition, sore throat, lymph
+ nodes, myalgia, arthralgia, sleep and exertional exhaustion (Fukuda et al., 1994; Reeves et al., 2003; Reeves et
+ al., 2005) as none (0), trivial (1), mild (2), moderate (3), or severe (4) (Baraniuk et al., 1998; Baraniuk et al.,
+ 2000a; Naranch et al., 2002; Wasserfallen, Gold, Schulman, & Baraniuk, 1999) The maximum sum for this
+ severity score was 32. Medical Outcome Survey Short Form 36 (SF-36) domains were assayed for changes in
+ quality of life (Ware & Sherbourne, 1995). Additional secondary symptom and psychometric questionnaires
+ were completed to corroborate and expand data on GWI symptom co-variance and overlap with other syndromes 
+<section> (see Supplementary online material, SOM). The instruments were assessed for magnitudes, standard deviations,
+ and reproducibility between weeks 0 and 12 to determine which may be of value for future studies. Subjects
+ could complete the questionnaires on paper or our on-line, Google-based system. Each subject received a
+ personal log-in, password and confidential identification code to access and score the questionnaires (Zheng et
+ al., 2011a; Zheng et al., 2011b). No personal identifying information was collected over the internet. All data
+ were stored in confidential fashion on a password protected computer.
+ 
+<section> 2.4 Study Visits
+ 
+<section> If eligible, subjects came to the Clinical Research Unit, Georgetown University Hospital, Washington, D.C., for
+ their screening visit. After reviewing the study protocol and participant responsibilities, subjects gave written
+ informed consent for participation. Mental competence was assured by Mini-Mental Status examination
+ (Folstein, Folstein, & McHugh, 1975). History was confirmed using a scripted interview that included
+ diagnostics for CFS (Fukuda et al., 1994), fibromyalgia (Wolfe et al., 1990; Wolfe et al., 2010), myalgic
+ encephalomyelitis (ME) (Carruthers et al., 2011), irritable bowel syndrome (Lea, Hopkins, Hastleton, Houghton,
+ & Whorwell, 2004; Kurland, Coyle, Winkler, & Zable, 2006) and migraine (Headache Classification
+ Subcommittee of the International Headache Society, 2004; Ravindran, Zheng, Timbol, Merck, & Baraniuk,
+ 2011).
+ 
+<section> Subjects had physical examination, counting of manual tender points (Wolfe et al., 1990) and dolorimetry
+ (Naranch et al., 2002). Screening blood work was drawn for HIV, pregnancy, blood counts, transaminases, and
+ markers of inflammation. Cognitive function was assessed by Trail Making tests A and B (Corrigan &
+ Hinkeldey, 1987) and digit symbol substitution test (Joy, Fein, Kaplan, & Freddman, 2000). Subjects toured the
+ Center for Function and Molecular Imaging (CFMI) and practiced 0- and 2-back testing until they felt competent.
+ They returned later for their fMRI with cognitive testing.
+ 
+<section> Subjects wore ActiWatch-Score wrist devices (Gironda et al., 2007) for the first 2 weeks of the study, and weeks
+ 12 to 14. In preliminary tests, it was difficult to discriminate between periods of rest and sleep related to chronic
+ fatigue and sedentary work (e.g. computer) performed by control subjects. Diaries were consulted to confirm
+ periods of rest and sleep. Average accelerometer values for each 1 hour epoch during sedentary periods were <
+ 40 units (mean + 2 standard deviations). This threshold distinguished “rest” from “active” periods. Records were
+ reviewed for times when the watches were removed (zero activity). The percent of active epochs (% Active
+ Time) during the entire time the devices were worn was used as an outcome variable. The average activity levels
+ during active periods were also calculated on the assumption that treatment may be associated with more
+ vigorous or prolonged movement. The Score alarm buzzed randomly at approximately 1 hour intervals to remind
+ subjects to grade their instantaneous fatigue on a scale of 0 (no fatigue) to 10 (worst fatigue in life) (Kim et al.,
+ 2001). The average fatigue score for each day and the standard deviations and coefficients of variation were
+ calculated to assess the magnitude of daily fluctuations in this symptom, and the trends for fatigue within each
+ week period.
+ 
+<section> Contact was maintained during the study by telephone and e-mail. Subjects who developed adverse events or
+ discontinued participation were quizzed for their rationale. Symptoms, laboratories, and questionnaires were
+ assessed at the week 6 safety visit. The week 12 visit followed the same format as week
+ 
+<section> 3. Results
+ 
+<section> 3.1 Subjects and Adverse Events
+ 
+<section> Between February 2008 and November 2011 a total of 358 subjects were contacted about participation. Two
+ hundred were interested and began the verbal screening process. Thirty-four subjects were enrolled and
+ randomized. Nine subjects did not complete the study. Two were terminated. One developed an exacerbation of
+ their typical severe musculoskeletal costochondritic chest pain, but was referred by their primary care physician
+ to a cardiologist (Grade 1 adverse event, not related). Another was found to have elevated globulins at week
+ This participant did not return for follow-up or respond to any inquiries, and was lost to contact (Grade 2 adverse
+ event, not related). Three subjects stopped participation within the first 2 weeks of the study and did not reply to
+ any inquiries.
+ 
+<section> Three subjects did not want to continue in the study after they reached the 6 week mark because they were
+ frustrated by the absence of any improvements. One moved away after 8 weeks. One subject was found to have
+ an asymptomatic elevation of alanine-serine transaminase plus interval increase in CRP (remained in normal
+ range). As per protocol, study drug was discontinued for 2 weeks. Hepatitis A, B and C serologies were negative,
+ and tests normalized. Study drug was restarted and no alterations in symptoms or blood tests developed. This 
+<insert> Table 1. D Demographics
+ T Treatment Gro up C Carnosine Placebo
+ T Total (N)
+ A Adverse Effect
+ M Mean Age (± SD D) 51.8 ± 11.6 47.2 ±
+ M Male N 8 (67%) 9 (64%)
+ F Female N 4 (33%) 5 (36%)
+ B BMI (± SD) kg/ /m 31.5 ± 4.3 30.3 ±
+ As shown in Table 1, su ubjects who co ompleted the tw welve week pr rotocol. BMI= =Body Mass In ndex, SD=Stan ndard
+ Deviation. 17 out of 25 (68%) ( particip pants were mal e.
+ 3.2 Cognit tion
+ The WAIS S-R digit sym mbol substitutio on test (Joy e et al., 2000) w was the only i instrument to show a signif ficant
+ carnosine- -related change e in score. The e carnosine tre eatment group scores improv ved significant tly between we eek
+ and week 12 (p=0.0018 uncorrected, 0.046 corrected d) while the pla acebo group sh howed no chan nge (Figure 1) The
+ week 12 – week 0 incre emental chang ges were signif ficantly differe ent between th he carnosine a and placebo gr roups
+ (p=0.013, unpaired t-tes st, uncorrected ). The carnosi ine group had arithmetically y lower scores at week 0 tha n the
+ placebo gr roup (p = 0.08 9), while aver rage scores we ere equal at we eek 12 (p = 0.6 66). This may have indicated d that
+ the week 0 scores we ere unbalance ed between th he 2 treatmen nt groups. A lthough highl ly suggestive, , our
+ conservati ve criteria did d not allow this s to be conside ered conclusiv ve evidence for r a beneficial c carnosine treat ment
+ effect on c cognition. Pos st-hoc analysis s indicated tha at sample size es of 100 per group would show a signif ficant
+ benefit at 12 weeks (p < 0.05 corre ected, power > 80%) if the e week 0 aver rage scores w were equal, and d the
+ incrementa al increases re emained 10.8 for carnosine and 2.7 for p placebo. Trail Making tests were not diff ferent
+ between w weeks or group ps. 
+<iend>
+
+ was consid dered a Grade e 1 adverse ev ent not related d to study drug g. Seven of th hese responses s were in carno osine
+ subjects, w with two that dropped out a after 6 weeks being on plac cebo. There w were no demog graphic differe ences
+ between th he carnosine an nd placebo trea ated subjects w who were enro olled or who co ompleted the st tudy (Table 1)
+ 
+<section> Figu ure 1. WAIS-R R Digit Symbo ol Substitution scores for wk 12 - wk0 (Δ) 
+<insert> Figure 2. Pe ercent of time active
+ The perce ent of time ac ctive (accelero ometer scores averaged eac ch hour ≥ 40 units) was c comparable fo r the
+ carnosine (diamonds) an nd placebo (tri angles) groups s during the in nitial and final recording peri iods. The outli ier in
+ the carnos ine group did not n wear the w watch for most of the second period. 
+<iend>
+
+ The increm mental change e between wee eks 12 and 0 ( (Δ) was signif ficant by paire ed t-tests for th he carnosine group g
+ (diamonds s, average ± 95% CI on th he left and rig ght) (p=0.0018 8 uncorrected) ) but not for the placebo group g
+ (triangles, average ± 95% % CI on the l eft and right). The magnitud de of the chan nges was large er for the carno osine
+ than placeb bo treatment (p=0.013 ( uncor rrrected). Wee ek 0 scores we re higher for p placebo (triang gles) than carno osine
+ (diamonds s) (p=0.089), but b were nearly y identical at w week
+ 
+<section> 3.3 Activity 
+<section> ty and Instanta 
+<section> aneous Fatigue e
+ 
+<section> Complianc ce was variab le in both trea atment groups s. Chief comp laints were po oor comfort an nd loudness of o the
+ alarm prom mpt. The % ac ctive time was s equivalent fo or the 2 group ps and at both time points (F Figure 2). Ave erage
+ activity lev vels were not affected. a Instan ntaneous fatigu ue ratings show wed surprising gly wide variat tions between GWI
+ individual s (Figure 3). Fatigue F levels w were not altere ed in either tre eatment group and throughou ut both observ ation
+ periods sin nce the stand dard deviations s for each sub bject were sm mall and not r related to fati igue severity. This
+ emphasize ed the need to examine e increm mental change es as treatment t outcomes rath her than group p differences. 
+<section> F 
+<section> Figure 3. Instan 
+<section> ntaneous Fatig 
+<section> gue Scores
+ 
+<section> A. The av verage instanta aneous fatigue scores and 95 5% confidence e intervals from m all measure ements were sh hown
+ for all subj jects. Fatigue was a stable v variable withou ut large excurs sions (small CI I’s) within ind dividuals durin g the
+ recording periods. B. Th here was a wi ide range of in nstantaneous f fatigue scores within the car rnosine (diamo onds)
+ and placeb bo (triangles) groups. Indivi idual response es did not chan nge between t the two record ding periods. There T
+ were no tre eatment effect ts.
+ 
+<section> 3.4 Questi 
+<section> ionnaires
+ 
+<section> None of th he variables of f the CFS Sev verity Score w ere altered by treatments, no or were scores s different betw ween
+ treatment g groups (see SO OM). These co omplaints were e robust, repro oducible, and r resistant to cur rrent therapies The
+ results co rroborated the e instantaneou us fatigue sco ores. SF-36 d domain scores s ranged from m 65 for Phy ysical
+ Functionin ng to 11 for Vitality. V This in ndicated signif ficant, persiste ent disability in n GWI over th he 3 months o f this
+ study. The ere were no si ignificant incr remental differ rences for any y of the questi ionnaires or th heir domain sc cores
+ 
+<section> (SOM tabl le).
+ 
+<section> 3.5 Irritab 
+<section> ble Bowel Synd 
+<section> drome
+ 
+<section> Gastrointe estinal complai ints were asse essed using Ro ome II criteria a (Lea et al., 2004). At wee ek 0, the carno osine
+ group had d 50% mixed, , 0% constipa ation and 20% % diarrhea pre edominant, an nd 30% with no irritable bowel b
+ syndrome. After 12 wee ks, the proport tions changed significantly t to 14% mixed, , 29% constipa ation, 14% dia rrhea
+ and 43% n no irritable bo owel syndrome e (p = 0.019 b by Fisher’s Ex xact test). The e placebo grou up had no cha anges
+ (38% mix xed, 10% cons stipation, 19% % diarrhea, 3% no irritabl e bowel synd drome). Carno sine reduced stool
+ frequency and watery co onsistency whi ile placebo did d not.
+ 
+<section> 3.6 Dolori 
+<section> imetry
+ 
+<section> Average p pain thresholds s were not alter red by carnosin ne (Δ = -0.18 kg (SD 0.34)) or placebo (Δ Δ = -0.67 ± 1.7 3 kg)
+ treatments s. The average e of all measu urements for G GWI (3.32 ± 2.28 kg) was significantly l lower than he althy
+ controls fr rom a parallel l study (5.11 ± 2.77 kg; n= =14; p = 0.03 35 by 2-tailed unpaired Stu udent’s t-test). Pain
+ thresholds were stable ov ver the 3 mont th period, and may be a robu ust outcome m measure to asses ss treatment ef ffects
+ on the neu ural plasticity associated a with h pain percepti ion and as a lo ong-term indica ator of nocicep ption, hyperalg gesia,
+ and centra al sensitization (Latremoliere e & Woolf, 09; Pietrobon, 2005; Baron, 2006).
+ 
+<section> 4. Discuss 
+<section> sion
+ 
+<section> Carnosine treatment wa as associated with increase ed digit symb ol substitution n scores sugg gesting a cogn nitive
+ benefit. Th his test has be een associated d with activati ion of the fro onto-parietal br rain network (Usui et al., 2009; 
+<section> Geake & Hansen, 2010). In contrast, there were no changes for Trail Making tests A and B that may assess
+ inter-hemispheric cognitive processing (Corrigan & Hinkeldey, 1987). If so, carnosine may have selective
+ trophic or protective effects in discrete brain regions.
+ 
+<section> Carnosine treatment was also associated with reduced stool frequency indicating an improvement in diarrhea.
+ Other questionnaire outcomes including the primary aims were not altered by either carnosine or placebo
+ treatments. Subjects’ levels of complaints were remarkably reproducible between week 0 and week 12. The
+ symptoms caused significant disability based on SF-36 quality-of-life scores.
+ 
+<section> The absence of a placebo effect was important because the expectations of improvement did not translate into
+ symptomatic improvement. This steadfast reporting demonstrated that GWI veterans were a highly reliable
+ group who report their symptoms in a reproducible fashion. As a result, beneficial treatment effects in other
+ studies are likely to be true results. The study drug was add-on therapy. The chronic severity of complaints
+ suggests that current treatments had limited therapeutic benefits.
+ 
+<section> An extensive data set (SOM) was collected for (a) comparisons to CFS subjects, (b) potential characterization of
+ CMI subtypes, (c) post hoc hypothesis generation, (d) selection of appropriate questionnaires for future studies,
+ and (e) sample size calculations. Questionnaires assessed fatigue, pain, and interoceptive complaints such as
+ rhinitis, dyspnea, irritable bladder and irritable bowel syndromes, and perceived responses to irritant exposures.
+ The cognitive improvement suggested by this study may be analogous to changes in autism. Carnosine given as
+ 800 mg/d for 8 weeks in double blind, placebo controlled fashion to autistic children significantly improved
+ behavior, socialization, communication and total scores on the Gilliam Autism Rating Scale (Chez et al., 2002).
+ The mechanism(s) may include antioxidant actions via the terminal free amino group of β-alanine,
+ anticonvulsant properties akin to GABA-ergic agents, chelation of copper and zinc at GABA receptor sites,
+ proton buffering, antioxidant and anti-ischemic protection (Ozonoff, Pennington, & Rogers, 1991; Trombly,
+ Horning, & Blakemore, 1998; Stvolinsky & Dobrota, 2000).
+ 
+<section> Carnosine improves athletic capabilities, probably due to antioxidant effects or buffering capacity in muscle
+ (Abe, 2000; Holliday & McFarland, 2000). Physiological stressors acutely increased avian muscle carnosine by
+ 10-fold, but had no effect on brain levels (Manhiani et al., 2011). Similar stressor effects have not been studied
+ in man.
+ 
+<section> Carnosine is transported across cell membranes by the proton-coupled PepT2 oligopeptide transporter (Jappar,
+ Hu, Keep, & Smith, 2009). About 14% is secreted intact into urine within 5 hours (Gardner, Illingworth,
+ Kelleher, & Wood, 1991). The remainder may be cleaved by the enzyme carnosine dipeptidase 1 and 2 (CNDP1
+ and CNDP2) (Teufel et al., 2003) in the blood or kidney, or transported into liver, muscle or potentially across
+ the blood brain barrier (Peters et al., 2011).
+ 
+<section> Carnosine digestion by CNDP1 and CNDP2 releases β-alanine and histidine. The latter can chelate metals and
+ scavenge singlet oxygen during ischemia (Abe, 2000; Holliday & McFarland, 2000; Lee et al., 1999). Increased
+ histidine absorption into the brain was hypothesized to trigger an increase in brain homocarnosine synthesis by
+ the rate limiting enzyme ATP-grasp domain-containing protein 1 (ATPGD1) in astroglial cells (Drozak,
+ Veiga-da-Cunha, Vertommen, Stroobant, & Van Schaftingen, 2010). Lumbar punctures and measurements of
+ histidine, carnosine and homocarnosine in cerebrospinal fluid would be required to confirm this hypothesis.
+ 
+<section> β-Alanine is the rate limiting substrate for carnosine synthesis by ATPGD1 in human and equine muscle, since
+ histidine supplements do not boost carnosine levels (Dunnett & Harris, 1999). β-Alanine supplementation
+ improved performance in anaerobic muscle testing (Hoffman et al., 2008). β-Alanine may delay the onset of
+ neuromuscular fatigue in intensively exercising athletes (Artioli, Gualano, Smith, Stout, & Lancha 2010).
+ Similar effects may not have been evident in our GWI subjects since they were not enrolled in structured aerobic
+ or anaerobic training programs or tested for aerobic exercise capacity as part of this pilot study. High doses of
+ β-alanine (3 and 6 g/d) improved oxygen utilization during high intensity exercise training in elite athletes
+ (Smith et al., 2009; Walter, Smith, Kendall, Stout, & Cramer, 2010), although lower doses do not have effects on
+ VO during aerobic testing.
+ 
+<section> 2MAX
+ Oral doses greater than 800 mg of β-alanine may induce paresthesias (Artioli et al., 2010). This is of relevance to
+ our study since β-alanine (Shinohara et al., 2004) and ATP may bind Mrgprd receptors of murine dorsal root
+ ganglion neurons that mediate cutaneous mechanical nociception (Cavanaugh et al., 2009). We found a higher
+ drop-out rate in carnosine than placebo treated GWI veterans. They did not report any changes in cutaneous
+ perceptions when questioned, but a subliminal effect cannot be ruled out in those subjects who were lost to
+ contact. Perceptions of enteric interoceptive sensations may have developed based on changes in gastrointestinal 
+<section> complaints. At week 0, half of the carnosine group reported irritable bowel syndrome with mixed diarrhea and
+ constipation, but none had predominantly constipation. However, after 12 weeks constipation was present in
+ 29%, and the rate of mixed diarrhea and constipation had dropped to 14%. The placebo group had no changes in
+ irritable bowel complaints. Although it is important not to over interpret these findings in light of the small
+ sample size, any treatment that would improve the severe gastrointestinal complaints of GWI would be
+ welcomed.
+ 
+<section> A β-alanine enriched diet has anxietolytic effects in mice (Murakami & Furuse, 2010). Scores on the
+ Generalized Anxiety Disorder 7 (GAD-7) (Löwe et al., 2008) and State-Trait Anxiety Inventory (Spielberger,
+ 1985) questionnaires did not change with carnosine treatment. Anxiety was present in 50% of all CMI subjects
+ based on GAD-7 scores ≥ 10 (Löwe et al., 2008). Depressive affect was inferred at different rates ranging from
+ 81% overall using Center for Epidemiological Studies – Depression (CES-D) scores ≥ 16 (Okun, Stein, Bauman,
+ & Silver, 1996; Radloff, 1977), 49% for Beck Depression Inventory (BDI) scores ≥ 17 (Beck, Steer, Ball, &
+ Ranieri, 1996; Geisser, Roth, & Robinson, 1997), and 36% for major and 21% for minor depressive affects using
+ the PRIME MD questionnaire (Aiarzaguena, Grandes, Salazar, Gaminde, & Sánchez, 2008). These high rates
+ were anticipated based on the severity of the symptom profile of these CMI subjects. These states were resistant
+ to carnosine therapy.
+ 
+<section> The study was limited by the relatively small sample size. The putative treatment effects require validation in
+ similar randomized double blind placebo-controlled studies with larger groups of participants. The small
+ sample size was hampered even further by the nine subjects who withdrew. They had no apparent symptomatic
+ changes or adverse events. This includes parasthesias that have been noted previously (Artioli et al., 2010).
+ Study compliance was excellent based on diaries and pill counts. However, there were no cerebrospinal fluid,
+ serum, or urine measurements of carnosine, beta-alanine or histidine to confirm absorption, pharmacodynamics,
+ or brain metabolism to homocarnosine. Elevations in brain GABA levels in the treatment group may be
+ identified by molecular spectroscopy (analysis in progress).
+ 
+<section> Another limitation was the subjective nature of many of the outcome measures. This was by design for this pilot
+ study to assess a broad set of symptomatic and psychometric variables that may have shown beneficial responses
+ to this antioxidant therapy. For instance, even though we observed a possible significant improvement in
+ symptoms of diarrhea, there are several different sets of criteria for IBS, and this treatment effect could be better
+ confirmed with more precise measures for stool form and frequency. In addition, subjects’ scores for many
+ questionnaire items were at the upper limits, suggesting possible ceiling effects. Small improvements in their
+ conditions may not have been detectable with the scales employed.
+ 
+<section> Hyperalgesia and disability leading to inactivity were assessed in semi-objective fashion by dolorimetry and
+ actigraphy, respectively. These outcomes were insensitive to change. It is possible that 12 weeks of add-on
+ therapy without adjunctive treatments was insufficient to reverse the consequences of long duration neural
+ dysfunction. In particular, the chronicity of the subjects’ complaints may have made it difficult for them to assess
+ and identify subjective improvements. Established neural patterns may be resistant to modification. Improved
+ understanding of the molecular pathophysiology is required in order to optimally select fMRI and other objective
+ outcome measures for treatment studies such as this one.
+ 
+<section> 5. Conclusion
+ 
+<section> This randomized double blind placebo controlled 12 week dose escalation trial of carnosine showed an increase
+ in digit symbol substitution score and potentially decreased diarrhea in GWI. Similar larger studies with
+ objectively defined and pathophysiologically based outcome measures will be required to confirm and extend
+ these findings.
+ 
+<section> Acknowledgements
+ 
+<section> Support was provided by Department of Defense and follows the directives of the U.S. Army Medical and
+ Materiel Command (USAMRMC) and Human Research protection Office (HPRO) A- 14542.2. All subjects
+ were seen in the Clinical Research Unit where funding has been provided by Federal funds (Grant #
+ UL1TR000101, previously UL1RR031975) from the National Center for Advancing Translational Sciences
+ (NCATS), National Institutes of Health (NIH), through the Clinical and Translational Science Awards Program
+ (CTSA), a trademark of DHHS, part of the Roadmap Initiative, “Re-Engineering the Clinical Research
+ Enterprise”. 
+<section> Author Contributions
+ 
+<section> J.N.B. designed the protocol. R.U.R, C.R.T. and J.NB recruited participants, administered and conducted the
+ study. R.C., S.E.A, and J.N.B. interpreted and completed clinical data analysis. R.C, S.E.A., and J.N.B. wrote the
+ manuscript. All authors edited the manuscript. None of the authors have financial or non-financial competing
+ interests.
+ 
+<section> References
+ 
+<section> Abdel-Rahman, A., Shetty, A. K., & Abou-Donia, M. B. (2002). Disruption of the blood–brain barrier and
+ neuronal cell death in cingulate cortex, dentate gyrus, thalamus, and hypothalamus in a rat model of
+ Gulf-War Syndrome. Neurobiology of Disease, 10, 306-326. http://dx.doi.org/10.1006/nbdi.2002.0524
+ Abe, H. (2000). Role of histidine-related compounds as intracellular proton buffering constituents in vertebrate
+ muscle. Biochemistry (Mosc), 65, 757–765.
+ 
+<section> Aiarzaguena, J. M., Grandes, G., Salazar, A., Gaminde, I., & Sánchez, A. (2008). The diagnostic challenges
+ presented by patients with medically unexplained symptoms in general practice. Scand J Prim Health Care,
+ 
+<section> 26, 99-105. http://dx.doi.org/10.1080/02813430802048662
+ 
+<section> Altman, D. G. (1982). How large a sample? In: Gore SM, Altman DG, editor. Statistics in Practice. London, UK:
+ British Medical Association.
+ 
+<section> Altman, D. G. (1991). Practical Statistics for Medical Research. London, UK: Chapman & Hall.
+ Artioli, G. G., Gualano, B., Smith, A., Stout, J., & Lancha, A. H. Jr (2010). Role of beta-alanine supplementation
+ on muscle carnosine and exercise performance. Med Sci Sports Exerc, 42, 1162-1173.
+ Baraniuk, J. N., Clauw, J. D., & Gaumond, E. (1998). Rhinitis symptoms in chronic fatigue syndrome. Annals
+ Allergy Asthma Immunol, 81, 359-365. http://dx.doi.org/10.1016/S1081-1206(10)63129-8
+ Baraniuk, J. N., Naranch, K., Maibach, H., & Clauw, D. (2000a). Irritant rhinitis in allergic, nonallergic, control
+ and Chronic Fatigue Syndrome populations. J CFS, 7, 3-31.
+ 
+<section> Baraniuk, J. N., Naranch, K., Maibach, H., & Clauw, D. (2000b). Tobacco sensitivity in Chronic Fatigue
+ Syndrome. J CFS, 7, 33-52.
+ 
+<section> Baron, R. (2006). Mechanisms of disease: Neuropathic pain – A clinical perspective. Nature Clinical Practice, 2,
+ 95-106. http://dx.doi.org/10.1038/ncpneuro0113
+ 
+<section> Beck, A. T., Steer, R. A., Ball, R., & Ranieri, W. (1996). Comparison of Beck Depression Inventories -IA and -II
+ in psychiatric outpatients. J Pers Assess, 67, 588-597. http://dx.doi.org/10.1207/s15327752jpa6703_13
+ Block, M. L., Wu, X., Pei, Z., Li, G., Wang, T., Qin, L., ... Veronesi, B. (2004). Nanometer size diesel exhaust
+ particles are selectively toxic to dopaminergic neurons: the role of microglia, phagocytosis, and NADPH
+ oxidase. FASEB J, 18, 1618-1620.
+ 
+<section> Boldyrev, A., Dupin, A. M., Bunin, A., Babizhaey, M., & Severin, S. (1987). The antioxidative properties of
+ carnosine, a natural histidine containing dipeptide. Biochem Int, 15, 1105-1113.
+ Carruthers, B. M., van de Sande, M. I., De Meirleir, K. L., Klimas, N. G., Broderick, G., Mitchell, T., ... Stevens,
+ S. (2011). Myalgic Encephalomyelitis (ICD G93.3): International consensus criteria. J Int Med, 270,
+ 327-338. http://dx.doi.org/10.1111/j.1365-2796.2011.02428.x
+ 
+<section> Caseras, X., Mataix-Cols, D., Giampietro, V., Rimes, K. A., Brammer, M., Zelaya, F., ... Godfrey, E. L. (2006).
+ Probing the working memory system in chronic fatigue syndrome: A functional magnetic resonance
+ imaging study using the n-back task. Psychosom Med, 68, 947-955.
+ http://dx.doi.org/10.1097/01.psy.0000242770.50979.5f
+ 
+<section> Cavanaugh, D. J., Lee, H., Lo, L., Shields, S. D., Zylka, M. J., Basbaum, A. I., & Anderson, D. J. (2009).
+ Distinct subsets of unmyelinated primary sensory fibers mediate behavioral responses to noxious thermal
+ and mechanical stimuli. Proc Natl Acad Sci U S A, 106, 9075-9080.
+ 
+<section> http://dx.doi.org/10.1073/pnas.0901507106
+ 
+<section> Chez, M. G., Buchanan, C. P., Aimonovitch, M. C., Becker, M., Schaefer, K., Black, C., & Komen, J. (2002).
+ Double-blind, placebo-controlled study of L-carnosine supplementation in children with autistic spectrum
+ disorders. J Child Neurol, 17, 833–837. http://dx.doi.org/10.1177/08830738020170111501
+ Cohen, J (1988). Statistical power analysis for the behavioral sciences (2nd ed.). Hillsdale, NJ: Lawrence
+ Earlbaum Associates. 
+<section> Corrigan, J. D., & Hinkeldey, N. S. (1987). Relationships between parts A and B of the Trail Making Test. J Clin
+ Psychol, 43, 402-409. http://dx.doi.org/10.1002/1097-4679(198707)43:4<402::AID-JCLP2270430411>3.0.
+ 
+<section> CO;2-E
+ 
+<section> Drozak, J., Veiga-da-Cunha, M., Vertommen, D., Stroobant, V., & Van Schaftingen, E. (2010). Molecular
+ identification of carnosine synthase as ATP-grasp domain-containing protein 1 (ATPGD1). J Biol Chem,
+ 
+<section> 285, 9346-9356. http://dx.doi.org/10.1074/jbc.M109.095505
+ 
+<section> Dunnett, M., & Harris, R. C. (1999). Influence of oral beta-alanine and L-histidine supplementation on the
+ carnosine content of the gluteus medius. Equine Vet J Suppl, 30, 499-504.
+ 
+<section> Folstein, M. F., Folstein, S. E., & McHugh, P. R. (1975). Mini-mental state: A practical method for grading the
+ cognitive state of patients for the clinician. J Psychiatr Res, 12, 189-198.
+ http://dx.doi.org/10.1016/0022-3956(75)90026-6
+ 
+<section> Fukuda, K., Nisenbaum, R., Stewart, G., Thompson, W. W., Robin, L., Washko, R. M., ... Reeves, W. C. (1998).
+ Chronic multisymptom illness affecting Air Force veterans of the Gulf War. JAMA, 280, 981-988.
+ 
+<section> http://dx.doi.org/10.1001/jama.280.11.981
+ 
+<section> Fukuda, K., Straus, S. E., Hickie, I., Sharpe, M. C., Dobbins, J. G., & Komaroff, A. (1994). The chronic fatigue
+ syndrome: A comprehensive approach to its definition and study. International Chronic Fatigue Syndrome
+ Study Group. Ann Intern Med, 121, 953-959.
+ 
+<section> Gardner, M. L., Illingworth, K. M., Kelleher, J., & Wood, D. (1991). Intestinal absorption of the intact peptide
+ carnosine in man, and comparison with intestinal permeability to lactulose. J Physiol, 439, 411–422.
+ Geake, J. G., & Hansen, P. C. (2010). Functional neural correlates of fluid and crystallized analogizing.
+ 
+<section> NeuroImage, 49, 3489-3497. http://dx.doi.org/10.1016/j.neuroimage.2009.09.008
+ Geisser, M. E., Roth, R. S., & Robinson, M. E. (1997). Assessing depression among persons with chronic pain
+ using the Center for Epidemiological Studies-Depression Scale and the Beck Depression Inventory, A
+ comparative analysis. Clin J Pain, 13, 163-170. http://dx.doi.org/10.1097/00002508-199706000-00011
+ Gironda, R., Lloyd, J., & Clark, M. (2007). Preliminary evaluation of reliability and criterion validity of
+ Actiwatch-Score. Journal of Rehabilitation Research & Development, 44, 223-230.
+ http://dx.doi.org/10.1682/JRRD.2006.06.0058
+ 
+<section> Glass, D. C., Sim, M. R., Kelsall, H. L., Ikin, J. F., McKenzie, D., Forbes, A., & Ittak, P. (2006). What was
+ different about exposures reported by male Australian Gulf War veterans for the 1991 Persian Gulf War,
+ compared with exposures reported for other deployments? Mil Med, 171, 632-638.
+ Golomb, B. A. (2008). Acetylcholinesterase inhibitors and Gulf War illnesses. PNAS, 105, 4295-4300.
+ 
+<section> http://dx.doi.org/10.1073/pnas.0711986105
+ 
+<section> Gray, G. C., Reed, R. J., Kaiser, K. S., Smith, T. C., & Gastanaga, V. M. (2002). Self-reported symptoms and
+ medical conditions among 11,868 Gulf War-era veterans. Am J Epidemiol, 155, 1033-1044.
+ 
+<section> http://dx.doi.org/10.1093/aje/155.11.1033
+ 
+<section> Harley, K. G., Huen, K., Schall, R. A., Holland, N. T., Bradman, A., Barr, D. B., & Eskenazi, B. (2011).
+ Association of organophosphate pesticide exposure and paraoxonase with birth outcome in
+ Mexican-American women. PLoS One, 6(8), e23923. http://dx.doi.org/10.1371/journal.pone.0023923
+ Headache Classification Subcommittee of the International Headache Society. (2004). The International
+ Classification of Headache Disorders (2nd edition). Cephalalgia, 24(Suppl 1), 9-160.
+ Hernández, A. F., Parrón, T., Tsatsakis, A. M., Requena, M., Alarcón, R., & López-Guarnido, O. (2012). Toxic
+ effects of pesticide mixtures at a molecular level: Their relevance to human health. Toxicology, 2012 Jun
+ (Epub ahead of print.)
+ 
+<section> Hoffman, J. R., Ratamess, N. A., Faigenbaum, A. D., Ross, R., Kang, J., Stout, J. R., & Wise, J. A. (2008).
+ Short-duration beta-alanine supplementation increases training volume and reduces subjective feelings of
+ fatigue in college football players. Nutr Res, 28, 31-35. http://dx.doi.org/10.1016/j.nutres.2007.11.004
+ Holliday, R., & McFarland, G. A. (2000). A role for carnosine in cellular maintenance. Biochemistry (Mosc), 65,
+ 843–848. 
+<section> Jappar, D., Hu, Y., Keep, R. F., & Smith, D. E. (2009). Transport mechanisms of carnosine in SKPT cells:
+ contribution of apical and basolateral membrane transporters. Pharm Res, 26, 172–181.
+ http://dx.doi.org/10.1007/s11095-008-9726-9
+ 
+<section> Joy, S., Fein, D., Kaplan, E., & Freddman, M. (2000). Speed and memory in WAIS–R–NI Digit Symbol
+ performance among healthy older adults. Journal of the International Neuropsychological Society, 6,
+ 770-780. http://dx.doi.org/10.1017/S1355617700677044
+ 
+<section> Kang, H. K., Li, B., Mahan, C. M., Eisen, S. A., & Engel, C. C. (2009). Health of US veterans of 1991 Gulf War:
+ A follow-up survey in years. J Occup Environ Med 51, 401–410.
+ http://dx.doi.org/10.1097/JOM.0b013e3181a2feeb
+ 
+<section> Kim, E., Lovera, J., Schaben, L., Melara, J., Bourdette, D., & Whitman, R. (2009). Novel method for
+ measurement of fatigue in multiple sclerosis: Real-Time Digital Fatigue Score. Journal of Rehabilitation
+ Research & Development, 47, 477-484. http://dx.doi.org/10.1682/JRRD.2009.09.0151
+ Kohen, R., Yamamoto, Y., Cundy, K. C., & Ames, B. N. (1988). Antioxidant activity of carnosine,
+ homocarnosine, and anserine present in muscle and brain. PNAS, 85, 3175-3179.
+ 
+<section> http://dx.doi.org/10.1073/pnas.85.9.3175
+ 
+<section> Kurland, J. E., Coyle, W. J., Winkler, A., & Zable, E. (2006). Prevalence of irritable bowel syndrome and
+ depression in fibromyalgia. Dig Dis Sci, 51, 454-460. http://dx.doi.org/10.1007/s10620-006-3154-7
+ Latremoliere, A., & Woolf, C. J. (2009). Central sensitization: A generator of pain hypersensitivity by central
+ neural plasticity. Pain, 10, 895-926. http://dx.doi.org/10.1016/j.jpain.2009.06.012
+ Lea, R., Hopkins, V., Hastleton, J., Houghton, L. A., & Whorwell, P. J. (2004). Diagnostic criteria for irritable
+ bowel syndrome: Utility and applicability in clinical practice. Digestion, 70, 210-213.
+ 
+<section> http://dx.doi.org/10.1159/000082891
+ 
+<section> Lee, J. W., Miyawaki, H., Bobst, E. V., Hester, J. D., Ashraf, M., & Bobst, A. M. (1999). Improved functional
+ recovery of ischemic rat hearts due to singlet oxygen scavengers histidine and carnosine. J Mol Cell Cardiol,
+ 
+<section> 31, 113-121. http://dx.doi.org/10.1006/jmcc.1998.0850
+ 
+<section> Li, L., Shou, Y., Borowitz, J. L., & Isom, G. E. (2001). Reactive oxygen species mediate pyridostigmine-induced
+ neuronal apoptosis: Involvement of muscarinic and NMDA receptors. Toxicol Appl Pharmacol, 177, 17–25.
+ 
+<section> http://dx.doi.org/10.1006/taap.2001.9283
+ 
+<section> Löwe, B., Decker, O., Müller, S., Brähler, E., Schellberg, D., Herzog, W., & Herzberg, P. Y. (2008). Validation
+ and standardization of the Generalized Anxiety Disorder Screener (GAD-7) in the general population. Med
+ Care, 46, 266-274. http://dx.doi.org/10.1097/MLR.0b013e318160d093
+ 
+<section> Manhiani, P. S., Northcutt, J. K., Han, I., Bridges, W. C., Scott, T. R., & Dawson, P. L. (2011). Effect of stress
+ on carnosine levels in brain, breast, and thigh of broilers. Poult Sci, 90, 2348-2354.
+ 
+<section> http://dx.doi.org/10.3382/ps.2011-01426
+ 
+<section> McCauley, L. A., Joos, S. K., Barkhuizen, A., Shuell, T., Tyree, W. A., & Bourdette, D. N. (2002). Chronic
+ fatigue in a population-based study of Gulf War veterans. Arch Environ Health, 57, 340-348.
+ http://dx.doi.org/10.1080/00039890209601419
+ 
+<section> Murakami, T., & Furuse, M. (2010). The impact of taurine- and beta-alanine-supplemented diets on behavioral
+ and neurochemical parameters in mice: Antidepressant versus anxiolytic-like effects. Amino Acids, 39,
+ 427-434. http://dx.doi.org/10.1007/s00726-009-0458-x
+ 
+<section> Naranch, K., Park, Y-J., Repka-Ramirez, S. M., Velarde, A., Clauw, D., & Baraniuk, J. N. (2002). A tender sinus
+ does not always mean sinusitis. Otolaryngol Head Neck Surg, 127, 387-397.
+ 
+<section> http://dx.doi.org/10.1067/mhn.2002.129038
+ 
+<section> Okun, A., Stein, R. E., Bauman, L. J., & Silver, E. J. (1996). Content validity of the Psychiatric Symptom Index,
+ CES-Depression Scale, and State-Trait Anxiety Inventory from the perspective of DSM-IV. Psychol Rep,
+ 
+<section> 79, 1059-1069. http://dx.doi.org/10.2466/pr0.1996.79.3.1059
+ 
+<section> Owen, A. M. (2005). N-Back working memory paradigm: A meta-analysis of normative functional
+ neuroimaging studies. Human Brain Mapping, 25, 46-59. http://dx.doi.org/10.1002/hbm.20131
+ Ozonoff, S., Pennington, B. F., & Rogers, S. J. (1991). Executive function deficits in high-functioning autistic
+ individuals: Relationship to theory of mind. J Child Psychol Psychiatry, 32, 1081–1103.
+ http://dx.doi.org/10.1111/j.1469-7610.1991.tb00351.x 
+<section> Peters, V., Jansen, E. E., Jakobs, C., Riedl, E., Janssen, B., Yard, B. A., ... Köppel, H. (2011). Anserine inhibits
+ carnosine degradation but in human serum carnosinase (CN1) is not correlated with histidine dipeptide
+ concentration. Clin Chim Acta, 412, 263-267. http://dx.doi.org/10.1016/j.cca.2010.10.016
+ Pietrobon, D. (2005). Migraine: New molecular mechanisms. Neuroscientist, 11, 373-386.
+ http://dx.doi.org/10.1177/1073858405275554
+ 
+<section> Radloff, L. S. (1977). The CES-D Scale, A self-report depression scale for research in the general population.
+ 
+<section> Applied Psychological Measurement, 1, 385-401. http://dx.doi.org/10.1177/014662167700100306
+ Ravindran, M. K., Zheng, Y., Timbol, C., Merck, S. J., & Baraniuk, J. N. (2011). Migraine headaches in chronic
+ fatigue syndrome (CFS): Comparison of two prospective cross-sectional studies. BMC Neurol, 11,
+ http://dx.doi.org/10.1186/1471-2377-11-30
+ 
+<section> Reeves, W. C., Lloyd, A., Vernon, S. D., Klimas, N., Jason, L. A., Bleijenberg, G., ... International Chronic
+ Fatigue Syndrome Study Group. (2003). Identification of ambiguities in the 1994 chronic fatigue syndrome
+ research case definition and recommendations for resolution. BMC Health Serv Res, 3,
+ http://dx.doi.org/10.1186/1472-6963-3-25
+ 
+<section> Reeves, W. C., Wagner, D., Nisenbaum, R., Jones, J. F., Gurbaxani, B., Solomon, L., ... Heim, C. (2005).
+ Chronic fatigue syndrome — A clinically empirical approach to its definition and study. BMC Med, 3,
+ http://dx.doi.org/10.1186/1741-7015-3-19
+ 
+<section> Research Advisory Committee on Gulf War Veterans’ Illnesses. (2008). Gulf War Illness and the Health of Gulf
+ War Veterans 2008. US Government Printing Office, Washington, DC pp. 29-30,
+ http://www1.va.gov/RAC-GWVI/
+ 
+<section> Shinohara, T., Harada, M., Ogi, K., Maruyama, M., Fujii, R., Tanaka, H., ... Hinuma, S. (2004). Identification of
+ a G protein-coupled receptor specifically responsive to beta-alanine. J Biol Chem, 279, 23559-23564.
+ 
+<section> http://dx.doi.org/10.1074/jbc.M314240200
+ 
+<section> Smith, A. E., Walter, A. A., Graef, J. L., Kendall, K. L., Moon, J. R., Lockwood, C. M., ... Stout, J. R. (2009).
+ Effects of beta-alanine supplementation and high-intensity interval training on endurance performance and
+ body composition in men; A double-blind trial. J Int Soc Sports Nutr, 6,
+ http://dx.doi.org/10.1186/1550-2783-6-5
+ 
+<section> Spencer, P. S., McCauley, L. A., Joos, S. K., Lasarev, M. R., Schuell, T., Bourdette, D., ... Grewenow, R. (1998).
+ U.S. Gulf War Veterans: Service periods in theater, differential exposures, and persistent unexplained
+ illness. Portland Environmental Hazards Research Centre. Toxicol Lett., 102-103, 515-521.
+ http://dx.doi.org/10.1016/S0378-4274(98)00258-6
+ 
+<section> Spielberger, C. D. (1985). Assessment of state and trait anxiety: Conceptual and methodological issues. South
+ Psychol, 2, 6-16.
+ 
+<section> Steele, L. (2000). Prevalence and patterns of Gulf War illness in Kansas veterans: Association of symptoms with
+ characteristics of person, place, and time of military service. Am J Epidemiol, 152, 992-1002.
+ 
+<section> http://dx.doi.org/10.1093/aje/152.10.992
+ 
+<section> Steele, L., Sastre, A., Gerkovich, M. M., & Cook, M. R. (2012). Complex factors in the etiology of Gulf War
+ 
+<section> Illness: Wartime exposures and risk factors in veteran subgroups. Environ Health Perspect, 120, 112-118.
+ 
+<section> http://dx.doi.org/10.1289/ehp.1003399
+ 
+<section> Stvolinsky, S. L., & Dobrota, D. (2000). Anti-ischemic activity of carnosine. Biochemistry (Mosc), 65, 849–855.
+ Teufel, M., Saudek, V., Ledig, J. P., Bernhardt, A., Boularand, S., Carreau, A., ... Smirnova, T. (2003). Sequence
+ identification and characterization of human carnosinase and a closely related non-specific dipeptidase. J
+ Biol Chem, 278, 6521–6531. http://dx.doi.org/10.1074/jbc.M209764200
+ 
+<section> Trombly, P. Q., Horning, M. S., & Blakemore, L. J. (1998). Carnosine modulates zinc and copper effects on
+ amino acid receptors and synaptic transmission. Neuroreport, 9, 3503–3507.
+ http://dx.doi.org/10.1097/00001756-199810260-00031
+ 
+<section> Usui, N., Haji, T., Maruyama, M., Katsuyama, N., Uchida, S., Hozawa, A., ... Taira, M. (2009). Cortical areas
+ related to performance of WAIS Digit Symbol Test: A functional imaging study. Neuroscience Letters, 463, 
+<section> Walter, A. A., Smith, A. E., Kendall, K. L., Stout, J.
+ interval training with and without beta-alanine
+ women. J Strength Cond Res, 24, 1199-1207. http://dx.doi.org/10.1519/JSC.0b013e3181d82f8b
+ Ware, J. E., & Sherbourne, C. D. (1995). The MOS
+ framework and item selection.
+ http://dx.doi.org/10.1097/00005650-199206000-00002
+ Wasserfallen, J. B., Gold, K., Schulman, K. A., & Baraniuk,
+ asthma symptoms score during a
+ http://dx.doi.org/10.3109/02770909909087288
+ Wolfe, F., Clauw, D. J., Fitzcharles, M. A., Goldenberg,
+ The American College of Rheumatology preliminary
+ of symptom severity. Arthritis Care Res (Hoboken),
+ Wolfe, F., Smythe, H. A., Yunus, M. B., Bennett, R.
+ (1990). The American College of Rheumatology
+ Report of the Multicenter Criteria
+ http://dx.doi.org/10.1002/art.1780330203
+ Zheng, Y., Ravindran, M., Adewuyi, O., Di Poto,
+ eZhengtricity © 2010: A free novel way to confidentially
+ questionnaires instantly. 10th International ME/CFS
+ Zheng, Y., Ravindran, M., Adewuyi, O., Di Poto,
+ eZhengtricity © 2010: A free novel way to confidentially
+ questionnaires instantly. World Allergy Organization
+ 
+<section> R., & Cramer, J. T. (2010). Six weeks of high-intensity
+ supplementation for improving cardiovascular fitness in
+ 36-item short-form health survey (SF-36): I. Conceptual
+ Medical Care, 30, 473-483.
+ 
+<section> J. N. (1999). Item responsiveness of a rhinitis and
+ pollen season. J Asthma, 36, 459-465.
+ 
+<section> D. L., Katz, R. S., Mease, P., ... Yunus, M. B. (2010).
+ diagnostic criteria for fibromyalgia and measurement
+ 
+<section> 62, 600-610. http://dx.doi.org/10.1002/acr.20140
+ 
+<section> M., Bombardier, C., Goldenberg, D. L., ... Sheon, R. P.
+ 1990 Criteria for the Classification of Fibromyalgia.
+ Committee. Arthritis Rheum, 33, 160-172.
+ 
+<section> C., Timbo1, C., Esteitie, R., & Baraniuk, J. (2011).
+ administer, track, receive and score medical
+ Conference, Ottawa, Canada, September, 2011.
+ 
+<section> C., Timbo1, C., Esteitie, R., & Baraniuk, J. (2011).
+ administer, track, receive and score medical
+ Conference, Cancun, Mexico, December 3-8, 2011

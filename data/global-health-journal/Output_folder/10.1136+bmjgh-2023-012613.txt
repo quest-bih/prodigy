@@ -1,0 +1,1124 @@
+
+<section> Human-­centred design
+ 
+<section> confidence in the Philippines:
+ 
+<section> a randomised controlled
+ 
+<section> Mark Donald C Reñosa , 1,2 Jonas Wachinger
+ Jhoys Landicho-­Guevarra, 2 Mila F Aligato,
+ Jeniffer Landicho , 2 Thea Andrea Bravo,
+ Maria Paz Demonteverde, 2 Catherine Silvestre,
+ Till Bärnighausen , 1,4 Rachel P Chase
+ 
+<section> To cite: Reñosa MDC, 
+<section> ABSTRACT
+ Wachinger J, Guevarra JR, Background The public’s confidence in vaccinations has
+ et al. Human-­centred design eroded, and anti-­vaccination movements have gained traction
+ bolsters vaccine confidence around the world, including in the Philippines. ‘Salubong’, a
+ 
+<section> in the Philippines: results
+ Filipino term, refers to welcoming someone back into one’s
+ 
+<section> of a randomised controlled
+ trial. BMJ Glob Health life and elicits ideas about friendship and family relationships.
+ 2023;8:e012613. doi:10.1136/ We extended this concept to vaccines in efforts to design an
+ bmjgh-2023-012613 intervention that would re-­welcome vaccines into homes.
+ 
+<section> Methods Using human-­centred design, we developed and
+ 
+<section> Handling editor Valery Ridde refined a story-­based intervention that engages Filipino
+ families, community leaders and community health workers.
+ 
+<section> ► Additional supplemental We conducted a randomised controlled trial among
+ material is published online only. caregivers of small children to test the developed intervention
+ To view, please visit the journal against a control video. We assessed the binary improvement
+ 
+<section> online (http://​dx. d 
+<section> oi.​org/​10.​
+ (improvement vs no improvement) and the amount of
+ 1136/ b mjgh-​2023- 12613).
+ improvement in vaccine attitudes and intentions after
+ intervention exposure.
+ RPC and SAM are joint senior Results Although the intervention group began with marginally
+ authors. higher baseline vaccine attitude scores, we found that 62% of
+ the intervention group improved their vaccine attitude scores
+ Received 18 April 2023 versus 37% of the control group (Fisher’s exact, p<0.001).
+ Accepted 22 September 2023 Among individuals whose scores improved after watching
+ the assigned video, the intervention group saw higher mean
+ attitude score improvements on the 5-­point scale (Cohen’s
+ d=0.32 with 95% CI 0.10 to 0.54, two-­sided t-­test, p<0.01).
+ We observed similar patterns among participants who stated
+ that they had previously delayed or refused a vaccine for
+ their child: 67% of 74 in the intervention group improved
+ their vaccine attitude scores versus 42% of 54 in the control
+ group (Fisher’s exact, p<0.001). Among the subset of these
+ individuals whose scores improved after watching the assigned
+ video, the intervention group saw higher mean attitude score
+ improvements on the 5-­point scale that were marginally
+ significant (Cohen’s d=0.35 with 95% CI −0.01 to 0.70, two-­
+ sided t-­test, p=0.06).
+ 
+<section> © Author(s) (or their Conclusions Our results provide solid evidence for the
+ employer(s)) 2023. Re-­use potential of co-­designed vaccine confidence campaigns
+ permitted under CC BY. and regulations.
+ Published by BMJ.
+ 
+<section> For numbered affiliations see
+ end of article.
+ 
+<section> INTRODUCTION
+ 
+<section> Correspondence to
+ Dr Mark Donald C Reñosa; The need for interventions and products that
+ 
+<section> ​drmarkdonaldrn@​gmail.​com are personalised to human experiences and
+ 
+<section> bolsters vaccine
+ 
+<section> results of
+ 
+<section> trial
+ 
+<section> , 1 Jerric Rhazel Guevarra,
+ 2 Vivienne Endoma ,
+ 2 Carol Malacad,
+ 2 Kate Bärnighausen , 1,3
+ 
+<section> , 1,5 Shannon A McMahon 1,6
+ 
+<section> WHAT IS ALREADY KNOWN IN THIS TOPIC
+ 
+<section> ⇒ Vaccine hesitancy can have serious public health
+ consequences, as it can lead to outbreaks of
+ vaccine-­preventable diseases, particularly in coun-
+ tries with low vaccination rates.
+ 
+<section> ⇒ Concerns about the safety and effectiveness of
+ vaccinations, including misinformation, mistrust
+ of healthcare workers or pharmaceutical compa-
+ nies, religious or philosophical convictions and
+ fear of side effects are all potential causes of
+ vaccine hesitancy.
+ 
+<section> ⇒ While human-­ centred design (HCD) has proven
+ beneficial in several health campaigns, evidence
+ regarding whether, how or to what effect HCD can
+ be used to bolster vaccination confidence in low and
+ middle-­income countries is lacking.
+ 
+<section> WHAT THIS STUDY ADDS
+ 
+<section> ⇒ We designed and refined a story-­based intervention
+ that involves Filipino families (especially those who
+ are vaccine-­hesitant), community leaders and com-
+ munity health workers using HCD.
+ 
+<section> ⇒ Our findings highlighted the potential of real-­life narra-
+ tives in developing and honing an intervention rooted in
+ the local context.
+ 
+<section> ⇒ Our HCD-­ d riven intervention boosts vaccine
+ confidence and increases positive feelings about
+ vaccines. We thereby reinforce the importance
+ of HCD as a method of meaning-­making that af-
+ fects attitudes and behavioural intent in relation
+ to vaccinations.
+ 
+<section> HOW THIS STUDY MIGHT AFFECT RESEARCH,
+ 
+<section> PRACTICE OR POLICY
+ 
+<section> ⇒ Time, vulnerability and volatility (ie, roller-­
+ coaster emotions) elements of vaccine hesitancy
+ emphasise the necessity of integrating context
+ and ongoing public sentiments into interventions
+ targeted at promoting vaccine confidence.
+ 
+<section> ⇒ Additional and larger-­scale research is warranted,
+ particularly concerning vaccine messaging revital-
+ isation in a time of pervasive disinformation and with
+ vaccine uptake outcomes in addition to intentions. 
+<section> their cultural and environmental contexts is increasingly
+ recognised. Human-­centred design (HCD) has gained
+ popularity in the field of global health as a means to
+ co-­create and rapidly assess products and services. 1 2 HCD
+ engages intended end-­users in the design process and
+ encourages implementers to be guided by empathy when
+ developing applied solutions. 1 In prioritising end-­user
+ insights and engaging with end-­users throughout design
+ ideation and iterations, HCD cultivates a sense of equity.
+ Several studies have demonstrated the value of
+ HCD in fostering cultural sensitivity and local adapt-
+ ability. 4–8 HCD-­ driven breastfeeding interventions in
+ South Africa, for example, emphasised the relevance of
+ stories and personal experiences, as well as leveraging
+ local talents and expertise (ie, elements of local voices
+ and music) to resonate across ethnic and socioeco-
+ nomic groups. 5 8 The development of a maternal nutri-
+ tion video in Burkina Faso involved modifying images
+ related to climate, language, food, household structures
+ and socioeconomic position of end-­users and health-
+ care professionals as a means to enhance relatability. 6
+ In India, HCD was used to generate digital health solu-
+ tions (eg, mobile messaging service) for long-­ term
+ health system integration to address maternal and child
+ health in the country. 9 Additionally, several HCD-­driven
+ interventions have focused on the use of straightfor-
+ ward storylines and journey maps when designing prod-
+ ucts. 4
+ As vaccine hesitancy constitutes a significant threat to
+ global health, 11 HCD has proven to be beneficial in devel-
+ oping vaccine promotion material. 12–16 Examples include
+ development of user-­ centred mobile applications to
+ educate parents on child vaccination and vaccine safety
+ communication strategies in Germany, 13 16 paediatric
+ vaccination modules for patients in Argentina 14 and clin-
+ ical guidelines to improve healthcare providers’ recom-
+ mendations in the USA. 15 Some less-­ resource settings
+ have also started to incorporate HCD principles into
+ their work, such as the development of educational mate-
+ rials and interactive elements to engage parents in South
+ Africa and Burkina Faso, 4–8 hospital-­based vaccine docu-
+ mentation strategies in Kenya 10 and digital interventions
+ in India. 9 12 Existing vaccine confidence interventions
+ employing HCD rely heavily on health-­system approaches
+ and advocate for improved healthcare environments. 12–16
+ While HCD-­driven interventions have yielded prom-
+ ising results in terms of increasing vaccine confidence and
+ uptake, their scope did not always acknowledge vaccine-­
+ hesitant families’ own lived experiences and narratives.
+ Several authors have argued about the importance of
+ tailoring health interventions based on vaccination
+ concerns and experiences, and aligning interventions
+ to fit cultural and environmental contexts. 17 18 More
+ recently, authors have also highlighted a need to address
+ hesitancies rooted in alternative health beliefs, political
+ polarisation or belief-­ based extremism reinforced by
+ digital media platforms. 18 Additionally, despite increasing
+ in recent years, scholarship from low and middle-­income
+ countries on employing HCD for the development of
+ vaccine confidence interventions remains limited.
+ To fill gaps in the literature and lay the groundwork for
+ a meaningful campaign that restores trust in vaccines, we
+ drew on local narratives to design, refine and ultimately
+ test a story-­ based intervention that connects vaccine-­
+ hesitant caregivers (eg, parents, other family members,
+ legal guardians), policymakers, healthcare workers
+ (HCWs) and other community actors. We developed and
+ tested our HCD-­driven intervention in a country that
+ has experienced an unprecedented erosion of vaccine
+ confidence in childhood vaccinations: The Philippines.
+ Dramatic declines in vaccine confidence and uptake
+ in the Philippines are linked to a dengue vaccination
+ controversy in 2017, which sparked widespread distrust
+ in childhood vaccinations and led to large-­scale measles
+ outbreaks and the loss of a 20-­year polio-­free status in
+ 2019. 19 20 Against this contextual backdrop, we devel-
+ oped an animated video intervention called ‘Salubong’,
+ a Filipino term that refers to welcoming someone back
+ into one’s life and which elicits ideas about friendship
+ and family relationships. We extended this concept to
+ vaccines to design an intervention that would encourage
+ re-­welcoming vaccines into homes.
+ In this article, we present the randomised controlled
+ trial (RCT) results of testing the final story-­based vaccine
+ confidence intervention. Our work provides evidence
+ that can inform upcoming campaigns and regulations
+ targeted at restoring public confidence in vaccines.
+ 
+<section> METHODS
+ 
+<section> Study design and setting
+ We undertook an RCT targeting parents or caregivers of
+ under-­five children in urban and rural communities of
+ Calabarzon region, the Philippines. Calabarzon region
+ (population ~16 million) is the most populous region
+ in the Luzon group of Islands, where measles cases rose
+ 300% in 2019. 22–24 We purposively selected Dasmariñas
+ City (urban arm) and Silang, Cavite (rural arm) to reflect
+ both rural and urbanised conditions, and to capture
+ different and varied sociodemographic factors and
+ health facility-­related experiences on child health and
+ vaccinations. A published protocol and methodological
+ articles provide a detailed overview of the study design
+ and data collection techniques. 21 25
+ Table 1 shows the summary of the study phases, specific
+ objectives and corresponding outputs, which track the
+ four phases of HCD. Within any given phase, we allowed
+ for iterations and repetitions as necessary. We had to
+ forgo in-­ person data collection due to the COVID-­
+ pandemic 25 and shifted all data collection activities to
+ a remote RCT in line with the procedures outlined in
+ the published protocol 21 and the recommendations of
+ the European Medicines Agency and the Philippines
+ Inter-­Agency Task Force amid COVID-­19 pandemic to
+ ensure study participants’ and researchers’ protection.
+ Data collector trainings included modules on computers, 
+<insert> Figure 1 Think-­aloud exercises performed during the iteration 
+<iend>
+
+ 
+<insert> Human-­centred design
+ Date component Aims and target groups
+ August–
+ September
+ 2020
+ October–
+ December
+ 2020
+ Preparatory phase ► Understanding the challenges on childhood
+ vaccinations, perceptions of vaccines and health
+ system
+ ► In-­depth interviews (IDIs) with policymakers (n=19)
+ Phase 1: Shared ► Gathering information about how participants
+ Appraising: ‘Empathise’ frame vaccine hesitancy as a problem, how they
+ situate themselves (particularly considering their
+ sociocultural context) and learning which factors
+ would motivate them to address the problem
+ ► IDIs with vaccine-­hesitant caregivers (n=44),
+ vaccine-­accepting caregivers (n=11), healthcare
+ workers (n=7) and community leaders (n=3)
+ January–
+ March 2021
+ Phase 2: Life stories and ► End-­users suggest ideas to address the problem in
+ Uncovering: ‘Define and collaboration with the research team
+ Ideate’ ► Focus group discussions (FGDs) (n=5) and IDIs
+ (n=6) with caregivers and FGDs with community
+ health workers (n=4)
+ April–July
+ 2021
+ Phase 3: Bridging and
+ Optimising: ‘Prototype’
+ August 2021–
+ August 2022
+ ► Narratives and
+ descriptions
+ ► Storyboard development
+ ► Refined storyboards
+ ► Prototypes and products are then developed and ► Co-­produced prototype
+ tested in real-­world settings with actual users via (5 min animated cartoon
+ actual delivery systems video+online delivery
+ ► IDIs with healthcare workers (n=14) approach)
+ Phase 4: Navigating and ► A particularly promising product is introduced more ► Tested intervention
+ Gaining: ‘Test’ broadly
+ ► Randomised controlled trial with caregivers (n=719)
+ Outputs
+ Table 1 Details of the development of ‘SALUBONG’ intervention video 
+<iend>
+
+ apps, video conferencing platforms and online voice
+ recorders, as well as data backup and security protocols.
+ We used Zoom breakout rooms to train data collectors,
+ which allowed them to practice survey approaches in
+ different groups, with and without trainer supervision.
+ For consenting, in lieu of meeting participants in-­person
+ and establishing informed consent by signature or finger-
+ print, participants signed consent forms remotely during
+ a recorded video call and shared a ‘selfie’ with the signed
+ form.
+ The stories and experiences of participating vaccine-­
+ hesitant caregivers served as the impetus for the Salubong
+ video. 27 28 Qualitative data collected amid HCD phases
+ outlined the role of sociocultural context in shaping
+ vaccine hesitancy in the Philippines and the widespread
+ consequences of the dengue vaccine scare across various
+ population strata. These findings highlighted the poten-
+ tial of real-­life narratives in developing and honing an
+ intervention rooted in the local context. 27–29 Preliminary
+ cartoon sketches and characters for the storyboards were
+ presented and iterated along the way. We performed
+ think-­aloud exercises with caregivers, HCWs and commu-
+ nity leaders using analogue flipboards and/or screen
+ share digital photos of the paper-­based storyboards to
+ 
+<section> and prototyping phase. 
+<section> critique and refine the storyboards (see figure 1). Local
+ Filipino cartoonists were involved throughout the design
+ process, including via: (a) sharing of video snippets of
+ qualitative interviews including design feedback; (b)
+ collaboration in debriefings and/or provision of the
+ debriefing notes; (c) consultative Zoom meetings on the
+ development and refinement of the video storyboards
+ and (d) continuous refinement of the sketches based on
+ emerging design insights. We had originally planned to
+ have local cartoonists join in on the online interviews as
+ observers, but we ultimately decided against it because of
+ the sensitivity of the vaccination topic in the local context
+ and ethical considerations.
+ The HCD-­driven intervention was iteratively improved
+ based on participants’ feedback and insights from poli-
+ cymakers and various actors working directly with the
+ public health system to counteract falling immunisation
+ rates. 29 Figure 2 shows the preliminary results of these
+ iterative and prototyping processes. The full complexi-
+ ties of the design process, which lasted 12–15 months,
+ entailed extensive discussions among various actors
+ (scientists, policymakers, healthcare providers, commu-
+ nity and local stakeholders, animators and cartoonists,
+ health promotion experts, communication and social
+ media officers, etc) and further details of the processes
+ in terms of how we chose the medium and the message
+ will be presented elsewhere.
+ The intervention video included a 5-­minute animated
+ cartoon, entitled: ‘Salubong: Building Vaccine Confi-
+ dence’, that narratively featured stories of Filipino fami-
+ lies about vaccines (the front cover of the video is shown
+ in figure 3). The cartoon used a narrative and empathic
+ format tailored to the Filipino cultural setting, featuring
+ diverse characters of different ages, household compo-
+ sitions and income, and ethnic backgrounds, as well as
+ appealing colours for optimal contrast. The Salubong
+ video was co-­created in collaboration with study partici-
+ pants, and Filipino local cartoonists and dubbed by voice
+ actors from The Coffee Creatives, an animator’s studio
+ in the Philippines. The original video is in Filipino, and
+ there are two other versions with Filipino and English
+ subtitles. The Salubong intervention video is avail-
+ able for viewing (https://www.youtube.com/watch?v=​
+ M8nEj5G9Iuc).
+ 
+<section> Study oversight
+ Prior to commencement, permission to undertake this
+ study was obtained from Department of Health offi-
+ cials (national, regional and provincial offices). Further,
+ through official letters and Zoom courtesy calls, we also
+ acquired permission from local authorities and leaders
+ in the Calabarzon region to carry out the study in their
+ respective communities. Informed consent was obtained
+ from all participants prior to their enrolment.
+ 
+<section> Experimental design and set-up
+ We randomly selected barangays (‘small communities’)
+ from Dasmariñas City (urban arm) and Silang, Cavite
+ (rural arm) that had not previously participated in a
+ qualitative component of the study (results of which are
+ described elsewhere 27 ). We estimated sample sizes of
+ 200 participants per group (intervention and control
+ arms in rural and urban areas), yielding a total of
+ individuals. With an 85% response rate, a 5% type I error
+ rate, and a 20% type II error rate, the calculated sample
+ size allowed us to detect a difference of 15% in the binary
+ outcome between the intervention and control groups in
+ each area.
+ We performed a multistage stratified sampling frame
+ to select barangays. From each of the two study sites,
+ two barangays with the highest population, based on the
+ most recent population report available, were selected to
+ ensure enough potential participants. The two selected
+ barangays (per urban and rural arms) were randomly
+ allocated as an intervention and as a control site. A listing
+ of households with under-­ five children was obtained
+ from the local health officials. The household listing
+ served as a sampling frame from which 200 households
+ were randomly selected and invited to participate in the
+ study. In four originally sampled barangays (two each
+ for control and intervention groups), the number of
+ interviewed caregivers was less than 200. In line with the
+ processes defined in the research protocol, we therefore
+ sampled additional barangays as per the criteria above.
+ We collaborated with community health workers who
+ conducted house visits, obtained caregivers’ mobile
+ phone numbers and obtained consent to be contacted
+ by the research team, following the selection and allo-
+ cation of the potential participants to intervention or
+ control groups. Community health workers also distrib-
+ uted consent forms and informed potential participants
+ that a member of the research team would contact them.
+ Afterwards, the potential participants were invited to
+ participate during a phone call where the study aims
+ were briefly introduced. If individuals expressed interest
+ in the initial phone contact, we either directly continued
+ with a detailed study discussion and obtained online
+ informed consent (via Facebook Messenger video call)
+ or scheduled a separate appointment. To ensure partic-
+ ipants’ internet connectivity throughout the consent
+ process and trial procedures, we purchased and trans-
+ mitted mobile data packages to participants.
+ Once consent was obtained, the videos (intervention
+ and control) and surveys (pre and post) were delivered
+ online. We developed and used an online version of the
+ survey forms, which we pilot-­tested among 30 caregivers
+ to ensure feasibility (either self-­ administered or data
+ collector-­assisted) and alleviate operational challenges.
+ Following the pilot testing of the survey forms, we there-
+ fore decided to conduct data collector-­assisted surveys (ie,
+ data collectors read the questions to the participants and
+ are responsible for encoding the answers in the online
+ form). After completion of the baseline survey, the Salu-
+ bong video was then screened for members belonging
+ to the intervention group, while the ‘Paano labanan ang
+ 
+<section> COVID-­19 (How to fight COVID-­ 19)’ animated video, 
+<section> Figure 2 Iterations—before and after adaptation—of the SALUBONG
+ which was created by the Philippines Department of
+ Health’s Health Promotion Bureau (ie, focused on the
+ value of staying at home, transmission, and signs and
+ symptoms), was screened for control group participants.
+ 
+<section> intervention.
+ 
+<section> We used ‘online screen-­ sharing’ functions to screen
+ videos for participants. To avoid biases or contamina-
+ tion of the data, no interactions were attempted during
+ the presentation of the videos. Following the video, we 
+<section> Figure 3 
+<section> Cover of the cartoon ‘SALUBONG: Building vaccine confidence’.
+ 
+<section> conducted a follow-­up using the same survey as the base-
+ line assessment (without re-­ capturing the sociodemo-
+ graphic information gathered in the baseline survey).
+ Before and after watching the intervention or control
+ video, participants in both groups were asked to
+ provide information about their attitudes toward vacci-
+ nations, with statements such as, ‘Children get more
+ shots than are good for them’, ‘I believe that many
+ of the illnesses that vaccinations prevent are severe’
+ and ‘It is better for my child to develop immunity by
+ getting sick than to get a shot’, among others. We used
+ the parents’ attitudes about childhood vaccination
+ (PACV-­15) adapted from Opel and colleagues. 30–34 The
+ PACV-­15 exhibits robust psychometric properties 30–34
+ and has proven to be a valuable instrument extensively
+ employed in prior research assessing parental vaccine
+ attitudes. 35 36 While we left the fundamental structure
+ of the tool unchanged, we made modifications to the
+ questionnaire wording to align with the study context
+ and retained more of the granularity of 5-­point and
+ 10-­ point Likert items when scoring compared with
+ the collapsed category scoring of the original PACV-­15
+ calculation method. This allowed us to focus primarily
+ on how the intervention affected response patterns and
+ to assess whether the intervention caused, for example,
+ polarisation of attitudes while enabling us to make
+ the cultural comparisons and gain the insights into
+ parental attitudes towards vaccines that the PACV-­15
+ allows. The full questionnaire is included as online
+ supplemental file 1. Responses ranged from ‘strongly
+ disagree’ to ‘strongly agree’ on a 5-­ point scale. To
+ lessen the subjective uncertainty associated with Likert
+ Scales, we presented the responses as visual analogues
+ (ie, a combination of facial emojis, colour gradations,
+ numbers and integration of Filipino words).
+ 
+<section> Data treatment and analysis
+ Achieving the originally envisioned sample size proved
+ challenging. As outlined above, we sampled participants
+ from more barangays than initially envisioned, (a total of
+ 8 in control and 4 intervention barangays across urban
+ and rural study sites), following the pre-­defined proce-
+ dures, due to difficulties reaching participants fulfilling
+ the inclusion criteria under pandemic conditions, and as
+ many potential participants refused to participate online.
+ We considered shifting to in-­ person data collection
+ but ultimately decided against it due to the COVID-­19
+ concerns raised by the selected barangays and budgetary
+ constraints. Instead, we analysed the data sets available
+ after more than 1 year of data collection (n=719) to see
+ if adding more information could impact the primary
+ outcomes. We calculated whether knowledge had
+ increased in total (ie, the total points in the suggested
+ approach are higher in pre-­ intervention and post-­
+ intervention) and in which particular domain knowledge
+ had increased. Furthermore, we did linear regression
+ analysis with ‘change in scores’ as the result, ‘interven-
+ tion’ as the major factor and ‘demographics’ as the other
+ components. As there was little room for improvement
+ via the intervention because of the high percentage of
+ participants in the intervention and control groups
+ expressing the desired response to D1 (‘delays in taking
+ vaccines’), we concluded that additional sampling to
+ include the originally envisioned n=800 participants
+ could not change the study’s conclusions with regard to
+ this outcome. Secondary outcomes would similarly be
+ unaffected by additional data collection. We therefore
+ stopped collecting data and analysed the available data
+ sets.
+ Overall, we assessed the binary improvement
+ (improvement vs no improvement) and the amount of 
+<insert> Table 2 Sociodemographic characteristics
+ Characteristics
+ Total
+ (n=719)
+ Intervention Control
+ (n=396) (n=323)
+ Sex, n (%)
+  Female 693 (96.4) 379 (95.7) 314 (97.2)
+  Male 26 (3.6) 17 (4.3) 9 (2.8)
+ Age, mean (SD) 32.7 (8.7) 33.0 (8.9) 32.2 (8.5)
+  Rural 396 (55.1) 196 (49.5) 200 (61.9)
+  Urban 323 (44.9) 200 (50.5) 123 (38.1)
+ Place of residence, n (%)
+ Participant’s occupation, n (%)
+  Housewife 364 (50.6) 207 (52.3) 157 (48.6)
+  None 113 (15.7) 59 (14.9) 54 (16.7)
+  Business 82 (11.4) 46 (11.6) 36 (11.1)
+  Manual labourer 50 (7.0) 22 (5.6) 28 (8.7)
+  Self-­employed 49 (6.8) 30 (7.6) 19 (5.9)
+  Professional 46 (6.4) 26 (6.6) 20 (6.2)
+  Community health
+ worker
+ 8 (1.1) 3 (0.8) 5 (1.5)
+  Student 4 (0.6) 2 (0.5) 2 (0.6)
+  Clerical support 1 (0.1) 0 (0.0) 1 (0.3)
+  Retired 2 (0.2) 1 (0.3) 1 (0.3)
+ Educational attainment, n (%)
+  None 2 (0.3) 2 (0.5) 0 (0.0)
+  Elementary 51 (7.1) 33 (8.3) 18 (5.6)
+  High school
+ undergraduate
+ 97 (13.5) 47 (11.9) 50 (15.5)
+  High school
+ graduate
+ 304 (42.3) 176 (44.4) 128 (39.6)
+  Vocational
+ education
+ 51 (7.1) 27 (6.8) 24 (7.4)
+  College
+ undergraduate
+ 120 (16.7) 63 (15.9) 57 (17.7)
+  College graduate 90 (12.5) 47 (11.9) 43 (13.3)
+  Graduate studies 4 (0.6) 1 (0.3) 3 (0.9)
+ Primary healthcare decision-­maker in the family, n (%)
+  Mother 540 (75.1) 296 (74.7) 244 (75.5)
+  Father 111 (15.4) 61 (15.4) 50 (15.5)
+  Grandmother 55 (7.6) 33 (8.3) 22 (6.8)
+  Grandfather 5 (0.7) 2 (0.5) 3 (0.9)
+  Other sibling 3 (0.4) 0 (0.0) 3 (0.9)
+  Both parents 2 (0.3) 1 (0.3) 1 (0.3)
+  Both grandparents 2 (0.3) 2 (0.5) 0 (0.0)
+  Live-­in partner 1 (0.1) 1 (0.3) 0 (0.0)
+ 1.3 (0.5) 1.3 (0.5)
+ 2.4 (1.3) 2.3 (1.3)
+ Number of under-­5 1.3 (0.5)
+ years old children per
+ household, mean (SD)
+ Number of all children 2.4 (1.3)
+ per household, mean
+ (SD) 
+<iend>
+
+ improvement in vaccine attitudes and intentions after
+ intervention exposure. The PACV-­15 Likert Scales were
+ labelled D4–D13 (10 items), and the responses were
+ transformed from a 1 to 5 scale to a −2 to 2 scale, with
+ −2 representing the least desired option (regardless of
+ whether that was 1 or 5 in the original scale). The more
+ items we included, the more granular the differences we
+ could discern both person-­to-­person and within a person
+ over time. Additionally, the Likert scale responses were
+ analysed inferentially by coding answers from 1 (strongly
+ disagree) to 5 (strongly agree) and drawing on para-
+ metrical (paired t-­test) or non-­parametrical (Wilcoxon
+ signed rank test) approaches, depending on sample
+ characteristics. Electronic copies of all data were saved
+ offline and external hard drives were stored in a locked
+ cabinet at the Research Institute for Tropical Medicine in
+ the Philippines. All data management and analyses were
+ performed using STATA (Stata Corp, College Station,
+ Texas, USA) and R (R Development Core Team, Vienna,
+ Austria) statistical software. An author reflexivity state-
+ ment on our partnership is included as online supple-
+ 
+<section> mental file
+ 
+<section> Patient and public involvement
+ Patients and the public were not directly involved in the
+ design, conduct, reporting, or dissemination plans for
+ this study. However, the research team consistently gath-
+ ered participant narratives and feedbacks in accordance
+ with the principles of HCD (for the overall study) and
+ qualitative research, and the findings provided here give
+ voice to these participant experiences.
+ 
+<section> RESULTS
+ Demographic characteristics and participant flow
+ Between 11 August 2021 and 15 August 2022, 719 partic-
+ ipants were surveyed; 396 participants were from urban
+ areas, while 323 were from rural areas (table 2). A
+ majority of participants were women (96%), were most
+ frequently housewives (51%) and had completed at least
+ their high school education (79%). Among the sociode-
+ mographic characteristics, only the place of residence
+ differed significantly between intervention and control
+ groups (Pearson χ=11.10, p=0.001). After receiving a
+ randomly assigned treatment, 396 participants watched
+ the Salubong video while 323 participants saw a standard
+ COVID-­ 19 health education video. Figure 4 shows a
+ diagram of the participant flow.
+ 
+<section> HCD video increases vaccine confidence
+ Figure 5A depicts a positive upward trend in the mean
+ improvement on D4–D13 after exposure to the interven-
+ tion video versus the control video. Although the inter-
+ vention group began with marginally higher baseline
+ vaccine attitude scores, our findings showed that 62% of
+ the intervention group improved their vaccine attitude
+ scores versus 37% of the control group (Fisher’s exact,
+ p<0.001), and the mean attitude score improvements on
+ the 5-­point scale were higher when limiting assessment to 
+<section> Figure 4 Trial recruitment and retention of participants.
+ 
+<section> those whose scores improved after watching the assigned
+ video (Cohen’s d=0.32 with 95% CI 0.10 to 0.54, two-­
+ sided t-­test, p<0.01). Comparing the intervention group
+ to the control group, participants in the intervention
+ group were substantially less likely to experience post-­test
+ mean score reductions, but among those who did, there
+ was no statistically significant difference in score change
+ (−0.31 vs −0.29, two-­sided t-­test, p=0.34).
+ When limiting the analysis to participants who had
+ previously delayed or refused vaccination in the past, 
+<section> Figure 5 Caregiver’s attitudes toward childhood vaccines pre-­intervention
+ we were left with 240 participants, some in interven-
+ tion and some in the control groups. Participants who
+ stated they had previously delayed or rejected vaccinating
+ their children exhibit similar patterns: 67% of 110 in
+ the intervention group improved their vaccine attitude
+ scores compared with 42% of 130 in the control group
+ (Fisher’s exact, p<0.001) (figure 5B). Among individuals
+ whose scores improved after watching the assigned video,
+ the intervention group saw higher mean attitude score
+ improvements on the 5-­point scale that were marginally
+ significant (Cohen’s d=0.35 with 95% CI −0.01 to 0.70,
+ two-­sided t-­test, p=0.06). Intervention participants (who
+ had previously delayed or refused vaccination) were
+ much less likely to see declines in their mean scores post-­
+ test compared with control, but among those who did
+ decline, there was no statistically significant score change
+ when comparing intervention versus control (−0.33 vs
+ −0.31, two-­sided t-­test, p=0.73). Further, the participants
+ (who had previously delayed or refused vaccination) were
+ substantially more likely to increase their score at all, and
+ 
+<section> Figure 6 Caregiver’s attitudes regarding HCWs pre-­intervention
+ 
+<section> and post-­intervention.
+ 
+<section> those in the intervention group who did so marginally
+ more than those in the control group.
+ 
+<section> Intervention showed vaccine confidence score improvements
+ among those who did not trust HCWs
+ Participants who listed HCWs as among their most
+ trusted sources of vaccine information had baseline
+ average scores that were higher than those who did not
+ (0.15 vs 0.03; t-­test, p=0.02) (figure 6). When analysing
+ intervention versus control score changes from pre-­test
+ to post-­ test in each group determined by HCW trust
+ status, intervention had greater score improvement than
+ control insofar as more intervention group participants
+ saw improvements in their post-­test versus pre-­test scores
+ (66% vs 28% among those who did not trust HCWs; 61%
+ vs 39% among those who did trust HCWs), but among
+ those whose scores improved, the amount of improve-
+ ment was similar comparing intervention to control (0.35
+ vs 0.29 among those who did not trust HCWs; 0.38 vs 0.30
+ among those who did trust HCWs).
+ 
+<section> and post-­intervention. HCWs, healthcare workers. 
+<insert> Figure 8 Perception to the intervention and control videos. 
+<iend>
+
+ 
+<section> Figure 7 Caregiver’s who do not list HCWs as their most trusted
+ We narrowed our analysis to people whose most trusted
+ source of information was someone other than HCWs, as
+ they are an important group to reach with vaccine confi-
+ dence messaging and they had a significantly different
+ baseline score than others (figure 7). Our results showed
+ that the intervention group still reflected statistically
+ significant improvements in post-­test scores compared
+ with the control group in terms of more intervention
+ group participants’ scores improving (66% vs 28%, Fish-
+ er’s exact p<0.001), with the improvers among the two
+ groups improving a comparable amount (0.35 interven-
+ tion vs 0.29 among controls, two-­sided t-­test, p=0.35).
+ 
+<section> source of information. HCWs, healthcare workers.
+ 
+<section> Human-centred video boosts positive feelings about vaccines
+ We assessed participants’ affective responses to the videos
+ both before and after they watched the intervention or
+ control videos (figure 8). We included declarations like
+ ‘I feel that the people in the healthcare system respect my
+ situation’, ‘I feel that I am warmly welcomed by health-
+ care workers in the health facilities’, and ‘I feel that
+ agreeing to vaccines is a way to show my love for my chil-
+ dren’. The baseline values were extremely high, with an
+ average of 1.47 (with a possible range of −2 to 2); these
+ items therefore had very little space for improvement in a 
+<section> pre-­test to post-­test comparison. The intervention group,
+ however, still included more people who improved their
+ scores (34% vs 24%) and fewer individuals whose scores
+ declined at post-­ test (20% vs 37%) than the control
+ group.
+ 
+<section> DISCUSSION
+ 
+<section> To the best of our knowledge, this is the first RCT that
+ examined the efficacy of a video-­ based, HCD-­ driven
+ intervention improving parental confidence in child-
+ hood vaccinations in the Philippines. We found that
+ our HCD-­ driven intervention, the Salubong animated
+ video, positively impacted caregiver attitudes and confi-
+ dence toward childhood vaccinations. Our intervention
+ also improved vaccine confidence among participants
+ who previously delayed or refused a vaccine for their
+ children. Our findings reaffirm the value of HCD as a
+ meaning-­making approach that influences attitudes and
+ behavioural intent in general 1 2 37 38 including in relation
+ to vaccination.
+ Our results support the use of HCD to boost vaccine
+ confidence along the vaccine hesitancy continuum. A
+ number of research studies have used HCD when devel-
+ oping vaccine confidence interventions with promising
+ results, for example, to design mobile Apps to inform
+ parents about the vaccination status of their children
+ in Germany 13 and to increase HPV vaccination uptake
+ among adolescent girls in the USA. 40 Also, UNICEF’s
+ Human Centred Design 4 Health initiative includes
+ several case studies of countries that have implemented
+ HCD-­driven interventions including the ‘rock in a jar’
+ in Mali (which involves giving grandmothers a jar full of
+ stones to ease their burden of remembering vaccination
+ schedules) and a ‘playmat board game’ in Nigeria (which
+ portrays a journey map of critical milestones and health-­
+ seeking behaviours to bring health education closer to
+ households). 41 Our findings add to the growing collec-
+ tion of HCD-­driven initiatives for public health promo-
+ tion to bolster vaccine confidence.
+ Some studies also provide evidence of the effective-
+ ness of different types of vaccine confidence interven-
+ tions and highlight the importance of addressing vaccine
+ confidence as a barrier to vaccine uptake. Prior successful
+ interventions include text message reminders for influ-
+ enza vaccine uptake in Australia, 42 an internet-­ based
+ social media intervention to address parents’ vaccine
+ concerns in the USA 43 and an individually tailored educa-
+ tional application for pregnant women and mothers in
+ the USA. 44 Our findings contribute to the literature by
+ showing that vaccine-­ hesitant individuals can improve
+ their vaccine intentions and the potential of HCD-­driven
+ interventions in promoting vaccine confidence.
+ Our findings also provide concrete evidence of the
+ opportunities of empathic-­driven interventions, partic-
+ ularly for low-­resource settings combating vaccine losses
+ brought on by controversies. 41 The notion that vaccine
+ hesitancy has time, vulnerability and volatility (ie, roller
+ coaster sentiments) dimensions underscores the impor-
+ tance of incorporating context and ongoing public senti-
+ ments in any interventions aimed at boosting vaccine
+ confidence. 18 Ofri described this phenomenon as
+ ‘emotional epidemiology’, arguing for it to be as critical
+ as clinical epidemiology and calling for addressing the
+ existential concerns of the public over vaccines. 45 Simi-
+ larly, in light of the volatility of vaccine hesitancy, Larson
+ urges researchers to reconfigure the definition and
+ measurements as ‘vaccine hesitancy is not a behaviour’,
+ but rather ‘a psychological state of indecisiveness’.
+ Contextual awareness then is essential in evaluating how
+ much traction a particular vaccination effort can receive
+ and how substantial a reaction it can generate. 18 46 There-
+ fore, HCD offers a promising mechanism to contend with
+ the volatility inherent to vaccine hesitancy by putting the
+ needs, wants and experiences of people at the centre of
+ the design process. In terms of measuring vaccine hesi-
+ tancy in our study, we acknowledge PACV-­15 as a valuable
+ tool for measuring changes in vaccine confidence. 30
+ Additionally, we drew on affective questions to empha-
+ sise vaccine-­related emotional responses to account for
+ vaccine hesitancy’s volatility, which allowed us to better
+ understand the affective responses our participants
+ expressed towards vaccines adding to the ongoing discus-
+ sion about suitable metrics and additional indicators for
+ capturing the complexities of vaccine hesitancy.
+ While our findings are generally encouraging, we note
+ limitations. First, confidence and intent to vaccinate do
+ not always translate into actual vaccination uptake. We
+ invite future researchers to implement similar interven-
+ tions that include actual vaccine uptake as an outcome
+ measure. Second, certain concerns might be associ-
+ ated with this study being conducted online, especially
+ regarding internet connectivity concerns and informed
+ consent processes. However, we developed online data
+ collection and standard operating procedures to allay
+ these operational worries. 25 Third, we also recognise that
+ survey questions might lead to response biases, especially
+ when they are delivered online; to keep participants
+ focused, we avoided using one single question design
+ throughout the survey. Instead, we used a combination
+ of binary questions, Likert Scales, and response contin-
+ uums to provide a range of response options and main-
+ tain engagement. Additionally, we translated the options
+ into the local language and modified our Likert Scales
+ to incorporate facial emojis, colour continuums, and
+ number continuums. Therefore, by employing these
+ strategies, which urge participants to think about their
+ responses, we hope to have alleviated response biases. By
+ delivering the survey online, we might expect to see less
+ social desirability bias and greater item non-­response;
+ while we could not assess for social desirability bias using
+ the data we collected, item non-­response rates were zero
+ on both intervention and control. Finally, we draw atten-
+ tion to the fact that a majority of our participants are
+ women. While women are regarded as key caregivers in
+ Filipino households, the lack of other perspectives might 
+<section> have led us to overlook nuances in vaccine decision-­
+ making. Therefore, we encourage future research to
+ specifically target diverse household members.
+ 
+<section> CONCLUSION
+ 
+<section> Our study confirms that HCD is a promising approach to
+ improving vaccine attitudes and intentions. Our findings
+ may help shape future initiatives and legislation aimed
+ at regaining the public’s trust in vaccinations. More
+ extensive studies are needed, especially in light of the
+ prevalent misinformation about vaccines and the need
+ to study actual vaccination uptake results in addition to
+ 
+<section> intentions.
+ 
+<section> Author affiliations
+ Heidelberg Institute of Global Health, Ruprecht-­Karls-­Universität Heidelberg,
+ 
+<section> Heidelberg, Germany
+ Department of Epidemiology and Biostatistics, Research Institute for Tropical
+ Medicine - Department of Health, Muntinlupa City, Philippines
+ School of Public Health, University of the Witwatersrand, Johannesburg-­
+ 
+<section> Braamfontein, South Africa
+ Africa Health Research Institute, Durban, South Africa
+ College of Medicine, The Ohio State University, Columbus, Ohio, USA
+ International Health Department, Johns Hopkins University Bloomberg School of
+ Public Health, Baltimore, Maryland, USA
+ 
+<section> Twitter Shannon A McMahon @shannonamcmahon
+ 
+<section> Acknowledgements We acknowledge the other member of the Project
+ SALUBONG Team from the Research Institute for Tropical Medicine, Philippines:
+ Nicanor de Claro III and Victoria Graziell Zaragoza. We also acknowledge Karla Mae
+ Ujano and her team at The Coffee Creatives for their assistance with the animation
+ video. Additionally, we extend our gratitude to the barangay health workers and
+ local officials of Cavite Province and Dasmariñas City for their collaboration and
+ support during data collection.
+ 
+<section> Contributors MDCR wrote the initial draft of the manuscript. MDCR, JW, KB and
+ SM conceived and designed the experiments. JL-­G and MFA performed project
+ administration. MDCR, JRG, JL-­G, VE, JL, MFA, TAB, CM, MPD and CS conducted
+ data collection and data management. VE supported graphic design. MDCR and
+ RPC performed data analysis and visualisation. JW, KB and TB contributed to the
+ report writing and critically reviewed the manuscript. RPC and SM supervised all
+ the writing and editing of the manuscript. MDCR serves as a guarantor for this
+ study. All authors have read and approved the manuscript.
+ 
+<section> Funding This work was supported by the Bill & Melinda Gates Foundation
+ [OPP1217275]. Under the grant conditions of the Foundation, a Creative Commons
+ Attribution 4.0 Generic License has already been assigned to the Author Accepted
+ Manuscript version that might arise from this submission. MDCR further received
+ support in the form of a PhD scholarship grant from Katholischer Akademischer
+ Ausländer-­Dienst (KAAD). The funders did not play a role in the preparation of this
+ research article.
+ 
+<section> Competing interests None declared.
+ 
+<section> Patient and public involvement Patients and/or the public were not involved in
+ the design, or conduct, or reporting, or dissemination plans of this research.
+ 
+<section> Patient consent for publication Consent obtained from parent(s)/guardian(s).
+ 
+<section> Ethics approval This study involves human participants and was approved.
+ Ethical approval was obtained from the Institutional Review Board of the Research
+ Institute for Tropical Medicine (approval no. 2019-­44) and the Ethical Commission of
+ Heidelberg University, Faculty of Medicine (approval No. S-­833/2019). Participants
+ gave informed consent to participate in the study before taking part.
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data availability statement Data are available upon reasonable request. Data
+ are not publicly available due to the sensitive and personal nature of data and
+ the collected information. Data may be available on request to authors, with
+ restrictions following ethical approval. Please contact the corresponding author.
+ 
+<section> Supplemental material This content has been supplied by the author(s). It has
+ not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been
+ peer-­reviewed. Any opinions or recommendations discussed are solely those
+ of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and
+ responsibility arising from any reliance placed on the content. Where the content
+ includes any translated material, BMJ does not warrant the accuracy and reliability
+ of the translations (including but not limited to local regulations, clinical guidelines,
+ terminology, drug names and drug dosages), and is not responsible for any error
+ and/or omissions arising from translation and adaptation or otherwise.
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution 4.0 Unported (CC BY 4.0) license, which permits
+ others to copy, redistribute, remix, transform and build upon this work for any
+ purpose, provided the original work is properly cited, a link to the licence is given,
+ and indication of whether changes were made. See: https://creativecommons.org/​
+ licenses/by/4.0/.
+ 
+<section> ORCID iDs
+ 
+<section> Mark Donald C Reñosa http://orcid.org/0000-0002-7414-7174
+ Jonas Wachinger http://orcid.org/0000-0002-5480-3138
+ Vivienne Endoma http://orcid.org/0000-0002-0225-3939
+ Jeniffer Landicho http://orcid.org/0000-0002-4261-9296
+ Kate Bärnighausen http://orcid.org/0000-0002-4466-8921
+ Till Bärnighausen http://orcid.org/0000-0002-4182-4212
+ Rachel P Chase http://orcid.org/0000-0002-1503-4954
+ Shannon A McMahon http://orcid.org/0000-0002-8634-9283
+ 
+<section> REFERENCES
+ 1 Bazzano AN, Martin J, Hicks E, et al. Human-­centred design in
+ global health: A Scoping review of applications and contexts. PLoS
+ One 2017;12:e0186744.
+ 2 Melles M, Albayrak A, Goossens R. Innovating health care: key
+ characteristics of human-­centered design. Int J Qual Health Care
+ 2021;33:37–44.
+ 3 Holeman I, Kane D. Human-­centered design for global health equity.
+ 
+<section> Inf Technol Dev 2019;26:477–505.
+ 4 Adam M, McMahon SA, Prober C, et al. Human-­centered design
+ of Video-­based health education: an Iterative, collaborative,
+ community-­based approach. J Med Internet Res 2019;21:e12128.
+ 5 Adam M, Tomlinson M, Le Roux I, et al. The Philani MOVIE study: a
+ cluster-­randomized controlled trial of a mobile Video entertainment-­
+ education intervention to promote exclusive Breastfeeding in South
+ Africa. BMC Health Serv Res 2019;19:211.
+ 6 Isler J, Sawadogo NH, Harling G, et al. If he sees it with his own
+ eyes, he will understand': how gender informed the content and
+ delivery of a maternal nutrition intervention in Burkina Faso. Health
+ Policy Plan 2020;35:536–45.
+ 7 Isler J, Sawadogo NH, Harling G, et al. Iterative adaptation of a
+ mobile nutrition Video-­based intervention across countries using
+ human-­centered design: qualitative study. JMIR Mhealth Uhealth
+ 2019;7:e13604.
+ 8 Adam M, Johnston J, Job N, et al. Evaluation of a community-­based
+ mobile Video Breastfeeding intervention in Khayelitsha, South Africa:
+ the Philani MOVIE cluster-­randomized controlled trial. PLoS Med
+ 2021;18:e1003744.
+ 9 Chamberlain S, Dutt P, Mitra R, et al. Lessons learnt from applying
+ a human-­centred design process to develop one of the largest
+ mobile health communication programmes in the world. BMJ Innov
+ 2022;8:240–6.
+ 10 Muinga N, Paton C, Gicheha E, et al. Using a human-­centred design
+ approach to develop a comprehensive newborn monitoring chart for
+ inpatient care in Kenya. BMC Health Serv Res 2021;21:1010.
+ 11 de Figueiredo A, Simas C, Karafillakis E, et al. Mapping global
+ trends in vaccine confidence and investigating barriers to vaccine
+ uptake: a large-­scale retrospective temporal Modelling study. Lancet
+ 2020;396:898–908.
+ 12 Chamberlain AT, Limaye RJ, O’Leary ST, et al. Development and
+ acceptability of a Video-­based vaccine promotion Tutorial for
+ obstetric care providers. Vaccine 2019;37:2532–6.
+ 13 Seeber L, Conrad T, Hoppe C, et al. Educating parents about
+ the vaccination status of their children: A user-­centered mobile
+ application. Prev Med Rep 2017;5:241–50.
+ 14 Minoletti S, Rapisarda R, Giraldo L, et al. User-­centered design of
+ a pediatric vaccination Module for patients. Stud Health Technol
+ Inform 2019;264:1096–100. 
+<section> 15 Henninger ML, Mcmullen CK, Firemark AJ, et al. User-­centered
+ design for developing interventions to improve clinician
+ recommendation of human Papillomavirus vaccination. Perm J
+ 2017;21:16-­191.
+ 16 Seeber L, Michl B, Rundblad G, et al. A design thinking approach
+ to effective vaccine safety communication. Curr Drug Saf
+ 2015;10:31–40.
+ 17 Simas C, Larson HJ. Overcoming vaccine hesitancy in low-­income
+ and middle-­income regions. Nat Rev Dis Primers 2021;7:41.
+ 18 Larson HJ. The vaccine-­hesitant moment. reply. N Engl J Med
+ 2022;387:1050–1.
+ 19 Larson HJ, Hartigan-­Go K, de Figueiredo A. Vaccine confidence
+ plummets in the Philippines following Dengue vaccine scare: why
+ it matters to pandemic preparedness. Hum Vaccin Immunother
+ 2019;15:625–7.
+ 20 International Federation of Red Cross and Red Crescent Societies.
+ 
+<section> Operations Update Philippines: Re-­emergence of vaccine
+ preventable diseases – Measles outbreak. 2020.
+ 21 Reñosa MDC, Wachinger J, Bärnighausen K, et al. How can
+ human-­centered design build a story-­based Video intervention that
+ addresses vaccine hesitancy and bolsters vaccine confidence in the
+ Philippines? A Mixedmethod protocol for project SALUBONG. BMJ
+ Open 2021;11:e046814.
+ 
+<section> 22 UNICEF-­WHO Philippines. Situation Report 3: Measles Outbreak.
+ 
+<section> Philippines: World Health Organization Philippines, 2019.
+ 23 OCHA Services. Philippines: measles outbreak - Feb 2019. 2019.
+ 
+<section> 24 Outbreak News. Measles: Calabarzon reports 3,835 percent increase
+ in 2019. Outbreak News Today, 2019.
+ 25 Reñosa MDC, Mwamba C, Meghani A, et al. Selfie consents, remote
+ rapport, and zoom Debriefings: collecting qualitative data amid a
+ pandemic in four resource-­constrained settings. BMJ Glob Health
+ 2021;6:e004193.
+ 26 Aligato MF, Endoma V, Wachinger J, et al. “'unfocused groups':
+ lessons learnt amid remote focus groups in the Philippines”. Fam
+ Med Community Health 2021;9:e001098.
+ 27 Landicho-­Guevarra J, Reñosa MDC, Wachinger J, et al. Scared,
+ powerless, insulted and embarrassed: hesitancy towards vaccines
+ among Caregivers in Cavite province, the Philippines. BMJ Glob
+ Health 2021;6:e006529.
+ 28 Wachinger J, Reñosa MDC, Endoma V, et al. Bargaining and
+ gendered authority: a framework to understand household decision-­
+ making about childhood vaccines in the Philippines. BMJ Glob
+ Health 2022;7:e009781.
+ 29 Reñosa MDC, Wachinger J, Bärnighausen K, et al. “Misinformation,
+ infighting, backlash, and an 'endless' recovery; policymakers
+ recount challenges and mitigating measures after a vaccine scare in
+ the Philippines”. Glob Health Action 2022;15:2077536.
+ 30 Group WSW. Report of the SAGE working group on vaccine
+ hesitancy. 2014.
+ 
+<section> 31 Larson HJ, Jarrett C, Schulz WS, et al. Measuring vaccine
+ hesitancy: the development of a survey tool. Vaccine
+ 2015;33:4165–75.
+ 32 Opel DJ, Taylor JA, Mangione-­Smith R, et al. Validity and
+ reliability of a survey to identify vaccine-­hesitant parents. Vaccine
+ 2011;29:6598–605.
+ 33 Opel DJ, Mangione-­Smith R, Taylor JA, et al. Development of a
+ survey to identify vaccine-­hesitant parents: the parent attitudes
+ about childhood vaccines survey. Hum Vaccin 2011;7:419–25.
+ 34 Opel DJ, Taylor JA, Zhou C, et al. The relationship between
+ parent attitudes about childhood vaccines survey scores and
+ future child immunization status: a validation study. JAMA Pediatr
+ 2013;167:1065–71.
+ 35 Olarewaju VO, Jafflin K, Deml MJ, et al. Application of the parent
+ attitudes about childhood vaccines (PACV) survey in three national
+ languages in Switzerland: exploratory factor analysis and Mokken
+ scale analysis. Hum Vaccin Immunother 2021;17:2652–60.
+ 36 Dyda A, King C, Dey A, et al. A systematic review of studies
+ that measure parental vaccine attitudes and beliefs in childhood
+ vaccination. BMC Public Health 2020;20:1253.
+ 37 Beres LK, Simbeza S, Holmes CB, et al. Human-­centered design
+ lessons for implementation science: improving the implementation
+ of a patient-­centered care intervention. J Acquir Immune Defic Syndr
+ 2019;82 Suppl 3:S230–43.
+ 38 Liu C, Lee JH, Gupta AJ, et al. Cost-­effectiveness analysis of
+ human-­centred design for global health interventions: a quantitative
+ framework. BMJ Glob Health 2022;7:e007912.
+ 
+<section> 39 UNICEF Wa. Human-­centred design for tailoring immunization
+ programmes. Geneva, Switzerland, 2022.
+ 40 Teitelman AM, Gregory EF, Jayasinghe J, et al. A mobile App to
+ promote human Papillomavirus vaccine uptake among adolescents
+ aged 11 to 14 years: development and usability study. JMIR Nurs
+ 2020;3:e19503.
+ 41 UNICEF. n.d. Stories: case studies from countries who have applied
+ human-­centred design.
+ 42 Regan AK, Bloomfield L, Peters I, et al. Randomized controlled trial
+ of text message reminders for increasing influenza vaccination. Ann
+ Fam Med 2017;15:507–14.
+ 43 Daley MF, Narwaney KJ, Shoup JA, et al. Addressing parents'
+ vaccine concerns: A randomized trial of a social media intervention.
+ 
+<section> Am J Prev Med 2018;55:44–54.
+ 44 Dudley MZ, Omer SB, O’Leary ST, et al. Momstalkshots, tailored
+ educational App, improves vaccine attitudes: a randomized
+ controlled trial. BMC Public Health 2022;22:2134.
+ 45 Ofri D. The emotional epidemiology of H1N1 influenza vaccination. N
+ Engl J Med 2009;361:2594–5.
+ 46 Larson HJ. Defining and measuring vaccine hesitancy. Nat Hum
+ Behav 2022;6:1609–10.

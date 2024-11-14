@@ -1,0 +1,1261 @@
+
+<section> Efficacy of Lactoferrin Oral
+ 
+<section> Administration in the Treatment of
+ 
+<section> Anemia and Anemia of Inflammation
+ 
+<section> in Pregnant and Non-pregnant
+ 
+<section> Women: An Interventional Study
+ 
+<section> Maria Stefania Lepanto 1† , Luigi Rosa 1† , Antimo Cutone 1,2† , Maria Pia Conte 1 ,
+ 
+<section> Rosalba Paesano 3 and Piera Valenti *
+ 
+<section> Department of Public Health and Infectious Diseases, University of Rome La Sapienza, Rome, Italy, 2 Department of
+ Biosciences and Territory, University of Molise, Pesche, Italy, 3 Department of Gynecological-Obstetric and Urological
+ 
+<section> Sciences, University of Rome La Sapienza, Rome, Italy
+ 
+<section> Edited by: The discovery of the ferroportin-hepcidin complex has led to a critical review on
+ 
+<section> Olivier Garraud,
+ 
+<section> Institut National de la Transfusion the treatment of anemia and anemia of inflammation (AI). Ferroportin, the only
+ 
+<section> Sanguine, France known mammalian iron exporter from cells to blood, is negatively regulated by
+ 
+<section> Reviewed by: hepcidin, a hormone peptide able to bind to ferroportin, leading to its degradation.
+ 
+<section> Salvatore Giovanni Vitale,
+ 
+<section> Università degli Studi di Messina, Italy Therefore, new efficient therapeutic interventions acting on hepcidin and ferroportin
+ 
+<section> Eva-Maria Hanschmann, are imperative to manage anemia and AI. Bovine milk derivative lactoferrin (bLf), a
+ 
+<section> Heinrich Heine Universität Düsseldorf, glycoprotein able to chelate two ferric ions per molecule, is emerging as a natural
+ 
+<section> Germany
+ 
+<section> anti-inflammatory substance able to modulate hepcidin and ferroportin synthesis
+ 
+<section> *Correspondence:
+ 
+<section> Piera Valenti through the down-regulation of interleukin-6 (IL-6). Here, an interventional study
+ 
+<section> piera.valenti@uniroma1.it (ClinicalTrials.gov Identifier: NCT01221844) was conducted by orally administering
+ 
+<section> † These authors have contributed 100 mg of 20–30% iron-saturated bLf (corresponding to 70–84 µg of elemental
+ 
+<section> equally to this work iron) twice a day. This treatment was compared with the Italian standard therapy,
+ 
+<section> consisting in the oral administration of 329.7 mg of ferrous sulfate once a day
+ 
+<section> Specialty section:
+ 
+<section> This article was submitted to (corresponding to 105 mg of elemental iron). Treatments were carried out on 29 anemic
+ 
+<section> Inflammation, women with minor β-thalassemia (20 pregnant and 9 non-pregnant), 149 women
+ 
+<section> a section of the journal
+ 
+<section> Frontiers in Immunology with hereditary thrombophilia (HT) (70 pregnant and 79 non-pregnant) affected by
+ 
+<section> Received: 31 May 2018 AI and 20 anemic pregnant women suffering from various pathologies. In anemic
+ 
+<section> Accepted: 28 August 2018 pregnant and non-pregnant women with minor β-thalassemia, presenting undetectable
+ 
+<section> Published: 21 September 2018 hepcidin levels, differently from ferrous sulfate management, bLf decreased IL-6 (from
+ 
+<section> Citation: 25 ± 8 to 6 ± 3 pg/ml) and increased total serum iron (TSI) (from 54 ± 17 to
+ 
+<section> Lepanto MS, Rosa L, Cutone A,
+ 
+<section> Conte MP, Paesano R and Valenti P 80 ± 9 µg/dl). BLf was also more efficient than ferrous sulfate in AI treatment in
+ 
+<section> (2018) Efficacy of Lactoferrin Oral HT pregnant and non-pregnant women by decreasing both serum IL-6 (from
+ Administration in the Treatment of
+ 
+<section> Anemia and Anemia of Inflammation in 
+<section> ± 8 to 58 ± 6 pg/ml) and hepcidin (from 115 ± 23 to 65 ± 10 ng/ml), thus
+ 
+<section> Pregnant and Non-pregnant Women: increasing hematological parameters, such as the number of red blood cells (RBCs),
+ 
+<section> An Interventional Study. the concentration of hemoglobin, TSI and serum ferritin. BLf was also efficient in treating
+ 
+<section> Front. Immunol. 9:2123.
+ 
+<section> doi: 10.3389/fimmu.2018.02123 anemia in other pathological pregnancies. Taken together all the results, bLf, showing 
+<section> INTRODUCTION
+ 
+<section> Iron is an essential nutrient for
+ during pregnancy, in particular for
+ maternal iron transfer as well as in
+ feeding and in the childhood through
+ considered the most important nutritional
+ being more prevalent in pregnant
+ high risk factor for maternal and
+ preterm delivery, fetal growth retardation,
+ inferior neonatal health (1). ID is also
+ is related to decreased brain functions
+ reproductive age can be affected by
+ menses. An early diagnosis and a prompt
+ ID anemia (IDA) are highly recommended.
+ by the low levels of total serum iron
+ (sFtn). Conversely, IDA is characterized
+ of hemoglobin (Hb) and low number
+ addition to TSI and sFtn low levels.
+ The human body contains
+ hemoglobin of erythrocytes (about
+ (Ftn) within hepatocytes and macrophages
+ in myoglobin, and in iron-containing
+ A minor iron source, deriving
+ provides about 15 mg of iron per day
+ corresponding to 1–2 mg, is absorbed
+ poor bio-availability. A major iron
+ of iron from the lysis of senescent
+ (about 20 mg/day) (4, 5).
+ The correct balance of iron between
+ blood, defined iron homeostasis, is regulated
+ ferroportin (Fpn) and hepcidin (6,
+ mammalian iron exporter from
+ regulated by the pro-inflammatory
+ Hepcidin, a 25 amino acids cationic
+ in plasma (6) and urine (10, 11), is
+ it is up-regulated by pro-inflammatory
+ IL-1α, and IL-1β (12–16).
+ Overall, iron homeostasis is highly
+ different pathways: iron absorption
+ iron storage into ferritin and iron
+ Fpn, besides IL-6 and the amount
+ regulated also by hepcidin which is
+ to its internalization and degradation
+ hepcidin concentrations inhibit iron
+ while low levels allow iron export through
+ Interestingly, in the recent study
+ been demonstrated, in a model of hepcidin
+ a greater benefit and efficacy
+ considered as a promising compound
+ down-regulate IL-6, thus restoring
+ a hepcidin-dependent or independent
+ 
+<section> Keywords: lactoferrin, iron, anemia, anemia
+ 
+<section> living cells and it is pivotal
+ the developing fetus through
+ the neonate through breast-
+ diet. Iron deficiency (ID) is
+ disorder in the world,
+ women where represents a
+ infant health associated with
+ low birth weight, and
+ frequent in children where
+ (2, 3). Moreover, women of
+ ID due to iron loss during the
+ management of ID and
+ 
+<section> ID is characterized
+ (TSI) and serum ferritin
+ by low concentrations
+ of red blood cells (RBCs) in
+ 
+<section> 3–4 g of iron localized in
+ 2.0–2.5 g), in ferritin
+ 
+<section> (about 0.5–1 g),
+ enzymes (about 0.5 g).
+ from an equilibrated diet,
+ of which only about 10%,
+ due to its exceptionally
+ source involves the recycling
+ erythrocytes by macrophages
+ 
+<section> tissues/secretions and
+ by two main factors,
+ 7). Fpn is the only known
+ tissues to blood (6) down-
+ interleukin (IL)-6 (8, 9).
+ peptide hormone, identified
+ modulated by iron stores and
+ cytokines, such as IL-6,
+ 
+<section> regulated through three
+ in apical side of enterocytes,
+ export by Fpn (17, 18).
+ of intracellular iron/heme, is
+ able to bind to Fpn, leading
+ (19). Consequently, high
+ export from cells to blood
+ Fpn (5, 20).
+ by Willemetz et al. (21), it has
+ knockout (Hamp −/− )
+ 
+<section> than the standard ferrous sulfate management, can be
+ in treating anemia and AI through its ability to
+ ferroportin-mediated iron export from cells to blood in
+ way.
+ 
+<section> of inflammation, β-thalassemia, hereditary thrombophilia
+ 
+<section> murine macrophages infected by Salmonella enterica, that Fpn
+ down-regulation can occur also in a hepcidin-independent
+ manner (21).
+ The iron homeostasis disorders consist in the up-expression
+ of hepcidin and the subsequent down-regulation of Fpn leading
+ to anemia of inflammation (AI), a pathological condition
+ characterized by low hematological parameters, normal-to-
+ elevated sFtn, high levels of IL-6 and of other pro-inflammatory
+ cytokines (22). These disorders are traditionally treated with
+ iron supplementations. However, in papers by Paesano et al.
+ (4) and Rosa et al. (23) the iron homeostasis disorders have
+ not been defined as iron deficiency but as iron delocalization,
+ characterized by iron overload in tissues/secretions and iron
+ deficiency in blood. In a pathological condition occurring
+ in patients affected by β-thalassemia, one of the types of
+ thalassemia caused by a mutation in the β-globin gene (HBB)
+ on chromosome 11, hepcidin production is suppressed (5, 20).
+ The phenotypes of β-thalassemias include β-thalassemia major,
+ intermedia and minor, according to the severity of the genetic
+ mutation. Individuals with β-thalassemia major, characterized by
+ marked ineffective erythropoiesis and severe hemolysis, as well as
+ with β-thalassemia intermedia, characterized by widely variable
+ symptoms and severity ranging between the two extremes of
+ the major and minor forms, require frequent to occasional
+ RBCs transfusions to sustain life (24–26). Among β-thalassemic
+ (27, 28), the subjects affected by minor β-thalassemia, clinically
+ asymptomatic and characterized by morphological abnormalities
+ of erythrocytes as well as by a slight lowering of the hemoglobin
+ levels, show the disorders of iron homeostasis sometimes leading
+ to a mild anemia (24). During pregnancy, despite the progress
+ of therapies, maternal and fetal complications, such as risk of
+ abortion, thromboembolism, pre-term delivery and intrauterine
+ growth restriction, appear to be increased in patients with β-
+ thalassemia major, occurring in almost 40% of pregnancies, as
+ well as in patients with β-thalassemia intermedia, occurring in
+ 20–30% of pregnancies, compared to healthy ones (25, 26).
+ Regarding β-thalassemia minor, the incidence of premature and
+ low birth weight infants was found to be comparable to the
+ general population. Of note, there is no specific therapy for β-
+ thalassemia minor subjects during pregnancy, but if the anemia
+ becomes more severe transfusions are sometimes necessary (25,
+ 26).
+ Concerning the other pathology treated in this study, the
+ hereditary thrombophilia (HT), there are no data in literature on
+ the correlation between hepcidin levels and the establishing of AI
+ in HT subjects. However, higher levels of serum IL-6 compared
+ to healthy subjects have been described in HT pregnant women
+ (29). HT is a genetic predisposition to the formation of venous 
+<section> thrombus due to coagulation abnormalities (30, 31). During
+ pregnancy, this hypercoagulable state is exacerbated due to the
+ increase of factors VII, VIII, X and von Willebrand factor
+ activities and to marked increases in fibrinogen (32). Thrombin
+ generation markers such as prothrombin F1 and F2 also
+ increase (33). Moreover, activation of the coagulation system is
+ characterized by the co-participation of inflammatory response
+ components as IL-6, IL-8, and TNF-α (34). All these changes can
+ predispose to several maternal and fetal complications during
+ the pregnancy, including pre-eclampsia, late and recurrent
+ early miscarriage, placental abruption, fetal growth restriction
+ (FGR), and intrauterine death and stillbirth (33). For all
+ these reasons, in order to avoid maternal and fetal sequelae,
+ all HT pregnant women must undergo a proper therapeutic
+ management.
+ An important component of iron and inflammatory
+ homeostasis machinery is an iron binding glycoprotein, named
+ lactoferrin (Lf), present in human secretions, like milk, saliva,
+ vaginal fluid, amniotic fluid, upper airway fluid, seminal plasma,
+ the cervical mucus, and earwax (23). Similar to proteins of
+ the secretions, Lf is a multifunctional glycoprotein able to
+ protect mucosa from the injury of microbial attachment and
+ colonization as well as to exert anti-inflammatory activity
+ (18, 35). The bovine milk derivative lactoferrin (bLf), generally
+ recognized as safe (GRAS) by Food and Drug Administration
+ (FDA-USA), is emerging as an important natural glycoprotein
+ able to treat IDA and AI (4, 29, 36–38). The efficacy of bLf
+ treatment is related to its ability to decrease IL-6 concentration
+ which, in turn, modulates hepcidin and Fpn synthesis. Recent
+ in vitro studies showed how high levels of IL-6 down-
+ regulate the expression of Fpn in inflamed-macrophages
+ and how bLf is able to efficiently revert this effect, down-
+ regulating IL-6 and up-regulating Fpn (8, 9). These results
+ demonstrate that bLf, able to decrease IL-6 levels, exerts a
+ role in iron and inflammatory homeostasis and, especially, in
+ treating AI.
+ Of note, previous in vivo studies have reported non-pregnant
+ women affected by minor β-thalassemia to possess higher levels
+ of IL-6 compared with non-pregnant healthy women (38).
+ Conversely, pregnant women suffering of minor β-thalassemia
+ have been found to possess higher, but not-significant, levels
+ of IL-6 compared with healthy pregnancies (38). Regarding HT
+ pregnant and non-pregnant women, they have been described
+ with higher levels of IL-6 compared with healthy pregnancies
+ 
+<section> (29, 38).
+ Here, we present the data on the efficacy of bLf oral
+ administration in treating anemia in minor β-thalassemic
+ pregnant and non-pregnant women as well as in the management
+ of AI in pregnant and non-pregnant women affected by HT. The
+ bLf efficacy is also reported in pregnant women suffering from
+ other pathologies.
+ Remarkably, for the first time, we demonstrate that the
+ efficacy of bLf in treating anemia and AI in β-thalassemic
+ and HT women, respectively, can be correlated, in addition
+ to the decrease to the IL-6, with two potential different
+ molecular mechanisms: hepcidin-independent for β-thalassemic
+ and hepcidin-dependent for HT women.
+ 
+<section> MATERIALS AND METHODS
+ 
+<section> Study Design
+ To compare the efficacy of bLf treatment vs. the Italian ferrous
+ sulfate one, usually applied worldwide as standard treatment, in
+ the management of anemia and AI in pregnant and non-pregnant
+ women affected by minor β-thalassemia and HT, respectively, a
+ monocentric interventional clinical study has been conducted.
+ In addition, the efficacy of bLf oral administration was also
+ carried out on anemic pregnant women suffering from different
+ pathologies as epilepsy, insulin resistance diabetes type 2, Crohn’s
+ disease, hypertension and HT (twin pregnancies).
+ 
+<section> Setting
+ 
+<section> The interventional clinical study (ClinicalTrials.gov Identifier:
+ NCT01221844) has been conducted at Clinica Fabia Mater, via
+ Olevano Romano 25, Rome, Italy, a secondary-level hospital
+ for complicated pregnancies, in accordance with the ethical
+ principles of the Declaration of Helsinki and the Good Clinical
+ Practice. Approval was granted by the Ethics Committee of
+ Clinica Fabia Mater, via Olevano Romano 25, Rome, Italy (FM
+ MOD 26022010). All women gave written informed consent
+ before undergoing any study procedure. All women have been
+ recruited from June 2010 to October 2013. All pregnant women
+ were examined at the time of enrolment and every 30 days at
+ the scheduled visits until delivery. All women of child-bearing
+ age were examined at the time of enrolment and 30 days after
+ treatments.
+ 
+<section> Patients
+ 
+<section> A total of 90 anemic pregnant women between the 6th and 8th
+ week of gestation has been enrolled, thereof 20 women with
+ minor β-thalassemia and 70 with HT, and 20 anemic affected by
+ other pathologies, including epilepsy (No 9), insulin resistance
+ diabetes type 2 (No 3), Crohn’s disease (No 3), hypertension
+ (No 2), and HT twin pregnancies (No 3), enrolled at different
+ weeks of gestation.
+ Pregnant women with uncomplicated pregnancy were
+ excluded as well as if smokers or if they had anti-phospholipid
+ syndrome, other concomitant diseases, infections, previous
+ iron supplementation therapy, recent blood transfusion(s),
+ obesity, and allergy to milk proteins, factors that could be
+ considered potential modifiers of the treatments. In addition,
+ this interventional clinical study included 88 anemic women of
+ child-bearing age, thereof 9 affected by minor β-thalassemia and
+ 
+<section> 79 by HT.
+ Non-pregnant women were excluded if smokers or if
+ they had other concomitant diseases, infections, previous iron
+ supplementation therapy, recent blood transfusion(s), obesity
+ and allergy to milk proteins.
+ All enrolled HT pregnant and non-pregnant women received
+ low molecular-weight heparin (0.3 U/day of Seleparina,
+ Italfarmaco SpA, Milano-Italy) and low dose aspirin (100 mg
+ every 2 days of Cardioaspirin R 100, Bayer SpA, Milano-Italy)
+ to prevent and reduce the risk of venous thromboembolism and
+ miscarriage associated to hypercoagulability (39). 
+<section> Blood Analyses
+ Each blood sample was harvested, aliquoted, and stored at
+ 
+<section> −80 ◦ C in order to analyze the parameters at different times.
+ The anemia is defined when one of the hematological parameters
+ corresponded to the following values: RBCs <4,000,000/ml, Hb
+ 
+<section> <11 g/dl, TSI <30 µg/dl, and sFtn <12 ng/ml.
+ The diagnosis of β-thalassemia was carried out, at the
+ laboratory of Clinica Fabia Mater, by the analysis of the
+ hematological parameters including red cell morphology and
+ indices that revealed microcytosis (low mean corpuscular
+ volume, MCV), reduced content of Hb per red cell (low mean
+ corpuscular hemoglobin, MCH), followed by separation and
+ measurement of Hb fractions through electrophoresis (40).
+ Moreover, TSI and sFtn were assessed from venous blood.
+ In particular, TSI was measured using an Iron FZ assay
+ (Hoffmann-LaRoche, Basel, Switzerland) based on a guanidine
+ hydrochloride/Ferrozine reaction, while sFtn was measured
+ using a radioimmunoassay (Spectria, Orion Diagnostics). Serum
+ IL-6 and hepcidin were also detected. Serum IL-6 levels
+ were determined by standard ELISA Quantitative kits (R&D
+ Systems, Wiesbaden, Germany) at Department of Public Health
+ and Infectious Diseases, Sapienza University of Rome, Italy,
+ on the samples collected before and after treatment. Serum
+ hepcidin was detected according to competitive enzyme-linked
+ immunosorbent assay (Intrinsic Life Sciences, La Jolla, CA) at
+ Department of Public Health and Infectious Diseases, Sapienza
+ University of Rome, Italy.
+ The diagnosis of HT was performed at Institute Regina Elena,
+ Department of Medical Pathology, Rome, Italy according to
+ Jackson et al. (41). In particular, pregnant women with a history
+ of adverse outcomes including recurrent miscarriages, preterm
+ birth, intrauterine growth restriction, were screened for the
+ following HT markers before the enrolment: protein C, protein
+ S, activated protein C resistance, antithrombin deficiencies,
+ elevated coagulation factors, hyperhomocysteinemia, F5 R506Q
+ (factor V Leiden) and F2 G20210A (prothrombin G20210A)
+ mutations. When at least one of these HT markers was found,
+ pregnant women were considered affected by HT. All HT women
+ were further screened for hematological parameters as RBCs, Hb,
+ TSI, and sFtn as well as for serum IL-6 and serum hepcidin before
+ starting and after 30 days of the treatments.
+ Moreover, for all enrolled women, the values of hematocrit,
+ glycemia, uricemia, bilirubin, glutamic oxaloacetic transaminase,
+ glutamic pyruvic transaminase, cholesterol, triglyceride acid, and
+ electrolytes were evaluated at each visit (data not shown).
+ 
+<section> Clinical Examination
+ To evaluate the putative adverse effects of the treatments
+ in pregnant women, the main outcomes were based on the
+ estimation of maternal gastrointestinal discomfort, nausea,
+ vomiting, diarrhea, and constipation.
+ At each visit, fetal vital sign assessments were monitored
+ by ultrasonographic measurements of intrauterine growth
+ and through the amount of amniotic fluid, expressed
+ as amniotic fluid index (AFI), an index for the fetal
+ well-being (42). An AFI of ≤5 cm was considered
+ oligohydramnios, 5–8 cm borderline, and from 8 to 24 cm
+ normal (42).
+ At the delivery, new-born weight and the APGAR score
+ were also registered. The APGAR score is a practical method
+ to evaluate the physical condition of a new-born shortly after
+ delivery. The Apgar score comprises five components: (1) color,
+ (2) heart rate, (3) reflexes, (4) muscle tone, and (5) respiration,
+ each of which is given a score of 0, 1, or 2. An APGAR score
+ of 0–3 at 5–10 min of age is predictive of high morbidity and
+ mortality, a score of 4–6 as moderately abnormal, while a value
+ of 9–10 indicates that the infant is in the best possible condition.
+ The adverse effects in women of child-bearing age were
+ evaluated by gastrointestinal discomfort, nausea, vomiting,
+ diarrhea and constipation.
+ 
+<section> Interventions
+ Pregnant and child-bearing age women affected by minor β-
+ thalassemia and HT suffering from anemia and AI, respectively,
+ were assigned to different Arms on the basis of a personal
+ preference. As matter of fact, before starting the study patients
+ choose by themselves which treatment to adhere to.
+ Women included in Arm A, C, E, and G received the
+ treatment based on the oral administration of one capsule
+ containing 100 mg of bLf plus excipients (Lattoglobina R , Italy)
+ two times a day before meals, to avoid the protein degradation
+ due to the low pH of gastric juice during digestion (about
+ 1.5). Conversely, at pH about 4, characteristic of gastric juice
+ before meals, 90% of the administered bLf arrives undigested
+ to the intestine (43). The total amount of elemental iron
+ supplied by Lattoglobina R capsules corresponded to about 70–
+ 
+<section> 84 µg/day, depending on the degree of iron saturation (20–
+ 30%). Women included in Arm B, D, F, and H received the
+ standard treatment based on the oral administration of a tablet
+ containing 329.7 mg of ferrous sulfate (Ferro-Grad R , Abbot
+ Laboratories, USA) once a day during meal, in order to avoid
+ a possible gastric intolerance of the drug, according to the
+ Italian Standard of Care. The total amount of elemental iron
+ supplied by Ferro-Grad R tablets corresponded to about
+ mg/day.
+ All pregnant women affected by different pathologies,
+ previously described, received oral administration of one capsule
+ containing 100 mg of bLf plus excipients (Lattoglobina R ,
+ Italy) twice a day before meals, while HT women with twin
+ pregnancies three times a day, more efficient in increasing
+ hematological parameters than the administration of bLf twice
+ a day.
+ 
+<section> Further Laboratory Analysis
+ The purity of the encapsulated bLf (Molecular Weight of about
+ 80 kDa) was checked by SDS-PAGE and silver nitrate staining,
+ while its concentration was assessed by UV spectroscopy on the
+ basis of an extinction coefficient of 15.1 (280 nm, 1% solution).
+ The bLf iron saturation was about 20–30% as detected by
+ optical spectroscopy at 468 nm on the basis of an extinction
+ coefficient of 0.54 (100% iron saturation, 1% solution). The
+ total amount of elemental iron supplied by Lattoglobina R
+ capsules corresponded to about 70–84 µg/day, depending on 
+<insert> FIGURE 1 Flow diagrams of enrolled pregnant women suffering from minor β-thalassemia (A), pregnant women suffering from hereditary thrombophilia (B), women
+ of child-bearing age suffering from minor β-thalassemia (C), women of child-bearing age suffering from hereditary thrombophilia (D). 
+<iend>
+
+ the degree of iron saturation (20–30%). LPS contamination of
+ bLf, estimated by Limulus Amebocyte assay (Pyrochrome kit,
+ PBI International), was equal to 0.7 ± 0.06 ng/mg of bLf (9,
+ 43).
+ 
+<section> Statistical Analysis
+ Statistical analysis was carried out using the ANOVA test. P-
+ values has been obtained comparing before and after 30 days of
+ each treatment the number of RBCs, the concentration of Hb,
+ TSI, sFtn, IL-6 and hepcidin.
+ 
+<section> RESULTS
+ 
+<section> Demographics
+ A total of 20 minor β-thalassemic and 70 HT pregnant women
+ suffering from anemia and AI, respectively, was enrolled in
+ the interventional clinical trial within the first trimester of
+ pregnancy (Figures 1A,B). On the basis of their personal
+ preference, 12 and 8 minor β-thalassemic pregnant women
+ were included in Arm A (bLf intervention) and Arm B
+ (ferrous sulfate intervention), respectively (Figure 1A). Among
+ 
+<section> 8 minor β-thalassemic pregnant women belonging to Arm B,
+ withdrew the study for adverse effects (diarrhea) (Figure 1A).
+ 
+<section> Regarding HT pregnant women, on the basis of their personal
+ preference, 40 were included in Arm C (bLf intervention)
+ and 30 in Arm D (ferrous sulfate intervention) (Figure 1B).
+ 
+<section> Among 30 HT pregnant women belonging to Arm D,
+ withdrew the study for adverse effects: 2 for gastrointestinal
+ discomfort and 3 for diarrhea (Figure 1B). Demographics and
+ hematological parameters of minor β-thalassemic and HT
+ pregnant women, who completed the study, are reported in
+ 
+<section> Table 1.
+ 
+<section> Moreover, 20 anemic pregnant women suffering from
+ other pathologies, including epilepsy (No 9), insulin
+ resistance diabetes type 2 (No 3), Crohn’s disease (No 3),
+ hypertension (No 2) and HT with twin pregnancies (No 3),
+ have been enrolled at different trimesters of pregnancy
+ and exclusively treated with bLf oral administration.
+ Demographics as well as Hb and TSI values are reported in
+ 
+<section> Table 2.
+ 
+<section> A total of 9 minor β-thalassemic and 79 HT women of child-
+ bearing age suffering from anemia and AI, respectively, was also
+ enrolled. On the basis of their personal preference, 9 minor β-
+ thalassemic women of child-bearing age were divided in Arm
+ E (No 5, bLf intervention) and Arm F (No 4, ferrous sulfate
+ intervention), respectively, and completed the study (Figure 1C).
+ 
+<section> Regarding HT women of child-bearing age, on the basis of
+ their personal preference, 41 were included in Arm G (bLf
+ intervention) and 38 in Arm H (ferrous sulfate intervention)
+ (Figure 1D). Among 38 HT women belonging to Arm H,
+ withdrew the study for nausea and vomiting and 4 for diarrhea
+ (Figure 1D).
+ 
+<section> Demographics and hematological parameters of enrolled
+ women of child-bearing age are summarized in 
+<section> Table 3. 
+<insert> TABLE 1 Demographics and baseline of hematological mean values ± SD of
+ minor β-thalassemic and HT pregnant women affected by anemia and AI,
+ respectively, enrolled between the 6th and 8th week of gestation.
+ Minor β-thalassemic
+ pregnant women
+ HT pregnant
+ women 
+<iend>
+
+ 
+<insert> TABLE 2 Demographics and baseline of hemoglobin and total serum iron mean
+ values ± SD of pathological pregnancies affected by anemia enrolled at different
+ trimesters of gestation.
+ No of
+ women
+ Pathology Age
+ (year)
+ Week of
+ pregnancy
+ Hb
+ (g/dl)
+ TSI
+ (µg/dl)
+ Epilepsy 33 ± 17 ± 11.1 ± 0.6 42 ±
+ Insulin resistance
+ diabetes type
+ 35 ± 28 ± 10.4 ± 0.3 33 ±
+ Crohn’s disease 31 ± 29 ± 9.4 ± 1.0 57 ±
+ Hypertension 34 ± 24 ± 10.7 ± 0.3 35 ±
+ HT (twin) 33 ± 25 ± 10.5 ± 0.5 47 ±
+ Hb, hemoglobin; TSI, total serum iron. 
+<iend>
+
+ 
+<insert> TABLE 3 Demographics and baseline hematological mean values ± SD of minor
+ β-thalassemic and HT women of child-bearing age affected by anemia and AI,
+ respectively.
+ No of women completing
+ the study
+ Age (year)
+ Minor β-thalassemic
+ women
+ HT
+ women
+ 32 ± 31 ±
+ Red blood cells × 4,287 ± 3,876 ±
+ Hemoglobin (g/dl) 10.6 ± 1.3 10.9 ± 0.8
+ Total serum iron (µg/dl) 41 ± 38 ±
+ Serum ferritin (ng/ml) 15 ± 10 ±
+ Serum IL-6 (pg/ml) 25 ± 43 ±
+ Hepcidin (ng/ml) <1.0 102 ± 
+<iend>
+
+ 
+<section> No of pregnant women
+ 
+<section> completing the study
+ 
+<section> Age (year) 
+<section> 28 ± 34 ±
+ Red blood cells x10 
+<section> 4,470 ± 3,700 ±
+ Hemoglobin (g/dl) 7.7 ± 1.4 10.7 ± 0.6
+ 
+<section> Total serum iron (µg/dl) 
+<section> 50 ± 38 ±
+ Serum ferritin (ng/ml) 
+<section> 24 ± 14 ±
+ Serum IL-6 (pg/ml) 
+<section> 29 ± 87 ±
+ Hepcidin (ng/ml) 
+<section> <1.0 
+<section> 111 ±
+ 
+<section> Efficacy of Bovine Lactoferrin vs. Ferrous
+ Sulfate Treatment in Pregnancy Against
+ 
+<section> Anemia and AI
+ In pregnant women suffering from minor β-thalassemia and
+ HT, the RBCs, Hb, TSI, sFtn, serum IL-6, and hepcidin were
+ assessed before and every 30 days of treatments until delivery.
+ The results obtained after the first 30 days of both interventions
+ and at delivery, independently from the week of the gestation,
+ are presented in the 
+<section> Tables 4, 5 for minor β-thalassemic and in
+ 
+<section> Tables 6, 7 for HT pregnant women, respectively.
+ As shown in 
+<section> Table 4, minor β-thalassemic pregnant women
+ treated for 30 days with bLf (Arm A) showed a significant
+ increase of Hb (from 7.8 ± 1.3 to 11.7 ± 0.8 g/dl) as well as a
+ signficant decrease of IL-6 (from 25 ± 8 to 6 ± 3 pg/ml). Of note,
+ a remarkable increase of TSI (from 54 ± 17 to 80 ± 9 µg/dl)
+ was also observed. Conversely, minor β-thalassemic pregnant
+ women treated for 30 days with ferrous sulfate (Arm B) showed
+ a significant increase only for Hb (from 7.6 ± 1.6 to 10.2 ± 0.9
+ g/dl) while RBCs, TSI, sFtn and IL-6 levels remained unchanged
+ (Table 4). Regarding serum hepcidin concentration, it was not
+ detectable either before or after both treatments. At delivery,
+ in the bLf-treated minor β-thalassemic women, in addition to
+ a significant decrease of IL-6 (from 25 ± 8 to 5 ± 4 pg/ml), a
+ significant increase of Hb (from 7.8 ± 1.3 to 11.9 ± 0.7 g/dl)
+ as well as a remarkable increase of both TSI (from 54 ±
+ to 87 ± 16 µg/dl) and sFtn (from 23 ± 5 to 34 ± 6 ng/ml)
+ were observed (Table 5). Conversely, in ferrous sulfate-treated
+ minor β-thalassemic women, excepted for Hb concentration,
+ no increase of other hematological parameters was detected
+ (Table 5).
+ 
+<section> As shown in 
+<section> Table 6, HT pregnant women treated for 30 days
+ with bLf (Arm C) showed a significant increase of RBCs (from
+ 
+<section> 3,750 ± 127 × 3 to 4,354 ± 198 × 3 ), Hb (from 10.6 ± 0.4 to
+ 
+<section> 12.2 ± 0.4 g/dl), TSI (from 36 ± 11 to 63 ± 9 µg/dl) and a slight
+ increase of sFtn (from 11 ± 6 to 18 ± 2 ng/ml). These women
+ presented high basal levels of IL-6 (89 ± 8 pg/ml) and hepcidin
+ 
+<section> (115 ± 23 ng/ml) which were both significantly reduced (58 ±
+ 6 pg/ml and 65 ± 10 ng/ml, respectively) already after 30 days
+ of bLf treatment. Conversely, HT pregnant women treated for
+ days with ferrous sulfate (Arm D) showed a trend (p > 0.005), yet
+ not significant, toward an increase of RBCs (from 3,650 ± 163 ×
+ 
+<section> 3 to 3,960 ± 230 × 3 ) and Hb (from 10.8 ± 0.8 to 11.3 ±
+ 1.1 g/dl). Of note, both IL-6 and hepcidin levels do not show any
+ change after the treatment.
+ At delivery, the bLf-treated HT women showed significant
+ increases in all hematological values, such as RBCs (from 3,750
+ 
+<section> ± 127 × 3 to 4,482 ± 147 × 3 ), Hb (from 10.6 ± 0.4 to
+ 
+<section> 12.7 ± 0.5 g/dl), TSI (from 36 ± 11 to 85 ± 10 µg/dl) and sFtn
+ (from 11 ± 6 to 31 ± 3 ng/ml), as well as a significant decrease
+ in both IL-6 and hepcidin levels (from 89 ± 8 to 50 ± 5 pg/ml
+ and from 115 ± 23 to 65 ± 10 ng/ml, respectively). Conversely,
+ HT women treated with ferrous sulfate management, showed no
+ significant difference in any parameter evaluated compared to
+ those obtained before the treatment (Table 7).
+ 
+<section> Fetus and New-Born Outcomes
+ The adverse effects of bLf and ferrous sulfate treatments on
+ fetuses were monitored through ultrasonographic measurements
+ of intrauterine growth and by the detection of amniotic fluid
+ amount, expressed as AFI (39). No growth restriction was
+ observed for any fetus. The AFI ranged from 13.4 ± 1.6 mean
+ values at 34 weeks to 10.5 ± 2.3 mean values at 40 weeks. It is
+ interesting to note that all the values were within 8 to 24 cm range, 
+<insert> TABLE 4 Hematological parameters, serum IL-6 and hepcidin mean values ± SD of anemic minor β-thalassemic pregnant women treated with bovine lactoferrin (Arm A)
+ or ferrous sulfate (Arm B), before and after 30 days of treatment.
+ Minor β-thalassemic pregnant women
+ Arm A
+ No of pregnant women completing the study
+ Treatment
+ Red blood cells ×
+ Arm B
+ Bovine lactoferrin Ferrous sulfate
+ Before After 30 days Before After 30 days
+ 4,487 ± 4,460 ± 4,453 ± 4,130 ±
+ Hemoglobin (g/dl) 7.8 ± 1.3 11.7 ± 0.8* 7.6 ± 1.6 10.2 ± 0.9*
+ Total serum iron (µg/dl) 54 ± 80 ± 46 ± 50 ±
+ Serum ferritin (ng/ml) 23 ± 28 ± 25 ± 24 ±
+ Serum IL-6 (pg/ml) 25 ± 6 ± 3* 33 ± 36 ±
+ Hepcidin (ng/ml) <1.0 <1.0 <1.0 <1.0
+ *Significantly different from before treatment (p < 0.001). 
+<iend>
+
+ 
+<insert> TABLE 5 Hematological parameters, serum IL-6 and hepcidin mean values ± SD of anemic minor β-thalassemic pregnant women treated with bovine lactoferrin (Arm A)
+ or ferrous sulfate (Arm B), before the treatment and at delivery.
+ Minor β-thalassemic pregnant women
+ Arm A
+ No of pregnant women completing the study
+ Treatment
+ Red blood cells ×
+ Arm B
+ Bovine lactoferrin Ferrous sulfate
+ Before At delivery Before At delivery
+ 4,487 ± 4,610 ± 4,453 ± 4,284 ±
+ Hemoglobin (g/dl) 7.8 ± 1.3 11.9 ± 0.7* 7.6 ± 1.6 10.8 ± 0.6*
+ Total serum iron (µg/dl) 54 ± 87 ± 46 ± 55 ±
+ Serum ferritin (ng/ml) 23 ± 34 ± 25 ± 21 ±
+ Serum IL-6 (pg/ml) 25 ± 5 ± 4* 33 ± 34 ±
+ Hepcidin (ng/ml) <1.0 <1.0 <1.0 <1.0
+ *Significantly different from before treatment (p < 0.001). 
+<iend>
+
+ which is accepted and established as normal range for AFI values
+ (42).
+ The adverse effects on new-born were checked by new-born
+ weight and APGAR score values. For both treatments, the new-
+ born weight ranged among mean values corresponding to 2,950
+ 
+<section> ± 427 g for female and 3,478 ± 256 g for male. The APGAR score
+ corresponded to range values of 8–10 for both sex, indicating
+ new-born well-being.
+ 
+<section> Efficacy of Bovine Lactoferrin Treatment in
+ Pregnant Women Affected by Various
+ 
+<section> Pathologies Against Anemia
+ 
+<section> Table 8 presents 20 anemic pregnant women affected by different
+ pathologies including also 3 HT twin pregnancies. The treatment
+ based on bLf oral administration appeared reasonably efficient in
+ treating anemia by increasing both Hb and TSI concentrations.
+ Even if the other hematological parameters were not evaluated,
+ bLf is efficient in increasing these two parameters related to
+ anemia. Interestingly, 9 patients suffering from epilepsy showed
+ an increase of about 2- or 3-fold of TSI concentration and
+ more than 1 g/dl of Hb. In 3 pregnant women affected by
+ insulin resistance diabetes type 2, bLf intervention showed an
+ increase of both Hb and TSI similarly to that observed in
+ pregnancies affected by Crohn’s disease. The efficacy of bLf
+ oral administration has been also observed in 2 women with
+ hypertension during the gestation. Of note, a great efficacy has
+ been also observed in 3 HT twin pregnancies treated with 100 mg
+ bLf three times a day before meals (instead of two times a day
+ usually applied).
+ 
+<section> Efficacy of Bovine Lactoferrin vs. Ferrous
+ Sulfate Treatment in Women of
+ Child-Bearing Age Against Anemia and AI
+ 
+<section> Minor β-thalassemic women of child-bearing age treated for
+ 30 days with bLf oral administration (Arm E) showed a
+ remarkable, yet not significant, increase of both RBCs (from
+ 
+<section> 4,280 ± 484 × 3 to 4,990 ± 323 × 3 ) and TSI (from
+ 
+<section> 43 ± 11 to 84 ± 11 µg/dl). Moreover, slight increases
+ in Hb (10.2 ± 0.8 to 11.3 ± 0.9 g/dl) and sFtn (from
+ 
+<section> 18 ± 3 to 26 ± 5 ng/ml) levels as well as a decrease of 
+<insert> TABLE 6 Hematological parameters, serum IL-6 and hepcidin mean values ± SD of HT pregnant women, suffering from AI, treated with bovine lactoferrin (Arm C) or
+ with ferrous sulfate (Arm D), before and after 30 days of treatment.
+ HT pregnant women
+ Arm C
+ No of pregnant women completing the study
+ Treatment
+ Arm D
+ Bovine lactoferrin Ferrous sulfate
+ Before After 30 days Before After 30 days
+ Red blood cells × 3,750 ± 4,354 ± 198* 3,650 ± 3,960 ±
+ Hemoglobin (g/dl) 10.6 ± 0.4 12.2 ± 0.4* 10.8 ± 0.8 11.3 ± 1.1
+ Total serum iron (µg/dl) 36 ± 63 ± 9* 40 ± 40 ±
+ Serum ferritin (ng/ml) 11 ± 18 ± 17 ± 14 ±
+ Serum IL-6 (pg/ml) 89 ± 58 ± 6* 85 ± 108 ±
+ Hepcidin (ng/ml) 115 ± 65 ± 10* 107 ± 112 ±
+ *Significantly different from before treatment (p < 0.001). 
+<iend>
+
+ 
+<insert> TABLE 7 Hematological parameters, serum IL-6 and hepcidin mean values ± SD of HT pregnant women, suffering from AI, treated with bovine lactoferrin (Arm C) or
+ with ferrous sulfate (Arm D), before the treatment and at delivery.
+ HT pregnant women
+ Arm C
+ No of pregnant women completing the study
+ Treatment
+ Arm D
+ Bovine lactoferrin Ferrous sulfate
+ Before At delivery Before At delivery
+ Red blood cells × 3,750 ± 4,482 ± 147* 3,650 ± 4,029 ±
+ Hemoglobin (g/dl) 10.6 ± 0.4 12.7 ± 0.5* 10.8 ± 0.8 11.2 ± 0.9
+ Total serum iron (µg/dl) 36 ± 85 ± 10* 40 ± 38 ±
+ Serum ferritin (ng/ml) 11 ± 31 ± 3* 17 ± 12 ±
+ Serum IL-6 (pg/ml) 89 ± 50 ± 5* 85 ± 113 ±
+ Hepcidin (ng/ml) 115 ± 54 ± 13* 107 ± 116 ±
+ * Significantly different from before treatment (p < 0.001). 
+<iend>
+
+ serum IL-6 (from 24 ± 12 to 13 ± 8 pg/ml) concentration
+ have been observed (Table 9). Conversely, no parameter was
+ modified after ferrous sulfate treatment (Arm F). In addition,
+ as observed in minor β-thalassemic pregnancies, hepcidin
+ concentrations in minor β-thalassemic women of child-bearing
+ age was not detectable (<1 ng/ml). Both bLf and ferrous sulfate
+ interventions did not exert any effect on hepcidin synthesis
+ (Table 9).
+ 
+<section> Regarding HT women of child-bearing age, bLf treatment
+ (Arm G) significantly increased the number of RBCs (from 3,664
+ 
+<section> ± 205 × 3 to 4,280 ± 187 × 3 ) and the concentration of
+ Hb (10.4 ± 0.8 to 12.5 ± 0.6 g/dl), TSI (from 36 ± 10 to 90 ±
+ 
+<section> 12 µg/dl) and sFtn (from 9 ± 3 to 22 ± 6 ng/ml). Furthermore,
+ this treatment also significantly decreased serum IL-6 and
+ hepcidin synthesis (Table 10), similarly to that observed in HT
+ pregnancies.
+ Conversely, ferrous sulfate treatment in HT women of
+ child-bearing age (Arm H) showed only a slight, yet not
+ significant, increase for Hb and TSI. Of note, both IL-6 and
+ hepcidin levels do not show any change after the treatment
+ (Table 10).
+ 
+<section> DISCUSSION
+ 
+<section> Recently, Lf, a multifunctional glycoprotein, endowed with
+ potent immune-modulatory properties, is emerging as an
+ important component of iron and inflammatory homeostasis
+ machinery (4, 23).
+ In 2006, by designing our first clinical trial on the effect of
+ 30 days of bLf oral administration (100 mg two times a day
+ before meals) compared with oral administration of ferrous
+ sulfate (329.7 mg once a day during the meal) in anemic
+ pregnant women, surprising results were obtained (36). Pregnant
+ women receiving iron saturated bLf (20–30%) two times a day,
+ absorbed 70–84 µg/day of elemental iron, respectively, through
+ enterocytes. Although the concentration of iron supplemented
+ by bLf is very far from that required daily (1–2 mg), a significant
+ increase of the concentration of Hb and TSI was detected 30 days
+ after treatment. Later on, in our subsequent clinical trials carried
+ out on pregnant women suffering from anemia and AI, bLf
+ treatment induced, in addition to Hb and TSI levels, a significant
+ improvement of the number of RBCs and sFtn concentrations.
+ Interestingly, a significant decrease of serum levels of IL-6, 
+<insert> TABLE 8 Mean values ± SD of hemoglobin and total serum iron of anemic pregnant women suffering from different pathologies treated for 30 days with bovine
+ lactoferrin.
+ No of women Pathology Age (year) Week of pregnancy Hb (g/dl) TSI (µg/dl)
+ Before After 30 days Before After 30 days
+ Epilepsy 33 ± 17 ± 11.1 ± 0.6 12.7 ± 0.4 42 ± 111 ±
+ Insulin resistance diabetes type 35 ± 28 ± 10.4 ± 0.3 11.4 ± 0.3 33 ± 56 ±
+ Crohn’s disease 31 ± 29 ± 9.4 ± 1.0 10.6 ± 0.5 57 ± 67 ±
+ Hypertension 34 ± 24 ± 10.7 ± 0.3 11.4 ± 0.1 35 ± 70 ±
+ HT twin 33 ± 25 ± 10.5 ± 0.5 11.6 ± 0.3 47 ± 99 ±
+ Hb, hemoglobin; TSI, total serum iron. 
+<iend>
+
+ 
+<insert> TABLE 9 Hematological parameters, serum IL-6 and hepcidin mean values ± SD of anemic minor β-thalassemic women of child-bearing age treated with bovine
+ lactoferrin (Arm E) or with ferrous sulfate (Arm F), before and after 30 days of treatment.
+ Minor β-thalassemic women
+ Arm E
+ No of women completing the study
+ Treatment
+ Arm F
+ Bovine lactoferrin Ferrous sulfate
+ Before After 30 days Before After 30 days
+ Red blood cells × 4,280 ± 4,990 ± 4,294 ± 4,460 ±
+ Hemoglobin (g/dl) 10.2 ± 0.8 11.3 ± 0.9 11.0 ± 1.8 12.2 ± 1.3
+ Total serum iron (µg/dl) 43 ± 84 ± 39 ± 40 ±
+ Serum ferritin (ng/ml) 18 ± 26 ± 12 ± 15 ±
+ Serum IL-6 (pg/ml) 24 ± 13 ± 26 ± 32 ±
+ Hepcidin (ng/ml) <1.0 <1.0 <1.0 <1.0 
+<iend>
+
+ considered a key pro-inflammatory cytokine in iron homeostasis,
+ was observed (4, 29, 37, 38). Differently from bLf, ferrous sulfate
+ was ineffective in treating anemia and AI even if iron supply
+ was a 1,000-fold higher than that furnished by bLf (about
+ mg/day vs. about 80 µg/day). Moreover, ferrous sulfate does
+ not decrease the levels of serum IL-6 (4, 29, 36–38). Therefore,
+ even if the mechanism by which bLf exerts its anti-inflammatory
+ activity is still under debate, there are strong evidences that bLf
+ efficacy in treating anemia and AI is not linked to a direct iron
+ supplementation, but to a more complex mechanism involving
+ this protein in decreasing IL-6 and modulating hepcidin and Fpn,
+ the most important iron homeostasis actors, both regulated by
+ 
+<section> IL-6 (23, 44).
+ In this respect, our group has recently demonstrated that
+ bLf is able to revert the iron disorders in human inflamed-
+ macrophages. In particular, bLf, by exerting its anti-inflammatory
+ activity vs. IL-6 synthesis, determines the up-regulation of Fpn
+ expression, thus leading to an efficient recovery of iron efflux
+ from cells to blood (8, 9).
+ The bLf anti-inflammatory activity has been explained by the
+ discovery of its nuclear localization thus suggesting that this
+ molecule may be involved in the transcriptional regulation of
+ some genes of host inflammatory response (4, 45, 46). Lf is,
+ therefore, a key element not only in the host defense system
+ (47–49) but also a pivotal glycoprotein able to treat anemia
+ through the inhibition of the inflammatory response, especially
+ in pregnant women affected by HT (29).
+ 
+<section> Here, we present novel and promising results on the efficacy
+ and safety of bLf treatment in curing anemia and AI in minor
+ β-thalassemic and HT pregnant and non-pregnant women,
+ respectively, as well as anemia in pregnant women suffering from
+ various pathologies.
+ For the first time, the serum hepcidin has been detected in
+ minor β-thalassemic and HT pregnant and non-pregnant women
+ and correlated with all the other clinical parameters evaluated
+ before and after bLf or ferrous sulfate management.
+ Furthermore, we confirm the results obtained in our previous
+ clinical trials on HT pregnancies (29) through the enrolment
+ of additional 70 HT pregnant women and 79 HT women of
+ child-bearing age.
+ Overall, both HT pregnant and non-pregnant women, after
+ 30 days of bLf treatment, show a significant increase of RBCs,
+ Hb, TSI and sFtn. Of note, bLf treatment also significantly
+ reduces IL-6 and hepcidin levels compared to the high basal
+ concentrations (Table 6 Arm C and 
+<section> Table 10 Arm G). The effect
+ of bLf treatment, leading to the down-regulation of hepcidin
+ synthesis, should be considered as a signal of a regulatory
+ mechanism exerted by bLf to avoid the pathological intracellular
+ iron overload, thus restoring the physiological iron export to
+ blood through Fpn up-regulation. In fact, the persistence of
+ high levels of IL-6 and hepcidin would inhibit the iron export
+ through the down-regulation and degradation of Fpn, causing
+ an unsafe intracellular iron overload, specially in those cells
+ involved in iron absorption and recycle, such as enterocytes 
+<insert> TABLE 10 Hematological parameters, serum IL-6 and hepcidin mean values ± SD of HT women of child-bearing age, suffering from AI treated with bovine lactoferrin
+ (Arm G) or with ferrous sulfate (Arm H), before and after 30 days of treatment.
+ HT women
+ Arm G
+ No of women completing the study
+ Treatment
+ Arm H
+ Bovine lactoferrin Ferrous sulfate
+ Before After 30 days Before After 30 days
+ Red blood cells × 3,664 ± 4,280 ± 187* 4,088 ± 3,989 ±
+ Hemoglobin (g/dl) 10.4 ± 0.8 12.5 ± 0.6* 11.4 ± 0.8 11.8 ± 1.0
+ Total serum iron (µg/dl) 36 ± 90 ± 12* 40 ± 45 ±
+ Serum ferritin (ng/ml) ± 22 ± 6* 11 ± 14 ±
+ Serum IL-6 (pg/ml) 45 ± 9 ± 8* 41 ± 49 ±
+ Hepcidin (ng/ml) 100 ± 60 ± 18* 104 ± 100 ±
+ *Significantly different from before treatment (p < 0.001). 
+<iend>
+
+ and macrophages, respectively. As matter of fact, inflammation-
+ mediated iron retention in macrophages determines the most
+ pivotal cause of AI establishment and maintenance. Indeed,
+ upon inflammatory stimulation, macrophages polarize in a sub-
+ population, namely M1, characterized by production of pro-
+ inflammatory cytokines, such as IL-6, the down-regulation of
+ Fpn and up-regulation of cytosolic Ftn, leading to the block
+ of iron recycling to blood from senescent erythrocytes, the
+ major iron source for the body (50, 51). The current finding
+ that bLf, through its anti-inflammatory activity, is able to
+ revert this unsafe condition restoring the physiological iron
+ export from macrophages to blood can be considered an
+ actual molecular mechanism to explain the bLf efficacy, iron
+ independent, in treating AI in HT pregnant and non-pregnant
+ women.
+ Conversely, ferrous sulfate treatment in HT pregnant and
+ non-pregnant women shows a trend toward an increase in only
+ RBCs and Hb. Moreover, this management fails in decreasing
+ both IL-6 and hepcidin levels (Table 6 Arm D and 
+<section> Table 10 Arm
+ H). The failure of ferrous sulfate treatment could be explained by
+ its inability to modulate hepcidin or Fpn expression in a direct
+ way (never demonstrated) or indirectly through the inhibition of
+ IL-6 synthesis (never demonstrated).
+ The efficacy of bLf oral administration in treating anemia
+ was also tested on pregnant women suffering from various
+ pathologies. In these pregnant women bLf management appears
+ effective (Table 8). Of note, regarding pregnant women affected
+ by epilepsy, bLf treatment greatly increases TSI concentration
+ (about 2- or 3-fold) and Hb (about 1 g/dl). The encouraging
+ results were also obtained on HT twin pregnancies where the
+ management has required an additional oral administration of
+ bLf (100 mg three times a day).
+ In this interventional study, the efficacy of bLf oral
+ administration has been also demonstrated in anemic pregnant
+ and non-pregnant women affected by minor β-thalassemia,
+ an inherited autosomal recessive Hb disorder characterized by
+ reduced synthesis of the β-chain of Hb (24).
+ Even if the number of enrolled minor β-thalassemic women
+ is low and does not allow to obtain conclusive and convincing
+ results, bLf treatment demonstrates a simultaneous decrease
+ in IL-6 and an increase in TSI both in pregnant and non-
+ pregnant women even if at different extent (Table 4 Arm A
+ and 
+<section> Table 9 Arm E). Remarkably, in these subjects hepcidin
+ is not detectable both before and after bLf management. This
+ observation supports the hypothesis that bLf, independently
+ from hepcidin but dependently from IL-6 down-regulation, may
+ act as a positive regulator of Fpn, thus increasing iron efflux
+ to blood. This potential mechanism is indeed supported by the
+ increase of TSI values in all minor β-thalassemic women already
+ after 30 days of bLf treatment (Table 4 Arm A and 
+<section> Table 9 Arm
+ E).
+ Similar to bLf, ferrous sulfate treatment in minor β-
+ thalassemic pregnant and non-pregnant women leads to an
+ increase of Hb concentration while, conversely to bLf, it does
+ not influence IL-6 synthesis (Table 4 Arm B and 
+<section> Table 9 Arm F).
+ Regarding serum hepcidin concentration, it was not detectable
+ before and after ferrous sulfate intervention (Table 4 Arm B and
+ 
+<section> Table 9 Arm F). Taken together all the results, alternatively to
+ the hepcidin agonists or antagonists as therapeutic tools (20),
+ bLf oral administration can be considered as a first promising
+ compound in treating anemia through the decrease of both IL-6
+ and hepcidin thus restoring Fpn-mediated iron export from cells
+ to blood in an hepcidin dependent or independent way.
+ Even if the number of patients is low and further investigations
+ are required, these results highlight and support the importance
+ of bLf oral administration in the treatment of the iron and
+ inflammatory homeostasis disorders.
+ 
+<section> AUTHOR CONTRIBUTIONS
+ 
+<section> PV and RP conceived, designed the clinical trial and wrote the
+ first draft of manuscript. ML, LR, AC, and MC performed the
+ laboratory analysis, analyzed the data, edited the manuscript, and
+ prepared the figures and tables. All authors read and approved the
+ final version.
+ 
+<section> ACKNOWLEDGMENTS
+ 
+<section> This work was granted by Sapienza University of Rome Funds to
+ PV. 
+<section> REFERENCES
+ 
+<section> 1. Bothwell TH. Iron requirements in pregnancy and strategies to meet them.
+ 
+<section> Am J Clin Nutr. (2000) 72:257S−64S. doi: 10.1093/ajcn/72.1.257S
+ 2. McLean E, Cogswell M, Egli I, Wojdyla D, de Benoist B. Worldwide prevalence
+ of anaemia, WHO vitamin and mineral nutrition information system, 1993–
+ 2005. Public Health Nutr. (2009) 12:444–4. doi: 10.1017/S1368980008002401
+ 3. Gisbert JP, Gomollón F. An update on iron physiology. World J Gastroenterol.
+ 
+<section> (2009) 15:4617–26. doi: 10.3748/wjg.15.4617
+ 4. Paesano R, Natalizi T, Berlutti F, Valenti P. Body iron delocalization:
+ the serious drawback in iron disorders in both developing and
+ developed countries. Pathog Glob Health (2012) 106:200–16.
+ doi: 10.1179/2047773212Y.0000000043
+ 5. Ganz T. Iron and infection. Int J Hematol. (2018) 107:7–15.
+ 
+<section> doi: 10.1007/s12185-017-2366-2
+ 6. Krause A, Neitz S, Magert HJ, Schulz A, Forssmann WG, Schulz-
+ Knappe P, et al. LEAP-1, a novel highly disulfide-bonded human
+ peptide, exhibits antimicrobial activity. FEBS Lett. (2000) 480:147–50.
+ doi: 10.1016/S0014-5793(00)01920-7
+ 7. Donovan A, Lima CA, Pinkus JL, Pinkus GS, Zon LI, Robine S, et al. The
+ iron exporter ferroportin/Slc40a1 is essential for iron homeostasis. Cell Metab.
+ 
+<section> (2005) 1:191–200. doi: 10.1016/j.cmet.2005.01.003
+ 8. Cutone A, Frioni A, Berlutti F, Valenti P, Musci G, Bonaccorsi di Patti,
+ MC. Lactoferrin prevents LPS-induced decrease of the iron exporter
+ ferroportin in human monocytes/macrophages. Biometals (2014) 27:807–13.
+ 
+<section> doi: 10.1007/s10534-014-9742-7
+ 9. Cutone A, Rosa L, Lepanto MS, Scotti MJ, Berlutti F, Bonaccorsi di Patti MC,
+ et al. Lactoferrin efficiently counteracts the inflammation-induced changes of
+ the iron homeostasis system in macrophages. Front Immunol. (2017) 15:705.
+ 
+<section> doi: 10.3389/fimmu.2017.00705
+ 10. Park CH, Valore EV, Waring AJ, Ganz T. Hepcidin a urinary antimicrobial
+ peptide synthesized in the liver. J Biol Chem. (2001) 276:7806–10.
+ 
+<section> doi: 10.1074/jbc.M008922200
+ 11. Hunter HN, Fulton DB, Ganz T, Vogel HJ. The solution structure of
+ human hepcidin, a peptide hormone with antimicrobial activity that is
+ involved in iron uptake and hereditary hemochromatosis. J Biol Chem. (2002)
+ 277:37597–603. doi: 10.1074/jbc.M205305200
+ 12. Nemeth E, Rivera S, Gabayan V, Keller C, Taudorf S, Pedersen BK, et al.
+ IL-6 mediates hypoferremia of inflammation by inducing the synthesis of
+ the iron regulatory hormone hepcidin. J Clin Investig. (2004) 113:1271–6.
+ 
+<section> doi: 10.1172/JCI20945
+ 13. Lee P, Peng H, Gelbart T, Wang L, Beutler E. Regulation of hepcidin
+ transcription by interleukin-1 and interleukin-6. Proc Natl Acad Sci USA.
+ 
+<section> (2005) 102:1906–10. doi: 10.1073/pnas.0409808102
+ 14. Wrighting DM, Andrews NC. Interleukin-6 induces hepcidin
+ expression through STAT3. Blood (2006) 108:3204–9.
+ doi: 10.1182/blood-2006-06-027631
+ 15. Verga Falzacappa MV, Vujic Spasic M, Kessler R, Stolte J, Hentze
+ MW, Muckenthaler MU. STAT3 mediates hepatic hepcidin
+ expression and its inflammatory stimulation. Blood (2007) 109:353–8.
+ doi: 10.1182/blood-2006-07-033969
+ 16. Coffey R, Ganz, T. Iron homeostasis—an anthropocentric perspective. J Biol
+ Chem. (2017) 292:12727–34. doi: 10.1074/jbc.R117.781823
+ 17. Andrews NC. Disorders of iron metabolism. N Engl J Med. (1999) 341:1986–
+ 95. doi: 10.1056/NEJM199912233412607
+ 18. Frazer DM, Anderson GJ. The orchestration of body iron intake: how
+ and where do enterocytes receive their cues? Blood Cells Mol Dis. (2003)
+ 30:288–97. doi: 10.1016/S1079-9796(03)00039-1
+ 19. Qiao B, Sugianto P, Fung E, Del-Castillo-Rueda A, Moran-Jimenez
+ MJ, Ganz T, et al. Hepcidin-induced endocytosis of ferroportin is
+ dependent on ferroportin ubiquitination. Cell Metab. (2012) 15:918–24.
+ 
+<section> doi: 10.1016/j.cmet.2012.03.018
+ 20. Casu C, Nemeth E, Rivella S. Hepcidin agonists as therapeutic tools. Blood
+ (2018) 131:1790–4. doi: 10.1182/blood-2017-11-737411
+ 21. Willemetz A, Beatty S, Richer E, Rubio A, Auriac A, Milkereit RJ, et al. Iron-
+ and hepcidin-independent downregulation of the iron exporter ferroportin
+ in macrophages during salmonella infection. Front Immunol. (2017) 8:498.
+ 
+<section> doi: 10.3389/fimmu.2017.00498
+ 
+<section> 22. Wessling-Resnick M. Iron homeostasis and the inflammatory response. Annu
+ Rev Nutr. (2010) 30:105–22. doi: 10.1146/annurev.nutr.012809.104804
+ 23. Rosa L, Cutone A, Lepanto MS, Paesano R, Valenti, P. Lactoferrin: a natural
+ glycoprotein involved in iron and inflammatory homeostasis. Int J Mol Sci.
+ 
+<section> (2017) 18:E1985. doi: 10.3390/ijms18091985
+ 24. Galanello R, Origa R. Beta-thalassemia. Orphanet J Rare Dis. (2010) 5:11.
+ 
+<section> doi: 10.1186/1750-1172-5-11
+ 25. Gulino FA, Vitale SG, Fauzia M, Cianci S, Pafumi C, Palumbo MA.
+ Beta-thalassemia major and pregnancy. Bratisl Lek Listy. (2013) 114:523–5.
+ 
+<section> doi: 10.4149/BLL_2013_109
+ 26. Origa R, Piga A, Quarta G, Forni GL, Longo F, Melpignano A, et al. Pregnancy
+ and β-thalassemia: an Italian multicenter experience. Haematologica (2010)
+ 95:376–81. doi: 10.3324/haematol.2009.012393
+ 27. Pratummo K, Jetsrisuparb A, Fucharoen S, Tripatara A. Hepcidin
+ expression from monocyte of splenectomized and non-splenectomized
+ patients with HbE-β-thalassemia. Hematology (2014) 19:175–80.
+ doi: 10.1179/1607845413Y.0000000110
+ 28. El-Rasheidy FH, Essa ES, Mahmoud AA, Nada, Ael-W. Elevated serum
+ adiponectin is related to elevated serum ferritin and interleukin-6 in β-
+ thalassaemia major children. J Pediatr Endocrinol Metab. (2016) 29:953–8.
+ 
+<section> doi: 10.1515/jpem-2016-0014
+ 29. Paesano R, Pacifici E, Benedetti S, Berlutti F, Frioni A, Polimeni A, et
+ al. Safety and efficacy of lactoferrin versus ferrous sulphate in curing
+ iron deficiency and iron deficiency anaemia in hereditary thrombophilia
+ pregnant women: an interventional study. BioMetals (2014) 27:999–1006.
+ 
+<section> doi: 10.1007/s10534-014-9723-x
+ 30. Rosendaal FR. Venous thrombosis: a multicausal disease. Lancet (1999)
+ 353:1167–73. doi: 10.1016/S0140-6736(98)10266-0
+ 31. Khan S, Dickerman JD. Hereditary thrombophilias. Thromb J. (2006) 4:15.
+ 
+<section> doi: 10.1186/1477-9560-4-15
+ 32. Szecsi PB, Jørgensen M, Klajnbard A, Andersen MR, Colov NP, Stender
+ S. Haemostatic reference intervals in pregnancy. Thromb Haemost. (2010)
+ 103:718–27. doi: 10.1160/TH09-10-0704
+ 33. Simcox LE, Ormesher L, Tower C, Greer IA. Thrombophilia and pregnancy
+ complications. Int J Mol Sci. (2015) 16:28418–28. doi: 10.3390/ijms161226104
+ 34. Poredos P, Jezovnik MK. The role of inflammation in venous
+ thromboembolism and the link between arterial and venous thrombosis. Int
+ Angiol. (2007) 26:306–11.
+ 35. Valenti P, Rosa L, Capobianco D, Lepanto MS, Schiavi E, Cutone A, et al. Role
+ of lactobacilli and lactoferrin in the mucosal cervicovaginal defense. Front
+ Immunol. (2018) 9:376. doi: 10.3389/fimmu.2018.00376
+ 36. Paesano R, Torcia F, Berlutti F, Pacifici E, Ebano V, Moscarini M, et al. Oral
+ administration of lactoferrin increases hemoglobin and total serum iron in
+ pregnant women. Biochem Cell Biol. (2006) 84:377–80. doi: 10.1139/o06-040
+ 37. Paesano R, Pietropaoli M, Gessani S, Valenti P. The influence of lactoferrin,
+ orally administered, on systemic iron homeostasis in pregnant women
+ suffering of iron deficiency and iron deficiency anaemia. Biochimie. (2009)
+ 91:44–51. doi: 10.1016/j.biochi.2008.06.004
+ 38. Paesano R, Berlutti F, Pietropaoli M, Goolsbee W, Pacifici E, Valenti P.
+ Lactoferrin efficacy versus ferrous sulfate in curing iron disorders in pregnant
+ and non-pregnant women. Int J Immunopathol Pharmacol. (2010) 23:577–87.
+ doi: 10.1177/039463201002300220
+ 39. Kaandorp S, Di Nisio M, Goddijn M, Middeldorp S. Aspirin or
+ anticoagulants for treating recurrent miscarriage in women without
+ antiphospholipid syndrome. Cochrane Database Syst Rev. (2009) 1:CD004734.
+ 
+<section> doi: 10.1002/14651858
+ 40. Brancaleoni V, Di Pierro E, Motta I, Cappellini MD. Laboratory diagnosis of
+ thalassemia. Int J Lab Hematol. (2016) 1:32–40. doi: 10.1111/ijlh.12527
+ 41. Jackson R, Holmes K, Phansalkar A, Rodgers GM. Testing for hereditary
+ thrombophilia: a retrospective analysis of testing referred to a national
+ laboratory. BMC Clin Pathol. (2008) 8:1–7. doi: 10.1186/1472-6890-8-3
+ 42. Petrozella LN, Dashe JS, McIntire DD, Leveno KJ. Clinical significance of
+ borderline amniotic fluid index and oligohydramnios in preterm pregnancy.
+ 
+<section> Obstet Gynecol. (2011) 117:338–42. doi: 10.1097/AOG.0b013e3182056766
+ 43. Rosa L, Cutone A, Lepanto MS, Scotti MJ, Conte MP, Paesano R, et al. Physico-
+ chemical properties influence the functions and efficacy of commercial
+ bovine lactoferrins. BioMetals (2018) 31:301–12. doi: 10.1007/s10534-018-
+ 
+<section> 0092-8 
+<section> 44. Bonaccorsi di Patti MC, Cutone A, Polticelli F, Rosa L, Lepanto
+ MS, Valenti P, et al. The ferroportin-ceruloplasmin system and the
+ mammalian iron homeostasis machine: regulatory pathways and the
+ role of lactoferrin. BioMetals (2018) 31:399–414. doi: 10.1007/s10534-018-
+ 
+<section> 0087-5
+ 45. Ashida K, Sasaki H, Suzuki YA, Lönnerdal B. Cellular internalization
+ of lactoferrin in intestinal epithelial cells. BioMetals (2004)
+ 17:311–5.
+ 46. Suzuki YA, Wong H, Ashida KY, Schryvers AB, Lönnerdal B. The N1
+ domain of human lactoferrin is required for internalization by Caco-
+ 2 cells and targeting to the nucleus. Biochemistry (2008) 47:10915–20.
+ 
+<section> doi: 10.1021/bi8012164
+ 47. Valenti P, Antonini G. Lactoferrin: an important host defence against
+ microbial and viral attack. Cell Mol Life Sci. (2005) 62:2576–87.
+ 
+<section> doi: 10.1007/s00018-005-5372-0
+ 48. Legrand D. Lactoferrin a key molecule in immune and inflammatory
+ processes. Biochem Cell Biol. (2012) 90:252–68. doi: 10.1139/o11-056
+ 49. Ward PP, Paz E, Conneely OM. Multifunctional roles of lactoferrin: a critical
+ overview. Cell Mol Life Sci. (2005) 62:2540–8. doi: 10.1007/s00018-005-
+ 
+<section> 5369-8
+ 
+<section> 50. Recalcati S, Locati M, Marini A, Santambrogio P, Zaninotto F, De
+ Pizzoli M, et al. Differential regulation of iron homeostasis during human
+ macro- phage polarized activation. Eur J Immunol. (2010) 40:824–35.
+ 
+<section> doi: 10.1002/eji.200939889
+ 51. Corna G, Campana L, Pignatti E, Castiglioni A, Tagliafico E, Bosurgi
+ L, et al. Polarization dictates iron handling by inflammatory and
+ alternatively activated macrophages. Haematologica (2010) 95:1814–22.
+ doi: 10.3324/haematol.2010.023879
+ 
+<section> Conflict of Interest Statement: The authors declare that the research was
+ conducted in the absence of any commercial or financial relationships that could
+ be construed as a potential conflict of interest.
+ 
+<section> Copyright © 2018 Lepanto, Rosa, Cutone, Conte, Paesano and Valenti. This is an
+ open-access article distributed under the terms of the Creative Commons Attribution
+ License (CC BY). The use, distribution or reproduction in other forums is permitted,
+ provided the original author(s) and the copyright owner(s) are credited and that the
+ original publication in this journal is cited, in accordance with accepted academic
+ practice. No use, distribution or reproduction is permitted which does not comply
+ with these terms.

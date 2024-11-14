@@ -1,0 +1,952 @@
+
+<section> © 2023 The Author(s)
+ 
+<section> Effectiveness and cost-effectiveness
+ based intervention to improve
+ development of young children
+ areas: A cluster randomized
+ 
+<section> Mengxue Xu 
+<section> * , Haijun Zhang 2,3 
+<section> * , Aihua
+ Liu , Chunxia Zhao , Xiaona Huang , Stephen
+ Berman 7,8,9 , Hai Fang 2,10,11 † , Hongyan Guan †
+ 
+<section> 1 Nurturing Care Research and Guidance Center, Capital
+ Institute of Pediatrics, Beijing, China
+ 2 China Center for Health Development Studies, Peking
+ 
+<section> University, Beijing, China
+ 3 Department of Health Policy and Management, School of
+ Public Health, Peking University, Beijing, China
+ 4 Department of Integrated Early Childhood Development,
+ Capital Institute of Pediatrics, Beijing, China
+ 5 Child Development Research Centre, China Development
+ 
+<section> Research Foundation
+ 6 Child Health and Development, UNICEF China, Beijing, China
+ 7 Center for Global Health (CGH), University of Colorado
+ Anschutz Medical Campus Aurora, Colorado, USA
+ 8 WHO Collaborating Center to Promote Family and Child
+ Health, University of Colorado Anschutz Medical Campus
+ 
+<section> Aurora, Colorado, USA
+ 9 Colorado School of Public Health, University of Colorado
+ Anschutz Medical Campus Aurora, Colorado, USA
+ 10 Peking University Health Science Center – Chinese Center
+ for Disease Control and Prevention Joint Research Center for
+ Vaccine Economics, Beijing, China
+ 11 Institute for Global Health and Development, Peking
+ 
+<section> University, Beijing, China
+ *Joint first authorship.
+ †Joint senior authorship.
+ 
+<section> Correspondence to:
+ 
+<section> Hongyan Guan
+ Nurturing Care Research and Guidance Center
+ 
+<section> Capital Institute of Pediatrics
+ 2 Yabao Road, Chaoyang District, Beijing 100020
+ 
+<section> China
+ 
+<section> hongyanguan@126.com
+ 
+<section> Hai Fang
+ China Center for Health Development Studies, Peking University
+ 38 Xueyuan Road, Haidian District, Beijing 100191, P.R. China
+ 
+<section> China
+ 
+<section> hfang@hsc.pku.edu.cn
+ 
+<section> Cite as: Xu M, Zhang H, Liu A, Zhao C, Huang X, Berman S, Fang H, Guan H. Effectiveness
+ and cost-effectiveness of a group-based intervention to improve social-emotional development
+ of young children in poverty-stricken areas. J Glob Health 2023;13:04017.
+ 
+<section> of a group-
+ 
+<section> social-emotional
+ 
+<section> in poverty-stricken
+ 
+<section> controlled trial
+ 
+<section> Background Social-emotional ability is key to the
+ well-being and future success of children; however, dis-
+ parities in social-emotional development during an in-
+ dividual’s early age can last a lifetime, which is particu-
+ larly evident among children living in poverty-stricken
+ areas. We aimed to determine the effectiveness, cost-ef-
+ fectiveness, and feasibility of a group-based intervention
+ called the Care Group on social-emotional development
+ for families living in poverty-stricken counties.
+ 
+<section> Methods We conducted a cluster (township) random-
+ ized controlled trial (C-RCT) every two weeks from July
+ 2019 to June 2020 in a poverty-stricken area located in
+ Shanxi, China. The outbreak of the COVID-19 pandem-
+ ic suspended the implementation of the intervention in
+ January 2020. The caregiver-child pairs in the inter-
+ vention group participated in 12 group-based sessions
+ with a structured curriculum and learning materials
+ emphasizing nurturing ability and early childhood de-
+ velopment. We applied a difference-in-differences (DID)
+ model to estimate the intervention’s impact. The anal-
+ ysis follows the intention-to-treat (ITT) principle. We
+ used standard economic costing methods to estimate
+ the cost of implementing the Care Group over the in-
+ tervention period and adopted a societal perspective in
+ the analysis.
+ 
+<section> Results We included 322 eligible caregiver-child pairs in
+ the baseline (intervention n = 136, control n = 186) and
+ surveyed 258 pairs in the endline (intervention n = 117,
+ control n = 141). Compared with the control group, chil-
+ dren in the intervention group had significantly fewer
+ social-emotional problems (adjusted mean difference of
+ Z score = -0.374, 95% CI = -0.718, -0.030, P = 0.033) six
+ months after intervention. In the first year, the annual
+ cost of implementing Care Group was US$146.10 per
+ child, reduced to US$47.20 per child in the second year
+ due to the exclusion of non-recurrent costs. The incre-
+ mental cost-effectiveness ratio (ICER) was US$390.60. 
+<section> Conclusions Care Group is an effective approach for promoting children’s social-emotional develop-
+ ment in poverty-stricken areas at an affordable cost and with high feasibility for scale-up. Considering
+ the planned per capita health expenditure of the Chinese government for 2022, we believe that the pre-
+ sented evidence makes a solid scientific and financial case for integrating the Care Group intervention
+ into the basic public health services (BPHS) package.
+ 
+<section> Registration Chinese Clinical Trials Registry (ChiCTR): ChiCTR1900022894.
+ There is increasing evidence confirming that social-emotional skills serve as the critical foundation for the
+ well-being and future success of children; however, disparities in social-emotional development in the early
+ years can last a lifetime, particularly evident among children living in poverty [1-3]. Previous studies found
+ a prevalence of social-emotional delay ranging from 14% to 59%, with a weighted average of 36.5% among
+ infants and toddlers in rural areas of China [4], while the prevalence in the entire Chinese sample was 20%
+ [5]. An empirical study also found that the key window of opportunity for improving a child’s development
+ is during or prior to the infancy stage [6]. Moreover, nurturing care practices have been positively correlat-
+ ed with children’s social and emotional development [7,8].
+ 
+<section> Group-based interventions have the advantages of modeling positive nurturing care behaviors and environ-
+ ments [9] and fostering a strong sense of belonging [10] at a lower cost [11]. Smaller group size (2-10 care-
+ giver-child pairs), structured curricula, opportunities for practice among caregivers, feedback on nurturing
+ care behaviors, and adequate intervention frequency were found to be crucial for successful group-based
+ interventions [12]. Based on data from previous studies, the cost of group-based intervention on early child-
+ hood development (ECD) was about US$400-933 per child annually in the United States [13] and US$38-
+ 135 per child annually without non-recurrent costs in India [14].
+ 
+<section> An estimated 17 million children under the age of five in China were denied the opportunity to develop to
+ their fullest potential due to various risk factors in 2017, such as child poverty, malnutrition, lack of psy-
+ chosocial stimulation, and poor parenting environment [15]. While China has achieved remarkable prog-
+ ress in poverty alleviation [16], the incidence of early childhood developmental delays, especially for on
+ non-cognitive development [17], has been worse [18,19] in poverty-stricken areas due to persistent wealth
+ disparities between urban and rural areas [20].
+ 
+<section> We aimed to examine the effectiveness of the Care Group intervention on social-emotional development
+ of children under the age of three, evaluate its cost-effectiveness, and determine the feasibility of the deliv-
+ ery paths (eg, facilitator selection, training, supervision) and compliance to its implementation in pover-
+ ty-stricken areas in China. The data presented is not only relevant for expanding ECD services for children
+ aged 0-3 in poverty-stricken areas of China, but also valuable to other countries with similar social and
+ economic situation.
+ 
+<section> METHODS
+ 
+<section> Study design and participants
+ 
+<section> We conducted a cluster randomized controlled trial (C-RCT) every two weeks from July to December 2019
+ in eight townships of Fenxi County, a poverty-stricken area in Shanxi Province of China [21]. Gross domes-
+ tic product (GDP) per capita in Fenxi County in 2019 was US$2151 [22], much lower than that of China
+ (US$10 144) [23] and Shanxi Province (US$2465) [24] in 2019. We conducted the endline evaluation survey
+ six months later in July 2020 due to the interruption of the COVID-19 pandemic.
+ The intervention group participated in Care Group Intervention while also receiving child health care ser-
+ vices included in the basic public health services (BPHS) package, while the control group received only the
+ child health care services included in the BPHS package. We intended for the caregiver-child pairs in the in-
+ tervention group to participate in 24 group-based sessions over 12 months between July 2019 to June 2020.
+ However, due to the COVID-19 pandemic, the pairs in the intervention group were only able to participate
+ in a maximum of 12 group-based sessions from July to December 2019. Since January 2020, we suspended
+ the offline intervention for six months, and facilitators switched to sending age-appropriate messages and
+ relative links of nurturing care and child health to caregivers via Wechat (a free mobile application for text
+ and voice messaging communication service), to encourage them to keep practicing and maintain positive
+ nurturing practices learned before. Intervention to improve social-emotional development of young children
+ 
+<section> Recruited by the village doctors, children who were aged 6-18 months by July 1, 2019, and their primary
+ caregivers were eligible for inclusion in the intervention group. Each primary caregiver signed the informed
+ consent form after confirming they completely understood the content and information. Exclusion criteria
+ for data analysis were: 1) children with physical disabilities; 2) multiple births (eg, twins, triplets); 3) pre-
+ mature babies; and 4) children living more than five kilometres from the intervention site.
+ 
+<section> Sample size and power calculation
+ 
+<section> The Care Group Intervention is designed to increase children’s social-emotional development by 0.35 stan-
+ dard deviations (SDs). Assuming a 95% confidence interval (CI) and a power of 0.80, we calculated the
+ minimum sample size as 102 per group using the G*Power 3.1 software. We estimated a 90% valid data
+ and 80% follow-up rate. We thus aimed to recruit 142 participants in each group, with a total 284 partic-
+ ipants (142 × 2).
+ 
+<section> Randomization and masking
+ 
+<section> We matched the townships (n = 8) into pairs based on the order of the socioeconomic index (per capita dis-
+ posable income in 2018). Each township was marked as A1, A2, B1, B2, C1, C2, D1, and D2 after four pairs
+ were decided. We used IBM SPSS V.24.0 (IBM Corp) to randomly choose one number in each pair as the
+ intervention township, after which its paired township automatically became a control group. We assigned
+ all the children living in intervention/control townships to the intervention/control groups. We could not
+ blind the participants and facilitators due to the nature of the Care Group intervention.
+ 
+<section> Care Group intervention
+ 
+<section> The Care Group Manual, developed by the University of Colorado in the United States, has been proven as
+ a practical tool to improve the health and development of children aged 0-3, and advance caregivers’ knowl-
+ edge and skills on nurturing care in Guatemala [25,26] Adapted to the Chinese context, the Care Group
+ Flipchart and the Care Group Toolkit were developed as part of the ECD program (2017-2020) jointly sup-
+ ported by UNICEF and the National Health Commission of China.
+ 
+<section> The Care Group intervention aims to promote children’s comprehensive development by strengthening pri-
+ mary caregivers’ knowledge and skills on nurturing care practices. The focus of the Care Group content spans
+ five key components (good health, adequate nutrition, responsive caregiving, security and safety, and oppor-
+ tunities for early learning) under the Nurturing Care Framework promoted by the World Health Organiza-
+ tion and UNICEF [27]. We emphasized the five fundamental philosophies (responsive caregiving, sufficient
+ early stimulation, play and communication, encouragement and praise, and security) and the corresponding
+ nurturing care skills during the entire intervention. After brief lectures on child health and nurturing care
+ at the beginning of each session, two facilitators demonstrated nurturing care skills, organized play/read-
+ ing interaction activities, and responded to the parents’ and caregivers’ questions. Each session lasted
+ minutes and had a structured curriculum. The agenda is available in Figure S1 in the 
+<section> Online Supplemen-
+ 
+<section> tary Document. Facilitators recorded participation, children and caregiver performance, and questions/
+ feedback after each session. More details on the Care Group can be found in the published protocol [21].
+ 
+<section> Delivery path
+ 
+<section> We delivered the Care Group intervention through the BPHS system at the township level. We established
+ a three-tiered supervision mechanism at the national, county and village levels, carrying out quality assur-
+ ance at the national and county levels at a quarterly, and at the village level at a monthly basis. We selected
+ nine local women (including one health worker, one family planning worker, three experienced volunteers,
+ three female caregivers, and one kindergarten teacher) who at least completed senior secondary education
+ as facilitators after rounds of interviews and training. We used a two-phase training to help facilitators fa-
+ miliarize with the key messages and skills outlined in the Care Group Manual, and the training specifical-
+ ly emphasized and demonstrated how to promote positive relationships and cultivate a warm environment
+ for participants.
+ 
+<section> Measurement and data analysis
+ 
+<section> We evaluated the children’s social-emotional development using the Ages & Stages Questionnaires: Social
+ Emotional, Second Edition (ASQ: SE-2), a caregiver-reported screening tool to identify social-emotional
+ problems among children aged 1-72 months; The ASQ: SE-2 has been introduced in many countries and is 
+<section> widely used in research and clinical settings. It has been adapted to the Chinese context and approved as
+ a reliable tool for assessing the social-emotional development of children aged 0-6 [25]. The tool includes
+ 16 to 36 questions depending on the specified age group, and caregivers are asked to provide answers on a
+ three-point Likert scale. The questions focus on typical behaviors for the specified age group in seven di-
+ mensions, including self-regulation, compliance, communication, adaptive functioning, autonomy, affect,
+ and interaction with others. The total score is the sum of each question, and a higher score indicates poorer
+ social-emotional development.
+ 
+<section> We trained four graduate students to help caregivers log into the ASQ: SE-2 electronic system which pro-
+ vides uniform illustration and audio-visual materials. Raw data were automatically uploaded. Child demo-
+ graphic characteristics (including gender, age and order of birth) and maternal demographic characteristics
+ (including education, marital status, attendance, caregiver’s satisfaction toward intervention and socioeco-
+ nomic status) were chosen as control variables. All questionnaires were administered by the GoodData soft-
+ ware (GoodData, Beijing, China) using an Android system. We set the range and logistics of each response
+ in advance to guarantee data accuracy completeness.
+ 
+<section> According to the rules of the intention-to-treat (ITT) analysis, we performed the data distribution before
+ the data analysis. For the descriptive analysis on the children (age group, gender, and birth order), parents
+ (i.e. education, age, and stay-at-home parent) and the family’s socioeconomic status (i.e. annual income in
+ 2018, vehicle ownership, and household appliance ownership), we used t test or χ 2 test. We applied a dif-
+ ference-in-differences (DID) model to estimate the intervention’s impact on the children’s social-emotional
+ developmental outcomes. We calculated a Z-score according to each child’s score on ASQ: SE-2 in their age
+ group. We reported the odds ratios (ORs), 95% confidence intervals (CIs), coefficient of control variables,
+ and their P-values, setting the threshold for statistical significance at P > 0.05 (bilateral). We conducted the
+ data analysis using IBM SPSS Statistics 24.0.
+ 
+<section> Cost-effectiveness analysis
+ 
+<section> We used standard economic costing methods to estimate the cost of implementing the Care Group over the
+ intervention period [28] and adopted a societal perspective in the analysis adopted. We included all inter-
+ vention-related costs: recruitment, initial training, group material (e.g. basic parenting pack, books, dolls
+ etc.), and care group costs. We collected all costs data through qualitative interviews with implementing
+ staff and referenced the intervention budget and expenditure records. We utilized the human capital ap-
+ proach [29] to calculate the time cost of all staff. We converted all the calculated costs in 2019 from Chinese
+ RMB to US dollars (US$1 = RMB6.908). We calculated incremental cost-effectiveness ratios by dividing the
+ intervention costs by the differences between the intervention and control groups in terms of developmen-
+ tal outcomes (i.e. overall ASQ: SE-2 Z scores). As we obtained all costs within a one-year time horizon, dis-
+ counting costs or effects were not needed. We used univariate sensitivity analyses to determine the impact
+ of cost variation by allowing the personnel costs to fluctuate up and down by 50%.
+ 
+<section> RESULTS
+ 
+<section> We recruited 322 children aged 6-18 months recruited in the baseline survey, assigning 136 to the interven-
+ tion group and 186 to the control group. The endline survey in July 2020 included 117 children from the
+ intervention group (86.03%) and 141 children from the control group (75.81%). Forty-eight caregiver-child
+ pairs dropped from the project due to migration (intervention group n = 33; control group n = 15). The spe-
+ cific exit time and drop-out reasons from the intervention group are available in Table S1 in the 
+<section> Online
+ 
+<section> Supplementary Document. Sixteen caregivers refused to participate in the endline survey (intervention
+ group n = 4; control group n = 12) (Figure 1).
+ 
+<section> Comparison of demographic characteristics between intervention and control
+ 
+<section> groups
+ 
+<section> The demographic characteristics were normally distributed. At the baseline, there was no significant differ-
+ ence in the demographic characteristics of children (e.g. age group, gender, and birth order) between the in-
+ tervention and control groups (Table 1). Mothers in the intervention group were significantly younger than
+ those in the control group (intervention = 27.89; SD = 3.44; control = 29.20; SD = 4.13; P = 0.007). We found
+ no significant difference in the mother’s level of education, father’s level of education, and age. The propor-
+ tion of stay-at-home (not working) mothers was 81.2% in the intervention group and 85.5% in the control 
+<insert> Table 1. Baseline characteristics of the intention-to-treat population
+ Child
+ Age group (in months)
+ 6-11
+ 12-18
+ Gender
+ Male
+ Female
+ Birth order
+ First
+ Second
+ Third or later
+ Mother
+ Education
+ Primary school and below
+ Junior secondary school
+ Senior secondary school
+ College and above
+ Age (in years), mean (SD)
+ Stay-at-home
+ Interven-
+ tion group
+ (n = 117),
+ n (%)
+ Control
+ group
+ (n = 141),
+ n (%)
+ 62 (47.3%)
+ 55 (43.3%)
+ 69 (52.7%)
+ 72 (56.7%)
+ 57 (48.7%)
+ 60 (51.3%)
+ 76 (53.9%)
+ 65 (46.1%)
+ 56 (47.9%)
+ 49 (41.9%)
+ 12 (10.2%)
+ 55 (39.0%)
+ 66 (46.8%)
+ 20 (14.1%)
+ P-value
+ 0.517 Father
+ Education
+ Primary school and below 3 (1.2%)
+ Junior secondary school 71 (60.7%)
+ Senior secondary school 28 (23.9%)
+ College and above 3 (1.2%)
+ Age (in years), mean (SD) 30.00 (4.04)
+ Socioeconomic status
+ Annually income in 2018 (US$)* 5582 (4824)
+ Vehicle
+ Motorcycle 95 (81.2%)
+ Motorized bicycle 49 (41.9%)
+ Family car 56 (47.9%)
+ Household appliances
+ Air Conditioner 15 (12.8%)
+ Computer 50 (42.7%)
+ Tablet 7 (6.0%)
+ 0.407
+ 0.575
+ 0.591
+ 5 (4.3%)
+ 54 (46.2%)
+ 37 (31.6%)
+ 44 (17.1%)
+ 27.89 (3.44)
+ 95 (81.2%)
+ 10 (3.9%)
+ 62 (44.0%)
+ 44 (31.2%)
+ 25 (9.7%)
+ 29.20 (4.13)
+ 121 (85.8%)
+ Interven-
+ tion group
+ (n = 117),
+ n (%)
+ Child
+ 0.007
+ 0.317
+ Control
+ group
+ (n = 141),
+ n (%)
+ P-value
+ 0.222
+ 8 (3.1%)
+ 70 (49.6%)
+ 41 (29.1%)
+ 4 (1.6%)
+ 31.18 (7.06) 0.109
+ 5334 (3935) 0.685
+ 92 (65.2%)
+ 51 (36.2%)
+ 87 (61.7%)
+ 0.004
+ 0.349
+ 0.026
+ 35 (24.8%)
+ 71 (50.4%)
+ 23 (16.3%)
+ 0.015
+ 0.222
+ 0.010
+ SD – standard deviation
+ *US$1 = RMB6.861, 2018 exchange rate from World Bank (https://data.worldbank.org/). 
+<iend>
+
+ 
+<insert> Figure 1. Trial profile; BPHS – basic public health service. 
+<iend>
+
+ Intervention to improve social-emotional development of young children
+ 
+<section> group, but there was no statistically significant difference (P = 0.317). Even though annual incomes (interven-
+ tion = 5582, SD = 4824; control = 5334, SD = 3935; P = 0.685) in 2018 were similar in both groups, the quality
+ of life in the control group was better than the intervention group (P < 0.05), as demonstrated by the own-
+ ership of vehicles (i.e. motorcycle and family car) and household appliances (i.e. air conditioner and tablet). 
+<insert> Table 2. Social-emotional changes in the intervention and control groups (Z-scores)*
+ Mean (SD)
+ Intervention
+ Baseline
+ Endline
+ Control
+ 0.099 (1.040) -0.082 (0.942)
+ -0.106 (0.952) 0.088 (1.026)
+ Difference-in-difference
+ Difference-
+ in-difference
+ (intervention –
+ control)
+ 95% CI SE t-value P-value
+ 0.181
+ -0.194
+ -0.374
+ N/A
+ N/A
+ -0.718, -0.030
+ 0.128
+ 0.128
+ 0.175
+ 0.840
+ -2.091
+ -2.139
+ 0.401
+ 0.037
+ 0.033
+ SD – standard deviation, CI – confidence interval, N/A – not applicable
+ *A lower Z-score indicates fewer social-emotional problems. There was no significant difference of the Z-scores in the baseline (P = 0.144) and endline
+ (P = 0.121) surveys. Maternal age, gender of child, socioeconomic index (e.g. ownership of motorcycle, family car, air conditioner, tablet), and participa-
+ tion rate were adjusted in the difference-in-difference analysis. 
+<iend>
+
+ 
+<insert> Table 3. Total cost and cost per child of running the group-based intervention (in 2019, USD)*
+ Cost item
+ Recruitment costs
+ Cost for recruiting parenting facilitators
+ Cost for recruiting parenting supervisors
+ Cost for recruiting caregivers
+ Subtotal
+ Initial training costs
+ Time for five training experts
+ Time for nine parenting facilitators
+ Time for four parenting supervisors
+ Transportation fee
+ Accommodation fee
+ Food and catering
+ Other costs (e.g. office expenses)
+ Subtotal
+ Unit Unit cost
+ Total
+ cost†
+ Nine parenting facilitators (41.5 min per person)
+ Four supervisors (41.5 min per person)
+ 136 caregivers (intervention group) (10 min per person)
+ 27.30 per person
+ 27.30 per person
+ 1.50 per person
+ 245.70
+ 109.20
+ 558.90
+ Nine days (eight hours per day)
+ Nine days (eight hours per day)
+ Nine days (eight hours per day)
+ Nine days
+ Nine days
+ Nine days
+ One time
+ 122.40 per day
+ 7.20 per day
+ 12 per day
+ 16.10 per day
+ 234.50 per day
+ 156.30 per day
+ 825.90 per program
+ 5508
+ 583.20
+ 144.90
+ 2110.60
+ 1407.10
+ 825.90
+ 11 011.70
+ 298.40 per
+ facilitator
+ Material costs (e.g. basic parenting pack, books, dolls etc.) Nine facilitators
+ Monthly Care Group costs
+ Monthly supervision cost for one local women’s federation staff Six times per program
+ Cost for nine parenting facilitators Seven times per person per month (45 min per time)
+ Costs for four parenting supervisors 5.6 times per person per month (54.2 min per time)
+ 118.30 per time
+ 3.70 per person
+ per month
+ 5.40 per person
+ per month
+ 2686
+ 709.80
+ 1398.60
+ 725.80
+ Subtotal 2834.20
+ Cost of implementing group-based intervention
+ Total cost including non-recurrent costs (recruitment and training costs)
+ Cost per child (if children per group)
+ Total cost excluding non-recurrent costs
+ Cost per child (if children per group) excluding non-recurrent costs
+ 17 090.80
+ 146.10
+ 5520.20
+ 47.20 
+<iend>
+
+ 
+<section> Comparison of social-emotional changes between intervention and control groups
+ 
+<section> The Z-scores in the intervention group were slightly higher than in the control group at the baseline, without
+ a significant difference (intervention = 0.099 SD = 1.040; control = -0.082; SD = 0.942; P > 0.05). In the end-
+ line survey, however, the Z-scores were significantly lower in the intervention group (intervention = -0.106,
+ SD = 0.952; control = 0.088, SD = 1.026; P < 0.05). The alteration (i.e. intervention group minus control group)
+ was significantly different (difference-in-difference = -0.374, P < 0.05), demonstrating that children in the
+ intervention group had fewer social-emotional problems (95% CI = -0.718, -0.030, P < 0.05, 
+<section> Table 2). The
+ variation tendency is presented in Table S2 in the 
+<section> Online Supplementary Document.
+ 
+<section> Total cost and cost per child of implementing group-based intervention
+ 
+<section> Table 3 summarizes the cost of implementing the group-based intervention. The cost of implementing twelve
+ sessions per child was US$146.10. The costs for recruitment, training, materials, and monthly operation
+ of Care Group were US$558.90, US$11 011.70, US$2686, and US$2834.20, respectively, with the training 
+<insert> Table 4. Incremental cost-effectiveness ratios and univariate sensitivity analysis by varying the personnel costs (in USD)
+ Variation of
+ personnel costs*
+ Cost per child ICER (overall ASQ: SE-2)
+ Including non-recurrent costs Excluding non-recurrent costs Including non-recurrent costs Excluding non-recurrent costs
+ Base case 146.10 47.20 390.60 126.20
+ -50% 103.70 35.10 277.30 93.90
+ +50% 188.50 59.30 504.00 158.60
+ ICER – incremental cost-effectiveness ratio, ASQ: SE-2 – Chinese version of Ages and Stages Questionnaires: Social-Emotional, second edition
+ *Includes recruitment costs, initial training costs for experts, parenting facilitators and supervisors, and care group 
+<iend>
+
+ Intervention to improve social-emotional development of young children
+ 
+<section> costs accounting for the highest proportion. When we excluded non-recurrent costs (i.e. recruitment and
+ training costs), the cost per child was US$47.20. Details of collection of cost items are shown Tables S3-1 to
+ 
+<section> S3-4 in the 
+<section> Online Supplementary Document.
+ 
+<section> Incremental cost-effectiveness ratios and univariate sensitivity analysis
+ 
+<section> The incremental cost-effectiveness ratios (ICERs) with and without non-recurrent costs were US$390.60
+ and US$126.20, respectively. The univariate sensitivity analysis showed that the up-and-down variance of
+ the personnel costs by 50% yielded intervention costs per child of US$103.70 to US$188.50, with corre-
+ sponding ICERs varying from US$277.30 to US$504.00. When non-recurrent fees were excluded, the cost
+ per child ranged from US$35.10 to US$59.30, and the ICERs varied from US$93.90 to US$158.60 (Table 4).
+ 
+<section> DISCUSSION
+ 
+<section> To the best of our knowledge, this is the first study in China to evaluate the effectiveness and cost-effective-
+ ness of group-based intervention on the social-emotional development of children in poverty-stricken areas.
+ The positive findings indicated that the Care Group is scalable. Most importantly, the endline survey found
+ that the Care Group had a sustained positive impact on the social-emotional development of children six
+ months after the intervention was interrupted by the outbreak of the COVID-19 pandemic.
+ 
+<section> Effectiveness of the Care Group on social-emotional development
+ 
+<section> The positive effect of group-based intervention on promoting social-emotional development in our find-
+ ings was similar to or larger than the effect found by previous studies [4,9]. Hamadani et al. [9] had a much
+ larger effect size in Bangladesh because the intervention targeted underweight children and lasted longer.
+ Based on our analysis, there are three key factors that contributed to this positive effect. First, a safe and se-
+ cure environment is fundamental for children to explore their surroundings and interact with others [30].
+ The Care Group provided children with this opportunity and encouraged caregivers to extend positive sur-
+ roundings full of stimulate and nurturing care practices at home. Second, modeling played an essential role.
+ According to social learning theory [31], children and caregivers tend to learn from observations through
+ imitation and internalization. In our study, we focused on improving the nurturing care behaviors through
+ lectures and discussions, demonstrations of responsive care practices, and effective feedback for caregivers.
+ We also showed that the positive nurturing behaviors in the intervention group significantly increased after
+ the intervention (Table S4 in the 
+<section> Online Supplementary Document). One study [32] showed that the link
+ between parenting skills and the social-emotional development of children was more vital than the cogni-
+ tive, language, and motor development of children. Third, the Care Group provided a valuable opportunity
+ for caregivers to openly share their feelings and thoughts. Depressive symptoms, parenting stress, and mar-
+ ital adjustment have been significantly associated with maternal sensitivity [33-35] and a mother’s ability
+ to promptly and appropriately respond to their infant’s behavioral signals. We found that mothers in the
+ intervention group received more peer support, and they were more willing to share their inner thoughts
+ and feelings after a few sessions.
+ 
+<section> Cost-effectiveness of the Care Group
+ 
+<section> Several studies targeting group-based intervention on ECD were found to be cost-effective and efficient in
+ other countries [36-39]. For example, the Video Interaction Project [40], a targeted intervention in the pe-
+ diatric primary care setting designed to enhance parenting skills and boost school readiness in the Unit-
+ ed States, has an annual cost of US$150-200 per child. The Incredible Years [41] parenting program in the
+ United Kingdom, with costs ranging from £1612-2418 (US$2524-3787) per child depending on the num- 
+<section> ber of children in the group, was found to have a high probability of being cost-effective. The cost of our
+ group-based intervention adjusted by consumer price indices, ranging from US$50-150, is relatively lower
+ and more efficient compared with these programs. Compared with other domestic studies in China, such
+ as the one by Shi et al. [42] on parenting intervention and ECD, the average costs are very similar, yet we
+ believe the Care Group may be more cost-effective because we implemented our intervention in rural areas
+ where children and caregivers have decreased access to resources and services. Moreover, if the number of
+ children in each Care Group doubles from four to eight children per group, the average cost of the project
+ will be further reduced, greatly increasing the return on investment.
+ 
+<section> From the perspective of government health investment, the public health expenditure per person was
+ US$0.32 (RMB2.20), calculated by dividing the total cost of the Care Group by the population of Fenxi
+ County (104 627 permanent residents). According to the governmental project report of Basic Public Health
+ Service in 2021 [43], Chinese government would increase the per capita public health expenditure by RMB5
+ (US$0.72) beginning in 2022. Therefore, available government funds can fully cover the total costs of the
+ Care Group.
+ 
+<section> Feasibility of scaling up the Care Group nationwide
+ 
+<section> We found the implementation of the Care Group to be feasible regarding the delivery path, facilitator selec-
+ tion, capacity building, and materials preparation. The three-tiered “national-county-village” supervision
+ mechanism relied on the existing health system and guaranteed the quality of the implementation of the
+ Care Group. This supervision mechanism provided an excellent preliminary foundation for sample enrol-
+ ment, facilitator recruitment, training, and regular supervision.
+ 
+<section> While selecting potential facilitators, we prioritized a candidate’s capacity for empathy, their level of respon-
+ sibility and communication, and relevant work experience. With the continuous improvement of education
+ access among women and the growing awareness of the importance of ECD in rural areas of China, many
+ full-time mothers of children under the age of three have been great candidates as facilitators. We also en-
+ sured sufficient pre-intervention training and frequent capacity building. According to the feedback from
+ supervisors, the two-week training before implementation of the intervention and the high frequency of
+ trainings in the first three months of implementation played an essential role in developing and improving
+ the skills of supervisors and facilitators.
+ 
+<section> Finally, the Care Group Toolkit materials were economical, portable, and substitutable (see Table S5 in the
+ 
+<section> Online Supplementary Document), allowing caregivers the possibility to purchase or make similar toys.
+ This was beneficial for the creation of home-based early learning opportunities. We believe that our find-
+ ings demonstrate the scalability of the Care Group intervention to a national level and its potential for inte-
+ gration the Care Group into the BPHC package.
+ 
+<section> Limitation
+ 
+<section> Our study had some limitations. The increasingly apparent circumstance of frequent migration between
+ the townships and the nearby urban areas impacted both enrolment and participation. With better edu-
+ cational and medical resources, job opportunities, and recreational facilities, young parents tend to work
+ in nearby counties or urban areas. Meanwhile, they choose to settle down in the townships because of the
+ low level of consumption [44]. Another limitation was the interruption of the Care Group intervention due
+ to the COVID-19 pandemic. We could neither implement the intervention on-site nor adequately assess
+ the immediate outcome and the social-emotional development of children. To adapt to the COVID-19 con-
+ text, local facilitators used WeChat to maintain limited online interaction with caregivers. While we did
+ not survey and quantify the level that the caregivers put into effect, this might be a reason of the sustained
+ effect. This is also an interference factor for cost-effectiveness. Because the network system in China is very
+ convenient and inexpensive, we had no expense for training and supervision in message transferring; we
+ assumed no economic input was included during the epidemic period. The effect immediately after inter-
+ vention was supposed to be greater than it was six months later, so we still believe the current results to be
+ conservative and credible.
+ 
+<section> Further study
+ 
+<section> During the implementation, we were concerned with the overall participation rate (Online 
+<section> Supplementary
+ 
+<section> Document). Lack of awareness and attention on ECD were also related to some caregivers’ absence. Strate-
+ gies to alleviate these difficulties should be considered in future studies. Moreover, researchers can further Intervention to improve social-emotional development of young children
+ 
+<section> explore diversified forms of intervention. For example, a mixed media approach may be more engaging and
+ interactive for caregivers and children; intervention frequency can be altered to examine the most appro-
+ priate frequency; and caregiver-only sessions can be implemented to assist in deeper learning of nurturing
+ care knowledge and sharing of feelings and challenges with less distraction.
+ 
+<section> CONCLUSIONS
+ 
+<section> The Care Group is an effective approach for promoting social-emotional development of young children in
+ poverty-stricken areas at an affordable cost and with high feasibility for scale-up. Considering the planned
+ per capita health expenditure of the Government of China for 2022, we believe that the evidence present-
+ ed makes a solid scientific and financial case for integrating the Care Group intervention into the BPHS
+ package.
+ 
+<section> Acknowledgments: We would like to express special thanks to a group of Chinese experts who contributed to ad-
+ aptation and compilation of Care Group Manual, including Zonghan Zhu, Huishan Wang, Weiping Xi, Rongping Li,
+ Jianli Wang, Yuanyuan Xu, Ping Hu, and Xiaoyan Wang. We thank Gretchen J. Domek and Maureen Cunningham,
+ Department of Pediatrics, University of Colorado Anschutz Medical Campus and Center for Global Health, Colorado
+ School of Public Health, for training research members and experts according to the original Care Group Manual, of-
+ fering experiences and lessons for project implementation, as well as recommendations and revisions to the manuscript.
+ 
+<section> Ethics statement: This study was reviewed and approved by the Ethical Committee of Capital Institute of Pediatrics
+ in Beijing, China on July 10, 2018 (SHERLL2018014).
+ 
+<section> Data availability: Please contact the authors directly to reach the data and materials.
+ 
+<section> Funding: Hong Kong Committee for UNICEF China (0860/A0/05/502), High Level Talents Cultivation Project for Pub-
+ lic Health Academic Leader (2022-2-017).
+ 
+<section> Authorship contributions: MX and HG designed and drafted the part on effectiveness and feasibility of this study. HZ
+ and HF designed and drafted the part of the cost-effectiveness of this study. GH, HF, MX, HZ, AL, and BS accomplished
+ project investigation. AL was responsible for facilitator training and project supervision. MX and HZ conducted project
+ administration, statistical analysis, and interpretation. CZ and HX contributed to project coordination and manuscript
+ revision. SB served as a professional consultant. All authors contributed substantially to revising the manuscript and
+ have read and approved the final manuscript for publication.
+ 
+<section> Disclosure of interest: The authors completed the ICMJE Disclosure of Interest Form (available upon request from the
+ corresponding author) and disclose no relevant interests.
+ 
+<section> Additional material
+ 
+<section> Online Supplementary Document
+ 
+<section> 1  Briggs D, Silver E, Krug LM, Zachary MS, Schrag RDA, Chinitz S, Racine AD. Healthy steps as a moderator: the impact
+ 
+<section> REFERENCES of maternal trauma on child social - emotional development. Clinical practice in Pediatric Psychology. 2014;2:166-175.
+ 
+<section> doi:10.1037/cpp0000060
+ 
+<section> 2  Saigal S, Doyle LW. An overview of mortality and sequelae of preterm birth from infancy to adulthood. Lancet. 2008;371:261-
+ 9. Medline:18207020 doi:10.1016/S0140-6736(08)60136-1
+ 
+<section> 3  Council on Community Pediatrics. Poverty and Child Health in the United States. Pediatrics. 2016;137:e20160339. Med-
+ 
+<section> line:26962238 doi:10.1542/peds.2016-0339
+ 
+<section> 4  Emmers D, Jiang Q, Xue H, Zhang Y, Zhang Y, Zhao Y, et al. Early childhood development and parental training inter-
+ ventions in rural China: a systematic review and meta-analysis. BMJ Glob Health. 2021;6:e005578. Medline:34417271
+ 
+<section> doi:10.1136/bmjgh-2021-005578
+ 
+<section> 5  Bian X, Squires J, Lu M, Hong-mei L, Yan Y, Guo-wen W, et al. Study on the norm and the reliability of the second edition
+ of the Ages & Stages Questionnaires: Social-Emotional with a Chinese national sample. Chinese Journal of Child Health
+ Care. 2021;29:23-27.
+ 
+<section> 6  Black MM, Walker SP, Fernald LCH, Andersen CT, DiGirolamo AM, Lu C, et al. Early childhood development coming
+ of age: science through the life course. Lancet. 2017;389:77-90. Medline:27717614 doi:10.1016/S0140-6736(16)31389-7
+ 
+<section> 7  Ursache A, Blair C, Raver CC. The Promotion of Self-Regulation as a Means of Enhancing School Readiness and Early
+ Achievement in Children at Risk for School Failure. Child Dev Perspect. 2012;6:122-8. Medline:32226480 doi:10.1111/
+ 
+<section> j.1750-8606.2011.00209.x
+ 
+<section> 8  Perrin EC, Sheldrick RC, McMenamy JM, Henson BS, Carter AS. Improving parenting skills for families of young chil-
+ dren in pediatric settings: a randomized clinical trial. JAMA Pediatr. 2014;168:16-24. Medline:24190691 doi:10.1001/ja-
+ 
+<section> mapediatrics.2013.2919 
+<section> 9  Hamadani JD, Mehrin SF, Tofail F, Hasan MI, Huda
+ 
+<section> REFERENCES velopment programme into Bangladeshi primary health-care
+ Lancet Glob Health. 2019;7:e366-75. Medline:30784637
+ 
+<section> 10  Yousafzai AK, Rasheed MA, Siyal S. Integration of parenting
+ Pakistan: an implementation evaluation. Ann N Y Acad
+ 
+<section> 11  Prost A, Colbourn T, Seward N, Azad K, Coomarasamy
+ ing and action to improve maternal and newborn health
+ Lancet. 2013;381:1736-46. Medline:23683640 doi:10.1016/S0140-6736(13)60685-6
+ 
+<section> 12 L  uoto JE, Lopez Garcia I, Aboud FE, Singla DR, Fernald
+ promote child development in rural Kenya: a multi-arm,
+ Health. 2021;9:e309-19. Medline:33341153 doi:10.1016/S2214-109X(20)30469-1
+ 
+<section> 13 Z  uckerman B, Parker S, Kaplan-Sanoff M, Augustyn
+ practice. Pediatrics. 2004;114:820-6. Medline:15342859
+ 
+<section> 14  Grantham-McGregor S, Adya A, Attanasio O, Augsburg
+ Early Childhood Development in India: A Cluster RCT.
+ peds.2020-002725
+ 
+<section> 15 N  ational Bureau of Statistics of China. (2017, Quarter
+ stats.gov.cn/english/easyquery.htm?cn=B01. Accessed:
+ 
+<section> 16  Hu C. The significance of China’s overall poverty alleviation.
+ 
+<section> 17  Wang L, Liang W, Zhang S, Jonsson L, Li M, Yu C, et
+ China? J Comp Econ. 2019;47:458-469. doi:10.1016/j.jce.2019.02.003
+ 
+<section> 18 C  hina Development Research Foundation. Report on
+ development. Beijing: Chinese Development Press; 2017.
+ 
+<section> 19 L  uo R, Shi Y, Zhou H, Yue A, Zhang L, Sylvia S, et al.
+ ince in China. Nutrients. 2014;6:5975-91. Medline:25533008
+ 
+<section> 20 G  e H, Wu F. Analysis of the evolutionary context and
+ China. Modern Economic Research. 2019;449:21-8.
+ 
+<section> 21 X  u M, Liu A, Zhao C, Fang H, Huang X, Berman S, et
+ children age 6-18 months in rural Shanxi province, China:
+ Open. 2020;10:e037156. Medline:33077560 doi:10.1136/bmjopen-2020-037156
+ 
+<section> 22 F  enxi County People’s Government. Principal Aggregate
+ Growth Rates in Fenxi County in 2019. Available: http://www.fenxi.gov.cn/contents/2338/905177.html.
+ uary 2023.
+ 
+<section> 23 N  ational Bureau of Statistics. Available: https://data.stats.gov.cn/easyquery.htm?cn=C01.
+ 
+<section> 24  Shanxi Provincial Bureau of Statistics & Survey Office
+ Indicators on National Economic and Social Development
+ niandu/niandu. Accessed: 23 January 2023.
+ 
+<section> 25  Domek GJ, Cunningham M, Jimenez-Zambrano A, Dunn
+ menting an Early Childhood Health and Development
+ ture Directions. Adv Pediatr. 2017;64:381-401. Medline:28688599
+ 
+<section> 26  Domek GJ, Macdonald B, Cooper C, Cunningham M,
+ givers: assessing mothers’ knowledge before and after
+ Promot. 2019;26:61-9. Medline:28805505 doi:10.1177/1757975917714287
+ 
+<section> 27  W HO, UNICEF, The World Bank Group. Nurturing
+ dren survive and thrive to transform health and human
+ 
+<section> 28  Drummond M, Sculpher M, Torrance G, O’Brien B, Stoddart
+ grammes, 4th ed. Oxford: Oxford University Press; 2015.
+ 
+<section> 29  Grosse S, Krueger K. The Income-Based Human Capital
+ Economics. Journal of Forensic Economics. 2011;22:43-57.
+ 
+<section> 30  Kelly JF, Sandoval D, Zuckerman T, Buehlman K. Promote
+ and Emotional Development. Washington: University
+ 
+<section> 31 T  hyer BA, Myers LL. Social Learning Theory. J Hum
+ 
+<section> 32 Z  hong J, He Y, Chen Y, Luo R. Relationships between
+ holds in Western China. Int J Environ Res Public Health.
+ 
+<section> 33 B  rooker I, Poulin-Dubois D. Is parental emotional reliability
+ 2013;36:403-18. Medline:23612083 doi:10.1016/j.infbeh.2013.03.008
+ 
+<section> 34  Bailey H, Redden E, Pederson D, Moran G. Parental disavowal
+ cure attachment. Canadian Journal of Behavioural Science.
+ 
+<section> 35  K houry JE, Gonzalez A, Levitan R, Masellis M, Basile
+ maternal cortisol levels interact to predict infant cortisol
+ doi:10.1002/imhj.21554
+ 
+<section> 36 B  arnett WS, Escobar CM. Research on the cost effectiveness
+ and policy. Am J Community Psychol. 1989;17:677-704.
+ 
+<section> SN, Baker-Henningham H, et al. Integrating an early childhood de-
+ services: an open-label, cluster-randomised controlled trial.
+ doi:10.1016/S2214-109X(18)30535-7
+ and nutrition interventions in a community health program in
+ Sci. 2018;1419:160-78. Medline:29791730 doi:10.1111/nyas.13649
+ A, Copas A, et al. Women’s groups practising participatory learn-
+ in low-resource settings: a systematic review and meta-analysis.
+ 
+<section> LCH, Pitchik HO, et al. Group-based parenting interventions to
+ cluster-randomised community effectiveness trial. Lancet Glob
+ 
+<section> M, Barth MC. Healthy Steps: a case study of innovation in pediatric
+ doi:10.1542/peds.2003-0999-L
+ B, Behrman J, Caeyers B, et al. Group Sessions or Home Visits for
+ Pediatrics. 2020;146:e2020002725. Medline:33148771 doi:10.1542/
+ 3). Quarterly Indicators (Rural migrant labor). Available: http:// data.
+ 23 January 2023.
+ Red Flag Manuscript. 2021;2021:33-36.
+ al. Are infant/toddler developmental delays a problem across rural
+ child development in China 2017: anti-poverty and early childhood
+ Anemia and feeding practices among infants in rural Shaanxi Prov-
+ 
+<section> doi:10.3390/nu6125975
+ mechanism of the widening gap between the rich and the poor in
+ al. Group-based intervention to improve developmental status among
+ a study protocol for a cluster randomised controlled trial. BMJ
+ Indicators on National Economic and Social Development and
+ 
+<section> Accessed: 23 Jan-
+ 
+<section> Accessed: 23 January 2023.
+ of the National Bureau of Statistics in Shanxi. Principal Aggregate
+ and Growth Rates. Available: http://tjj.shanxi.gov.cn/sxsj-show/
+ 
+<section> D, Abdel-Maksoud M, Bronsert M, et al. Designing and Imple-
+ 
+<section> Program in Rural, Southwest Guatemala: Lessons Learned and Fu-
+ doi:10.1016/j.yapd.2017.04.003
+ Abdel-Maksoud M, Berman S. Group based learning among care-
+ an early childhood intervention in rural Guatemala. Glob Health
+ care for early childhood development: a framework for helping chil-
+ potential. Geneva: World Health Organization; 2018.
+ G. Methods for The Economic Evaluation of Health Care Pro-
+ Valuation Methods in Public Health Economics Used by Forensic
+ 
+<section> doi:10.5085/jfe.22.1.43
+ 
+<section> First Relationship: How to support Your Young Child’s Social
+ of Washington; 2010.
+ Behav Soc Environ. 1998;1:33-52. doi:10.1300/J137v01n01_03
+ Parenting Skills and Early Childhood Development in Rural House-
+ 2020;17:1506. Medline:32111043 doi:10.3390/ijerph17051506
+ predictive of toddlers’ learning and helping? Infant Behav Dev.
+ of relationship difficulties fosters the development of inse-
+ 2016;48:49-59. doi:10.1037/cbs0000033
+ V, Atkinson L. Maternal self – reported depressive symptoms and
+ levels. Infant Ment Health J. 2016;37:125-39. Medline:26939829
+ of early educational intervention: implications for research
+ Medline:2517672 doi:10.1007/BF00922734 
+<section> 37  Muntz R, Hutchings J, Edwards RT, Hounsome B,
+ 
+<section> REFERENCES severe behavioural problems. J Ment Health Policy
+ 
+<section> 38  Edwards RT, Céilleachair A, Bywater T, Hughes
+ risk of developing conduct disorder: cost effectiveness
+ bmj.39126.699421.55
+ 
+<section> 39  Lopez Garcia I, Saya UY, Luoto JE. Cost-effectiveness
+ mote early childhood development: Results from a randomized
+ Medline:34582449 doi:10.1371/journal.pmed.1003746
+ 
+<section> 40  Mendelsohn AL, Cates CB, Weisleder A, Berkule SB,
+ mary care as an innovative platform. Zero Three. 2013;34:29-40.
+ 
+<section> 41  Edwards R, Jones C, Berry V, Charles J, Linck P, Bywater
+ and implementation. J Child Serv. 2016;11:54-72.
+ 
+<section> 42  Shi H, Li X, Fang H, Zhang J, Wang X. The Effectiveness
+ Primary Health Care on Early Childhood Development:
+ Medline:32419119 doi:10.1007/s11121-020-01126-2
+ 
+<section> 43 N  ational Health Commission, Ministry of Finance,
+ work on the basic public health service project in 2021.
+ content_5624819.htm. Accessed: 23 January 2023.
+ 
+<section> 44  Wang C. The Third Way for Urbanization: Residing
+ sity. 2019;6:79-86.
+ 
+<section> Intervention to improve social-emotional development of young children
+ O’Céilleachair A. Economic evaluation of treatments for children with
+ Econ. 2004;7:177-89. Medline:15701933
+ DA, Hutchings J. Parenting programme for parents of children at
+ analysis. BMJ. 2007;334:682. Medline:17350965 doi:10.1136/
+ and economic returns of group-based parenting interventions to pro-
+ controlled trial in rural Kenya. PLoS Med. 2021;18:e1003746.
+ Dreyer BP. Promotion of early school readiness using pediatric pri-
+ 
+<section> T, et al. Incredible Years parenting programme: Cost-effectiveness
+ doi:10.1108/JCS-02-2015-0005
+ and Cost-effectiveness of a Parenting Intervention Integrated with
+ a Cluster-Randomized Controlled Trial. Prev Sci. 2020;21:661-71.
+ and Bureau of Traditional Chinese Medicine. Notification on completing
+ 2021. Available: http://www.gov.cn/zhengce/zhengceku/2021-07/14/
+ Between the Urban and the Rural Areas. Journal of Sichuan Univer-

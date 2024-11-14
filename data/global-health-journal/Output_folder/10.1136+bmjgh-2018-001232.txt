@@ -1,0 +1,1131 @@
+
+<section> To cite: Ekhaguere OA,
+ Oluwafemi RO, Badejoko B,
+ et al. Automated phone call and
+ text reminders for childhood
+ immunisations (PRIMM): a
+ randomised controlled trial
+ in Nigeria. BMJ Glob Health
+ 2019;4:e001232. doi:10.1136/
+ 
+<section> bmjgh-2018-001232
+ 
+<section> Handling editor Seye Abimbola
+ 
+<section> ► 
+<section> Additional material is
+ published online only. To view
+ please visit the journal online
+ (http://​dx.​doi.​org/​10.​1136/​
+ bmjgh-​2018-​001232).
+ 
+<section> EDL and APS are joint senior
+ authors.
+ 
+<section> Received 17 October 2018
+ Revised 21 January 2019
+ Accepted 25 January 2019
+ 
+<section> © Author(s) (or their
+ employer(s)) 2019. Re-use
+ permitted under CC BY-NC. No
+ commercial re-use. See rights
+ and permissions. Published by
+ BMJ.
+ For numbered affiliations see
+ end of article.
+ 
+<section> Correspondence to
+ Dr Osayame A Ekhaguere;
+ 
+<section> ​osaekhag@​iu.​edu
+ 
+<section> Automated phone call
+ 
+<section> reminders for childhood
+ 
+<section> (PRIMM): a randomised
+ 
+<section> in Nigeria
+ 
+<section> Osayame A Ekhaguere, ‍ 1 Rosena O Oluwafemi,
+ Lawal O Oyeneyin, 4 Azeez Butali, 5 Elizabeth
+ 
+<section> Abstract
+ 
+<section> Background Sub-Saharan Africa has high under-5
+ mortality and low childhood immunisation rates. Vaccine-
+ preventable diseases cause one-third of under-5 deaths.
+ Text messaging reminders improve immunisation
+ completion in urban but not rural settings in sub-Saharan
+ Africa. Low adult literacy may account for this difference.
+ The feasibility and impact of combined automated voice
+ and text reminders on immunisation completion in rural
+ sub-Saharan Africa is unknown.
+ 
+<section> Methods We randomised parturient women at the Mother
+ and Child Hospitals Ondo State, Nigeria, owning a mobile
+ phone and planning for child immunisation at these study
+ sites to receive automated call and text immunisation
+ reminders or standard care. We assessed the completion
+ of the third pentavalent vaccine (Penta-3) at 18 weeks of
+ age, immunisation completion at 12 months and within
+ 1 week of recommended dates. We assessed selected
+ demographic characteristics associated with completing
+ immunisations at 12 months using a generalised binomial
+ linear model with ‘log’ link function. Feasibility was
+ assessed as proportion of reminders received.
+ 
+<section> Results Each group had 300 mother−baby dyads with
+ similar demographic characteristics. At 18 weeks,
+ (86%) and 244 (81%) (risk ratio (RR) 1.05, 95% CI 0.98
+ to 1.13; p=0.15) in the intervention and control groups
+ received Penta-3 vaccine. At 12 months, 220 (74%) and
+ 196 (66%) (RR 1.12, 95% CI 1.01 to 1.25; p=0.04) in the
+ intervention and control groups received the measles
+ vaccine. Infants in the intervention group were more
+ likely to receive Penta-3 (84% vs 78%, RR 1.09, 95%
+ CI 1.01 to 1.17; p=0.04), measles (73% vs 65%, RR
+ 1.13, 95% CI 1.02 to 1.26; p=0.02) and all scheduled
+ immunisations collectively (57% vs 47%, RR 1.13, 95% CI
+ 1.02 to 1.26; p=0.01) within 1 week of the recommended
+ date. No demographic character predicted immunisation
+ completion. In the intervention group, 92% and 86%
+ reported receiving a verification reminder and at least one
+ reminder during the study period, respectively.
+ 
+<section> Conclusion Paired automated call and text reminders
+ significantly improved immunisation completion and
+ timeliness.
+ 
+<section> Trial registration number NCT02819895.
+ 
+<section> and text
+ 
+<section> immunisations
+ 
+<section> controlled trial
+ 
+<section> 2 Bolaji Badejoko,
+ D Lowenthal, 6 Andrew P Steenhoff
+ 
+<section> Key questions
+ 
+<section> What is already known?
+ 
+<section> ► In sub-Saharan Africa, text message reminders
+ alone improve childhood immunisation uptake in ur-
+ ban areas but not in rural areas where literacy levels
+ are lower.
+ 
+<section> ► Low adult literacy rates in sub-Saharan Africa may
+ limit the use of stand-alone text messaging reminder
+ systems.
+ 
+<section> What are the new findings?
+ 
+<section> ► In a semi-rural setting in Nigeria, paired automated
+ voice call and text immunisation reminders signifi-
+ cantly improved the completion and timely receipt
+ of immunisations.
+ 
+<section> ► Cost of transportation, distance to and length of time
+ spent at the immunisation clinics were additional
+ significant barriers to immunisation reported in this
+ setting.
+ 
+<section> What do the new findings imply?
+ 
+<section> ► Our results add to the body of literature on the im-
+ pact of phone reminders on immunisation comple-
+ tion and inform research on innovative solutions
+ capable of improving access to and efficiency of
+ immunisation clinics.
+ 
+<section> Introduction
+ Vaccine-preventable diseases are a leading
+ cause of under-5 mortality. 1 Sub-Saharan
+ Africa (SSA) and Southeast Asia─regions
+ with poor immunisation uptake and comple-
+ tion rates─carry 80% of the global under-5
+ mortality burden. 1 2 These regions contribute
+ significantly to the stalled global immuni-
+ sation coverage. 3 Nigeria has the highest
+ number of underimmunised and unimmu-
+ nised children worldwide. 3 4 A 2017 Nigerian
+ National Immunization Coverage Survey
+ estimated that 37% and 40% of children in
+ Nigeria aged 12–24 months were underim-
+ munised and unimmunised, respectively. 5 A 
+<section> fully immunised child is defined as one who received one
+ Bacille Calmette─Guerin (BCG), three pentavalent (ie,
+ diphtheria, tetanus, pertussis, Haemophilus influenzae type
+ B and hepatitis B), one yellow fever and measles vaccine
+ within the first year of life. The third dose of the pentava-
+ lent vaccine (Penta-3) is the global benchmark for vaccine
+ reporting. To meet the 2020 Global Vaccine Action Plan
+ targets, interventions that are innovative, cost-effective,
+ region and country specific are needed.
+ In high-income countries, immunisation reminders
+ through automated or real-time text and or calls improve
+ immunisation uptake and completion. 6 According to the
+ Nigerian National Immunization Coverage Survey report,
+ lack of awareness of recommendations for a child’s
+ immunisation is the biggest reason for not completing
+ the immunisation series─accounting for 42% of the
+ reported barriers. 5 With high mobile phone penetration
+ in Nigeria and other SSA countries, phone reminders
+ have the potential to help overcome this barrier.
+ Evidence from randomised controlled trials (RCTs)
+ conducted in urban areas of Zimbabwe, Nigeria and
+ Burkina Faso suggest text reminders alone improve
+ immunisation completion and timeliness. 7–9 However,
+ a recent RCT from rural Kenya contradicts these find-
+ ings. 10 In this study, text message alone did not improve
+ immunisation completion, but improved timeliness of
+ vaccine receipt. Only when text reminders were paired
+ with a higher monetary incentive did completion rates
+ improve. 10 Text reminders assume the recipient is literate
+ enough to read and understand the message. However,
+ 38% of African adults (some 153 million) are illiter-
+ ate─two-thirds of these being women. 11 Adult literacy is
+ often lower in rural compared with urban areas. 12 13 This
+ may account for the difference in effectiveness—an indi-
+ cation that text reminders alone are not appropriate in
+ this setting. In a study from a rural community in Nigeria,
+ the use of manual phone call immunisation reminders
+ significantly improved immunisation completion─a 41%
+ increase from controls. 14 However, this method is time
+ and human resource dependent and unlikely to garner
+ national application. With literacy being a limitation in
+ some areas, automated audible reminders in the native
+ languages may provide added benefit to text reminders.
+ We conducted the Phone Reminder for Immunisation
+ (PRIMM) trial to test the feasibility and effect of pairing
+ automated text and call reminders on immunisation
+ completion in a semi-rural setting in Nigeria. We hypoth-
+ esised that the Penta-3 vaccine and the completion of the
+ childhood immunisation series assessed at 12 months of
+ age would significantly improve with this intervention.
+ 
+<section> Methods
+ 
+<section> Study design
+ 
+<section> A two-arm parallel RCT was conducted at the Mother
+ and Child Hospital Ondo Town (MCH-Ondo) and Akure
+ (MCH-Akure), in Ondo State, Nigeria. The conduct,
+ analysis and reporting of results are in accordance with
+ the Consolidated Standards of Reporting Trials guide-
+ lines for reporting parallel group randomised trials.
+ The Nigerian government provides routine childhood
+ immunisation at no cost to recipients. Government-run
+ immunisation clinics are locations where vaccines are
+ routinely received. Dictated by the national programme
+ on immunisation, 16 the routine immunisation schedule
+ in Ondo State, Nigeria is as follows:
+ 
+<section> ► ► Birth: BCG, hepatitis B virus and oral polio vaccine
+ (OPV-0).
+ 
+<section> ► ► Six weeks: Penta-1, OPV-1, pneumococcal conjugate
+ vaccine (PCV-1) and rotavirus vaccine (Rota-1).
+ 
+<section> ► ► Ten weeks: Penta-2, OPV-2, Rota-2 and PCV-2.
+ 
+<section> ► ► Fourteen weeks: Penta-3, OPV-3, PCV-3 and inacti-
+ vated polio vaccine (IPV).
+ 
+<section> ► ► Six months: vitamin A.
+ 
+<section> ► ► Nine months: measles and yellow fever vaccine.
+ Immunisation clinic record-book audits were planned
+ to assess vaccination uptake. However, the study was
+ impacted by a hospital workers’ strike lasting 6 weeks (2
+ February to 15 March 2017). The strike interrupted enrol-
+ ment, immunisation receipt and monitoring. During this
+ period, parents sought other government and private
+ clinics for immunisations. We therefore amended our
+ study protocol to include phone audits for reporting
+ of immunisation uptake between weeks 18 and 30 of
+ each participant’s study enrolment period. This was to
+ limit misclassification of the immunisation endpoint. We
+ incorporated the phone call immunisation audit into the
+ planned mid-study survey. The applicable ethical review
+ bodies approved the amendment.
+ 
+<section> Study participants and setting
+ Parturient women and their healthy newborn infants
+ delivered at MCH-Ondo and Akure were eligible for
+ enrolment. We included mothers of healthy newborn
+ babies, who owned a mobile phone and planned to attend
+ the MCH immunisation clinics. We excluded mothers of
+ ill newborns, multiple births and those without mobile
+ phones.
+ The MCHs are state-run facilities. They provide free
+ healthcare services to pregnant women and children
+ under age 5, with most patients being middle-income and
+ low-income families. Each hospital runs its own immu-
+ nisation clinic. Ondo State is in the southwest region
+ of Nigeria. The main local language is Yoruba. The
+ projected 2016 population size from the 2006 national
+ census for Ondo Town and Akure are 389 900 and 486
+ 300, respectively. 17 The primary occupations of citizens
+ include farming, artisanship, trading and public service.
+ 
+<section> Study intervention
+ We developed a customised Windows software applica-
+ tion (app) designed to send automated voice call text
+ and email immunisation reminders. We integrated a
+ secure cloud communications platform, called Twilio,
+ into the app. Messaging and voice were sent by Twilio
+ through the app. Date of birth of the newborn and the 
+<section> phone number of the mother and father, when provided,
+ were inputed into the app. The immunisation reminders
+ were autocalculated from date of birth of the child and
+ tailored to the local immunisation schedule. At enrol-
+ ment, the registered phone number(s) received a veri-
+ fication message. Thereafter, reminders were sent 2 days
+ and the day before the scheduled date of the Penta-1,
+ 2, 3 and measles immunisations at 08:00. Eight sets of
+ reminders were sent to each participant. The delivery of
+ text and call occurred at the same time. Voicemail service
+ was not available during the study period.
+ The automated text message reminder was in English.
+ The text reminder read, ‘Reminder from MCH–Your baby's
+ next immunisation visit is in 2 days (or 1 day as appropriate).
+ Immunisation protects your child against killer diseases. Please
+ bring your baby for this visit’. The automated call reminder
+ was in English and Yoruba. The duration of the call was
+ s, had a 5 s delay before starting and expressed the same
+ message as the text. It cost US$0.0075 to send a text and
+ US$0.015/min for an automated call. There was no cost
+ to the recipient. Whether study participants received or
+ read the text message and whether participants listened
+ to audio messages in its entirety could not accurately be
+ determined from our telecommunications platform.
+ 
+<section> Study procedures
+ A research assistant at each site assessed mothers daily
+ in the postpartum ward for eligibility. We systemati-
+ cally recorded the number of screened women and the
+ reason for exclusion; however, due to a clerical error at
+ MCH-Ondo, the exact numbers and reasons are unavail-
+ able.
+ In developing the study protocol, we took into consid-
+ eration that the shortest interval between the pentava-
+ lent vaccines is 3 weeks. In Nigeria, the immunisation
+ schedule allows for only 4 weeks between Penta-1 and 2,
+ and between Penta-2 and 3. 18 We anticipated a potential
+ stacking of reminders, and immunisation ineligibility, if
+ there was any delay in receiving a scheduled immunisa-
+ tion greater than 1 week. Hence, a priori, we determined
+ the reminders for Penta-2 and 3 would be recalculated
+ from the date the Penta-1 and 2 were administered,
+ respectively. For those who did not receive either Penta-1
+ and or 2, the Penta-2 and 3 reminders were sent 2 weeks
+ after the Penta-1 and 2 were past due, respectively. We
+ performed daily audits of the immunisation clinic record
+ book. When vaccines were received later than expected,
+ the vaccine receipt date was used to calculate the next
+ scheduled vaccine accordingly.
+ A child-health immunisation card, which listed the
+ ages when a child was to receive his/her immunisa-
+ tion, comprised standard care. The intervention group
+ received the automated text and call reminder plus stan-
+ dard care, while the control group received only stan-
+ dard care.
+ We obtained data for the primary outcome from
+ immunisation clinic record books maintained at immu-
+ nisation clinics and during the mid-study phone survey
+ of all participants. Study research assistants called each
+ study participant on the telephone and obtained verbal
+ reports─name and date─of when Penta-1, 2 and 3 were
+ received. We assessed the receipt of measles vaccine
+ solely from the immunisation clinic record book. This
+ was because the health workers’ strike did not affect the
+ receipt or monitoring of the measles immunisation. We
+ did not physically audit the child-health immunisation
+ card given to parents and caregivers.
+ 
+<section> Study outcome
+ The primary outcome was the proportion of infants who
+ received the Penta-1, 2 and 3 immunisations (henceforth
+ referred to as Penta-3) at 18 weeks of age. The adminis-
+ tration of BCG vaccination occurs at hospital discharge.
+ Our intervention did not influence BCG receipt, and so
+ it was not included in our primary outcome. We defined
+ the secondary outcomes as completing Penta-3 and the
+ measles immunisation by 12 months of age and receiving
+ each within 1 week of the recommended time.
+ We assessed feasibility by the proportion of participants
+ who received the verification text and call at enrolment,
+ as well as those who reported receiving the reminders
+ during the mid-study survey. Additionally, using a socio-
+ ecological framework, we designed and administered a
+ pre-study survey to assess sociodemographic characteris-
+ tics of the mothers. We categorised the survey questions
+ into maternal demographics, knowledge about and atti-
+ tude towards immunisations, mothers’ health and health-
+ seeking behaviour, household demographic construct
+ and access to health facility and health information
+ related to immunisation. The mid-study survey was to
+ assess acceptability of the intervention, perception of
+ phone reminders by both groups and perceived barriers
+ to completing immunisations.
+ 
+<section> Randomisation and blinding
+ Mother–infant dyad assignments to study groups in a 1:1
+ ratio was by a permuted randomisation scheme, 19 using
+ balanced random blocks of 6, 8 or 10. We stratified the
+ randomisation by study site to account for centre popu-
+ lation differences.
+ Randomisation was done in May 2016 at The Children’s
+ Hospital of Philadelphia. Allocation assignments were
+ stored in sealed opaque envelopes and mailed via courier
+ to the local study principal investigators. Only after
+ obtaining written informed consent did the local study
+ teams know the allocation assignment. Neither study
+ participants nor research team were blinded. However,
+ the immunisation clinic staff─those who administered
+ and recorded immunisation─were blinded to study
+ group allocations.
+ 
+<section> Sample size and statistical methods
+ Based on audits of the 2015 MCH-Ondo immunisation
+ records and statewide reports, the baseline Penta-3
+ completion rate estimate was 75%. To account for a 10%
+ loss to follow-up, we needed 300 mother–infant dyads in 
+<section> each study arm to have a statistical power of 80% and
+ an alpha level of 0.05, to detect a 10% difference in the
+ primary outcome. We deemed this 10% difference to be
+ of public health importance.
+ With the protocol amendment, we defined two study
+ populations for the primary outcome analysis. First, a
+ modified intention-to-treat (mITT) population─defined
+ as all randomised subjects regardless of where immuni-
+ sation was received or audited—immunisation record
+ books or phone calls. The second was the per-protocol
+ (PP) population─defined as all subjects who received
+ immunisations only at MCH-Ondo or Akure and had
+ immunisation receipt audited solely from the immunisa-
+ tion clinic record books.
+ We compared demographic characteristics and post-
+ study survey variables between study groups using stan-
+ dard descriptive statistics. We used two-sample t-test or
+ Wilcoxon rank-sum test for continuous variables and χ
+ test or Fisher’s exact test for categorical variables. Risk
+ ratios and risk difference were calculated for the primary
+ and secondary outcomes. In a post hoc analysis, we used a
+ generalised linear model for binomial distributions with
+ ‘log’ link function to examine the association of selected
+ demographic characteristics by study group on immuni-
+ sation completion at 12 months. The selected variables
+ were based on demographic factors reported in the liter-
+ ature to influence immunisation completion. 5 10 20–22 We
+ tested interaction effects of the demographic factors with
+ the study group and report the p values for the interac-
+ tion effects. Results are expressed as risk ratio along with
+ their corresponding 95% CIs. Data were analysed using
+ Stata V.15.1 (StataCorp, College Station, Texas, USA)
+ with a two-sided significance level of 0.05.
+ 
+<section> Results
+ 
+<section> We enrolled 250 mother–infant dyads from MCH-Ondo
+ and 350 from Akure between August 2016 and June 2018.
+ Five (0.8%) infants died during the follow-up period,
+ (8%) were lost to follow-up for the primary outcome
+ and 184 (31%) for the 12-month outcomes (figure),
+ while 155 (26%) received the Penta-3 immunisation at a
+ different clinic.
+ 
+<section> Characteristics of study subjects
+ Infant and maternal demographic information were
+ similar in both groups (table 1). Newborns were 48%
+ female; the mean (SD) birth weight was 3040 g (485) and
+ median (IQR) gestational age at birth was 38 (37─38)
+ weeks, respectively (table 1). The majority of mothers
+ were aged 18–35 years (88%), married (98%), and had
+ a university (58%) or secondary education (39%). There
+ were no differences in maternal knowledge about and
+ attitude towards immunisation, mothers’ health and
+ health-seeking behaviour, household demographics or
+ access to health facility and health information related to
+ immunisation (table 1).
+ 
+<section> Primary and secondary analyses
+ For the Penta-3 completion, there was no significant
+ difference between the intervention and control groups
+ in either the mITT population assessed at 18 weeks (86%
+ vs 81%, risk ratio (RR) 1.05, 95% CI 0.98 to 1.13; p=0.15)
+ (table 2), 12 months (online supplementary table 1 and
+ figure) or in the PP population (91% vs 88%, RR 1.03,
+ 95% CI 0.97 to 1.10; p=0.37) (online supplementary
+ table 2). The proportion of infants who completed the
+ 12-month immunisation series was significantly higher in
+ the intervention compared with the control group (74%
+ vs 66%, RR 1.12, 95% CI 1.01 to 1.25; p=0.03) (table 2).
+ To achieve completion of the immunisation series for one
+ infant, 12.5 parents would need to receive the call and
+ text message reminders. The proportion of infants who
+ received the Penta-3 and measles immunisation within
+ week of the expected date was also significantly higher in
+ the intervention compared with the control groups (84%
+ vs 78%, RR 1.09, 95% CI 1.01 to 1.17, p=0.04 and 73% vs
+ 65%, RR 1.33, 95% CI 1.02 to 1.26, p=0.02, respectively)
+ (table 3). Those who collectively received all immu-
+ nisations within a week of the expected date were also
+ significantly higher in the intervention compared with
+ the control group (57% vs 47%, RR 1.22, 95% CI 1.04 to
+ 1.43; p=0.01) (table 3). In the post hoc subgroup analysis,
+ there was no difference in the immunisation rates by the
+ selected demographic variables assessed (table 4).
+ 
+<section> Feasibility, acceptability of intervention and barriers to
+ completing immunisation assessed during the mid-study
+ 
+<section> survey
+ 
+<section> At enrolment, 277 (92%) of those in the intervention
+ group received a confirmatory text and call. Failed
+ delivery resulted from poor local telecommunication
+ service. It affected either internet or mobile phone
+ connectivity. The mid-study survey was completed by
+ 276 (92%) and 281 (94%) subjects in the control and
+ intervention groups, respectively. In the intervention
+ group, 86% reported they received reminders at least
+ once during the study period. Twenty-five mothers (13%)
+ reported receiving a partial or an unclear text reminder.
+ Sixty-six per cent thought the text and calls were overall
+ useful in reminding them of their child’s appointment
+ and 78% reported it reminded them all or some of the
+ time of appointment dates.
+ Based on the survey data, the biggest reported barriers
+ to completing immunisations were long wait times in
+ (55%) and transportation cost in 187 (34%). Forgetful-
+ ness (12; 2.2%) was one of the least reported barriers
+ to completing the routine immunisation series (online
+ supplementary tables 3 and 4).
+ 
+<section> Discussion
+ 
+<section> Paired automated calls with text immunisation reminders
+ significantly improved the proportion of infants who
+ completed all routine immunisations by 12 months of
+ age and the timeliness of vaccines administered late in 
+<insert> Table 1 Infant and maternal demographics by study group 
+<iend>
+
+ 
+<section> Infant demographics
+ 
+<section>  Female, n (%)
+  Birth weight, g, mean (SD)
+  Gestational age, weeks, median (IQR)
+ 
+<section> Maternal demographics
+ 
+<section>  Age, years, mean (SD)
+ 
+<section>  Married, n (%)
+ 
+<section>  Maternal education†
+ 
+<section> ► ► University
+ 
+<section> ► ► Secondary
+ 
+<section> ► 
+<section> ► Primary
+ 
+<section> ► ► No education
+ Maternal profession, n (%)*
+ 
+<section> ► ► Professional, top civil servant, politician or businesswoman
+ 
+<section> ► ► Middle bureaucrats, technicians, skilled artisans, well-to-do
+ 
+<section> trader
+ 
+<section> ► ► Unskilled worker
+ 
+<section> ► ► Housewife, unemployed
+ 
+<section>  Christian, n (%)
+  No of children age ≤5, n (%)
+ 
+<section> ► 
+<section> ►
+ 
+<section> ► 
+<section> ►
+ 
+<section> ► 
+<section> ►
+ Maternal access to health facility and health information n (%)
+ 
+<section>  Mother can drive
+ 
+<section>  Mother owns car
+  Transportation to hospital n (%)
+ 
+<section> ► 
+<section> ► Walk
+ 
+<section> ► ► Public transportation
+ 
+<section> ► ► Personal car
+  Average cost of transportation to immunisation clinic (US$),
+ 
+<section> median (IQR)
+  Average time to the hospital (min), median (IQR)
+  Report viewing or hearing advertisements about immunisations,
+  Most times (at least twice a week)
+  Sometimes (at least twice a month/<twice a week)
+ 
+<section>  Never
+ Mother's knowledge about and attitude towards immunisations,
+  Agree, immunisations prevent disease (agree)
+  Agree, immunisation prevents diseases that can lead to death
+  Disagree, immunisations harmful to child
+  Knew immunisations are completed within 1 year of life
+  Able to name two diseases immunisation prevents
+ Mother's health and health-seeking behaviours, n (%)
+ 
+<section>  Rates health as good
+ 
+<section> Intervention
+ Control (n=300) (n=300) Total (N=600)
+ 
+<section> 137 (47.4) 152 (52.6) 289 (48.2)
+ 3081.0 (505.5) 3118.7 (463.1) 3099.8 (484.7)
+ 38 (37–38) 38 (37–38) 38 (37–38)
+ 
+<section> 30 (5) 
+<section> 30 (5) 
+<section> 30 (5)
+ 
+<section> 292 (97) 
+<section> 297 (99) 
+<section> 589 (98)
+ 
+<section> 163 (54.3) 183 (61.0) 346 (57.7)
+ 123 (41.0) 109 (36.3) 232 (38.7)
+ 
+<section> 14 (4.7) 7 (2.3) 
+<section> 21 (3.5)
+ 0 (0.0) 1 (0.3) 1 (0.2)
+ 
+<section> 116 (38.7) 110 (37.0) 226 (37.9)
+ 70 (23.3) 75 (25.3) 145 (24.3)
+ 
+<section> 60 (20.0) 56 (18.9) 116 (19.4)
+ 54 (18.0) 56 (18.9) 110 (18.4)
+ 279 (93.0) 280 (93.3) 559 (93.2)
+ 
+<section> 149 (50.5) 164 (54.8) 313 (52.7)
+ 108 (36.6) 111 (37.1) 219 (36.9)
+ 
+<section> 38 (12.9) 
+<section> 24 (8.0) 
+<section> 62 (10.4)
+ 
+<section> 40 (13) 
+<section> 48 (16) 
+<section> 88 (15)
+ 
+<section> 25 (8) 
+<section> 37 (12) 
+<section> 62 (10)
+ 
+<section> 13 (4.3) 8 (2.7) 
+<section> 21 (3.5)
+ 239 (79.7) 237 (79.0) 476 (79.3)
+ 48 (16.0) 55 (18.3) 103 (17.2)
+ 0.6 (0.4–0.9) 0.6 (0.4–0.9) 0.6 (0.4–0.9)
+ 
+<section> 20 (12.5–30) 20 (10–25) 20 (10–25)
+ n (%)
+ 152 (50.8) 165 (55.0) 317 (52.9)
+ 118 (39.5) 111 (37.0) 229 (38.2)
+ 
+<section> 29 (9.7) 
+<section> 24 (8.0) 
+<section> 53 (8.8)
+ n (%)
+ 295 (98.3) 296 (98.7) 591 (98.5)
+ 245 (81.7) 247 (82.3) 492 (82.0)
+ 292 (97.3) 290 (97.0) 582 (97.2)
+ 245 (82.2) 251 (83.7) 496 (82.9)
+ 170 (56.7) 184 (61.3) 354 (59.0)
+ 
+<section> 295 (98.3) 290 (96.7) 585 (97.5)
+ 
+<section> Continued 
+<insert> Control (n=300)
+ Intervention
+ (n=300) Total (N=600)
+  Attended antenatal care 298 (99.7) 296 (98.7) 594 (99.2)
+  Received antimalaria prophylaxis 262 (87.3) 259 (86.3) 521 (86.8)
+  Received prenatal vitamin 237 (80.1) 227 (76.9) 464 (78.5)
+ 36.3 (5.79) 36.1 (5.67) 36.2 (5.73)
+ ► ► University 194 (64.9) 192 (64.0) 386 (64.4)
+ ► ► Secondary
+ Household sociodemographic construct
+  Father’s age, years, mean (SD)
+  Father’s education† n (%)
+ 100 (33.4) 102 (34.0) 202 (33.7)
+ ► ► Primary 4 (1.3) 5 (1.7) 9 (1.5)
+ ► ► No school 1 (0.3) 1 (0.3) 2 (0.3)
+  Domestic help present, n (%) 45 (15.1) 45 (15.1) 90 (15.1)
+  Family member at home to help, n (%) 216 (72.0) 220 (73.8) 436 (72.9)
+  Father’s perception of immunisation positive, n (%) 297 (99.7) 299 (99.7) 596 (99.7)
+  Extended family perception of immunisation positive, n (%) 273 (91.3) 267 (89.0) 540 (90.2)
+  Has someone to bring child for immunisation if mother cannot,
+ n (%)
+  Has someone to watch over other child while at immunisation
+ visit, n (%)
+ 92 (30.8) 98 (32.9) 190 (31.8)
+ 158 (68.4) 163 (70.9) 321 (69.6)
+ *A director or manager of a government entity is an example of a top civil servant, while a clerk, typist or cashier is an example of a middle
+ bureaucrat.
+ †Educational level indicates having some or completed the level of education.
+ Table 1 Continued 
+<iend>
+
+ 
+<insert> Table 2 Effect of Intervention on primary and secondary outcomes by study group*
+ Immunisation Control (n=300) Intervention (n=300) RR (95% CI) RD (95% CI) P value
+ Penta-1† n (%)
+ Penta-2† n (%)
+ 289 (97)
+ 278 (93)
+ 285 (95)
+ 276 (92)
+ 0.98 (0.95 to 1.02)
+ 0.99 (0.95 to 1.04)
+ −0.02 (−0.05 to 0.015)
+ −0.01 (−0.04 to 0.05)
+ 0.31
+ 0.76
+ Penta-3† n (%)
+ Measles‡ n (%)
+ 244 (81)
+ 196 (66)
+ 257 (86)
+ 220 (74)
+ 1.05 (0.98 to 1.13)
+ 1.12 (1.01 to 1.25)
+ 0.04 (−0.02 to 0.10)
+ 0.08 (0.01 to 0.15)
+ 0.15
+ 0.03
+ *Modified intention-to-treat analysis; includes all subjects regardless of where immunisation was received or how it was audited.
+ †Assessed at 18 weeks.
+ ‡Assessed at 12 months.
+ RD, risk difference; RR, risk ratio. 
+<iend>
+
+ the immunisation schedule. For the primary outcome,
+ however, Penta-3 completion rates were higher than
+ anticipated in both groups and not significantly different
+ between groups.
+ For the Penta-3 completion, our findings differ from
+ trials where text messages reminders alone were used in
+ urban SSA settings, 7–9 but are similar to a trial in rural
+ Kenya. 10 This may indicate that low literacy may not
+ account for the lack of effectiveness of text reminders.
+ An inappropriate study population may also explain
+ this difference. Although we did not assess literacy level
+ directly, 58% and 39% of our study participants had at
+ least some university or secondary education, respectively.
+ Lack of ‘awareness’ ranks highest among barriers to
+ immunisation completion reported by the Nigerian
+ National Immunization Survey. 5 The relatively high
+ awareness among the standard of care group in our
+ study may reflect above-average site-specific counselling.
+ Cost of transportation, distance to and overall ‘condu-
+ civeness’ at the clinics were the most frequent barriers
+ to immunisation in our study population. These barriers
+ have also been reported in trials conducted in Kenya and
+ Nigeria. 8 22 Furthermore, they have attracted research
+ interest from organisations like the Bill and Melinda
+ Gates foundation in recent years.
+ Findings from a study in rural Nigeria where real-
+ time phone call immunisation reminders significantly
+ improved immunisation completion premised our intent
+ to use automated calls. 14 The Nigeria study found a 41%
+ increase in immunisation completion. 14 Our intervention
+ also resulted in improvements in immunisation comple-
+ tion at 12 months, with a smaller effect. Methodological 
+<insert> Immunisation n (%) Control (n=300) Intervention (n=300) RR (95% CI) P value
+ Penta-1 at 6 weeks
+ Penta-2 at 10 weeks
+ 250 (83)
+ 252 (84)
+ 257 (86)
+ 256 (85)
+ 1.03 (0.96 to 1.10)
+ 1.02 (0.95 to 1.09)
+ 0.43
+ 0.65
+ Penta-3 at 14 weeks 233 (78) 253 (84) 1.09 (1.01 to 1.17) 0.04
+ Measles at 9 months
+ All immunisations
+ 194 (65)
+ 140 (47)
+ 220 (73)
+ 171 (57)
+ 1.13 (1.02 to 1.26)
+ 1.22 (1.04 to 1.43)
+ 0.02
+ 0.01
+ *Modified intention-to-treat analysis. Includes all subjects regardless of where immunisation was received or how it was audited.
+ †Timeliness defined as receiving vaccinations within 1 week of their due date.
+ RR, risk ratio.
+ Table 3 Timely receipt of immunisation—individually and collectively by study group*† 
+<iend>
+
+ 
+<insert> Table 4 Subgroup analysis of completing immunisation by 12 months of age by study group
+ Characteristic Control (n=300) (%)
+ Intervention (n=300)
+ (%)
+ Stratum-specific RR
+ (95% CI)
+ Sex
+ ► ► Male
+ ► ► Female
+ Maternal education
+ ► ► Completed university
+ ► ► Did not complete university
+ 112/163 (69)
+ 86/137 (63)
+ 116/148 (78)
+ 105/152 (69)
+ 1.14 (1.00 to 1.30)
+ 1.10 (0.93 to 1.30)
+ 0.74
+ 124/163 (76)
+ 74/137 (54)
+ 144/183 (79)
+ 77/117 (66)
+ 1.22 (1.00 to 1.49)
+ 1.03 (0.92 to 1.16)
+ 0.17
+ Mothers age (years) 28/40 (70)
+ 169/259 (65)
+ 22/30 (73)
+ 199/270 (74)
+ 1.05 (0.78 to 1.41)
+ 1.13 (1.01 to 1.27)
+ 0.21
+ 94/146 (64)
+ 101/149 (68%)
+ 104/135 (77)
+ 117/164 (71%)
+ 1.20 (1.03 to 1.39)
+ 1.05 (0.91 to 1.22)
+ 0.23
+ Mother owns a car
+ ► ► No
+ ► ► Yes
+ 180/275 (65)
+ 18/25 (72)
+ 192/263 (73)
+ 29/37 (78)
+ 1.12 (1.00 to 1.25)
+ 1.09 (0.81 to 4.47)
+ 0.88
+ Mother’s mode of transportation
+ ► ► Public transportation or walk
+ ► ► Personal car
+ 171/252 (68)
+ 27/48 (56)
+ 183/245 (75)
+ 38/55 (69)
+ 1.10 (0.98 to 1.23)
+ 1.23 (0.91 to 1.67)
+ 0.51
+ 1.00 (0.98 to 1.23)
+ 1.23 (0.91 to 1.67)
+ 0.51
+ 1.08 (0.96 to 1.21)
+ 1.24 (1.00 to 1.15)
+ 0.27
+ 1.24 (0.98 to 1.57)
+ 1.06 (0.96 to 1.18)
+ 0.25
+ ► ► >35
+ ► ► ≤35
+ No of children under age
+ ► ► >1
+ ► ► ≤1
+ Able to name two diseases
+ immunisation prevents
+ ► ► No
+ ► ► Yes
+ Someone to bring child for
+ immunisation if mother cannot
+ ► ► No
+ ► ► Yes
+ Study site location
+ ► ► Ondo Town
+ ► ► Akure
+ 64/92 (70)
+ 134/208 (640
+ 57/82 (70)
+ 164/218 (75)
+ 145/207 (70%)
+ 53/92 (58%)
+ 59/125 (47%)
+ 139/175 (79%)
+ 151/200 (76%)
+ 70/98 (71%)
+ 73/125 (58%)
+ 148/175 (85%)
+ P value
+ Data are n/N (%) and RR (95% CI). P values obtained from an interaction term between intervention.
+ RR, risk ratio. 
+<iend>
+
+ differences may explain effect size differences. While
+ our study sent out two reminder calls 2 days and the day
+ before the immunisation due date, the prior published
+ study used two real-time reminder phone calls plus four
+ recalls if immunisations were missed as the primary
+ intervention. 14 Furthermore, and likely of importance, is
+ the absence of the human element in automated calls.
+ The ability to empathise, counsel and reassure mothers
+ during a real-time phone call is lost with automation.
+ However, with current resource and organisational
+ limitations, real-time phone calls plus recalls is time and
+ human resource dependent and likely to result in a high
+ implementation cost. Taking it to scale and sustenance
+ will also be a challenge. Since most studies where text was
+ used yielded between 60% and 80% completion rates,
+ automated text and/or calls could serve as a first-pass
+ reminder to be followed by real-time phone calls when
+ immunisations are delayed. This may prove to be a more 
+<section> cost-effective strategy. Digital immunisation registries
+ can potentially improve the efficiency of this process by
+ simplifying identification of defaulters.
+ In our study, we demonstrated modest feasibility insti-
+ tuting a customised automated text and call immunisa-
+ tion reminder system. However, poor phone and internet
+ connectivity resulted in 8% delivery failure at enrolment.
+ Furthermore, only 86% reported receiving at least one
+ set of reminders during the study period. Phones that
+ were switched off or had poor reception when messages
+ were sent were the most common reported reasons for
+ not receiving phone reminders. This is a limitation in
+ web-based text and call systems which lack the ability to
+ queue messages until the switched off phone is turned
+ back on or a phone in poor reception areas moves to
+ an area with better reception. In addition, voicemail is
+ uncommon in these settings. We speculate that a system
+ that uses the available local telecommunication network,
+ which is usually more redundant, and has the capacity to
+ provide more accurate log data, may yield better results.
+ Our study had some limitations. A 2015 institutional
+ audit and state reported Penta-3 completion rates
+ informed our sample size estimation. This likely under-
+ estimated the true institutional completion for those
+ committed to receiving their immunisations at only
+ MCH clinic. Furthermore, we introduced selection bias
+ by recruiting only parents who planned for their child to
+ receive immunisations only at MCH. Ondo state govern-
+ ment during the study period provided free maternal
+ care. Women in lower socioeconomic classes may have
+ been those who lived further away and only used MCH
+ for its free services. However, this was necessary to allow
+ us to ascertain our intended primary outcome (immu-
+ nisations confirmed by clinic records). The inclusion of
+ women who own phones limits the generalisation of our
+ results. Another limitation was the workers’ strike. Unfor-
+ tunately, this reflects a common reality in SSA and a need
+ to strengthen the healthcare system. We were, however,
+ able to retain 92% of the enrolled population for the
+ primary outcome. Due to a clerical error, the number of
+ subjects who refused or were ineligible for the study at
+ MCH-Ondo could not be determined (figure). Another
+ limitation is our inability to access reminder messaging
+ log from our web-based platform. This is a limitation in
+ most similar trials from SSA with only one trial reporting
+ log data. 10 Finally, although we intended to overcome
+ low literacy levels by adding voice call reminders, 97% of
+ study participants had at least secondary education.
+ The strengths of our study include a randomisation
+ strategy that resulted in balanced demographic charac-
+ teristics between study groups. We also used a more prac-
+ tical approach to study participant’s message receipt as a
+ proxy to assess feasibility.
+ 
+<section> Conclusions
+ In a semi-rural region in Nigeria, the implementation
+ of an automated text and call immunisation system was
+ modestly feasible. The phone reminders significantly
+ improved immunisation completion and timeliness. This
+ study adds to the growing evidence of the effectiveness of
+ phone reminders in SSA. Factors such as transportation
+ cost, distance to and overall ‘immunisation clinic condu-
+ civeness’ were the most frequently reported barriers
+ to immunisation. Combining reminder systems with
+ innovative solutions capable of improving access to and
+ efficiency of immunisation clinics are likely to improve
+ immunisation uptake and completion in Nigeria and
+ other SSA countries.
+ 
+<section> Author affiliations
+ Neonatal-Perinatal Medicine, Department of Pediatrics, Indiana University,
+ 
+<section> Indianapolis, Indiana, United States
+ Department of Pediatrics, Mother and Child Hospital, Akure, Ondo State, Nigeria
+ Department of Pediatrics, Mother and Child Hospital, Ondo Town, Ondo State,
+ 
+<section> Nigeria
+ Department of Obstetrics and Gynecology, Mother and Child Hospital, Ondo Town,
+ 
+<section> Ondo State, Nigeria
+ Department of Oral Pathology, Radiology and Medicine, College of Dentistry,
+ University of Iowa, Iowa City, Iowa, USA
+ Pediatrics and Epidemiology, Perelman School of Medicine, Philadelphia,
+ 
+<section> Pennsylvania, USA
+ Division of Infectious Diseases, The Children’s Hospital of Philadelphia,
+ 
+<section> Philadelphia, PA, USA
+ 
+<section> Acknowledgements We thank the mothers and infants who participated in this
+ study. The authors wish to thank the Ondo State Ministry of Health and The Mother
+ and Child Hospitals. The authors also thank the research assistants on this project,
+ Busola Akingboye and Tosin Akinrinola. We thank Okan Elci for performing the
+ statistics and Akinwande Benka-Coker for additional statistical support. We would
+ also like to thank Priscilla Dikko for her administrative duties and Abdulwahab
+ Suleiman for developing and refining the customised software used for this study.
+ We wish to thank the Christiansen Professorship for Global Oral Health at the
+ University of Iowa for the support provided to conduct the study to develop the text
+ and voice message content. Special thanks to all facilitators at the nominal group
+ technique meeting. We appreciate Sara Demuaro for randomisation sequence
+ generation and Eric Jensen and Heather French for the technical advice they
+ provided.
+ 
+<section> Contributors OAE and AB conceptualised the study. OAE developed the study
+ design, study protocol, performed research assistant training, implemented the
+ project and wrote the first draft. AS and EL provided critical technical assistance
+ in study design, protocol development, project implementation and manuscript
+ review. AS and EL contributed equally as senior authors. ROO and BB were local
+ site PIs. They coordinated all aspects of the study; they provided oversight and
+ supervision of the research assistants. ROO, AB and LO provided administrative
+ assistance for the study and provided critical review of the manuscript.
+ 
+<section> Funding The study was funded by the Thrasher Research Fund (award no.
+ 13813). OAE was awarded a Thrasher Early Career Development Grant as a
+ neonatal-perinatal medicine fellow at the Children's Hospital of Philadelphia. The
+ corresponding author had full access to all the data in the study and had final
+ responsibility for the decision to submit for publication.
+ 
+<section> Disclaimer The funder of the study had no role in study design, data collection, data
+ analysis, data interpretation or writing of the report.
+ 
+<section> Competing interests None declared.
+ 
+<section> Patient consent for publication Obtained.
+ 
+<section> Ethics approval Obtained from the Health Research Ethics Board of the Mother
+ and Child Hospitals, the Ondo State Ministry of Health and the Children’s Hospital of
+ Philadelphia Institutional Review Board.
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data sharing statement All available data can be obtained by contacting the
+ corresponding author. All data requests should be submitted to the corresponding
+ author for consideration. Access to anonymised data may be granted following
+ review. 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which
+ permits others to distribute, remix, adapt, build upon this work non-commercially,
+ and license their derivative works on different terms, provided the original work is
+ properly cited, appropriate credit is given, any changes made indicated, and the
+ use is non-commercial. See: http://​creativecommons.​org/​licenses/​by-​nc/​4.​0/.
+ 
+<section> References
+ 1. Liu L, Oza S, Hogan D, et al. Global, regional, and national causes
+ of under-5 mortality in 2000–15: an updated systematic analysis
+ with implications for the sustainable development goals. Lancet
+ 2016;388:3027–35.
+ 2. Hug L, Sharrow D, You D. Estimates developed by the UN Inter-
+ agency group for child mortality estimation, 2017.
+ 3. WHO, 2018. Data, statistics and graphics. Available: http://www.​
+ who.​int/​immunization/​monitoring_​surveillance/​data/​en/ [Accessed
+ Jun 2018].
+ 4. WHO, 2018. Immunization coverage. Available: http://www.​who.​int/​
+ en/​news-​room/​fact-​sheets/​detail/​immunization-​coverage [Accessed
+ 
+<section> 24 Apr 2018].
+ 5. IVAC, 2018. Nigeria national immunization coverage survey
+ 2016–2017. Available: https://www.​jhsph.​edu/​research/​centers-​and-​
+ institutes/​ivac/​resources/​Nigeria-​National-​Immunization-​Coverage-​
+ Survey [Accessed 22 Apr 2018].
+ 6. Jacobson Vann JC, Jacobson RM, Coyne-Beasley T, et al. Patient
+ reminder and recall interventions to improve immunization rates.
+ 
+<section> Cochrane Database Syst Rev 2018;1.
+ 7. Bangure D, Chirundu D, Gombe N, et al. Effectiveness of short
+ message services reminder on childhood immunization programme
+ in Kadoma, Zimbabwe–a randomized controlled trial, 2013. BMC
+ Public Health 2015;15:137–015.
+ 8. Eze GU, Adeleye OO. Enhancing routine immunization performance
+ using innovative technology in an urban area of Nigeria. West Afr J
+ Med 2015;34:3–10.
+ 9. Schlumberger M, Bamoko A, Yaméogo TM, et al. Impact positif sur
+ le Programme élargi de vaccinations de l’envoi de SMS de rappel
+ à partir d’un registre informatisé, Bobo-Dioulasso (Burkina Faso).
+ 
+<section> Bulletin de la Société de pathologie exotique 2015;108:349–54.
+ 10. Gibson DG, Ochieng B, Kagucia EW, et al. Mobile phone-delivered
+ reminders and incentives to improve childhood immunisation
+ coverage and timeliness in Kenya (M-SIMU): a cluster randomised
+ controlled trial. The Lancet Glob Health 2017;5:e428–38.
+ Literacy United Nations Educational. Scientific and cultural
+ organization. Available: //www.​unesco.​org/​new/​en/​dakar/​education/​
+ literacy [Accessed 27 Jul 2018].
+ Coulombe H, Lanjouw P. Poverty, access to services and city size
+ in a selection of African countries. Washington, DC: World Bank,
+ 2013mimeo..
+ Zhang Y. Urban-rural literacy gaps in sub-Saharan Africa: the roles
+ of socioeconomic status and school quality. Comp Educ Rev
+ 2006;50:581–602.
+ Brown VB, Oluwatosin OA, Akinyemi JO, et al. Effects of community
+ health nurse-led intervention on childhood routine immunization
+ completion in primary health care centers in Ibadan, Nigeria. J
+ Community Health 2016;41:265–73.
+ Moher D, Hopewell S, Schulz KF, et al. Consort 2010 explanation
+ and elaboration: updated guidelines for reporting parallel group
+ randomised trials. Int J Surg 2012;10:28–55.
+ Ophori EA, Tula MY, Azih AV, et al. Current trends of immunization
+ in Nigeria: prospect and challenges. Trop Med Health
+ 2014;42:67–75.
+ Ondo Statestate Bureau of Statistics, 2018. Home page. Available:
+ http://www.​ondostatistics.​org/​ondo_​profile.​php [Accessed 11 Jul
+ 2018].
+ WHO, 2018. Vaccine position papers. Available: http://www.​who.​
+ int/​immunization/​documents/​positionpapers/​en/ [Accessed 10 Oct
+ 2018].
+ Matts JP, Lachin JM. Properties of permuted-block randomization in
+ clinical trials. Control Clin Trials 1988;9:327–44.
+ Adedokun ST, Uthman OA, Adekanmbi VT, et al. Incomplete
+ childhood immunization in Nigeria: a multilevel analysis of individual
+ and contextual factors. BMC Public Health 2017;17.
+ Antai D. Inequitable childhood immunization uptake in Nigeria: a
+ multilevel analysis of individual and contextual determinants. BMC
+ Infect Dis 2009;9.
+ Haji A, Lowther S, Ngan'ga Z, et al. Reducing routine vaccination
+ dropout rates: evaluating two interventions in three Kenyan districts,
+ 2014. BMC Public Health 2016;16:152–016.
+ Global Grand Challenges. Innovations in immunization data
+ management, use, and improved process efficiency (round 21)
+ grand challenges. Available: ​gcgh.​grandchallenges.​org/​challenge/​
+ innovations-​immunization-​data-​management-​use-​and-​improved-​
+ process-​efficiency-​round-​21 [Accessed 9 Sep 2018].

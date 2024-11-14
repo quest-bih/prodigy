@@ -1,0 +1,1601 @@
+
+<section> Selective laser trabeculoplasty versus
+ 
+<section> for the treatment of glaucoma in Tanzania:
+ 
+<section> controlled trial
+ 
+<section> Heiko Philippin, Einoti Matayan, Karin M Knoll, Edith Macha, Sia Mbishi, Andrew Makupa,
+ Awum Joyce Ncheda, Francisco Alcides Mulobuana, Elisante Muna, Nelly Fopoussi, Gus
+ David Macleod, William U Makupa, Matthew J Burton
+ 
+<section> Summary
+ 
+<section> Background Glaucoma is a major cause of sight loss worldwide, with
+ reported in Africa. The most common low-cost treatment used to control
+ However, low adherence is a major challenge. We aimed to investigate
+ was superior to timolol eye drops for controlling intraocular pressure
+ 
+<section> Methods We did a two-arm, parallel-group, single-masked randomised
+ Kilimanjaro Christian Medical Centre, Moshi, Tanzania. Eligible participants
+ and an IOP above 21 mm Hg, and did not have asthma or a history
+ randomly assigned (1:1) to receive 0·5% timolol eye drops to administer
+ outcome was the proportion of eyes from both groups with treatment
+ pressure according to glaucoma severity, at 12 months following randomisation.
+ or a repeat SLT was permitted once. The primary analysis was by modified
+ to follow-up, using logistic regression; generalised estimating equations
+ eyes. This trial was registered with the Pan African Clinical Trials Registry,
+ 
+<section> Findings 840 patients were screened for eligibility, of whom 201 (24%)
+ between Aug 31, 2015, and May 12, 2017. 100 (50%) participants (191
+ group and 101 (50%; 191 eyes) to the SLT group. After 1 year, 339
+ successful in 55 (31%) of 176 eyes in the timolol group (16 [29%] of 55
+ and in 99 (61%) of 163 eyes in the SLT group (33 [33%] of 99 eyes
+ 1·96–5·80]; p<0·0001). Adverse events (mostly unrelated to ocular
+ timolol group and in eight (8%) participants in the SLT group (p=0·61).
+ 
+<section> Interpretation SLT was superior to timolol eye drops for managing patients
+ for 1 year in Tanzania. SLT has the potential to transform the management
+ where the prevalence of advanced glaucoma is high.
+ 
+<section> Funding Christian Blind Mission, Seeing is Believing Innovation Fund,
+ 
+<section> Copyright © 2021 The Author(s). Published by Elsevier Ltd. This is an
+ 
+<section> Introduction 
+<section> million
+ Glaucoma is a group of diseases that affect the optic population
+ nerve and lead to a progressive and irreversible loss of glaucoma
+ vision. Early stages of glaucoma can be asymptomatic, or other world
+ individuals might notice missing or blurred areas in resources
+ their field of vision. 1 Late stages of the condition can lead mean number
+ to irreversible absolute blindness, particularly if left people
+ untreated. The main modifiable risk factor is elevated people in
+ intraocular pressure (IOP); lifelong IOP control can halt Reducing
+ disease progression. 2,3 surgery,
+ Globally, glaucomas are the most frequent cause of treatment
+ irreversible blindness. 4 Africa has the highest prevalence In sub-Saharan
+ of glaucoma of all world regions, which is estimated to be with the
+ 4·8%, as well as the highest incidence, with an expected However,
+ increase from 10·31 million new cases in 2020 to 19·14 by non-adherence,
+ 
+<section> Articles
+ 
+<section> 0·5% timolol eye drops
+ 
+<section> a randomised
+ 
+<section> Cristóvão Matsinhe, Vasco da Gama, Mario Monjane,
+ Gazzard, Ana Patricia Marques, Peter Shah,
+ 
+<section> the highest regional prevalence and incidence Lancet Glob Health 2021;
+ glaucoma is long-term timolol eye drops. 9: e1589–99
+ whether selective laser trabeculoplasty (SLT) Published 
+<section> Online
+ (IOP) in patients with open-angle glaucoma. October 13, 2021
+ 
+<section> https://doi.org/10.1016/
+ 
+<section> S2214-109X(21)00348-X
+ controlled trial at the Eye Department of
+ 
+<section> See 
+<section> Comment page e1489
+ (aged ≥18 years) had open-angle glaucoma
+ 
+<section> For the Kiswahili translation of
+ of glaucoma surgery or laser. Participants were the abstract see 
+<section> Online for
+ twice daily or to receive SLT. The primary appendix
+ success, defined as an IOP below or equal to target For the French translation of the
+ 
+<section> Re-explanation of eye drop application abstract see 
+<section> Online for
+ intention-to-treat, excluding participants lost appendix
+ were used to adjust for the correlation between For the Portuguese translation of
+ 
+<section> the abstract see 
+<section> Online for
+ 
+<section> number PACTR201508001235339. appendix
+ 
+<section> International Centre for Eye
+ participants (382 eligible eyes) were enrolled Health, Faculty of Infectious
+ eyes) were randomly assigned to the timolol and Tropical Diseases
+ (89%) of 382 eyes were analysed. Treatment was (H Philippin MD,
+ 
+<section> A P Marques PhD,
+ 
+<section> eyes required repeat administration counselling) Prof M J Burton PhD) and MRC
+ required repeat SLT; odds ratio 3·37 [95% CI International Statistics and
+ events) occurred in ten (10%) participants in the Epidemiology Group
+ 
+<section> (D Macleod PhD), 
+<section> London
+ 
+<section> School of Hygiene & Tropical
+ 
+<section> Medicine, London, UK; Eye
+ with open-angle high-pressure glaucoma Department, Kilimanjaro
+ of glaucoma in sub-Saharan Africa, even Christian Medical Centre,
+ 
+<section> Moshi, Tanzania (H Philippin,
+ E Matayan MMed, K M Knoll MD,
+ 
+<section> E Macha Pharm Tech,
+ 
+<section> and the Wellcome Trust. S Mbishi BSc, A Makupa MMed,
+ 
+<section> C Matsinhe MMed,
+ 
+<section> Open Access article under the CC BY 4.0 license. V da Gama MMed,
+ 
+<section> M Monjane MMed,
+ 
+<section> A J Ncheda MMed,
+ 
+<section> in 2040 due to increasing life expectancy and F A Mulobuana MMed,
+ growth. 5 The prevalence of blindness due to E Muna MMed,
+ is higher in sub-Saharan Africa than in any N Fopoussi MMed,
+ 
+<section> W U Makupa MMed);
+ 
+<section> region. 4 This situation is met by limited 
+<section> Kilimanjaro Christian Medical
+ in many regions of sub-Saharan Africa; the 
+<section> University College, Moshi,
+ of ophthalmologists is 3·7 per million 
+<section> Tanzania (E Matayan,
+ in low-income countries versus 76·2 per million A Makupa, W U Makupa); 
+<section> Eye
+ 
+<section> Centre, Medical Centre-
+ 
+<section> high-income countries. 
+<section> University of Freiburg, Faculty
+ IOP by medical therapy with eye drops, of Medicine, University of
+ or laser treatment is currently the only available 
+<section> Freiburg, Freiburg im Breisgau,
+ approach for delaying glaucoma progression. 
+<section> Germany (H Philippin);
+ 
+<section> University Hospitals
+ 
+<section> Africa, most people are either treated 
+<section> Birmingham NHS Foundation
+ low-cost eye drops, timolol, or with surgery. 7,8 
+<section> Trust, Birmingham, UK
+ regular application of drops is often hampered (H Philippin,
+ scarce availability, long-term costs, Prof P Shah FRCOphth); 
+<section> Articles
+ 
+<section> Provincial Hospital of Pemba,
+ Pemba, Mozambique Research in context
+ 
+<section> (C Matsinhe); 
+<section> Hospital Central
+ de Quelimane, Quelimane, Evidence before this study
+ 
+<section> Mozambique (V da Gama); Preventing irreversible blindness from glaucoma can be achieved
+ 
+<section> Presbyterian Eye Hospital, by reducing intraocular pressure (IOP) with daily eye drops, eye
+ 
+<section> Bafoussam, Cameroon surgery, and laser treatment. African populations have the
+ 
+<section> (A J Ncheda); 
+<section> Cameroon Baptist
+ 
+<section> Convention Health Services, highest prevalence and incidence of open-angle glaucoma and
+ 
+<section> Douala, Cameroon (N Fopoussi); the highest prevalence of blindness due to glaucoma worldwide.
+ 
+<section> NIHR Biomedical Research The Lancet Global Health Commission on global eye health called
+ 
+<section> Centre for Ophthalmology, for research into cost-effective glaucoma interventions,
+ 
+<section> Moorfields Eye Hospital NHS
+ 
+<section> Foundation Trust–University especially those that are applicable in low-income and middle-
+ 
+<section> College London Institute of income countries. Timolol eye drops are the most affordable and
+ 
+<section> Ophthalmology, London, UK most commonly available treatment among drugs to reduce IOP.
+ (Prof G Gazzard FRCOphth, However, erratic application, systemic and local side-effects, and
+ 
+<section> Prof M J Burton); 
+<section> University
+ College London Institute of high long-term costs led to a search for alternatives methods to
+ 
+<section> Ophthalmology, London, UK reduce IOP, such as selective laser trabeculoplasty (SLT). We did
+ (Prof G Gazzard, Prof P Shah); several literature searches using MEDLINE (via PubMed), ISRCTN,
+ 
+<section> Birmingham Institute for and PACTR trial registries, without any language or date
+ 
+<section> Glaucoma Research, Institute
+ 
+<section> of Translational Medicine, restrictions, between Oct 3, 2012, and March 16, 2015, for
+ 
+<section> University Hospitals published or ongoing trials of SLT as an alternative to timolol.
+ 
+<section> Birmingham, Birmingham, UK Applying the terms “selective laser trabeculoplasty” (or “SLT”)
+ 
+<section> (Prof P Shah); 
+<section> Centre for Health and “timolol” showed no results. A wider search using “selective
+ 
+<section> and Social Care Improvement,
+ 
+<section> University of Wolverhampton, laser trabeculoplasty” (or “SLT”) without “timolol” found five
+ 
+<section> Wolverhampton, UK randomised controlled trials that compared SLT with more
+ (Prof P Shah) expensive eye drops in different settings and reported SLT to be a
+ 
+<section> Correspondence to: feasible and safe alternative to medical ocular treatment.
+ 
+<section> Dr Heiko Philippin, International
+ Centre for Eye Health, Faculty of 
+<section> Added value of this study
+ Infectious and Tropical Diseases, This trial was done in Tanzania and enrolled 201 patients with
+ 
+<section> London School of Hygiene &
+ Tropical Medicine, predominantly advanced glaucoma, reflecting the typical
+ London WC1E 7HT, UK spectrum and associated challenges of glaucoma care in this
+ 
+<section> heiko.philippin@lshtm.ac.uk
+ 
+<section> and side-effects. Trabeculectomy, the main surgical
+ procedure for treating glaucoma, can effectively reduce
+ IOP; however, the operation has a long learning curve, is
+ offered in relatively few eye units across sub-Saharan
+ Africa, can have clinically significant complications, and
+ has a low uptake in some populations. 8–12 Selective laser
+ trabeculoplasty (SLT) is a rapid outpatient procedure
+ used to reduce IOP. SLT increases aqueous fluid outflow
+ from the eye, which drains through the trabecular
+ meshwork. There is increasing evidence supporting its
+ use as a primary intervention. 13,14 Lasers, especially SLT,
+ could be part of future treatment for glaucoma in sub-
+ Saharan Africa. 15 However, to date, there have been no
+ published trials of SLT in sub-Saharan Africa, and no
+ trials worldwide have compared SLT with timolol as the
+ standard treatment option.
+ We aimed to investigate whether SLT was superior to
+ timolol eye drops for controlling IOP in patients with
+ open-angle glaucoma in a Tanzanian setting.
+ 
+<section> Methods
+ 
+<section> Study design
+ 
+<section> We did a two-arm, parallel-group, single-masked
+ randomised controlled trial at the Eye Department of
+ region. By contrast, most patients in the previous trials involving
+ SLT and more expensive eye drops had early or moderate
+ glaucoma. Both eyes were enrolled if eligible and analysed using
+ statistical methods that considered the correlation between the
+ two eyes of a participant. This methodology efficiently used all
+ available data, saving time and resources, and making optimal
+ use of participants’ engagement. 12 months after
+ randomisation, the estimated odds for success using SLT were
+ 3·37 times higher than those for success using 0·5% timolol eye
+ drops. The odds ratio was not modified by other factors. Mean
+ IOP reduction was 1·5 mm Hg (SD 7·5) in the timolol group and
+ 6·3 mm Hg (6·4) in the SLT group between the baseline visit and
+ visits at failure, success at 1 year, or before loss to follow-up.
+ Safety, acceptance, vision-related quality of life, and preservation
+ of visual acuity were similar in both groups after 1 year. Eye care
+ units in the region would need to treat around 500 eyes per year
+ with SLT to cover the cost of the procedure, which would cost an
+ amount similar to a 1-year supply of timolol eye drops.
+ 
+<section> Implications of all the available evidence
+ This trial adds to the existing evidence that SLT is an important
+ addition to the treatment options for glaucoma, and extends
+ this evidence to regions where advanced glaucoma is more
+ common and treatment resources and options are limited.
+ The prevalence of glaucoma is expected to increase in the
+ coming decades due to increasing life expectancy and population
+ growth, especially in low-income and middle-income regions.
+ Therefore, SLT could help to prevent vision loss and blindness
+ from glaucoma in regions where its prevalence is highest.
+ 
+<section> Kilimanjaro Christian Medical Centre (KCMC), Moshi,
+ northern Tanzania.
+ The trial was approved by the research ethics review
+ committees of the National Institute for Medical
+ Research in Dar es Salaam, Tanzania (NIMR/HQ/R.8a/
+ Vol IX/1929), the Kilimanjaro Christian Medical
+ University College in Moshi, Tanzania (number 800),
+ and the London School of Hygiene & Tropical Medicine
+ in London, UK (LSHTM Ethics Ref 7166). The trial was
+ done in compliance with the Declaration of Helsinki and
+ the International Conference on Harmonisation–Good
+ Clinical Practice. An independent data and safety
+ monitoring board was appointed by the trial steering
+ committee. A patient steering group provided input on
+ different aspects of the trial such as study design and
+ questionnaires.
+ 
+<section> Participants
+ 
+<section> Patients who attended the ophthalmology clinic at KCMC
+ were screened for eligibility. The main inclusion criterion
+ was diagnosis of chronic high-pressure open-angle
+ glaucoma, defined as an IOP of more than 21 mm Hg
+ and a combination of structural and functional changes
+ (category 1 of the International Society of Geographic and 
+<section> Epidemiologic Ophthalmology). 16 Structural changes perimetry
+ were specified as thinning of the optic nerve head rim threshold
+ (stage 5 or above on the Disc Damage Likelihood Scale, a (II-i series
+ cup-to-disc ratio of ≥0·7, or a cup-to-disc ratio asymmetry HFA II
+ between two eyes of ≥0·2). 17 Functional changes included AG, Jena,
+ a glaucomatous visual field defect or relative afferent Scale was
+ pupil defect. Inclusion criteria also permitted high- moderate
+ risk glaucoma suspect (IOP >25 mm Hg, structural Glaucoma-related
+ changes as above, no visual field defect) or high-risk slit-lamp
+ ocular hyperten­ sion (IOP >32 mm Hg, no structural pachymetry
+ or functional defect), and International Society of fundus
+ Geographic and Epidemiologic Ophthalmology category nerve head.
+ 2 (cup-to-disc ratio of ≥0·8 or cup-to-disc ratio asymmetry Standardised
+ of ≥0·3 if a visual field could not be satisfactorily treatment
+ completed). 16 Exclusion criteria included being aged procedure.
+ younger than 18 years or having an opaque cornea, a calibrated
+ narrow angle (<2 on the Shaffer scale in two quadrants), Streit, Koeniz,
+ absolute blindness (no perception of light), history of difference
+ previous uveitis, any previous glaucoma surgery or 2 mm Hg,
+ laser treatment, neovascular or traumatic glaucoma, measurement
+ and history of asthma or bradycardia, which can be recorded.
+ exacerbated by timolol eye drops. The full exclusion tonometry
+ criteria are listed in appendix 4 (p 2). Patients who Several
+ reported using eye drops before the trial had a 4-week relatives,
+ washout period. Eligible patients were informed about treatment
+ the study in detail in Kiswahili and, if interested, invited glaucoma
+ to return on a different day for the baseline examination. questionnaires,
+ During this assessment, written informed consent was glaucoma-related
+ obtained in Kiswahili before participants were enrolled. reported
+ Following
+ 
+<section> Randomisation and masking patients
+ The randomisation sequence was generated by an (SLT group)
+ independent statistician with a variable block size 0·2% topical
+ between 4 and 8. Sequentially numbered and sealed 1·0%
+ opaque envelopes contained the allocation of participants control)
+ to either the SLT or the timolol group (1:1). One or both angle was
+ eyes were enrolled, depending on eligibility, and were supplied
+ treated identically. Participants were enrolled and Lumenis,
+ assigned to an intervention arm together by at least two of spots were
+ the following individuals: HP, EdM, SM, KMK, and EiM. meshwork.
+ Due to the nature of the interventions, participants, continuously
+ principal investigators, and health-care staff administering bubbles
+ treatments could not be masked to treatment allocation; applications.
+ however, the clinicians who examined IOP were masked about 1
+ to the trial arm, the individual IOP threshold, and day of treatment
+ previous IOP measurements of the participant, and were who was
+ not involved in any other aspect of the trial. Birmingham
+ pleted around
+ 
+<section> Procedures 
+<section> Participants
+ During the baseline assessment, a detailed clinical history treatment
+ was taken. We assessed vision-related quality of life using drops to
+ the 20-item cross-cultural WHO visual functioning effects,
+ questionnaire (WHO/PBD-VF20). 18 Additional question­ study assistant
+ naires included the Patient Outcome and Experience in Kiswahili
+ Measure and the Glaucoma Symptom Scale. 19,20 pp 12–13).
+ Visual acuity was measured at 2 m in a dimmed room pants at
+ (Peek Acuity app [version 3.5.0]). Static visual field missed
+ 
+<section> Articles
+ 
+<section> was done with the Swedish interactive
+ algorithm standard 24-2 or 10-2 programme
+ system software version 4.2) of the Humphrey
+ 740i Visual Field Analyzer (Carl Zeiss Meditec
+ Germany). 21 The Disc Damage Likelihood
+ used to stratify glaucoma severity into
+ (stage 5–7) and advanced (stage 8–10).
+ structural features were assessed by
+ examination of the anterior eye segment,
+ (central corneal thickness), gonioscopy,
+ imaging, and indirect fundoscopy of the optic
+ 
+<section> examiners measured baseline IOP before
+ allocation, following a standard operating
+ This procedure included measuring IOP with
+ Goldmann Applanation Tonometer (Haag
+ Switzerland) twice within 5 mins. If the
+ between the first two measurements was up to
+ the mean IOP was noted. Otherwise, a third
+ was obtained and the median was
+ 22 The repeatability coefficient of Goldmann
+ is around 2·5 mm Hg.
+ focus group discussions involving patients,
+ and eye care specialists were held on the two
+ options and other contextual factors for
+ during the trial. The results from the
+ focus group discussions, and other
+ functional or structural changes will be
+ elsewhere.
+ the baseline assessment and enrolment,
+ randomly assigned to the SLT laser intervention
+ received amethocaine (topical anaesthesia),
+ brimonidine (IOP spike prevention), and
+ topical prednisolone (inflam­ matory response
+ 15 mins before the procedure. The chamber
+ then visualised with the Latina goniolens
+ with the SLT laser (Lumenis Selecta II
+ Yokneam, Israel). Approximately 100 laser
+ applied to cover 360° of the trabecular
+ Starting energy level was 0·6 mJ, which was
+ titrated in steps of 0·1 mJ until cavitation
+ appeared in around a third of laser spot
+ The eye, including IOP, was examined
+ h after SLT. All SLT procedures were done on the
+ allocation by one ophthalmologist (HP),
+ trained in the procedure at University Hospitals
+ (Birmingham, UK) by PS and had com­
+ 100 SLT procedures before the trial.
+ randomly assigned to the standard
+ arm (timolol group) received 0·5% timolol eye
+ administer twice daily. The importance, side-
+ and application of eye drops were explained by a
+ to participants and accompanying helpers
+ using a standard protocol (appendix See 
+<section> Online for appendix
+ Adherence was estimated by asking partici­
+ each follow-up visit how frequently they had
+ their eye drops. Both treatment options were 
+<insert> Figure 1: Trial profile
+ SLT=selective laser trabeculoplasty. The full list of reasons for exclusion are provided in appendix 4 (p 3). 
+<iend>
+
+ 
+<section> Articles
+ 
+<section> provided free of charge to the patient, and transport cost
+ was subsidised to further increase adherence. 8,24
+ Follow-up assessments were scheduled at 2, 6, 9, and
+ 12 months. Masked examiners measured IOP on each
+ follow-up visit following the same procedure as was used
+ during baseline assessment. Additional safety visits were
+ arranged if the supervising clinician considered this to
+ be necessary. One IOP measurement of up to 2 mm Hg
+ above target IOP was allowed on one of the follow-up
+ visits without triggering a repeat intervention or being
+ considered a treatment failure. If the IOP was more than
+ 2 mm Hg above target or up to 2 mm Hg above target for
+ the second time, repeat SLT or counselling was provided.
+ If the IOP exceeded the target on any subsequent
+ occasion again, the eye was considered to have a
+ treatment failure and exited from the trial, and the
+ patient received additional treatment (including the
+ intervention from the other intervention arm, additional
+ eye drops, or trabeculectomy; appendix 4 p 4).
+ Furthermore, if the IOP was more than 40 mm Hg at any
+ visit, the eye was considered to have a treatment failure
+ and was exited from the trial immediately; additional
+ treatment was provided to the participant’s eye.
+ To estimate the cost of an SLT laser procedure, we
+ followed a bottom-up micro-costing approach assuming
+ that the equipment had a lifetime of 10 years and that
+ the SLT treatment was done on demand during a
+ glaucoma clinic by an ophthalmologist earning a
+ standard salary. 13,25 Variable and fixed costs were
+ 
+<section> 840 patients assessed for eligibility
+ 
+<section> 639 patients excluded
+ 
+<section> 101 had no perception of light
+ 
+<section> 160 had previous glaucoma surgery or laser
+ 
+<section> 336 met other exclusion criteria
+ 
+<section> 13 declined
+ 
+<section> 29 for other reasons
+ 
+<section> 201 patients (382 eyes) randomly assigned
+ 
+<section> 100 patients (191 eyes) allocated to 101 patients (191 eyes) allocated to SLT
+ 
+<section> timolol eye drops
+ 
+<section> 9 patients (15 eyes) discontinued 15 patients (28 eyes) discontinued
+ 1 patient (2 eyes) too ill to return 1 patient (1 eye) too ill to return
+ 1 patient (2 eyes) not contactable 1 patient (2 eyes) not contactable
+ 3 patients (5 eyes) moved away 3 patients (6 eyes) moved away
+ 3 patients (5 eyes) declined 7 patients (14 eyes) declined
+ 1 patient (1 eye) died 3 patients (5 eyes) died
+ 
+<section> 91 patients (176 eyes) included in the primary 86 patients (163 eyes) included in the primary
+ outcome analysis at 12 months outcome analysis at 12 months
+ 
+<section> calculated and a threshold analysis was done estimating
+ total costs for eight production scenarios, depending on
+ the annual number of treatments (appendix 4 pp 10–12).
+ The annual cost of timolol eye drops was identified
+ using the median of three prices at pharmacies across
+ Tanzania and was used as a reference to determine the
+ number of SLT procedures that would result in
+ comparable cost. Both annual treatment costs were then
+ compared with an affordability threshold of 2·5% of
+ Tanzania’s gross domestic product per capita, as a proxy
+ of income.
+ 
+<section> Outcomes
+ 
+<section> The primary outcome was the proportion of eyes
+ from both intervention groups with treatment success at
+ 12 months following randomisation. For patients with
+ advanced glaucoma (stage 8–10 according to the Disc
+ Damage Likelihood Scale), this target IOP was
+ 18 mm Hg or below and for those with moderate
+ glaucoma (stage 5–7), this target was 21 mm Hg or below.
+ Secondary outcomes were safety, acceptance, vision-
+ related quality of life, adherence, preservation of visual
+ acuity and visual fields, other glaucoma-related functional
+ or structural changes, other IOP-related outcomes,
+ analyses of focus group discussions, cost, and treatment
+ affordability.
+ 
+<section> Statistical analysis
+ The trial was powered to test the hypothesis that SLT is
+ superior to timolol eye drops. From the literature and
+ retrospective data from the Eye Department at KCMC,
+ we anticipated that the proportions of success after
+ 12 months would be 60% for timolol and 75% for SLT.
+ Allowing for a loss to follow-up of 20%, a sample size of
+ 360 eyes was estimated to provide 80% power with
+ 95% confidence to detect such a difference.
+ The primary outcome was a binary variable defined as
+ treatment success at 12 months, compared between the
+ two treatment arms. Analysis of the primary outcome
+ was by modified intention-to-treat using a logistic
+ regression model, in which participants lost to follow-up
+ were excluded, with generalised estimating equations
+ (GEE) to account for the absence of inde­ pendence
+ between eyes, if both eyes were included. The primary
+ analysis was unadjusted, although baseline characteristics
+ were examined for balance between arms.
+ Secondary outcomes were described and compared
+ between the two treatment arms. A change in visual acuity
+ of two or more lines on the logarithm of the minimum
+ angle of resolution (logMAR) chart (equals ≥0·2 logMAR
+ between baseline and the last visit, either in the event of a
+ failure, before loss to follow-up, or success at 12 months)
+ was defined as a loss of central vision and compared using
+ logistic regression with GEE by arm. 28 Acceptance was
+ described as the number of times a participant refused
+ an intervention at any of the follow-up visits after
+ being randomly assigned. WHO/PBD-VF20 items were 
+<insert> Blind 24 (13%) 23 (12%)
+ No 167 (87%) 166 (87%)
+ Yes 24 (13%) 25 (13%)
+ No 185 (97%) 177 (93%)
+ Yes 6 (3%) 14 (7%)
+ Exfoliation glaucoma
+ Pseudophakia
+ (Table 1 continues in next column)
+ divided into the general functioning, visual symptoms,
+ and psychosocial subscales, and summary scores were
+ transformed to a scale (0–100), with 100 as the highest
+ possible vision-related quality of life score. 18 Affordability
+ was described as whether a person had sufficient income
+ to pay for health-care services, treatment, or costs
+ (appendix 4 p 12).
+ We tested for evidence of effect modification by the
+ stage of glaucoma and baseline IOP. A sensitivity analysis
+ was done to provide the most conservative estimate,
+ considering all participants lost to follow-up as failure in
+ the more successful arm and as success in the less
+ successful arm. Patients lost to follow-up were compared
+ Table 1: Baseline participant and ocular characteristics
+ with those who completed the trial with respect to age,
+ sex, stage of glaucoma, intervention, visual field defect,
+ visual acuity, and travel details using logistic regression
+ with GEE. Differences between arms in time to an event
+ were assessed by plotting survival curves and a Cox
+ regression analysis, by use of a shared frailty model to
+ account for dependency between the two eyes. Other
+ potential determinants of success were investigated
+ using logistic regression with GEE. To prevent
+ multicollinearity in a fully adjusted model, all potential
+ determinants were first screened for inclusion using a
+ univariable model and GEE. Any factor in which p<0·2
+ was included in the fully adjusted model. Backward
+ stepwise selection was then employed to find the most
+ parsimonious logistic regression model, with p<0·05 for
+ all predictors.
+ Data were managed in a custom built database in
+ Microsoft Access 2016. Stata (version 16.1) was used to
+ compute the statistical analysis. A data safety monitoring
+ board oversaw the study. This trial was registered
+ with the Pan African Clinical Trials Registry, number
+ PACTR201508001235339. 
+<iend>
+
+ 
+<section> Timolol group 
+<section> SLT group
+ 
+<section> Participant characteristics (Continued
+ Number of participants 
+<section> Vertical
+ Age, years 65·09 (10·79) 67·40 (12·33) Intraocular
+ Sex 
+<section> Optic nerve
+ Female 
+<section> 46 (46%) 
+<section> 37 (37%)
+ 
+<section> Male 
+<section> 54 (54%) 
+<section> 64 (63%)
+ 
+<section> Ethnic group
+ 
+<section> Chagga 
+<section> 54 (54%) 
+<section> 57 (56%)
+ 
+<section> Pare 
+<section> 18 (18%) 
+<section> 23 (23%)
+ 
+<section> Meru 
+<section> 4 (4%) 
+<section> 4 (4%)
+ 
+<section> Maasai 4 (4%) 1 (1%) 
+<section> Stage of
+ Sambaa 3 (3%) 2 (2%) 
+<section> Moderate
+ Other 
+<section> 17 (17%) 
+<section> 14 (14%) 
+<section> Advanced
+ Education 
+<section> Visual field
+ Less than secondary level 70 (70%) 63 (62%) dB†
+ 
+<section> Secondary level or higher 30 (30%) 38 (38%) Visual field
+ dB†
+ 
+<section> Family history of glaucoma*
+ 
+<section> Central
+ No 
+<section> 76 (76%) 
+<section> 77 (76%) 
+<section> Previous
+ Yes 
+<section> 24 (24%) 
+<section> 24 (24%)
+ 
+<section> No
+ 
+<section> Travel distance, km
+ 
+<section> Yes
+ 
+<section> <50 
+<section> 51 (51%) 
+<section> 54 (53%)
+ 
+<section> ≥50 
+<section> 49 (49%) 
+<section> 47 (47%) 
+<section> Data are mean
+ trabeculoplasty.
+ 
+<section> Ocular characteristics 
+<section> DDLS=Disc
+ Number of eyes 
+<section> examinations:
+ group); eight
+ Visual acuity (logMAR) 0·48 (0·69) 0·49 (0·66) group); no
+ Visual acuity (WHO categories) due to reduced
+ in 13 eyes
+ Normal vision 147 (77%) 145 (76%) the pachymeter.
+ Low vision 
+<section> 20 (10%) 
+<section> 23 (12%)
+ 
+<section> Articles
+ 
+<section> Timolol group 
+<section> SLT group
+ 
+<section> from previous column)
+ cup-to-disc-ratio 0·85 (0·15) 0·84 (0·16)
+ pressure, mm Hg 26·96 (7·52) 26·38 (6·28)
+ 
+<section> head damage (DDLS)
+ 
+<section> 34 (18%) 
+<section> 42 (22%)
+ 
+<section> 20 (10%) 
+<section> 22 (12%)
+ 
+<section> 25 (13%) 
+<section> 19 (10%)
+ 
+<section> 47 (25%) 
+<section> 40 (21%)
+ 
+<section> 33 (17%) 
+<section> 33 (17%)
+ 
+<section> 32 (17%) 
+<section> 35 (18%)
+ 
+<section> glaucoma (DDLS)
+ 
+<section> (stage 5–7) 
+<section> 79 (41%) 
+<section> 83 (43%)
+ 
+<section> (stage 8–10) 
+<section> 112 (59%) 
+<section> 108 (57%)
+ (24-2), mean defect, –18·29 (11·09) –16·02 (10·94)
+ 
+<section> (10-2), mean defect, –33·92 (0·58) –30·71 (4·40)
+ 
+<section> corneal thickness, µm‡ 522·89 (34·79) 519·16 (34·51)
+ 
+<section> timolol eye drops§
+ 
+<section> 83 (43%) 
+<section> 93 (49%)
+ 
+<section> 108 (57%) 
+<section> 98 (51%)
+ 
+<section> (SD) or n (%), unless otherwise indicated. SLT=selective laser
+ logMAR=logarithm of the minimum angle of resolution.
+ Damage Likelihood Scale. *In a first-degree relative. †Visual field
+ 347 eyes completed 24-2 (175 in timolol group vs 172 in SLT
+ eyes completed 10-2 only (four in timolol group vs four in SLT
+ visual field possible in 27 eyes (12 in timolol group vs 15 in SLT group)
+ central vision. ‡Central corneal thickness measurements missing
+ (five in timolol group vs eight in SLT group) due to temporary failure of
+ §Based on patient history. 
+<section> Articles
+ 
+<section> Role of the funding source
+ The funders had no role in study design, data collection,
+ data analysis, data interpretation, or writing of
+ report.
+ 
+<section> Results
+ 
+<section> 840 patients with glaucoma who attended the
+ Department at KCMC were screened for eligibility
+ (figure 1; appendix 4 p 3). Of those screened, 201 (24%)
+ 
+<section> Success Univariable OR p value Multivariable OR p value
+ 
+<section> (95% CI) 
+<section> (95% CI)
+ 
+<section> Intervention
+ 
+<section> Timolol 
+<section> 55/176 (31%) 1 (ref) 
+<section> ·· 
+<section> ·· 
+<section> ··
+ SLT 99/163 (61%) 3·37 (1·96–5·80) <0·0001 5·35 (2·77–10·31) <0·0001
+ 
+<section> Sex
+ 
+<section> Female 
+<section> 66/142 (46%) 1 (ref) 
+<section> ·· 
+<section> ·· 
+<section> ··
+ Male 88/197 (45%) 0·92 (0·54–1·57) 0·77 ·· ··
+ 
+<section> Age groups, years
+ 
+<section> <70 
+<section> 101/211 (48%) 1 (ref) 
+<section> ·· 
+<section> ·· 
+<section> ··
+ ≥70 53/128 (41%) 0·74 (0·43–1·28) 0·28 ·· ··
+ 
+<section> Education
+ 
+<section> Less than secondary 92/225 (41%) 1 (ref) ·· ·· ··
+ 
+<section> level
+ Secondary level or 62/114 (54%) 1·68 (0·97–2·93) 0·066 ·· ··
+ 
+<section> above
+ 
+<section> Travel distance to KCMC, km
+ 
+<section> <50 
+<section> 87/185 (47%) 1 (ref) 
+<section> ·· 
+<section> ·· 
+<section> ··
+ ≥50 67/154 (44%) 0·86 (0·51–1·46) 0·58 ·· ··
+ 
+<section> History of timolol eye drops
+ 
+<section> No 
+<section> 75/151 (50%) 1 (ref) 
+<section> ·· 
+<section> ·· 
+<section> ··
+ Yes 79/188 (42%) 0·73 (0·44–1·22) 0·24 ·· ··
+ 
+<section> Pseudophakia
+ 
+<section> Phakic 
+<section> 145/324 (45%) 1 (ref) 
+<section> ·· 
+<section> ·· 
+<section> ··
+ Pseudophakic 9/15 (60%) 1·16 (0·41–3·29) 0·78 ·· ··
+ 
+<section> Exfoliation glaucoma
+ 
+<section> No 
+<section> 147/297 (49%) 1 (ref) 
+<section> ·· 
+<section> ·· 
+<section> ··
+ Yes 7/42 (17%) 0·16 (0·06–0·44) 0·0004 0·16 (0·05–0·46) 0·0009
+ 
+<section> Central corneal thickness, µm*
+ 
+<section> <520 
+<section> 67/164 (41%) 1 (ref) 
+<section> ·· 
+<section> ·· 
+<section> ··
+ ≥520 85/172 (49%) 1·43 (0·88–2·33) 0·15 ·· ··
+ 
+<section> Angle pigmentation
+ Light pigmentation 132/289 (46%) 1 (ref) ·· ·· ··
+ Strong pigmentation 22/50 (44%) 1·06 (0·53–2·14) 0·87 ·· ··
+ 
+<section> Stage of glaucoma (DDLS)
+ Moderate (stage 5–7) 108/145 (74%) 1 (ref) ·· ··
+ Advanced (stage 8–10) 46/194 (24%) 0·14 (0·09–0·23) <0·0001 0·11 (0·06–0·20) <0·0001
+ 
+<section> Intraocular pressure, mm Hg
+ 
+<section> <25 
+<section> 100/153 (65%) 1 (ref) 
+<section> ·· 
+<section> ··
+ ≥25 54/186 (29%) 0·27 (0·17–0·44) <0·0001 0·33 (0·19–0·60) 0·0003
+ 
+<section> Visual acuity (WHO categories)
+ 
+<section> Normal vision 
+<section> 135/263 (51%) 1 (ref) 
+<section> ·· 
+<section> ·· 
+<section> ··
+ Low vision 12/33 (36%) 0·64 (0·33–1·25) ·· ·· ··
+ Blind 7/43 (16%) 0·38 (0·21–0·71) 0·0060† ·· ··
+ 
+<section> (Table 2 continues on next page)
+ 
+<section> eligible partici­ pants (382 eyes) were enrolled between
+ Aug 31, 2015, and May 12, 2017, of whom 100 (50%) of
+ the participants (191 eyes) were randomly assigned to the
+ timolol group and 101 (50%; 191 eyes) to the SLT group.
+ All participants were members of one of the ethnic
+ groups living in Tanzania (table 1). At 12 months,
+ Eye 177 (88%) patients (339 eyes) were included in the
+ analysis; 24 (12%) patients (43 eyes) had been lost to
+ follow-up. The mean age of 201 people enrolled in the
+ trial was 66·3 years (SD 11·6) and 83 participants were
+ female. The mean age of 639 patients not enrolled was
+ 65·0 years (15·5) and 268 participants were female.
+ Loss to follow-up was not associated with age, sex,
+ stage of glaucoma, intervention arm, or level of visual
+ acuity. There was evidence that patients with advanced
+ visual field defects were less likely (p=0·0018) and
+ patients who needed a guide for their journey to the eye
+ hospital were more likely (p=0·016) to be lost to follow-
+ up. However, these inferences are based on few patients
+ who were lost to follow-up (24 patients [12%]; figure 1).
+ A successful IOP reduction 1 year after the start of
+ treatment was reported in 55 (31%) of 176 eyes in the
+ timolol group (16 [29%] of 55 eyes required repeat
+ counselling) and in 99 (61%) of 163 eyes in the SLT group
+ (33 [33%] of 99 eyes required a repeat SLT). The
+ unadjusted logistic regression model (ie, GEE) for the
+ relationship between intervention and success estimated
+ an odds ratio (OR) of SLT over timolol eye drops of 3·37
+ (95% CI 1·96–5·80; p<0·0001; table 2). Cox regression
+ analysis showed a hazard ratio of 0·16 (0·09–0·30;
+ p<0·0001; figure 2). Detailed IOP results can be found in
+ the appendix 4 (pp 5–6).
+ A reduction of central vision occurred in 36 (19%) of
+ 187 eyes in the timolol group and in 40 (21%) of 188 in the
+ SLT group. There was no evidence of a difference
+ between interventions (OR 1·16 [95% CI 0·66–2·06];
+ p=0·60). Vision-related quality of life measured with the
+ WHO/PBD-VF20 showed no differences between the
+ two groups (table 3).
+ Self-reported adherence to eye drop use in the timolol
+ group was high (table 4). 56–75% of patients reported
+ daily application of eye drops during the 2 weeks before
+ the follow-up visit, 15–24% of patients reported missing
+ eye drops for 1–2 days, and only 4–20% of patients
+ reported missing eye drops for more than 2 days. No
+ participant refused either timolol eye drops or SLT within
+ the first year, including repeat interventions.
+ From an eye care provider’s perspective, the variable
+ cost per SLT treatment was estimated to be US$2·57.
+ Annual fixed costs were $4960, including the depreciation
+ of the initial purchase over the 10 years, the annual
+ inspection, and an assumption of two repairs. 13 Travel
+ expenses of technicians were added, which might be
+ substantial where services are not available in a country
+ (appendix 4 pp 10–12). The SLT laser has been in
+ operation at KCMC since 2015 without needing repair.
+ With a scenario of 500 eyes treated per year, the total 
+<insert> Table 2: Predicted ORs for success
+ Proportion
+ of
+ eyes
+ without
+ treatment
+ failure
+ (%)
+ in 2019 was reported to be $1122·12, so any annual
+ treatment cost below $28·05 can be considered
+ affordable. Thus, the annual treatment cost of timolol
+ and SLT for one eye are below this threshold (assuming
+ 500 procedures per year in an eye health unit). For SLT,
+ the treatment costs for two eyes can also be considered
+ affordable for most patients as 66 (67%) of 99 eyes only
+ required one treatment for a successful outcome (annual
+ treatment cost for two eyes of $24·98).
+ We used a sensitivity analysis to assess whether the
+ primary outcome results were possibly influenced by
+ loss to follow-up. The hypothetical scenario considered
+ all patients who were lost to follow-up in the SLT group
+ to be failures and those in the timolol group to be
+ successes, assuming the worst possible scenario for the
+ SLT group. The OR of success of SLT was 1·88 (95% CI
+ 1·13–3·11; p=0·015).
+ There was no evidence of an effect modification in the
+ OR of SLT over timolol by the stage of glaucoma (p=0·55)
+ or by the baseline IOP (p=0·14; appendix 4 p 8).
+ Other potential determinants for success were
+ evaluated (table 2). The most parsimonious multivariable
+ model showed an association between success and SLT
+ (vs timolol) as the randomisation arm (OR 5·35 [95% CI
+ 2·77–10·31]; p<0·0001), high (vs low) IOP at baseline
+ (0·33 [0·19–0·60]; p=0·0003), advanced (vs moderate)
+ stage of glaucoma (0·11 [0·06–0·20]; p<0·0001), and the
+ presence (vs absence) of exfoliation material (0·16
+ [0·05–0·46]; p=0·0009).
+ In total, there were ten (10%) ocular and systemic
+ adverse events in the timolol group and eight (8%) in the
+ SLT group (OR 0·77 [95% CI 0·29–2·05]; p=0·61;
+ table 5). Four patients died during the 1-year follow-up
+ period (one in the timolol group vs three in the SLT
+ group) from known pre-existing general medical
+ conditions. SLT was associated with several transient
+ (<1 h) side-effects (appendix 4 p 9). The baseline SLT
+ procedure caused no pain during 69 (36%) of
+ baseline laser procedures, mild pain during 103 (54%),
+ moderate pain during 15 (8%), and severe pain during
+ Timolol group
+ SLT group
+ HR 0·16 (95% CI 0·09–0·30), p<0·0001
+ Number at risk
+ Timolol group 182 (5)
+ SLT group 181 (0)
+ Time (months)
+ (49)
+ (16)
+ (41)
+ (21)
+ (26)
+ (27)
+ Figure 2: Kaplan-Meier curve of time to treatment failure
+ Differences between the two intervention groups in time to an event was
+ assessed with a Cox regression analysis using a shared frailty model to account
+ for dependency between the two eyes. HR=hazard ratio. SLT=selective laser
+ trabeculoplasty.
+ Timolol group
+ (n=28)
+ SLT group
+ (n=50)
+ 79·5 (17·7) 72·5 (21·2)
+ Estimated group Δ
+ (95% CI)
+ p value
+ General functioning
+ Baseline visit
+ 12-month visit/Δ (SD) 88·2 (15·6)/8·6 (19·7) 83·1 (15·8)/10·5 (15·6)
+ 1·91 (–6·17 to 10·00) ··
+ ·· 0·64
+ Visual symptoms
+ Baseline visit 66·4 (17·3)
+ 12-month visit/Δ (SD) 74·7 (16·9)/8·3 (23·8)
+ 68·3 (21·9)
+ 74·0 (16·9)/5·7 (16·9)
+ –2·67 (–11·89 to 6·55)
+ ··
+ ··
+ 0·57
+ Psychosocial
+ Baseline visit* 77·2 (17·3) 74·4 (21·1)
+ 12-month visit/Δ (SD) 87·5 (17·3)/10·3 (15·2) 79·3 (24·2)/5·0 (23·1)
+ –5·29 (–15·02 to 4·44)
+ ··
+ ··
+ 0·28
+ Data are mean (SD), unless otherwise indicated. Mean (SD) of total scores (0–100) of three subscales of WHO/PBD-VF20
+ questionnaires for patients with success at 12 months (if both eyes were enrolled, the status of the right eye was
+ considered), so 28 patients in the timolol group and 50 patients in the SLT group. Higher scores represent a better
+ vision-related quality of life. Estimated group difference (Δ), 95% CI, and p values from linear regression of differences
+ between interventions. SLT=selective laser trabeculoplasty. Δ=delta or difference. *Data of one patient missing in the
+ SLT group. 
+<iend>
+
+ 
+<insert> one (<1%). No baseline SLT procedure triggered an IOP
+ Table 3: Vision-related quality of life 
+<iend>
+
+ costs for one procedure are approximately $12·49. Since
+ both eyes are often treated, this figure corresponds to
+ 250–400 patients treated per year to cover the costs and
+ offer the laser treatment at a price of $12·49 per treatment (Continued
+ 
+<section> using a not-for-profit eye care service model (appendix 
+<section> Glaucoma
+ p 11). To achieve successful treatment with SLT in this Early
+ study, 33 eyes required two procedures and 66 eyes were Moderate
+ treated after one treatment. Thus, from the patient’s Advanced
+ perspective, an average of 1·33 treatments would be Severe
+ required, increasing the average cost to approximately End stage
+ $16·61 per eye for a successful outcome, excluding Data are n/N
+ travelling expenses. Annual therapy with timolol eye factors associated
+ drops cost around $16·32 per eye in Tanzania. Therefore, the log likelihood
+ with around 500 treatments per year, the SLT treatment employed
+ included
+ 
+<section> can be offered, covering costs, at a similar price as timolol SLT=selective
+ eye drops. The annual GDP per capita in Tanzania *Central corneal
+ 
+<section> Articles
+ 
+<section> Success Univariable OR p value Multivariable OR p value
+ 
+<section> (95% CI) 
+<section> (95% CI)
+ 
+<section> from previous page)
+ 
+<section> categories
+ 
+<section> 63/81 (78%) 1 (ref) 
+<section> ·· 
+<section> ·· 
+<section> ··
+ 
+<section> 31/46 (67%) 
+<section> 0·46 (0·23–0·94) 
+<section> ·· 
+<section> ·· 
+<section> ··
+ 
+<section> 15/35 (43%) 
+<section> 0·33 (0·15–0·73) 
+<section> ·· 
+<section> ·· 
+<section> ··
+ 
+<section> 40/150 (27%) 
+<section> 0·13 (0·07–0·23) 
+<section> ·· 
+<section> ·· 
+<section> ··
+ 
+<section> 5/27 (19%) 
+<section> 0·10 (0·04–0·27) 
+<section> <0·0001† 
+<section> ·· 
+<section> ··
+ 
+<section> (%). Results of 339 eyes analysed at 12 months using univariable and multivariable analyses of potential
+ with success using logistic regression with general estimating equations. Parameters with p<0·2 in
+ ratio test were included in the initial multivariable model. Backward stepwise selection was then
+ to find the most parsimonious logistic regression model, in which all predictors had p<0·05. This final model
+ intervention, intraocular pressure at baseline, stage of glaucoma, and exfoliation glaucoma. OR=odds ratio.
+ laser trabeculoplasty. KCMC=Kilimanjaro Christian Medical Centre. DDLS=Disc Damage Likelihood Scale.
+ thickness missing for three eyes. †Wald test for trend. 
+<insert> Table 4: Self-reported adherence to eye drops for participants in the timolol group
+ Timolol
+ group
+ (n=100)
+ SLT
+ group
+ (n=101)
+ All
+ (n=201)
+ 10 (10%) 8 (8%) 18 (9%)
+ Conjunctiva injected 2 (2%) 1 (1%) 3 (1%)
+ Persistent cells in anterior chamber,
+ hyphaemia
+ Cardiovascular event 1 (1%) 1 (1%) 2 (1%)
+ Diabetes 3 (3%) 1 (1%) 4 (2%)
+ Orthopaedic condition 2 (2%) 2 (2%) 4 (2%)
+ Prostate surgery 1 (1%) 1 (<1%)
+ 1 (1%) 3 (3%) 4 (2%)
+ Total
+ Ocular
+ Systemic*
+ Death
+ Data are n (%). *Requiring hospital admission.
+ with a decreased probability of success. In our study
+ protocol, the stage of glaucoma determined the target
+ IOP, which needs to be lower in advanced glaucoma. 2 A
+ greater reduction in IOP is more difficult to achieve in
+ general; therefore, the probability of success is likely
+ to be lower in eyes with advanced glaucoma and a
+ higher baseline IOP (appendix 4 p 7) than in those
+ with moderate glaucoma and a lower baseline IOP.
+ Exfoliation glaucoma reduced the probability of success
+ in both intervention groups. To date, few clinical trials
+ with small sample sizes have shown inconclusive results
+ concerning the role of exfoliation glaucoma. 32 Our results
+ suggest that, although the subtype of exfoliation
+ glaucoma is challenging to treat overall, SLT might still
+ be a better option than timolol (appendix 4 p 7). Some
+ regions in sub-Saharan Africa are affected by a
+ particularly high prevalence of exfoliation glaucoma.
+ Only mild adverse effects and no serious treatment-
+ related adverse events were reported in either group, 
+<iend>
+
+ 
+<insert> Table 5: Adverse events 
+<iend>
+
+ 
+<section> Articles
+ 
+<section> Adherence every day
+ 
+<section> Non-adherence for 1–2 days
+ 
+<section> Non-adherence for >2 days
+ 
+<section> Adherence to treatment was assessed
+ during the previous 2 weeks. Assessment
+ follow-up, or success at 12 months).
+ 
+<section> 2-month visit 6-month visit 9-month
+ 
+<section> (n=95) 
+<section> (n=90)* 
+<section> (n=51)†
+ 
+<section> 53 (56%) 
+<section> 62 (69%) 
+<section> 35
+ 23 (24%) 
+<section> 13 (14%) 
+<section> 10
+ 19 (20%) 
+<section> 14 (16%) 2
+ 
+<section> at each follow-up by asking participants how
+ continued for participants until the respective
+ *One reply missing. †Three replies missing.
+ 
+<section> spike of more than 5 mm Hg within
+ two (2%) of 104 repeat SLT procedures
+ reversible IOP spikes.
+ 
+<section> Discussion
+ This randomised controlled trial
+ drops with SLT in patients with
+ SLT was superior to timolol in
+ an OR of 3·37 in favour of SLT
+ p<0·0001). This difference between
+ was not significantly modified
+ or baseline IOP.
+ A previous meta-analysis estimated
+ ence in IOP reduction between
+ 3 months as 3·70 mm Hg (95%
+ observed a comparable IOP reduction
+ group of 3·22 mm Hg (SD 7·51)
+ IOP lowering in the SLT group
+ 6·28 mm Hg (SD 6·13). To our
+ direct comparison has been made
+ timolol eye drops, the most affordable
+ available IOP lowering drug. 26,30
+ Gazzard and colleagues 13 compared
+ conservative treatment to reduce
+ White study population in the UK.
+ an algorithm to define individual
+ progression rules. Of the 536
+ 
+<section> first, 419 (78%) required no additional medication
+ visit 12-month (n=36) visit to reach target IOP, and 321 (60%) required only a
+ single SLT treatment. 13 Realini and colleagues 31 reported a
+ 
+<section> (69%) 27 (75%) study of 72 participants from an African Caribbean
+ 
+<section> (20%) 7 (19%) population with a 12-month success rate of 78%, using a
+ 
+<section> (4%) 2 (6%) 20% reduction from baseline IOP as success criterion.
+ 
+<section> frequently they took their eye drops Our adjusted multivariable model showed that a more
+ study exit (eg, failure, loss to advanced stage of glaucoma, higher baseline IOP, and
+ the presence of exfoliation glaucoma were all associated
+ similarly to other studies. 13 SLT caused reversible changes
+ in the anterior chamber and corneal endothelium,
+ the first hour, and as well as no or mild pain in most patients. 34 After
+ were followed by excluding patients with asthma and bradycardia, timolol
+ eye drops caused no clinically significant com­plaints.
+ The extensive counselling by two Tanzanian research
+ assistants probably played an important role in the high
+ compared timolol eye acceptance of both treatment methods, which could have
+ glaucoma in Tanzania. possibly been lower otherwise. This trusting relationship
+ controlling IOP, with and the provision of treatment at no cost probably
+ (95% CI 1·96–5·80; contributed to the higher adherence to timolol eye drops
+ the two interventions in this trial compared with that observed in other
+ by the stage of glaucoma studies. 22,35
+ There was no significant difference in preserving visual
+ the mean differ­ function or vision-related quality of life between the two
+ timolol and placebo at groups. Gazzard and colleagues 13 compared conservative
+ CI 3·16–4·24). 30 We treatment with SLT for patients with newly diagnosed
+ in the timolol glaucoma, in which general quality of life was the
+ at the 2-month visit. primary outcome. The trial did not find a difference in
+ at the 2-month visit was quality of life between the two intervention groups.
+ knowledge, no previous Besides the superior efficacy, comparable safety, and
+ between SLT and acceptance of SLT, cost is also an important factor. Out-
+ and commonly of-pocket payment is still common in many countries
+ and, even if national health insurance options are
+ SLT with any available, uptake might still be low. 15 If an eye care unit
+ IOP in a predominantly uses SLT to treat at least 500 eyes with glaucoma per year,
+ The authors followed SLT laser therapy can be offered for around US$12·50,
+ target IOPs and including estimates for salaries, cost of repair, and
+ eyes treated with SLT maintenance. The cost of repairing imported equipment 
+<section> can be high in regions where specialised service included
+ personnel sometimes need to be flown in or the study enrolled
+ equipment needs to be shipped abroad for maintenance only (IOP
+ or repair. 36 The salaries of ophthal­mologists and other The results
+ eye care professionals are a crucial component. Both instead
+ treatments can be offered as an affordable intervention treatment
+ for glaucoma using the annual gross domestic product further,
+ per capita as a surrogate for income and an affordability before
+ threshold of 2·5%. important
+ Our trial has several limitations. To establish the IOP- Additionally,
+ lowering effect or the efficacy as accurately as possible, trabeculectomy
+ adherence to regular follow-up visits and eye drops was or when
+ promoted through intensive counselling, phone call important
+ reminders, and subsidies for travel and treatment in this
+ expenses. Although these efforts resulted in high follow- per year
+ up rates, they are also a limitation of the study given that be embedded
+ the results probably underestimate the difference network
+ between laser and eye drops, favouring timolol through with an
+ the provision of free treatment, more intensive associated
+ counselling, and transport support. Eye drops need to be enabling
+ applied daily and new bottles need to be purchased every settings,
+ few weeks for consistent IOP control. By contrast, SLT these large
+ treatment requires only occasional IOP measurements the demand
+ and retreatments, if the IOP increases. SLT was treatment
+ consistently performed by one experienced eye surgeon, In summary,
+ which assisted in determining the best possible efficacy increase
+ of the procedure; however, such efficacy might not always in resource-limited
+ be achieved, especially while eye care professionals are in Health
+ their learning curve. A further limitation is the follow-up that research
+ of 1 year. Although 1 year is a sufficient period to estimate contextually
+ the IOP-lowering potential of the interventions in our glaucoma.
+ cohort, changes in visual outcomes, vision-related quality that SLT
+ of life, long-term effects on IOP lowering, and the IOP in
+ progression of glaucoma might only become apparent Both interventions
+ over a longer period of time. Longer follow-up would also acceptance
+ allow target IOPs to be evaluated on and adjusted for preservation
+ particular eyes if necessary. Treatment affordability and of procedures
+ cost were used to compare the two treatment alternatives, can be
+ which is of particular relevance in regions with a timolol
+ high proportion of out-of-pocket payments. However, Africa,
+ more comprehensive economic evaluations, such as an to an affordable
+ extended cost-effectiveness analysis that adds non- blindness
+ health benefits, including the financial risk protection 
+<section> Contributors
+ and distributional consequences (eg, equity), are HP, PS, and
+ also particularly relevant in these regions and should designed
+ be considered in future studies. Furthermore, it could FAM, VdG,
+ verified the
+ be argued that alternative topical treatments, such as DM, PS, AM,
+ prostaglandin analogues, might have been more effective draft of the
+ than timolol. However, our choice was deliberate because HP and MJB
+ timolol is the current standard of care in the region, and supervisors.
+ had final responsibility
+ such alternatives are either unavailable or prohibitively
+ expensive. 
+<section> Declaration
+ GG reports
+ The target threshold of 18 mm Hg for advanced Genentech–Roche,
+ glaucoma was informed by the associative analysis of Thea; grants
+ the AGIS trial, which found this threshold to be involvement
+ protective against further progression during a follow- submitted
+ trials (LIGHT,
+ up period of 6 years. It is noteworthy that AGIS also competing
+ 
+<section> Articles
+ 
+<section> patients with low baseline IOP, whereas our
+ patients with high-pressure glaucoma
+ 
+<section> >21 mm Hg).
+ from this trial suggest that SLT can be used
+ of timolol eye drops, the current first-line
+ in sub-Saharan Africa. If glaucoma progresses
+ SLT can be repeated or combined with eye drops
+ resorting to trabeculectomy, which remains an
+ treatment option for patients with glaucoma.
+ if surgeons are not confident in performing
+ (eg, in patients with end-stage glaucoma
+ patients refuse surgery), SLT could have an
+ role. The initial investment cost can be offset,
+ context, by completing around 500 procedures
+ over 10 years. The laser treatment option could
+ in a comprehensive glaucoma management
+ strategy based around large eye units equipped
+ SLT laser. This strategy would need to be closely
+ with improving community awareness,
+ early detection of glaucoma in primary care
+ and strengthening the referral pathways to
+ eye units. Such an approach could increase
+ for affordable and convenient glaucoma
+ options, such as SLT.
+ the prevalence of glaucoma is set to
+ due to ageing and population growth, mainly
+ settings. 5,37,38 The Lancet Global
+ Commission on global eye health suggested
+ action is urgently needed to develop
+ relevant management strategies for
+ 38 The findings from this trial clearly indicate
+ is superior to timolol eye drops in controlling
+ patients with open-angle glaucoma in Tanzania.
+ showed similar safety profiles,
+ by patients, vision-related quality of life, and
+ of visual acuity. Depending on the number
+ and the funding model, SLT treatment
+ offered at a similar cost to a 1-year supply of
+ eye drops. Ultimately, this trial, completed in
+ provides strong evidence that SLT can contribute
+ management strategy for preventing
+ from glaucoma.
+ 
+<section> MJB did the literature search. HP, PS, GG, WUM, and MJB
+ the trial. HP, EiM, KMK, EdM, SM, APM, CM, MM, AJN,
+ ElM, and NF collected the data. HP, KMK, MJB, and DM
+ data. HP, DM, AM, and MJB did the statistical analysis. HP,
+ and MJB interpreted data. HP and MJB wrote the first
+ research report. All authors critically revised the manuscript.
+ obtained funding. MJB and WUM were the study
+ All authors had full access to all the data in the study and
+ for the decision to submit for publication.
+ 
+<section> of interests
+ 
+<section> personal fees from Alcon, Allergan, Belkin, Equinox,
+ Glaukos, Ivantis, Reichert, Sight Sciences, and from
+ from Belkin, Santen, and from Thea; and non-financial
+ with the patient advocacy group GlaucomaUK, outside the
+ work; he is also a co-investigator on three other major SLT
+ COAST, and Belkin laser). All other authors declare no
+ interests. 
+<section> Articles
+ 
+<section> Data sharing
+ 
+<section> The National Institute for Medical Research in Tanzania requires that all
+ data sharing requests are reviewed and approved by them before data can
+ be shared. Deidentified participant data is available to any researcher under
+ reasonable request. To facilitate the data access process, please contact
+ ethics@lshtm.ac.uk. The study protocol and statistical analysis plan are
+ available from the corresponding author under reasonable request.
+ 
+<section> Acknowledgments
+ The Kilimanjaro Glaucoma Intervention Programme (KiGIP) SLT trial
+ was funded by the Seeing is Believing Innovation Fund, a collaboration
+ between Standard Chartered Bank and International Agency for
+ Prevention of Blindness, and Christian Blind Mission.
+ MJB is supported by The Wellcome Trust (207472/Z/17/Z).
+ GG is employed by University College London (London, UK) and
+ supported by grants from the National Institute for Health Research
+ (HTA 09/104/40), Moorfields Eye Charity, British Council to Prevent
+ Blindness, Fight for Sight, and the International Glaucoma
+ Association. GG is grateful for the support of the National Institute for
+ Health Research Biomedical Research Centre for Ophthalmology at
+ Moorfields Eye Hospital and the University College London Institute of
+ Ophthalmology (London, UK). We thank the trial participants for their
+ trust and commitment. We thank the members of the patient steering
+ group, as well as the data and safety monitoring board for their services
+ and valuable input. In addition, we gratefully acknowledge the
+ continued support of the administrative teams of the International
+ Centre for Eye Health (London, UK), the Eye Department of
+ Kilimanjaro Christian Medical Centre (Moshi, Tanzania), and
+ Christian Blind Mission. We thank the regional eye care coordinator,
+ the Kilimanjaro Christian Medical University College (Moshi,
+ Tanzania), and National Institute for Medical Research Dar es Salaam
+ (Dar es Salaam, Tanzania) for their support. Finally, we gratefully
+ acknowledge Marenka S Philippin and Agnes Wiebe, who helped with
+ proofreading and translating the summaries. The SLT and the
+ 0·5% timolol eye drops were purchased at their regular prices without
+ a manufacturer discount.
+ 
+<section> References
+ 
+<section> Crabb DP, Smith ND, Glen FC, Burton R, Garway-Heath DF.
+ How does glaucoma look? Patient perception of visual field loss.
+ 
+<section> Ophthalmology 2013; 120: 1120–26.
+ The AGIS Investigators. The Advanced Glaucoma Intervention
+ 
+<section> Study (AGIS): 7. The relationship between control of intraocular
+ pressure and visual field deterioration. Am J Ophthalmol 2000;
+ 
+<section> 130: 429–40.
+ Heijl A, Leske MC, Bengtsson B, Hyman L, Bengtsson B,
+ Hussein M. Reduction of intraocular pressure and glaucoma
+ progression: results from the Early Manifest Glaucoma Trial.
+ 
+<section> Arch Ophthalmol 2002; 120: 1268–79.
+ Adelson JD, Bourne RRA, Briant PS, et al. Causes of blindness and
+ vision impairment in 2020 and trends over 30 years, and prevalence
+ of avoidable blindness in relation to VISION 2020: the Right to
+ 
+<section> Sight: an analysis for the Global Burden of Disease Study.
+ 
+<section> Lancet Glob Health 2021; 9: e144–60.
+ Tham YC, Li X, Wong TY, Quigley HA, Aung T, Cheng CY.
+ Global prevalence of glaucoma and projections of glaucoma burden
+ through 2040: a systematic review and meta-analysis. Ophthalmology
+ 
+<section> 2014; 121: 2081–90.
+ Resnikoff S, Lansingh VC, Washburn L, et al. Estimated number
+ of ophthalmologists worldwide (International Council of
+ 
+<section> Ophthalmology update): will we meet the needs? Br J Ophthalmol
+ 
+<section> 2020; 104: 588–92.
+ Ocansey S, Kyei S, Diafo A, Darfor KN, Boadi-Kusi SB, Aglobitse PB.
+ Cost of the medical management and prescription pattern for
+ primary open angle glaucoma (POAG) in Ghana-a retrospective cross-
+ sectional study from three referral facilities. BMC Health Serv Res
+ 
+<section> 2016; 16:
+ 
+<section> Murdoch I, Smith AF, Baker H, Shilio B, Dhalla K. The cost and
+ quality of life impact of glaucoma in Tanzania: an observational
+ study. PLoS One 2020; 15: e0232796.
+ Agrawal P, Shah P, Hu V, Khaw PT, Holder R, Sii F. ReGAE 9:
+ baseline factors for success following augmented trabeculectomy
+ with mitomycin C in African-Caribbean patients.
+ 
+<section> Clin Exp Ophthalmol 2013; 41: 36–42.
+ 
+<section> Abdull MM, Gilbert CC, Evans J. Primary open angle glaucoma in
+ northern Nigeria: stage at presentation and acceptance of treatment.
+ 
+<section> BMC Ophthalmol 2015; 15:
+ Kabiru J, Bowman R, Wood M, Mafwiri M. Audit of trabeculectomy
+ at a tertiary referral hospital in East Africa. J Glaucoma 2005;
+ 
+<section> 14: 432–34.
+ Smith AF, Negretti G, Mascaro A, et al. Glaucoma control strategies
+ in sub-Saharan Africa: a review of the clinical and health economic
+ evidence. Ophthalmic Epidemiol 2018; 25: 419–35.
+ Gazzard G, Konstantakopoulou E, Garway-Heath D, et al. Selective
+ laser trabeculoplasty versus eye drops for first-line treatment of
+ ocular hypertension and glaucoma (LiGHT): a multicentre
+ randomised controlled trial. Lancet 2019; 393: 1505–16.
+ Katz LJ, Steinmann WC, Kabir A, Molineaux J, Wizov SS,
+ Marcellino G. Selective laser trabeculoplasty versus medical therapy
+ as initial treatment of glaucoma: a prospective, randomized trial.
+ 
+<section> J Glaucoma 2012; 21: 460–68.
+ Kyari F, Adekoya B, Abdull MM, Mohammed AS, Garba F.
+ The current status of glaucoma and glaucoma care in sub-Saharan
+ Africa. Asia Pac J Ophthalmol (Phila) 2018; 7: 375–86.
+ Foster PJ, Buhrmann R, Quigley HA, Johnson GJ, Johnson JG.
+ The definition and classification of glaucoma in prevalence surveys.
+ 
+<section> Br J Ophthalmol 2002; 86: 238–42.
+ Spaeth GL, Henderer J, Liu C, et al. The disc damage likelihood
+ scale: reproducibility of a new method of estimating the amount of
+ optic nerve damage caused by glaucoma. Trans Am Ophthalmol Soc
+ 
+<section> 2002; 100: 181–85.
+ WHO. Consultation on development of standards for
+ characterization of vision loss and visual functioning. https://apps.
+ who.int/iris/handle/10665/68601 (accessed Sept 14, 2021).
+ Lee BL, Gutierrez P, Gordon M, et al. The Glaucoma Symptom
+ Scale. A brief index of glaucoma-specific symptoms.
+ 
+<section> Arch Ophthalmol 1998; 116: 861–66.
+ Somner JEA, Sii F, Bourne RR, Cross V, Burr JM, Shah P.
+ Moving from PROMs to POEMs for glaucoma care: a qualitative
+ scoping exercise. Invest Ophthalmol Vis Sci 2012; 53: 5940–47.
+ Bastawrous A, Rono HK, Livingstone IAT, et al. Development and
+ validation of a smartphone-based visual acuity test (peek acuity) for
+ clinical practice and community-based fieldwork. JAMA Ophthalmol
+ 
+<section> 2015; 133: 930–37.
+ Shaarawy TM, Sherwood MB, Grehn F. WGA guidelines on design
+ and reporting of glaucoma surgical trials. Amsterdam: Kugler
+ Publications, 2009.
+ Tonnu PA, Ho T, Sharma K, White E, Bunce C, Garway-Heath D.
+ A comparison of four methods of tonometry: method agreement
+ and interobserver variability. Br J Ophthalmol 2005; 89: 847–50.
+ Gilmour-White JA, Shah P, Cross V, Makupa W, Philippin H.
+ Glaucoma awareness and access to healthcare: perceptions among
+ glaucoma patients in Tanzania. Postgrad Med J 2015; 91: 373–78.
+ Serje J, Bertram MY, Brindley C, Lauer JA. Global health worker
+ salary estimates: an econometric analysis of global earnings data.
+ 
+<section> Cost Eff Resour Alloc 2018; 16:
+ Zhao PY, Rahmathullah R, Stagg BC, et al. A worldwide price
+ comparison of glaucoma medications, laser trabeculoplasty,
+ and trabeculectomy surgery. JAMA Ophthalmol 2018; 136: 1271–79.
+ Realini T, Godin D. Selective laser trabeculoplasty for the
+ management of open-angle glaucoma in St. Lucia.
+ 
+<section> JAMA Ophthalmol 2013; 131: 321–27.
+ Rajak SN, Habtamu E, Weiss HA, et al. Absorbable versus silk
+ sutures for surgical treatment of trachomatous trichiasis in
+ 
+<section> Ethiopia: a randomised controlled trial. PLoS Med 2011; 8: e1001137.
+ Levesque JF, Harris MF, Russell G. Patient-centred access to health
+ care: conceptualising access at the interface of health systems and
+ populations. Int J Equity Health 2013; 12:
+ Li T, Lindsley K, Rouse B, et al. Comparative effectiveness of first-
+ line medications for primary open-angle glaucoma: a systematic
+ review and network meta-analysis. Ophthalmology 2016; 123: 129–40.
+ Realini T, Shillingford-Ricketts H, Burt D, Balasubramani GK.
+ West Indies Glaucoma Laser Study (WIGLS): 1. 12-month efficacy
+ of selective laser trabeculoplasty in Afro-Caribbeans with glaucoma.
+ 
+<section> Am J Ophthalmol 2017; 184: 28–33.
+ Katsanos A, Konstas AGP, Mikropoulos DG, et al. A review of the
+ clinical usefulness of selective laser trabeculoplasty in exfoliative
+ glaucoma. Adv Ther 2018; 35: 619–30. 
+<section> Olawoye OO, Pasquale LR, Ritch R. Exfoliation syndrome in Damji
+ sub-Saharan Africa. Int Ophthalmol 2014; 34: 1165–73. Saharan
+ White AJ, Mukherjee A, Hanspal I, Sarkies NJ, Martin KR, Shah P. capacity
+ Acute transient corneal endothelial changes following selective laser WHO.
+ trabeculoplasty. Clin Exp Ophthalmol 2013; 41: 435–41. publications/i/item/9789241516570
+ Murdoch I, Nyakundi D, Baker H, Dulku S, Kiage D. Adherence Burton
+ with medical therapy for primary open-angle glaucoma in Kenya – Commission
+ a pilot study. Patient Prefer Adherence 2020; 14: 221–25. Lancet
+ 
+<section> Articles
+ 
+<section> KF, Nazarali S, Giorgis A, et al. STOP Glaucoma in Sub
+ 
+<section> Africa: enhancing awareness, detection, management, and
+ for glaucoma care. Expert Rev Ophthalmol 2017; 12: 197–206.
+ World report on vision. Oct 8, 2019. https://www.who.int/
+ (accessed Sept 14, 2021).
+ MJ, Ramke J, Marques AP, et al. The Lancet Global Health
+ on Global Eye Health: vision beyond 2020.
+ 
+<section> Glob Health 2021; 9: e489–551.

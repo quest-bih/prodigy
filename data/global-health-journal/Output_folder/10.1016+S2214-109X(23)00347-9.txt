@@ -1,0 +1,1623 @@
+
+<section> HHS Public Access
+ 
+<section> Author manuscript
+ 
+<section> Lancet Glob Health. Author manuscript; available in PMC 2023 October
+ Author
+ 
+<section> Published in final edited form as:
+ Lancet Glob Health. 2023 October ; 11(10): e1619–e1628. doi:10.1016/S2214-109X(23)00347-9.
+ 
+<section> Manuscript
+ 
+<section> A cardiovascular polypill for secondary stroke prevention in
+ a tertiary centre in Ghana (SMAART): a phase 2 randomised
+ 
+<section> clinical trial
+ 
+<section> Fred Stephen Sarfo,
+ 
+<section> Jenifer Voeks,
+ 
+<section> Author 
+<section> Sheila Adamu,
+ 
+<section> Benedict Apaw Agyei,
+ 
+<section> Manolo Agbenorku,
+ 
+<section> Manuscript
+ 
+<section> Nyantakyi Adu-Darko,
+ 
+<section> Mercy Adomah Oteng,
+ 
+<section> Vida Obese,
+ 
+<section> Rexford Adu Gyamfi,
+ 
+<section> Nathaniel Adusei Mensah,
+ 
+<section> Raelle Tagge,
+ 
+<section> Michael Ampofo,
+ 
+<section> Samuel Amoabeng Kontoh,
+ 
+<section> Author
+ 
+<section> Samuel Blay Nguah,
+ 
+<section> Bruce Ovbiagele
+ 
+<section> Manuscript (Prof F S Sarfo PhD, S B Nguah MD); 
+<section> Komfo Anokye Teaching Hospital, Kumasi, Ghana
+ (Prof F S Sarfo, S Adamu MD, B A Ageyi MSc, M Agebnorku MD, N Adu-Darko MD, M A
+ Otend PharmD, V Obese MD, R A Gyamfi MD, N A Mensah BA, M Ampofo BA, S A Kontoh
+ PharmD, S B Nguah); 
+<section> Medical University of South Carolina, Charleston, SC, USA (J Voeks
+ PhD); 
+<section> Northern Californian Institute of Research and Education, San Francisco, CA, USA
+ 
+<section> (R Tagge MSc); 
+<section> University of California San Francisco, San Francisco, CA, USA (Prof B
+ 
+<section> Ovbiagele MD)
+ 
+<section> Summary
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> This is an Open Access article under the CC BY-NC-ND 4.0 license.
+ 
+<section> Correspondence to: Prof Fred Stephen Sarfo, Kwame Nkrumah University of Science and Technology, Kumasi , Ghana
+ stephensarfo78@gmail.com.
+ 
+<section> Contributors
+ FSS and BO designed the study; FSS wrote the first draft of the manuscript, and BO supervised. JV and SBN performed data analysis;
+ FSS and JV have directly accessed and verified the data reported in the manuscript. All authors reviewed and approved the final draft
+ of the manuscript. All authors had full access to the data and had final responsibility for the decision to submit for publication.
+ For the Akan (Twi) translation of the abstract see 
+<section> Online for appendix
+ Declaration of interests
+ We declare no competing interests. 
+<section> Background—A cardiovascular polypill containing
+ 
+<section> Author implementation of and adherence to evidence-based
+ settings. However, the impact of a cardiovascular
+ stroke survivors has not been assessed. We aimed
+ 
+<section> Manuscript
+ 
+<section> carotid intima-media thickness (CIMT) regression
+ 
+<section> Methods—In SMAART, a phase 2 parallel, open-label,
+ trial, we randomly allocated individuals (aged
+ the previous 2 months, using a computer-generated
+ polypill or usual care group at a tertiary centre
+ pill containing 5 mg ramipril, 50 mg atenolol,
+ and 100 mg aspirin administered as two capsules
+ tailored guideline-recommended secondary prevention
+ change in CIMT over 12 months with adjustment
+ 
+<section> Author
+ 
+<section> in all participants with complete data at month
+ participants. This trial is registered at ClinicalTrials.gov,
+ 
+<section> Manuscript 
+<section> Findings—Between Feb 12, 2019, and Dec
+ to the usual care group and 74 to the polypill group),
+ female. CIMT was assessed in 62 (84%) of 74
+ of 74 participants in the polypill group; the main
+ completing the study. The mean CIMT change
+ −0·051) in the usual care group versus −0·017
+ an adjusted mean difference of 0·049 (−0·008
+ among two (3%) participants in the usual care
+ group (p=0·049).
+ 
+<section> Author 
+<section> Interpretation—The polypill regimen resulted
+ and many secondary and tertiary outcome measures
+ serious adverse events. Larger, longer-term, event-based
+ 
+<section> Manuscript
+ 
+<section> primary care settings, are warranted.
+ 
+<section> Funding—US National Institutes of Health.
+ 
+<section> Introduction
+ 
+<section> Secondary prevention guidelines recommend
+ therapy should be initiated promptly
+ to achieve optimal vascular risk reduction.
+ confronted with polypharmacy and
+ 
+<section> Author adherence to therapy aimed at reducing
+ the affordability of lifelong secondary
+ low-resource settings. 6 Therefore, identifying
+ 
+<section> Manuscript
+ 
+<section> reduction is an urgent global health
+ 
+<section> Fixed-dose combination pills, also
+ one or multiple blood pressure lowering
+ and consequently reduce vascular risk
+ 
+<section> generic drugs might facilitate sustained
+ treatments, especially in resource-limited
+ polypill in mitigating atherosclerotic risk among
+ to compare a polypill regimen with usual care on
+ after ischaemic stroke.
+ 
+<section> assessor-masked, randomised clinical
+ ≥18 years) who had an ischaemic stroke within
+ randomisation sequence (1:1), to either a
+ in Ghana. The polypill regimen was a fixed-dose
+ 12·5 mg hydrochlorothiazide, 20 mg simvastatin,
+ once per day for 12 months. Usual care was
+ medications. The primary outcome was the
+ for baseline values, compared using ANCOVA
+ 12. Safety was analysed in all randomly assigned
+ NCT03329599, and is completed.
+ 
+<section> 4, 2020, we randomly assigned 148 participants (74
+ 74 (50%) of whom were male and 74 (50%)
+ participants in the usual care group and 59 (80%)
+ reason for loss to follow-up was participants not
+ at month 12 was −0·092 mm (95% CI −0·130 to
+ mm (−0·067 to 0·034) in the polypill group, with
+ to 0·109; p=0·11). Serious adverse events occurred
+ group, and eight (11%) participants in the polypill
+ in similar regression in subclinical atherosclerosis
+ as the tailored drug regimen, but with more
+ studies, including patients with stroke in
+ 
+<section> that antihypertensive, statin, and anti-platelet
+ after a stroke, and adhered to in a persistent method
+ 1–4 People who have survived a stroke are
+ complex treatment regimens, which engender low
+ adverse cardiovascular events. 5 Furthermore,
+ prevention therapies is a daunting proposition in
+ cost-effective interventions for vascular risk
+ priority.
+ 
+<section> known as polypills, containing aspirin, a statin, and either
+ medications could improve medication adherence
+ as a cost-effective intervention among patients at 
+<section> high vascular risk. 7 Among individuals
+ 
+<section> Author polypill was shown for primary prevention
+ clinical trials: Heart Outcomes Prevention
+ International Polypill Study (TIPS-3).
+ 
+<section> Manuscript
+ 
+<section> for secondary prevention after stroke
+ 11% of participants with previous vascular
+ of the polypill for secondary stroke
+ a history of stroke. 9 The only other
+ Secondary Prevention of Cardiovascular
+ people who had recently survived myocardial
+ 
+<section> To our knowledge, no previous secondary
+ in sub-Saharan Africa, a region with
+ 
+<section> Author profile across sub-Saharan Africa is
+ fatality rates, and more severe disability
+ those in high-income countries. 12–14
+ 
+<section> Manuscript benefit in low-income settings and
+ due to its cost-effectiveness. 15 In this
+ trial we assessed whether a polypill
+ statin, and antiplatelet therapy taken
+ thickness regression compared with
+ secondary preventive medications,
+ 
+<section> Methods
+ 
+<section> Study design and participants
+ 
+<section> Author
+ 
+<section> The Stroke Minimization through Additive
+ Treatment (SMAART) study is a phase
+ 
+<section> Manuscript clinical trial. The protocol for the study
+ been provided in appendix 2 (pp 2–9).
+ from the Committee of Human Research
+ the Northern California Institute of
+ SMAART was conducted at the Department
+ Hospital (KATH), a tertiary medical
+ a metropolitan city with a population
+ admits approximately 600 people with
+ 
+<section> Eligible participants were 18 years
+ 
+<section> Author stroke that occurred less than 2 months
+ the following additional conditions:
+ oral hypoglycaemic or insulin; documented
+ 
+<section> Manuscript
+ 
+<section> treatment with antihypertensive medications;
+ (estimated glomerular filtration rate
+ types eligible for inclusion were small
+ disease, and ischaemic stroke with
+ 
+<section> at intermediate to high vascular risk, efficacy of the
+ of major adverse vascular events in three major
+ Evaluation-3 (HOPE-3), 8 PolyIRAN, 9 and The
+ 10 However, published data on the effect of polypills
+ are scarce. Although the PolyIRAN study included
+ disease, it could not provide evidence of effect
+ prevention, due to its exclusion of participants with
+ published polypill trial for secondary prevention, the
+ Disease in the Elderly (SECURE) trial, focused on
+ infarction.
+ 
+<section> prevention polypill trial has being conducted
+ an unprecedented rise in stroke burden. The stroke
+ characterised by a younger age of onset, higher case
+ among people who have had a stroke compared with
+ The polypill has been posited to potentially be of most
+ under-resourced communities in high-income countries
+ phase 2, randomised, controlled, single tertiary centre
+ containing fixed doses of three antihypertensives, a
+ once per day orally would result in carotid intimal
+ standard of care, consisting of separate individual
+ among people in Ghana after first-time ischaemic stroke.
+ 
+<section> Anti-atherosclerotic Agents in Routine
+ 2 parallel, open-label, assessor-masked, randomised
+ has been published previously, 16 and a summary has
+ Institutional approvals for the study were obtained
+ Publication and Ethics in Kumasi, Ghana, and
+ Research and Education in San Francisco, CA, USA.
+ of Medicine of the Komfo Anokye Teaching
+ centre situated in the middle belt of Ghana. Kumasi is
+ of 4 million people and the neurology unit of KATH
+ stroke annually.
+ 
+<section> or older, with a recent CT-scan-confirmed ischaemic
+ before study enrolment, and at least one of
+ documented diabetes or previous treatment with an
+ hypertension (>140/90 mm Hg) or previous
+ or mild to moderate renal dysfunction
+ [eGFR] 30–60 mL/min per 1·73 m ). Ischaemic stroke
+ vessel occlusive disease, atherosclerotic large vessel
+ undetermined cause. 
+<section> Exclusion criteria were the inability to sign informed consent; contraindications to any of
+ 
+<section> Author the components of the polypill; intracerebral haemorrhagic stroke; cardioembolic ischaemic
+ stroke; severe cognitive impairment, dementia, or severe physical or mental global disability
+ limiting the capacity of self-care; severe congestive cardiac failure (New York Heart
+ 
+<section> Manuscript
+ 
+<section> Association classifications III–IV); severe renal disease (eGFR <30 mL/min per 1·73 m ),
+ renal dialysis, awaiting a renal transplant, or having received a renal transplant; cancer
+ diagnosis or treatment in previous 2 years; need for oral anticoagulation at the time of
+ random allocation or planned in future months; clinically significant arrhythmias (including
+ unresolved ventricular arrhythmias or atrial fibrillation); people who were breastfeeding or
+ pregnant; and not agreeing to the filing, forwarding, and use of their pseudonymised data.
+ Patients self-reported their sex as male or female.
+ 
+<section> Randomisation and masking
+ 
+<section> Author The potential study participants provided written informed consent before screening,
+ and those meeting eligibility criteria were invited to the research office for enrolment.
+ Eligible participants were randomly allocated to either the polypill group or active control
+ 
+<section> Manuscript
+ 
+<section> comparator group in a 1:1 ratio using a computer-generated randomisation sequence. Each
+ sequence generated was kept concealed in an opaque envelope and opened by the Research
+ Coordinator in the presence of the consenting eligible participant at enrolment. Neither
+ participants nor investigators were masked to group assignment in this open-label trial.
+ Measurements of the primary outcome measure were performed by two trained medical
+ sonographers who were masked to participant study group allocation. A masked nurse and
+ doctor pair who were not part of the study investigator team assessed secondary and tertiary
+ outcome measures.
+ 
+<section> Author 
+<section> Procedures
+ 
+<section> Patients allocated to the experimental group were provided with two Polycap pills (Cadila
+ Pharmaceuticals, Ahmedabad, India), taken orally once a day for 12 months. Each capsule
+ 
+<section> Manuscript
+ 
+<section> of Polycap contained 100 mg of aspirin, 20 mg of simvastatin, 12·5 mg hydrochlorothiazide,
+ 5 mg of ramipril, and 50 mg of atenolol. Patients assigned to the polypill had their
+ antihypertensive agents, lipid modifiers, and antithrombotic agents withdrawn and replaced
+ with the polypill if they were already receiving such treatments before enrolment.
+ 
+<section> Patients allocated to the control group received standard-of-care therapies for secondary
+ stroke prevention, with drugs and doses left to the discretion of the treating doctor. Routine
+ secondary prevention medications available in Ghana include antithrombotics (aspirin or
+ clopidogrel), statins (atorvastatin or rosuvastatin), and antihypertensive classes (angiotensin-
+ 
+<section> Author converting enzyme [ACE] inhibitors, angiotensin receptor blockers, β blockers, calcium
+ channel blockers, diuretics, and centrally acting agents). Of four study doctors, who were
+ either senior registrars or junior doctors in neurology or general medicine, two took care of
+ 
+<section> Manuscript participants in the polypill group and two took care of participants in the usual care group to
+ avoid contamination.
+ 
+<section> When available, stroke subtype information was collected to classify ischaemic stroke using
+ the TOAST classification 17 into large-artery, lacunar, and unclassified ischaemic strokes. 
+<section> Stroke severity and functional status at enrolment were assessed using the modified National
+ 
+<section> Author Institutes of Health Stroke Scale 
+<section> 18 and Modified Rankin score, 
+<section> 19 followed by an assessment
+ of vascular risk factors from history and physical examination: hypertension, diabetes,
+ dyslipidaemia, cigarette smoking, and alcohol use. Blood samples for baseline assessments
+ 
+<section> Manuscript
+ 
+<section> of renal and liver function, lipid profile, and glycated haemoglobin were collected and
+ contraindications for study medications assessed. Study participants were followed up
+ for 12 months with scheduled visits in KATH at months 1, 3, 6, 9, and 12 for clinical
+ assessments and primary, secondary, and tertiary study outcome evaluations. Adverse events
+ were assessed via both self-reports or reports by relatives, for any clinical event on a
+ continuous basis during follow-up, or assessed as abnormalities in monitored laboratory
+ parameters, such as liver and kidney function tests. Study doctors assessed participants
+ for adverse events and graded these as mild, moderate, severe, or serious based on the
+ common terminology criteria for adverse events, and recorded these into the case record
+ 
+<section> Author forms. Serious adverse events were reported to the Ghana Foods and Drugs Authority and
+ institutional review board within 48 h of the study team becoming aware.
+ 
+<section> Manuscript 
+<section> Outcomes
+ 
+<section> The primary outcome measure was change in the common carotid intima-media thickness
+ (CIMT) over 12 months from baseline compared between the two groups. CIMT was
+ measured using a Samsung SonoAce R7 Ultrasound machine (Gangwon-do, South Korea) at
+ 1 cm portions of the distal left and right common carotid artery far walls with a linear
+ transducer (transducer frequency of 7·5 MHz) with axial resolution of 0·10 mm, and
+ calculated automatically over three cardiac cycles following the Mannheim consensus.
+ Average thickness of the left and right carotid arteries was used as the outcome measure.
+ Each of the two sonographers obtained measurements independently of one another, and the
+ 
+<section> Author readings were averaged. A post-hoc intracluster correlation coefficient for common CIMT
+ measurements by the two sonographers of 0·51 for the left carotid artery and 0·53 for the
+ right carotid artery, were deemed fair agreement (excellent agreement was deemed as 0·81–
+ 
+<section> Manuscript
+ 
+<section> 1·00).
+ 
+<section> Secondary outcome measures included medication adherence, assessed via the self-reported
+ Morisky-Green Adherence Scale score and the Hill Bone medication adherence scale.
+ Medication possession ratio by pill counts, although proposed, could not be performed
+ consistently in the usual care group, so was not reported. Safety and tolerability measures,
+ such as changes in eGFR over 12 months, transaminitis on liver function tests, side-
+ effects, and discontinuation of study medications and regimen adjustments, including the
+ need to add on other secondary prevention interventions during follow-up, were also
+ 
+<section> Author monitored. Other secondary outcomes were health-related quality-of-life changes measured
+ by the EQ-5D questionnaire, 
+<section> 21 patient satisfaction measured by the Treatment Satisfaction
+ Questionnaire for Medication, 
+<section> 22 global cognitive scores over 12 months measured by the
+ 
+<section> Manuscript Montreal Cognitive Assessment score, 
+<section> 23 and depression risk measured by the Hamilton
+ Rating Scale for Depression. 
+<section> 24 Prespecified tertiary or exploratory outcomes included
+ assessment of changes in systolic blood pressure, diastolic blood pressure, and LDL-
+ cholesterol at 12 months from baseline. In addition, all-cause mortality, major adverse
+ cardiovascular events, and rehospitalisation for any cardiovascular-related events were also 
+<section> assessed as prespecified outcomes. A full list of outcome measures is provided in appendix
+ 
+<section> Author 2 (pp 5–6) and in the published protocol; 
+<section> 16 a limited summary of outcomes is listed on
+ ClinicalTrials.gov.
+ 
+<section> Manuscript 
+<section> Statistical analysis
+ 
+<section> To generate the sample size, we estimated the rate of change in common CIMT among
+ people on statin therapy to be approximately 0·085 mm per year with a standard deviation of
+ 0·035. 
+<section> 25 On the assumption that the polypill would slow CIMT progression, at an annualised
+ rate of 0·064 mm per year, with a two-sided α of 0·05 and 90% power, we would require
+ 118 patients (148 patients with a 20% drop-out rate) for our primary outcome measure. We
+ sought, and were granted, ethical approval to amend our initial published sample size of
+ to
+ 
+<section> Author Primary, secondary, and tertiary efficacy outcome measures were performed according to
+ a modified intention-to-treat (ITT) principle, whereby participants with missing data at
+ month 12 for datapoints collected at both baseline and the end of the study were excluded.
+ 
+<section> Manuscript All participants who were randomly assigned were assessed for safety outcomes. A p
+ value of less than 0·05 was considered to indicate statistical significance. Mean differences
+ (with 95% CI) in CIMT changes, systolic and diastolic blood pressures, adherence scores,
+ treatment satisfaction scores, quality of life, cognitive measures, and functional status at
+ months from baseline by study group were compared using an ANCOVA with adjustment
+ for baseline values. The numbers of safety outcomes were summarised according to the
+ treatment group, and compared with the use of χ 2 tests or Fisher exact tests. Sensitivity
+ analyses, with imputation for missing data, were conducted using multiple imputations by
+ chain equations in all randomly assigned participants. All analyses were performed with
+ 
+<section> Author the use of Stata software (version 16.0) and the R statistical software (version 4.3.0). A
+ Data Safety and Monitoring Board made up of three members met twice a year to review
+ the safety, ethics, and outcomes of the study. The trial was registered at ClinicalTrials.gov,
+ 
+<section> Manuscript 
+<section> NCT03329599.
+ 
+<section> Role of the funding source
+ The funders of the study had no role in study design, data collection, data analysis, data
+ interpretation, or writing of the report.
+ 
+<section> Results
+ 
+<section> Between Feb 12, 2019, and Dec 4, 2020, we assessed 247 potential participants for
+ eligibility. 99 people were ineligible due to not meeting the eligibility criteria (n=55)
+ 
+<section> Author
+ 
+<section> or because they declined to participate (n=44). Of the 148 who were eligible, 74 were
+ randomly allocated to either the usual care group or polypill group. In the usual care group
+ 
+<section> Manuscript 64 (86%) of 74 patients completed the study and were in the modified ITT population and
+ analysed for the primary outcome and the secondary and tertiary outcomes, versus 59 (80%)
+ of 74 patients in the polypill group. Reasons for loss to follow up are shown in the figure.
+ The study was conducted between Feb 12, 2019, and Dec 7, 2021. 
+<section> Baseline characteristics are shown in table 1. The mean age was 58·5 years (SD 10·7) for the
+ 
+<section> Author polypill group and 58·1 years (13·3) in the usual care group.
+ 
+<section> Before random allocation, the proportion of participants on antiplatelet therapy was
+ 
+<section> Manuscript (84%) of 74 in the polypill group and 66 (89%) of 74 in the usual care group, and
+ the number of participants on high intensity atorvastatin was 55 (74%) and 63 (85%),
+ respectively. The most frequently prescribed antihypertensive drug class was calcium
+ channel blockers, followed by angiotensin receptor blockers (table 1). After random
+ allocation, all prescribed secondary prevention medications were stopped and replaced with
+ the polypill for participants assigned to the polypill group, but continued for those assigned
+ to the usual care group.
+ 
+<section> The mean change in CIMT at month 12 from baseline was −0·017 mm (95% CI −0·067 to
+ 0·034) in the polypill group versus −0·092 mm (−0·130 to −0·051) in the usual care group,
+ 
+<section> Author
+ 
+<section> with an adjusted mean difference between the two groups of 0·049 mm (−0·008 to 0·109;
+ p=0·11; table 2).
+ 
+<section> Manuscript
+ 
+<section> No between-group differences were observed in secondary outcome measures, namely
+ quality of life, medication adherence, treatment satisfaction, global cognitive performance,
+ functional status, and depression scores at month 12 (table 2). Compared with baseline
+ values, at month 12 systolic blood pressure reduced by 15·7 mm Hg (95% CI −23·1 to
+ −8·3) in the polypill group and 17·6 mm Hg (−24·8 to −10·5) in the usual care group, and
+ diastolic blood pressure reduced by 7·9 mm Hg (−12·2 to −3·5) and 3·3 mm Hg (−7·7 to 1·0)
+ in each group, respectively. At month 12, 29 (49%) of 59 in the polypill group versus
+ (42%) of 64 in the usual care group had blood pressure less than 140/90 mm Hg (p=0·44).
+ Change in LDL-cholesterol was −7·87 mg/dL (−19·98 to 4·24) in the polypill group versus
+ 
+<section> Author 3·43 mg/dL (−8·77 to 15·63) in the usual care group (p=0·088), with 41 (72%) of 57 on
+ an LDL-cholesterol target of less than 100 mg/dL at month 12 in the polypill group versus
+ 37 (59%) of 63 in the usual care group (p=0·82). Appendix 2 (p 12) shows comparisons
+ 
+<section> Manuscript
+ 
+<section> between baseline and month 12 outcome measurements by study group.
+ 
+<section> In table 3, the primary and secondary outcome measures were similar compared with the
+ analysis without imputation for missing data. However, the mean reduction in diastolic
+ blood pressure by month 12 was significantly greater in the polypill group (−12·04 mm Hg
+ [95% CI −16·22 to −7·86]) versus the usual care group (−5·65 mm Hg [−9·91 to −1·39];
+ p=0·020). The adjusted mean difference in LDL-cholesterol between groups was −12·99
+ mg/dL (−27·30 to 1·32; p=0·075).
+ 
+<section> Serious adverse events occurred in eight (11%) of 74 participants on the polypill versus
+ 
+<section> Author
+ 
+<section> two (3%) of 74 in the usual care group (p=0·049). All-cause deaths occurred in five (7%)
+ participants in the polypill group versus two (3%) in the usual care group, post-stroke
+ 
+<section> Manuscript seizures occurred in two (3%) versus none, and hospitalisation in one (1%) versus none,
+ respectively (table 4). Four of the five deaths in the polypill group and both deaths in the
+ usual care group occurred among participants who also had type 2 diabetes. Specific causes
+ of death by study group include two cardiovascular deaths in the polypill group versus one 
+<section> cardiovascular death in the usual care group; three sepsis deaths occurred in the polypill
+ 
+<section> Author group but none in the usual care group (appendix 2 p 13).
+ 
+<section> Treatment discontinuations were all due to side-effects, notably ACE-inhibitor-associated
+ 
+<section> Manuscript cough in three (4%) of 74 participants in the polypill group. No participants in the
+ usual care group discontinued treatment due to adverse events. Cardiovascular medication
+ regimens were modified infrequently during follow-up of the trial, occurring in five (7%)
+ of 74 participants in the polypill group versus seven (10%) of 74 in the usual care group
+ (p=0·55). In the polypill group, treatment regimen adjustments involved the addition of
+ antihypertensive drug classes among participants whose blood pressure was not controlled
+ during follow-up. Rates of bradycardia, severely elevated blood pressure (>180/110 mmHg),
+ and hypotension (<90/60 mm Hg) by study group are shown in appendix 2 (p 14). Appendix
+ 2 (p 15) shows changes in liver enzymes and eGFRs. Clinical assessment data by scheduled
+ 
+<section> Author follow-up month are shown in appendix 2 (p 14).
+ 
+<section> Discussion
+ 
+<section> Manuscript
+ 
+<section> In this phase 2 clinical trial, secondary prevention after stroke using standard-of-care
+ therapy of individual antihypertensive, statin, and antithrombotic medications selected at
+ the discretion of doctors resulted in no difference in regression of CIMT over 12 months
+ than a fixed-dose polypill. Although the absolute mean difference in CIMT regression
+ over 12 months of −0·080 mm significantly favoured the usual care group compared with
+ the polypill group, this difference was not significant when baseline CIMT values were
+ accounted for using ANCOVA, and an even smaller difference was found between groups
+ after imputation for missing data in our sensitivity analysis. For randomised controlled
+ trials assessing quantitative treatment effects assessed before and after treatment, the use
+ 
+<section> Author of ANCOVA is deemed a more rigorous approach than Student’s t tests in terms of bias,
+ precision, and statistical power.
+ 
+<section> Manuscript There were similar reductions in blood pressure and LDL-cholesterol concentrations in
+ both groups at 12 months, both of which are key pathophysiological determinants of
+ CIMT regression. It is plausible that differences in statins and antihypertensive drug
+ classes used in the polypill group relative to the usual care group could have accounted
+ for the adjusted mean difference of −0·049 mm per year of regression in CIMT, which,
+ although not significant, favoured the usual care group. Although the usual care group was
+ prescribed high intensity atorvastatin at doses ranging between 40 mg and 80 mg at stroke
+ onset, which continued during the trial, the polypill group were dosed with simvastatin
+ at 40 mg (equivalent to 20 mg of atorvastatin). A previous study among individuals
+ 
+<section> Author with familial hypercholesterolaemia treated with 80 mg of atorvastatin compared with
+ 40 mg of simvastatin reported a −0·067 mm per year regression in CIMT in favour of
+ atorvastatin. 
+<section> 26 Again, although the polypill group homogeneously received a combination
+ 
+<section> Manuscript of three antihypertensive drug classes (ACE inhibitor, β blocker, and a diuretic), drug
+ regimens for the usual care group were quite heterogeneous, and contained predominantly
+ angiotensin receptor blockers, calcium channel blockers, and a diuretic as the most
+ common combination. Meta-analytical data suggest that, among antihypertensive drug
+ classes, calcium channel blockers reduce CIMT more potently than other drug classes, 
+<section> independently of blood pressure lowering. 
+<section> 27 Despite the compositional differences in the
+ 
+<section> Author drug regimens between the two groups, regression of CIMT—a validated surrogate marker
+ of cardiovascular events—was similar among people who recently had a stroke in the
+ present study.
+ 
+<section> Manuscript
+ 
+<section> Treatment with the polypill was tolerated well, with an overall withdrawal rate of 4%
+ on account of persistent cough. It is important to emphasise that, in our study design,
+ participants assigned to the polypill were switched from their existing secondary prevention
+ medication directly to the polypill. We did not incorporate a run-in period to assess
+ tolerability and probable adherence of the polypill before randomisation, unlike previous
+ primary prevention polypill trials. The TIPS-3 study 
+<section> 10 had an active run-in period of
+ month, in which 715 (9·5%) of 7534 participants were not randomly allocated due to
+ side-effects, and 560 (7·4%) of 7534 were excluded as they did not reach 80% adherence.
+ 
+<section> Author It is noteworthy that although asymptomatic bradycardia was more frequently documented
+ in the polypill group, no treatment withdrawals were indicated on these accounts. Treatment
+ satisfaction ratings were similar between the two groups. Serious adverse events were more
+ 
+<section> Manuscript frequent in the polypill group than the usual care group. However, individual frequencies of
+ serious adverse events (deaths, hospitalisations, and seizures) were not significantly different
+ between the two groups (table 4). Although adherence to the polypill has been hypothesised
+ to be its main advantage, we did not observe superior self-reported adherence in the
+ polypill group compared with usual care. Furthermore, no between-group differences were
+ discovered in other exploratory secondary outcomes, including quality of life, functional
+ status, depression scores, and cognitive performance scores over 12 months. Nonetheless,
+ within-group comparisons from baseline to month 12 showed salutary effects in these
+ secondary outcome measures in each study group (appendix 2 p 12).
+ 
+<section> Author
+ 
+<section> Regarding blood pressure control, participants in the polypill group had a mean systolic
+ blood pressure reduction of 16 mm Hg compared with 18 mm Hg in the usual care
+ group, and a diastolic blood pressure reduction of 8 mm Hg versus 3 mm Hg in the
+ 
+<section> Manuscript
+ 
+<section> usual care group. In our sensitivity analysis with imputation for missing data in the ITT
+ dataset, diastolic blood pressure reduced significantly in the polypill group by −12 mm Hg
+ versus −6 mm Hg in the usual care group (p=0·020). Despite these reductions, only 49%
+ of participants in the polypill group versus 42% of participants in the usual care group
+ achieved blood pressure targets of less than 140/90 mm Hg at month 12. For a clinical
+ trial on secondary stroke prevention, this lower-than-expected control of blood pressure
+ is concerning. The most plausible proximate cause for the poor blood pressure control is
+ clinical inertia, whereby trial clinicians did not intensify therapy appropriately when blood
+ pressure goals were not reached. Among participants in the polypill group, only 7% had
+ 
+<section> Author additional classes of antihypertensive medications added during follow-up, compared with
+ 10% in the usual care group. For participants on the polypill, doctors might have been
+ reluctant to consider additional drug classes during follow-up due a perception that the
+ 
+<section> Manuscript
+ 
+<section> polypill should be taken as a single pill for secondary prevention of cardiovascular diseases.
+ However, for those in the usual care group, clinical inertia might have been due to concerns
+ with increasing the number of pills patients would take at a single time, from treatment
+ intensification, blood pressure measurements that were close to the target, and a focus on
+ other more urgent needs of patients who have had a stroke, such as rehabilitation and a host 
+<section> of other post-stroke complications. Another possible explanation could be the high burden of
+ 
+<section> Author treatment-resistant or refractory hypertension among people who have had a stroke, resulting
+ in difficulties in controlling blood pressure in this population.
+ 
+<section> Manuscript An LDL-cholesterol target of less than 100 mg/dL was achieved by 72% of participants
+ in the polypill group versus 59% in the usual care group. In the sensitivity analysis,
+ the polypill group had an 18·39 mg/dL reduction in LDL-cholesterol compared with a
+ 4·65 mg/dL reduction in the usual care group, a difference of nearly −12·99 mg/dL;
+ p=0·075. It is notable that the numerically better (although non-significant) reduction in
+ LDL-cholesterol was achieved with a polypill containing simvastatin, a moderate intensity
+ statin, compared with the usual care group, in which most participants were on atorvastatin
+ or rosuvastatin. It is likely that differences in adherence and quality of statins prescribed
+ in the usual care group could account partly for this observation. The polypill was taken
+ 
+<section> Author once daily in the morning, whereas the usual care participants had multiple individual
+ medications that they took throughout the day plus a nightly dose of atorvastatin or
+ rosuvastatin (more likely to be missed than medications taken during the daytime). A
+ 
+<section> Manuscript pill-count analysis for medication adherence instead of self-reported adherence might help
+ to elucidate the underlying determinants of LDL-cholesterol outcomes in future planned
+ studies. Our analyses of key vascular risk factor targets, although exploratory in nature,
+ do seem to suggest that the polypill has a similar effect to usual care on blood pressure
+ and LDL-cholesterol control for secondary stroke prevention. In the SECURE trial, 
+<section> 11 the
+ only published secondary polypill trial among people who had a myocardial infarction,
+ blood pressure and LDL-cholesterol control were similar between the polypill and usual
+ care groups at 24 months, akin to the findings in our present study. Deaths reported in the
+ present study were predominantly among participants with diabetes, a vascular risk group
+ at heightened risk of mortality. 
+<section> 28 Cardiovascular deaths occurred infrequently, with two
+ 
+<section> Author
+ 
+<section> (3%) events in the polypill group versus one (1%) event in the usual care group in the ITT
+ analysis.
+ 
+<section> Manuscript
+ 
+<section> This study was conducted in a single tertiary medical centre, limiting its generalisability.
+ Usual care was provided by physician specialists who were familiar with stroke guidelines
+ for secondary prevention. Future study designs should consider inclusion of primary
+ and secondary levels of health-care delivery in resource-limited settings to compare the
+ clinical utility and performance of polypills in these settings. For context, a previous study
+ found that up to 75% of people who had a stroke received post-discharge stroke care
+ in primary and secondary cadres of health-care delivery in Ghana. 
+<section> 29 Up to 50% of the
+ study population had ischaemic stroke of an undetermined cause, due to lack of diagnostic
+ investigation such as CT or magnetic resonance angiography, and Holter monitoring to
+ 
+<section> Author detect intracranial atherosclerotic disease and paroxysmal arrhythmias. Although having a
+ cardioembolic stroke was an explicit exclusion criterion because of the need for therapy
+ with anticoagulant, the challenge with diagnostic evaluation means that there is a possibility
+ 
+<section> Manuscript
+ 
+<section> that a proportion of participants with undetermined ischaemic stroke might have had a
+ cardioembolic stroke. We also acknowledge that the inter-rater agreement between the two
+ independent CIMT readings per participant by the sonographers using a post-hoc intracluster
+ correlation coefficient was fair. 
+<section> A study completion rate of 80% (59 of 74) in the polypill group versus 86% (64 of 74)
+ 
+<section> Author in the usual care group over 12 months for a stroke trial conducted during the COVID-19
+ pandemic is encouraging, and supports the feasibility of conducting similar clinical trials in
+ a resource-limited setting. To our knowledge, this is the first published trial assessing the
+ 
+<section> Manuscript
+ 
+<section> effect of the polypill for secondary stroke prevention in a population of people who had
+ already had a stroke. Another registered ongoing trial, the PROPS study on the preventive
+ role of a fixed-dose combination pill in patients with stroke in the UK (ISRCTN58452386),
+ is yet to publish their full results from a high-income country context.
+ 
+<section> Future studies should consider a longer follow-up to assess whether clinically relevant
+ outcomes, such as major adverse cardiovascular events, occur differentially in polypill
+ groups compared with usual care groups. It might be worthwhile considering polypill
+ preparations with high intensity statins, and different formulations of the polypill
+ 
+<section> Author with flexibility to allow for adjustments. For example, the CNIC (Spanish Centre for
+ Cardiovascular Research) polypill used in the SECURE trial 
+<section> 11 had two dose formats
+ for atorvastatin (20 mg and 40 mg) and three doses of ramipril (2·5 mg, 5 mg, or
+ 
+<section> Manuscript mg) plus 100 mg of aspirin, giving a total of six versions of the polypill for enhanced
+ flexibility and ease of dose adjustment. For antihypertensive combinations in future polypill
+ formulations, replacing ACE inhibitors, of which cough is a side-effect, with angiotensin
+ receptor blockers and atenolol with longer-acting calcium channel blockers might further
+ improve the tolerability and efficacy of the polypill for a much larger population of patients
+ for secondary prevention purposes. Understandably, such modifications of the composition
+ of the polypill would require further bioequivalence studies and regulatory approvals before
+ clinical testing for use. Given the heterogeneity of pathophysiological mechanisms for
+ ischaemic stroke, future trials should be powered to assess treatment effects by stroke
+ subtypes. Finally, robust implementation of outcome measures must be performed in future
+ 
+<section> Author
+ 
+<section> polypill trials to understand the barriers and facilitators associated with the uptake of this
+ intervention in resource-limited settings across the globe, as well as underserved populations
+ 
+<section> Manuscript in high-income countries. It is conceivable that the polypill could be positioned as a viable
+ and cost-effective treatment strategy for people who have had a stroke, a population who are
+ often burdened by complex treatment regimens and polypharmacy.
+ 
+<section> In conclusion, there was similar regression of CIMT over 12 months among people who
+ had recently had a stroke assigned to either the polypill or usual care group. Furthermore,
+ no significant differences in key cardiovascular risk factor outcomes, such as blood pressure
+ control, LDL-cholesterol targets, adherence, or individual safety endpoints were observed.
+ A phase 3 clinical trial with a non-inferiority design and longer follow-up is warranted to
+ assess the effect of a polypill among patients with ischaemic stroke.
+ 
+<section> Author
+ 
+<section> Supplementary Material
+ 
+<section> Manuscript Refer to Web version on PubMed Central for supplementary material.
+ 
+<section> Acknowledgments
+ 
+<section> This study was supported by the US National Heart, Lung, and Blood Institute (R01HL152188) and the US
+ National Institute of Neurological Disorders and Stroke (R21 NS103752–01 and R01NS129133). 
+<section> Data sharing
+ 
+<section> Author
+ 
+<section> The de-identified participant data, including
+ reported in this Article (texts, tables,
+ 
+<section> Manuscript statistical analysis plan, informed consent,
+ analysis and observational study analysis
+ further research in this field after signing
+ list the purpose of the study and analysis
+ 
+<section> References
+ 
+<section> 1. Kleindorfer DO, Towfighi A, Chaturvedi
+ with stroke and transient ischaemic attack.
+ 2. Dawson J, Béjot Y, Christensen LM,
+ 
+<section> Author on pharmacological interventions for
+ transient ischaemic attack. Eur Stroke
+ 3. Park JH, Ovbiagele B. Optimal combination
+ outcomes. Neurology 2015; 84: 50–56.
+ 
+<section> Manuscript
+ 
+<section> 4. Sarfo FS, Ovbiagele B, Akassi J, Kyem
+ secondary prevention drugs after an
+ 73. [PubMed: 28920085]
+ 5. Gibson J, Coupe J, Watkins C. Medication
+ Practicalities Framework to explore
+ barriers and solutions. J Res Nurs 2021;
+ 6. Levine DA, Kiefe CI, Howard G, Howard
+ a marker for vulnerability in US stroke
+ 7. Castellano JM, Sanz G, Peñalvo JL,
+ FOCUS project. J Am Coll Cardiol 2014;
+ 8. Yusuf S, Lonn E, Pais P, et al. Blood
+ 
+<section> Author cardiovascular disease. N Engl J Med
+ 9. Roshandel G, Khoshnia M, Poustchi
+ prevention of cardiovascular diseases
+ 
+<section> Manuscript 394: 672–83. [PubMed: 31448738]
+ 10. Yusuf S, Joseph P, Dans A, et al. Polypill
+ disease. N Engl J Med 2021; 384: 216–28.
+ 11. Castellano JM, Pocock SJ, Bhatt DL,
+ prevention. N Engl J Med 2022; 387:
+ 12. Owolabi MO, Akarolo-Anthony S,
+ the present and a glimpse into the future.
+ 13. Sarfo FS, Akpa OM, Ovbiagele B,
+ fatality across 16 large hospitals in
+ Health 2023; 11: E575–85. [PubMed:
+ 14. Sarfo FS, Akassi J, Ofori E, Ovbiagele
+ 
+<section> Author analysis by stroke types and subtypes.
+ 35926405]
+ 15. Sarfo FS, Nichols M, Opare-Addo PA,
+ 
+<section> Manuscript costs in low-income countries: moving
+ 2023; 54: 407–14. [PubMed: 36689592]
+ 16. Sarfo FS, Sarfo-Kantanka O, Adamu
+ atherosclerotic Agents in Routine Treatment
+ controlled trial. Trials 2018; 19: 181.
+ 
+<section> a data dictionary that underlies the results
+ figures, and appendix 2) and the study protocol,
+ and case record form will be shared for meta-
+ with anyone who wishes to access the data for
+ an agreement. To access the data, proposals should
+ and be directed to: stephensarfo78@gmail.com.
+ 
+<section> S, et al. Guideline for the prevention of stroke in patients
+ 
+<section> Stroke 2021; 52: e364–467. [PubMed: 34024117]
+ et al. European Stroke Organisation (ESO) guideline
+ long-term secondary prevention after ischaemic stroke or
+ 
+<section> J 2022; 7: I–II.
+ secondary prevention drug treatment and stroke
+ 
+<section> [PubMed: 25411440]
+ G. Baseline prescription and one-year persistence of
+ index stroke in central Ghana. eNeurologicalSci 2017; 6: 68–
+ adherence early after stroke: using the Perceptions and
+ stroke survivors’, informal carers’ and nurses’ experiences of
+ 26: 499–514. [PubMed: 35265156]
+ VJ, Williams OD, Allison JJ. Reduced medication access:
+ survivors. Stroke 2007; 38: 1557–64. [PubMed: 17395861]
+ et al. A polypill strategy to improve adherence: results from the
+ 64: 2071–82. [PubMed: 25193393]
+ pressure and cholesterol lowering in persons without
+ 2016; 374: 2032–43. [PubMed: 27039945]
+ H, et al. Effectiveness of polypill for primary and secondary
+ (PolyIran): a pragmatic, cluster-randomised trial. Lancet 2019;
+ with or without aspirin in persons without cardiovascular
+ 
+<section> [PubMed: 33186492]
+ et al. Polypill strategy in secondary cardiovascular
+ 967–77. [PubMed: 36018037]
+ Akinyemi R, et al. The burden of stroke in Africa: a glance at
+ Cardiovasc J S Afr 2015; 26 (suppl 1): S27–38.
+ et al. Patient-level and system-level determinants of stroke
+ 
+<section> Ghana and Nigeria: a prospective cohort study. Lancet Glob
+ 
+<section> 36805867]
+ B. Long-term determinants of death after stroke in Ghana:
+ 
+<section> J Stroke Cerebrovasc Dis 2022; 31: 106639. [PubMed:
+ Ovbiagele B. Polypill programs to prevent stroke and cut
+ from clinical efficacy to pragmatic implementation. Stroke
+ 
+<section> S, et al. Stroke Minimization through Additive Anti-
+ (SMAART): study protocol for a randomized
+ 
+<section> [PubMed: 29540234] 
+<section> 17. Kolominsky-Rabas PL, Weber M, Gefeller O, Neundoerfer B, Heuschmann PU. Epidemiology
+ 
+<section> Author of ischemic stroke subtypes according to TOAST criteria: incidence, recurrence, and long-term
+ survival in ischemic stroke subtypes: a population-based study. Stroke 2001; 32: 2735–40.
+ 
+<section> [PubMed: 11739965]
+ 18. Lyden PD, Lu M, Levine SR, Brott TG, Broderick J. A modified National Institutes of Health
+ 
+<section> Manuscript
+ 
+<section> Stroke Scale for use in stroke clinical trials: preliminary reliability and validity. Stroke 2001; 32:
+ 
+<section> 1310–17. [PubMed: 11387492]
+ 19. Wilson JT, Hareendran A, Hendry A, Potter J, Bone I, Muir KW. Reliability of the modified
+ 
+<section> Rankin Scale across multiple raters: benefits of a structured interview. Stroke 2005; 36: 777–81.
+ 
+<section> [PubMed: 15718510]
+ 20. Touboul PJ, Hennerici MG, Meairs S, et al. Mannheim intima-media thickness consensus.
+ 
+<section> Cerebrovasc Dis 2004; 18: 346–49. [PubMed: 15523176]
+ 21. EuroQol Group. EuroQol—a new facility for the measurement of health-related quality of life.
+ 
+<section> Health Policy 1990; 16: 199–208. [PubMed: 10109801]
+ 22. Atkinson MJ, Sinha A, Hass SL, et al. Validation of a general measure of treatment satisfaction,
+ the Treatment Satisfaction Questionnaire for Medication (TSQM), using a national panel study of
+ 
+<section> Author chronic disease. Health Qual Life Outcomes 2004; 2: 12. [PubMed: 14987333]
+ 23. Nasreddine ZS, Phillips NA, Bédirian V, et al. The Montreal Cognitive Assessment, MoCA: a
+ brief screening tool for mild cognitive impairment. J Am Geriatr Soc 2005; 53: 695–99. [PubMed:
+ 
+<section> Manuscript 
+<section> 15817019]
+ 24. Hamilton M A rating scale for depression. J Neurol Neurosurg Psychiatry 1960; 23: 56–62.
+ 
+<section> [PubMed: 14399272]
+ 25. Naqvi TZ, Lee MS. Carotid intima-media thickness and plaque in cardiovascular risk assessment.
+ 
+<section> JACC Cardiovasc Imaging 2014; 7: 1025–38. [PubMed: 25051948]
+ 26. Smilde TJ, van Wissen S, Wollersheim H, Trip MD, Kastelein JJ, Stalenhoef AF. Effect
+ of aggressive versus conventional lipid lowering on atherosclerosis progression in familial
+ hypercholesterolaemia (ASAP): a prospective, randomised, double-blind trial. Lancet 2001; 357:
+ 
+<section> 577–81. [PubMed: 11558482]
+ 27. Wang JG, Staessen JA, Li Y, et al. Carotid intima-media thickness and antihypertensive treatment:
+ a meta-analysis of randomized controlled trials. Stroke 2006; 37: 1933–40. [PubMed: 16763185]
+ 
+<section> Author 28. Sarfo FS, Akassi J, Kyem G, et al. Long-term outcomes of stroke in a Ghanaian outpatient clinic. J
+ Stroke Cerebrovasc Dis 2018; 27: 1090–99. [PubMed: 29275059]
+ 29. Sarfo FS, Commeh ME, Tandoh IO, et al. Nationwide rates of outpatient clinic attendance by
+ 
+<section> Manuscript stroke survivors in Ghana: analysis by region and facility. J Neurol Sci 2022; 437: 120250.
+ 
+<section> [PubMed: 35405449]
+ 
+<section> Author
+ 
+<section> Manuscript 
+<section> Research in context
+ 
+<section> Author
+ 
+<section> Evidence before this study
+ 
+<section> Manuscript We performed a literature search of articles published between Jan 1, 1990, and Jan
+ 1, 2023, on clinical trials assessing effect of cardiovascular polypills for secondary
+ prevention among patients with established cardiovascular diseases including stroke.
+ We searched PubMed for articles in English using the terms “secondary prevention”,
+ “cardiovascular polypill”, “stroke survivors”, and “atherosclerotic risk reduction”. We
+ did not identify any published polypill-based clinical trial dedicated to people who had
+ survived a stroke.
+ 
+<section> Added value of this study
+ 
+<section> In this phase 2 randomised controlled clinical trial, conducted in a tertiary medical centre
+ 
+<section> Author in Ghana, we assigned 148 patients with ischaemic stroke within the previous 2 months
+ to either a polypill-based strategy or to usual care. To our knowledge, this study shows
+ for the first time that the polypill is similar to standard care for achieving regression in
+ 
+<section> Manuscript
+ 
+<section> carotid intimal media thickness, a validated marker of atherosclerotic event risk among
+ people who have recently had a stroke.
+ 
+<section> Implications of all the available evidence
+ 
+<section> Given the heterogeneity of mechanisms leading to stroke occurrence and the requirement
+ for a tailored approach to secondary prevention, future polypill trials in this patient
+ population should consider a range of formulations of the polypill that allows for greater
+ flexibility in dosing to accommodate a variety of dosing requirements for this patient
+ group. Implementation outcomes are urgently needed to understand the barriers and
+ 
+<section> Author facilitators to the diffusion and uptake of the polypill across diverse health-care settings,
+ especially in resource-limited settings in Africa.
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript 
+<insert> Figure:
+ Trial profile 
+<iend>
+
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript 
+<insert> Table 1: 
+<iend>
+
+ Baseline characteristics
+ 
+<section> Author
+ 
+<section> Polypill
+ 
+<section> Sex
+ 
+<section> Manuscript
+ 
+<section> Male
+ 
+<section> Female
+ 
+<section> Age, years 
+<section> 58·5
+ Educational status
+ 
+<section> None
+ 
+<section> Primary
+ 
+<section> Secondary
+ 
+<section> Tertiary
+ 
+<section> Postgraduate
+ 
+<section> Author Urban residence
+ 
+<section> Marital status
+ 
+<section> Never married
+ 
+<section> Manuscript
+ 
+<section> Married
+ 
+<section> Separated
+ Widow or widower
+ 
+<section> Cohabiting
+ 
+<section> Divorced
+ Employment status 
+<section> *
+ 
+<section> Employed
+ 
+<section> Retired
+ 
+<section> Unemployed
+ 
+<section> Author Monthly income, US$
+ 
+<section> 0–100
+ 
+<section> 101–250
+ 
+<section> Manuscript
+ 
+<section> 250–500
+ 
+<section> >500
+ Vascular risk factors
+ 
+<section> Hypertension 
+<section> 74
+ Diabetes
+ Cigarette smoking
+ Alcohol use, current
+ Haemoglobin A 1c % 6·5%
+ 
+<section> BMI, kg/m 
+<section> 25·4
+ 
+<section> Author
+ 
+<section> Obesity, BMI ≥30 kg/m
+ Waist-to-hip ratio, cm 92·2
+ 
+<section> Manuscript LDL-cholesterol, mg/dL 94·0
+ Stroke subtype
+ Small vessel disease
+ 
+<section> group (n=74) Usual care group (n=74)
+ 
+<section> 36 (49%) 
+<section> 38 (51%)
+ 
+<section> 38 (51%) 
+<section> 36 (49%)
+ 
+<section> (10·7) 
+<section> 58·1 (13·3)
+ 
+<section> 11 (15%) 
+<section> 15 (20%)
+ 
+<section> 42 (57%) 
+<section> 28 (38%)
+ 
+<section> 12 (16%) 
+<section> 18 (24%)
+ 9 (12%) 
+<section> 12 (16%)
+ 
+<section> 1 (1%)
+ 
+<section> 42 (54%) 
+<section> 37 (50%)
+ 
+<section> 6 (8%) 5 (7%)
+ 
+<section> 43 (58%) 
+<section> 47 (64%)
+ 
+<section> 12 (16%) 5 (7%)
+ 
+<section> 11 (15%) 
+<section> 14 (19%)
+ 0 (0%) 1 (1%)
+ 2 (3%) 2 (2%)
+ 
+<section> 54 (73%) 44/73 (60%)
+ 11 (15%) 10/73 (14%)
+ 9 (12%) 19/73 (26%)
+ 
+<section> 7 (9%) 
+<section> 11 (15%)
+ 
+<section> 37 (50%) 
+<section> 37 (50%)
+ 
+<section> 27 (36%) 
+<section> 24 (32%)
+ 3 (4%) 2 (3%)
+ 
+<section> (100%) 
+<section> 74 (100%)
+ 
+<section> 15 (20%) 
+<section> 21 (28%)
+ 
+<section> 1 (1%)
+ 8 (11%) 
+<section> 11 (15%)
+ 
+<section> (1·7) 
+<section> 7·0% (2·5)
+ 
+<section> (4·3) 
+<section> 25·7 (5·1)
+ 
+<section> 11 (15%) 
+<section> 16 (22%)
+ 
+<section> (10·3) 
+<section> 90·6 (12·1)
+ 
+<section> (43·8) 
+<section> 98·1 (43·5)
+ 
+<section> 11 (15%) 
+<section> 23 (31%) 
+<section> Polypill
+ 
+<section> Large vessel disease
+ 
+<section> Author
+ 
+<section> Undetermined
+ Stroke severity and functional status
+ 
+<section> NIHSS score
+ 
+<section> Manuscript
+ 
+<section> Modified Rankin score
+ Common CIMT, mm
+ Adherence to medication
+ Morisky Adherence Scale score
+ 
+<section> Hill-Bone score
+ EQ-5D quality-of-life score
+ Treatment Satisfaction Questionnaire for Medication score
+ Montreal Cognitive Assessment score
+ Hamilton Rating Scale for Depression score
+ 
+<section> Author Systolic blood pressure, mm Hg 161·3
+ Diastolic blood pressure, mm Hg
+ Cardiovascular medications before enrolment
+ 
+<section> Manuscript
+ 
+<section> Antiplatelet therapy (aspirin or clopidogrel)
+ Atorvastatin at 40 mg or 80 mg daily
+ Angiotensin converting enzyme inhibitor
+ Angiotensin receptor blocker
+ β blocker
+ Calcium channel blocker
+ 
+<section> Diuretics
+ 
+<section> Methyldopa
+ 
+<section> Hydralazine
+ 
+<section> Author Mineralocorticoid receptor blocker
+ Data are n (%) or mean (SD). CIMT=carotid intima-media thickness.
+ 
+<section> Manuscript 
+<section> * One participant in the usual care group did not have data on employment
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> group (n=74) Usual care group (n=74)
+ 
+<section> 20 (27%) 
+<section> 16 (22%)
+ 
+<section> 43 (58%) 
+<section> 35 (47%)
+ 
+<section> 2·9 (3·4) 
+<section> 2·4 (2·8)
+ 2·60 (0·97) 2·74 (0·85)
+ 1·00 (0·17) 1·03 (0·16)
+ 
+<section> 6·7 (0·51) 6·7 (0·37)
+ 50·4 (1·81) 50·1 (1·76)
+ 83·7 (11·6) 80·6 (11·7)
+ 53·5 (2·8) 52·7 (2·8)
+ 16·0 (6·70) 16·2 (5·78)
+ 5·6 (4·36) 6·8 (4·13)
+ 
+<section> (17·2) 
+<section> 160·4 (18·0)
+ 92·0 (13·9) 92·6 (14·6)
+ 
+<section> 62 (84%) 
+<section> 66 (89%)
+ 
+<section> 55 (74%) 
+<section> 63 (85%)
+ 
+<section> 15 (20%) 
+<section> 16 (22%)
+ 
+<section> 43 (58%) 
+<section> 43 (58%)
+ 
+<section> 12 (16%) 
+<section> 10 (14%)
+ 
+<section> 62 (84%) 
+<section> 58 (78%)
+ 
+<section> 25 (34%) 
+<section> 29 (39%)
+ 1 (1%) 2 (3%)
+ 
+<section> 10 (14%) 8 (11%)
+ 7 (9%) 7 (9%)
+ 
+<section> NIHSS=National Institutes of Health Stroke Scale.
+ 
+<section> status. 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> value
+ 
+<section> 0·11 
+<section> 0·77 
+<section> 0·24 
+<section> 0·45 
+<section> 0·19 
+<section> 0·73 
+<section> 0·79 
+<section> 0·48 
+<section> 0·61 
+<section> 0·080 
+<section> 0·088 
+<section> 0·56 
+<section> NA
+ 
+<section> p
+ 
+<section> difference
+ 
+<section> 0·109) 
+<section> 0·41) 
+<section> 2·13) 
+<section> 1·96) 
+<section> 2·13) 
+<section> 1·28) 
+<section> 0·26) 
+<section> 0·62) 
+<section> 12·46) 
+<section> 0·64) 
+<section> 2·11)
+ 
+<section> between-group to (−0·008 to (−0·55 to (−0·54 to (−4·42 to (−10·91 to (−1·83 to (−0·34 to (−1·31 to (−7·39 
+<section> to (−11·25 to (−29·75 ·· 
+<section> ··
+ 
+<section> Author 
+<section> Adjusted 0·049 −0·07 0·79 −1·23 −4·39 −0·27 −0·04 −0·34 2·53 −5·30 −13·81
+ 
+<section> Manuscript
+ 
+<section> (n=64) 
+<section> −0·051) 
+<section> 0·24) 
+<section> 0·09) 
+<section> 12·47) 
+<section> −2·63) 
+<section> 6·64) 
+<section> −0·69) 
+<section> −3·22) 
+<section> −10·45) 
+<section> 1·05) 
+<section> 15·63)
+ 
+<section> 2: 
+<section> Table 
+<section> group to (−0·130 to (−0·53 to (−2·31 to (8·00 
+<section> to (−10·80 to (4·13 to (−1·09 to (−4·91 to (−24·80 to (−7·67 to (−8·77 
+<section> (1%) 
+<section> 1/74 
+<section> applicable.
+ 
+<section> care
+ 
+<section> Usual −0·092 −0·14 −1·11 10·23 −6·72 5·39 −0·89 −4·06 −17·62 −3·31 3·43 NA=not
+ 
+<section> group
+ 
+<section> intention-to-treat (n=59) 
+<section> 0·034) 
+<section> 0·10) 
+<section> 0·36) 
+<section> 10·18) 
+<section> −5·96) 
+<section> 6·17) 
+<section> −0·69) 
+<section> −2·57) 
+<section> −8·29) 
+<section> −3·53) 
+<section> 4·24) 
+<section> thickness.
+ 
+<section> Author group to (−0·067 to (−0·48 to (−1·37 to (5·08 
+<section> to (−15·88 to (4·17 to (−1·14 to (−4·44 
+<section> to (−23·06 to (−12·24 to (−19·98 (3%) 
+<section> 2/74 intima-media
+ 
+<section> Polypill −0·017 −0·19 −0·51 7·63 −10·92 5·17 −0·92 −3·51 −15·68 −7·88 −7·87
+ 
+<section> Manuscript 
+<section> modified CIMT=carotid
+ score
+ 
+<section> Medication
+ 
+<section> the cause
+ stated.
+ in score 
+<section> cardiovascular population.
+ 
+<section> 12 
+<section> month 
+<section> for 
+<section> Questionnaire score 
+<section> Depression 
+<section> Hg 
+<section> Hg 
+<section> events 
+<section> otherwise
+ 
+<section> at 
+<section> score 
+<section> Scale score 
+<section> Assessment 
+<section> for control 
+<section> mm 
+<section> pressure, 
+<section> mm 
+<section> pressure, mg/dL 
+<section> * 
+<section> events 
+<section> cardiovascular 
+<section> any unless intention-to-treat
+ 
+<section> Author 
+<section> measures 
+<section> outcome 
+<section> mm 
+<section> CIMT, 
+<section> outcomes 
+<section> Adherence 
+<section> score 
+<section> quality-of-life Satisfaction Cognitive 
+<section> score 
+<section> Rankin 
+<section> Scale 
+<section> Rating outcomes 
+<section> factor blood blood LDL-cholesterol, adverse 
+<section> adverse 
+<section> for 
+<section> Rehospitalisation CI) 
+<section> (95% 
+<section> the
+ 
+<section> Manuscript 
+<section> Outcome 
+<section> Primary Common 
+<section> Secondary Morisky Hill-Bone EQ-5D Treatment Montreal Modified Hamilton 
+<section> Tertiary 
+<section> risk 
+<section> Vascular Systolic Diastolic of Incidence Major 
+<section> mean 
+<section> are 
+<section> in Assessed
+ 
+<section> Data
+ 
+<section> * 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> value
+ 
+<section> 0·27 
+<section> 0·14 
+<section> 0·66 
+<section> 0·39 
+<section> 0·19 
+<section> 0·82 
+<section> 0·66 
+<section> 0·99 
+<section> 0·46 
+<section> 0·020 
+<section> 0·075
+ 
+<section> p
+ 
+<section> difference
+ 
+<section> covariance
+ 
+<section> 0·078) 
+<section> 1·35) 
+<section> 1·99) 
+<section> 2·31) 
+<section> 2·13) 
+<section> 1·85) 
+<section> 0·23) 
+<section> 1·24) 
+<section> 12·15) 
+<section> −1·08) 
+<section> 1·32)
+ 
+<section> of 
+<section> between-group to (−0·02 to (−0·19 to (−3·13 to (−5·95 to (−10·91 to (−1·46 to (−0·36 to (−1·23 to (−5·50 
+<section> to (−12·40 
+<section> to (−27·30
+ 
+<section> analysis
+ 0·028 0·58 −0·57 −1·82 −4·39 0·20 −0·06 0·005 3·32 −6·74 −12·99
+ 
+<section> Author 
+<section> Adjusted
+ 
+<section> using
+ 
+<section> Manuscript 
+<section> groups (n=74) 
+<section> −0·054) 
+<section> 0·80) 
+<section> −1·72) 
+<section> 10·10) 
+<section> −2·63) 
+<section> 7·72) 
+<section> −0·86) 
+<section> −1·05) 
+<section> −14·11) 
+<section> −1·39) 
+<section> 7·08)
+ 
+<section> 3: 
+<section> two group to (−0·125 to (−0·17 to (−5·34 to (3·82 
+<section> to (−10·80 to (5·15 to (−1·28 to (−3·11 to (−27·27 to (−9·91 
+<section> to (−16·38
+ 
+<section> Table between care
+ 
+<section> Usual −0·090 0·31 −3·53 6·96 −6·72 6·43 −1·07 −2·08 −20·69 −5·65 −4·65
+ 
+<section> comparison
+ −0·011) 
+<section> −2·58) 
+<section> −5·96) 
+<section> −0·90) 
+<section> −1·05) 
+<section> −11·49) 
+<section> −7·86) 
+<section> −7·33)
+ 
+<section> (n=74) 
+<section> 1·60) 
+<section> 7·42) 
+<section> 8·19)
+ 
+<section> Author with group to (−0·106 (0·38, to (−6·58 to (1·64 
+<section> to (−15·88 to (5·75 to (−1·32 to (−3·11 to (−24·32 to (−16·22 to (−29·46
+ 
+<section> Polypill −0·058 0·97 −4·58 4·53 −10·92 6·97 −1·11 −2·08 −17·91 −12·04 −18·39
+ 
+<section> data
+ 
+<section> Manuscript 
+<section> thickness.
+ 
+<section> missing
+ score
+ 
+<section> Medication intima-media
+ of
+ 
+<section> imputation
+ score
+ 
+<section> for
+ 
+<section> Questionnaire score 
+<section> Depression CIMT=carotid
+ 
+<section> Hg 
+<section> Hg
+ 
+<section> with score 
+<section> Assessment mm mm
+ 
+<section> Scale score 
+<section> for control 
+<section> pressure, pressure, mg/dL
+ 
+<section> Author 
+<section> analysis 
+<section> outcome 
+<section> mm 
+<section> CIMT, 
+<section> outcomes 
+<section> Adherence 
+<section> score 
+<section> quality-of-life Satisfaction Cognitive 
+<section> score 
+<section> Rankin 
+<section> Scale 
+<section> Rating outcomes 
+<section> factor blood blood LDL-cholesterol, 
+<section> CI). 
+<section> (95%
+ 
+<section> Manuscript 
+<section> Sensitivity 
+<section> Primary Common 
+<section> Secondary Morisky Hill-Bone EQ-5D Treatment Montreal Modified Hamilton 
+<section> Tertiary 
+<section> risk 
+<section> Vascular Systolic Diastolic mean 
+<section> are
+ 
+<section> Data 
+<insert> Table 4:
+ Author
+ Manuscript
+ Safety and tolerability measures
+ Serious adverse events (overall)
+ Polypill group (n=74) Usual care group (n=74) p value
+ 8 (11%) 2 (3%) 0·049
+ All-cause mortality 5 (7%) 2 (3%) 0·43
+ Post-stroke seizures 2 (3%) 0·50
+ Hospitalisation 1 (1%) 1·00
+ Treatment discontinuation 3 (4%) 0·24
+ Reasons for discontinuation
+ 3 (4%) 0·24
+ Regimen adjustments
+ Side-effects
+ 5 (7%) 7 (9%) 0·55
+ Treatment-related side-effects
+ Author
+ Manuscript
+ 4 (5%) 0·12
+ Cough 3 (4%) 0·24
+ Gastrointestinal bleeding 1 (1%) 1·00
+ Data are n (%) unless otherwise stated.
+ Author 
+<iend>
+
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript

@@ -1,0 +1,2766 @@
+
+<section> The impact of a direct
+ 
+<section> mobile communication
+ 
+<section> reproductive and child
+ 
+<section> a randomised controlled
+ 
+<section> Amnesty Elizabeth LeFevre , 1,2 Neha Shah
+ Sara Chamberlain , 3,4 Osama Ummer
+ Jean Juste Harrisson Bashingwa , 6,7 Arpita
+ Priyanka Dutt, 3,4 Rajani Ved, 9,10 Diwakar Mohan
+ Impact Evaluation Team
+ 
+<section> To cite: LeFevre AE, Shah N, ABSTRACT
+ 
+<section> Scott K, et al. The impact Background Direct-­to-­beneficiary communication
+ of a direct to beneficiary mobile programmes are among the few examples of
+ mobile communication digital health programmes to have scaled widely in low-­
+ 
+<section> program on reproductive
+ resource settings. Yet, evidence on their impact at scale
+ 
+<section> and child health outcomes:
+ a randomised controlled trial is limited. This study aims to assess whether exposure
+ in India. BMJ Global Health to mobile health information calls during pregnancy and
+ 2022;6:e008838. doi:10.1136/ postpartum improved infant feeding and family planning
+ 
+<section> bmjgh-2022-008838 
+<section> practices.
+ 
+<section> Methods We conducted an individually randomised
+ 
+<section> Handling editor Sanni Yaya controlled trial in four districts of Madhya Pradesh, India.
+ Study participants included Hindi speaking women 4–7
+ 
+<section> ► Additional supplemental months pregnant (n=5095) with access to a mobile phone
+ material is published online only.
+ and their husbands (n=3842). Women were randomised to
+ 
+<section> To view, please visit the journal
+ online (http://​dx. d oi.​org/​10.​ either an intervention group where they received up to
+ 1136/ b mjgh-​2022- 08838). Kilkari messages or a control group where they received
+ none. Intention-­to-­treat (ITT) and instrumental variable (IV)
+ analyses are presented.
+ Received 22 February 2022 Results An average of 65% of the 2695 women
+ Accepted 24 May 2022 randomised to receive Kilkari listened to ≥50% of the
+ cumulative content of calls answered. Kilkari was not
+ observed to have a significant impact on the primary
+ outcome of exclusive breast feeding (ITT, relative risk (RR):
+ 1.04, 95% CI 0.88 to 1.23, p=0.64; IV, RR: 1.10, 95% CI
+ 0.67 to 1.81, p=0.71). Across study arms, Kilkari was
+ associated with a 3.7% higher use of modern reversible
+ contraceptives (RR: 1.12, 95% CI 1.03 to 1.21, p=0.007),
+ and a 2.0% lower proportion of men or women sterilised
+ since the birth of the child (RR: 0.85, 95% CI 0.74 to
+ 0.97, p=0.016). Higher reversible method use was driven
+ by increases in condom use and greatest among those
+ women exposed to Kilkari with any male child (9.9%
+ increase), in the poorest socioeconomic strata (15.8%
+ © Author(s) (or their increase), and in disadvantaged castes (12.0% increase).
+ employer(s)) 2022. Re-­use Immunisation at 10 weeks was higher among the children
+ permitted under CC BY. of Kilkari listeners (2.8% higher; RR: 1.03, 95% CI 1.00 to
+ Published by BMJ.
+ 1.06, p=0.048). Significant differences were not observed
+ For numbered affiliations see for other maternal, newborn and child health outcomes
+ end of article.
+ assessed.
+ 
+<section> Correspondence to Conclusion Study findings provide evidence to date on
+ Dr Amnesty Elizabeth LeFevre; the effectiveness of the largest mobile health messaging
+ a elefevre@​gmail.​com programme in the world.
+ 
+<section> to beneficiary
+ 
+<section> program on
+ 
+<section> health outcomes:
+ 
+<section> trial in India
+ 
+<section> , 2 Kerry Scott ,
+ 
+<section> , 
+<section> 4,5
+ 
+<section> Chakraborty , 8 Anna Godfrey,
+ , 2 On behalf of the Kilkari
+ 
+<section> WHAT IS ALREADY KNOWN ON THIS TOPIC
+ 
+<section> ⇒ Direct-­ to-­ beneficiary mobile communication pro-
+ grammes offer great potential to disseminate health in-
+ formation at a population level; reaching a large number
+ of beneficiaries rapidly and at low cost. As a result, they
+ are among the few examples of digital health solutions
+ to scale widely in a range of settings globally. Despite
+ their potential, no evidence exists of the impact of these
+ programmes at scale in low-­income and middle-­income
+ countries where the majority of maternal and child
+ deaths occur each year. The evidence that does exist is
+ limited to smaller scale pilots; key programme compo-
+ nents of which often change in the process of scaling up.
+ 
+<section> Trial registration number Trial registration ​clinicaltrials.​
+ gov; ID 90075552, NCT03576157.
+ 
+<section> BACKGROUND
+ Direct-­t o-­beneficiary mobile health
+ (mHealth) programmes which provide
+ stage-­ based health information to new
+ and expectant mothers have proliferated
+ rapidly throughout the last decade. 1–3
+ In low-­ i ncome and middle-­ i ncome coun-
+ tries where the majority of maternal and
+ child deaths occur, mHealth messaging
+ programmes are among the few examples
+ of digital health programmes to success-
+ fully scale. Five programmes globally have
+ scaled to reach over a million subscribers
+ in Bangladesh, 4 5 India, 6 7 South Africa
+ and Tanzania.
+ Evidence linking scaled mHealth messaging
+ programmes to changes in health outcomes
+ is limited 7–12 ; a factor which may impede
+ sustainability and further expansion. 13 The 
+<section> WHAT THIS STUDY ADDS
+ 
+<section> ⇒ Kilkari is the largest direct-­to-­beneficiary mobile communication
+ programme in the world and has reached over 10 million women
+ and their families across 13 states in India. Our study is the first ran-
+ domised controlled trial conducted to date of a beneficiary mobile
+ communication programme at scale. Exposure to Kilkari was sig-
+ nificantly associated with improvements in a few important health
+ practices, including the use of reversible contraceptive methods,
+ but not others, including exclusive breast feeding. Subgroup anal-
+ yses highlight the differential impact among key population seg-
+ ments, including the poorest.
+ 
+<section> HOW THIS STUDY MIGHT AFFECT RESEARCH, PRACTICE OR
+ 
+<section> POLICY
+ 
+<section> ⇒ Study findings provide the most conclusive evidence to date on the
+ effectiveness of the largest beneficiary mobile communication pro-
+ gramme in the world. The differential targeting of key population
+ segments could serve to deepen the impact. Further research is
+ needed to assess the impact of shorter duration campaigns less
+ susceptible to SIM change, network disruptions and population
+ migration.
+ 
+<section> scant evidence available suggests varied impacts on a
+ range of outcomes including improvements in birth
+ weight ; infant feeding practices 7 ; utilisation of early
+ and complete antenatal care (ANC), 8 9 facility-­based
+ skilled birth attendance, 10 12 maternal and childhood
+ immunisation services ; and reductions in perinatal
+ mortality. 11 However, efforts to compare and generalise
+ these findings have been hampered by wide variations in
+ study contexts and programme components including
+ the content, modality, frequency of messages and
+ supporting programmatic activities. 14 The small scale of
+ these programmes at the time that they were evaluated
+ also limits the generalisability of the findings observed.
+ As programmes scale they often undergo significant
+ changes in design, implementation and resource avail-
+ ability, which can lead to a ‘voltage drop’ in a range of
+ factors including reach, exposure and impact on bene-
+ ficiary practices and health behaviours. 2 15 These chal-
+ lenges underscore the need for evidence at each stage of
+ an mHealth programme’s maturity from pilot to delivery
+ of services at scale, to a large number of beneficiaries.
+ Kilkari is the world’s largest mHealth messaging
+ programme of its kind. Kilkari is an outbound service
+ that makes weekly, stage-­based, prerecorded calls about
+ reproductive, maternal, neonatal and child health
+ (RMNCH) directly to families’ mobile phones, starting
+ from the second trimester of pregnancy until the child
+ is 1 year old. BBC Media Action designed and piloted
+ Kilkari in the Indian state of Bihar in 2012–2013, and
+ then redesigned and scaled it in collaboration with
+ the Ministry of Health and Family Welfare (MOHFW)
+ between 2015 and 2019. Prior to its transition to MoHFW
+ in April 2019, Kilkari had been scaled to 13 states across
+ India and reached over 10 million subscribers.
+ From 2018 to early 2020, an individually randomised
+ controlled trial (RCT) was conducted in four districts
+ of Madhya Pradesh to determine the effectiveness of
+ Kilkari. This study sought to assess whether exposure to
+ mHealth information calls during pregnancy and post-
+ partum improved infant feeding and family planning
+ practices. This is the first study to evaluate the impact
+ of a maternal mHealth messaging programme at scale;
+ additional details on the evaluation protocol have been
+ published elsewhere.
+ 
+<section> METHODS
+ 
+<section> Trial design
+ 
+<section> The study is an individually RCT with a parallel and
+ unblinded design.
+ 
+<section> Participants
+ 
+<section> At the time of randomisation in late 2018, women
+ enrolled to the study (n=5095) were 12–34 weeks of gesta-
+ tion, more than 18 years of age, could speak and under-
+ stand Hindi, and owned or had access to a mobile phone
+ during the day when Kilkari calls were likely to come.
+ Women were excluded who did not consent or who were
+ mobile subscribers of Bharat Sanchar Nigam Limited
+ (the state-­owned telecommunications company) due to
+ poor network coverage in the RCT districts in Madhya
+ Pradesh. Given the shared nature of mobile phones, the
+ husbands of women enrolled to the study were addition-
+ ally interviewed as part of endline survey activities.
+ 
+<section> Study setting
+ 
+<section> Women in India have limited access to and use of mobile
+ phones. Despite near universal household level phone
+ ownership (92.8%), only 47.8% of Indian women have
+ access to a mobile phone (41.6% in rural areas and
+ 62.7% in urban). 18 In the central Indian state of Madhya
+ Pradesh (population 75 million) which is home to an esti-
+ mated 20% of India’s total population, 19.1% of women
+ rural areas and 49.5% in urban had access to a phone
+ that they themselves could use in 2015. 19 Beyond limita-
+ tions in women’s phone access, Madhya Pradesh’s popu-
+ lation health status falls below national level averages for
+ most RMNCH indicators. In 2015, only 49.6% of women
+ reported using any modern method for family planning
+ and 12.1% reported having an unmet need for family
+ planning. 19 While over half (53.0%) of pregnant women
+ attended ANC clinics in the first trimester, only 35.7%
+ received the recommended four ANC visits. 19 Despite
+ high rates of institutional delivery (80.8%), only 54.9%
+ of women and newborns received a postnatal health
+ check within 2 days following birth. 19 Among children,
+ 34.4% were breastfed within 1 hour of birth and 58.2%
+ were exclusively breastfed until 6 months of age. 19 One
+ in four children (25.8%) were wasted (weight-­for-­height)
+ and 42.0% were stunted (height-­ for-­ age). 19 Among
+ children 12–23 months of age, 53.6% were fully immu-
+ nised (Bacille Calmette-­ Guerin (BCG), measles and
+ three doses each of polio and Diphtheria, Pertussis, and
+ Tetanus (DPT)). 
+<section> Figure 1 Summary of Kilkari content during pregnancy and up
+ 
+<section> Intervention description
+ Kilkari is comprised of 90 min of RMNCH content sent
+ via 72 once weekly voice calls: 24 during pregnancy,
+ within the first 6 months postpartum and 24 from 7 to
+ 12 months postpartum. Individual calls span an average
+ of 77 s in duration and are framed as coming from ‘Dr
+ Anita’. Across health content areas, 18% of cumulative
+ call content is on family planning (benefits of family
+ planning, modern reversible methods, sterilisation,
+ pregnancy tests); 13% on child immunisations (diseases
+ covered, doses); 13% on nutrition (malnutrition, growth
+ monitoring, anaemia); 12% on infant feeding (quality of
+ food, breast feeding, complementary feeding, anaemia);
+ 10% on pregnancy care (ANC, institutional delivery,
+ rest, nutrition, tetanus toxoid, emergency services); 7%
+ on entitlements; 7% on diarrhoea; 7% on postnatal care
+ (newborn danger signs, cord care, hypothermia); and the
+ remainder on a range of topics including intrapartum
+ care, water and sanitation (WASH) and early childhood
+ development (figure 1).
+ The mobile numbers provided by women randomised
+ to receive Kilkari began receiving calls no later than
+ 8 months (34 weeks) after conception, making them
+ eligible for at least 57 of the 72 messages. The timing
+ of RCT enrolment was intended to mirror the timing of
+ enrolment to Kilkari elsewhere in India. Once subscribed,
+ Kilkari used an algorithm to retry mobile numbers up to
+ nine times—three times in each week—three times on
+ to 1 year post partum. WASH, water and sanitation.
+ 
+<section> the first day, and twice then twice each day for the next
+ 3 days—to reach a subscriber. Respondents were given
+ the option to unsubscribe from the service at any time.
+ 
+<section> Outcomes
+ 
+<section> The primary outcome of this study was the reported prac-
+ tice of exclusive breast feeding for infants 0–6 months
+ of age. The secondary outcome was the use of modern
+ reversible contraceptive methods (including intrauterine
+ contraceptive device (IUCD), injectables, oral contra-
+ ceptive pills, emergency contraceptive pills, condoms)
+ at 1 year post partum. The latter outcome was added
+ after the trial registration but included in the published
+ protocol. Three reasons underpin its inclusion. First,
+ family planning messages constitute the largest overall
+ message share (figure 1). Second, family planning calls
+ occur throughout the extended postpartum window
+ allowing for a large window of exposure to the intended
+ messages. Third, the complexity of phone sharing prac-
+ tices in this population means that men may be the actual
+ listeners of some of the Kilkari calls. 20 Family planning
+ represents includes behaviours which depend on both
+ men and women both of whom may have been exposed
+ to Kilkari calls. The outcome of immediate/early breast
+ feeding noted in the trial registration was not emphasised
+ as a primary or secondary outcome in our protocol. The
+ study team felt that changes in these outcomes might be
+ challenging to observe for two reasons. First, immediate/ 
+<section> early breast feeding can be supply side dependent in the
+ case of facility based and/or skilled attendant deliveries
+ (which is why we reported it for normal deliveries and all
+ deliveries) and thus, information provided to pregnant
+ women is unlikely to move the indicator. Second, there
+ are only two Kilkari messages (message 17: pregnancy
+ month 8, week 1 and message 23: pregnancy month 9,
+ week 3) which include content on early and immediate
+ breast feeding.
+ To assess the impact of Kilkari exposure on RMNCH
+ outcomes, endline surveys were administered to enrolled
+ women and their husbands after 12 months postpartum.
+ The women’s endline survey included modules on
+ RMNCH knowledge, practice, decision-­ making and
+ demand for information and supply side services for
+ the following health areas: pregnancy and delivery care,
+ newborn care, child health, infant and young child
+ feeding (IYCF), family planning, media consumption
+ and reported demand for and receipt of health services
+ from frontline health workers. The men’s survey sought
+ to measure RMNCH knowledge; mobile phone owner-
+ ship, use and literacy; and women’s access to phones.
+ In addition to relying on respondent recall to answer
+ survey questions, investigators also collected data from
+ the participant’s Mother and Child Health card, which
+ is issued to every pregnant woman at the local health
+ facility and updated each visit and includes the child’s
+ immunisation record.
+ 
+<section> Sample size
+ 
+<section> To detect a 5% difference in the reported practices of
+ exclusive breast feeding and reversible modern contra-
+ ceptive use assuming an alpha of 0.05, 80% power, the
+ estimated sample size for a two-­sample proportions test
+ would be 3200 women. After adjusting for a design effect
+ (variance inflation factor) of 1.25 due to clustering at
+ the level of the Community Development Block (India’s
+ subdistrict level administrative units), a 20% loss to
+ follow-­up from enrolment to endline, and a potential
+ loss of 35% of women due to poor reporting of phone
+ numbers and/or changes to original phone numbers
+ provided, a total of 5100 women were targeted for enrol-
+ ment in the study. We assumed that 40% of women in
+ the reproductive age would have access to a mobile
+ phone in 2018 at the start of the study, and that 12.5%
+ of households would have a pregnant woman between
+ and 7 months, and thus anticipated needing to visit up to
+ 750 000 households across the four study districts.
+ 
+<section> Enrolment of participants
+ Study participants were identified through a household
+ listing survey carried out from July to October 2018
+ which included an intensive mapping of households
+ and their residents and screened participants for eligi-
+ bility. Women identified during the listing as meeting
+ the eligibility criteria (Hindi speaking, 4–7 months preg-
+ nant, with access to a mobile phone during the day)
+ were screened again by a separate baseline survey team.
+ Those confirmed to meet eligibility criteria were admin-
+ istered a 1.5 hour baseline survey inclusive of modules on
+ sociodemographic characteristics; phone ownership, use
+ and digital competency; RMNCH knowledge and prac-
+ tices. Following the baseline survey, study participants
+ who completed the face to face survey and consented
+ to receive Kilkari messages were randomised to receive
+ Kilkari calls (intervention) or not receive messages
+ (control). Exposure to Kilkari spanned through the
+ child’s first birthday. Study participants were interviewed
+ at 12 months post partum as part of endline survey activ-
+ ities carried out from November 2020 to March 2021. No
+ harms are anticipated for study participants enrolled to
+ either study arm.
+ 
+<section> Randomisation and masking
+ The participants were randomised after stratification on
+ a range of variables potentially associated with exposure
+ (listening to messages) and likely to influence outcomes,
+ including gestational age, parity, age of woman and
+ ownership of phone. Stratification sought to ensure
+ a balance of covariates between the intervention and
+ control groups. The individual randomisation proce-
+ dure was done on a block-­by-­block basis (block rando-
+ misation) after enrolment was completed for each block.
+ This ensured similar number of intervention and control
+ subjects for each community development block. Rando-
+ misation was performed by picking a random sample of
+ participants for each Block using the sample command in
+ Stata with the use of the above listed variables as stratifiers.
+ The randomisation and allocation processes were carried
+ out by the study investigators in late 2018 following the
+ completion of baseline survey activities. The random
+ sample picked was allocated to receive the intervention
+ immediately after randomisation. The participants could
+ not be blinded due to the nature of the intervention. The
+ data collectors administering surveys were not aware of
+ the allocation.
+ 
+<section> Statistical methods
+ To assess exposure to Kilkari content, call data records
+ from the interactive voice response (IVR) system were
+ linked to baseline and endline survey data. Listening
+ patterns were assessed for each subscriber by call, for the
+ duration of the their subscription to Kilkari. The content
+ of the Kilkari calls was mapped to key health outcomes
+ including knowledge and practice. Exposure was defined
+ at a listening threshold of 50% or more of the cumula-
+ tive duration of the calls mapped to the outcome. For
+ example, 7 Kilkari calls (week 20, 24, 29, 34, 65, 66, 68)
+ included content on reversible modern contraceptive
+ methods, for a total of 10.5 min of audio content on this
+ topic (online supplemental table 1). To be ‘exposed’
+ subscribers would have had to listen to 50% or more
+ of the cumulative message total of these messages, for
+ example, 5 min or more of the contents.
+ Primary analyses of outcomes were done with modified
+ intention-­to-­treat (ITT) analyses at the individual level 
+<section> so that outcomes were analysed regardless of the degree
+ of listening to Kilkari. The term modified refers to the
+ requirement of being able to determine the outcomes
+ beyond 1 year of the postpartum period (ie, only those
+ who were reached by the endline survey were included
+ in the analysis). Relative risk (RR) for primary and
+ secondary outcomes was calculated for the interven-
+ tion group compared with the control group using log-­
+ binomial regression with general estimating equations to
+ account for correlation within villages.
+ To assess the impact of exposure on outcomes, compli-
+ ance adjusted treatment effects were additionally gener-
+ ated using the instrumental variable (IV) methodology.
+ The study arm based on randomisation was considered
+ the instrument variable. As noted above, exposure was
+ defined as listening to at least 50% of the cumulative
+ duration of the calls mapped to the outcome. RR esti-
+ mates were calculated using log binomial models for each
+ outcome with adjustment for clustering at the village
+ level. The IV analysis was carried out using the IVREG
+ package in R. 21 Frequencies and proportions are used
+ to describe differences across intervention and control
+ groups (ITT) as well as those exposed to 50% or more of
+ Kilkari content.
+ 
+<section> Role of the funding source
+ The Bill and Melinda Gates Foundation had no role in
+ the study design; collection, analysis and interpretation
+ of data; in the writing of the report; or in the decision
+ to submit the paper for publication. All authors confirm
+ that they had full access to all the data in the study and
+ accept responsibility for the publication submitted.
+ 
+<section> Patient and public involvement
+ Patients were first engaged on identification in their
+ households as part of a household listing carried out in
+ mid/late 2018. Those meeting eligibility criteria were
+ interviewed as part of the baseline survey, and ultimately
+ randomised to the intervention and control arms. Prior
+ to the administration of the baseline, a small number
+ of patients were involved in the refinement of survey
+ tools through qualitative interviews, including cognitive
+ interviews, which were carried out to optimise survey
+ questions, including the language and translation used.
+ Finalised tools were administered to patients at baseline
+ and endline, and for a subsample of the study popula-
+ tion, additional interviews carried out over the phone
+ and via qualitative interviews between the baseline and
+ endline surveys. Unfortunately because of COVID-­
+ and associated travel restrictions, patients could not be
+ involved in the dissemination of study findings. However,
+ public dissemination of the results has occurred through
+ a number of global level presentations.
+ 
+<section> RESULTS
+ 
+<section> Sample characteristics
+ Among the 5095 women enrolled at baseline, 2695 were
+ randomised to the intervention arm and 2400 to the
+ control arm (figure 2). An estimated 95% (n=2559) of
+ the mobile numbers provided by women randomised to
+ the intervention arm received at least 1 Kilkari call that
+ was answered. Table 1 shows the characteristics for the
+ ITT population of women (n=5095) enrolled at baseline
+ and their husbands (n=3842) interviewed at endline.
+ 
+<section> Exposure to Kilkari calls
+ The mobile numbers provided by those randomised to
+ the intervention arm began receiving Kilkari calls no
+ later than the first week of the eighth month of their
+ pregnancy (Kilkari weekly call 17). Successful calls are
+ those that reach the handset and are answered. We
+ cannot identify who answered the call. Figure 3 depicts
+ the number and duration of successful calls for each of
+ the Kilkari calls among the mobile numbers provided by
+ those randomised to the intervention arm. As denoted by
+ the orange bars, the number of successful calls peaked at
+ Kilkari call 22 (pregnancy month 9, week 2) and declined
+ gradually from call 25 (baby month 1, week 1) to
+ (baby month 4, week 2). Declines in successful calls were
+ attributed primarily to deactivations as a result of adverse
+ events (miscarriage, death, stillbirths), SIM change and
+ increases in call non-­delivery rates. From the timing of
+ the baseline survey to 12 months postpartum when the
+ endline survey occurred, 44% of women enrolled into
+ RCT changed their SIM cards and thus were no longer
+ receiving Kilkari calls. Women who retained the same
+ SIM card from baseline to endline tended to be more
+ educated, within the higher socioeconomic strata,
+ and advantaged caste groups. Call non-­ delivery rates
+ increased throughout 2018 and were underpinned by the
+ bankruptcy of Reliance communications, one of India’s
+ leading mobile network providers.
+ High listenership, depicted by the black and blue hori-
+ zontal lines in figure 3, is defined as the proportion of
+ subscribers who listened to at least 50% and 75%, respec-
+ tively, of the total content of an individual call. Across
+ individual Kilkari calls, high listenership rates were stable
+ over time, ranging from 45% to 65% among successful
+ calls. An average of 65% of subscribers listened to more
+ than 50% of the cumulative total of successful calls while
+ 31% listened to more than 75% of the total content of
+ calls. The odds of listening to 50% or more of the cumu-
+ lative content were greater among those enrolled earlier
+ in pregnancy, with the same phone number from base-
+ line to endline surveys, and with double digit numeracy
+ (online supplemental figure 1).
+ The Kilkari programme’s algorithm that keeps calling
+ subscribers who do not answer up to nine times each
+ week increased the proportion of successful calls, espe-
+ cially among subscribers in the most marginalised
+ demographic groups (figure 4). On average, seven
+ call attempts were needed to reach subscribers in the
+ poorest socioeconomic strata as compared with four
+ attempts needed to reach those in the higher (middle,
+ richer and richest) socioeconomic strata. Across ethnic
+ groups, seven call attempts were needed on average to 
+<insert> Figure 2 Consolidated Standards of Reporting Trials flow diagram. 
+<iend>
+
+ 
+<section> ENROLLMENT
+ 
+<section> Assessed for eligibility
+ 
+<section> (n=21,933)
+ 
+<section> Randomized
+ 
+<section> (n=5,095)
+ 
+<section> ALLOCATION
+ 
+<section> Allocation to the intervention arm
+ 
+<section> (n=2,695)
+ • Received and picked up at least 1 Kilkari call
+ 
+<section> (n=2,559)
+ • Did not receive the allocated intervention
+ 
+<section> (n=156)
+ • Deactivated due to invalid number (n=22)
+ 
+<section> FOLLOW-UP
+ 
+<section> Lost to follow-up
+ 
+<section> (n=346)
+ 
+<section> Discontinued intervention
+ 
+<section> (n=376)
+ 
+<section> • Opted out (n=181)
+ • Adverse outcome (death, miscarriage,
+ 
+<section> stillbirth) n=195)
+ 
+<section> ANALYSIS
+ 
+<section> Analysed
+ 
+<section> (n=2,349)
+ • Excluded from analysis 12.8% (n=346)
+ 
+<section> reach scheduled caste subscribers versus four in the more
+ advantaged other backward castes and general castes.
+ Similar patterns were observed for those without educa-
+ tion and with two or more children. Efforts to assess
+ the timing of calls per day are reported elsewhere 22 and
+ broadly suggest that call answer rates were lowest earlier
+ in the day and overall for those in the most marginalised
+ sociodemographic groups.
+ 
+<section> Primary outcome: exclusive breast feeding
+ Kilkari was not observed to have a significant impact on
+ exclusive breast feeding (ITT, RR: 1.04, 95% CI 0.88 to
+ 1.23, p=0.64; IV, RR: 1.10, 95% CI 0.67 to 1.81, p=0.71).
+ However, the proportion of children born through
+ a normal delivery who were immediately breastfed
+ was 3.0% higher in the control arm as compared with
+ 
+<section> Excluded
+ 
+<section> (n=16,838)
+ • Not 4-7 months pregnant
+ 
+<section> (n=5,784)
+ • Declined to participate (n=6,245)
+ • No access to phone (n=4,809)
+ 
+<section> Allocation to the control arm
+ 
+<section> (n=2,400)
+ 
+<section> Lost to follow-up
+ 
+<section> (n=326)
+ 
+<section> Adverse outcome
+ death, miscarriage, stillbirth (n=200)
+ 
+<section> Analysed
+ 
+<section> (n=2,074)
+ • Excluded from analysis 13.5% (n=326)
+ 
+<section> the intervention (ITT, RR: 0.96, 95% CI 0.93 to 1.00,
+ p=0.027). Significant differences were not observed for
+ other IYCF outcomes assessed, including complementary
+ feeding and the provision of iron folate (table 2).
+ 
+<section> Secondary outcome: modern reversible contraceptive
+ 
+<section> methods
+ 
+<section> Kilkari was associated with significantly higher reported
+ use of modern reversible contraceptive methods
+ (condoms, oral contraceptive pills, emergency contra-
+ ceptive pills, injectables, IUCD) using both ITT (RR:
+ 1.12, 95% CI 1.03 to 1.21, p=0.007) and IV (RR: 1.72,
+ 95% CI 1.06 to 2.77, p=0.028) analyses, corresponding
+ to an absolute difference of 3.7% across study arms and
+ 7.4% higher among exposed versus not exposed groups
+ (table 2). Differences in the use of reversible methods 
+<insert> Women’s baseline survey
+ (n=5095) Men’s survey (n=3842)
+ Intervention Control Intervention Control
+ n % n % n % n %
+ Overall
+ Gestational age at time of enrolment
+ 2695 2400 2033 1809
+  <20 weeks
+  20–28 weeks 1352 1205 1011
+  28–34 weeks
+ Age at time of enrolment in years
+  18–24 1553 1422
+  25–34 1070 1435 1269
+  35+
+ Literacy: able to read sentence 1507 1373 1502 1377
+ Education
+  No schooling
+  Primary school completed
+  Secondary school completed 1700 1526 1308 1160
+  Greater than secondary school
+  Employed 1038 2020 1796
+  Poorest
+  Poorer
+ Socioeconomic status
+  Middle
+  Richer
+  Richest
+ 1523 1397
+ District
+  Rewa
+  Mandsaur 430
+  Rajgarh
+  Hoshangabad
+ Parity: had previous child 1587 1414 1198 1064
+ Ethnicity/caste
+  General caste
+  OBC 1258 1128
+  Scheduled caste
+  Scheduled tribe
+ Any male children 1678 1536 – – – –
+ Baseline ever use modern contraceptive methods – – – –
+ 2014 1846 1924 1718
+ Phone ownership, characteristics
+  Own phone
+  Type of phone: smart phone 1041
+  Shared phone* 1317 1097 1636 1473
+  Phone functions† 1480 1285 1446 1274
+  Mean hours per day phone in possession
+  Credit on phone (mean) – – – –
+ Continued
+ Table 1 Sample characteristics for women and men’s surveys in four district of Madhya Pradesh 
+<iend>
+ 
+<insert> Figure 3 The number of successful* Kilkari calls and per cent of listening by call over time for those randomised to the
+ intervention arm in four districts of Madhya Pradesh, India. *Successful calls are those which are delivered to the handset and
+ answered for 1 s or more. 
+<iend>
+
+ 
+<insert> Women’s
+ (n=5095)
+ Intervention
+ n
+  Store contacts on phone 2197
+  Able to navigate IVR prompts 2288
+  Able to open and read SMS
+  Give a missed call 1900
+ Digital use
+ *Includes phone sharing among phone owners.
+ †Phone holds charge, screen not cracked, key pad functional.
+ OBC, other backward castes.
+ Table 1 Continued 
+<iend>
+
+ were driven by significantly higher use of condoms (ITT,
+ RR: 1.12, 95% CI 1.01 to 1.23, p=0.024) and a marginally
+ significant increase in the use of oral contraceptive pills
+ (ITT, RR: 1.28, 95% CI 0.96 to 1.69, p=0.088). Subgroup
+ analyses suggest that absolute differences in reversible
+ method use between those exposed to Kilkari and those
+ not exposed were highest for those with any male child
+ (9.9% difference), in the lowest three socioeconomic
+ strata (difference of 15.8% difference in the poorest,
+ 8.8% in poorer and 6.7% in poor), and in scheduled
+ 
+<section> baseline survey
+ 
+<section> Men’s survey (n=3842)
+ Control Intervention Control
+ % n % n % n %
+ 
+<section> 1980 
+<section> 1734 
+<section> 1542
+ 
+<section> 2056 
+<section> 1939 
+<section> 1713
+ 
+<section> 1231 
+<section> 1143
+ 
+<section> 1687 
+<section> 1685 
+<section> 1487
+ 
+<section> castes (12.0% difference) (figure 5, online supplemental
+ table 2A–C).
+ In addition to differences in the use of modern revers-
+ ible contraceptive methods, the proportion of men or
+ women sterilised since the birth of the child was 2.0%
+ lower in the intervention arm (12.9%) than reported in
+ the control arm (14.9%). Findings were significant across
+ study arms (ITT, RR: 0.85, 95% CI 0.74 to 0.97, p=0.016)
+ and among those exposed to Kilkari versus those not
+ exposed (IV, RR: 0.56, 95% CI 0.37 to 0.85, p=0.006). 
+<insert> Figure 4 Number of call attempts needed to reach subscribers by sociodemographic characteristic. Dark blue bars denote
+ the more marginalised subscribers as compared with those in the lighter blue. OBC, other backward castes. 
+<iend>
+
+ 
+<section> Effects on other RMNCH practices
+ Table 3 presents impact findings for a range of other
+ RMNCH practices, including facility delivery, essential
+ newborn care, WASH and childhood immunisations.
+ Findings suggest that the proportion of children immu-
+ nised at 10 weeks was 2.8% higher in the intervention arm
+ as compared with the control arm (ITT, RR: 1.04, 95% CI
+ 1.00 to 1.07, p=0.048). Significant differences were not
+ observed for other RMNCH practices assessed. Subgroup
+ analysis found that differences in the proportion of chil-
+ dren fully immunised at 12 months were higher among
+ women exposed to Kilkari who had no schooling (differ-
+ ence of 15.2% across exposed vs not exposed groups)
+ or primary school completed (difference of 9.9%) as
+ compared with those with secondary school education or
+ higher (difference of 1.4%) (online supplemental tables
+ 2A–C). A similar trend was observed for immunisations at
+ birth, 10 weeks, and 14 weeks.
+ 
+<section> Effects on knowledge, decision-making, discussion, demand,
+ 
+<section> supply
+ 
+<section> Tables 4–6 and online supplemental tables 3A,B and 4A,B
+ present data on differences in women and men’s knowl-
+ edge, decision-­making, reported discussion, demand for
+ and receipt of health information for RMNCH outcomes
+ assessed. ITT findings suggest that the proportion of
+ women (RR: 1.04, 95% CI 1.01 to 1.07, p<0.001) and
+ men (RR: 1.05, 95% CI 1.00 to 1.09, p=0.032) who know
+ to ask a health provider questions about family planning
+ use was higher among those in the intervention arm
+ compared with those in the control arm (table 2). This
+ corresponds to a 3.4% and 3.0% difference across study
+ arms for women and men, respectively. Similarly, both
+ ITT (RR: 1.05, 95% CI 1.00 to 1.11, p=0.032) and IV (RR:
+ 1.24, 95% CI: 1.01 to 1.53, p=0.044) findings suggest that
+ women subscribed to Kilkari were more likely to know
+ that they could obtain a pregnancy test from Accred-
+ ited Social Health Activities, the Government of India’s
+ community health worker cadre (table 5). Among a range
+ of outcomes assessed on decision-­ making, discussion,
+ demand and receipt of information, Kilkari was associ-
+ ated with an increased likelihood of women’s involvement
+ in the decision-­making on when to start giving their chil-
+ dren complementary food (ITT RR: 1.03, 95% CI 1.00 to
+ 1.06, p=0.041; IV RR: 1.11, 95% CI 1.00 to 1.24, p=0.042)
+ (table 3). This corresponds to a 2.8% difference across
+ study arms for women. Significant differences were not
+ observed for other intermediate outcomes assessed.
+ 
+<section> DISCUSSION
+ 
+<section> Study findings provide evidence on the exposure and
+ impact of mHealth information messages across a range 
+<section> value 
+<section> 0.028 
+<section> 0.077 
+<section> 0.006 
+<section> 0.025
+ 
+<section> 0.74 0.64 0.39 0.33 0.74 0.10 0.13
+ 
+<section> variable P – –
+ 
+<section> 19.20
+ 
+<section> 2.77 3.31 3.63 3.48 0.85 1.09 1.68 0.99 1.01 1.00
+ 
+<section> CI to to to to to to to to to to to
+ 
+<section> Instrumental 95% 1.06 0.94 0.40 0.46 0.37 0.79 0.84 0.12 0.85 0.85 0.97
+ 
+<section> – 
+<section> –
+ 
+<section> CATE
+ 
+<section> 1.72 1.76 1.20 1.27 0.56 0.93 1.19 1.54 0.91 0.93 0.99
+ 
+<section> – 
+<section> –
+ 
+<section> Difference
+ 
+<section> exposed 
+<section> groups 
+<section> (28.10)
+ 
+<section> 7.40 6.00 0.12 0.72 1.77 (0.49) (2.20) 1.60 6.20 (2.32) (2.90)
+ 
+<section> –
+ 
+<section> across exposed exposed
+ 
+<section> Not 31.1 24.6 4.2 3.1 1.5 0.5 14.1 69.2 58.7 6.4 70.6 99.4 99.4
+ 
+<section> Prevalence not
+ 
+<section> Exposed
+ 
+<section> versus
+ 
+<section> 38.5 30.6 11.9 70.8 64.9 67.7 71.3 99.4
+ 
+<section> 4.4 
+<section> 3.8 
+<section> 3.2 
+<section> 0.0 
+<section> 4.1
+ 
+<section> Pradesh value 0.007 0.024 0.09 0.67 0.65 0.25 0.016 0.41 0.41 0.68 0.027 0.052 0.13
+ 
+<section> P
+ 
+<section> Madhya treat 1.21 1.23 1.69 1.48 1.78 1.41 0.97 1.02 1.09 1.32 1.00 1.00 1.00
+ 
+<section> CI to to to to to to to to to to to to to
+ 
+<section> to 95% 1.03 1.01 0.96 0.78 0.70 0.26 0.74 0.95 0.97 0.83 0.92 0.93 0.99
+ 
+<section> of Intention
+ 
+<section> districts (n=4423)
+ 
+<section> RRs 1.12 1.12 1.28 1.07 1.11 0.61 0.85 0.98 1.03 1.05 0.96 0.96 1.00
+ 
+<section> four survey study 
+<section> Difference
+ 
+<section> in practices endline across 3.68 2.87 1.19 0.15 0.16 (0.19) (2.00) (0.62) 1.85 0.19 (3.45) (3.02) (0.34)
+ 
+<section> Comp.
+ 
+<section> Prevalence 30.0 23.8 0.53 14.9 69.7 58.4 71.7 75.1 99.6
+ 
+<section> planning Women’s 3.6 
+<section> 3.1 
+<section> 1.6 
+<section> 6.0
+ 
+<section> arms 
+<section> Int. 33.7 26.7 4.8 3.2 1.8 0.34 12.9 69.1 60.3 6.2 68.3 72.1 99.3
+ 
+<section> family
+ 
+<section> no
+ 
+<section> child
+ 
+<section> and child 
+<section> since 
+<section> to delivery
+ 
+<section> due
+ of
+ feeding of birth methods method
+ 
+<section> birth normal
+ 
+<section> since
+ 
+<section> child since pill planning 
+<section> contraception planning a
+ 
+<section> young use contraceptive female) get feeding feeding:
+ 
+<section> method use not
+ 
+<section> family family
+ 
+<section> and method pill method or could breast breast
+ 
+<section> Infant 
+<section> Description planning  Reversible Condom  Contraceptive Injectable Emergency (male  Sterilised of use  Current 
+<section> 1+ used child of for need who  Women feeding  Immediate  Immediate breastfed
+ 
+<section> 2 
+<section> Table Family IUCD  Ever birth Unmet stock Breast  Ever
+ 
+<section>   
+<section>   
+<section>   
+<section>  
+ 
+<section> 0.48 
+<section> 0.71 
+<section> 0.47 
+<section> 0.92 
+<section> 0.67
+ 
+<section> 2.04 
+<section> 1.81 
+<section> 1.04 
+<section> 1.87 
+<section> 1.17
+ 
+<section> to to to to to
+ 
+<section> 0.72 0.67 0.92 0.50 0.90
+ 
+<section> 1.21 
+<section> 1.10 
+<section> 0.98 
+<section> 0.97 
+<section> 1.03
+ 
+<section> 3.50 
+<section> 3.30 
+<section> (0.20) 
+<section> (1.68) 
+<section> 3.20
+ 
+<section> 10.5 
+<section> 10.1 
+<section> 95.8 
+<section> 10.7 
+<section> 71.5
+ 
+<section> 14.0 
+<section> 13.4 
+<section> 95.6 
+<section> 74.7
+ 
+<section> 9.0
+ 
+<section> 0.40 
+<section> 0.64 
+<section> 0.47 
+<section> 0.87 
+<section> 0.66
+ 
+<section> 1.26 
+<section> 1.23 
+<section> 1.01 
+<section> 1.17 
+<section> 1.05
+ 
+<section> to to to to to
+ 
+<section> 0.91 0.88 0.98 0.83 0.97
+ 
+<section> 1.07 1.04 1.00 0.99 1.01
+ 
+<section> 0.71 
+<section> 0.36 
+<section> (0.50) 
+<section> (0.25) 
+<section> 0.65
+ 
+<section> 10.6 
+<section> 10.4 
+<section> 96.1 
+<section> 10.6 
+<section> 71.7
+ 
+<section> 11.3 10.8 95.6 10.3 72.3
+ 
+<section> water, was 
+<section> age
+ 
+<section> tea
+ 
+<section> the
+ 
+<section> ghutti, or hours 
+<section> child
+ 
+<section> jaifal at
+ 
+<section> 24 the foods
+ 
+<section> janam milk, previous before
+ 
+<section> thicker
+ 
+<section> months formula
+ 
+<section> feeding* 
+<section> non-­breastmilk
+ 
+<section> the feeding 
+<section> to
+ 
+<section> <6 milk, in children
+ 
+<section> child breast breastmilk age
+ 
+<section> animal Complementary
+ 
+<section> of  Introduced months 
+<section> feeding
+ 
+<section> fed  Exclusive fed months
+ 
+<section>  Never honey,  Gave  Child
+ 6 Infant
+ 
+<section> 6 of
+ 
+<section> Continued
+ 
+<section> 0.68
+ 
+<section> 1.04
+ 
+<section> to
+ 
+<section> 0.98
+ 
+<section> 1.01
+ 
+<section> (0.10)
+ 
+<section> 98.9
+ 
+<section> 98.8
+ 
+<section> 0.68
+ 
+<section> 1.01
+ 
+<section> to
+ 
+<section> 0.99
+ 
+<section> 1.00
+ 
+<section> 0.05
+ 
+<section> 98.9
+ 
+<section> 98.9
+ 
+<section> yesterday
+ 
+<section> food
+ 
+<section> semisolid
+ 
+<section> or
+ 
+<section> solid
+ 
+<section> child
+ 
+<section>  Gave 
+<section> value 
+<section> 0.30 
+<section> 0.74 
+<section> 0.70 
+<section> 0.56 
+<section> 0.18 
+<section> 0.39 
+<section> 0.63 
+<section> 0.82 
+<section> contraceptive
+ 
+<section> NA
+ 
+<section> P
+ 
+<section> variable
+ 
+<section> 1.41 
+<section> 1.31 
+<section> 1.33 
+<section> 1.46 
+<section> 1.95 
+<section> 1.60 
+<section> 5.14 
+<section> 1.10
+ life.
+ 
+<section> CI 
+<section> to to to to to to to to of intrauterine
+ 
+<section> Instrumental 95% 0.90 0.82 0.83 0.82 0.88 0.83 0.37 0.89 months
+ 
+<section> NA
+ 
+<section> CATE 
+<section> NA 
+<section> 1.13 
+<section> 1.04 
+<section> 1.05 
+<section> 1.09 
+<section> 1.31 
+<section> 1.16 
+<section> 1.38 
+<section> 0.99 
+<section> 6 first IUCD,
+ 
+<section> the
+ 
+<section> Difference intervention;
+ 
+<section> in
+ 
+<section> exposed 
+<section> groups 
+<section> tea
+ 
+<section> (0.54) 
+<section> 3.00 
+<section> 0.60 
+<section> 0.70 
+<section> 3.50 
+<section> 4.40 
+<section> 1.20 
+<section> (0.06) 
+<section> or
+ 
+<section> – 
+<section> jaifal
+ 
+<section> across exposed exposed milk, 
+<section> Int.,
+ 
+<section> planning;
+ 
+<section> Not 
+<section> 0.8 
+<section> 41.9 
+<section> 58.7 
+<section> 58.0 
+<section> 49.1 
+<section> 30.4 
+<section> 32.3 
+<section> 3.4 
+<section> 86.8 
+<section> formula
+ 
+<section> Prevalence not
+ 
+<section> Exposed family
+ 
+<section> versus milk,
+ 
+<section> 44.9 
+<section> 59.3 
+<section> 58.7 
+<section> 52.6 
+<section> 34.8 
+<section> 33.5 
+<section> 86.8 
+<section> day.
+ 
+<section> 0.2 
+<section> 3.4 
+<section> animal previous 
+<section> FP,
+ 
+<section> worker;
+ 
+<section> value
+ 
+<section> 0.31 
+<section> 0.28 
+<section> 0.72 
+<section> 0.68 
+<section> 0.54 
+<section> 0.13 
+<section> 0.37 
+<section> 0.65 
+<section> 0.83
+ 
+<section> honey,
+ 
+<section> P 
+<section> the health
+ 
+<section> treat 
+<section> 3.17 
+<section> 1.11 
+<section> 1.06 
+<section> 1.06 
+<section> 1.08 
+<section> 1.17 
+<section> 1.13 
+<section> 1.47 
+<section> 1.02 
+<section> water, during
+ 
+<section> frontline
+ 
+<section> CI 
+<section> to to to to to to to to to
+ 
+<section> to 95% 0.69 0.97 0.96 0.96 0.96 0.98 0.95 0.79 0.98 ghutti, Kilkari
+ 
+<section> Intention
+ 
+<section> (n=4423) 
+<section> janam to FLHW,
+ 
+<section> RRs 1.48 1.04 1.01 1.01 1.02 1.07 1.04 1.08 1.00 acording
+ 
+<section> difference;
+ children
+ 
+<section> survey study 
+<section> Difference
+ 
+<section> more
+ 
+<section> endline across 0.23 
+<section> 1.07 
+<section> 1.00 
+<section> 0.99 
+<section> 0.42 
+<section> 1.98 
+<section> 0.94 
+<section> 0.28 
+<section> (0.56) 
+<section> their 
+<section> or Diff,
+ 
+<section> fed times feeding;
+ 
+<section> Prevalence Comp. 
+<section> 41.8 
+<section> 58.2 
+<section> 57.6 
+<section> 49.3 
+<section> 29.9 
+<section> 32.0 
+<section> 87.1 
+<section> never 
+<section> of
+ 
+<section> Women’s 0.6 
+<section> 3.3 
+<section> have number complementary
+ 
+<section> arms 
+<section> Int. 
+<section> 0.8 
+<section> 42.9 59.2 58.6 49.7 31.9 32.9 3.5 86.5 
+<section> and groups.
+ 
+<section> minimum
+ 
+<section> months
+ 
+<section> at 
+<section> food
+ food 
+<section> semisolid 
+<section> yesterday 
+<section> 6 
+<section> first 
+<section> hours. 
+<section> the 
+<section> foods 
+<section> the 
+<section> CF, 
+<section> effects;
+ 
+<section> 24 of
+ 
+<section> or 
+<section> solid 
+<section> food 
+<section> child’s 
+<section> frequency‡ 
+<section> diet 
+<section> acceptable 
+<section> (contraindicated) 
+<section> yesterday 
+<section> yesterday 
+<section> diet 
+<section> the 
+<section> in 
+<section> feeding 
+<section> last 
+<section> the 
+<section> in 
+<section> more 
+<section> soft 
+<section> or 
+<section> semisolid 
+<section> more 
+<section> or 
+<section> 4 from 
+<section> treatment
+ 
+<section> Continued 
+<section> child 
+<section> giving 
+<section> interview 
+<section> to 
+<section> oil/ghee 
+<section> frequency† 
+<section> meal 
+<section> diversity*§ 
+<section> minimum pani 
+<section> syrup 
+<section> iron 
+<section> rich 
+<section> iron 
+<section> breast 
+<section> exclusive 
+<section> or 
+<section> times solid, 
+<section> food 
+<section> 1 
+<section> least 
+<section> adjusted 
+<section> compliance 
+<section> risk. 
+<section> relative
+ 
+<section> Description 
+<section>  Minimum ka child child five received 
+<section> at
+ 
+<section> yet of  Added  Feeding  Dietary a dal folate 
+<section> *Reported child fed RR,
+ 
+<section> 2 
+<section> Table  Not time  Child  Fed 
+<section> Iron 
+<section>  Gave  Gave 
+<section> †Fed ‡Child §Child CATE, device; 
+<insert> Figure 5 Proportion of those exposed versus not exposed using reversible modern contraceptive methods by
+ sociodemographic characteristics. OBC, other backward castes. 
+<iend>
+
+ of RMNCH outcomes. Kilkari was not significantly asso-
+ ciated with significant improvements in infant feeding
+ practices, including the primary outcome of exclusive
+ breast feeding. A significant increase was observed in
+ the use of modern reversible contraceptive methods,
+ particularly among those women exposed to Kilkari with
+ any male child, in the poorest socioeconomic strata,
+ and in disadvantaged ethnic groups. Increases in revers-
+ ible method use were driven principally by increases
+ in condom and oral contraceptive use, and occurred
+ concurrently with a significant decrease in the propor-
+ tion of men or women sterilised since the birth of the
+ child. Increases in the proportion of children immunised
+ at 10 weeks and the proportion of women involved in
+ decision-­making on when to introduce complementary
+ foods were also observed. Significant improvements in
+ other RMNCH outcomes were not observed. Findings
+ suggest that an average of 65% of subscribers listened to
+ more than 50% of the cumulative total of successful calls
+ while 31% listened to more than 75% of the total content
+ of calls. High listenership rates were stable over time;
+ a likely indication that if calls reach the mobile device
+ and are answered, subscribers tend to the listen to them.
+ Analyses of the programme’s algorithm that attempts to
+ call subscribers up to nine times to yield a successful call
+ found that a greater number of call attempts are needed
+ to reach the most marginalised.
+ Kilkari includes health information content across
+ more than 11 health areas. The theory of change under-
+ pinning the evaluation is published elsewhere. 17 Infant
+ feeding outcomes were selected as the priority outcomes
+ from the outset because they represent a sizeable share 
+<section> value
+ 
+<section> 0.17 
+<section> 0.31 
+<section> 0.12 
+<section> 0.43 
+<section> 0.40
+ 
+<section> P
+ 
+<section> variable
+ 
+<section> 1.13 
+<section> 1.12 
+<section> 1.48 
+<section> 1.02 
+<section> 1.04
+ 
+<section> CI 
+<section> to to to to to
+ 
+<section> Instrumental 95% 0.98 0.96 0.95 0.99 0.91
+ 
+<section> CATE
+ 
+<section> 1.05 
+<section> 1.04 
+<section> 1.19 
+<section> 1.01 
+<section> 0.97
+ 
+<section> exposed 
+<section> groups
+ 
+<section> Diff. 2.9 4.0 1.0 0.3 2.7
+ 
+<section> exposed exposed
+ 
+<section> across
+ 
+<section> Not 
+<section> 93.6 
+<section> 94.3 
+<section> 86.1 
+<section> 98.9 
+<section> 80.6
+ 
+<section> Prevalence not
+ 
+<section> Pradesh 
+<section> Exposed
+ 
+<section> versus
+ 
+<section> 96.5 
+<section> 98.3 
+<section> 87.1 
+<section> 99.3 
+<section> 83.3
+ 
+<section> Madhya
+ 
+<section> value
+ 
+<section> 0.17 
+<section> 0.30 
+<section> 0.19 
+<section> 0.43 
+<section> 0.41
+ 
+<section> P
+ 
+<section> of
+ 1.03 
+<section> 1.02 
+<section> 1.04 
+<section> 1.01 
+<section> 1.02
+ 
+<section> districts treat
+ 
+<section> CI 
+<section> to to to to to
+ 
+<section> to 95% 1.00 0.99 0.99 1.00 0.96
+ 
+<section> four Intention
+ 
+<section> in (n=4423) 1.01 1.01 1.02 1.00 0.99
+ 
+<section> practices RR
+ 
+<section> survey study
+ 
+<section> immunisation Diff. 0.94 0.66 1.21 (0.76) (1.01)
+ 
+<section> across
+ 
+<section> endline
+ 
+<section> Control
+ 
+<section> Prevalence 93.4 
+<section> 94.4 
+<section> 85.6 
+<section> 94.5 
+<section> 81.7
+ 
+<section> Women’s
+ 
+<section> and
+ 
+<section> WASH arms 
+<section> Int. 94.4 95.0 86.8 93.7 80.7
+ 
+<section> giving
+ 
+<section> care,
+ n=4460) 
+<section> their
+ 
+<section> newborn attendant 
+<section> after 
+<section> bathing
+ 
+<section> days (children
+ 
+<section> essential skilled 2 
+<section> for birth 
+<section> till
+ 
+<section> facility 
+<section> facility care prevention 
+<section> after 
+<section> more
+ 
+<section> Delivery, delivery a in a with the newborn child or days
+ 
+<section> Description birth birth in Hypothermia  Wrapped 2
+ 
+<section>  Stayed Essential  Waited
+ 
+<section> 3 
+<section> Table Facility  Gave  Gave birth child
+ 
+<section> 0.089
+ 
+<section> 0.78 
+<section> 0.57 
+<section> 0.24
+ 
+<section> 1.53 
+<section> 1.07 
+<section> 1.25 
+<section> 1.08
+ 
+<section> to to to to
+ 
+<section> 0.73 0.96 0.98 0.98
+ 
+<section> 1.06 
+<section> 1.02 
+<section> 1.11 
+<section> 1.03
+ 
+<section> −1.5 
+<section> 2.7 
+<section> 4.3 
+<section> 0.4
+ 
+<section> 16.2 
+<section> 83.7 
+<section> 81.6 
+<section> 98.3
+ 
+<section> 14.7 
+<section> 86.4 
+<section> 85.9 
+<section> 98.7
+ 
+<section> 0.079
+ 0.76 
+<section> 0.56 
+<section> 0.21
+ 
+<section> 1.17 
+<section> 1.03 
+<section> 1.05 
+<section> 1.01
+ 
+<section> to to to to
+ 
+<section> 0.89 0.98 1.00 1.00
+ 
+<section> 1.02 
+<section> 1.01 
+<section> 1.03 
+<section> 1.01
+ 
+<section> 0.18 
+<section> 0.42 
+<section> 1.81 
+<section> 0.48
+ 
+<section> 15.8 
+<section> 84.2 
+<section> 81.2 
+<section> 98.1
+ 
+<section> 15.9 
+<section> 84.6 
+<section> 83.0 
+<section> 98.6
+ 
+<section> last
+ 
+<section> child’s
+ 
+<section> colostrum 
+<section> child
+ 
+<section> on for
+ 
+<section> feeding
+ 
+<section> nothing handy
+ 
+<section> child
+ 
+<section> before numbers
+ care: their
+ 
+<section> cord cord fed 
+<section>  Colostrum: 
+<section> hands numbers 
+<section> phone emergencies
+ 
+<section>  Umbilical umbilical  Washed
+ 
+<section> WASH 
+<section> time 
+<section> Phone  Kept
+ 
+<section> Continued
+ 
+<section> 0.057
+ 0.60 0.33 0.54 0.70 0.88 0.18 0.22
+ 
+<section> 1.11 1.52 1.41 1.13 1.05 1.22 1.24 1.05
+ 
+<section> to to to to to to to to
+ 
+<section> 0.94 0.87 0.84 0.92 0.95 1.00 0.96 0.81
+ 
+<section> 1.02 1.15 1.09 1.02 1.00 1.10 1.09 0.92
+ 
+<section> 2.9 7.5 4.2 2.7 0.2 2.4 2.8 2.7
+ 
+<section> 91.9 60.4 40.6 78.3 89.4 73.0 70.6 82.0
+ 
+<section> 94.8 67.9 44.7 81.0 89.6 75.4 73.4 84.6
+ 
+<section> 0.048
+ 0.62 0.30 0.53 0.70 0.88 0.17 0.24
+ 
+<section> 1.02 1.08 1.10 1.04 1.02 1.07 1.07 1.01
+ 
+<section> to to to to to to to to
+ 
+<section> 0.99 0.98 0.95 0.98 0.98 1.00 0.99 0.96
+ 
+<section> 1.00 1.03 1.02 1.01 1.00 1.04 1.03 0.98
+ 
+<section> 0.47 1.09 1.22 0.61 0.08 2.81 2.13 (1.47)
+ 
+<section> 92.0 60.5 40.5 78.4 89.4 72.0 69.9 83.0
+ 
+<section> 92.4 61.6 41.7 79.0 89.5 74.8 72.1 81.5
+ 
+<section> of 
+<section> number
+ 
+<section> case
+ months 
+<section> Penta Penta
+ Penta
+ 
+<section> in ambulance emergency
+ 
+<section> handy and and
+ 12 and
+ 
+<section> number 
+<section> at 
+<section> immunised immunisations OPV1/IPV1 OPV2/IPV2 OPV3/IPV3 
+<section> measles
+ 
+<section> government of
+ 
+<section> case
+ 
+<section> FLHW emergency 
+<section> in 
+<section> Immunisations 
+<section> fully weeks: weeks: weeks: months:
+ 
+<section> handy
+  Kept  Kept  Birth
+ 
+<section> Child  10  14
+  6  9 
+<section> value
+ 
+<section> 0.37 
+<section> 0.93 
+<section> 0.49 
+<section> 0.80 
+<section> 0.45 
+<section> 0.41 
+<section> RR,
+ 
+<section> variable 
+<section> P 
+<section> pentavalent;
+ 1.39 
+<section> 1.16 
+<section> 1.10 
+<section> 1.25 
+<section> 1.83 
+<section> 1.21
+ 
+<section> CI 
+<section> to to to to to to
+ 
+<section> Instrumental 95% 0.89 0.87 0.82 0.75 0.77 0.62 Penta,
+ 
+<section> CATE vaccine;
+ 1.11 
+<section> 1.01 
+<section> 0.95 
+<section> 0.97 
+<section> 1.18 
+<section> 0.87
+ 
+<section> polio
+ 
+<section> exposed groups Diff. 1.7 1.6 1.2 1.3 4.5 2.7 oral
+ 
+<section> OPV,
+ 
+<section> exposed exposed
+ 
+<section> across vaccine;
+ 
+<section> Not 
+<section> 78.7 
+<section> 76.2 
+<section> 53.4 
+<section> 27.9 
+<section> 15.5 
+<section> 40.7
+ 
+<section> Prevalence not polio
+ 
+<section> Exposed
+ 
+<section> versus inactivated
+ 80.5 
+<section> 77.8 
+<section> 54.7 
+<section> 29.2 
+<section> 20.0 
+<section> 43.4
+ 
+<section> value
+ 
+<section> 1.00 
+<section> 0.30 
+<section> 0.16 
+<section> 0.47 
+<section> 0.66 
+<section> 0.23 
+<section> IPV,
+ 
+<section> P
+ 
+<section> intervention;
+ 1.03 
+<section> 1.02 
+<section> 1.02 
+<section> 1.06 
+<section> 1.19 
+<section> 1.03
+ 
+<section> treat
+ 
+<section> CI 
+<section> to to to to to to
+ 
+<section> to 95% 0.97 0.95 0.91 0.87 0.90 0.89
+ 
+<section> Intention Int.,
+ 
+<section> (n=4423) 
+<section> worker;
+ 
+<section> RR 
+<section> 1.00 
+<section> (n=3799) 
+<section> 0.98 
+<section> 0.96 
+<section> 0.96 
+<section> 1.03 
+<section> 0.96
+ 
+<section> health
+ 
+<section> survey study
+ 
+<section> card
+ 
+<section> Diff. (0.07) (1.34) (1.79) (0.73) 0.96 (2.01) frontline
+ 
+<section> across vaccination
+ 
+<section> endline
+ 
+<section> Control 
+<section> FLHW,
+ 
+<section> Prevalence 79.0 
+<section> 77.2 
+<section> 54.7 
+<section> 28.6 
+<section> 15.7 
+<section> 42.0
+ 
+<section> Women’s difference;
+ a
+ 
+<section> arms Int. 78.9 had 75.9 52.9 27.8 16.7 40.0
+ 
+<section> who
+ Diff,
+ those
+ effects; hygiene.
+ 
+<section> among
+ treatment
+ sanitation
+ immunisations
+ weeks 
+<section> weeks
+ 
+<section> weeks 
+<section> adjusted
+ more 
+<section> weeks 
+<section> water
+ Continued 
+<section> or weeks 
+<section> 6–10 10–14 14–18 39 compliance WASH,
+ 
+<section> Description 1 A: of 0–2 weeks: weeks: weeks: months:
+  Vitamin Timeliness risk;
+ 
+<section> 3 
+<section> Table  Birth:  6  10  14 CATE, relative
+ 
+<section>  9
+ 
+<section> of message content (12%) and the practice of these
+ behaviours is not supply side dependent, although imme-
+ diate breast feeding can be. In the case of exclusive
+ breast feeding, the low (58%) pretrial prevalence of this
+ behaviour additionally left much potential for improve-
+ ment. 19 In practice, significant improvements were not
+ observed in exclusive breast feeding. Qualitative research
+ findings published elsewhere help to shed light on the
+ factors underpinning these results. 23 Kilkari messages
+ that told women to give only breastmilk were interpreted
+ to mean ‘give only breastmilk as the main source of
+ nutrition’—since janam ghutti (a local term referring to
+ homemade or indigenous herbal tonic), water and the
+ provision of small quantities of sweets were not a source
+ of nutrition, giving them to babies was not considered by
+ caregivers to be incompatible with following the message
+ to exclusively breastfeed. 23 When Kilkari did specify not
+ to give ghutti or other food items, women often did not
+ seem to absorb this from the message. 23 Broadly, women
+ did not see valid reasons to stop giving substances such as
+ ghutti which they thought helped to support the child’s
+ health and in instances of illness could prevent worse
+ illness. While quantitative survey findings did indicate
+ a significant increase in the proportion of the mothers
+ involved in decision-­ making over when to introduce
+ complementary foods, mothers were also not the sole
+ decision-­makers and families too felt strongly that ghutti,
+ water and other substances were helpful for babies.
+ Women also reported appreciating and trusting the
+ advice of elders who encouraged giving ghutti and other
+ substances. Specific to the practice of breast feeding,
+ most women in rural Madhya Pradesh reported having
+ very limited support to exclusively breastfeed, including
+ refrigeration, consistent electricity supply, pumping and
+ bottle sterilisation, as well as support to solve physiolog-
+ ical issues that may interfere with breast feeding. In sum,
+ complex behaviours that have competing social norms
+ and are currently seen to work quite well are challenging
+ to change and receiving a small number of Kilkari voice
+ calls advocating that one adopt a particular practice did
+ not catalyse a change in behaviour.
+ From a measurement perspective, qualitative findings
+ affirmed those from cognitive interviews done to support
+ the design of survey tools. 24 25 While the National Family
+ Health Survey-­4 findings from 2015 to 16 suggest that the
+ reported practice of exclusive breast feeding was 58% in
+ Madhya Pradesh, our findings suggest a much lower prev-
+ alence (intervention: 10.8%; control: 10.4%) when addi-
+ tional probing questions are incorporated in the survey
+ tool. Discrepancies lie the wording of survey questions
+ and indicator framing. Our estimates of exclusive breast
+ feeding are based on two questions in contrast to other
+ surveys: (1) women who reported practicing exclusive
+ breast feeding in the first 6 months of their child’s life
+ and (2) women who report never having fed their child
+ janam ghutti, water, honey, animal milk, formula milk,
+ jaifal or tea in the first 6 months of life. Across study arms,
+ only 10.8% of women in the intervention arm and 10.4% 
+<section> value 0.76 0.042 0.13 0.72 0.66 0.21 0.045 0.91 0.32 0.96 0.96 0.60 0.60 0.56 0.088 0.28 0.54 0.45 Continued
+ 
+<section> variable 
+<section> P
+ 
+<section> 1.13 1.24 1.20 1.39 1.64 1.69 0.99 9.08 1.25 1.66 1.61 1.18 1.20 1.19 1.04 1.24 1.45 1.17
+ 
+<section> Instrumental CI to to to to to to to to to to to to to to to to to to
+ 
+<section> 95% 0.92 1.00 0.98 0.80 0.46 0.89 0.47 0.08 0.51 0.59 0.64 0.75 0.73 0.73 0.56 0.48 0.49 0.71
+ 
+<section> CATE
+ 
+<section> 1.02 1.11 1.08 1.05 0.87 1.23 0.69 0.87 0.80 0.99 1.01 0.94 0.94 0.93 0.76 0.77 0.84 0.91
+ 
+<section> exposed groups Diff. 1.11 1.94 3.50 1.50 0.13 4.57 −0.63 −1.27 −1.80 −2.76 −1.88 2.74 2.19 1.95 −1.88 −1.64 −1.33 −1.28
+ 
+<section> exposed exposed
+ 
+<section> across
+ 
+<section> Pradesh Not 87.5 82.8 88.5 49.3 13.3 45.8 20.4 4.0 18.2 25.4 28.9 37.0 32.2 32.9 24.4 13.7 12.1 50.5
+ 
+<section> Prevalence not
+ 
+<section> Exposed
+ 
+<section> Madhya versus
+ 
+<section> 88.6 84.7 92.0 50.8 13.4 50.4 19.8 2.7 16.4 22.6 27.0 39.8 34.4 34.8 22.5 12.0 10.7 49.2
+ 
+<section> of value 0.041 0.085
+ districts 0.76 0.13 0.74 0.70 0.17 0.94 0.38 0.94 0.98 0.61 0.60 0.56 0.12 0.33 0.57 0.46
+ 
+<section> P
+ 
+<section> treat 1.03 1.06 1.04 1.07 1.13 1.12 1.01 1.33 1.07 1.10 1.10 1.06 1.06 1.06 1.02 1.08 1.12 1.04
+ four
+ 
+<section> CI to to to to to to to to to to to to to to to to to to
+ in (n=4423) to 95% 0.98 1.00 1.00 0.95 0.84 0.98 0.80 0.73 0.83 0.90 0.91 0.91 0.90 0.90 0.83 0.80 0.81 0.92
+ information Intention
+ 
+<section> survey RR 1.00 1.03 1.02 1.01 0.97 1.05 0.90 0.99 0.95 1.00 1.00 0.98 0.98 0.98 0.92 0.93 0.95 0.98
+ for across Diff. 0.50 2.75 1.75 0.73 (0.30) 2.03 (1.90) 0.01 (0.97) 0.05 0.15 (0.91) (0.89) (1.01) (2.19) (1.04) (0.57) (0.83)
+ 
+<section> endline
+ 
+<section> demand
+ 
+<section> Control
+ 
+<section> Women’s Prevalence arms 87.4 81.6 88.0 49.1 13.5 45.3 21.3 3.9 18.5 25.0 28.6 38.0 33.0 33.7 25.2 14.0 12.2 50.8
+ 
+<section> and
+ 
+<section> study
+ 
+<section> discussion Int. 87.9 84.3 89.7 49.8 13.2 47.3 19.4 3.9 17.5 25.1 28.7 37.0 32.1 32.7 23.0 12.9 11.6 49.9
+ 
+<section> illness, birth immunisations 
+<section> immunisation 
+<section> feeding 
+<section> birth
+ 
+<section> decision-­making, spacing to when child’s of birth since since
+ 
+<section> birth on what feeding a since planning immunisations breast feeding services worker
+ or planning decision-­making about child planning FLHW complementary FLHW than other FLHW planning family child’s child on feeding on worker breast information, health
+ 
+<section> in decision with child’s on advice a
+ involvement feeding give family with issues with information family about advice health by
+ Women’s Decision-­making family in involved decision-­making the in involved complementary the in involved to foods complementary month last about family planning family about 
+<section> FLHW feeding infant about 
+<section> FLHW illness child’s health about 
+<section> FLHW worker health on advice for for FLHW for worker health breast on advice from advice on advice for FLHW health of (supply) planning family
+ 
+<section> 4 Table 
+<section> Description  Women  Women start  Women in Discussion to  Talked  Discussed to  Talked  Discussed to  Spoke feeding  Discussed for Demand an  Asked child a  Asked child asked  Ever asked  Ever  Asked for  Asked for  Asked  Asked Receipt about  Told child
+ 
+<section> of of 
+<section> value
+ 
+<section> 0.86 
+<section> 0.64 
+<section> 0.28 
+<section> 0.91 
+<section> 0.97 
+<section> 0.71 
+<section> 0.24 
+<section> 0.35 
+<section> 0.70
+ 
+<section> variable 
+<section> P
+ 
+<section> 1.07 1.05 1.24 1.09 2.20 1.13 1.31 1.35 1.63
+ 
+<section> Instrumental CI 
+<section> 95% to 0.93 to 0.92 to 0.48 to 0.91 to 0.47 to 0.92 to 0.93 to 0.43 to 0.49 risk.
+ 
+<section> relative
+ 
+<section> CATE
+ 
+<section> 0.99 
+<section> 0.98 
+<section> 0.77 
+<section> 0.99 
+<section> 1.01 
+<section> 1.02 
+<section> 1.11 
+<section> 0.76 
+<section> 0.89
+ 
+<section> RR,
+ 
+<section> exposed 
+<section> groups Diff. 
+<section> −0.87 −0.90 −3.99 0.29 
+<section> 0.77 
+<section> 1.20 
+<section> 1.01 
+<section> −3.32 0.11 
+<section> intervention;
+ 
+<section> exposed exposed
+ 
+<section> across
+ 
+<section> Not 
+<section> 87.8 
+<section> 88.8 
+<section> 33.9 
+<section> 59.7 
+<section> 0.83 
+<section> 78.0 
+<section> 61.0 
+<section> 24.6 
+<section> 21.2 
+<section> Int.,
+ 
+<section> planning;
+ 
+<section> Prevalence not
+ 
+<section> Exposed
+ 
+<section> versus
+ 
+<section> 86.9 
+<section> 87.9 
+<section> 29.9 
+<section> 60.0 
+<section> 1.60 
+<section> 79.2 
+<section> 62.0 
+<section> 21.3 
+<section> 21.3 
+<section> family
+ 
+<section> FP,
+ 
+<section> value
+ 
+<section> 0.87 
+<section> 0.66 
+<section> 0.34 
+<section> 0.91 
+<section> 0.90 
+<section> 0.70 
+<section> 0.23 
+<section> 0.42 
+<section> 0.74 
+<section> worker;
+ 
+<section> P
+ 
+<section> treat 
+<section> 1.02 1.02 1.04 1.05 1.86 1.04 1.08 1.06 1.10 health
+ 
+<section> CI 
+<section> to to to to to to to to to
+ 
+<section> (n=4423) 
+<section> to 95% 0.98 0.97 0.88 0.95 0.58 0.98 0.98 0.86 0.88 frontline
+ 
+<section> Intention
+ 
+<section> survey RR 
+<section> 1.00 
+<section> 1.00 
+<section> 0.96 
+<section> 1.00 
+<section> 1.04 
+<section> 1.01 
+<section> 1.03 
+<section> 0.96 
+<section> 0.98 
+<section> FLHW,
+ 
+<section> across 
+<section> Diff. 
+<section> (0.18) (0.45) (1.15) 0.36 
+<section> 0.04 
+<section> 0.32 
+<section> 1.68 
+<section> (0.85) (0.19) difference;
+ 
+<section> endline
+ 
+<section> Control
+ 
+<section> Women’s Prevalence arms 
+<section> 87.8 
+<section> 88.9 
+<section> 34.2 
+<section> 59.6 
+<section> 1.0 
+<section> 78.0 
+<section> 60.2 
+<section> 24.8 
+<section> 21.3 
+<section> Diff,
+ 
+<section> study feeding;
+ 
+<section> Int. 
+<section> 87.6 
+<section> 88.5 
+<section> 33.0 
+<section> 60.0 
+<section> 1.1 
+<section> 78.3 
+<section> 61.9 
+<section> 23.9 
+<section> 21.1
+ 
+<section> postpartum months complementary
+ in
+ 
+<section> from 
+<section> health 
+<section> facility month
+ 
+<section> 2
+ immunisations a from child’s 
+<section> months first FLHW 
+<section> health last
+ 
+<section> the the CF,
+ immunisation for women 2 first 
+<section> in visits feeding 
+<section> from a to them 
+<section> in supplies effects;
+ 
+<section> child’s check 
+<section> the FLHW advice encouraged/escorted treatment
+ 
+<section> on child encourage/escorted 
+<section> health 
+<section> in visit eligible breast feeding or drugs adjusted
+ advice on FLHW on
+ Continued 
+<section> advice or all advice breast them
+ 
+<section> received immunisation an the month 
+<section> gave compliance
+ 
+<section> Description 
+<section>  Received  Received  Received  Received  Received
+ 
+<section> 4 
+<section> Table  Ever FLHW 
+<section> worker 
+<section>  FLHW  FLHW last 
+<section> the  FLHW CATE, 
+<insert> Women’s endline survey (n=4423)
+ Prevalence across study
+ arms
+ Description Int.
+ Intention to treat
+ Control Difference RR 95% CI
+ Instrumental variable
+ P value CATE 95% CI
+ P
+ value
+ Family planning knowledge
+  Safe methods for delaying pregnancy 93.0 92.7 0.35 1.00 0.99 to 1.02 0.70 1.02 0.94 to 1.10 0.71
+  One or more benefits of family planning 97.0 97.2 (0.22) 1.00 0.99 to 1.01 0.81 0.99 0.95 to 1.04 0.81
+  One or more benefits of small family 64.6 63.2 1.41 1.03 0.99 to 1.08 0.19 1.12 0.94 to 1.33 0.20
+ Source of pregnancy test
+  FLHW 62.5 59.6 2.95 1.05 1.00 to 1.11 0.032 1.24 1.01 to 1.53 0.044
+  Health centre 61.9 63.2 (1.30) 0.98 0.94 to 1.03 0.43 0.93 0.80 to 1.10 0.40
+  Government provides free pregnancy
+ tests
+ 82.9 82.6 0.34 1.00 0.98 to 1.03 0.73 1.02 0.92 to 1.13 0.74
+  3 years gap is ideal 99.7 99.6 0.13 1.00 1.00 to 1.00 0.52 1.00 0.99 to 1.02 0.52
+  Know the benefits of a 3-­year age gap 98.0 98.4 (0.36) 1.00 0.99 to 1.00 0.40 0.99 0.95 to 1.02 0.39
+ 52.7 53.4 (0.72) 0.98 0.93 to 1.04 0.54 0.96 0.84 to 1.09 0.53
+ 99.8 99.7 0.12 1.00 1.00 to 1.00 0.38 1.01 0.99 to 1.02 0.38
+ Birth spacing
+ Postpartum pregnancy risk
+  Woman can get pregnant before menses
+ returns
+ Female sterilisation
+  Ever heard of
+  Knowledge that services are free 97.4 96.6 0.82 1.01 1.00 to 1.02 0.14 1.03 0.99 to 1.08 0.15
+  Timing: can be done at time of birth 62.6 63.3 (0.64) 0.99 0.94 to 1.03 0.58 0.95 0.80 to 1.13 0.56
+  Ever heard of 89.5 89.2 0.33 1.01 0.99 to 1.03 0.61 1.02 0.95 to 1.08 0.59
+  Knowledge that services are free 74.0 74.9 (0.93) 0.99 0.95 to 1.02 0.46 0.95 0.83 to 1.08 0.43
+ Male sterilisation
+  Causes men to become weak 73.7 73.1 0.60 1.01 0.98 to 1.05 0.52 1.05 0.90 to 1.24 0.52
+  Does not require incision or stitches 36.0 37.7 (1.73) 0.96 0.89 to 1.03 0.26 0.86 0.65 to 1.12 0.25
+ (0.21) 1.00 0.97 to 1.03 0.98 1.00 0.93 to 1.08 0.98
+ Postpartum intrauterine contraceptive device (PPIUCD)
+  Ever heard of 82.7 82.9
+  Knowledge that services are free 69.0 68.9 0.11 1.00 0.96 to 1.04 0.91 1.01 0.90 to 1.12 0.93
+  Timing: can be done at time of birth 64.2 63.5 0.70 1.01 0.97 to 1.06 0.55 1.03 0.94 to 1.12 0.55
+  Medroxyprogesterone aceta/injectables 84.7 84.8 (0.09) 1.00 0.98 to 1.03 0.94 1.00 0.93 to 1.08 0.93
+  Oral contraceptive pills 89.0 87.2 1.80 1.02 1.00 to 1.04 0.063 1.11 0.99 to 1.24 0.075
+  Condoms 94.8 93.9 0.84 1.01 0.99 to 1.02 0.20 1.04 0.98 to 1.11 0.19
+  Emergency contraceptives 39.2 39.2 (0.03) 1.00 0.93 to 1.07 0.96 1.00 0.71 to 1.41 1.00
+ Awareness of other methods
+ Health providers as source for information, methods
+  Know to ask health provider questions
+ about family planning use
+ 83.8 80.4 3.36 1.04 1.01 to 1.07 0.0030 1.25 1.06 to 1.46 0.007
+  Keep FLHW number handy in case of
+ emergency
+ 95.1 94.7 0.36 1.00 0.99 to 1.02 0.66 1.02 0.95 to 1.09 0.66
+ CATE, compliance adjusted treatment effects; Diff, difference; FLHW, frontline health worker; FP, family planning; Int., intervention;
+ OCPs, oral contraceptive pills; RR, relative risk.
+ Table 5 Family planning knowledge among women in four districts of Madhya Pradesh 
+<iend>
+
+ of women in the control arm met this standard. Argu-
+ ably this estimate is a more reliable indication of the true
+ prevalence of exclusive breast feeding in this population.
+ In contrast to infant feeding, Kilkari had a significant
+ impact on the secondary outcome of modern reversible
+ contraceptive use. Family planning messages constituted 
+<insert> Men’s survey (n=3842)
+ Prevalence across study
+ arms
+ Description Int.
+ Intention to treat
+ Control Difference RR 95% CI
+ Instrumental variable
+ P
+ value CATE 95% CI
+ P
+ value
+ Family planning knowledge
+  Safe methods for delaying pregnancy 96.3 96.7 (0.37) 1.00 0.98 to 1.01 0.55 0.98 0.92 to 1.04 0.55
+  One or more benefits of family planning 96.5 97.0 (0.45) 1.00 0.98 to 1.01 0.57 0.98 0.93 to 1.04 0.56
+  One or more benefits of small family 84.2 83.9 0.35 1.00 0.98 to 1.03 0.77 1.02 0.91 to 1.13 0.76
+  FLHW 33.7 33.5 0.19 1.01 0.93 to 1.11 0.79 1.05 0.74 to 1.48 0.80
+  Health centre 59.1 59.3 (0.19) 1.00 0.94 to 1.05 0.89 0.99 0.80 to 1.21 0.90
+  Government provides free pregnancy tests 66.0 66.3 (0.37) 1.00 0.96 to 1.04 0.96 1.00 0.84 to 1.18 0.97
+ Source of pregnancy test
+ Birth spacing
+  3 years gap is ideal 99.6 99.6 – 1.00 1.00 to 1.00 0.95 1.00 0.98 to 1.02 0.95
+  Know the benefits of a 3-­year age gap 97.3 97.6 (0.32) 1.00 0.99 to 1.01 0.81 0.99 0.95 to 1.04 0.81
+ 46.4 44.9 1.54 1.04 0.97 to 1.12 0.24 1.10 0.94 to 1.30 0.24
+  Ever heard of 99.4 99.6 (0.20) 1.00 0.99 to 1.00 0.48 0.99 0.97 to 1.01 0.48
+  Knowledge that services are free 96.2 95.8 0.41 1.01 0.99 to 1.02 0.44 1.02 0.97 to 1.08 0.43
+  Timing: can be done at time of birth 59.4 59.3 0.06 1.01 0.96 to 1.06 0.85 1.02 0.83 to 1.25 0.87
+  Ever heard of 95.1 95.8 (0.67) 0.99 0.98 to 1.01 0.46 0.98 0.94 to 1.03 0.46
+  Knowledge that services are free 86.5 87.7 (1.15) 0.99 0.97 to 1.01 0.41 0.96 0.86 to 1.06 0.40
+ Postpartum pregnancy risk
+  Woman can get pregnant before menses
+ returns
+ Female sterilisation
+ Male sterilisation
+  Causes men to become weak 59.4 59.1 0.33 1.00 0.95 to 1.05 0.91 0.99 0.78 to 1.26 0.92
+  Does not require incision or stitches 49.2 49.4 (0.12) 1.00 0.94 to 1.07 0.94 1.00 0.77 to 1.31 0.97
+  Ever heard of 58.8 56.9 1.90 1.05 1.00 to 1.10 0.070 1.16 0.99 to 1.35 0.070
+  Knowledge that services are free 43.8 43.6 0.27 1.02 0.95 to 1.09 0.58 1.06 0.88 to 1.28 0.55
+  Timing: can be done at time of birth 38.2 36.3 1.85 1.06 0.98 to 1.15 0.13 1.13 0.96 to 1.33 0.13
+  Medroxyprogesterone acetate/injectables 68.6 68.1 0.47 1.01 0.97 to 1.06 0.56 1.04 0.92 to 1.16 0.53
+  Oral contraceptive pills 87.2 85.7 1.42 1.02 0.99 to 1.04 0.13 1.10 0.97 to 1.25 0.13
+  Condoms 98.9 98.9 (0.02) 1.00 0.99 to 1.01 0.88 1.00 0.97 to 1.04 0.87
+  Emergency contraceptives 50.5 51.4 (0.89) 0.99 0.94 to 1.05 0.85 0.97 0.74 to 1.26 0.81
+ Postpartum intrauterine contraceptive device
+ Awareness of other methods
+ Health providers as source for information, methods
+  Know to ask health provider questions
+ about family planning use
+ 70.6 67.6 2.98 1.05 1.00 to 1.09 0.032 1.27 1.00 to 1.62 0.047
+  Keep FLHW number handy in case of
+ emergency
+ 82.6 82.6 0.05 1.00 0.97 to 1.03 0.94 1.01 0.88 to 1.15 0.93
+ CATE, compliance adjusted treatment effects; CF, complementary feeding; Diff, difference; FLHW, frontline health worker; FP, family
+ planning; Int., intervention; OCPs, oral contraceptive pills; RR, relative risk.
+ Table 6 Family planning knowledge among men in four districts of Madhya Pradesh 
+<iend>
+
+ the largest overall content area (18%) and were provided
+ throughout the extended postpartum window. The
+ impact on modern reversible contraceptive use was
+ driven by increases in condom use and oral contracep-
+ tives, and as noted above, occurred concurrently with
+ a decrease in sterilisation. A multitude of factors may
+ explain these results. First, 49% of women in our sample
+ reported sharing mobile phones and among women who
+ did not own their own phones (25%), it was often their
+ husbands who listened to Kilkari calls. 23 Exposure to 
+<section> Kilkari calls among men may thus have catalysed some of
+ the increase observed. Second, the study population was
+ characterised by high economic migration among men; a
+ factor which too may have influenced women’s decision-­
+ making on method preferences and the observed shift
+ from permanent to reversible methods. Lastly, increases
+ were significantly higher among subgroups including
+ those with any male children. Given social norms around
+ gender preferences for children, Kilkari may have served
+ as a ‘tipping point’ to prompt behaviour change among
+ those who had already had a male child. Indeed, qualita-
+ tive findings suggest that men and women retained and
+ appreciated Kilkari messages that aligned with their pre-­
+ existing worldviews, social norms and existing practices
+ but overlooked or de-­emphasised content that did not.
+ 
+<section> Comparison with findings elsewhere
+ Our study is the largest effectiveness trial conducted glob-
+ ally to date of a mHealth messaging programme oper-
+ ating at scale. Comparable RCTs of mHealth messaging
+ programmes in other low resource settings were
+ completed as part of pilot studies or smaller deployments
+ in Africa. 8–11 The changes in programme features and
+ design which frequently occur as programmes transition
+ from small scale pilots to large scale deployments can
+ lead to a voltage drop in their effectiveness at scale and
+ have implications for the generalisibiltiy of results. 2 15 By
+ starting with a programme already firmly established and
+ scaled, we have sought to improve emerging evidence on
+ the generalisability of such interventions. By recruiting
+ study participants directly from their communities, we
+ have sought to test the intervention under ‘imperfect’
+ real world conditions ensuring that findings are gener-
+ alisable to and representative of the population at large
+ with access to mobile phones. Further efforts to power
+ the sampling frame to detect a 5% difference across study
+ arms in the primary outcomes of reversible contraceptive
+ method use and exclusive breast feeding sought to ensure
+ that modest differences in outcomes would be detected.
+ While challenges with exposure exceeded expectations
+ (and are discussed below), subgroup analyses on key
+ population subgroups were particularly critical to under-
+ standing the differential effect programme activities
+ may have had. Elsewhere we continue to explore equity
+ considerations in greater depth. 22 Analyses of call data
+ records made possible by MOHFW and with the support
+ of technical partners including BBC Media Action,
+ Beehyv and IMI Mobile were integral to our efforts to
+ determine exposure to specific subsets of Kilkari messages
+ by outcome and explore linkages between dosage of
+ listening and reported health outcomes. Ours is the first
+ evaluation of a mHealth messaging programme to make
+ this link.
+ The RCT presented here is part of a large mixed
+ methods evaluation of Kilkari. 17 Findings add to the
+ limited evidence available on the effectiveness of large-­
+ scale health information messaging programmes 4 7
+ and smaller scale initiatives in Malawi 8 and Zanzibar. 9–11
+ 
+<section> However, comparisons with other programmes are chal-
+ lenging given the fundamental differences in programme
+ components, implementation partners, study contexts,
+ scale of implementation and evaluation design. Kilkari
+ was designed as an integrated component of a suite of
+ mHealth services that involved training of frontline
+ health workers (Mobile Academy), equipping them
+ with job aids (Mobile Kunji), and reinforcing health
+ information provided to beneficiaries through contacts
+ with the public health system (Kilkari). 2 16 However, the
+ programme was ultimately scaled as a standalone service
+ with key features, including the timing of calls, modi-
+ fied based on what was feasible to implement at scale.
+ By comparison, programmes in Bangladesh, Malawi,
+ Zanzibar and elsewhere in India, all feature mHealth
+ information messaging as part of a larger suite of services,
+ often enabled by frontline health workers who provide
+ face-­ to-­ face communication services, supported by an
+ implementing non-­government organisation with donor
+ funding. The sole exception is South African National
+ Department of Health’s MomConnect programme which
+ does include a HelpDesk 27 component but principally
+ is centred around the delivery of 145 twice weekly text
+ messages to new and expectant mothers.
+ Globally, the future of mHealth messaging programmes
+ remains uncertain. While several programmes have
+ scaled to reach large numbers of subscribers, 4–7 28 sustain-
+ ability remains a continued challenge. While a number
+ of factors underpin this, key drivers include dependency
+ on donor funding, limited government capacity for over-
+ sight and stewardship, and lack of evidence on impact
+ and value for money. 13 The emergence of COVID-­
+ has further increased demands on already finite health
+ resources. Despite the uncertainties, programmes like
+ Kilkari, which have the infrastructure in place to send
+ health information content out to millions of benefi-
+ ciaries, offer much potential for delivering other kinds
+ of health information, including information related to
+ COVID-­19. More broadly, our findings underscore the
+ potential impact mHealth messaging programmes may
+ have in providing women and their families with access
+ to health information. By not restricting the framing of
+ Kilkari messages to women, the programme may have
+ tapped into a demand among men for health informa-
+ tion. Further, efforts to ensure that Kilkari content was
+ accessible regardless of subscribers’ education, caste or
+ socioeconomic status, may underpin pro-­poor findings
+ observed for reversible contraceptive method use. Long-­
+ standing social norms, particularly those around son
+ preference, are challenging to change. However, efforts
+ to differentially target key population segments whom we
+ know services are likely to impact the most may be one
+ future avenue to explore.
+ 
+<section> Limitations
+ 
+<section> Evaluation activities have several notable limitations.
+ When compared with pregnant women at a population,
+ our sample of women with access to a mobile phone 
+<section> during the day is likely more advantaged; a structural bias
+ most mHealth initiatives face. However, when compared
+ against women enrolled to the Kilkari programme else-
+ where in India, the RCT sample may be different for
+ two reasons. First, our RCT sample was identified via a
+ household listing and screening survey where an esti-
+ mated 50% of the pregnant women at a population level
+ were eligible since they had access to a phone during the
+ day. This exceeds the average population level coverage
+ attained by Kilkari across 13 states in India (21%) and
+ elsewhere in Madhya Pradesh (18%) which identifies
+ subscribers passively through government tracking regis-
+ tries. Our RCT thus included a higher proportion of the
+ population by including women who would not neces-
+ sarily have been registered in the government’s tracking
+ registry. 29 The RCT faced challenges in ensuring contin-
+ uous exposure to Kilkari messages among those in the
+ intervention arm as a result of high rates of SIM change
+ (44%), male population migration (potentially with their
+ phones; 25% of men could not be interviewed as part
+ of the endline survey), and increases in call non-­delivery
+ rates attributed to the bankruptcy of the telecommu-
+ nications provider for the Kilkari programme, in mid-­
+ 2018. All of these factors exceeded initial expectations
+ and resulted in a loss of power due to lower compliance
+ and programme exposure. A third limitation of the
+ study lies in our reliance on self-­reported outcomes for
+ all outcomes except immunisations, many of which may
+ be subject to social desirability bias. A fourth limitation
+ lies in the information and recall biases associated with
+ collecting data on practices occurring over a long window
+ at a single time point (12 months postpartum). Addition-
+ ally, we were not able to measure outcomes related to self-­
+ efficacy to practice RMNCH behaviours. Lastly, there may
+ be unmeasured confounders but we assume the rando-
+ misation process distributed them evenly across the two
+ arms.
+ 
+<section> CONCLUSIONS
+ Study findings provide the most conclusive evidence to
+ date on the effectiveness of a mHealth messaging initia-
+ tive at scale in India and globally. The moderate impact
+ observed on modern reversible contraceptive method
+ use, particularly among the most marginalised, is prom-
+ ising while the lack of any measurable changes in infant
+ feeding behaviours is disappointing. Further research
+ is needed to understand whether the impact might be
+ deepened through microtargeting-­ specific subsets of
+ the beneficiary population with tailored programme
+ content; by changing the number of messages and the
+ duration of the service; and by complementing Kilkari
+ with supplementary face to face communication to create
+ an enabling environment more supportive of behaviour
+ change.
+ 
+<section> Author affiliations
+ University of Cape Town, School of Public Health and Family Medicine, Cape Town,
+ 
+<section> South Africa
+ 
+<section> International Health, Johns Hopkins Bloomberg School of Public Health, Baltimore,
+ 
+<section> Maryland, USA
+ 
+<section> BBC Media Action, London, UK
+ BBC Media Action, New Delhi, Delhi, India
+ Oxford Policy Management, New Delhi, Delhi, India
+ MRC/Wits-­Agincourt Unit, University of the Witwatersrand, School of Public Health,
+ Johannesburg, Gauteng, South Africa
+ Computational Biology Division, Department of Integrative Biomedical Sciences,
+ Institute of Infectious Disease and Molecular Medicine, University of Cape Town,
+ Faculty of Health Sciences, Cape Town, South Africa
+ Research and Evidence Practice, Oxford Policy Management, New Delhi, Delhi,
+ 
+<section> India
+ National Health Systems Resource Centre, New Delhi, Delhi, India
+ Bill and Melinda Gates Foundation, Delhi, India
+ 
+<section> Twitter Jean Juste Harrisson Bashingwa @jbashingwa, Arpita Chakraborty
+ @ac1112 and Priyanka Dutt @priydee
+ 
+<section> Collaborators The Kilkari Impact Evaluation Team* (listed in Alphabetical order)
+ Smisha Agarwal, Salil Arora, Jean JH Bashingwa, Aarushi Bhatanagar, Sara
+ Chamberlain, Rakesh Chandra, Arpita Chakraborty, Neha Dumke, Priyanka Dutt,
+ Anna Godfrey, Suresh Gopalakrishnan, Nayan Kumar, Simone Honikman, Alain
+ Labrique, Amnesty LeFevre, Jai Mendiratta, Molly Miller, Radharani Mitra, Diwakar
+ Mohan, Deshen Moodley, Nicola Mulder, Angela Ng, Dilip Parida, Nehru Penugonda,
+ Sai Rahul, Shiv Rajput, Neha Shah, Kerry Scott, Aashaka Shinde, Aaditya Singh,
+ Nicki Tiffin, Osama Ummer, Rajani Ved, Falyn Weiss, Sonia Whitehead.
+ 
+<section> Contributors AEL is the overall study PI and guarantor. She accepts full
+ responsibility for the work and conduct of the study, had access to the data, and
+ controlled the decision to publish. She additionally helped to secure the funding,
+ led the design of the study tools, supported oversight of field work and analysis
+ and wrote the first draft of the manuscript. NS inputted on the study tools,
+ supported data monitoring of the field work, conducted the data analysis, helped to
+ draft the data tables and edited the manuscript. KS helped to secure the funding,
+ design the study tools, support the field work, input on analyses and edit the
+ manuscript. SC helped to secure the funding, draft and review study tools, interpret
+ data analyses and study findings, and edit the manuscript. OU help to revise study
+ tools, support field work including training and monitoring survey data quality, input
+ on analyses and edit the manuscript. JJHB help to support monitoring survey data
+ quality, input on analyses and edit the manuscript. AC helped to draft and review
+ study tools; support data collection, including training, monitoring; interpret data
+ analyses and study findings, and edit the manuscript. AG, PD and RV helped to
+ draft and review study tools, interpret data analyses and study findings, and edit
+ the manuscript. DM helped to secure funding, helmed the study design including
+ sampling and randomisation, helped draft study tools, led the data analysis and
+ edited the manuscript.
+ 
+<section> Funding Bill and Melinda Gates Foundation (OPP1179252).
+ 
+<section> Competing interests All authors have completed the Unified Competing Interest
+ form (available on request from the corresponding author) and declare that the
+ research reported was funded by the Bill and Melinda Gates Foundation. AG, SC,
+ PD are employed by BBC Media Action; one of the entities supporting program
+ implementation. The authors do not have other relationships and are not engaged
+ in activities that could appear to have influenced the submitted work.
+ 
+<section> Patient and public involvement Patients and/or the public were involved in the
+ design, or conduct, or reporting, or dissemination plans of this research. Refer to
+ the Methods section for further details.
+ 
+<section> Patient consent for publication Not applicable.
+ 
+<section> Ethics approval This study involves human participants and was approved by
+ Institutional Review Boards from the Johns Hopkins Bloomberg School of Public
+ Health in Baltimore, Maryland USA and Sigma Research and Consulting in Delhi,
+ India provided ethical clearance for study activities. Verbal informed consent was
+ obtained from all study participants.
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data availability statement Data are available upon reasonable request.
+ Anonymised data are available upon reasonable request from the study Principal
+ Investigator Dr. Amnesty LeFevre ​aelefevre@​gmail.​com.
+ 
+<section> Supplemental material This content has been supplied by the author(s). It has
+ not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been
+ peer-­reviewed. Any opinions or recommendations discussed are solely those 
+<section> of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and
+ responsibility arising from any reliance placed on the content. Where the content
+ includes any translated material, BMJ does not warrant the accuracy and reliability
+ of the translations (including but not limited to local regulations, clinical guidelines,
+ terminology, drug names and drug dosages), and is not responsible for any error
+ and/or omissions arising from translation and adaptation or otherwise.
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution 4.0 Unported (CC BY 4.0) license, which permits
+ others to copy, redistribute, remix, transform and build upon this work for any
+ purpose, provided the original work is properly cited, a link to the licence is given,
+ and indication of whether changes were made. See: https://creativecommons.org/​
+ licenses/by/4.0/.
+ 
+<section> ORCID iDs
+ 
+<section> Amnesty Elizabeth LeFevre http://orcid.org/0000-0001-8437-7240
+ Neha Shah http://orcid.org/0000-0002-9450-604X
+ Kerry Scott http://orcid.org/0000-0003-3597-9637
+ Sara Chamberlain http://orcid.org/0000-0003-4785-6482
+ Osama Ummer http://orcid.org/0000-0002-4189-5328
+ Jean Juste Harrisson Bashingwa http://orcid.org/0000-0003-1433-4397
+ Arpita Chakraborty http://orcid.org/0000-0003-0515-3420
+ Diwakar Mohan http://orcid.org/0000-0002-7532-366X
+ 
+<section> REFERENCES
+ 1 LeFevre AE, Dane P, Copley CJ, et al. Unpacking the performance
+ of a mobile health information messaging program for mothers
+ (MomConnect) in South Africa: evidence on program reach and
+ messaging exposure. BMJ Glob Health 2018;3:e000583.
+ 2 Chamberlain S, Dutt P, Godfrey A, et al. Ten lessons learnt: scaling
+ and transitioning one of the largest mobile health communication
+ programmes in the world to a national government. BMJ Glob
+ Health 2021;6:e005341.
+ 3 LeFevre AE, Mohan D, Hutchful D, et al. Mobile technology
+ for community health in Ghana: what happens when technical
+ functionality threatens the effectiveness of digital health programs?
+ BMC Med Inform Decis Mak 2017;17:27.
+ 4 Alam M, Banwell C, Lokuge K. The effect of women's differential
+ access to messages on their adoption of mobile health services and
+ pregnancy behavior in Bangladesh: retrospective cross-­sectional
+ study. JMIR Mhealth Uhealth 2020;8:e17665.
+ 5 Rajan R, Raihan A, Alam M. MAMA ‘Aponjon’ formative research
+ report. Baltimore, MD: Johns Hopkins University Global mHealth
+ Initiative, 2013.
+ 6 LeFevre A, Shah N, Scott K. Evidence on the effectiveness of stage-­
+ based health information messages in improving maternal newborn
+ and child health outcomes in India? Findings from an individually
+ randomized controlled trial 2020.
+ 7 Murthy N, Chandrasekharan S, Prakash MP, et al. The impact of an
+ mHealth voice message service (mMitra) on infant care knowledge,
+ and practices among low-­income women in India: findings from
+ a Pseudo-­Randomized controlled trial. Matern Child Health J
+ 2019;23:1658–69.
+ 8 Blauvelt C, West M, Maxim L, et al. Scaling up a health and nutrition
+ 
+<section> Hotline in Malawi: the benefits of multisectoral collaboration. BMJ
+ 2018;363:k4590.
+ 9 Lund S, Nielsen BB, Hemed M, et al. Mobile phones improve
+ antenatal care attendance in Zanzibar: a cluster randomized
+ controlled trial. BMC Pregnancy Childbirth 2014;14:29.
+ 10 Lund S, Hemed M, Nielsen BB, et al. Mobile phones as a
+ health communication tool to improve skilled attendance at
+ delivery in Zanzibar: a cluster-­randomised controlled trial. BJOG
+ 2012;119:1256–64.
+ Lund S, Rasch V, Hemed M, et al. Mobile phone intervention reduces
+ perinatal mortality in Zanzibar: secondary outcomes of a cluster
+ randomized controlled trial. JMIR Mhealth Uhealth 2014;2:e15.
+ Murthy N, Chandrasekharan S, Prakash MP, et al. Effects of an
+ mHealth voice message service (mMitra) on maternal health
+ knowledge and practices of low-­income women in India: findings
+ from a pseudo-­randomized controlled trial. BMC Public Health
+ 2020;20:820.
+ LeFevre A, Chamberlain S, Singh NS, et al. Avoiding the road to
+ nowhere: policy insights on scaling up and sustaining digital health.
+ 
+<section> Glob Policy 2021;12:110–4.
+ LeFevre A, Chamberlain S, Singh NS, et al. Avoiding the road to
+ 
+<section> Nowhere: policy insights on scaling up and sustaining digital health.
+ 
+<section> Glob Policy 2021;12:110–4.
+ Chambers DA, Glasgow RE, Stange KC. The dynamic sustainability
+ framework: addressing the paradox of sustainment amid ongoing
+ change. Implement Sci 2013;8:117.
+ Dutt P, Godfrey A, Chamberlain S. Using behavioural design to
+ inform health communication solutions: evolution evidence and
+ learnings from practice 2021.
+ LeFevre A, Agarwal S, Chamberlain S, et al. Are stage-­based
+ health information messages effective and good value for money
+ in improving maternal newborn and child health outcomes in
+ India? Protocol for an individually randomized controlled trial. Trials
+ 2019;20:272.
+ Mohan D, Harrisson-­Bashingwa J, Tiffin N. Does the gender gap in
+ mobile phone access explain health outcomes? An analysis of the
+ Indian national family health survey 2019.
+ MOHFW. National family health Survey-­4 2015-­16: state fact sheet
+ Madhya Pradesh. Mumbai: International Institute for Population
+ Sciences (Deemed University), 2017.
+ Scott K, Shinde A, Ummer O, et al. Freedom within a cage: how
+ patriarchal gender norms limit women’s use of mobile phones in
+ rural central India. BMJ Glob Health 2021;6:e005596.
+ Team RC. R: a language and environment for statistical computing.
+ 
+<section> Vienna, Austria R Foundation for Statistical Computing, 2020.
+ Mohan D, Scott K, Shah N, et al. Can health information through
+ mobile phones close the divide in health behaviours among the
+ marginalised? an equity analysis of Kilkari in Madhya Pradesh, India.
+ 
+<section> BMJ Glob Health 2021;6:e005512.
+ Scott K, Ummer O, Shinde A, et al. Another voice in the crowd: the
+ challenge of changing family planning and child feeding practices
+ through mHealth messaging in rural central India. BMJ Glob Health
+ 2021;6:e005868.
+ Scott K, Gharai D, Sharma M, et al. Yes, no, maybe so: the
+ importance of cognitive interviewing to enhance structured surveys
+ on respectful maternity care in northern India. Health Policy Plan
+ 2020;35:67–77.
+ Scott K, Ummer O, LeFevre AE. The devil is in the detail:
+ reflections on the value and application of cognitive interviewing to
+ strengthen quantitative surveys in global health. Health Policy Plan
+ 2021;36:982–95.
+ Chamberlain S, Dutt P, Godfrey A. 10 lessons learned: scaling
+ and transitioning one of the largest mobile health communication
+ programmes in the world to the government of India 2021.
+ Engelhard M, Copley C, Watson J. Optimizing the MomConnect
+ 
+<section> Helpdesk in South Africa: towards automated message triage. BMJ
+ Global Health 2018.
+ Barron P, Peter J, LeFevre AE, et al. Mobile health messaging service
+ and helpdesk for South African mothers (MomConnect): history,
+ successes and challenges. BMJ Glob Health 2018;3:e000559.
+ Scott K, Ummer O, Chamberlain S. At the frontlines of digitization: a
+ qualitative study on the challenges and opportunities in maintaining
+ accurate, complete, and timely digital health records for India’s rural
+ government health system 2021.

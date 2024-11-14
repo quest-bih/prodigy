@@ -1,0 +1,1751 @@
+
+<section> HHS Public Access
+ 
+<section> Author manuscript
+ 
+<section> Lancet Glob Health. Author manuscript; available in PMC 2020 July
+ Author
+ 
+<section> Published in final edited form as:
+ Lancet Glob Health. 2019 July ; 7(7): e940–e950. doi:10.1016/S2214-109X(19)30079-8.
+ 
+<section> Manuscript
+ 
+<section> Efficacy of inactivated trivalent influenza vaccine in rural India: a
+ 
+<section> 3-year cluster-randomised controlled trial
+ 
+<section> Wayne M Sullender, Karen B Fowler, Vivek Gupta, Anand Krishnan, Debjani Ram
+ Purakayastha, Raghuram Srungaram VLN, Kathryn E Lafond, Siddhartha Saha, Francisco
+ S Palomeque, Paul Gargiullo, Seema Jain, Renu Lal, Marc-Alain Widdowson, Shobha Broor
+ Department of Pediatrics, School of Medicine, and Center for Global Health, School of Public
+ 
+<section> Author Health, University of Colorado Denver, Denver, CO, USA (Prof W M Sullender MD); Department
+ of Pediatrics, University of Alabama at Birmingham, Birmingham, AL, USA (Prof K B Fowler);
+ Community Ophthalmology Department (V Gupta MD), Centre for Community Medicine (A
+ 
+<section> Manuscript
+ Krishnan, D Ram Purakayastha), and Microbiology Department (Raghuram Srungaram VLN PhD,
+ Prof S Broor MD), All India Institute of Medical Sciences, Delhi, India; and Influenza Division,
+ Centers for Disease Control and Prevention, Atlanta, GA, USA (K E Lafond MPH, S Saha MD, F
+ S Palomeque MPH, P Gargiullo PhD, S Jain MD, R Lal PhD, M-A Widdowson VetMB)
+ 
+<section> Summary
+ 
+<section> Background—Paediatric vaccination against influenza can result in indirect protection, by
+ reducing transmission to their unvaccinated contacts. We investigated whether influenza
+ vaccination of children would protect them and their household members in a resource-limited
+ 
+<section> Author
+ 
+<section> setting.
+ 
+<section> Methods—We did a cluster-randomised, blinded, controlled study in three villages in India.
+ 
+<section> Manuscript Clusters were defined as households (ie, dwellings that shared a courtyard), and children aged
+ months to 10 years were eligible for vaccination as and when they became age-eligible throughout
+ the study. Households were randomly assigned (1:1) by a computer-based system to intramuscular
+ trivalent inactivated influenza vaccine (IIV3) or a control of inactivated poliovirus vaccine (IPV) in
+ the beginning of the study; vaccination occurred once a year for 3 years. The primary efficacy
+ outcome was laboratory-confirmed influenza in a vaccinated child with febrile acute respiratory
+ illness, analysed in the modified intention-to-treat population (ie, children who received at least
+ 
+<section> Author This is an Open Access article under the CC BY-NC-ND 4.0 license
+ 
+<section> Correspondence to: Prof Wayne M Sullender, Department of Pediatrics, School of Medicine, University of Colorado Denver, Aurora
+ 13199, CO, USA wayne.sullender@ucdenver.edu.
+ 
+<section> Contributors
+ 
+<section> Manuscript WMS, KBF, VG, AK, KEL, RL, M-AW, and SB contributed to the study design. WMS, KBF, VG, AK, KEL, RL, M-AW, and SB
+ discussed, critically revised, and approved the final study protocol. VG, AK, DRP, SS, and SB were responsible for organisation and
+ conduct of the field trial. KBF managed the study data. SB led the laboratory testing and analysis of laboratory results, with assistance
+ from RSVLN and RL. FSP was responsible for the data analysis, with input from WMS, KBF, VG, AK, KEL, SS, PG, SJ, RL, M-AW,
+ and SB. WMS, KBF, VG, AK, KEL, SS, SJ, M-AW, and SB contributed for the manuscript writing. Editorial review was provided by
+ the US Centers for Disease Control and Prevention (CDC). All authors discussed, critically revised, and approved the final version of
+ the report for publication.
+ 
+<section> Declaration of interests
+ WMS, KBF, VG, AK, DRP, RSVLN, and SB report a grant from the US CDC during the conduct of the study. All other authors
+ declare no competing interests.
+ 
+<section> See 
+<section> Online for appendix 
+<section> one dose of vaccine, were under surveillance,
+ 
+<section> Author last vaccine dose). The secondary outcome for
+ febrile acute respiratory illness in an unvaccinated
+ participant. Data from each year (year 1: November,
+ 
+<section> Manuscript
+ 
+<section> 2010, to October, 2011; and year 3: October, 2011,
+ was analysed among all participants who were
+ This trial is registered with ClinicalTrials.gov,
+ 
+<section> Findings—Between Nov 1, 2009, to May 1,
+ had vaccine-eligible children. 1010 households
+ assigned to IPV. In 3 years, we vaccinated 4345
+ from 1868 households (968 with IIV3 and 900
+ contacts. In year 1, influenza virus was detected
+ (13%) of 1633 of IPV recipients (total IIV3 vaccine
+ 
+<section> Author
+ 
+<section> In year 2, 105 (6%) of 1705 IIV3 recipients and
+ (vaccine efficacy 41·0% [24·1–54·1]; p<0·0001).
+ 
+<section> Manuscript (5%) of 1786 IPV recipients had influenza (vaccine
+ year 1, total vaccine efficacy against influenza
+ 2, total vaccine efficacy against influenza A(H3N2)
+ against influenza B was 32·5% (11·3–48·6) in
+ (59·4–86·4) in year 3. Indirect vaccine effectiveness
+ (38·1% [7·4–58·6], p=0·0197) when influenza
+ 60 (1%) of 4121 IPV-allocated household unvaccinated
+ of 1632 children in year 1, 375 (22%) of 1718
+ adverse reaction (compared with 216 [13%] of
+ respectively, in the IPV group). The most common
+ 
+<section> Author
+ 
+<section> tenderness at site. No vaccine-related deaths occurred
+ 
+<section> Interpretation—IIV3 provided variable direct
+ 
+<section> Manuscript Indirect protection was significant during the
+ considered when quantifying the effect of vaccination
+ 
+<section> Funding—US Centers for Disease Control and
+ 
+<section> Introduction
+ 
+<section> The global burden of illness due to
+ In 2008, influenza was estimated to
+ lower respiratory infections, with 99%
+ 
+<section> Author occur in developing countries. 1 WHO
+ 6–59 months) as a high-risk target group.
+ morbidity with an incidence of 6–48
+ 
+<section> Manuscript by age group, year, and study site. 3,4
+ and paediatric vaccination against influenza
+ transmission, resulting in indirect protection.
+ and had not an influenza infection within 15 days of
+ indirect effectiveness (surveillance study) was
+ household member of a vaccine study
+ 2009, to October, 2010; year 2: October,
+ to May, 2012) were analysed separately. Safety
+ vaccinated with at least one dose of the vaccine.
+ number NCT00934245.
+ 
+<section> 2012, we enrolled 3208 households, of which 1959
+ were assigned to IIV3 and 949 households were
+ children (2132 with IIV3 and 2213 with IPV)
+ with IPV) with 10 813 unvaccinated household
+ in 151 (10%) of 1572 IIV3 recipients and 206
+ efficacy 25·6% [95% CI 6·8–40·6]; p=0·010).
+ 182 (10%) of 1814 IPV recipients had influenza
+ In year 3, 20 (1%) of 1670 IIV3 recipients and 81
+ efficacy 74·2% [57·8–84·3]; p<0·0001). In
+ A(H1N1)pdm09 was 14·5% (−20·4 to 39·3). In year
+ was 64·5% (48·5–75·5). Total vaccine efficacy
+ year 1, 4·9% (−38·9 to 34·9) in year 2, and 76·5%
+ was statistically significant only in year
+ was detected in 39 (1%) of 4323 IIV3-allocated and
+ individuals. In the IIV3 group, 225 (12%)
+ in year 2, and 209 (12%) of 1673 in year 3 had an
+ 1730, 380 [21%] of 1825, and 235 [13%] of 1796,
+ reactions in both groups were fever and
+ in either group.
+ 
+<section> and indirect protection against influenza infection.
+ year of highest direct protection and should be
+ programmes.
+ 
+<section> Prevention.
+ 
+<section> influenza virus infection among children is substantial.
+ be associated with 20 million cases of paediatric acute
+ of paediatric influenza-associated deaths estimated to
+ recommends influenza vaccination for children (aged
+ 2 In India, influenza virus is an important cause of
+ hospital admissions per 10 000 person-years, varying
+ Children are also known sources of influenza to others
+ has been shown to reduce influenza
+ 
+<section> 5,6 
+<section> Evidence of the benefits of influenza vaccination in children is often derived from
+ 
+<section> Author observational data; randomised controlled trials using virological outcomes, as well as those
+ exploring indirect protection, are uncommon. 7 Influenza vaccination uptake remains low and
+ very few vaccine efficacy estimates are available from many developing countries, 8 where
+ 
+<section> Manuscript
+ 
+<section> factors, such as untreated comorbidities or infections, malnutrition, and household crowding,
+ might influence influenza transmission and modify vaccine efficacy.
+ 
+<section> In this study, we aimed to measure total influenza vaccine efficacy against symptomatic
+ laboratory-confirmed influenza-associated febrile acute respiratory illness (FARI) among
+ vaccinated children (vaccination study; primary outcome), and its indirect protection among
+ unvaccinated household members (surveillance study; secondary outcome), in rural India.
+ 
+<section> Methods
+ 
+<section> Author
+ 
+<section> Study design
+ 
+<section> This study was a prospective, household-randomised, controlled trial, done in three villages
+ 
+<section> Manuscript in northern India (Dayalpur, Atali, and Chandawali). Clusters were defined as individual
+ households—ie, dwellings (compounds) that shared a courtyard—situated within these
+ villages. A cluster design was intentionally selected to measure household-level effects of
+ vaccine. The protocol has been published. 
+<section> 10 The All India Institute of Medical Sciences
+ (AIIMS) Ethics Committee and University of Alabama Birmingham Institutional Review
+ Board reviewed and approved the study. An independent data safety and monitoring board
+ (DSMB) assessed safety during annual meetings.
+ 
+<section> Participants
+ 
+<section> All residents of three study villages in northern India were eligible to participate in
+ 
+<section> Author
+ 
+<section> surveillance for FARI. For the vaccination component of the study, only children aged
+ between 6 months and 10 years were eligible. Exclusion criteria from the vaccine
+ 
+<section> Manuscript component of the study were known allergy to eggs, vaccine or vaccine component hyper
+ sensitivity, acute severe febrile illness (temporary exclusion), or any other condition that
+ would impose a health risk. Written or oral informed consent was obtained for both
+ surveillance and vaccine study participants; parental consent was obtained for children, and
+ depending on their age, the child’s assent was also requested. Families without vaccine-
+ eligible children participated in the virological surveillance component of the study.
+ 
+<section> Randomisation and masking
+ Households were randomly assigned to either the trivalent influenza vaccine (IIV3;
+ 
+<section> Author intervention) or inactivated poliovirus vaccine (IPV; control) group (1:1), via a computer-
+ based randomisation program in STATA. Randomisation was done for all households in the
+ villages irrespective of presence of children and before enrolment. This approach allowed
+ 
+<section> Manuscript families who might have had children after enrolment to be eligible for vaccination and
+ inclusion. The allocation to IIV3 or IPV remained fixed throughout the entire study period.
+ No stratification or restriction criteria were used. To reduce risk of unblinding, an AIIMS
+ statistician developed multiple vaccine codes for each vaccine allocation. One vaccine code
+ was assigned to each randomised vaccine-eligible child for each vaccination round. The 
+<section> vaccine codes represented either IPV or IIV3 and, therefore, were based on the household
+ 
+<section> Author randomisation. Each child received vaccine and individual codes so that they could be
+ correctly identified during immunisation. Lists containing vaccine codes and child identifiers
+ were provided to a dedicated team responsible for the vaccination. The study statistician had
+ 
+<section> Manuscript
+ 
+<section> no direct contact with either vaccination or surveillance teams and provided data to the
+ DSMB in sealed envelopes for their review of adverse events. People delivering vaccination
+ were hired solely for the vaccination campaign and were separate from the field assessment
+ teams. Labels were applied by a pharmacist not involved in other aspects of the study that
+ showed the vaccine code and obscured the underlying labels of the pre-filled vaccine
+ syringes. All investigators, observers, laboratory staff, and participants were masked to the
+ vaccine assignment.
+ 
+<section> Procedures
+ 
+<section> Author At the time of study initiation, influenza virus circulation in India was poorly understood.
+ Furthermore, only influenza vaccines with a northern hemisphere formulation were available
+ in India; therefore, we used northern hemisphere vaccine formulations for the study.
+ 
+<section> Manuscript
+ 
+<section> Enrolled children were vaccinated in the following periods: year 1 (Nov 24, 2009, to Jan 17,
+ 2010), year 2 (Oct 13, 2010, to Dec 13, 2010), and year 3 (Oct 7, 2011, to Dec 18, 2011).
+ Children were re-vaccinated in years 2 and 3 if they remained in the eligible study age
+ range. Intramuscular, northern hemisphere seasonal inactivated split-virion IIV3 (Vaxigrip
+ Junior [0·25 mL dose, 7·5 μg of each haemagglutinin antigen for children aged 6–35
+ months] or Vaxigrip [0·5 mL dose, 15 μg of each haemagglutinin antigen for children aged
+ 3–10 years]), and IPV (Imovax Polio, 0·5 mL dose for all children) were purchased from
+ Sanofi Pasteur (India). 
+<section> 10 Two doses of the study vaccines were planned for year 1 (2009–10)
+ and one dose in subsequent years for patients aged between 6 months and 8 years, and only
+ 
+<section> Author one dose yearly for those aged 9–10 years. However, in response to the 2009 emergence of
+ influenza A/California/7/2009 (H1N1pdm09) virus, two doses of vaccine (for both IIV3 and
+ IPV groups) were administered to children between 6 months and 8 years of age in year
+ 
+<section> Manuscript (2010), even if vaccinated in year 11 In year 1 (2009–10), vaccine comprised influenza A/
+ Brisbane/59/2007 (H1N1), A/Brisbane/10/2007 (H3N2), and B/Brisbane/60/2008 (Victoria
+ lineage) strains, and in years 2 and 3, influenza A/California/7/2009 (H1N1pdm09), A/
+ Perth/16/2009 (H3N2), and B/Brisbane/60/2008 (Victoria lineage).
+ 
+<section> Adverse events (both expected and unexpected), including serious events, were monitored
+ and recorded. At time of vaccination, children were observed for immediate adverse events
+ for 30 min and received follow-up visits by study staff at days 1, 7, and 30 after vaccination.
+ Any reports of a child’s admission to hospital or death during the entire study period were
+ 
+<section> Author evaluated and assessed for a relationship with vaccination.
+ 
+<section> Year-round active surveillance for FARI was done via weekly household visits from
+ 
+<section> Manuscript November, 2009, until April, 2012. 
+<section> 11 Year 3 included only a partial year of surveillance
+ (ended on May 1, 2012), because of the initiation of a second phase of this study with pre-
+ monsoon (June) vaccination beginning in 2012. 
+<section> 11 FARI was defined as reported fever and
+ any respiratory complaint (cough, sore throat, nasal congestion, runny nose, earache, or
+ difficulty breathing) with onset in the previous week; measurement of temperature was not 
+<section> required. An episode of FARI was considered a new event if 2 weeks had passed from the
+ 
+<section> Author onset of a previous episode. Throat and nasal swabs were collected (nasal swabs alone in
+ infants), from all participants with FARI, placed in transport medium, and maintained at 4°C
+ for up to 24 h until transported to the laboratory.
+ 
+<section> Manuscript
+ 
+<section> Specimens were tested by real-time RT-PCR for influenza A and B viruses, 
+<section> 12 and, if
+ positive, the subtype was determined with the same method. A subset of influenza B viruses
+ were classified into Victoria and Yamagata lineages by real-time RT-PCR as previously
+ described. 
+<section> 12 A third of the real-time RT-PCR-positive specimens were inoculated into
+ Madin-Darby Canine Kidney cells for virus isolation; isolates were subtyped by use of
+ WHO kits for haemagglutination inhibition and guinea pig red blood cells.
+ 
+<section> In year 1 and 2, a subset of children aged 3–6 years were enrolled in a post-hoc analysis (ie,
+ not included in the protocol, but decided before starting the study) immunogenicity study
+ 
+<section> Author
+ 
+<section> (appendix). The first 531 age-eligible children in the three villages whose parents consented
+ to blood draw were selected to participate in this substudy and 1–2 mL of venous blood was
+ 
+<section> Manuscript collected before vaccination. Approximately half of the children provided a second blood
+ sample 4 weeks after the first dose, and the other half 4 weeks after the second dose of the
+ vaccine. Serum samples were tested for influenza antibodies by use of a haemagglutination
+ inhibition assay with turkey red blood cells and vaccine-matched antigens following WHO
+ protocols. 
+<section> 13 For influenza B virus, ether-treated antigen was used. Seroprotection was
+ defined as a titre of 1:40 or more, seroconversion as a prevaccination titre of less than 1:10,
+ and a post-vaccination titre of 1:40 or more; or a prevaccination titre of 1:10 or more and at
+ least a 4-fold rise in post-vaccination antibody titre.
+ 
+<section> Outcomes
+ 
+<section> Author
+ 
+<section> The primary outcome for total efficacy was laboratory-confirmed influenza in a vaccinated
+ child with FARI. Total efficacy reflects both the direct protection provided by vaccination
+ 
+<section> Manuscript and an indirect effect from vaccination of other children in the household and community.
+ The secondary outcome for indirect effectiveness (surveillance study) was FARI with
+ laboratory-confirmed influenza in an unvaccinated household member of a vaccine study
+ participant.
+ 
+<section> Statistical analysis
+ 
+<section> Three sets of data were linked through unique identifiers: electronic database with
+ demographic information for residents, field data forms scanned into a database (TeleForm
+ software, Hewlett Packard, Palo Alto, CA, USA), and laboratory data. 
+<section> 16 All data were
+ uploaded to a study server in India. Data were maintained in SAS (version 9) for
+ 
+<section> Author
+ 
+<section> management and analyses.
+ 
+<section> A modified intention-to-treat analysis was used to calculate total (direct and indirect)
+ 
+<section> Manuscript
+ 
+<section> vaccine efficacy and indirect vaccine effectiveness. 
+<section> 15 A child was analysed as part of the
+ IIV3 or IPV group according to the vaccine that the child first received in the study,
+ irrespective of which vaccine they received later (eg, even in the cases of receiving the
+ wrong vaccine through inadvertent protocol deviation or missed doses). Eligible children
+ who did not receive any vaccine, those who were never in surveillance, and those who had 
+<section> an influenza infection within 15 days of last vaccine dose were not included in the analysis.
+ 
+<section> Author Sample size estimations (assuming influenza attack rate of 5% per year in the control group,
+ minimum detectable efficacy of 50%, minimum detectable indirect effective ness of 25%, α
+ 
+<section> of 0·05, and statistical power of 80%) 
+<section> 10 were 785 households or 1570 individuals per group
+ 
+<section> Manuscript
+ 
+<section> to assess total protection and 893 households or 4465 individuals for indirect protection.
+ These estimates were based on a conservative assumption of an intracluster coefficient of
+ variation of 0.25; with about two vaccine-eligible children per household, only a small
+ proportion of households were expected to have more than one confirmed child case, with
+ resulting low within-household correlation. Vaccine efficacy was estimated for each year
+ separately using a Cox proportional hazards model accounting for random-effect clustering
+ by household (frailty model). 
+<section> 17,18 The initial statistical analysis plan included a pooled
+ multi-year estimate, as well as use of a Poisson model for vaccine efficacy estimation, but
+ was changed per input from the US Centers for Disease Control and Prevention (CDC)
+ 
+<section> Author statistician (PG; appendix). Both statistical analysis plan and results of the Poisson model
+ are provided in the appendix.
+ 
+<section> Manuscript Children were included in the analysis 15 days after receiving their last dose of vaccine that
+ year, until the first of the following censoring events: infection with influenza virus
+ (censored by any influenza infection for analysis of protection against any influenza
+ infection, or by the specific virus type or subtype for analysis of virus type-specific and
+ subtype-specific protection), last follow-up visit of that year, death, reaching 11 years of age,
+ receiving a vaccination for the subsequent study year, or end of observation period. Vaccine
+ efficacy estimates were stratified by predetermined subgroups: age group, sex, and time
+ from vaccination (first and second halves of each annual surveillance period). Age was
+ stratified into three groups: 6–35 months (two doses of 0·25 mL of IIV3), 36 months to
+ years (two doses of 0·5 mL of IIV3), and 9–10 years (one dose of 0·5 mL of IIV3). Indirect
+ 
+<section> Author
+ 
+<section> effectiveness was analysed similarly; unvaccinated individuals were included in the analysis
+ if they belonged to a household in which at least one child received one or more doses of
+ 
+<section> Manuscript vaccine for a given study year. The analysis period for all unvaccinated individuals began
+ days after the last dose of vaccine was received among all vaccinated children in the
+ household that year. No correction for multiple comparisons was made. The analysis code
+ was written (in SAS Enterprise) and applied blindly first to all the data with no information
+ on vaccine allocation to generate tables and examine balance between subgroups and
+ categories. Then the code was applied to the unblinded data with no further modification to
+ the code for exploratory analyses.
+ 
+<section> This trial is registered with ClinicalTrials.gov, number NCT00934245.
+ 
+<section> Author 
+<section> Role of the funding source
+ The US CDC provided funding and participated in the study design, data analysis, data
+ 
+<section> Manuscript interpretation, and writing of the report. All authors had full access to all the data in the
+ study and had final responsibility for the decision to submit for publication. 
+<section> Results
+ 
+<section> Author
+ 
+<section> From Sept 3, 2009, to May 1, 2012, a total of 3208 households were enrolled in the
+ surveillance study, of which 1959 households had vaccine-eligible children. In year 1, 1680
+ 
+<section> Manuscript households in the three villages had vaccine-eligible children, with 835 households allocated
+ to IIV3 and 845 households allocated to IPV. Similarly, 1713 (859 IIV3 and 854 IPV)
+ households had vaccine-eligible children in year 2 and 1686 (864 IIV3 and 822 IPV) in year
+ 3 of the study. The number of children eligible for vaccination was similar in all years
+ (figures 1, 2). At time of enrolment, children and household members in the IIV3 and IPV
+ groups were similar in age, sex, household make-up, number of vaccinated children in the
+ household, and school participation (table 1). Year-to-year comparison of vaccinated
+ children and other household members in the IIV3 and IPV groups are provided in the
+ appendix.
+ 
+<section> Author
+ 
+<section> Influenza A(H1N1)pdm09 virus emerged during year 1, and was not a component of the
+ 2009–10 vaccine administered that year (figure 3). Influenza A(H1N1) pdm09 virus did not
+ 
+<section> Manuscript occur substantially in years 2 or 3 (figure 3). Influenza A(H3N2) virus was observed
+ primarily in year 2 and influenza B virus was detected throughout the 3 study years (figure
+ 3). Of 493 identified influenza B virus strains among vaccine recipients, 337 (68%) were
+ further characterised and, of these, 287 (85%) were B/Victoria-like (antigenically similar to
+ vaccine strain), and the remainder were of Yamagata lineage. Distribution of influenza virus
+ types was similar among those in the indirect protection group (data not shown).
+ 
+<section> In year 1, influenza virus was detected in 151 (10%) of 1572 IIV3 recipients and 206 (13%)
+ of 1633 of IPV recipients, with a total vaccine efficacy of 25·6% (95% CI 6·8–40·6,
+ p=0·010; table 2) against FARI due to any influenza virus. In year 2, influenza virus was
+ 
+<section> Author detected in 105 (6%) of 1705 IIV3 recipients and 182 (10%) of 1814 IPV recipients; total
+ vaccine efficacy was 41·0% (24·1–54·1; p<0·0001). In year 3, influenza virus was detected
+ in 20 (1%) of 1670 IIV3 recipients and 81 (5%) of 1786 IPV recipients; total vaccine
+ 
+<section> Manuscript
+ 
+<section> efficacy was 74·2% (57·8–84·3; p<0·0001). Poisson analysis provided similar results
+ (appendix). In year 1, total vaccine efficacy against influenza A(H1N1)pdm09 virus was not
+ statistically significant. In year 2, however, total vaccine efficacy against antigentically
+ matched influenza A(H3N2) virus was statistically significant. Total vaccine efficacy against
+ influenza B virus varied by year, despite an antigenic match of the predominant B/Victoria
+ lineage with the vaccine in all 3 years.
+ 
+<section> Total vaccine efficacy was similar between boys and girls. Among age groups, total vaccine
+ efficacy was statistically significant for patients aged between 36 months and 8 years for the
+ 
+<section> Author 3 years of the study; vaccine efficacy was also significant for children aged 6–35 months
+ during years 2 and 3, and for those aged 9–10 years for year 3 (table 2). In year 1, total
+ vaccine efficacy for all vaccinees was not statistically significant for the period up to
+ 
+<section> Manuscript months after vaccination (table 2) when influenza A(H1N1)pdm09 virus was circulating,
+ whereas for the period 6–11 months after vaccination, during which influenza B was
+ circulating, total vaccine efficacy was statistically significant (table 2). Total vaccine efficacy
+ stratified by time after vaccination could not be estimated in year 2 because too few 
+<section> infections occurred in year 3 since the observation period was truncated in April, 2012 (table
+ 
+<section> Author 2).
+ 
+<section> Overall, indirect vaccine effectiveness was statistically significant only in year 3, with
+ 
+<section> Manuscript influenza virus detected in 39 (1%) of 4323 household members in the IIV3 group and 60
+ (1%) of 4121 household members in the IPV group. This indirect effect in year 3 was also
+ significant for influenza B virus. The indirect vaccine effectiveness in year 2 for influenza B
+ virus was similar to the efficacy in year 3, although the the 95% CIs narrowly crossed zero
+ (36·2% [95% CI –0·2 to 59·4]; table 3). In years 1 and 2, no statistically significant indirect
+ vaccine effectiveness was observed in any age group. In year 3, among household members
+ aged 18–49 years, influenza virus was detected in 17 (1%) of 2736 in the IIV3 group and 31
+ (1%) of 2627 in the IPV group for an indirect vaccine effectiveness of 47·3% (95% CI 4·8–
+ 70·8; table 3). Indirect vaccine effectiveness was not observed when analysed by sex in any
+ 
+<section> Author study year (table 3).
+ 
+<section> Safety was analysed among all participants who received with at least one dose of the
+ 
+<section> Manuscript vaccine. Local and systemic reactions were uncommon and similar between the IIV3 and
+ IPV groups (table 4). In the IIV3 group, 225 (14%) of 1632 children in year 1, 375 (22%) of
+ 1718 in year 2, and 209 (12%) of 1673 in year 3 had an adverse reaction (compared with
+ 216 [12%] of 1730, 380 [21%] of 1825, and 235 [13%] of 1796, respectively, in the IPV
+ group). The most common reactions in both groups were fever and tenderness at site. No
+ serious adverse events were reported. Over the study, eight deaths occurred in the IIV3
+ cohort and seven in the IPV group; vaccine efficacy against any influenza virus infection did
+ not change when these deaths were excluded from the analysis (data not shown).
+ 
+<section> In year 1, few children in the IIV3 and IPV groups had seroprotective antibody titres against
+ 
+<section> Author seasonal influenza A(H1N1; appendix) and influenza B viruses before vaccination, but more
+ than half had seroprotective titres against influenza A(H3N2) virus before vaccination
+ (appendix). After two doses of vaccine in year 1, 82·9% (95% CI 66·3–93·4) of children in
+ 
+<section> Manuscript
+ 
+<section> the IIV3 group showed seroprotective titres against the three influenza vaccine viruses. In
+ year 2, 93·3% (85·9–97·5) of the children in the IIV3 group had titres of 1:40 or more after
+ two doses of vaccine.
+ 
+<section> Discussion
+ 
+<section> This randomised controlled study among children in rural India showed a significant total
+ (direct and indirect) vaccine efficacy of IIV3 against influenza-associated FARI, although
+ with year-to-year variability. We also found significant indirect protection in year 3, the year
+ when the vaccine-matched influenza B (Victoria lineage) predominated and when the
+ 
+<section> Author
+ 
+<section> vaccine efficacy among vaccinees was highest. Immunogenicity of influenza vaccination
+ was also shown in this population. Despite these significant findings, total vaccine efficacy
+ 
+<section> Manuscript varied substantially between years, even when vaccine was well matched (eg, vaccine
+ efficacy against influenza B in year 2). One possible factor was the timing of vaccination in
+ concordance with temperate northern hemisphere influenza seasonality, which is now known
+ to be suboptimal for most regions in India. 
+<section> 11 This variability in total and indirect protection 
+<section> from year to year emphasises the importance of multiple year studies in assessing the true
+ 
+<section> Author effect of influenza vaccines and informing public health policy in India.
+ 
+<section> The effectiveness of inactivated influenza vaccines in children has been shown to vary by
+ 
+<section> Manuscript year and study, hence direct comparisons of vaccine efficacy are challenging, particularly
+ between countries with different seasonality. This variability is driven by many factors,
+ including vaccination timing, how well matched the vaccine is to circulating viruses, and the
+ age and underlying health status of the study population. 
+<section> 19 A review 7 published in 2011
+ reported only one randomised controlled trial of IIV3 in children as young as 6 months that
+ used specific and sensitive tests for influenza virus. In this US study, IIV3 efficacy against
+ acute otitis media was 66% in the first year; in the second year attack rates were very low
+ and efficacy was difficult to evaluate. 
+<section> 20 A more recent randomised controlled trial was done
+ with children aged between 6 months and 72 months, in which one group received IIV3
+ 
+<section> Author alone. Efficacy against all strains was 43% and against vaccine-matched strains was 45%;
+ our results (range 25·66–74·2%) are similar. 
+<section> 21 Similarly, a randomised controlled trial 
+<section> 22 of
+ children aged 3–8 years in several low-resourced countries showed a vaccine efficacy of
+ 
+<section> Manuscript 59% from a quadrivalent influenza vaccine (IIV4) containing both influenza B virus lineages
+ compared with a control vaccine. A study 
+<section> 23 of trivalent cold-adapted influenza vaccine
+ against culture-confirmed influenza in children showed efficacy during two consecutive
+ influenza seasons at multiple sites in Asia (70% in year 1 and 64% in year 2, against any
+ influenza strains). Two studies 
+<section> 24,25 of Russian-backbone live attenuated influenza vaccine,
+ from Senegal and Bangladesh, reported that vaccine efficacy for vaccine-matched strains
+ was 58% in Bangladesh, whereas no efficacy was shown in Senegal.
+ 
+<section> Vaccination of school children during an influenza outbreak has been shown to reduce
+ illness in families compared with communities in which schoolchildren were not vaccinated.
+ 
+<section> Author 5,26 In Japan, an ecological study suggested that all-age mortality due to pneumonia and
+ influenza was reduced when mandatory influenza vaccination of school children was
+ introduced and increased after vaccination was made optional. 
+<section> 27 Community-level
+ 
+<section> Manuscript
+ 
+<section> protection (indirect effectiveness 61%) was shown in a cluster-randomised trial 6 of IIV3
+ among children aged 36 months to 15 years in Hutterite communities in Canada, when using
+ real-time RT-PCR for influenza virus detection. In our study, total protection in year 3,
+ measured for only half a year, was roughly double that seen for indirect vaccine
+ effectiveness (total 74·2% vs indirect 38·1%). This result might suggest a threshold level of
+ protection was needed to show indirect effects, but in year 2, total vaccine efficacy for
+ influenza A(H3N2) virus was 64·5% and no indirect vaccine effectiveness was observed.
+ However, variability in factors affecting indirect vaccine effectiveness, such as social mixing
+ patterns, makes comparison of these estimates across studies challenging. Randomisation at
+ 
+<section> Author the community level would lead to an estimate of the maximal indirect vaccine effectiveness
+ because the immediately surrounding population would be vaccinated (or unvaccinated). We
+ deliberately randomised by household because we believed that, in a vaccination
+ 
+<section> Manuscript
+ 
+<section> programme, vaccinated individuals would tend to cluster in households because of a care-
+ giver decision to vaccinate; however, this approach probably leads to a lower indirect
+ vaccine effectiveness estimate than if a whole community was vaccinated because of
+ opportunities for exposure to influenza-infected individuals from nearby households in
+ which children were not vaccinated against influenza. 
+<section> A subset of children were tested for antibodies to influenza A(H1N1), influenza A(H3N2),
+ 
+<section> Author and influenza B. Among the IIV3 recipients, a large majority seroconverted and developed
+ seroprotective antibody titres with rises in geometric mean titres. Seroprotection was defined
+ as haemagglutination titres of 1:40 or more, which, in adults, corresponds to a 50%
+ 
+<section> Manuscript
+ 
+<section> reduction the risk of influenza virus infection. This standard definition might be too low to
+ be an accurate correlate of protection for children. 
+<section> 14,19,28 Our subset of children tested for
+ immunogenicity was too small to analyse correlates of protection.
+ 
+<section> Our study has several limitations. In year 1, vaccination took place during the winter, when
+ influenza A(H1N1) pdm09 virus was already emerging as the predominant strain, and was
+ not included in the study vaccine. Neither protection nor increased risk of influenza
+ A(H1N1)pdm09 infection was seen among vaccinees. Because influenza seasonality in India
+ was not well understood at the time, vaccination occurred 8–9 months before peak influenza
+ 
+<section> Author circulation through out the study, which probably affected vaccine efficacy. In year 3, we
+ were not able to analyse the possibility of declining protection over time from vaccination
+ because the follow-up period stopped by May 1, 2012, with the start of a study of pre-
+ 
+<section> Manuscript monsoon influenza vaccination. The lower number of events in year 3 than years 1 and 2,
+ therefore, might have led to a lack of power to detect efficacy. Timing of influenza virus
+ circulation might also be a factor in the poor total efficacy against an antigenically matched
+ influenza B virus in year 2, which is otherwise difficult to explain. However, the indirect
+ effects appeared quite high (although were not statistically significant) against influenza B
+ virus that year. Since influenza B virus circulation occurred primarily at the end of the study
+ year, children might have had waning of immunity. 
+<section> 29 However, reduced protection for
+ longer than 5 months after vaccination was not observed in year 1 for influenza B or in year
+ 2 for influenza A(H3N2) viruses.
+ 
+<section> Author
+ 
+<section> Vaccines are the primary tools in the prevention of influenza virus infection in young
+ children. In a rural setting in India, we showed immunogenicity of IIV3, and moderate total
+ and indirect vaccine effectiveness, which varied by study year, virus type, and virus subtype.
+ 
+<section> Manuscript
+ 
+<section> Prevention of influenza virus infection in India and similar tropical climates requires
+ innovative approaches and recognition that optimal timing of vaccination differs from
+ temperate parts of the world, and might also differ within the country by locality because of
+ differences in climate and virus seasonality within a country. 
+<section> 19 These data together with
+ cost-effectiveness and burden estimates of influenza can inform policy in India, especially
+ regarding the existing WHO recommendations for influenza vaccination of young children.
+ However, further studies are required to better understand variability in vaccine efficacy in
+ tropical settings and to inform global and national policy for influenza vaccination,
+ particularly in children.
+ 
+<section> Author
+ 
+<section> Supplementary Material
+ 
+<section> Manuscript Refer to Web version on PubMed Central for supplementary material.
+ 
+<section> Acknowledgments
+ 
+<section> We thank all the children, their families, and the community that participated in this study. This work was funded
+ through a Cooperative Agreement to the University of Alabama Birmingham, from the US CDC (U01IP000177). 
+<section> The findings and conclusions of this report are our own and do not necessarily represent the official position of the
+ 
+<section> Author CDC. We also thank the members of data safety and monitoring board, Sunil K Kapoor, Satinder Aneja, and
+ Ravindra M Pandey, as well as Lauren Beacham (CDC Influenza Division) for statistical support.
+ 
+<section> References
+ 
+<section> Manuscript
+ 
+<section> 1. Nair H, Brooks WA, Katz M, et al. Global burden of respiratory infections due to seasonal influenza
+ in young children: a systematic review and meta-analysis. Lancet 2011; 378: 1917–30. [PubMed:
+ 
+<section> 22078723]
+ 2. WHO. Vaccines against influenza WHO position paper - November 2012. Wkly Epidemiol Rec
+ 
+<section> 2012; 87: 461–76. [PubMed: 23210147]
+ 3. Hirve S, Krishnan A, Dawood FS, et al. Incidence of influenza-associated hospitalization in rural
+ communities in western and northern India, 2010–2012: a multi-site population-based study. J Infect
+ 
+<section> 2015; 70: 160–70. [PubMed: 25218056]
+ 4. Broor S, Dawood FS, Pandey BG, et al. Rates of respiratory virus-associated hospitalization in
+ children aged <5 years in rural northern India. J Infect 2014; 68: 281–89. [PubMed: 24269675]
+ 
+<section> Author 5. Monto AS, Davenport FM, Napier JA, Francis T Jr. Modification of an outbreak of influenza in
+ Tecumseh, Michigan by vaccination of schoolchildren. J Infect Dis 1970; 122: 16–25. [PubMed:
+ 
+<section> 5433709]
+ 
+<section> Manuscript 6. Loeb M, Russell ML, Moss L, et al. Effect of influenza vaccination of children on infection rates in
+ 
+<section> Hutterite communities: a randomized trial. JAMA 2010; 303: 943–50. [PubMed: 20215608]
+ 7. Osterholm MT, Kelley NS, Sommer A, Belongia EA. Efficacy and effectiveness of influenza
+ vaccines: a systematic review and meta-analysis. Lancet Infect Dis 2012; 12: 36–44. [PubMed:
+ 
+<section> 22032844]
+ 8. Lafond KE, Tam JS, Bresee JS, Widdowson MA. International meeting on influenza vaccine
+ effectiveness, 3–4 December 2012, Geneva, Switzerland. Vaccine 2014; 32: 6591–95. [PubMed:
+ 
+<section> 25446822]
+ 9. Ghimire M, Bhattacharya SK, Narain JP. Pneumonia in South-East Asia Region: public health
+ perspective. Indian J Med Res 2012; 135: 459–68. [PubMed: 22664492]
+ 10. Sullender W, Fowler K, Krishnan A, et al. Design and initiation of a study to assess the direct and
+ indirect effects of influenza vaccine given to children in rural India. Vaccine 2012; 30: 5235–39.
+ 
+<section> Author
+ 
+<section> [PubMed: 22709952]
+ 11. Chadha MS, Broor S, Gunasekaran P, et al. Multisite virological influenza surveillance in India:
+ 2004–2008. Influenza Other Resp Viruses 2011; 6: 196–203.
+ 
+<section> Manuscript
+ 
+<section> 12. Shu B, Wu KH, Emery S, et al. Design and performance of the CDC real-time reverse transcriptase
+ PCR swine flu panel for detection of 2009 A (H1N1) pandemic influenza virus. J Clin Microbiol
+ 
+<section> 2011; 49: 2614–19. [PubMed: 21593260]
+ 13. WHO. WHO Manual of Animal Influenza Diagnosis and Surveillance 2002. Geneva: World Health
+ Organization, 2002 http://whqlibdoc.who.int/hq/2002/who_cds_csr_ncs_2002·5.pdf (accessed Feb
+ 
+<section> 9, 2007).
+ 14. Committee for Proprietary Medicinal Products. Note for guidance on harmonization of
+ requirements for influenza vaccines. London: European Agency for the Evaluation of Medicinal
+ Products, 1997.
+ 15. Halloran ME, Struchiner CJ. Study designs for dependent happenings. Epidemiology 1991; 2:
+ 
+<section> 331–38. [PubMed: 1742381]
+ 
+<section> Author 16. Krishnan A, Nongkynrih B, Yadav K, Singh S, Gupta V. Evaluation of computerized health
+ management information system for primary health care in rural India. BMC Health Serv Res
+ 
+<section> 2010; 10: 310. [PubMed: 21078203]
+ 
+<section> Manuscript 17. Allison PD. Survival analysis using the SAS system: a practical guide, 2nd edition Cary, NC: SAS
+ Institute, 2010.
+ 18. Collett D Modelling survival data in medical research, 2nd edition Boca Raton, FL: Chapman &
+ Hall, 2003. 
+<section> 19. Fiore AE, Uyeki TM, Broder K, et al. Prevention and control of influenza with vaccines:
+ 
+<section> Author recommendations of the Advisory Committee on Immunization Practices (ACIP), 2010. MMWR
+ Recomm Rep 2010; 59: 1–62.
+ 20. Hoberman A, Greenberg DP, Paradise JL, et al. Effectiveness of inactivated influenza vaccine in
+ preventing acute otitis media in young children: a randomized controlled trial. JAMA 2003; 290:
+ 
+<section> Manuscript
+ 
+<section> 1608–16. [PubMed: 14506120]
+ 21. Vesikari T, Knuf M, Wutzler P, et al. Oil-in-water emulsion adjuvant with influenza vaccine in
+ young children. N EnglJ Med 2011; 365: 1406–16. [PubMed: 21995388]
+ 22. Jain VK, Rivera L, Zaman K, et al. Vaccine for prevention of mild and moderate-to-severe
+ influenza in children. N Engl J Med 2013; 369: 2481–91. [PubMed: 24328444]
+ 23. Tam JS, Capeding MR, Lum LC, et al. Efficacy and safety of a live attenuated, cold-adapted
+ influenza vaccine, trivalent against culture-confirmed influenza in young children in Asia. Pediatr
+ 
+<section> Infect Dis J 2007; 26: 619–28. [PubMed: 17596805]
+ 24. Brooks WA, Zaman K, Lewis KD, et al. Efficacy of a Russian-backbone live attenuated influenza
+ vaccine among young children in Bangladesh: a randomised, double-blind, placebo-controlled
+ trial. Lancet Glob Health 2016; 4: e946–54. [PubMed: 27746226]
+ 
+<section> Author
+ 
+<section> 25. Victor JC, Lewis KD, Diallo A, et al. Efficacy of a Russian-backbone live attenuated influenza
+ vaccine among children in Senegal: a randomised, double-blind, placebo-controlled trial. Lancet
+ 
+<section> Glob Health 2016; 4: e955–65. [PubMed: 27746224]
+ 
+<section> Manuscript 26. Glezen WP. Herd protection against influenza. J Clin Virol 2006; 37: 237–43. [PubMed:
+ 
+<section> 17008123]
+ 27. Reichert TA, Sugaya N, Fedson DS, Glezen WP, Simonsen L, Tashiro M. The Japanese experience
+ with vaccinating schoolchildren against influenza. N Engl J Med 2001; 344: 889–96. [PubMed:
+ 
+<section> 11259722]
+ 28. Black S, Nicolay U, Vesikari T, et al. Hemagglutination inhibition antibody titers as a correlate of
+ protection for inactivated influenza vaccines in children. Pediatr Infect Dis J 2011; 30: 1081–85.
+ 
+<section> [PubMed: 21983214]
+ 29. Ambrose CS, Wu X, Belshe RB. The efficacy of live attenuated and inactivated influenza vaccines
+ in children as a function of time postvaccination. Pediatr Infect Dis J 2010; 29: 806–11. [PubMed:
+ 
+<section> 20458256]
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript 
+<section> Research in context
+ 
+<section> Author
+ 
+<section> Evidence before this study
+ 
+<section> Manuscript We searched PubMed, on Jan 7, 2007, for studies done in developing countries on
+ influenza vaccine efficacy in children and indirect protection after influenza vaccination
+ of children. We used the search terms “influenza vaccine”, “child”, and “developing
+ country”, for studies since database inception, for articles published in English.
+ 
+<section> We found no such studies. Subsequently a study of cold-adapted influenza vaccine,
+ trivalent against culture-confirmed influenza in children showed efficacy during two
+ consecutive influenza seasons at multiple sites in Asia.
+ 
+<section> A randomised controlled trial of children aged 3–8 years in several low-resource
+ countries administered a quadrivalent influenza vaccine (IIV4) containing both influenza
+ 
+<section> Author B lineages. Efficacy for the IIV4 vaccinated cohort was 39%. Two studies of Russian-
+ backbone live-attenuated influenza vaccine, from Senegal and Bangladesh, reported that
+ vaccine efficacy for vaccine-matched strains was 58% in Bangladesh, whereas no
+ 
+<section> Manuscript
+ 
+<section> efficacy was shown in Senegal.
+ 
+<section> Thus, information about influenza vaccine efficacy in developing countries is scarce.
+ Similarly, although vaccination of children against influenza is thought to reduce
+ influenza transmission to other susceptible individuals, resulting in indirect protection,
+ studies to estimate indirect effects are very scarce. In one randomised controlled trial
+ done among Hutterite communities in Canada, among non-vaccinated individuals,
+ vaccine effectiveness was 61% against real-time RT-PCR-confirmed influenza infections.
+ 
+<section> Added value of this study
+ 
+<section> Author
+ 
+<section> We did a randomised controlled study in rural India over 3 years to measure total (direct
+ and indirect) vaccine efficacy of IIV3 among children and indirect protection of
+ 
+<section> Manuscript household members of all ages. This trial is the first randomised control trial designed to
+ investigate indirect effects at household-level in any setting. Influenza virus was detected
+ by sensitive and specific molecular assays. Total protection varied by year and by type of
+ influenza that was circulating. Indirect protection was shown in only 1 of the 3 years.
+ 
+<section> Implications of all the available evidence
+ 
+<section> In a resource-limited country, IIV3 can prevent influenza virus infections among children
+ and reduce infections among others in the households of the vaccinated children.
+ Significant household-level indirect protection was observed during 1 year of high direct
+ protection and should be considered as a potential effect of vaccination.
+ 
+<section> Author
+ 
+<section> Manuscript 
+<insert> Figure 1: Trial profile
+ Randomised childhood vaccination study analysing total protection. 
+<iend>
+
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Figure 2: Trial profile
+ 
+<section> Manuscript Unvaccinated individuals in indirect protection analysis. Number of eligible households
+ enrolled and randomly assigned to each group are shown in figure
+ 
+<section> Author
+ 
+<section> Manuscript 
+<insert> Figure 3: Number of laboratory-confirmed influenza cases by month and year, from November,
+ 2009, to April, 2012, among vaccinated children and unvaccinated individuals
+ Viruses were typed and subtyped by real-time RT-PCR and haemagglutination inhibition.
+ Vertical arrows indicate start dates of vaccination each year. This analysis includes 15
+ participants (4345 vaccinated and 10 813 unvaccinated). 
+<iend>
+
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript
+ 
+<section> Author
+ 
+<section> Manuscript 
+<insert> Table 1:
+ Author
+ Manuscript
+ Demographic characteristics of vaccinees and non-vaccinees by vaccination group
+ IIV3
+ Households (n)
+ IPV
+ Adults per household 4 (2–6) 4 (2–6)
+ Children per household 3 (2–4) 3 (2–4)
+ Total in household 6 (5–9) 6 (5–9)
+ Vaccinated children in household 2 (1–2) 2 (1–3)
+ Vaccinees (n) 2132 2213
+ Age, years 5 (2–8) 5 (1–8)
+ Female 967 (45%) 1005 (45%)
+ Male 1165 (55%) 1208 (55%)
+ Yes 1109 (52%) 1212 (55%)
+ No 865 (41%) 873 (39%)
+ Unknown 158 (7%) 128 (6%)
+ Sex
+ Author
+ Manuscript
+ Enrolled in school
+ Non-vaccinees (n) 5580 5233
+ Median age, years 27 (17–39) 27 (16–38)
+ Age range, years 0–94 0–94
+ <6 months * 362 (6%) 427 (8%)
+ 6 months to 10 years and not in vaccine cohort † 155 (3%) 191 (3%)
+ 11–17 years 935 (17%) 813 (15%)
+ 18–49 years 3261 (58%) 3014 (54%)
+ 50–64 years 589 (11%) 509 (9%)
+ ≥65 years 278 (5%) 279 (5%)
+ Female 2761 (49%) 2639 (50%)
+ Male 2819 (51%) 2594 (50%)
+ Age groups
+ Author
+ Manuscript Sex
+ Data are median (IQR) or n (%), unless otherwise specified. Number of households, vaccinees, and non-vaccinees are a sum of the participants per
+ group during the 3 years of the study. All demographic data (including age) was calculated at the time of enrolment into the study. IIV3=trivalent
+ inactivated influenza vaccine. IPV=inactivated poliovirus vaccine.
+ *
+ Includes children younger than 6 months at the time that vaccinations began and those who were born during the 3 years of the study.
+ †
+ Age-eligible children did not receive vaccine if they were temporarily absent during the vaccination campaign, were ill, were allergic to vaccine
+ components, refused the vaccine, died, or had other unknown reasons.
+ Author 
+<iend>
+
+ 
+<section> Manuscript 
+<section> value 
+<section> <0·0001 
+<section> 0·0024 
+<section> <0·0001 
+<section> 0·011 
+<section> 0·0001 
+<section> 0·017 
+<section> <0·0001
+ 
+<section> ‥ 
+<section> ‥ 
+<section> ‥ 
+<section> ‥
+ 
+<section> p
+ 
+<section> CI)
+ 
+<section> Author
+ 
+<section> vaccine 
+<section> (95% 84·3) 
+<section> 81·9) 
+<section> 91·3) 
+<section> 88·5) 
+<section> 87·5) 
+<section> 91·4) 
+<section> 86·4)
+ 
+<section> ‥ 
+<section> ‥ 
+<section> ‥ 
+<section> ‥ 
+<section> figure
+ 
+<section> Manuscript 
+<section> Mean efficacy 74·2% 
+<section> to (57·8 64·6% 
+<section> to (30·7 81·5% 
+<section> to (60·3 70·5% 
+<section> to (24·2 74·7% 
+<section> to (48·9 74·1% 
+<section> to (21·8 76·5% 
+<section> to (59·4 in
+ 
+<section> influenza 
+<section> listed
+ 
+<section> (2011–12) 
+<section> IPV 
+<section> 81/1786 
+<section> (5%) 
+<section> 35/816 
+<section> (4%) 
+<section> 46/970 
+<section> (5%) 
+<section> 19/391 
+<section> (5%) 
+<section> 47/1043 
+<section> (5%) 
+<section> 15/352 
+<section> (4%) 
+<section> ‥ 
+<section> ‥ 
+<section> ‥ 
+<section> ‥ 
+<section> 80/1786 
+<section> (4%) 
+<section> exclusions
+ 
+<section> laboratory-confirmed
+ 
+<section> 3 Year 
+<section> (%) 
+<section> n/N IIV3 
+<section> 20/1670 
+<section> (1%) 
+<section> 12/782 
+<section> (2%) 
+<section> 8/888 
+<section> (1%) 
+<section> 6/416 
+<section> (1%) 
+<section> 10/897 
+<section> (1%) 
+<section> 4/357 
+<section> (1%) 
+<section> ‥ 
+<section> ‥ 
+<section> ‥ 
+<section> ‥ 
+<section> 17/1670 
+<section> (1%) 
+<section> doses;
+ 
+<section> two
+ 
+<section> value 
+<section> <0·0001 
+<section> 0·0104 
+<section> 0·0015 
+<section> 0·022 
+<section> 0·0045 
+<section> 0·11 
+<section> 0·65 
+<section> <0·0001 
+<section> <0·0001 
+<section> 0·79 
+<section> or
+ 
+<section> ‥ 
+<section> one
+ 
+<section> p receive
+ 
+<section> Author
+ 
+<section> of 
+<section> CI) 
+<section> to
+ 
+<section> Manuscript 
+<section> prevention vaccine 
+<section> Mean 
+<section> (95% 
+<section> efficacy 41·0% 
+<section> 54·1) 
+<section> to (24·1 39·0% 
+<section> 58·1) 
+<section> to (11·0 42·7% 
+<section> 59·4) 
+<section> to (19·2 39·3% 
+<section> 60·4) 
+<section> to (6·9 40·1% 
+<section> 57·9) 
+<section> to (14·7 46·2% 
+<section> 74·6) 
+<section> to (−13·9 −41·9% 
+<section> 68·2) 
+<section> to (−534·0 42·1% 
+<section> 55·0) 
+<section> to (25·5 
+<section> ‥ 
+<section> 64·5% 
+<section> 75·5) 
+<section> to (48·5 4·9% 
+<section> 34·9) 
+<section> to (−38·9 
+<section> assigned 
+<section> were
+ 
+<section> the they
+ 
+<section> 2: 
+<section> Table for 
+<section> vaccine (2010–11) 
+<section> IPV 
+<section> 182/1814 
+<section> (10%) 
+<section> 79/821 
+<section> (10%) 
+<section> 103/993 
+<section> (10%) 
+<section> 65/427 
+<section> (15%) 
+<section> 99/1068 
+<section> (9%) 
+<section> 18/319 
+<section> (6%) 
+<section> 3/1814 
+<section> (<1%) 
+<section> 179/1803 
+<section> (10%) 
+<section> ‥ 
+<section> 124/1817 
+<section> (7%) 
+<section> 68/1814 
+<section> (5%) 
+<section> whether
+ 
+<section> of
+ 
+<section> influenza 2 Year 
+<section> (%) 
+<section> n/N IIV3 
+<section> 105/1705 
+<section> (6%) 
+<section> 47/767 
+<section> (6%) 
+<section> 58/938 
+<section> (6%) 
+<section> 39/410 
+<section> (10%) 
+<section> 55/938 
+<section> (6%) 
+<section> 11/357 
+<section> (3%) 
+<section> 4/1707 
+<section> (<1%) 
+<section> 101/1684 
+<section> (6%) 
+<section> ‥ 
+<section> 41/1706 
+<section> (2%) 
+<section> 63/1705 
+<section> (4%) 
+<section> irrespective
+ 
+<section> value 
+<section> 0·010 
+<section> 0·043 
+<section> 0·064 
+<section> 0·51 
+<section> 0·032 
+<section> 0·098 
+<section> 0·13 
+<section> 0·037 
+<section> 0·37 
+<section> ‥ 
+<section> 0·0048 
+<section> vaccine. 
+<section> vaccine,
+ 
+<section> Author inactivated p of
+ 
+<section> poliovirus dose
+ 
+<section> CI) 
+<section> one
+ 
+<section> Manuscript 
+<section> trivalent vaccine 
+<section> (95% 40·6) 
+<section> 48·5) 
+<section> 44·4) 
+<section> 42·5) 
+<section> 45·7) 
+<section> 61·9) 
+<section> 64·5) 
+<section> 39·9) 
+<section> 39·3) 
+<section> ‥ 
+<section> 48·6) 
+<section> IPV=inactivated least
+ 
+<section> Mean efficacy 25·6% 
+<section> to (6·8 28·6% 
+<section> to (1·0 24·8% 
+<section> to (−1·7 13·0% 
+<section> to (−31·6 27·3% 
+<section> to (2·7 35·7% 
+<section> to (−8·5 36·1% 
+<section> to (−14·9 23·1% 
+<section> to (1·6 14·5% 
+<section> to (−20·4 32·5% 
+<section> to (11·3 at received
+ 
+<section> with
+ 
+<section> * vaccination 
+<section> (2009–10) 
+<section> IPV 
+<section> 206/1633 
+<section> (13%) 
+<section> 92/709 
+<section> (13%) 
+<section> 114/924 
+<section> (12%) 
+<section> 52/374 
+<section> (14%) 
+<section> 119/969 
+<section> (12%) 
+<section> 35/290 
+<section> (12%) 
+<section> 30/1633 
+<section> (2%) 
+<section> 176/1590 
+<section> (11%) 
+<section> 81/1642 
+<section> (5%) 
+<section> ‥ 
+<section> 137/1710 
+<section> (8%) 
+<section> vaccine. who 
+<section> children
+ 
+<section> influenza
+ 
+<section> any 
+<section> 1 Year 
+<section> (%) 
+<section> n/N IIV3 
+<section> 151/1572 
+<section> (10%) 
+<section> 66/707 
+<section> (9%) 
+<section> 85/865 
+<section> (10%) 
+<section> 44/367 
+<section> (12%) 
+<section> 82/897 
+<section> (9%) 
+<section> 25/308 
+<section> (8%) 
+<section> 19/1572 
+<section> (1%) 
+<section> 132/1545 
+<section> (9%) 
+<section> 68/1580 
+<section> (4%) 
+<section> ‥ 
+<section> 88/1608 
+<section> (5%) 
+<section> all included
+ 
+<section> inactivated
+ vaccination
+ 
+<section> Author of calculation
+ 
+<section> Manuscript 
+<section> efficacy 
+<section> Total 
+<section> influenza 
+<section> Any 
+<section> infection 
+<section> Sex 
+<section> Female 
+<section> Male 
+<section> group 
+<section> Age 
+<section> months 
+<section> 6–35 
+<section> to months 
+<section> 36 years 
+<section> years 
+<section> 9–10 after 
+<section> Time 
+<section> months 
+<section> 0–5 
+<section> months 
+<section> 6–11 
+<section> A 
+<section> Influenza 
+<section> pdm09 
+<section> (H1N1) 
+<section> A 
+<section> Influenza (H3N2) 
+<section> B 
+<section> Influenza IIV3=trivalent 
+<section> Efficacy
+ 
+<section> * 
+<section> value
+ 
+<section> 0·020 
+<section> 0·073 
+<section> 0·15 
+<section> 0·83 
+<section> 0·39 
+<section> 0·83 
+<section> 0·034 
+<section> 0·074 
+<section> 0·69 
+<section> 0·021
+ 
+<section> p ‥ 
+<section> ‥
+ 
+<section> to 
+<section> cases).
+ 
+<section> Author 
+<section> CI) 
+<section> (−3040·0
+ 
+<section> vaccine 
+<section> (95% 58·6) 
+<section> 60·5) 
+<section> 71·4) 
+<section> 86·2) 
+<section> 47·2) 
+<section> 70·8) 
+<section> 95·0) 
+<section> 79·6) 
+<section> 60·3) 
+<section> zero
+ 
+<section> Manuscript 
+<section> influenza 
+<section> Mean efficacy 38·1% 
+<section> to (7·4 35·9% 
+<section> to (−4·3 41·2% 
+<section> to (−21·2 17·5% 
+<section> to (−393·7 −184·7% 
+<section> 74·2) 
+<section> −8·3% 
+<section> to (−121·8 47·3% 
+<section> to (4·8 76·2% 
+<section> to (−14·7 
+<section> NA 
+<section> 23·9% 
+<section> to (−183·6 
+<section> NA 
+<section> 39·4% 
+<section> to (7·4 
+<section> has 
+<section> group
+ 
+<section> trial
+ 
+<section> laboratory-confirmed (2011–12) 
+<section> IPV 
+<section> 60/4121 
+<section> (1%) 
+<section> 41/2064 
+<section> (2%) 
+<section> 19/2057 
+<section> (1%) 
+<section> 3/131 
+<section> (2%) 
+<section> 1/62 
+<section> (2%) 
+<section> 14/606 
+<section> (2%) 
+<section> 31/2627 
+<section> (1%) 
+<section> 7/454 
+<section> (2%) 
+<section> 4/241 
+<section> (2%) 
+<section> 5/4121 
+<section> (<1%) 
+<section> 0/4121 
+<section> 55/4121 
+<section> (1%) 
+<section> one
+ 
+<section> if
+ model
+ 
+<section> 3 Year 
+<section> (%) 
+<section> n/N IIV3 
+<section> 39/4323 
+<section> (1%) 
+<section> 24/2118 
+<section> (1%) 
+<section> 12/2205 
+<section> (1%) 
+<section> 2/110 
+<section> (2%) 
+<section> 2/45 
+<section> (4%) 
+<section> 16/642 
+<section> (2%) 
+<section> 17/2736 
+<section> (1%) 
+<section> 2/542 
+<section> (<1%) 
+<section> 0/248 
+<section> 4/4323 
+<section> (<1%) 
+<section> 0/4323 
+<section> 35/4323 
+<section> (<1%) 
+<section> our
+ 
+<section> in
+ 
+<section> value 
+<section> efficacy
+ 
+<section> 0·15 
+<section> 0·47 
+<section> 0·18 
+<section> 0·80 
+<section> 0·17 
+<section> 0·31 
+<section> 0·084 
+<section> 0·19 
+<section> 0·70 
+<section> 0·49 
+<section> 0·051
+ 
+<section> p ‥ 
+<section> vaccine
+ 
+<section> Author of
+ 
+<section> prevention 
+<section> CI)
+ 
+<section> vaccine 
+<section> (95% 31·6) 
+<section> 32·6) 
+<section> 43·2) 
+<section> 50·7) 
+<section> 97·3) 
+<section> 58·1) 
+<section> 44·8) 
+<section> 17·1) 
+<section> 46·8) 
+<section> 28·7) 
+<section> 59·4) 
+<section> calculate
+ 
+<section> Manuscript 
+<section> the 
+<section> Mean efficacy 14·9% 
+<section> to (−5·8 10·1% 
+<section> to (−19·8 20·5% 
+<section> to (−11·2 7·8% 
+<section> to (−72·6 77·2% 
+<section> to (−89·5 25·6% 
+<section> to (−31·9 24·3% 
+<section> to (−3·8 −47·2% 
+<section> to (−161·6 −16·5% 
+<section> to (−155·3 
+<section> NA 
+<section> 8·4% 
+<section> to (−17·6 36·2% 
+<section> to (−0·23 to possible
+ 
+<section> for
+ 
+<section> 3: 
+<section> Table vaccine (2010–11) 
+<section> IPV 
+<section> 175/4230 
+<section> (4%) 
+<section> 99/2125 
+<section> (5%) 
+<section> 76/2105 
+<section> (4%) 
+<section> 23/233 
+<section> (10%) 
+<section> 6/65 
+<section> (9%) 
+<section> 25/573 
+<section> (4%4) 
+<section> 90/2645 
+<section> (3%) 
+<section> 19/460 
+<section> (4%) 
+<section> 12/254 
+<section> (5%) 
+<section> 0/4230 
+<section> 128/4230 
+<section> (3) 
+<section> 48/4230 
+<section> (1%) 
+<section> not 
+<section> (ie,
+ 
+<section> applicable
+ 
+<section> influenza 2 Year 
+<section> (%) 
+<section> n/N IIV3 
+<section> 150/4246 
+<section> (4%) 
+<section> 88/2106 
+<section> (4%) 
+<section> 62/2140 
+<section> (3%) 
+<section> 17/167 
+<section> (10%) 
+<section> 1/45 
+<section> (2%) 
+<section> 22/681 
+<section> (3%) 
+<section> 67/2612 
+<section> (3%) 
+<section> 30/499 
+<section> (6%) 
+<section> 13/242 
+<section> (5%) 
+<section> 5/4246 
+<section> (<1%) 
+<section> 118/4246 
+<section> (3%) 
+<section> 31/4246 
+<section> (1%) 
+<section> NA=not
+ 
+<section> value
+ 
+<section> inactivated 0·86 
+<section> 0·83 
+<section> 0·91 
+<section> 0·11 
+<section> 0·064 
+<section> 0·39 
+<section> 0·89 
+<section> 0·30 
+<section> 0·52 
+<section> 0·91 
+<section> 0·27 
+<section> 0·61 
+<section> vaccine.
+ 
+<section> Author p
+ 
+<section> Manuscript 
+<section> trivalent vaccine 
+<section> CI) 
+<section> (95% 
+<section> 18·6) 
+<section> to (−18·8 
+<section> 23·5) 
+<section> to (−24·0 
+<section> 24·9) 
+<section> to (−37·6 
+<section> 71·8) 
+<section> to (−14·0 
+<section> to 
+<section> (−890·3 to 
+<section> (−77·5 
+<section> 23·9) 
+<section> to (−26·8 
+<section> 63·7) 
+<section> to (−36·7 
+<section> to 
+<section> (−112·9 
+<section> 24·0) 
+<section> to (−27·8 
+<section> 51·3) 
+<section> to 
+<section> 28·6) 
+<section> to (−21·9 
+<section> poliovirus 
+<section> IPV=inactivated
+ 
+<section> with 
+<section> Mean efficacy 1·7% 2·6% −17 43·3% −204·9% 
+<section> 6·1) 
+<section> −19·2% 20·0) 
+<section> 1·8% 29·5% 30·4% 77·2) 
+<section> 1·4% 
+<section> −151·2% 
+<section> (−1194·6 
+<section> 6·7%
+ 
+<section> vaccination
+ 
+<section> (2009–10) 
+<section> IPV 
+<section> 218/3966 
+<section> (5%) 
+<section> 136/2005 
+<section> (7%) 
+<section> 82/1961 
+<section> (4%) 
+<section> 23/183 
+<section> (13%) 
+<section> 4/77 
+<section> (5%) 
+<section> 42/548 
+<section> (8%) 
+<section> 120/2469 
+<section> (5%) 
+<section> 21/447 
+<section> (5%) 
+<section> 8/242 
+<section> (3%) 
+<section> 115/3970 
+<section> (3%) 
+<section> 2/4001 
+<section> (<1%) 
+<section> 112/3997 
+<section> (3%) 
+<section> vaccine.
+ 
+<section> influenza
+ 
+<section> of 
+<section> effectiveness 1 Year 
+<section> (%) 
+<section> n/N IIV3 
+<section> 214/3949 
+<section> (5%) 
+<section> 128/1959 
+<section> (7%) 
+<section> 86/1990 
+<section> (4%) 
+<section> 12/151 
+<section> (8%) 
+<section> 9/58 
+<section> (16%) 
+<section> 57/631 
+<section> (9%) 
+<section> 116/2448 
+<section> (5%) 
+<section> 15/446 
+<section> (3%) 
+<section> 5/215 
+<section> (2%) 
+<section> 113/3951 
+<section> (3%) 
+<section> 5/3975 
+<section> (<1%) 
+<section> 104/3973 
+<section> (3%)
+ 
+<section> inactivated
+ 
+<section> Author
+ 
+<section> Manuscript 
+<section> Indirect 
+<section> influenza 
+<section> Any 
+<section> infection 
+<section> Sex 
+<section> Female 
+<section> Male 
+<section> group 
+<section> Age 
+<section> months 
+<section> <6 
+<section> to months 
+<section> 6 years 
+<section> years 
+<section> 11–17 
+<section> years 
+<section> 18–49 
+<section> years 
+<section> 50–64 
+<section> years 
+<section> ≥65 
+<section> A 
+<section> Influenza 
+<section> pdm09 
+<section> (H1N1) 
+<section> A 
+<section> Influenza (H3N2) 
+<section> B 
+<section> Influenza 
+<section> IIV3=trivalent 
+<insert> Table 4:
+ Author
+ Manuscript
+ Local and systemic adverse events following any dose of trivalent inactivated influenza vaccine or inactivated
+ polio vaccine
+ Year Year Year
+ Author
+ Manuscript
+ IPV (n=1730) IIV3 (n=1632) IPV (n=1825) IIV3 (n=1718) IPV (n=1796) IIV3 (n=1673)
+ Any reactions 216 (13%) 225 (14%) 380 (21%) 375 (22%) 235 (13%) 209 (12%)
+ Redness 3 (<1%) 3 (<1%) 14 (1%) 14 (1%) 3 (<1%) 1 (<1%)
+ Swelling 13 (1%) 21 (1%) 48 (3%) 71 (4%) 11 (1%) 16 (1%)
+ Tenderness at injection site 72 (4%) 77 (5%) 229 (13%) 236 (14%) 145 (8%) 118 (7%)
+ Vomiting 8 (<1%) 17 (1%) 14 (1%) 18 (1%) 11 (1%) 9 (1%)
+ Diarrhoea 15 (1%) 18 (1%) 22 (1%) 14 (1%) 15 (1%) 9 (1%)
+ Headache 4 (<1%) 11 (1%) 3 (<1%) 7 (<1%) 1 (<1%)
+ Body ache 3 (<1%) 14 (1%) 3 (<1%) 7 (<1%) 2 (<1%)
+ Fever 113 (7%) 122 (7%) 161 (9%) 154 (9%) 93 (5%) 99 (6%)
+ Irritability 11 (1%) 8 (<1%) 9 (<1%) 6 (<1%) 2 (<1%)
+ Lethargy 3 (<1%) 4 (<1%) 8 (<1%) 12 (1%) 2 (<1%)
+ Decreased feeding 3 (<1%) 2 (<1%) 7 (<1%) 9 (1%) 1 (<1%)
+ Abnormal cry 5 (<1%) 3 (<1%) 1 (<1%) 5 (<1%) 1 (<1%) 1 (<1%)
+ Any serious adverse events
+ Any grade 2 or 3 reactions 123 (7%) 124 (8%) 192 (11%) 181 (11%) 104 (6%) 104 (6%)
+ Any grade 3 reactions 64 (4%) * 51 (3%) † 65 (4%) ‡ 42 (2%)§ 32 (2%) ¶ 40 (2%)
+ ‖
+ Deaths ** 4 (<1%) 5 (<1%) 2 (<1%) 3 (<1%) 1 (<1%)
+ Data are n (%). IPV=inactivated poliovirus vaccine. IIV3=trivalent inactivated influenza vaccine.
+ *
+ Author
+ Manuscript
+ 69 grade 3 reactions among 64 children: fever (n=47), tenderness at injection site (n=8), abnormal cry (n=5), vomiting (n=4), diarrhea (n=3),
+ headache (n=1), and irritability (n=1).
+ †
+ 64 grade 3 reactions among 51 children: fever (n=35), body ache (n=5), vomiting (n=5), diarrhoea (n=5), tenderness at injection site (n=4),
+ swelling (n=3), abnormal cry (n=3), headache (n=3), and irritability (n=1).
+ ‡
+ 70 grade 3 reactions among 65 children: fever (n=37), tenderness at injection site (n=23), vomiting (n=3), diarrhoea (n=2), headache (n=1), body
+ ache (n=1), irritability (n=1), decreased feeding (n=1), and abnormal cry (n=1). §47 grade 3 reactions among 42 children: fever (n=19), tenderness
+ at injection site (n=18), abnormal cry (n=5), vomiting (n=2), diarrhoea (n=1), headache (n=), body ache (n=1), and decreased feeding (n=1).
+ ¶
+ 34 grade 3 reactions among 32 children: fever (n=16), tenderness at injection site (n=11), vomiting (n=3), diarrhea (n=3), and abnormal cry (n=1).
+ ‖
+ 46 grade 3 reactions among 40 children: fever (n=24), tenderness at injection site (n=14), vomiting (n=3), diarrhoea (n=3), swelling (n=1), and
+ abnormal cry (n=1).
+ **
+ No deaths were vaccine-related. 
+<iend>
+
+ 
+<section> Author
+ 
+<section> Manuscript

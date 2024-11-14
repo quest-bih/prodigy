@@ -1,0 +1,991 @@
+
+<section> based transdiagnostic psychotherapy for
+ 
+<section> cambridge.org/gmh
+ 
+<section> veterans and internally displaced persons in
+ 
+<section> Ukraine
+ 
+<section> Interventions
+ 
+<section> Original Research Paper Sergiy Bogdanov , Jura Augustinavicius , Judith K. Bass , Kristie Metz ,
+ 
+<section> *Joint authors. Stephanie Skavenski , Namrita S. Singh , Quincy Moore , Emily E. Haroz ,
+ 
+<section> Jeremy Kane , Ben Doty , Laura Murray 
+<section> 2, * and Paul Bolton 
+<section> 2, *
+ 
+<section> Cite this article: Bogdanov S et al (2021). A
+ 
+<section> randomized-controlled trial of community-
+ 
+<section> based transdiagnostic psychotherapy for Center for Mental Health and Psychosocial Support, National University of Kyiv-Mohyla Academy, Kyiv, Ukraine;
+ 
+<section> veterans and internally displaced persons in Department of Mental Health, Johns Hopkins Bloomberg School of Public Health, Baltimore, USA; Department
+ Ukraine. Global Mental Health 8, e32, 1–9. of International Health, Johns Hopkins Bloomberg School of Public Health, Baltimore, USA and 4 Department of
+ 
+<section> https://doi.org/10.1017/gmh.2021.27 Epidemiology, Columbia University Mailman School of Public Health, New York, USA
+ 
+<section> Received: 19 March 2021
+ 
+<section> Revised: 28 June 2021 
+<section> Abstract
+ 
+<section> Accepted: 28 June 2021 
+<section> Background. There is limited research on community-based mental health interventions in
+ former Soviet countries despite different contextual factors from where most research has
+ 
+<section> Key words:
+ 
+<section> CETA; Brief CETA; community-based; trial; been conducted. Ongoing military conflict has resulted in many displaced persons and
+ 
+<section> mental health; military conflict; psychotherapy veterans and their families with high burdens of mental health problems. Lack of commu-
+ nity-based services and poor uptake of existing psychiatric services led to the current trial
+ 
+<section> Author for correspondence: to determine the effectiveness of the common elements treatment approach (CETA) on anx-
+ 
+<section> Sergiy Bogdanov,
+ 
+<section> E-mail: s.bogdanov@ukma.edu.ua iety, depression, and posttraumatic stress symptoms (PTS) among conflict affected adults in
+ Ukraine.
+ 
+<section> Methods. We conducted a three-armed randomized-controlled trial of CETA delivered in its
+ standard form (8–12 sessions), a brief form (five-sessions), and a wait-control condition.
+ Eligible participants were displaced adults, army veterans and their adult family members
+ with elevated depression and/or PTS and impaired functioning. Treatment was delivered by
+ community-based providers trained in both standard and brief CETA. Outcome data were
+ collected monthly.
+ 
+<section> Results. There were 302 trial participants (n = 117 brief CETA, n = 129 standard CETA, n =
+ wait-controls). Compared with wait-controls, participants in standard and brief CETA experi-
+ enced clinically and statistically significant reductions in depression, anxiety, and PTS and
+ dysfunction (effect sizes d = 0.46–1.0–6). Comparing those who received standard CETA
+ with brief CETA, the former reported fewer symptoms and less dysfunction with small-to-
+ medium effect sized (d = 0.20–0.55).
+ 
+<section> Conclusions. Standard CETA is more effective than brief CETA, but brief CETA also had sig-
+ nificant effects compared with wait-controls. Given demonstrated effectiveness, CETA could
+ be scaled up as an effective community-based approach.
+ 
+<section> Introduction
+ 
+<section> Since 2014 military conflict with Russia-backed separatists has left 13 000 casualties and 3.4
+ million people requiring humanitarian assistance (United Nations Office for the
+ Coordination of Humanitarian Affairs, 2020). Conflict affected populations in Ukraine have
+ high prevalence rates for post-traumatic stress disorder (PTSD; 32%), depression (22%), anx-
+ iety (17%) and alcohol use disorders (8.4% in men and 0.7% in women) (Weissbecker et al.,
+ 
+<section> 2017; Ramachandran et al., 2019; Roberts et al., 2019). 74% of adult internally displaced per-
+ sons (IDPs) who likely required mental health services reported not receiving them due to lack
+ 
+<section> © The Author(s), 2021. Published by of trust in the health system, lack of awareness of where to seek care, poor quality of services,
+ Cambridge University Press. This is an Open stigma and embarrassment, and/or logistical barriers (e.g. no local clinics or providers, dis-
+ Access article, distributed under the terms of rupted roadways, etc.) (Weissbecker et al., 2017).
+ 
+<section> the Creative Commons Attribution licence This has occurred on top of longstanding service issues. The mental health system in
+ 
+<section> (http://creativecommons.org/licenses/by/4.0/),
+ 
+<section> which permits unrestricted re-use, distribution Ukraine remains highly centralized with most services provided by psychiatrists in psychiatric
+ 
+<section> and reproduction, provided the original article clinics and hospitals. Since the 1960s Ukrainians have shown great reluctance to seek help at
+ 
+<section> is properly cited. inpatient services because of the stigma associated with admission to psychiatric hospitals and
+ reports of abuse under the Soviet system, as well as health system deficiencies like lack of infor-
+ mation and awareness, high cost of treatment, fear of a public record of mental illness diag-
+ nosis, and geographical distance (Weissbecker et al., 2017; Romaniuk and Semigina, 2018).
+ The prevalence of common mental health problems in the general population has increased 
+<section> over the past decade (Voloshyn and Maruta, 2015; Weissbecker
+ et al., 2017; Ramachandran et al., 2019; Roberts et al., 2019)
+ while the prevalence of clinician diagnoses and treatment has
+ decreased (Voloshyn and Maruta, 2015), likely due to ongoing
+ stigmatization of psychiatric services (Weissbecker et al., 2017)
+ and budgetary and economic issues (Skokauskas et al.,
+ 2020).The burden of common mental health problems would
+ likely be better met by mental health care at the community
+ level. Elsewhere, community-based mental health treatment mod-
+ els have been developed to reduce the treatment gap (Kohn et al.,
+ 2004; Thornicroft, 2007; Thornicroft et al., 2016) by making ser-
+ vices more culturally responsive and locally accessible (Castillo
+ et al., 2019), can treat multiple problems while being less resource
+ intensive than specialized care, and are therefore more scalable
+ and sustainable (World Health Organization, 2017; Patel et al.,
+ 2018).
+ The common elements treatment approach (CETA) (Murray
+ et al., 2014a), a cognitive-behavioral therapy-based treatment,
+ was developed as a community-based intervention to address
+ multiple and comorbid mental health problems in low- and
+ middle-income countries (LMIC) (Murray et al., 2014a, 2020).
+ 
+<section> While CETA has been shown effective in other LMIC settings
+ including Iraq (Weiss et al., 2015), Thailand (Bolton et al.,
+ 
+<section> 2014), Zambia (Murray et al., 2020), Colombia (Bonilla-Escobar
+ et al., 2018) and Ethiopia (Murray et al., 2018b), it has not
+ been used or tested in the former Soviet Union. This is true of
+ the global mental health literature overall: most LMIC interven-
+ tion trials, both clinic- and community-based, have been con-
+ ducted in Africa with few in Asia and Latin America (Chibanda
+ et al., 2015; Purgato et al., 2018). In our review of the
+ English-language literature, we found no trials from former
+ Soviet Union countries, where cultural and contextual factors
+ are very different from other regions. The few trials in the
+ Russian language literature found locally modified cognitive-
+ behavioral psychotherapy effective for anxiety disorders in a gen-
+ eral psychiatric population (Tukaev and Kuznetsov, 2015) and
+ motivational interviewing effective for alcohol use disorders
+ (Trusova, 2015). Given the contextual and cultural differences
+ that set this region apart from other global regions, we felt it
+ necessary to test CETA locally.
+ We also explored a key implementation question: whether a
+ shortened five-session version of CETA could be as effective as
+ the standard 8–12 session model in order to address scale-up
+ challenges, particularly with highly mobile populations, including
+ displaced persons.
+ To address these aims, this study had two objectives: (1) to
+ evaluate the effectiveness of standard CETA among a
+ conflict-affected population in Ukraine; and (2) to compare the
+ effectiveness of brief CETA to standard CETA using a non-
+ inferiority design.
+ 
+<section> Methods
+ 
+<section> Study design
+ 
+<section> This study is a three-armed randomized-controlled trial con-
+ ducted among a conflict-affected population: adult IDPs and
+ Ukrainian veterans and their families. The three conditions
+ included: (1) standard CETA, (2) brief CETA, and (3) waitlist
+ controls; participants in the CETA arms were blind to their allo-
+ cation to brief or standard versions. The primary outcomes of the
+ trial included severity of depression and post-traumatic stress
+ symptoms, and impaired functioning and secondary outcomes
+ included anxiety symptoms and substance use problems. This
+ trial is registered with ClinicalTrials.gov NCT03058302.
+ 
+<section> Providers
+ 
+<section> The trial was conducted in Kyiv (central region), Zaporizhya
+ (southeast), and Kharkiv (east, near Russian border). Thirty-one
+ individuals working in these communities were trained as provi-
+ ders by CETA co-developers (Laura K. Murray, S D and other
+ CETA trainers (Stephanie Skavenski, Kristie Metz, Laura
+ Merchant) using the apprenticeship model (Murray et al., 2011)
+ of didactic training followed by supervised practice.
+ Concurrently, five others were trained as local supervisors.
+ Providers were psychologists, social workers, volunteers, physi-
+ cians, program managers, teachers/lecturers or lawyers (Murray
+ et al., 2018a, 2018b). Some were experienced serving IDPs and
+ other conflict-affected groups and some were veterans. Prior
+ qualitative research found that veterans are more willing to talk
+ to other veterans (Singh et al., 2021). Fifteen providers were
+ based in Kyiv City, four in Kharkiv City, eight in Zaporizhya
+ City, and four were in smaller towns in Zaporizhya region.
+ Providers met with participants individually in private rooms,
+ typically at the provider’s place of employment, state social ser-
+ vices, or local non-governmental organizations (NGOs). No ses-
+ sions were conducted in hospitals or state mental health
+ institutions. Recruitment materials and the CETA manual for
+ provider were offered in Ukrainian language while the implemen-
+ tation and the mental health assessment inventory (MHAI) out-
+ come measure, a previously validated tool to assess common
+ mental health problems (Doty et al., 2018), were in Russian lan-
+ guage because the majority of study participants, mostly IDPs,
+ preferred Russian.
+ 
+<section> Participants
+ 
+<section> Participants had to give informed consent, be at least 18 years old,
+ and expect to remain in a study location for at least 6 months and
+ be either a veteran, veteran family member, or IDP. We also
+ included people who volunteered in the conflict or were otherwise
+ helping affected persons. These population criteria were based on
+ the target population of our funder. Clinical inclusion criteria
+ included reporting elevated depression and/or posttraumatic
+ stress symptoms (PTS) and impaired daily functioning at baseline.
+ Screening for elevated symptoms and impaired functioning was
+ done using a shortened version of the outcome instrument
+ (MHAI; described below) (Doty et al., 2018).
+ Exclusion criteria included active-duty (non-veteran) military
+ personnel and adults who were determined at baseline to need
+ urgent referral to a psychiatrist for suicidal or homicidal ideation
+ or severe psychiatric symptoms or drug use problems that neces-
+ sitate inpatient treatment and would inhibit their ability to par-
+ ticipate in a talk-therapy. These adults were determined by local
+ clinical CETA supervisors and psychiatrist at the National
+ University of Kyiv-Mohyla Academy (NaUKMA) Mental
+ Health Center. Adults excluded based on these criteria were
+ referred to external specialist mental health services.
+ Study participants were referred by providers from their exist-
+ ing work-related network and by community-based organizations
+ (CBOs) and NGOs working with these populations. CBO and
+ NGO staff were trained to use a short screening version of the 
+<section> outcome measure (Doty et al., 2018) and refer potential partici-
+ pants who showed PTSD or depression symptoms.
+ 
+<section> Outcome measure
+ 
+<section> The outcome measure, the MHAI, was locally adapted and vali-
+ dated to assess clinically significant mental health problems
+ (Doty et al., 2018). The MHAI includes items related to the pri-
+ mary and secondary common mental health outcomes (depres-
+ sion, posttraumatic stress, generalized anxiety, and alcohol use)
+ and a functioning scale. The validation process is described else-
+ where (Doty et al., 2018). The functioning scale includes World
+ Health Organization Disability Assessment Schedule
+ (WHODAS) items and locally relevant items based on a prior
+ qualitative study in Zaporizhya and Kharkiv (Applied Mental
+ Health Research Group Johns Hopkins University, 2013; Singh
+ et al., 2021).
+ 
+<section> Sample size
+ 
+<section> For comparison of brief and standard CETA to the waitlist control
+ condition, the sample size was based on power of 0.80 (β = 0.20)
+ at α = 0.025 level of significance (adjusted for multiple compari-
+ sons), to detect a medium effect ( f = 0.25). Sample size for the
+ non-inferiority comparison of brief v. standard CETA was
+ based on power of 0.80 (β = 0.20) at α = 0.05 level of significance,
+ with an assumed S D of 7.0 and a non-inferiority limit of d = 2.4.
+ Accounting for 24% attrition, the recruitment goal was
+ participants.
+ 
+<section> Randomization
+ 
+<section> We implemented a two-stage sequential randomization process.
+ First stage randomization was conducted by computer algorithm
+ into waitlist control or CETA conditions (brief and standard com-
+ bined) at a 1:4 ratio. The algorithm was integrated into the data
+ collection software with randomization immediately after deter-
+ mining trial eligibility. The second stage allocated those in the
+ CETA condition to either brief or standard treatment; randomiza-
+ tion was based on a computer-generated list of random numbers
+ with a ratio of 1:1. This second stage randomization was done in
+ blocks of 20 by provider, to ensure evenly distribution among
+ providers.
+ 
+<section> Blinding
+ 
+<section> First stage randomization (waitlist control/CETA) was not blinded
+ but revealed to participants immediately after baseline assessment.
+ For second stage randomization, participants, providers, supervi-
+ sors, and CETA trainers were kept blind to allocation to brief or
+ standard CETA until after the fourth CETA session. The study
+ director then checked assignment and revealed the allocation to
+ the supervisor and provider who then told the study participant.
+ Only the study director and two analysts on the data monitoring
+ team had access to the password-protected database linking study
+ ID to the brief or standard CETA randomization schema. This
+ ensured that randomization to brief or standard CETA did not
+ impact the way the first four sessions were provided by provider
+ or received by participant.
+ 
+<section> Interventions
+ 
+<section> Two version of CETA – standard and brief – were tested; (for full
+ descriptions see trial protocol manuscript (Murray et al., 2018a,
+ 2018b). CETA is a modular, multi-problem, flexible, transdiagnostic
+ approach developed for LMIC, based on task-sharing by providers
+ with minimal or no formal mental health training (Murray et al.,
+ 2014a, 2018a, 2018b). We designed the brief CETA model based
+ on recent research on how to increase efficiency without losing
+ effectiveness (Hayes et al., 2007a, 2007b; Huebner and Tonigan,
+ 2007; Insel, 2009).
+ Participants randomized to standard CETA began with the
+ same first session flows as brief CETA. Providers had flexibility
+ in choosing the elements, order and dose for participants in
+ standard CETA beyond the fourth session, based on symptom
+ presentation and discussions of participant progress with their
+ supervisors (Murray et al., 2014a).
+ Throughout the trial, supervision followed the apprenticeship
+ model (Murray et al., 2011) with weekly provider oversight by
+ CETA trainers to monitor and ensure treatment fidelity for
+ both standard and brief CETA. Both versions of CETA also
+ included safety check ins at every session (Murray et al., 2014b).
+ All safety cases were handled within 24-hours with immediate
+ notification of NaUKMA and Johns Hopkins School of Public
+ Health (JHSPH) research teams.
+ 
+<section> Waitlist control condition
+ 
+<section> Waitlist control participants were provided with a list of available
+ mental health resources and, like all trial participants, were free to
+ use these services. All use of other services was tracked over the
+ course of the trial. After participating in the waitlist control con-
+ dition for 6 months, control participants were offered standard
+ CETA.
+ 
+<section> Data collection
+ 
+<section> Data were collected via a self-administered digital survey using the
+ open source mobile data collection platform CommCare (https://
+ www.commcarehq.org). Study enrollment and data collection
+ began in March 2017 and data collection was completed in
+ June 2019. Baseline assessments (time 0) were completed prior
+ to first stage CETA/waitlist control randomization. After baseline,
+ waitlist control participants were asked to complete monthly
+ assessments until 6-months post-baseline (times 1–6). CETA par-
+ ticipants also completed these assessments after every fourth
+ weekly visit with their counselor. After completion of standard
+ or brief CETA treatment, participants continued to complete
+ assessments every month until the end of the 6 month period.
+ Because treatment participants may not be able to attend the
+ CETA sessions every week, for brief CETA participants, we
+ expected 3–4 of these assessments would be completed after treat-
+ ment was over and for standard CETA participants, we expected
+ 2–3 of these assessments would be completed after treatment was
+ over. Baseline and follow-up assessments were done at a central
+ location in each city using study tablets, with study staff present
+ to support the technology and answer questions. In cases where
+ a study participant could not attend in person study staff would
+ conduct the assessment by phone.
+ During baseline screening, 73 clients reported suicidal or
+ homicidal ideations, triggering the safety protocols. Most were
+ found to be at low risk after additional questioning by study 
+<section> Fig. 1. (a) Consort diagram for flow of participants through monthly assessments (plus
+ 
+<section> Fig. 1. (b) Flow of participants through pre-post assessments as relevant to the post-hoc
+ 
+<section> M&E staff; 17 were referred to a psychiatrist for further assess-
+ ment. Although they were not included in the study, standard
+ CETA was offered to all of these clients after evaluation. During
+ the study, there were no adverse events.
+ At the beginning of clinical sessions, as a normal part of treatment,
+ a clinical monitoring form was self-administered on CommCare to
+ guide treatment. This trial was reviewed and approved by the
+ JHSPH and the NaUKMA Institutional Review Boards.
+ 
+<section> Statistical analysis
+ 
+<section> As per the trial protocol brief and standard CETA were each compared
+ separately to the waitlist control condition using the six monthly
+ assessments collected post baseline (Murray et al., 2018a, 2018b).
+ Due to variations in participants availability for the assessment we
+ included assessments up to 2 weeks prior or after the targeted monthly
+ date. Baseline assessments were coded as assessment zero (0). Each
+ subsequent monthly assessment was coded as assessment 1, 2,
+ through 6. Under the protocol analysis we planned to investigate
+ the effects of brief and standard CETA, compared with the waitlist
+ control condition over these six discrete timepoints. Figure 1a pre-
+ sents the flow of participants included in the protocol analysis.
+ 
+<section> or minus 2 weeks) as per trial protocol.
+ 
+<section> analysis.
+ 
+<section> In reviewing the data at the end of the trial, we identified that
+ some CETA participants did not complete treatment within the
+ 6-month time frame or had only one post-treatment assessments,
+ providing none or limited post-treatment assessment data making
+ the planned longitudinal analyses untenable for these partici-
+ pants. Therefore, a post-hoc analysis approach was also used, to
+ provide a more equivalent comparison between study arms.
+ Using a pre-post design, we used a single post-intervention assess-
+ ment for each brief and standard CETA participant and an
+ equivalent assessment for each waitlist control participant. To
+ remain in line with the original planned analysis of outcomes at
+ 6 months post baseline, for this analysis we used each partici-
+ pant’s post-intervention assessment closest to the 6 month follow
+ up (180 days plus 122 days or minus 30 days). The amount of
+ change was calculated for each participant by comparing this sin-
+ gle post-treatment assessment to their baseline. Figure 1b presents
+ the flow of participants included in the pre-post analysis.
+ All outcomes (depression, anxiety, and PTS, and functioning)
+ were treated as continuous. Sample characteristics were explored
+ across treatment conditions at baseline. Random effects models
+ with a robust variance estimator were used to compare change
+ in outcomes between trial conditions. Sensitivity analyses 
+<insert> Table 1. Baseline characteristics of brief, standard and waitlist control participants
+ Brief CETA (n = 117) Standard CETA (n = 129) Waitlist control (n = 56)
+ 38.75 (10.45) 39.25 (10.48) 39.05 (10.46)
+ 72 (62) 74 (57) 35 (63)
+ Kyiv 85 (73) 90 (70) 32 (57)
+ Kharkiv 10 (9) 9 (7) 6 (11)
+ Zaporizhya 22 (19) 30 (23) 18 (32)
+ IDP 46 (39) 51 (40) 24 (43)
+ Veteran 38 (32) 42 (33) 16 (29)
+ Veteran family member 26 (22) 28 (22) 12 (21)
+ Conflict volunteer 21 (18) 18 (14) 5 (9)
+ Single 25 (22) 33 (26) 18 (33)
+ Married 48 (41) 58 (45) 24 (44)
+ Widowed 10 (9) 11 (9) 2 (4)
+ Divorced 33 (28) 26 (20) 11 (20)
+ Unemployed 22 (19) 22 (17) 11 (20)
+ Self-employed 10 (9) 5 (4) 2 (4)
+ Occasional job 30 (26) 31 (24) 13 (23)
+ Formal job 55 (47) 71 (55) 30 (54)
+ Mean age in years, mean ( S D
+ Female, no. (%)
+ Location, no. (%)
+ Status, no. (%)
+ Marital status, no. (%)
+ Employment, no. (%)
+ Education, no. (%)
+ None 1 (1) – –
+ Primary (2) – 3 (5)
+ Secondary 14 (12) 13 (10) 8 (14)
+ Tech/professional 25 (21) 25 (19) 7 (13)
+ University 72 (62) 88 (68) 36 (64)
+ Post-graduate 3 (3) 3 (2) 2 (4)
+ Mean depression score, mean ( S D 1.51 (0.55) 1.58 (0.59) 1.53 (0.56)
+ Mean posttraumatic stress score, mean ( S D 1.39 (0.58) 1.49 (0.58) 1.30 (0.62)
+ Mean anxiety score, mean ( S D 1.37 (0.60) 1.37 (0.61) 1.31 (0.60)
+ Mean dysfunction score, mean ( S D 1.23 (0.58) 1.29 (0.67) 1.17 (0.66)
+ NB, Symptom scores for depression, posttraumatic stress, anxiety, and dysfunction represent mean item scores.
+ Chi square and t test comparisons of demographic characteristics between treatment conditions at baseline did not reveal any significant differences except for mean post-traumatic stress
+ symptoms where there was a marginally significant difference in mean scores between standard CETA and waitlist control groups t(183) = −1.99, p = 0.05. 
+<iend>
+
+ examined the impact on model results of including the number of
+ days on study (between baseline and the final assessment) as a
+ covariate. For the second analysis, multiple imputation with
+ chained equations accounted for scale level missingness of out-
+ come data (Azur et al., 2011). Using imputed data, the effects
+ of brief and standard CETA on symptoms and functioning
+ between baseline and follow-up were assessed using mixed effects
+ regression models with clustering at the individual, provider, and
+ city levels. Cohen’s d was used to calculate effect sizes for
+ each outcome, reflecting regression adjustments. Statistical
+ analyses were performed using Stata 15 (Stata Statistical
+ Software, 2017).
+ 
+<section> Results
+ 
+<section> The study sample (Table 1) included 181 (59.9%) women and 121
+ (40.1%) men. Participants lived in Kyiv (69%), Kharkiv (8%), or
+ Zaporizhya (23%) during the study period. Participants identified
+ as IDPs (40%), veterans (32%), family members of veterans
+ (22%), or volunteers in the conflict (15%). Most had completed
+ some post-secondary education or training (68%) and 65% had
+ attended university.
+ Baseline assessments were completed by 302 participants
+ across the trial conditions (brief CETA n = 117, standard
+ 
+<section> CETA n = 129, waitlist control = 56) (see Consort diagram 
+<insert> Table 2. Pre-post changes in study outcomes for brief and standard CETA compared to Waitlist controls
+ Outcomes Brief CETA Standard CETA Waitlist control
+ Depression
+ Baseline, mean ( S E 1.48 (0.06) 1.56 (0.08) 1.51 (0.11)
+ Follow-up, mean ( S E 0.67 (0.06) 0.43 (0.07) 1.00 (0.06)
+ Pre-post change −0.81 (−0.87 to −0.76) −1.12 (−1.21 to −1.04) −0.51 (−0.71 to −0.31)
+ Net effect (β, 95% CI)* −0.30 (−0.45 to −0.15) −0.61 (−0.73 to −0.50)
+ Effect estimate (d )
+ –
+ 0.55 1.06 –
+ Baseline, mean ( S E 1.38 (0.07) 1.48 (0.05) 1.30 (0.07)
+ Follow-up, mean ( S E 0.61 (0.09) 0.44 (0.07) 0.88 (0.09)
+ Pre-post change −0.77 (−0.88 to −0.66) −1.04 (−1.15 to −0.93) −0.42 (−0.58 to −0.26)
+ Net effect (β, 95% CI)* −0.35 (−0.46 to −0.25) −0.62 (−0.82 to −0.43)
+ Posttraumatic stress
+ Effect estimate (d )
+ –
+ 0.59 1.05 –
+ Baseline, mean ( S E 1.36 (0.03) 1.36 (0.04) 1.31 (0.12)
+ Follow-up, mean ( S E 0.68 (0.04) 0.49 (0.08) 1.00 (0.08)
+ Pre-post change −0.68 (0.04) −0.87 (0.05) −0.31 (0.13)
+ Net effect (β, 95% CI)* −0.37 (−0.57 to −0.17) −0.56 (−0.90 to −0.22)
+ Anxiety
+ Effect estimate (d )
+ –
+ 0.62 0.93 –
+ Baseline, mean ( S E 1.18 (0.02) 1.26 (0.07) 1.14 (0.09)
+ Dysfunction 
+<iend>
+
+ 
+<insert> Fig. 1a). Only nine participants (3%) had data for all six-
+ monthly assessments after baseline. Sixty-four participants
+ (21%), had no data after baseline [11 (20%) control, 21 (18%)
+ brief CETA, and 32 (25%) standard CETA]; 108 participants
+ (36%) had data from only one or two of the monthly assess-
+ ments. Seven CETA participants (six standard; one brief)
+ were still receiving treatment at the 6-month post baseline
+ assessment time point, so this final assessment was not
+ post-treatment.
+ The planned protocol analysis, showing overall trends for
+ predicted symptom and dysfunction scores by treatment condi-
+ tion over the 6-month follow-up period, are shown in
+ Supplement Figures 1S–4S. The results of unimputed models
+ indicated that brief and standard CETA participants had statis-
+ tically significantly lower predicted depression, post-traumatic
+ stress, anxiety, and dysfunction scores on at least one time
+ point during follow up relative to waitlist controls. Standard
+ CETA participants had statistically significantly lower average
+ predicted depression and posttraumatic stress scores at least
+ one time point during follow up relative to brief CETA partici-
+ pants. Sensitivity analyses, including the number of days on
+ study, did not change the direction or significantly alter the
+ magnitude of treatment effects. 
+<iend>
+
+ 
+<section> Follow-up, mean ( 
+<section> S 
+<section> E 
+<section> 0.84 (0.09) 
+<section> 0.79 (0.12) 
+<section> 1.07 (0.20)
+ 
+<section> Pre-post change 
+<section> −0.35 (0.07) 
+<section> −0.47 (0.06) 
+<section> −0.07 (0.13)
+ 
+<section> Net effect (β, 95% CI)* 
+<section> −0.28 (−0.42 to −0.14) 
+<section> −0.40 (−0.57 to −0.24) 
+<section> –
+ 
+<section> Effect estimate (d ) 
+<section> 0.46 
+<section> 0.60 
+<section> –
+ 
+<section> NB, Means are from predicted models and take into account clustering and imputation.
+ *This is the interaction term beta and 95% CI.
+ 
+<section> For the pre-post analysis, we used data from the 204 partici-
+ pants with post-intervention (brief and standard CETA partici-
+ pants) or post-baseline (waitlist control participants) assessment
+ data. The included assessment data were conducted an average
+ of 211 days after baseline (range of 150–299 days). Follow up
+ data were missing from 98 participants [brief CETA n =
+ 
+<section> (28%), standard CETA n = 51 (40%), waitlist control = 14 (25%)].
+ Treatment effects using this pre-post analysis for brief and
+ standard CETA compared with waitlist controls are presented
+ in Tables 2 and treatment effects comparing brief to standard
+ CETA are presented in Table 3. Reductions in depression, post-
+ traumatic stress, anxiety, and dysfunction were greater among
+ those receiving standard CETA relative to those in the waitlist
+ control condition with medium to large effect sizes (d = 0.60–
+ 1.06). Reductions in all outcomes were also observed among
+ those receiving brief CETA, relative to waitlist controls with
+ medium effect sizes (d = 0.46–0.62).
+ When comparing the effectiveness of standard to brief CETA,
+ those receiving standard CETA reported fewer symptoms and less
+ dysfunction at post-assessment, with medium effect sizes for
+ depression (d = 0.55) and post-traumatic stress symptoms (d =
+ 0.47) and small effect sizes for anxiety symptoms (d = 0.32) and
+ dysfunction (d = 0.20). When comparing imputed to non-imputed 
+<insert> Table 3. Pre-post changes in study outcomes for standard CETA compared to
+ brief CETA
+ Outcomes Standard CETA
+ Depression
+ Net effect (β, 95% CI) −0.31 (−0.36 to −0.27)
+ Effect estimate (d ) 0.55
+ Posttraumatic stress
+ Net effect (β, 95% CI) −0.27 (−0.48 to −0.06)
+ Effect estimate (d ) 0.47
+ Anxiety
+ Net effect (β, 95% CI) −0.19 (−0.34 to −0.04)
+ Effect estimate (d ) 0.32
+ Dysfunction
+ Net effect (β, 95% CI) −0.12 (−0.16 to −0.09)
+ Effect estimate (d ) 0.20
+ NB, Means are from predicted models and take into account clustering and imputation. 
+<iend>
+
+ models in sensitivity analyses, only minimal differences were
+ observed between effect estimates (see Online Supplemental tables
+ 
+<section> 1S and 2S).
+ Among waitlist control participants, only seven reported seek-
+ ing outside mental health services. These consisted of an appoint-
+ ment with a psychiatrist in a mental health clinic or in a general
+ polyclinic.
+ 
+<section> Discussion
+ 
+<section> This trial examined the effectiveness of both standard and brief
+ CETA compared to a wait-list control condition among veterans
+ and IDPs in three areas of Ukraine during a period of instability
+ and conflict. Both brief and standard CETA reduced the severity
+ of depression, anxiety and PTS and functional impairment, with
+ the strongest impacts for those who participated in standard
+ CETA.
+ Among possible community-based interventions CETA was
+ chosen due to the comorbidity we found within populations of
+ veterans and IDPs in our qualitative work (Singh et al., 2021),
+ similar to findings in other trauma/conflict-affected populations.
+ CETA is a particular approach – namely modular, flexible and
+ multi-problem (see more on transdiagnostic definitions
+ (Boustani et al., 2017; Sauer-Zavala et al., 2017; Martin et al.,
+ 2018) able to address stress and traumatic events including con-
+ flict and deprivation, and common comorbidities - depression,
+ anxiety, violence, suicide, and substance use. Use of a more lim-
+ ited transdiagnostic approach such as Problem Management Plus
+ (PM+) (which does not include a direct focus on traumatic stress
+ symptoms) was therefore not considered appropriate for this type
+ population (Dawson et al., 2015).
+ To date we have tested CETA in Africa, southeast Asia, South
+ America, and the Middle East. While Ukraine is culturally part of
+ Europe where similar interventions have been tested, the combin-
+ ation of differences between eastern and western Europe, the
+ strong historical legacy of the former Soviet Union, and the dearth
+ of effectiveness studies of Mental Health and Psychosocial
+ Support (MHPSS) interventions in the former Soviet region sug-
+ gested a need for local testing.
+ 
+<section> That standard CETA had a greater impact on symptom reduc-
+ tion compared with brief CETA could suggest a dose response
+ effect of more sessions or additional elements. The standard con-
+ dition allowed for more personalization and time to address mul-
+ tiple problems. It also provides more contact with the provider.
+ Other possibilities include contextual and population-based fac-
+ tors. Throughout the trial, many participants or their family
+ and friends were traveling to the Russian front, re-living battles,
+ hearing about them, and experiencing stresses related to conflict
+ (e.g. losing loved ones, losing homes). This ongoing context
+ may require longer treatment. It would be interesting to evaluate
+ a shorter version of CETA in a less traumatic or stressful context,
+ or perhaps with a population that presented with milder
+ symptomatology.
+ Many study participants in the brief CETA condition were
+ unhappy about ending treatment, as were CETA providers, if
+ they thought a participant needed more treatment. This could
+ be partly due to cultural expectations of therapy being longer
+ and needing to be longer. To a lesser degree, some study partici-
+ pants and CETA providers were unhappy about being ‘forced’ to
+ continue with treatment after their symptoms greatly reduced.
+ Participants in both standard and brief CETA reported signifi-
+ cant and similar effects on function compared to waitlist controls.
+ This suggests that CETA may have improved function through
+ mechanisms other than symptom reduction and independently
+ of CETA duration. Perhaps a connection to a counselor and/or
+ the presence of certain elements were important to improving
+ function but not the dose of elements.
+ 
+<section> Limitations
+ 
+<section> Missing participant follow-up assessments were a significant limi-
+ tation of the trial. The originally trial analysis plan expected that
+ CETA participants would attend treatment sessions weekly and
+ that monthly data collection would occur after every fourth treat-
+ ment visit. Often treatment visits did not happen every week and
+ so the duration between data collection points was not consistent
+ across CETA participants and some CETA participant remained
+ in treatment for more than 6 months. This rendered the results
+ of our original analysis plan as suggestive only, in that many of
+ the planned monthly assessments for standard CETA occurred
+ while treatment was being provided, rather than some being com-
+ pleted during treatment and some after treatment completion.
+ Some of the reasons treatment completion was delayed included
+ lengthy breaks and holidays, trips back to the conflict areas, chan-
+ ging living area, and/or successful employment that resulted in
+ lack of time for attending sessions. These delays and dropouts
+ produced a reduced sample of follow up data biased towards
+ those participants who were more invested and compliant with
+ treatment. For this reason, we added a pre-post analysis that
+ allowed us to include a less biased sample, although missing
+ data were still a limitation. These challenges were greater in this
+ study than in previous trials in other global regions, partly due
+ to local cultural (e.g. long holiday periods), and situational vari-
+ ables (e.g. ongoing conflict).
+ Causes of missed sessions and missed assessments among all
+ participants were: (a) IDPs tended to move during the trial and
+ to leave no means of further contact, and (b) participants often
+ changed phone numbers without explanation or providing new
+ numbers. Among the participants in the CETA conditions, add-
+ itional factors included, (a) dissatisfaction about being provided
+ with brief treatment (i.e. 4–5 sessions), and (b) annoyance at 
+<section> being contacted outside treatment. Continuing attempts of
+ Monitoring and Evaluation (M&E) staff to follow up with partici-
+ pants was understood as a culturally inappropriate imposition
+ and resulted in some participants rejecting all contacts with the
+ research team. To address these concerns: (a) a recruitment officer
+ reached out to family members and related peer groups and local
+ communities to obtain new contact information/phone numbers
+ of lost participants; (b) CETA counselors reached out to their
+ participants and asked them to complete assessment forms; and
+ (c) M&E staff asked participants who rejected participation in fol-
+ low up assessments to complete the monthly assessment form at
+ least once.
+ We had limited information on what treatments the waitlist
+ control participants accessed beyond reporting whether they con-
+ sulted a psychiatrist or psychologist in part due to a programming
+ error with our data collection system which did not ask for details
+ on the kind of help they received. For those participants who did
+ provide information on whether they had sought out mental
+ health services, we received only a few responses and almost no
+ descriptions. It appears that the engagement with mental health
+ services outside of CETA was very limited based on self-report.
+ Finally, while we provided substance use specific elements in
+ both brief and standard CETA, we were not able to complete
+ impact analyses on substance use outcomes due to an error in
+ programming the data collection software. This error resulted in
+ a lack of consistency in data collection on the substance use out-
+ comes limiting the reliability of the data we do have. Therefore,
+ those results are not reported.
+ 
+<section> Conclusions
+ 
+<section> This study constitutes the first trial in Ukraine, and in the former
+ Soviet region, of a community-based approach for common mental
+ health problems. Despite study and program challenges, we found
+ that standard CETA is more effective for reducing symptoms of
+ common mental health problems than brief CETA, but brief
+ CETA also had significant effects compared with waitlist controls.
+ Both versions of CETA had a similar effect on function. Based on
+ these results, the standard CETA model is preferred because it
+ includes the full range of treatment elements and can be more
+ appropriately tailored to the needs of each client. Brief CETA can
+ be considered a reasonable option where the standard model is
+ not possible due to logistical constraints, such as with highly mobile
+ populations. Given the concerns of providers and participants that
+ treatment was sometimes too long or too short, we recommend
+ that CETA not be confined to ‘standard’ or ‘Short’. Rather, the
+ end of treatment should be determined by the provider in consult-
+ ation with the participant, based on improved symptoms, mastery
+ of skills, and/or participant desires. As a modular approach that is
+ designed to vary with client needs, CETA is suitable for such var-
+ iations in duration. Future research should utilize implementation
+ science designs to evaluate the uptake, effectiveness, and acceptabil-
+ ity and cost of CETA of varying length in this way.
+ This study, building on the evidence from CETA trials, sug-
+ gests that CETA should be expanded within Ukraine. With the
+ advent of the coronavirus disease 2019 (COVID-19) pandemic
+ we have developed distance-based tools and training materials
+ for CETA, and have trained local providers who are now fully
+ capable of acting as local trainers. These will result in capacity
+ to conduct training, supervision, and service provision by internet
+ and phone. This increased capacity will allow for expanding pro-
+ gram reach throughout Ukraine, including to rural areas and
+ border areas with ongoing instability, most of which currently
+ have no mental health service access.
+ 
+<section> Supplementary material. The supplementary material for this article can
+ be found at https://doi.org/10.1017/gmh.2021.27.
+ 
+<section> Acknowledgements. The authors acknowledge the contribution of CETA
+ trainer Laura Merchant and the local CETA trainer team; Tatiana
+ Rastrigina, senior project manager specialist at USAID Ukraine for her
+ unflinching support and encouragement. We would also like to thank to
+ Kyiv and Zaporizhya state social services for ongoing support in recruitment
+ of study participants.
+ 
+<section> Financial support. This work was supported by the USAID Victims of
+ Torture Fund (contract number AID-OAA-LA-15-00003).
+ 
+<section> Conflicts of interest. None.
+ 
+<section> Ethical standards. The authors assert that all procedures contributing to
+ this work comply with the ethical standards of the relevant national and insti-
+ tutional committees on human experimentation and with the Helsinki
+ Declaration of 1975, as revised in 2008.
+ 
+<section> References
+ 
+<section> Applied Mental Health Research Group Johns Hopkins University (2013)
+ Design, implementation, monitoring, and evaluation of mental health and
+ psychosocial assistance programs for trauma survivors in low resources
+ countries: a users manual for researchers and program implementers
+ (adult version). Johns Hopkins University. Available at https://www.jhsph.
+ edu/research/centers-and-institutes/global-mental-health/resource-materials/
+ design-implementation-monitoring-and-evaluation-dime/ (Accessed 3 February
+ 2021).
+ 
+<section> Azur MJ, Stuart EA, Frangakis C, and Leaf PJ (2011) Multiple imputation by
+ chained equations: what is it and how does it work? International Journal of
+ Methods in Psychiatric Research 20, 40–49.
+ 
+<section> Bolton P, Lee C, Haroz E, Murray L, Dorsey S, Robinson C, Ugueto A, and
+ 
+<section> Bass J (2014) A transdiagnostic community-based mental health treatment
+ for comorbid disorders: development and outcomes of a randomized con-
+ trolled trial among Burmese refugees in Thailand. PLoS Medicine 11,
+ e1001757.
+ 
+<section> Bonilla-Escobar FJ, Fandiño-Losada A, Martínez-Buitrago DM,
+ Santaella-Tenorio J, Tobón-García D, Muñoz-Morales EJ, Escobar-
+ Roldán ID, Babcock L, Duarte-Davidson E, Bass JK, Murray LK,
+ Dorsey S, Gutierrez-Martinez MI, and Bolton P (2018) A randomized
+ controlled trial of a transdiagnostic cognitive-behavioral intervention for
+ Afro-descendants’ survivors of systemic violence in Colombia. PLoS ONE
+ 
+<section> 13, e0208483.
+ 
+<section> Boustani MM, Gellatly R, Westman JG, and Chorpita BF (2017) Advances
+ in cognitive behavioral treatment design: time for a glossary. The Behavior
+ Therapist 40, 199–208.
+ 
+<section> Castillo EG, Ijadi-Maghsoodi R, Shadravan S, Moore E, Mensah 3rd MO,
+ Docherty M, Aguilera Nunez MG, Barcelo N, Goodsmith N, Halpin LE,
+ Morton I, Mango J, Montero AE, Rahmanian Koushkaki S, Bromley E,
+ Chung B, Jones F, Gabrielian S, Gelberg L, Greenberg JM, Kalofonos I,
+ Kataoka SH, Miranda J, Pincus HA, Zima BT, and Wells KB (2019).
+ Community interventions to promote mental health and social equity,
+ Current Psychiatry Reports. 21, 35–35.
+ 
+<section> Chibanda D, Cowan FM, Healy JL, Abas M, and Lund C (2015)
+ Psychological interventions for common mental disorders for people living
+ with HIV in low- and middle-income countries: systematic review. Tropical
+ Medicine & International Health 20, 830–839.
+ 
+<section> Dawson KS, Bryant RA, Harper M, Kuowei Tay A, Rahman A, Schafer A,
+ and van Ommeren M (2015) Problem management Plus (PM+): a WHO
+ transdiagnostic psychological intervention for common mental health pro-
+ blems. World Psychiatry 14, 354–357.
+ 
+<section> Doty S, Haroz E, Singh N, Bogdanov S, Bass J, Murray L, Callaway K, and
+ 
+<section> Bolton P (2018) Adaptation and testing of an assessment for mental health 
+<section> and alcohol use problems among conflict-affected adults in Ukraine.
+ 
+<section> Conflict and Health 12,
+ Hayes A, Hope DA, and Hayes S (2007a) Towards an understanding of the
+ process and mechanisms of change in cognitive behavioral therapy: linking
+ innovative methodology with fundamental questions. Clinical Psychology
+ Review 27, 679–681.
+ 
+<section> Hayes AM, Laurenceau J-P, Feldman G, Strauss JL, and Cardaciotto L (2007b)
+ 
+<section> Change is not always linear: the study of nonlinear and discontinuous patterns
+ of change in psychotherapy. Clinical Psychology Review 27, 715–723.
+ 
+<section> Huebner RB, and Tonigan JS (2007) The search for mechanisms of behavior
+ change in evidence-based behavioral treatments for alcohol use disorders:
+ overview. Alcoholism: Clinical and Experimental Research 31, 1s–3s.
+ 
+<section> Insel TR (2009) Translating scientific opportunity into public health impact: a
+ strategic plan for research on mental illness. Archives of General Psychiatry
+ 
+<section> 66, 128–133.
+ 
+<section> Kohn R, Saxena S, Levav I, and Saraceno B (2004) The treatment gap in
+ mental health care. Bulletin of the World Health Organization 82, 858–866.
+ 
+<section> Martin P, Murray LK, Darnell D, and Dorsey S (2018) Transdiagnostic treat-
+ ment approaches for greater public health impact: implementing principles
+ of evidence-based mental health interventions. Clinical Psychology: Science
+ and Practice 25, e12270.
+ 
+<section> Murray LK, Dorsey S, Bolton P, Jordans MJ, Rahman A, Bass J, and Verdeli H
+ (2011) Building capacity in mental health interventions in low resource coun-
+ tries: an apprenticeship model for training local providers. International
+ 
+<section> Journal of Mental Health Systems 5,
+ Murray LK, Dorsey S, Haroz E, Lee C, Alsiary MM, Haydary A, Weiss WM,
+ 
+<section> and Bolton P (2014a) A common elements treatment approach for adult
+ mental health problems in low- and middle-income countries. Cognitive
+ and behavioral practice 21, 111–123.
+ 
+<section> Murray LK, Skavenski S, Bass J, Wilcox H, Bolton P, Imasiku M, and
+ 
+<section> Mayeya J (2014b) Implementing evidence-based mental health care in low-
+ resource settings: a focus on safety planning procedures. Journal of
+ Cognitive Psychotherapy 28, 168–185. doi: 10.1891/0889-8391.28.3.168
+ 
+<section> Murray L, Haroz E, Doty S, Singh N, Bogdanov S, Bass J, Dorsey S, and
+ 
+<section> Bolton P (2018a) Testing the effectiveness and implementation of a brief
+ version of the common elements treatment approach (CETA) in Ukraine:
+ a study protocol for a randomized controlled trial. Trials 19,
+ Murray LK, Hall BJ, Dorsey S, Ugueto AM, Puffer ES, Sim A, Ismael A,
+ Bass J, Akiba C, Lucid L, Harrison J, Erikson A, and Bolton PA
+ (2018b) An evaluation of a common elements treatment approach for
+ youth in Somali refugee camps. Global Mental Health 5, e16–e16.
+ 
+<section> Murray LK, Kane JC, Glass N, Skavenski van Wyk S, Melendez F, Paul R,
+ Kmett Danielson C, Murray SM, Mayeya J, Simenda F, and Bolton P
+ (2020) Effectiveness of the common elements treatment approach (CETA)
+ in reducing intimate partner violence and hazardous alcohol use in Zambia
+ (VATU): a randomized controlled trial. PLOS Medicine 17, e1003056.
+ 
+<section> Patel V, Saxena S, Lund C, Thornicroft G, Baingana F, Bolton P, Chisholm D,
+ Collins PY, Cooper JL, Eaton J, Herrman H, Herzallah MM, Huang Y,
+ Jordans MJD, Kleinman A, Medina-Mora ME, Morgan E, Niaz U,
+ Omigbodun O, Prince M, Rahman A, Saraceno B, Sarkar BK, De Silva M,
+ Singh I, Stein DJ, Sunkel C, and UnÜtzer J (2018) The lancet commission on
+ global mental health and sustainable development. The Lancet 392, 1553–1598.
+ 
+<section> Purgato M, Gastaldon C, Papola D, van Ommeren M, Barbui C, and Tol W
+ (2018) Psychological therapies for the treatment of mental disorders in low-
+ and middle-income countries affected by humanitarian crises. Cochrane
+ Database of Systematic Reviews 7. doi: 10.1002/14651858.CD011849.pub2
+ 
+<section> Ramachandran A, Makhashvili N, Javakhishvili J, Karachevskyy A, Kharchenko
+ N, Shpiker M, Ezard N, Fuhr DC, and Roberts B (2019) Alcohol use among
+ conflict-affected persons in Ukraine: risk factors, coping and access to mental
+ health services. European Journal of Public Health 29, 1141–1146.
+ 
+<section> Roberts B, Makhashvili N, Javakhishvili J, Karachevskyy A, Kharchenko N,
+ Shpiker M, and Richardson E (2019) Mental health care utilisation among
+ internally displaced persons in Ukraine: results from a nation-wide survey.
+ 
+<section> Epidemiology and Psychiatric Sciences 28, 100–111.
+ 
+<section> Romaniuk P, and Semigina T (2018) Ukrainian Health care system and its
+ chances for successful transition from Soviet legacies. Globalization and
+ Health 14, 116–116.
+ 
+<section> Sauer-Zavala S, Gutner CA, Farchione TJ, Boettcher HT, Bullis JR, and
+ 
+<section> Barlow DH (2017) Current definitions of “transdiagnostic” in treatment
+ development: a search for consensus. Behavior Therapy 48, 128–138.
+ 
+<section> Singh N, Bogdanov S, Murray L, Bass J, Haroz E, Doty S, and Bolton P
+ (2021) Experiences of Mental Health and Functioning among conflict
+ affected populations: A qualitative study with military veterans and dis-
+ placed persons in Ukraine.
+ 
+<section> Skokauskas N, Chonia E, van Voren R, Delespaul P, Germanavicius A,
+ Keukens R, Pinchuk I, Schulze M, Koutsenok I, Herrman H, Javed A,
+ Sartorius N, and Thornicroft G (2020) Ukrainian mental health services
+ and world psychiatric association expert committee recommendations.
+ 
+<section> The Lancet. Psychiatry 7, 738–740.
+ 
+<section> Stata Statistical Software (2017) College Station: TX: StataCorp LLC.
+ 
+<section> Thornicroft G (2007) Most people with mental illness are not treated’. The
+ Lancet. Elsevier 370, 807–808.
+ 
+<section> Thornicroft G, Deb T, and Henderson C (2016) Community mental health
+ care worldwide: current status and further developments. World
+ 
+<section> Psychiatry: Official Journal of the World Psychiatric Association (WPA)
+ 
+<section> 15, 276–286.
+ 
+<section> Trusova AV (2015) Motivational interviewing as a part of complex treatment
+ of alcohol dependence: experience of use and evaluation of effectiveness.
+ 
+<section> Bekhterev Review of Psychiatry and Medical Psychology 4, 100–108.
+ 
+<section> Tukaev R, and Kuznetsov V (2015) Cognitively oriented therapy in anxiety
+ disorders: evaluation in a controlled trial. Social and Clinical Psychiatry
+ 
+<section> 25, 55–64.
+ 
+<section> United Nations Office for the Coordination of Humanitarian Affairs (2020)
+ 
+<section> Ukraine: 2020 Humanitarian Needs Overview (HNO). Humanitarian
+ Needs Overview. Ukraine: United Nations Office for the Coordination of
+ Humanitarian Affairs. Available at https://www.humanitarianresponse.
+ info/sites/www.humanitarianresponse.info/files/documents/files/ukraine_2020_
+ humanitarian_needs_overview_en.pdf (Accessed 3 February 2021).
+ 
+<section> Voloshyn P, and Maruta N (2015) The Strategy of Mental Health Care of the
+ population of Ukraine: contemporary opportunities and obstacles,
+ 
+<section> Weiss WM, Murray LK, Zangana GAS, Mahmooth Z, Kaysen D, Dorsey S,
+ Lindgren K, Gross A, Murray SM, Bass JK, and Bolton P (2015)
+ Community-based mental health treatments for survivors of torture and mili-
+ tant attacks in Southern Iraq: a randomized control trial. BMC Psychiatry 15,
+ 
+<section> Weissbecker I, Khan O, Kondakova N, Poole L, and Cohen J (2017) Mental
+ health in transition: assessment and guidance for strengthening integration
+ of mental health into primary health care and community-based service
+ platforms in Ukraine. Global Mental Health Initiative. Washington, D.C.:
+ World Bank Group. Available at http://documents.worldbank.org/curated/
+ en/310711509516280173/pdf/120767-WP-Revised-WBGUkraineMental
+ HealthFINALwebvpdfnov.pdf (Accessed 3 February 2021).
+ 
+<section> World Health Organization (2017) Scalable psychological interventions for
+ people in communities affected by adversity: a new area of mental health
+ and psychosocial work at WHO. Geneva. Available at https://apps.who.
+ int/iris/handle/10665/254581 (Accessed 3 February 2021).

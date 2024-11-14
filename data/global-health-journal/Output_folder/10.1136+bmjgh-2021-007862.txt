@@ -1,0 +1,1346 @@
+
+<section> The effects of text reminders
+ 
+<section> of family planning services:
+ 
+<section> from a randomised controlled
+ 
+<section> urban Mozambique
+ 
+<section> Jessica Leight , 1 Catherine Hensly, 2 Marcos
+ Domingos Dustan, 3 Julian Jamison
+ 
+<section> To cite: Leight J, Hensly C, ABSTRACT
+ 
+<section> Chissano M, et al. The effects Introduction Reduction of unmet need for contraception
+ of text reminders on the use is associated with enhanced health outcomes. We
+ of family planning services: conducted a randomised controlled trial in Mozambique
+ 
+<section> evidence from a randomised
+ analysing the effects of text messages encouraging use of
+ 
+<section> controlled trial in urban
+ Mozambique. BMJ Global Health family planning services.
+ 2022;7:e007862. doi:10.1136/ Methods This trial was conducted within a sample of
+ bmjgh-2021-007862 women served by the Integrated Family Planning Program
+ implemented by Population Services International, in
+ 
+<section> Handling editor Soumitra S which community health workers provide clinic referrals
+ Bhuyan for family planning services. The evaluation enrolled 5370
+ women between 20 January and 18 December 2020 who
+ 
+<section> ► Additional supplemental received a referral, reported access to a mobile phone and
+ material is published online only.
+ provided consent. Women were randomly assigned to a
+ 
+<section> To view, please visit the journal
+ online (http://​dx. d oi.​org/​10.​ treatment group that received a series of text message
+ 1136/ b mjgh-​2021- 07862). reminders encouraging them to visit a clinic or to a control
+ arm. An intention-­to-­treat analysis was conducted to
+ analyse the effect of reminders on the probability of a clinic
+ Received 1 November 2021 visit and contraceptive uptake. The final analysis includes
+ Accepted 5 April 2022 3623 women; 1747 women were lost to follow-­up.
+ 
+<section> Results Women assigned to receive the text reminders
+ are weakly more likely to visit a clinic (risk difference 2.3
+ percentage points, p=0.081) and to receive a contraceptive
+ method at a clinic (2.2 percentage points, p=0.091),
+ relative to a base rate of 48.0% and 46.9%, respectively.
+ The effect on clinic visits is larger and statistically
+ significant in the prespecified subsample of women
+ enrolled prior to the COVID-­19-­related state of emergency
+ (3.2 percentage points, p=0.042).
+ 
+<section> Conclusion Evidence from this trial suggests that text
+ message reminders are a promising nudge that increases
+ the probability that women receive contraception.
+ 
+<section> Trial registration number AEARCTR-­0005383.
+ 
+<section> © Author(s) (or their
+ employer(s)) 2022. Re-­use INTRODUCTION
+ 
+<section> permitted under CC BY-­NC. No
+ commercial re-­use. See rights Worldwide, an estimated 10% of women
+ and permissions. Published by of reproductive age are characterised by an
+ 
+<section> BMJ. unmet need for family planning—defined
+ For numbered affiliations see as women who want to stop or delay child-
+ 
+<section> end of article. bearing but are not using any method of
+ contraception—including 17% of women
+ 
+<section> Correspondence to
+ Dr Jessica Leight; in sub-­Saharan Africa. 1 Access to and use of
+ 
+<section> ​j.​leight@ c giar.​org modern contraception has substantial health
+ 
+<section> on the use
+ 
+<section> evidence
+ 
+<section> trial in
+ 
+<section> Chissano, 3 Elana Safran, 4 Liza Ali,
+ 
+<section> WHAT IS ALREADY KNOWN ON THIS TOPIC
+ 
+<section> ⇒ Text message reminders can be a valuable strate-
+ gy to encourage uptake of health services in low-­
+ income and middle-­income countries.
+ 
+<section> ⇒ However, there is relatively limited evidence about
+ the effect of such reminders on use of reproductive
+ health and family planning.
+ 
+<section> WHAT THIS STUDY ADDS
+ 
+<section> ⇒ A series of text message reminders sent over a
+ month to women who had received referrals to pub-
+ lic clinics for contraceptive services in Mozambique
+ increased the probability that women visited clin-
+ ics and received contraception, especially prior to
+ COVID-­19-­related lockdowns.
+ 
+<section> ⇒ The effects were concentrated among women under
+ 25 who may be more digitally engaged.
+ 
+<section> HOW THIS STUDY MIGHT AFFECT RESEARCH,
+ 
+<section> PRACTICE AND/OR POLICY
+ 
+<section> ⇒ Text message reminders can be used to encourage
+ uptake of reproductive health services for popula-
+ tions who have access to cellular phones and other
+ electronic messaging.
+ 
+<section> benefits, enhancing birth spacing and thus
+ reducing maternal and neonatal mortality
+ and morbidity. 2–4 There is also evidence of
+ economic benefits in terms of higher earn-
+ ings for women and enhanced educational
+ outcomes for children. 5 Accordingly, high
+ levels of unmet need in low- and middle-­
+ income countries (LMICs) can have mean-
+ ingful consequences for welfare. While access
+ to family planning has been increasing,
+ progress has been slow in some regions,
+ particularly in sub-­Saharan Africa.
+ Ensuring universal access to sexual and
+ reproductive healthcare is identified as one
+ of the Sustainable Development Goals, 7 and
+ in Mozambique, the site of this evaluation,
+ a commitment to the Family Planning 2020 
+<section> global partnership was made in 2012 with the objective
+ of accelerating progress towards family planning goals.
+ Despite this commitment, unmet need remains high:
+ national unmet need for modern family planning method
+ in Mozambique was estimated as 23% in 2015. 9 Among
+ adolescent girls aged 15–19, a total of 46% are pregnant
+ for the first time or already have one child, and in this
+ group, only 14% are using any contraception method.
+ Given these persistent challenges around access to
+ contraception, researchers and policymakers have
+ identified potential barriers informed by behavioural
+ science for women who have unmet need for family plan-
+ ning or have not accessed their preferred method. For
+ example, limited attention and present bias may prevent
+ women from taking short-­term steps to use a contracep-
+ tion method despite their long-­ term family planning
+ goals. ‘Nudges’ designed to address these barriers have
+ potential to be integrated into family planning policies
+ and programming. The evidence around the effects of
+ nudges on health-­related outcomes is substantial 10 11 but
+ derived primarily from high-­income countries, and there
+ is relatively limited literature from LMICs.
+ More specifically, one popular nudge is reminders or
+ other information delivered by text message or mobile
+ phone applications. Existing reviews of mobile health
+ (mHealth) interventions in LMICS have noted there
+ is no consistent evidence that these interventions lead
+ to behaviour change, 12 and highlighted that many
+ published papers do not provide any evidence on health
+ outcomes. 13–15 In family planning specifically, a number
+ of published studies evaluate the effects of short message
+ service (SMS) or rapid message interventions, but report
+ only effects on variables such as contraceptive knowledge
+ or attitudes. These evaluations do not measure or do not
+ find any evidence of shifts in behaviours such as contra-
+ ceptive use. 16–20 Accordingly, a broader evidence base is
+ needed.
+ This paper reports on a randomised controlled trial
+ conducted in the context of a large community health
+ worker programme in urban and periurban Mozambique
+ led by Population Services International (PSI). A series
+ of text message reminders was designed to encourage
+ women who had received a referral from a community
+ health worker to visit a health clinic for a family plan-
+ ning consultation. The objective of the trial was to eval-
+ uate the effect of these text reminders on the probability
+ of a clinic visit as well as the probability of contraceptive
+ uptake.
+ 
+<section> METHODS
+ Trial design and participants
+ This two-­arm, parallel randomised controlled trial was
+ conducted between January 2020 and January 2021 in
+ urban and periurban areas of two provinces in Mozam-
+ bique, Nampula (including Nampula city, Angoche,
+ Ilha de Mocambique, Murrupula and Nacala Porto) and
+ Sofala (including Beira and Dondo). The trial was jointly
+ conducted by PSI and researchers based at the Office of
+ Evaluation Sciences in the US General Services Admin-
+ istration and the International Food Policy Research
+ Institute. The trial protocol and Consolidated Standards
+ of Reporting Trials checklist are available as supporting
+ information (online supplemental material S1, S2).
+ The target sample for the study was women of repro-
+ ductive age served by community health workers in the
+ Integrated Family Planning Program (IFPP). PSI deliv-
+ ered IFPP services in the provinces of interest, deploying
+ community health workers (known as promoters) who
+ offered women information about family planning
+ in visits to homes or neighbourhoods in their service
+ area. Visits focused on providing information about
+ family planning and addressing common myths, and
+ did not entail the direct provision of any family plan-
+ ning methods; rather, promoters provided women who
+ voluntarily expressed demand for family planning with
+ referrals to public health facilities, where family planning
+ counselling from a nurse and contraceptive methods
+ are available at no cost. Promoters also conducted up to
+ three follow-­up visits with women as needed, to provide
+ more information or address concerns about side effects
+ of a method obtained. PSI recruited around 100—120
+ promoters in the target regions, organised into teams of
+ around five promoters each working with a single super-
+ visor. Promoters conducted around 13–15 visits per day
+ on average and were compensated per visit conducted
+ and for each woman referred who visited a clinic.
+ In addition, promoters recorded information about
+ each visit and the woman who participated in PSI’s
+ mobile application, Connecting with Sarah (CwS). PSI
+ and public nurses in local health clinics used the same
+ mobile application to record when women presented a
+ referral for family planning counselling, and to record if
+ a contraceptive method was provided.
+ The following eligibility criteria were specified for
+ enrolment in the trial. Women 18 or older were eligible
+ if they were visited by a promoter and received a referral
+ to a health facility for further services, provided a phone
+ number, and provided written consent for inclusion in
+ the evaluation. Enrolment commenced on 20 January
+ 2020 and was suspended on 4 April 2020 due to the state
+ of emergency (SOE) declared in Mozambique as a result
+ of the COVID-­19 pandemic. Enrolment then resumed
+ on 1 October 2020, concluding on 18 December 2020.
+ The target sample size was specified to be 5000 women
+ enrolled; given this sample size, the trial could detect an
+ increase in the probability of a clinic visit of 4 percentage
+ points. The trial ultimately closed following a shorter
+ enrolment period due to COVID-­19 disruptions, and the
+ timing of enrolment closure was dictated by the timeline
+ for broader programme conclusion.
+ The two provinces included in this evaluation, Nampula
+ and Sofala, are highlighted in figure 1. Demographic
+ data from the 2015 AIDS Indicator Survey conducted by
+ the Demographic and Health Surveys programme can be
+ used to characterise the sample. In Sofala, 26% of urban 
+<insert> Figure 1 Trial sites. 
+<iend>
+
+ adults surveyed report no education and 43% report
+ primary education, while in Nampula, the corresponding
+ figures are 36% and 41%. Nationwide in Mozambique,
+ 35% of urban adults report no education, and 48% report
+ primary education. Socioeconomic indicators are gener-
+ ally higher in Sofala, where 82% of urban adult residents
+ surveyed report access to electricity, and around 70%
+ report their residences have cement walls and cement
+ floors; in Nampula, 64% of urban adults report access
+ to electricity at home; 46% have cement floors; and 35%
+ have cement walls. Nationwide in Mozambique, 38%
+ report access to electricity; 40% have cement floors; and
+ 30% have cement walls.
+ 
+<section> Randomisation and masking
+ Eligible women enrolled in the evaluation had their
+ consent forms verified by trial staff, and the sample was
+ then aggregated across the two study provinces. Women
+ were randomly assigned to the treatment or control arm
+ using the phone number provided on their consent
+ form. Randomisation was conducted at least twice weekly
+ by PSI staff in Maputo in Stata V.14 using a reproducible
+ seed, employing stratification at the level of the promoter
+ supervisor. On average, randomisation was conducted
+ days following the provision of consent. (Given that only
+ two provinces are included in the evaluation, randomisa-
+ tion at the province level was infeasible.)
+ The intended allocation ratio of participants to the
+ treatment and control arm was 1:1. When the study was
+ launched, the randomisation code had an unintentional
+ error that slightly increased the probability of assigning
+ women to treatment: if the number of women in a partic-
+ ular strata (defined by supervisor identity on a given
+ randomisation day) was odd, the final observation was
+ uniformly assigned to treatment. (The identity of the
+ final observation was, however, determined randomly
+ via assignment of random numbers.) This error was
+ corrected as of 28 February 2020.
+ Given the nature of the intervention, it was not possible
+ to mask participants assigned to the treatment arm to
+ their assignment. However, participants assigned to the
+ control arm may have been blind to their assignment.
+ Promoters and health staff at the health facilities were
+ blind to study group assignment.
+ 
+<section> Intervention design
+ The intervention of interest was a series of short text
+ message reminders designed to encourage take-­ up of
+ health facility visits for family planning counselling by
+ women who had been provided referrals by promoters.
+ The messages were developed by the research and imple-
+ mentation teams with the objective of providing women
+ with targeted, brief reminders about the importance
+ of family planning; the opportunity to visit the health
+ facility; and the opportunity to follow-­ up with their
+ promoter, as needed. The text of the reminders can
+ be found in table 1 in English; in the trial, all messages
+ were in Portuguese. To maintain an appropriate level of
+ confidentiality, the messages refer to family planning but
+ also use more general terms such as health, hospital and
+ promoter.
+ Table 1 also describes message timing as follows: on
+ the same day as randomisation, women assigned to the
+ treatment arm were registered by the vendor (SISLOG)
+ who was responsible for delivering the text messages.
+ Message timing is defined relative to this registration
+ date. (On average, the time elapsed between the date
+ of promoter visit and the randomisation and the regis-
+ tration date was 5 days, the time required to verify and
+ aggregate the sample of women providing consent across
+ all promoters.) Messages were sent on the first and fourth
+ days following registration, and then 1, 2, 3 and 4 weeks
+ following the first message.
+ Women who received the messages were of course free
+ to share information received with members of their
+ social networks, and this may have included women
+ who were enrolled in the evaluation and assigned to the
+ control arm. Any such communication between treat-
+ ment and control beneficiaries would serve to reduce the
+ magnitude of the estimated treatment effect. 
+<insert> Time since registration
+ Message (since first message)
+ 1+2 1 day
+ 4 days (+3 days since first message)
+ 8 days (+1 week)
+ Content
+ Thank you
+ hospital today
+ Present your
+ appointment.
+ Have you been
+ again soon.
+ 17 days (+2 weeks) Next visit to
+ 7+8
+ 22 days (+3 weeks)
+ 29 days (+4 weeks)
+ Family planning
+ Talk to (activist)
+ taking part
+ Table 1 Text message reminder timings and content 
+<iend>
+
+ 
+<section> for
+ 
+<section> in
+ 
+<section> Data and outcomes
+ The data employed in this analysis were collected via a
+ mobile application, CwS, used by promoters and health
+ facility nurses. Following each promoter visit, promoters
+ used a PSI-­provided smartphone to access the CwS plat-
+ form and recorded information about the beneficiary
+ (age; current contraceptive use, if any; and access to a
+ mobile phone), and whether a referral was issued. The
+ data were uploaded at the conclusion of the visit and
+ were automatically stamped with the date, time and
+ global positioning system (GPS) coordinates. Similarly,
+ nurses or health staff at referring facilities used CwS to
+ record visits from women who visit for family planning
+ services with a referral, and the two records were linked
+ by a referral number. These facility records were also
+ time-­stamped and include information about the type
+ of contraceptive method provided (counselling only,
+ contraceptive pill, Depo-­Provera, Sayana Press, contra-
+ ceptive implant, intrauterine implant or other).
+ The analysis includes data from 20 January 2020, the
+ day on which enrolment was launched, until 31 January
+ 2021, 6 weeks following the last enrolment. Between
+ April and 1 October 2020, enrolment in the evaluation
+ was paused, but we still observe data from clinics in this
+ period and are thus able to identify if women who were
+ already enrolled in the evaluation visited a clinic. Our
+ data do not include any records of women’s receipt of
+ contraceptive methods in locations other than public
+ clinics (ie, pharmacies or private clinics). Also, should a
+ woman visit a public clinic and fail to provide her referral
+ information, she could still receive family planning
+ services at no cost, but this visit would not be recorded
+ in the CwS application and thus would not be visible in
+ our data. Data from the 2003 Demographic and Health
+ Survey (not reported in more recent survey rounds)
+ suggest that among women reporting use of modern
+ contraceptives, less than 5% report receipt from a private
+ clinic, nurse or pharmacy, suggesting that our data
+ presumably include the majority of contraceptive receipt
+ for this population.
+ The primary outcome of interest is a binary variable
+ for a clinic visit following promoter referral. Secondary
+ agreeing to participate in family planning research. Go to the
+ for your planning appointment.
+ password at the hospital and receive a health/family planning
+ to your planning appointment yet? The activist will visit
+ hospital, invite a friend to receive family planning services.
+ allows women to better plan their family.
+ if you have questions about your health. Thank you for
+ family planning research.
+ 
+<section> outcomes of interest include a binary variable for contra-
+ ceptive uptake at the clinic and a continuous variable
+ capturing the number of days between the promoter visit
+ and the woman’s visit to the clinic, conditional on the
+ observation of a clinic visit. There were no changes to
+ the primary outcomes following the commencement of
+ the trial.
+ For the variables corresponding with clinic visit and
+ contraceptive uptake, these variables are coded as one if
+ any facility activity is recorded on any day following the
+ woman’s promoter visit. Within a given randomisation
+ stratum, all women included were randomised into the
+ sample on the same day and visited by promoters within
+ the same approximately 3-­day period; accordingly, within
+ a randomisation strata, all are observed in the sample
+ for approximately the same period of time. There is,
+ however, variation across strata in how long women were
+ observed in the sample: women enrolled in the evaluation
+ in the first month were observed for roughly 10 months,
+ while women enrolled in the final month were observed
+ for 1 month. The inclusion of binary variables for strata
+ in the primary specification will adjust for this variation
+ across strata in the observable period. In addition, as a
+ robustness check, we define an additional variable equal
+ to clinic visit within 30 days, coded as one for all observa-
+ tions in which the respondent is observed visiting a clinic
+ within this time period.
+ The analysis also draws on administrative data from
+ SISLOG, a local text message vendor, allowing us to
+ report whether text messages were recorded as deliv-
+ ered or undelivered because the number was out of
+ service. (However, one of the three cell service compa-
+ nies in Mozambique did not provide this information to
+ SISLOG, and messages sent to customers of this company
+ would never be recorded as ‘delivered’; accordingly, the
+ estimated delivery rate can be considered to be a lower
+ bound.) We are not able to access any data reporting
+ whether a message was read.
+ 
+<section> Statistical analysis
+ The methods used in the statistical analysis were prespec-
+ ified in a registered analysis plan. 23 We estimate risk 
+<section> differences between the treatment and the control arms
+ using ordinary least squares in an intent-­to-­treat frame-
+ work. We use a linear model for ease of interpretation
+ and cluster the SEs with respect to the day of randomisa-
+ tion to account for potential correlation in the error term
+ for women who were visited by promoters and referred
+ to clinics in the same period. 25 We prespecified the esti-
+ mation of a model that adjusted for randomisation strata
+ (the interaction of randomisation day and a binary vari-
+ able for supervisor), age, province and distance to the
+ nearest health facility. Distance is estimated as the linear
+ distance employing the GPS coordinates associated with
+ the promoter visit conducted at home and the coordi-
+ nate of the closest health facility, and included as a series
+ of binary variables capturing deciles of distance to allow
+ for non-­linear effects.
+ The analysis plan also prespecified analysis of hetero-
+ geneity along a number of dimensions: beneficiary age,
+ contraceptive use at first meeting with the promoter, sole
+ ownership of phone, time elapsed between promoter visit
+ and randomisation, and distance to clinic. Following the
+ suspension of enrolment due to the COVID-­19-­related
+ SOE, the analysis plan was also updated to specify the
+ separate analysis of treatment effects in the pre-­SOE and
+ post-­SOE period.
+ In addition, we estimate a treatment on the treated
+ effect in a two-­stage least squares specification. In this
+ model, the independent variable is a binary variable
+ equal to 1 if the phone number reports receipt of all
+ eight reminder messages and 0 otherwise (and zero for
+ all phone numbers assigned to the control arm), and we
+ instrument for this variable with treatment assignment.
+ The model adjusts for the same covariates described in
+ the ITT model, and standard errors are again clustered
+ with respect to the day of the randomisation. This anal-
+ ysis was also prespecified.
+ In some cases, the same phone number was enrolled in
+ the evaluation more than once, or the same number was
+ enrolled and randomised once but was observed multiple
+ times in promoter data. This duplication could be accu-
+ rate (multiple women use the same phone) or could be
+ recorded in error. There are 201 cases in which a phone
+ number was enrolled more than once, and 531 cases in
+ which the phone number was observed more than once
+ in outcome data; there are 598 phone numbers charac-
+ terised by at least one form of duplication. Given this
+ pattern, all the variables in the primary specification are
+ converted to phone number-­level means: the dependent
+ variable (a binary variable for a clinic visit), the indepen-
+ dent variable capturing treatment assignment and all
+ covariates. The same procedure was used when a phone
+ number that was uniquely enrolled via the consent forms
+ matches to multiple observations of that number in the
+ CwS database, indicating the number was recorded for
+ separate visits to different women. Due to this procedure,
+ there is some continuous variation in both the treatment
+ and the dependent variables between 0 and 1, corre-
+ sponding to phone numbers that were partially treated:
+ some women who enrolled using this number were
+ assigned to treatment, and some women were assigned
+ to control. For example, if a phone number was enrolled
+ twice (listed on two separate consent forms) and was
+ randomised once to treatment and one to control, treat-
+ ment status for this phone number would be coded as
+ 0.5.
+ Intervention costs were also tracked and analysed as
+ part of this trial using a provider perspective. This cost
+ estimate includes the full cost of the contract with the
+ vendor who provided text message services, and an esti-
+ mate of staff and administrative costs required to design
+ and implement the intervention.
+ 
+<section> Role of the funding source
+ The funders of the study (United States Agency for Inter-
+ national Development) had no role in study design,
+ data collection, analysis, interpretation or writing of the
+ results. The corresponding author (JL) had full access to
+ all data in the study and the final responsibility for the
+ decision to submit for publication.
+ 
+<section> Patient and public involvement
+ During the design phase of this trial, interviews of women
+ served by IFPP as well as focus groups of promoters,
+ supervisors and PSI staff were convened in order to
+ provide feedback about the challenges faced by women
+ in accessing contraception, and by promoters in serving
+ them. In addition, PSI staff shared sample messages
+ with programme beneficiaries in focus groups to ensure
+ clarity and relevance of the text messages and made
+ adjustments based on participant feedback. An author
+ reflexivity statement is attached (online supplemental
+ material S3).
+ 
+<section> RESULTS
+ 
+<section> Figure 2 depicts the trial profile. During the period of
+ enrolment, 110 200 women were visited by PSI promoters
+ and assessed for eligibility; 41 642 women received refer-
+ rals to health facilities. This sample receiving referrals was
+ screened for inclusion in the trial, and 13 586 women met
+ the primary criteria (provided a mobile phone number).
+ A total of 5370 women provided written consent and
+ were enrolled in the evaluation. There was some dupli-
+ cation of phone numbers across enrolled women; some
+ women were registered by the text message vendor using
+ the same phone number, either accurately (because
+ two women in the sample share a number) or in error.
+ Accordingly, 5169 unique phone numbers were enrolled:
+ there were 170 numbers that were registered twice,
+ numbers that were registered three times and 1 number
+ that was registered four times. Within the sample, 2728
+ enrolled women were randomly assigned to treatment,
+ and 2642 enrolled women were randomised to control.
+ The phone numbers recorded on consent forms were
+ matched to the phone numbers available in the CwS
+ database. Only 3623 enrolled women could be matched
+ with an administrative record of their promoter and (if 
+<section> Figure 2 Trial profile.
+ 
+<section> applicable) clinic visits, corresponding to 3468 unique
+ phone numbers. This results in 1747 women with
+ written consent who were lost to follow-­up or 32.5% of
+ the sample: 906 or 33.2% assigned to the treatment arm
+ and 841 or 31.8% assigned to the control arm, a differ-
+ ence that is not statistically significant (p=0.281). Women
+ who were lost to follow-­up are missing outcome data and
+ summary data on covariates, as all CwS data are linked to
+ the phone number.
+ We present characteristics of the study sample in
+ table 2 for the full sample and the sample enrolled both
+ pre-­SOE and post-­SOE. We also report summary statistics
+ for the sample observed in treatment and control arms.
+ The average age of women enrolled in the sample is 25.7
+ years. Distance to facility is low on average (less than
+ four kilometres), though this is higher pre-­SOE (5.02
+ kilometers) than post-­ SOE (2.63 kilometers). Within
+ the sample, 69.6% report they are the sole owner of the
+ phone number they have provided. Among the women,
+ 30.9% report they are currently using contraception on
+ their first interaction with the promoter, and this proba-
+ bility is dramatically higher pre-­SOE (44.0%) compared
+ with post-­SOE (20.9%). We also report the p value corre-
+ sponding to a χ 2 test of the joint hypothesis that these
+ covariates are balanced across treatment and control
+ arms; this hypothesis cannot be rejected (p=0.903).
+ Considering the outcome variables of interest, the
+ probability of a clinic visit following a referral is around
+ 48% on average, slightly lower pre-­ SOE (43.7%)
+ compared with post-­SOE (51.3%). The probability of a
+ clinic visit within a month of the promoter’s visit is 44.7%.
+ The (unconditional) probability of contraceptive receipt 
+<insert> Age
+ (cont.)
+ All Pre-­SOE Post-­SOE
+ Assigned to
+ Assigned to control treatment
+ 25.652 (3468) 25.338 (1502) 25.891 (1966) 25.671 (1679) 25.634 (1789)
+ Distance to facility (cont.) 3.661 (3468) 5.018 (1502) 2.625 (1966) 3.580 (1679) 3.738 (1789)
+ Sole phone owner
+ (binary)
+ 69.6% (2289/3468) 67.2% (965/1502) 71.4% (1324/1966) 70.5% (965/1502) 68.7% (1324/1966)
+ Current user of contraception
+ (binary)
+ 30.9% (843/3468) 44.0% (583/1502) 20.9% (260/1966) 29.7% (583/1502) 32.0% (260/1966)
+ Joint χ 2 test of balance across
+ covariates
+ p=0.903
+ Probability of clinic visit
+ (binary)
+ 48.0% (1547/3468) 43.7% (607/1502) 51.3% (940/1966) 47.4% (607/1502) 48.6% (940/1966)
+ Probability of clinic visit within
+ month (binary)
+ 44.7% (1441/3468) 41.1% (573/1502) 47.5% (868/1966) 43.6% (573/1502) 45.8% (868/1966)
+ Probability of contraceptive
+ receipt (binary)
+ 46.9% (1505/3460) 42.3% (585/1499) 50.4% (920/1961) 46.3% (585/1499) 47.4% (920/1961)
+ Days elapsed: promoter to clinic 11.459 (1779) 11.475 (1075) 11.661 (845) 11.276 (934)
+ visit
+ (cont.)
+ 11.435 (704)
+ Probability of receiving any text
+ reminder (treatment arm only)
+ 79.4%
+ Probability of receiving all text
+ reminders
+ (treatment arm only)
+ 62.1%
+ This table reports summary statistics for the full sample for the sample enrolled in the pre-­COVID and post-­COVID state of emergency period; and
+ for the sample assigned to the treatment and control arms. The labels indicate whether the variable of interest is continuous (for which the mean and
+ the number of observations is reported) or binary (for which the mean and the number of observations is reported). For the purposes of the table,
+ any phone number that is enrolled multiple times and partially treated is included as part of the treatment arm.
+ Table 2 Characteristics of sample respondents 
+<iend>
+
+ (without any time limit) is 46.9%. Around 11 days elapse
+ on average between the promoter visit and the woman’s
+ visit to a clinic (median days elapsed is eight). In analysing
+ summary statistics for numbers assigned to treatment and
+ control, there is little evidence of any meaningful differ-
+ ences across the two arms.
+ Data from the text message vendor on intervention
+ implementation are also reported. On average, phone
+ numbers assigned to the treatment arm reported receipt
+ of 79.4% of text messages, though as noted earlier this
+ may reflect a lower bound due to missing information
+ from one cell service company. Of the enrolled phone
+ numbers, 62.1% reported receipt of all eight text
+ messages.
+ Table 3 presents the primary results analysing the effect of
+ the intervention on clinic visits and contraceptive take-­up.
+ In the intent-­to-­treat analysis, the estimated effect of the text
+ reminders on the probability of a clinic visit is positive and
+ marginally statistically significant at the 10% level: women
+ who received text reminders were 2.3 percentage points
+ (95% CI −0.003% to 0.048%, p=0.081) more likely to visit
+ a clinic for family planning services, relative to a probability
+ of 47.4% in the control arm. This is a proportional effect
+ of 4.9%. The effect is larger (3.2 percentage points, or a
+ proportional effect of 6.8%) and statistically significant at the
+ 5% level in the pre-­SOE period (95% CI 0.001% to 0.063%,
+ p=0.042) and the same magnitude but noisily estimated in
+ the post-­SOE period (95% CI −0.017% to 0.064%, p=0.254).
+ As a robustness check, we also estimate the effect of the
+ reminder on a clinic visit within 1 month and here observe
+ an effect that is larger vis-à-vis the main treatment estimate
+ (3.7 percentage points) and statistically significant at the 1%
+ level in the full sample (95% CI 0.012% to 0.062%, p=0.004).
+ We also report the estimated treatment effects for the two
+ additional secondary variables of interest. For the proba-
+ bility of receiving a contraceptive method at a clinic, the esti-
+ mated effect of the text reminders is positive (2.3 percentage
+ points) and statistically significant at the 10% level (95% CI
+ −0.004% to 0.048%, p=0.091) though again significant at the
+ 5% level when restricted to the pre-­SOE period. For the time
+ elapsed between promoter visit and clinic visit (conditional
+ on observing a clinic visit), we observe a negative coefficient
+ of −1.219 that is statistically significant at the 1% level (95%
+ CI −2.133% to –0.306%, p=0.009).
+ Table 4 presents the two-­stage least squares analysis.
+ The estimated effect of receiving all reminder messages
+ is now larger (3.6 percentage points, 95% CI −0.005%
+ to 0.076%, p=0.083) or a proportional effect of 7.6%.
+ There is a 5.8 percentage point increase in the proba-
+ bility of a clinic visit within a month (95% CI 0.019% to
+ 0.098%, p=0.004) and a 3.5 percentage point increase in
+ the probability of contraceptive receipt (95% CI −0.006%
+ to 0.077%, p=0.092). Redemption time is around 2 days
+ shorter on average (95% CI −3.478 to –0.507, p=0.009). 
+<insert> Full sample Pre-­SOE Post-­SOE
+ Clinic visit (primary)
+  
+ 0.023 (−0.003 to 0.048)
+ p=0.081
+ 0.032 (0.001 to 0.063)
+ p=0.042
+ 0.023 (−0.017 to 0.064)
+ p=0.254
+   3468 1502 1966
+ Clinic visit within 1 month
+ (secondary)
+ 0.037 (0.012 to 0.062) 0.042 (0.008 to 0.075) 0.040 (0.000 to 0.080)
+   p=0.004 p=0.014 p=0.049
+   3468 1502 1966
+ Received contraceptive method
+ (secondary)
+ 0.022 (−0.004 to 0.048) 0.034 (0.003 to 0.065) 0.021 (−0.019 to 0.062)
+   p=0.091 p=0.033 p=0.306
+   3460 1499 1961
+ Days between promoter visit and
+ clinic visit
+ −1.219 (−2.13 to −0.306) −0.643 (−2.170 to 0.884) −1.302 (−2.541 to −0.062)
+  
+  
+ p=0.009
+ 1779
+ p=0.409 p=0.04
+ 1075
+ This table reports estimated risk differences corresponding to the effect of assignment to the text message treatment for the full sample, the
+ sample enrolled pre-­SOE and the sample enrolled post-­SOE. For phone numbers that were enrolled more than once, we identify the phone
+ number as pre-­SOE if at least one enrolment was recorded pre-­SOE. Eight phone numbers are missing data for method choice that would
+ allow us to identify contraceptive receipt. Days between promoter visit and clinic visit are coded as missing for women who never reported a
+ clinic visit. Each cell reports the coefficient and 95% CI, and p value and the number of observations.
+ SOE, state of emergency.
+ Table 3 Effect of the text message reminders on primary and secondary outcomes: intent-­to-­treat analysis 
+<iend>
+
+ 
+<insert> Table 4 Effect of the text message reminders on primary
+ and secondary outcomes: treatment-­on-­the-­treated analysis
+ Clinic visit (primary)
+ N
+ 0.036 (−0.005 to 0.076), p=0.083
+ 3468
+ Clinic visit within
+ month (secondary)
+ 0.058 (0.019 to 0.098), p=0.004
+ N 3468
+ Received contraceptive 0.035 (−0.006 to 0.077), p=0.092
+ method (secondary)
+ N 3460
+ Days between
+ promoter visit and
+ clinic visit
+ N
+ −1.993 (−3.478 to −0.507), p=0.009
+ 1779
+ This table reports estimated risk differences corresponding to
+ the effect of receipt of a full set of eight text messages for the full
+ sample, using a two-­stage least squares analysis in which receipt
+ of text messages is instrumented by treatment assignment. Eight
+ phone numbers are missing data for method choice that would
+ allow us to identify contraceptive receipt. Days between promoter
+ visit and clinic visit are coded as missing for women who never
+ reported a clinic visit. Each cell reports the coefficient and 95% CI,
+ and p value and the number of observations. 
+<iend>
+
+ Table 5 presents the results by subsamples. The positive
+ treatment effect is observed to be larger (4.1 percentage
+ points) for women under the age of 25 (95% CI −0.001
+ to 0.083, p=0.055). By contrast, the estimated effect for
+ women over the age of 25 is in fact negative, though
+ statistically insignificant. There is no evidence of any
+ meaningful heterogeneity in response with respect to
+ whether the woman reports she is currently using contra-
+ ception on meeting the promoter, whether she reports
+ she is the sole owner of the phone registered, the time
+ elapsed between the promoter visit and the date on
+ which the woman enters the randomisation sample, or
+ distance to the health facility.
+ Cost data for the intervention suggests a total cost of
+ $7593.87 for the implementation of the text reminders,
+ excluding the costs of the evaluation itself. Given the
+ number of women targeted by the intervention (enrolled
+ in the treatment arm and successfully reached by at least
+ one text reminder), the cost per woman targeted is $2.74.
+ 
+<section> DISCUSSION
+ 
+<section> The evidence presented here from a randomised
+ trial of text reminders suggests that this intervention
+ can be an effective strategy to increase facility visits by
+ women referred for family planning services in urban
+ and periurban Mozambique. The effect of the text
+ reminders is positive and statistically significant: women
+ who received text reminders are more likely to visit a
+ clinic, are more likely to report receiving a contracep-
+ tive method at a clinic and visit the clinic more rapidly
+ (conditional on ever reporting a visit). Moreover, the
+ effects are particularly large for younger women and
+ prior to the COVID-­19-­related SOE. In addition, the fact
+ that the effect on contraceptive use is also positive indi-
+ cates that the marginal woman encouraged to visit the 
+<section> 0.033) 
+<section> those p
+ 
+<section> >median 
+<section> analysis 
+<section> is, 
+<section> CI,
+ to −0.068) 
+<section> that includes 95%
+ 
+<section> (−0.064 values;
+ 
+<section> distance to the and
+ 
+<section> >25 
+<section> −0.016 p=0.53 
+<section> (−0.007 For non-­zero contraception coefficient
+ 
+<section> Age 1550 
+<section> subsamples.
+ 
+<section> Facility p=0.112
+ 
+<section> 0.030 1723 
+<section> reporting the
+ 0.083)
+ 
+<section> of reports
+ specified non-­user
+ 
+<section> subsamples 
+<section> to (−0.001 ≤median 
+<section> subsample cell
+ 
+<section> ≤25 
+<section> p=0.055 
+<section> 0.062) 
+<section> the current Each
+ 
+<section> prespecified ownership 
+<section> Age 0.041 1918 distance to (−0.014 
+<section> for visit 
+<section> clinic 
+<section> the in included contraception; facility. 
+<section> closest
+ 
+<section> 0.066)
+ 
+<section> Facility p=0.209 a
+ to 0.024 1717 
+<section> of probability are of the
+ 
+<section> for sole (−0.003 covariate user to
+ distance
+ 
+<section> analysis Reports phone 
+<section> p=0.074 
+<section> current
+ 
+<section> 0.032 2551 
+<section> days 
+<section> the the
+ 
+<section> intent-­to-­treat of 
+<section> 0.055) 3 than 
+<section> on treatment for value a as identified 
+<section> estimated
+ 
+<section> phone 
+<section> more (continuous) missing
+ 
+<section> shared 
+<section> of to (−0.064 in 
+<section> 0.052) 
+<section> message is one are
+ 
+<section> outcomes: ownership Randomisation to
+ 
+<section> Reports −0.004 p=0.883 
+<section> (−0.017 text constructed least observations
+ 
+<section> p=0.324 
+<section> the at
+ 
+<section> secondary 0.070) 
+<section> 0.017 1500 to assignment a have 
+<section> which 
+<section> in observations 28 use.
+ 
+<section> and of user contraception to (−0.025 days of effect 
+<section> thus 
+<section> and 
+<section> contraceptive
+ 
+<section> primary Current p=0.356 3 within 0.056) 
+<section> analysis multiple
+ 0.022 1262 
+<section> the to any
+ 
+<section> on Randomisation to (−0.017 corresponding the with reports
+ 
+<section> reminders interest 
+<section> of 
+<section> 0.074) 
+<section> p=0.299 
+<section> in repeated numbers observation
+ 
+<section> non-­user 0.019 1968
+ 
+<section> message of Subsample contraception 
+<section> to (−0.014 differences were phone
+ 
+<section> Current p=0.184 
+<section> that includes recorded observations.
+ 
+<section> text 0.030 2206 
+<section> difference) 
+<section> risk numbers
+ 
+<section> estimated contraception no
+ the which of
+ of (risk 
+<section> (risk phone number
+ 
+<section> Effect effect effect reports heterogeneity, of for numbers the
+ 
+<section> 5 
+<section> Treatment difference) 
+<section> Treatment table user and
+ 
+<section> Table current phone values
+ 
+<section>   
+<section>  N 
+<section>   
+<section>   
+<section>  N 
+<section> This
+ of
+ 
+<section> clinic by a reminder message does in fact take up contra-
+ ception, rather than visiting and ultimately choosing not
+ to use any contraceptive method.
+ This paper joins a limited literature to date analysing
+ the effects of mHealth interventions and nudges
+ informed by behavioural science on primary healthcare
+ use, including use of sexual and reproductive healthcare,
+ in LMICs. Only two previous papers to our knowledge
+ have analysed the effects of a nudge on family planning
+ uptake. One evaluation conducted in urban Kenya found
+ that there was no incremental effect of text message
+ reminders for women offered vouchers to receive family
+ planning at no cost at a private clinic. 26 A second evalua-
+ tion conducted in rural Kenya found a statistically signifi-
+ cant increase in contraceptive uptake among women who
+ received a series of SMS messages postpartum providing
+ information about danger signs and family planning; only
+ women who recently delivered were enrolled into the
+ intervention. 27 A third recent paper analysed an mHealth
+ intervention designed to enhance contraceptive counsel-
+ ling (a tablet-­based application) in Cameroon and found
+ a very large positive effect on adoption of long-­acting
+ contraceptives. 28 Other papers have analysed the effect of
+ mHealth interventions on knowledge or attitudes around
+ contraception only. 16–20
+ In the broader area of reproductive health, a
+ randomised trial conducted in South Africa found
+ that daily reminder text messages following adult male
+ circumcision increased attendance at postoperative
+ clinic visits by 6 percentage points. 29 Another mHealth
+ intervention—which consisted of messages two times per
+ month and then two times per week, and also allowed
+ for two-­ way communication with a health provider—
+ rolled out to pregnant women attending primary health-
+ care facilities in Zanzibar led to a 13 percentage point
+ increase in the use of antenatal care 30 and an associ-
+ ated reduction in perinatal mortality. 31 In general, the
+ magnitude of the effect observed here (ranging from
+ percentage points for the full sample to 4 percentage
+ points for the sample under 25) seems plausible, given
+ the existing evidence; it is approximately half the size
+ of the effect observed for clinic visits following a non-­
+ trivial circumcision procedure in South Africa. More-
+ over, the effect is significantly larger (an increase of 3.6
+ percentage points) among women who received the full
+ set of eight reminder messages.
+ The cost per woman reached of the intervention (less
+ than $3) also compares favourably to other interventions
+ targeting family planning. In particular, the previous
+ evaluation of vouchers and SMS reminders in Kenya
+ estimated the average value of the voucher redeemed as
+ $4.26 for the contraceptive product alone and did not
+ include cost estimates for the text messages or admin-
+ istration costs. 26 Given the estimated treatment effects
+ observed in this analysis, the cost per woman induced to
+ visit a clinic for family planning counselling is $104.82,
+ and the cost per woman induced to take up contracep-
+ tion is $109.59. 
+<section> In addition to encouraging take-­up of contraception,
+ the text reminders were particularly effective in encour-
+ aging women to visit the clinic promptly: the effect on
+ clinic visits within 30 days was proportionally around
+ 60% larger than the effect on any clinic visit, and among
+ women who did visit clinics, they visited on average 1 day
+ sooner relative to a median of 8 days. The timing of visits
+ is potentially of relevance, given that use of long-­acting
+ contraceptives is relatively unusual in this sample: among
+ women who visit a clinic, less than a quarter received a
+ long-­acting method (3% received an intrauterine device,
+ and 19% received a contraceptive implant). (These
+ summary statistics were not presented in the Results
+ section, as they are simple means rather than treatment
+ effects.) These patterns are broadly similar to those
+ observed in the most recent Demographic and Health
+ Survey conducted in Mozambique in 2011, as only 10%
+ of women reporting use of contraception in that survey
+ reported use of a long-­acting method.
+ In a context in which use of short-­acting contraceptives
+ is dominant, interventions that target more timely clinic
+ visits may have significant health implications if they
+ effectively reduce contraceptive discontinuation, given
+ evidence from the literature around high rates of discon-
+ tinuation in LMICs. 33 34 Discontinuation is especially high
+ for short-­acting methods, 35 though it is also observed for
+ long-­acting methods, 36 and is particularly common for
+ adolescents. 37 Women who have discontinued previous
+ use without switching to a new method thus constitute a
+ substantial share of the population of women with unmet
+ need. 38 39 While we do not have any systematic data about
+ discontinuation of contraceptive methods in this evalu-
+ ation, text messages encouraging more rapid follow-­up
+ at clinics or with promoters may be a promising strategy
+ to reduce discontinuation (allowing for method refill or
+ counselling about side effects or options for switching),
+ particularly for the adolescent population that is shown
+ to be more responsive to the reminders.
+ It is important to note that this evaluation was
+ conducted in 2020 during a year of acute uncertainty and
+ disruption linked to the COVID-­19 pandemic and in a
+ general environment of health-­related fears. In Mozam-
+ bique, an SOE linked to the pandemic was in effect from
+ 31 March 2020 to 7 September 2020 (thereafter transi-
+ tioning to a state of public calamity); however, promoters
+ continued to operate throughout this period, and health
+ clinics remained open. (Enrolment in the study was
+ paused during the SOE, as described in more detail
+ earlier.) Previous work by this research team analysing
+ the short-­term effects of the SOE on the behaviour of
+ PSI promoters and women found a modest short-­term
+ drop in both service provision and use through June
+ 2020, followed by a relatively rapid rebound. 40 However,
+ the fact that the effect of the text reminders is gener-
+ ally reduced and more noisily estimated in the post-­SOE
+ period constitutes suggestive evidence that in this
+ period, other barriers (eg, anxiety about visiting clinics
+ or increased economic stress) may have become more
+ salient, and our intervention did not effectively target
+ these barriers.
+ This analysis has a number of strengths and weaknesses.
+ It is only the third evaluation to analyse the effectiveness
+ of text reminders on contraceptive uptake in LMICs
+ and the first to do so including a sample of women who
+ are not exclusively postpartum. We analyse a substantial
+ sample using administrative data (ie, not relying on self-­
+ reported use measures or additional data collection) and
+ successfully completed the evaluation in an environment
+ of substantial COVID-­related disruptions. Key limitations
+ of the evaluation include a high attrition rate (due to an
+ inability to match phone numbers recorded manually on
+ consent forms to phone numbers recorded in adminis-
+ trative data by promoters) and the reliance on a relatively
+ narrow administrative dataset. Accordingly, we are unable
+ to analyse intervention effects on use of contraception
+ in other contexts (outside of public health clinics) and
+ are unable to analyse longer-­term use or other health
+ outcomes. We also do not have access to any data on
+ women’s literacy and their comprehension or recall of
+ the messages. Finally, our findings are informative about
+ the effectiveness of the reminders on a population of
+ women that has already received referrals from health
+ promoters and may not be informative about the effects
+ of this intervention in a broader population.
+ 
+<section> CONCLUSION
+ This paper presents evidence from a randomised
+ controlled trial evaluating a series of text message
+ reminders designed to increase facility visits for family
+ planning services in urban and peri-­urban Mozambique.
+ The results suggest that the reminders may be a promising
+ strategy to increase clinic visits and associated uptake of
+ contraception following referrals by community-­ based
+ promoters, and these effects may be largest for younger
+ women. Future programming and research work can
+ explore the potential of incorporating mobile reminders
+ to encourage consistent uptake of family planning
+ services.
+ 
+<section> Author affiliations
+ Poverty, Health, and Nutrition Division, International Food Policy Research Institute,
+ Washington, District of Columbia, USA
+ Economics Department, American University, Washington, District of Columbia,
+ 
+<section> USA
+ Population Services International, Maputo, Mozambique
+ Office of Evaluation Sciences, Washington, District of Columbia, USA
+ Business School, University of Exeter, Exeter, UK
+ 
+<section> Acknowledgements We acknowledge the support of a large team including
+ (at Population Services International) Maria Dos Anjos Machonisse, Ryan Kelley,
+ Hannah Hoover, Jennifer Wheeler, Susannah Gibbs, Paul Bouanchaud, Donato
+ Gulino, Yolanda Chongo, Sebastião Libombo, Elvira Cambe, Cindy Pereira, Narciso
+ Cau, Paulo Mandevo, Lourdes Jossias, Alexandre Lucas and the whole team of
+ Assistentes Comunitários in Sofala and Nampula (at Pathfinder International): Luc
+ Vander Veken, Riaz Mubaracaly, Adalgisa Viola and Ana Jacinto and (at United
+ States Agency for International Development) Raquel Zaqueu.
+ 
+<section> Contributors JL, CH, MC, ES and JJ designed the evaluation. MC, LA and DD
+ led the field implementation and administration of the evaluation in the field.
+ JL conducted the analysis and drafted the manuscript. All authors provided the 
+<section> final review of the manuscript. JL is responsible for the overall content of the
+ manuscript as the guarantor.
+ 
+<section> Funding The funders of the study United States Agency for International
+ Development had no role in study design, data collection, analysis, interpretation
+ or writing of the results. The corresponding author (JL) had full access to all data in
+ the study and final responsibility for the decision to submit for publication.
+ 
+<section> Map disclaimer The inclusion of any map (including the depiction of any
+ boundaries therein) or of any geographic or locational reference does not imply the
+ expression of any opinion whatsoever on the part of BMJ concerning the legal status
+ of any country, territory, jurisdiction or area or of its authorities. Any such expression
+ remains solely that of the relevant source and is not endorsed by BMJ. Maps are
+ provided without any warranty of any kind, either express or implied.
+ 
+<section> Competing interests None declared.
+ 
+<section> Patient and public involvement Patients and/or the public were involved in the
+ design, conduct, reporting or dissemination plans of this research. Refer to the
+ Methods section for further details.
+ 
+<section> Patient consent for publication Not applicable.
+ 
+<section> Ethics approval This study involves human participants and ethical review and
+ approval was provided by the institutional review Board at International Food Policy
+ Research Institute and the Comité Nacional de Bioética para Saúde in Mozambique
+ (protocol number 477/CNBS/19). Participants gave informed consent to participate
+ in the study before taking part.
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data availability statement Data are available upon reasonable request. Data
+ underlying the study cannot be made publicly available due to ethical restrictions.
+ However, deidentified data will be freely available to researchers upon signing
+ a data use agreement with the collaborating organisation (Population Services
+ International) that includes confidentiality policies. Requests for data should be
+ submitted to wheeler@​psi.​org.
+ 
+<section> Supplemental material This content has been supplied by the author(s). It has
+ not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been
+ peer-­reviewed. Any opinions or recommendations discussed are solely those
+ of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and
+ responsibility arising from any reliance placed on the content. Where the content
+ includes any translated material, BMJ does not warrant the accuracy and reliability
+ of the translations (including but not limited to local regulations, clinical guidelines,
+ terminology, drug names and drug dosages), and is not responsible for any error
+ and/or omissions arising from translation and adaptation or otherwise.
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution Non Commercial (CC BY-­NC 4.0) license, which
+ permits others to distribute, remix, adapt, build upon this work non-­commercially,
+ and license their derivative works on different terms, provided the original work is
+ properly cited, appropriate credit is given, any changes made indicated, and the
+ use is non-­commercial. See: http://creativecommons.org/licenses/by-nc/4.0/.
+ 
+<section> ORCID iD
+ 
+<section> Jessica Leight http://orcid.org/0000-0002-1691-9682
+ 
+<section> REFERENCES
+ 1 UN Department of Social and Economic Affairs. Family planning
+ and the 2030 agenda for sustainable development: Data Booklet
+ [Internet], 2019. Available: http://www.un-ilibrary.org/population-and-​
+ demography/family-planning-and-the-2030-agenda-for-sustainable-​
+ development-data-booklet_e154e49d-en
+ 2 Goodkind D, Lollock L, Choi Y, et al. The demographic impact and
+ development benefits of meeting demand for family planning with
+ modern contraceptive methods. Glob Health Action 2018;11. doi:10.
+ 1080/16549716.2018.1423861. [Epub ahead of print: Available from].
+ 3 Ahmed S, Li Q, Liu L, et al. Maternal deaths averted by contraceptive
+ use: an analysis of 172 countries. Lancet 2012;380:125 doi:10.1016/
+ 
+<section> S0140-6736(12)60478-4
+ 4 Brown W, Ahmed S, Roche N, et al. Impact of family planning
+ programs in reducing high-­risk births due to younger and older
+ maternal age, short birth intervals, and high parity. Semin Perinatol
+ 2015;39:344 doi:10.1053/j.semperi.2015.06.006
+ 5 Canning D, Schultz TP. The economic consequences of reproductive
+ health and family planning. The Lancet 2012;380:165–71.
+ doi:10.1016/S0140-6736(12)60827-7
+ 
+<section> 6 Hellwig F, Coll CV, Ewerling F, et al. Time trends in demand for
+ family planning satisfied: analysis of 73 countries using National
+ health surveys over a 24-­year period. J Glob Health 2019;9:020423.
+ 
+<section> doi:10.7189/jogh.09.020423
+ 
+<section> 7 UNFPA. Ensure universal access to sexual and reproductive health
+ and reproductive rights, 2020.
+ 8 FP2020. Mozambique [Internet], 2012. Available: https://www.​
+ familyplanning2020.org/mozambique [Accessed 12 Jul 2021].
+ 9 MISAU and INE. Inquérito de indicadores de imunização, malária e
+ HIV/SIDA [Internet], 2018. Available: http://dhsprogram.com/pubs/​
+ 
+<section> pdf/AIS12/AIS12.pdf
+ 10 Matjasko JL, Cawley JH, Baker-­Goering MM, et al. Applying
+ behavioral economics to public health policy: illustrative examples
+ and promising directions. Am J Prev Med 2016;50:S13–19.
+ 11 Harrison JD, Patel MS. Medicine and society: designing nudges for
+ success in health care. AMA J Ethics 2020;22:796–801.
+ 12 Gurman TA, Rubin SE, Roess AA. Effectiveness of mHealth behavior
+ change communication interventions in developing countries: a
+ systematic review of the literature. J Health Commun 2012;17 Suppl
+ 1:82–104. doi:10.1080/10810730.2011.649160
+ 13 Chib A, van Velthoven MH, Car J. mHealth adoption in low-­resource
+ environments: a review of the use of mobile healthcare in developing
+ countries. J Health Commun 2015;20:4–34. doi:10.1080/10810730.2
+ 
+<section> 013.864735
+ 14 Lee SH, Nurmatov UB, Nwaru BI, et al. Effectiveness of mHealth
+ interventions for maternal, newborn and child health in low- and
+ middle-­income countries: systematic review and meta-­analysis. J
+ Glob Health 2016;6:010401. doi:10.7189/jogh.06.010401
+ 15 Sondaal SFV, Browne JL, Amoakoh-­Coleman M, et al. Assessing
+ the effect of mHealth interventions in improving maternal and
+ neonatal care in low- and middle-­income countries: a systematic
+ review. PLoS One 2016;11:e0154664. doi:10.1371/journal.pone.​
+ 
+<section> 0154664
+ 16 McCarthy O, Ahamed I, Kulaeva F. A randomized controlled trial of
+ an intervention delivered by mobile phone APP instant messaging to
+ increase the acceptability of effective contraception among young
+ people in Tajikistan. Reprod Health 2018;15. doi:10.1186/s12978-
+ 
+<section> 018-0473-z
+ 17 McCarthy OL, Zghayyer H, Stavridis A, et al. A randomized
+ controlled trial of an intervention delivered by mobile phone text
+ message to increase the acceptability of effective contraception
+ among young women in Palestine. Trials 2019;20:228. doi:10.1186/
+ 
+<section> s13063-019-3297-4
+ 18 McCarthy OL, Aliaga C, Torrico Palacios ME, et al. An intervention
+ delivered by mobile phone instant messaging to increase
+ acceptability and use of effective contraception among young
+ women in Bolivia: randomized controlled trial. J Med Internet Res
+ 2020;22:e14073. doi:10.2196/14073
+ 19 Vahdat HL, L'Engle KL, Plourde KF, et al. There are some questions
+ you may not ask in a clinic: providing contraception information
+ to young people in Kenya using SMS. International Journal of
+ Gynecology & Obstetrics 2013;123:6. doi:10.1016/j.ijgo.2013.07.009
+ 20 Johnson D, Juras R, Riley P, et al. A randomized controlled trial of
+ the impact of a family planning mHealth service on knowledge and
+ use of contraception. Contraception 2017;95:90–7. doi:10.1016/j.
+ 
+<section> contraception.2016.07.009
+ 21 Hall CS, Fottrell E, Wilkinson S, et al. Assessing the impact of
+ mHealth interventions in low- and middle-­income countries – what
+ has been shown to work? Glob Health Action 2014;7:25606.
+ 
+<section> doi:10.3402/gha.v7.25606
+ 22 MISAU and INE. MOÇAMBIQUE Inquérito Demográfico e de Saúde,
+ 2003.
+ 23 Hensly C, Jamison J, Leight J, et al. Increasing effectiveness
+ of family planning promoters in Mozambique through an SMS
+ intervention, 2020.
+ 24 Hellevik O. Linear versus logistic regression when the dependent
+ variable is a dichotomy. Qual Quant 2009;43:59–74. doi:10.1007/
+ 
+<section> s11135-007-9077-3
+ 
+<section> 25 Wooldridge J. Econometric analysis of cross section and panel data.
+ 
+<section> MIT Press, 2002.
+ 26 McConnell M, Rothschild CW, Ettenger A, et al. Free contraception
+ and behavioural nudges in the postpartum period: evidence from
+ a randomised control trial in Nairobi, Kenya. BMJ Glob Health
+ 2018;3:e000888–11.
+ 27 Jones RM, Kimenju G, Subbiah S, et al. A short message service
+ (SMS) increases postpartum care-­seeking behavior and uptake of
+ family planning of mothers in peri-­urban public facilities in Kenya.
+ 
+<section> PLoS One 2020;15:e0239213. doi:10.1371/journal.pone.0239213
+ 28 Athey S, Bergstrom K, Hadad V, et al. Shared decision-­making:
+ Can improved counseling increase willingness-­to-­pay for modern
+ contraceptives? [Internet]. Washington, DC; 2021. (Policy Research 
+<section> Working Paper;No. 9777.). Available: https://openknowledge.​
+ worldbank.org/handle/10986/36304
+ Odeny TA, Bailey RC, Bukusi EA, et al. Text messaging to
+ improve attendance at post-­operative clinic visits after adult male
+ circumcision for HIV prevention: a randomized controlled trial. PLoS
+ One 2012;7:e43832–7.
+ Lund S, Nielsen BB, Hemed M, et al. Mobile phones improve
+ antenatal care attendance in Zanzibar: a cluster randomized
+ controlled trial. BMC Pregnancy Childbirth 2014;14:29.
+ doi:10.1186/1471-2393-14-29
+ Lund S, Rasch V, Hemed M, et al. Mobile phone intervention reduces
+ perinatal mortality in Zanzibar: secondary outcomes of a cluster
+ randomized controlled trial. JMIR Mhealth Uhealth 2014;2:e15.
+ 
+<section> doi:10.2196/mhealth.2941
+ 
+<section> MISAU and INE. MOÇAMBIQUE Inquérito Demográfico E de Saúde,
+ 2011.
+ Sato R, Elewonibi B, Msuya S, et al. Why do women discontinue
+ contraception and what are the post-­discontinuation outcomes?
+ Evidence from the Arusha region, Tanzania. Sex Reprod Health
+ Matters 2020;28:1723321. doi:10.1080/26410397.2020.1723321
+ Ali M, Cleland J. Determinants of contraceptive discontinuation in
+ six developing countries. J Biosoc Sci 1999;31:343–60. doi:10.1017/
+ 
+<section> S0021932099003430
+ 
+<section> 35 Bellizzi S, Mannava P, Nagai M, et al. Reasons for discontinuation
+ of contraception among women with a current unintended
+ pregnancy in 36 low and middle-­income countries. Contraception
+ 2020;101:26–33. doi:10.1016/j.contraception.2019.09.006
+ 36 Adal TG. Early discontinuation of long acting reversible
+ contraceptives among married and in Union women: a systematic
+ review and meta-­analysis. Ann Med Heal Sci Res 2017;7:113–8.
+ 37 Blanc AK, Tsui AO, Croft TN, et al. Patterns and trends in
+ adolescents' contraceptive use and discontinuation in developing
+ countries and comparisons with adult women. Int Perspect Sex
+ Reprod Health 2009;35:063–71. doi:10.1363/3506309
+ 38 Jain AK, Obare F, RamaRao S, et al. Reducing unmet need by
+ supporting women with Met need. Int Perspect Sex Reprod Health
+ 2013;39:133–41. doi:10.1363/3913313
+ 39 Jain AK, Winfrey W. Contribution of contraceptive discontinuation
+ to unintended births in 36 developing countries. Stud Fam Plann
+ 2017;48:269–78. doi:10.1111/sifp.12023
+ 40 Leight J, Hensly C, Chissano M, et al. Short-­Term effects of
+ the COVID-­19 state of emergency on contraceptive access
+ and utilization in Mozambique. PLoS One 2021;16:e0249195.
+ doi:10.1371/journal.pone.0249195

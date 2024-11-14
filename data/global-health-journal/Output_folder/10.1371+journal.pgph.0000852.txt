@@ -1,0 +1,932 @@
+
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> OPEN ACCESS
+ 
+<section> Citation: Chasukwa M, Choko AT, Muthema F,
+ Nkhalamba MM, Saikolo J, Tlhajoane M, et al.
+ (2022) Collecting mortality data via mobile phone
+ surveys: A non-inferiority randomized trial in
+ Malawi. PLOS Glob Public Health 2(8): e0000852.
+ https://doi.org/10.1371/journal.pgph.0000852
+ 
+<section> Editor: Rachel Hall-Clifford, Emory University,
+ 
+<section> UNITED STATES
+ 
+<section> Received: March 30, 2022
+ 
+<section> Accepted: July 8, 2022
+ 
+<section> Published: August 11, 2022
+ 
+<section> Peer Review History: PLOS recognizes the
+ benefits of transparency in the peer review
+ process; therefore, we enable the publication of
+ all of the content of peer review and author
+ responses alongside final, published articles. The
+ editorial history of this article is available here:
+ https://doi.org/10.1371/journal.pgph.0000852
+ 
+<section> Copyright: © 2022 Chasukwa et al. This is an open
+ access article distributed under the terms of the
+ Creative Commons Attribution License, which
+ permits unrestricted use, distribution, and
+ reproduction in any medium, provided the original
+ author and source are credited.
+ 
+<section> Data Availability Statement: All data and
+ replication scripts are available at the following link:
+ https://osf.io/seqpu.
+ 
+<section> RESEARCH ARTICLE
+ 
+<section> Collecting mortality data via mobile phone
+ surveys: A non-inferiority randomized trial in
+ 
+<section> Malawi
+ 
+<section> Michael Chasukwa 1,2 , Augustine T. Choko ID , Funny Muthema ID , Mathero
+ M. Nkhalamba , Jacob Saikolo , Malebogo Tlhajoane ID , Georges Reniers ,
+ Boniface Dulani 1,2 , Stéphane Helleringer ID 5,7 
+<section> *
+ 
+<section> 1 Institute of Public Opinion and Research, Zomba, Malawi, 2 Department of Political and Administrative
+ Studies, University of Malawi, Zomba, Malawi, 3 Malawi-Liverpool Wellcome Trust Clinical Research
+ Programme, Blantyre, Malawi, 4 Department of Psychology, University of Malawi, Zomba, Malawi,
+ 
+<section> 5 Program in Social Research and Public Policy, Division of Social Science, New York University, Abu Dhabi,
+ United Arab Emirates, 6 Department of Population Health, London School of Hygiene and Tropical Medicine,
+ London, United Kingdom, 7 Department of Sociology, New York University, New York, United States of
+ 
+<section> America
+ 
+<section> * sh199@nyu.edu
+ 
+<section> Abstract
+ 
+<section> Despite the urgent need for timely mortality data in low-income and lower-middle-income
+ countries, mobile phone surveys rarely include questions about recent deaths. Such ques-
+ tions might a) be too sensitive, b) take too long to ask and/or c) generate unreliable data. We
+ assessed the feasibility of mortality data collection using mobile phone surveys in Malawi.
+ We conducted a non-inferiority trial among a random sample of mobile phone users. Partici-
+ pants were allocated to an interview about their recent economic activity or recent deaths
+ their family. In the group that was asked mortality-related questions, half of the respondents
+ completed an abridged questionnaire, focused on information necessary to calculate recent
+ mortality rates, whereas the other half completed an extended questionnaire that also
+ included questions about symptoms and healthcare. The primary trial outcome was the
+ cooperation rate, i.e., the number of completed interviews divided by the number of mobile
+ subscribers invited to participate. Secondary outcomes included self-reports of negative
+ feelings and stated intentions to participate in future interviews. We called more than 7,000
+ unique numbers and reached 3,054 mobile subscribers. In total, 1,683 mobile users were
+ invited to participate. The difference in cooperation rates between those asked to complete
+ a mortality-related interview and those asked to answer questions about economic activity
+ was 0.9 percentage points (95% CI = -2.3, 4.1), which satisfied the non-inferiority criterion.
+ The mortality questionnaire was non-inferior to the economic questionnaire on all secondary
+ outcomes. Collecting mortality data required 2 to 4 additional minutes per reported death,
+ depending on the inclusion of questions about symptoms and healthcare. More than half of
+ recent deaths elicited during mobile phone interviews had not been registered with the
+ National Registration Bureau. Including mortality-related questions in mobile phone surveys
+ is feasible. It might help strengthen the surveillance of mortality in countries with deficient 
+<section> Funding: This study was supported by funding
+ from the Eunice Kennedy Shriver National Institute
+ of Child Health and Human Development
+ (R01HD088516 to SH), the National Institute on
+ Aging (R03AG070660 to SH), the Bill and Melinda
+ Gates Foundation (INV-023211 to GR) and New
+ York University-Abu Dhabi. The funders had no
+ role in study design, data collection and analysis,
+ decision to publish and preparation of the
+ manuscript.
+ 
+<section> Competing interests: The authors have declared
+ that no competing interests exist.
+ 
+<section> civil registration systems. Registration: AEA RCT Registry, #0008065 (14 September
+ 2021).
+ 
+<section> Introduction
+ 
+<section> In many low-income and lower-middle-income countries (LLMICs), few deaths are registered
+ with competent administrative authorities in a timely manner [1–3]. In such settings, mortality
+ statistics are only updated every few years, after periodic household surveys or censuses are
+ conducted. The retrospective data these inquiries generate allow estimating mortality levels
+ periods stretching from a few months to a few years prior to data collection [4], but they do
+ not allow monitoring mortality in near real-time. Household surveys and censuses are also
+ often postponed or canceled during epidemics or other crises, due to elevated risks of disease
+ transmission or heightened safety concerns [5].
+ In most LLMICs, the data available to track the mortality impact of health crises are thus
+ obtained from more partial and selective data collection systems. The counts of deaths rou-
+ tinely reported during epidemics often only include the deaths that occur among those who
+ have been diagnosed with the disease [6]. Yet, the coverage of testing services is very limited
+ LLMICs [7]. Some patients may be lost to follow-up after diagnosis, and surveillance systems
+ predominantly record deaths that occur at health facilities [8], even though many deaths occur
+ at home [9,10]. Epidemics also indirectly affect mortality, for example by disrupting health ser-
+ vices [11–13]. As a result, reported counts of deaths only include a fraction of the excess mor-
+ tality caused by an epidemic [14]. This might foster perceptions that global health crises (e.g.,
+ COVID-19) have “spared” LLMICs, and it might preclude such countries from effectively
+ advocating for resources required to mitigate the impact of such crises [15].
+ In the medium to long-term, strengthening civil registration systems, i.e., the administra-
+ tive apparatus that routinely records vital events, is the main intervention required to address
+ this data gap [16,17]. Achieving universal birth registration and increasing death registration
+ are thus key indicators of progress towards the sustainable development goals (SDGs). In the
+ short term however, interim data sources are needed to better understand how ongoing crises
+ affect population health in LLMICs. In this study, we investigated the use of mobile phone sur-
+ veys (MPS) as a tool to collect mortality data.
+ MPS are surveys in which participants are recruited and interviewed entirely by mobile
+ phone [18]. They are increasingly conducted in LLMICs, for example to monitor risk factors
+ for non-communicable diseases [19] or to document fluctuations in economic activity, school-
+ ing or healthcare use [20,21]. They present several advantages over other modes of data collec-
+ tion. Because they are implemented remotely, they remove the need for physical interactions
+ between data collectors and participants, and can be sustained during epidemics [22]. They
+ can also be repeated more frequently than household surveys or censuses, since they require
+ less complicated logistics. Finally, owing to the rapid penetration of mobile phones in rural
+ areas of LLMICs, they might allow monitoring mortality trends outside of large cities more
+ conveniently than other surveillance systems.
+ Several MPS have already included questions about mortality. During the Ebola epidemic
+ in west Africa, a survey in Monrovia (Liberia) asked randomly selected mobile phone users
+ about recent deaths in their households [5]. Since the beginning of the COVID-19 pandemic,
+ MPS surveys in India and Bangladesh have also monitored recent household deaths [23,24].
+ particular, a question about recent COVID deaths was included in a large phone survey, which
+ allowed estimating that the death toll related to the COVID-19 pandemic in India might be
+ 6–7 times larger than officially reported [25]. 
+<section> Such examples of mortality-related MPS remain however isolated. There are concerns that
+ questions about recent deaths might be too sensitive to ask during phone interviews, thus
+ prompting high levels of refusals to participate, or to answer specific questions. In some
+ instances, questions about deaths might upset respondents or trigger distress. Whereas such
+ reactions can be addressed when interviews occur in person (e.g., through signs of empathy),
+ they may be more difficult to mitigate remotely. Questions about deaths might also take too
+ long to administer. There are strict recommendations to keep the duration of MPS short [26],
+ and eliciting mortality data about deaths with sufficient detail requires time. Existing mortal-
+ ity-related MPS have only included limited ascertainments of deaths and their circumstances.
+ Finally, MPS interviewers might not be able to probe and cross-check answers provided by
+ respondents as thoroughly as during in-person interviews. The mortality data generated by
+ MPS might thus be of lesser quality.
+ In a randomized trial conducted among mobile phone users in Malawi, we assessed
+ whether participation and emotional responses differed between mobile users who were asked
+ to complete a mortality-related interview and users asked to complete an interview about their
+ recent economic activity. While this “control” topic might also generate negative reactions
+ from respondents, particularly at times of increased economic stress, it is widely perceived as
+ acceptable to investigate via MPS, and has repeatedly been included in MPS conducted since
+ the beginning of the COVID-19 pandemic. It thus represents a useful benchmark against
+ which to evaluate the feasibility of mortality-related MPS. Our results provide evidence that
+ mortality data collection via MPS is feasible. They suggest that MPS might constitute a useful
+ tool for strengthening the surveillance of mortality during epidemics and other crises affecting
+ population health in countries with deficient civil registration systems.
+ 
+<section> Methods
+ 
+<section> Ethics statement
+ 
+<section> The study was approved by the institutional review boards of New York University—Abu
+ Dhabi (HRPP-2021-93) and the University of Malawi (UNIMAREC, P.07/21/76). All partici-
+ pants provided oral verbal consent prior to participating in the study. The protocol was regis-
+ tered prospectively in the American Economic Association’s Registry of randomized
+ Controlled Trials (#0008065). Participants in a 3-day pilot provided feedback that informed
+ study procedures. Other members of the study population were not directly involved in the
+ design of the study. Dissemination of study results is ongoing with local stakeholders in
+ Malawi.
+ 
+<section> Trial design
+ 
+<section> We conducted a non-inferiority randomized trial [27], in which we tested whether a mortal-
+ ity-related MPS did not lead to unacceptably worse response patterns than an MPS focused
+ recent economic activity. Participants in the mortality survey group were asked to complete
+ either an abridged or an extended questionnaire on deaths. The abridged mortality question-
+ naire only ascertained information required to measure and triangulate recent mortality rates.
+ The extended mortality questionnaire also included questions about symptoms and circum-
+ stances of reported deaths.
+ 
+<section> Study setting
+ 
+<section> The trial was conducted in Malawi, a low-income country in southeastern Africa, with a popu-
+ lation of approximately 18 million inhabitants. Despite a legal obligation to register vital 
+<section> events, and the possibility to register events in decentralized offices and locations, few deaths
+ are reported to the National Registration Bureau, i.e., the authority in charge of vital records.
+ As a result, data series based on death registration, typically used to monitor short-term fluctu-
+ ations in mortality in high-income countries [28], are not available in Malawi [29]. The most
+ recent household surveys that collected mortality data in Malawi occurred between 2015 and
+ 2017, whereas the national census was conducted in 2018.
+ The coverage of mobile phone networks is extensive in Malawi: in the nationally-represen-
+ tative Afrobarometer survey conducted in November-December 2020, mobile phone service
+ was available in all randomly selected communities located in urban areas, and in 95% of com-
+ munities located in semi-urban or rural areas. At that time, 56% of all adults in Malawi person-
+ ally owned a mobile phone, up from 48% in 2014/15. Ownership of mobile phones however
+ remains more limited in Malawi than in other eastern and southern African countries.
+ According to Afrobarometer data, for example, 62% of adults in Mozambique, 75% of adults
+ in Tanzania and more than 90% of adults in countries like Kenya, Botswana or Eswatini per-
+ sonally owned a mobile phone in 2020/21. There are also large disparities in access to mobile
+ phones between socio-economic groups in Malawi. In urban areas, more than 90% of adult
+ men, and close to 75% of adult women reported that they owned a mobile phone (Fig 1). In
+ semi-urban and rural areas, these proportions were 63% and 42%, respectively. Since the
+ beginning of the COVID-19 pandemic, several MPS have been conducted in Malawi [30–32],
+ but they have not reported recent mortality trends.
+ 
+<section> Participants
+ 
+<section> Study participants were mobile phone users aged 18–64 years old at the time of the study.
+ Mobile phone users younger than 18 years old were excluded due to practical difficulties in
+ obtaining parental consent during MPS. Mobile phone users aged 65 years and older were
+ excluded in part due to difficulties in reaching such age groups during MPS. In addition, peo-
+ ple aged 65 years and older are typically excluded from household surveys that collect data on
+ mortality. For example, the demographic and health surveys (DHS) only include women aged
+ 15–49 years old, and men aged up to 54 years old [33]. The population-based HIV impact
+ assessments (PHIA) include individuals aged up to 64 years old [34].
+ We recruited study participants among users of Malawi’s two major mobile networks
+ through random digit dialing (RDD). We worked with Sample Solutions, a firm specializing
+ the provision of RDD samples. Sample Solutions first generated a list of phone numbers at ran-
+ dom using the country’s numbering scheme. They then matched this list to a global registry
+ authorized network subscribers, and excluded numbers that could not be located. Finally, a
+ team of 15 interviewers contacted the selected numbers to introduce the study, assess the eligi-
+ bility of mobile phone users who were reached, and ask for their consent to participate in
+ interviews.
+ We implemented sampling quotas based on age, gender and regional residence. We formed
+ 18 sampling strata based on these characteristics, and enrollment continued in each stratum
+ until the quota was filled or until progress towards this quota stopped. All interviews were con-
+ ducted in local languages (Chichewa, Chitumbuka, Chiyao) or in English, depending on
+ mobile users’ preferences. If a mobile user did not speak any of these languages, he/she was
+ not included in the trial.
+ 
+<section> Randomization
+ 
+<section> After interviewers successfully contacted a mobile phone number, they introduced themselves
+ to the user and stated that they were conducting a survey about the impact of the COVID-19 
+<section> Fig 1. Reported access to mobile phone
+ Afrobarometer survey (2020).
+ 
+<section> https://doi.org/10.1371/journal.pgph.0000852.g001
+ 
+<section> in Malawi among adults aged 18 years and older, by gender and area of residence. Source: Round 8 of the
+ 
+<section> pandemic on several aspects of the lives of Malawians. They asked the phone user if they were
+ interested in learning more about the study. If so, they assessed the user’s eligibility by asking
+ questions about gender, age and residence. Mobile users who did not meet the age criterion
+ and those whose sampling stratum was already filled were told that they were not eligible for
+ the study. When initially placing a call to a selected mobile number, study interviewers were
+ unaware of the mobile user’s assignment to the mortality or economic questionnaire. They 
+<section> remained unaware of that assignment until the user’s sampling stratum had been determined
+ and eligibility had been confirmed.
+ After learning of the user’s assignment to the mortality or economic questionnaire, inter-
+ viewers read group-specific consent scripts and sought oral consent from mobile users. In
+ both study groups, the consent scripts included similar explanations of how phone numbers
+ were selected, and statements that the interview would take approximately 15 minutes to com-
+ plete. Consent scripts in both study groups also mentioned that participants would receive a
+ small amount of airtime (1,200 Malawian Kwachas, or 1.5 US Dollar) as a token of apprecia-
+ tion upon completion of the interview. Since the main themes of the interview differed
+ between the mortality and economic questionnaires, the description of other study procedures
+ differed between the two groups.
+ The randomization process was stratified by sampling stratum. It was conducted using ran-
+ dom numbers generated in Stata 15.1. Eligible mobile users were randomized to the mortality
+ or economic questionnaire in a 3:1 ratio. Among phone users interviewed with the mortality
+ questionnaire, randomized allocation to the abridged vs. extended mortality questionnaires
+ was conducted in a similar manner in a 1:1 ratio.
+ 
+<section> Outcomes
+ 
+<section> The primary outcome of the trial was the cooperation rate [35]. It was calculated among
+ mobile users randomized to either the mortality or economic questionnaire, and it was defined
+ as the number of completed interviews divided by the sum of completed interviews, call-backs,
+ partial interviews and refusals. Secondary outcomes included i) the completion rate, i.e. the
+ number of completed interviews divided by the sum of completed interviews and partial inter-
+ views and ii) the proportion of respondents who stated their willingness to participate in future
+ interviews of varying durations. We also measured iii) the proportion of respondents who self-
+ reported that some of the survey questions made them upset.
+ 
+<section> Sample size
+ 
+<section> We used standard formulae for the determination of sample size in non-inferiority trials [36].
+ Based on preliminary pilot data, we assumed a cooperation rate of 86 per cent for both the
+ mortality and economic questionnaires, and we set a non-inferiority margin of 5 percentage
+ points. Our null hypothesis was that the cooperation rate among mobile users asked to com-
+ plete the mortality questionnaire is lower than among those allocated to the economic ques-
+ tionnaire by more than 5 percentage points. Our alternative hypothesis was that the
+ cooperation rate among those asked to complete the mortality questionnaire is lower by less
+ than 5 percentage points. To test this hypothesis with a 3:1 allocation ration, 80% power and
+ alpha = 0.05, we required at least 1,194 mobile subscribers allocated to the mortality question-
+ naire and 398 mobile subscribers allocated to the economic questionnaire. Sample size calcula-
+ tions were performed using the SampleSize4ClinicalTrials package in R.
+ 
+<section> Study instruments and procedures
+ 
+<section> In each study group, questionnaires elicited respondents’ socio-economic characteristics such
+ as their marital status and educational level, as well as their household’s access to water and
+ electricity. In the mortality questionnaire, respondents were asked to list deaths that had
+ occurred among members of their households since the beginning of 2021, and to indicate the
+ survival status of their parents and (maternal) siblings.
+ Additional questions were included for respondents who had reported that one of their
+ parents or siblings had died since 2019. Respondents allocated to the abridged mortality 
+<section> questionnaire were solely asked to state the age at death, date of death (month and year) and
+ status of their relative’s death in the national civil registration system. Respondents allocated
+ the extended mortality questionnaire were also asked if their deceased relative(s) had experi-
+ enced symptoms commonly observed in COVID-19 patients (e.g., cough, fatigue, loss of taste/
+ smell), and whether they had sought healthcare in the weeks prior to death. Finally, they were
+ asked to indicate the place of death (e.g., at the hospital or at home) and place of burial of their
+ deceased relatives. In the economic questionnaire, instead of questions about deaths, respon-
+ dents were asked to report their recent economic activities, to list the sources of livelihood of
+ their household, and to describe how they manage their finance (e.g., ownership of bank
+ accounts).
+ In both study groups, we asked respondents about their reactions to the interview. We
+ adapted debriefing questions used in post-disaster surveys to identify respondents who might
+ have experienced negative feelings during the interview [37]. Participants who self-reported
+ negative feelings were asked to classify these feelings on a 3-point scale ranging from “a little
+ upset” to “very upset”. They were also asked if they were still upset by these questions at the
+ end of the interview, or if they were “okay now”. Finally, we asked interviewers to indicate if
+ they noticed signs of emotional distress during the interview (e.g., crying, long silences, voice
+ alterations).
+ We offered psychological support to all respondents who self-reported negative feelings
+ that persisted at the end of the interview, or who were identified by interviewers as having dis-
+ played signs of emotional distress during the interview. If a participant indicated being inter-
+ ested in such a service, the study interviewer transmitted the participant’s phone number to
+ on-call clinical psychologist. This practician then called the referred participant to assess their
+ psychological well-being, provide phone-based counseling, and if needed, provide required
+ referrals for further follow-up.
+ Finally, respondents in both groups were provided details about who to contact if they had
+ questions about the study, and were asked if they wanted to receive information about SARS--
+ CoV-2. If so, study interviewers read a short script that included details about modes of trans-
+ mission, symptoms and strategies to prevent infection/transmission. They also indicated how
+ to get additional information through resources provided by the Ministry of Health (e.g., hot-
+ line, social media).
+ 
+<section> Data collection
+ 
+<section> Interviewers were trained for six days. Training included a review of recruitment, screening
+ and consent procedures, and explanations of survey questions in each study group. Training
+ also included sessions about the use of tablets for mobile data collection, and the development
+ of skills to conduct of sensitive interviews and detect potential signs of distress among mobile
+ respondents. After mock interviews, interviewers conducted a 3-day pilot. The trial was then
+ conducted between September st , 2021 and October th , 2021.
+ All data were collected on tablets using surveyCTO. We recorded how interviewers admin-
+ istered key parts of a randomly selected subset of interviews, including the consent statement,
+ the ascertainment of deaths in the mortality questionnaire, and the assessment of negative
+ reactions to the interview in both study groups. Study supervisors listened to these audio-files
+ to monitor compliance with study instructions, and provided feedback to study interviewers
+ on the basis of these recordings. Study supervisors also placed follow-up calls to a 1 in 15 sam-
+ ple of respondents, which included all participants who experienced negative feelings during
+ the interview, as well as a random sample of respondents who did not experience such reac-
+ tions. During these follow-up calls, supervisors independently re-assessed participants’ 
+<section> reactions to the interview. They also offered psychological support to participants who indi-
+ cated experiencing ongoing negative feelings, and gathered other feedback participants had
+ about their interview.
+ 
+<section> Statistical methods
+ 
+<section> We conducted pre-specified intent-to-treat analyses of trial data. We measured primary and
+ secondary outcomes according to participants’ assigned study questionnaires, then we com-
+ puted the differences in those outcomes between mobile users allocated to the mortality and
+ economic questionnaires. We calculated two-sided confidence intervals around these differ-
+ ences [38], and we assessed the position of these confidence intervals relative to the pre-speci-
+ fied non-inferiority margin (-5 percentage points). In computing confidence intervals, we
+ assumed unequal variances in estimates of proportions between the two study groups.
+ We explored whether respondents with recent deaths among their relatives experienced
+ negative feelings during the interview more frequently than other respondents. We reported
+ the number of participants who asked to obtain counseling and support from our on-call psy-
+ chologist. In the group of participants allocated to the mortality questionnaire, we described
+ the amount of time required to collect data on mortality during mobile phone interviews. We
+ estimated a linear regression model in which interview duration (in minutes) was the depen-
+ dent variable, and predictors included a binary variable denoting the type of mortality ques-
+ tionnaire (abridged vs. extended), a categorical variable indicating how many recent deaths
+ were reported by the respondent (none, one or two or more deaths) and an interaction term
+ between those two variables.
+ We investigated the quality of data on the characteristics of deaths reported during the
+ study. We measured the proportion of reported deaths with missing data on age at death and
+ month of death. We assessed whether these proportions varied by source of the death report
+ (e.g., household deaths, parental deaths or siblings’ deaths). Due to small sample sizes in some
+ categories, we used exact methods to calculate confidence intervals [39]. We described the
+ time series of deaths reported during the survey, by source of the death report. Finally, we mea-
+ sured the proportion of reported deaths that were also registered in the national civil registra-
+ tion system, by year of death and source of the death report.
+ 
+<section> Results
+ 
+<section> Enrollment, participant flow and baseline characteristics
+ 
+<section> Study interviewers dialed more than 7,000 unique mobile numbers (Fig 2). They reached 3,054
+ mobile users but 698 users (22.8%) immediately indicated that they were not interested in the
+ study. Only 5 mobile users (0.2%) were excluded due to language-related reasons. Among
+ mobile users whose eligibility was assessed (n = 2,318), 69 did not meet the age-related inclu-
+ sion criteria (2.9%), and 566 were excluded because their sampling quota had already been
+ filled (24.4%). In total, 1,683 mobile users were randomized to the mortality or economic
+ questionnaire.
+ Due to preset quotas, the study sample included similar numbers of men and women
+ (Table 1). More than 1 in 4 participants was aged 18–24 years old, whereas 1 in 7 participants
+ was aged 45 years and older. Approximately 20% of the study sample was located in the north-
+ ern region of Malawi. The southern and central regions each accounted for approximately
+ 40% of the sample. Twenty-eight per cent of the mobile users who were randomized to the
+ mortality or economic questionnaire resided in a city, whereas 49.3% of the mobile users
+ described their place of residence as a town or trading center, and 22.7% were residents of 
+<section> Fig 2. Flow chart of study
+ https://doi.org/10.1371/journal.pgph.0000852.g002
+ 
+<section> enrollment. 
+<insert> Table 1. Characteristics of study participants, by study group.
+ Mortality questionnaire (N = 1270) Economic questionnaire (N = 413) Overall (N = 1683)
+ Gender
+ Male 650 (51.2%) 209 (50.6%) 859 (51.0%)
+ Female 620 (48.8%) 204 (49.4%) 824 (49.0%)
+ Age group
+ 18-24y 317 (25.0%) 107 (25.9%) 424 (25.2%)
+ 25-34y 479 (37.7%) 170 (41.2%) 649 (38.6%)
+ 35-44y 290 (22.8%) 80 (19.4%) 370 (22.0%)
+ 45-54y 134 (10.6%) 41 (9.9%) 175 (10.4%)
+ 55-64y 50 (3.9%) 15 (3.6%) 65 (3.9%)
+ 260 (20.5%) 72 (17.4%) 332 (19.7%)
+ Region
+ Northern
+ Central 481 (37.9%) 180 (43.6%) 661 (39.3%)
+ Southern 529 (41.7%) 161 (39.0%) 690 (41.0%)
+ Area of residence
+ City 356 (28.0%) 115 (27.8%) 471 (28.0%)
+ Town/Trading Centre 621 (48.9%) 209 (50.6%) 830 (49.3%)
+ Villages 293 (23.1%) 89 (21.5%) 382 (22.7%)
+ Notes: Figures in parentheses are column percentages. The variables included in this table are extracted from the screening form, which was completed by all
+ randomized participants.
+ https://doi.org/10.1371/journal.pgph.0000852.t001 
+<iend>
+
+ 
+<section> villages. There were no important differences in background characteristics between mobile
+ users allocated to the mortality or economic questionnaire.
+ The distribution of interview results among randomized mobile users is presented in S1
+ Table. The overall cooperation rate was 92.2% (1,552/1,683). Seventy-eight mobile users
+ refused to provide consent (4.6%). Thirty-two mobile users (1.9%) consented but opted to be
+ called at another time to complete the interview (“call-backs”). Study interviewers could not
+ reach them again despite multiple attempts. Finally, 21 mobile users discontinued their inter-
+ view (1.2%).
+ 
+<section> Primary outcome
+ 
+<section> Among mobile users allocated to the mortality questionnaire, the cooperation rate was 92.4%
+ (1,174/1,270) vs. 91.5% among users allocated to the economic questionnaire (378/413). This
+ difference of 0.9 percentage points (95% CI = -2.3 to 4.1) meets our criterion for non-inferior-
+ ity (Fig 3).
+ 
+<section> Secondary outcomes
+ 
+<section> Among those allocated to the mortality questionnaire, 39 out of 1,213 mobile users who con-
+ sented to participate did not complete their interview (96.8% completion rate, S1 Table) vs.
+ out of 392 mobile users allocated to the economic questionnaire (96.4% completion rate). Sim-
+ ilarly, 1,134 of the 1,174 respondents who completed the mortality survey did not self-report
+ that they were upset by some of the interview questions (96.6%) vs. 367 out of 378 among
+ those who completed the economic survey (97.1%). Finally, 94.7% of participants who
+ answered the mortality questionnaire and 93.7% of those who answered the economic ques-
+ tionnaire stated their intention to participate again in (hypothetical) similar interviews in the 
+<section> Fig 3. Differences in study outcomes
+ They are calculated as % in the group
+ represent two-sided 95% confidence
+ confidence interval remains to the right
+ confidence intervals. NI = Non-inferiority.
+ 
+<section> https://doi.org/10.1371/journal.pgph.0000852.g003
+ 
+<section> between mortality and economic questionnaires. Notes: Values of the x-axis are expressed in percentage points.
+ allocated to the mortality questionnaire, minus the % in the group allocated to the economic questionnaire. Error bars
+ intervals around the difference in proportions between study groups. The non-inferiority criterion is met when the
+ of the non-inferiority margin (red vertical line). Similar results were obtained when calculating one-sided 
+<section> near future. The non-inferiority criterion was met for all pre-specified secondary outcomes
+ (Fig 3).
+ 
+<section> Referrals to psychological counselling
+ 
+<section> Fifty-one participants self-reported being upset by (some of) the interview questions. Among
+ 40 participants in the mortality survey group who self-reported negative feelings, 12 indicated
+ that they were “very upset” by some of the interview questions. Participants with a recent
+ death among their relatives reported being “very upset” more frequently than other partici-
+ pants (S1 Fig). Among those who completed the economic survey, all participants who self-
+ reported negative feelings (n = 11) indicated being either “a little upset” or “moderately upset”.
+ Among respondents who self-reported negative feelings, 3 stated that they were still upset
+ at the end of the interview (all in the group allocated to the mortality questionnaire). Study
+ interviewers identified 6 additional participants who displayed signs of distress during the
+ interview, but who did not self-report being upset (3 participants who completed the mortality
+ survey, and 3 who completed the economic survey). In follow-up calls with study supervisors
+ that took place 1–2 days after the interview, a few respondents who did not initially self-report
+ negative feelings indicated that some of the questions asked during the interview had made
+ them upset (S2 Table, n = 7). None of these respondents however reported that these negative
+ feelings persisted at the time of their call with study supervisors. In total, 9 respondents were
+ informed about the possibility to talk to an on-call clinical psychologist who would provide
+ support and information. Three participants (2 in the group allocated to the mortality survey,
+ and 1 in the group allocated to the economic survey) accepted this offer and were contacted.
+ After the call with the clinical psychologist, none of those 3 participants required additional
+ referrals and follow-up.
+ 
+<section> Interview duration
+ 
+<section> On average, study participants allocated to the mortality questionnaire required 18 minutes
+ complete all study procedures, including screening, consent and debriefing (S2 Fig). Partici-
+ pants who did not report any recent death required on average 16 minutes to complete study
+ procedures (Fig 4). Among participants allocated to the abridged mortality questionnaire,
+ those who reported one recent death among their household members or relatives required
+ additional 1.9 minute to complete the interview, whereas those who reported 2 or more such
+ deaths required 4.4 additional minutes. Among those who were assigned to the extended mor-
+ tality questionnaire, similar estimates of additional time required were 4.0 minutes and 12.3
+ minutes, respectively.
+ 
+<section> Data quality
+ 
+<section> The characteristics of recent deaths reported by mobile respondents are described in Fig
+ The likelihood of missing data on age at death and month of death varied by source of death
+ report, with lowest levels observed among household deaths (0–3%) and highest levels
+ observed among deaths of siblings (>10%, panel A). Counts of reported siblings’ deaths varied
+ between 2 and 12 per quarter over the 3 years preceding the survey, whereas reported parental
+ deaths varied between 4 and 14 per quarter (Fig 5, panel B). Questions on household deaths
+ generated between 9 and 21 reports of deaths per quarter in 2021. Between half and two thirds
+ of recent deaths reported during the survey were not registered with the national registration
+ bureau, depending on the source of the report and the year of death (Fig 5, panel C). 
+<section> Fig 4. Duration of treatment group
+ represent 95% confidence intervals obtained
+ https://doi.org/10.1371/journal.pgph.0000852.g004
+ 
+<section> interviews, by type of mortality questionnaire and recent deaths among respondents’ relatives. Notes: Error bars
+ from linear regression models.
+ 
+<section> Discussion
+ 
+<section> In this randomized trial in Malawi, a mortality-related questionnaire administered by mobile
+ phone was non-inferior to a questionnaire about economic activity recognized as highly
+ acceptable. Cooperation and completion rates were high among respondents asked to answer
+ questions about recent deaths in their households and families. The frequency of self-reported
+ negative feelings was low (<3%), and it was not heightened compared to respondents who 
+<section> Fig 5. Exploratory assessments of the
+ The difference in the likelihood of missing
+ quarter of a year, i.e., January, February
+ 2021 were omitted from the plot. Household
+ each bar is proportional to the number
+ 
+<section> https://doi.org/10.1371/journal.pgph.0000852.g005
+ 
+<section> quality of reported data on recent deaths. Notes: In Panel A), error bars represent 95% exact confidence intervals.
+ data on age at death by source of report was significant at the p<0.05 level. In Panel B), Q1 refers to the first
+ and March. Two deaths reported to have occurred in October 2021 by respondents interviewed after October st
+ 
+<section> deaths were only elicited for the period between the start of 2021 and the survey data. In Panel C), the width
+ of deaths reported in each year.
+ 
+<section> were asked economic questions. Respondents who reported a recent family or household
+ death during the interview experienced stronger negative feelings than other respondents, but
+ these feelings were often transitory, i.e., respondents reported that they had dissipated by the
+ end of the interview. The few respondents who opted to talk to an on-call clinical psychologist 
+<section> did not require further follow-up. In this trial, concerns that questions related to mortality
+ might be too sensitive to ask during mobile phone surveys were thus not realized.
+ We used questionnaires that were more detailed than instruments included in previous
+ mortality-related mobile phone surveys, which focused on specific types of deaths (e.g., Ebola
+ or COVID-19 deaths), or only ascertained deaths among members of the respondent’s house-
+ hold. We included questions about mortality that emulated those asked during household sur-
+ veys and censuses. In addition to recent household deaths, they covered survival of close
+ relatives (e.g., siblings, parents) and elicited additional information required to better under-
+ stand the determinants and context of excess mortality. Asking such questions about mortality
+ required an additional 2–4 minutes per reported death, depending on the inclusion of ques-
+ tions about circumstances, symptoms and healthcare use around the time of death. This time
+ investment concerns only a small group of survey participants, since >80% of respondents did
+ not report any recent death in our mobile phone survey.
+ Mortality-related phone interviews generated data that appeared of good quality. Missing
+ data on age at death, and date of death, were limited. They were more frequent in reported
+ deaths of siblings, and least frequent in reported deaths of household members. The levels of
+ missing data we observed were comparable to those observed in many household surveys con-
+ ducted in-person [40]. In this sample, the mortality questions generated reports of approxi-
+ mately 8.4 deaths per quarter over the past 3 years, with marked increases in the most recent
+ time period (i.e., the first 3 quarters of 2021) when questions about household deaths were
+ applicable. Future work should investigate the sample sizes required in mobile phone surveys
+ to allow detecting short-term fluctuations in mortality.
+ Our data indicate that 50–65% of the deaths that were reported during mobile phone inter-
+ views had not been previously registered with the National Registration Bureau, i.e., the
+ administrative unit in charge of civil registration in Malawi. Conducting mortality-related
+ mobile phone surveys might thus supplement existing administrative data collection systems.
+ Mobile phone surveys might also fill gaps in other mortality surveillance systems recom-
+ mended by the World Health Organization to monitor the death toll of the COVID-19 pan-
+ demic and other health crises [41]. These systems entail, for example, extracting data about
+ deaths from registers maintained by health facilities, or tallying the number of burials taking
+ place at local cemeteries. New data sources (e.g., satellite images, social media) might also help
+ keep track of increasing numbers of deaths [42,43].
+ Unfortunately, setting up such facility-based or community-based surveillance of mortality
+ is complex, particularly during an epidemic or a conflict. It requires significant investments
+ data acquisition and management. Baseline data that pre-date health crises might be difficult
+ to obtain, for example if historical records were not properly kept at a health facility or ceme-
+ tery. Behaviors related to the management of deaths (e.g., where and when to carry out a
+ burial) might also change during epidemics and other crises, due to restrictions on mobility
+ access to health facilities. In such contexts, short-term fluctuations in mortality documented
+ by newly established surveillance systems might be due to behavioral changes as well as excess
+ mortality. Finally, rapid mortality surveillance systems have been predominantly established
+ large urban areas [44]. Small towns and rural areas are less often included in such initiatives.
+ By contrast with recommended facility-based and community-based approaches to mortal-
+ ity surveillance, mobile phone surveys are significantly less complex to initiate. Random sam-
+ ples of mobile subscribers can be quickly generated, by using the country’s numbering scheme
+ and/or forming partnerships with mobile providers or global sampling platforms. Interviewers
+ can often be trained remotely [45] and work from their own homes [22,31]. By using question-
+ naires similar to those used in prior household surveys and censuses, the data generated by
+ mobile phone surveys might be compared with previous mortality estimates [23,25]. Finally, 
+<section> due to the growing penetration of mobile phones in more remote areas, mobile phone surveys
+ have the potential to help assess mortality trends in areas seldom covered by other rapid sur-
+ veillance systems (e.g., rural or semi-urban areas).
+ 
+<section> Our trial has several limitations
+ 
+<section> First, our sample size was too small to assess the quality of mortality-related data generated by
+ MPS in more detail. We thus could not measure heaping in reported ages of siblings [46], nor
+ could we investigate the reporting of deaths on shorter time scales (e.g., weeks). Second, some
+ of the outcomes we considered (e.g., negative feelings, death registration) were based on self-
+ reported data. They might have been affected by social desirability biases. If the extent of such
+ biases did not differ by trial group, our assessments of the non-inferiority of the mortality
+ questionnaire are however unaffected. In addition, we implemented robustness checks (e.g.,
+ audio-recordings, supervisor follow-ups) to enhance the reliability of these data. Finally, we
+ did not explore the acceptability of more extensive mortality questionnaires that might enable
+ the attribution of causes of deaths [47], nor did we investigate the measurement of child mor-
+ tality through the collection of birth or pregnancy histories [48].
+ The development of mobile phone surveys as a reliable tool for mortality surveillance in
+ LLMICs requires investigating the selectivity of samples recruited by mobile phone. These
+ samples exclude population members who do not have access to a mobile phone. They dispro-
+ portionately include younger and more urban respondents [49]. In LLMIC settings, samples
+ of mobile subscribers often predominantly include males [50], who are more likely to be
+ phone owners. Patterns of phone ownership and utilization might also change over the course
+ of an epidemic, for example if poor households are forced to sell mobile phones due to hard-
+ ship, or are less able to afford charging their phone (and may not be reachable). Mobile users
+ in the rural areas may not be reachable because more limited access to electricity might prevent
+ them from charging their mobile phone consistently. The biases stemming from limited access
+ to mobile phones in local populations might be more pronounced in LLMICs like Malawi
+ where a large proportion of the population does not personally own a mobile phone, and
+ where access to mobile phones varies sharply between socio-economic groups (Fig 1). Biases
+ related to sample selectivity might be more limited in other LLMICs where mobile phone own-
+ ership is more widespread (e.g., Kenya). Statistical models that account for such complex pat-
+ terns of selectivity in estimating mortality rates from survey data collected by mobile phone
+ should be developed and tested.
+ Despite limitations and ongoing research needs, our work in Malawi suggests that mobile
+ phone surveys are a potentially useful tool for mortality surveillance in LLMICs with limited
+ civil registration systems.
+ 
+<section> Supporting information
+ 
+<section> S1 Checklist. CONSORT checklist.
+ 
+<section> (DOC)
+ 
+<section> S1 Fig. Strength of self-reported negative feelings experienced during the interview, by
+ reports of recent deaths and study group. Notes: Respondents were first asked if any of the
+ interview questions made them upset, and if so, they were asked to indicate the severity of
+ their negative feelings. In the group asked mortality-related questions, the strength of negative
+ feelings was associated with recent reports of deaths (p = 0.02). In the mortality-related group
+ group, the width of each bar is proportional to the number of respondents reporting different 
+<section> numbers of deaths during the interview.
+ 
+<section> (PDF)
+ 
+<section> S2 Fig. Interview duration in the group asked mortality-related questions, by type of mor-
+ 
+<section> tality questionnaire administered. Notes: The dashed vertical line represent the mean dura-
+ tion of interviews in the group asked questions related to mortality, regardless of questionnaire
+ type (abridged vs. extended).
+ 
+<section> (PDF)
+ 
+<section> S1 Table. Distribution of study results, by study group. Notes: “Busy/call-back” refers to
+ respondents who consented to being interviewed, indicated that they would prefer being
+ called-back at a later time, and could not be reached again before the completion of the study.
+ 
+<section> (DOCX)
+ 
+<section> S2 Table. Concordance of self-reported data on negative feeling. Notes: Supervisor follow-
+ ups were conducted 1–2 days after the initial interview. The supervisors were not aware of the
+ answers provided about self-reported feelings during the initial interview; nor were they aware
+ of the respondents’ assignment to the different study groups.
+ 
+<section> (DOCX)
+ 
+<section> Author Contributions
+ 
+<section> Conceptualization: Augustine T. Choko, Boniface Dulani, Stéphane Helleringer.
+ 
+<section> Data curation: Michael Chasukwa, Augustine T. Choko, Jacob Saikolo, Malebogo Tlhajoane,
+ Boniface Dulani, Stéphane Helleringer.
+ 
+<section> Formal analysis: Augustine T. Choko, Jacob Saikolo, Stéphane Helleringer.
+ 
+<section> Funding acquisition: Georges Reniers, Stéphane Helleringer.
+ 
+<section> Investigation: Michael Chasukwa, Mathero M. Nkhalamba, Jacob Saikolo.
+ 
+<section> Methodology: Michael Chasukwa, Augustine T. Choko, Georges Reniers, Stéphane
+ Helleringer.
+ 
+<section> Project administration: Michael Chasukwa, Funny Muthema, Jacob Saikolo, Boniface
+ Dulani.
+ 
+<section> Resources: Michael Chasukwa, Funny Muthema.
+ 
+<section> Software: Jacob Saikolo.
+ 
+<section> Supervision: Michael Chasukwa, Funny Muthema.
+ 
+<section> Validation: Michael Chasukwa, Funny Muthema.
+ 
+<section> Visualization: Augustine T. Choko, Stéphane Helleringer.
+ 
+<section> Writing – original draft: Michael Chasukwa, Stéphane Helleringer.
+ 
+<section> Writing – review & editing: Augustine T. Choko, Funny Muthema, Mathero M. Nkhalamba,
+ Jacob Saikolo, Malebogo Tlhajoane, Georges Reniers, Boniface Dulani.
+ 
+<section> References
+ 
+<section> Haider MM, Alam N, Ibn Bashar M, Helleringer S. Adult death registration in Matlab, rural Bangladesh:
+ completeness, correlates, and obstacles. Genus 2021; 77:13. https://doi.org/10.1186/s41118-021-
+ 
+<section> 00125-7 PMID: 34312569 
+<section> Mikkelsen L, Phillips DE, AbouZahr C, Setel PW, de Savigny D, Lozano R, et al. A global assessment
+ civil registration and vital statistics systems: monitoring data quality and progress. Lancet 2015;
+ 386:1395–406. https://doi.org/10.1016/S0140-6736(15)60171-4 PMID: 25971218
+ Setel PW, Macfarlane SB, Szreter S, Mikkelsen L, Jha P, Stout S, et al. A scandal of invisibility: making
+ everyone count by counting everyone. Lancet 2007; 370:1569–77. https://doi.org/10.1016/S0140-6736
+ 
+<section> (07)61307-5 PMID: 17992727
+ 
+<section> Masquelier B, Reniers G, Pison G. Divergences in trends in child and adult mortality in sub-Saharan
+ 
+<section> Africa: survey evidence on the survival of children and siblings. Popul Stud (Camb) 2014; 68:161–77.
+ https://doi.org/10.1080/00324728.2013.856458 PMID: 24303913
+ 
+<section> Kuehne A, Lynch E, Marshall E, Tiffany A, Alley I, Bawo L, et al. Mortality, Morbidity and Health-Seeking
+ Behaviour during the Ebola Epidemic 2014–2015 in Monrovia Results from a Mobile Phone Survey.
+ 
+<section> PLoS Negl Trop Dis 2016; 10:e0004899. https://doi.org/10.1371/journal.pntd.0004899 PMID:
+ 
+<section> 27551750
+ 
+<section> Jalloh MF, Kaiser R, Diop M, Jambai A, Redd JT, Bunnell RE, et al. National reporting of deaths after
+ enhanced Ebola surveillance in Sierra Leone. PLOS Neglected Tropical Diseases 2020; 14:e0008624.
+ https://doi.org/10.1371/journal.pntd.0008624 PMID: 32810138
+ 
+<section> Hasell J, Mathieu E, Beltekian D, Macdonald B, Giattino C, Ortiz-Espina E, et al. A cross-country data-
+ base of COVID-19 testing. Sci Data 2020; 7:345. https://doi.org/10.1038/s41597-020-00688-8 PMID:
+ 
+<section> 33033256
+ 
+<section> Riffe T, Acosta E, the COVerAGE-DB team. Data Resource Profile: COVerAGE-DB: a global demo-
+ graphic database of COVID-19 cases and deaths. International Journal of Epidemiology 2021; 50:390–
+ 390f. https://doi.org/10.1093/ije/dyab027
+ 
+<section> Chisumpa VH, Odimegwu CO, De Wet N. Adult mortality in sub-saharan Africa, Zambia: Where do
+ adults die? SSM Popul Health 2017; 3:227–35. https://doi.org/10.1016/j.ssmph.2017.02.001 PMID:
+ 
+<section> 29349220
+ 
+<section> Lankoandé B, Duthé G, Soura A, Pison G. Returning home to die or leaving home to seek health care?
+ Location of death of urban and rural residents in Burkina Faso and Senegal. Global Health Action 2018;
+ 11:1475040. https://doi.org/10.1080/16549716.2018.1475040 PMID: 29869949
+ Wilhelm JA, Helleringer S. Utilization of non-Ebola health care services during Ebola outbreaks: a sys-
+ tematic review and meta-analysis. J Glob Health 2019; 9:010406. https://doi.org/10.7189/jogh.09.
+ 
+<section> 010406 PMID: 30701070
+ 
+<section> Delamou A, Delvaux T, El Ayadi AM, Beavogui AH, Okumura J, Van Damme W, et al. Public health
+ impact of the 2014–2015 Ebola outbreak in West Africa: seizing opportunities for the future. BMJ Glob
+ Health 2017; 2:e000202. https://doi.org/10.1136/bmjgh-2016-000202 PMID: 28589018
+ Connolly E, Boley EJ, Fejfar DL, Varney PF, Aron MB, Fulcher IR, et al. Childhood immunization during
+ the COVID-19 pandemic: experiences in Haiti, Lesotho, Liberia and Malawi. Bull World Health Organ
+ 2022; 100:115–126C. https://doi.org/10.2471/BLT.21.286774 PMID: 35125536
+ Dorrington RE, Moultrie TA, Laubscher R, Groenewald PJ, Bradshaw D. Rapid mortality surveillance
+ using a national population register to monitor excess deaths during SARS-CoV-2 pandemic in South
+ Africa. Genus 2021; 77:19. https://doi.org/10.1186/s41118-021-00134-6 PMID: 34493876
+ Whittaker C, Walker PGT, Alhaffar M, Hamlet A, Djaafara BA, Ghani A, et al. Under-reporting of deaths
+ limits our understanding of true burden of covid-19. BMJ 2021; 375:n2239. https://doi.org/10.1136/bmj.
+ 
+<section> n2239 PMID: 34642172
+ 
+<section> AbouZahr C, Bratschi MW, Cercone E, Mangharam A, de Savigny D, Dincu I, et al. The COVID-19 Pan-
+ demic: Effects on Civil Registration of Births and Deaths and on Availability and Utility of Vital Events
+ Data. Am J Public Health 2021; 111:1123–31. https://doi.org/10.2105/AJPH.2021.306203 PMID:
+ 
+<section> 33856881
+ 
+<section> Rao C, John AJ, Yadav AK, Siraj M. Subnational mortality estimates for India in 2019: a baseline for
+ evaluating excess deaths due to the COVID-19 pandemic. BMJ Global Health 2021; 6:e007399. https://
+ doi.org/10.1136/bmjgh-2021-007399 PMID: 34824138
+ 
+<section> Gibson DG, Pereira A, Farrenkopf BA, Labrique AB, Pariyo GW, Hyder AA. Mobile Phone Surveys for
+ Collecting Population-Level Estimates in Low- and Middle-Income Countries: A Literature Review. J
+ Med Internet Res 2017; 19:e139. https://doi.org/10.2196/jmir.7428 PMID: 28476725
+ Hyder AA, Wosu AC, Gibson DG, Labrique AB, Ali J, Pariyo GW. Noncommunicable Disease Risk Fac-
+ tors and Mobile Phones: A Proposed Research Agenda. J Med Internet Res 2017; 19:e133. https://doi.
+ 
+<section> org/10.2196/jmir.7246 PMID: 28476722
+ 
+<section> Egger D, Miguel E, Warren SS, Shenoy A, Collins E, Karlan D, et al. Falling living standards during the
+ 
+<section> COVID-19 crisis: Quantitative evidence from nine developing countries. Science Advances 2021; 7:
+ eabe0997. https://doi.org/10.1126/sciadv.abe0997 PMID: 33547077 
+<section> Morse B, Grépin KA, Blair RA, Tsai L. Patterns of demand for non-Ebola health services during and
+ after the Ebola outbreak: panel survey evidence from Monrovia, Liberia. BMJ Global Health 2016; 1:
+ e000007. https://doi.org/10.1136/bmjgh-2015-000007 PMID: 28588907
+ Hensen B, Mackworth-Young CRS, Simwinga M, Abdelmagid N, Banda J, et al. Remote data collection
+ for public health research in a COVID-19 era: ethical implications, challenges and opportunities. Health
+ Policy Plan 2021; 36:360–8. https://doi.org/10.1093/heapol/czaa158 PMID: 33881138
+ Bamezai A, Banaji M, Gupta A, Pandey S, Sharan MR, Sharma K, et al. Survey evidence of excess
+ mortality in Bihar in the second COVID-19 surge. 2021. https://doi.org/10.31235/osf.io/zxq97
+ Barnwal P, Yao Y, Wang Y, Juy NA, Raihan S, Haque MA, et al. No excess mortality detected in rural
+ Bangladesh in 2020 from repeated surveys of a population of 81,000. 2021. https://doi.org/10.1101/
+ 
+<section> 2021.05.07.21256865
+ Jha P, Deshmukh Y, Tumbe C, Suraweera W, Bhowmick A, Sharma S, et al. COVID mortality in India:
+ National survey data and health facility deaths. Science 2022;:eabm5154. https://doi.org/10.1126/
+ 
+<section> science.abm5154 PMID: 34990216
+ Zezza A, Martuscelli A, Wollburg P, Gourlay S, Kilic T. Viewpoint: High-frequency phone surveys on
+ 
+<section> COVID-19: Good practices, open questions. Food Policy 2021; 105:102153. https://doi.org/10.1016/j.
+ 
+<section> foodpol.2021.102153 PMID: 34483442
+ Kaji AH, Lewis RJ. Noninferiority Trials: Is a New Treatment Almost as Effective as Another? JAMA
+ 2015; 313:2371–2. https://doi.org/10.1001/jama.2015.6645 PMID: 26080342
+ Aburto JM, Schöley J, Kashnitsky I, Zhang L, Rahal C, Missov TI, et al. Quantifying impacts of the
+ 
+<section> COVID-19 pandemic through life-expectancy losses: a population-level study of 29 countries. Interna-
+ tional Journal of Epidemiology 2022; 51(1):63–74. https://doi.org/10.1093/ije/dyab207 PMID: 34564730
+ Kanyuka M, Ndawala J, Mleme T, Chisesa L, Makwemba M, Amouzou A, et al. Malawi and Millennium
+ 
+<section> Development Goal 4: a Countdown to 2015 country case study. The Lancet Global Health 2016; 4:
+ e201–14. https://doi.org/10.1016/S2214-109X(15)00294-6 PMID: 26805586
+ Kao K, Lust E, Dulani B, Ferree KE, Harris AS, Metheney E. The ABCs of Covid-19 prevention in
+ 
+<section> Malawi: Authority, benefits, and costs of compliance. World Development 2021; 137:105167. https://
+ doi.org/10.1016/j.worlddev.2020.105167 PMID: 32904501
+ Banda J, Dube A, Brumfield S, Amoah A, Crampin AC, Reniers G, et al. Knowledge, risk perceptions,
+ and behaviors related to the COVID-19 pandemic in Malawi. Demographic Research 2021; 44:459–80.
+ https://doi.org/10.4054/DemRes.2021.44.20
+ Chikoti L, Vundru WD, Fuje HN, Kanyanda SS, Kanyuka ME, Kilic T, et al. Monitoring COVID-19
+ 
+<section> Impacts on Households in Malawi: Findings from the First Round of the High-Frequency Phone Survey.
+ 
+<section> Washington, DC: World Bank Group 2020. http://documents.worldbank.org/curated/en/5915515977
+ 06342578/Findings-from-the-First-Round-of-the-High-Frequency-Phone-Survey (accessed 30 Sep
+ 2020).
+ Corsi DJ, Neuman M, Finlay JE, Subramanian SV. Demographic and health surveys: a profile. Int J Epi-
+ demiol 2012; 41:1602–13. https://doi.org/10.1093/ije/dys184 PMID: 23148108
+ Sachathep K, Radin E, Hladik W, Hakim A, Saito S, Burnett J, et al. Population-Based HIV Impact
+ Assessments Survey Methods, Response, and Quality in Zimbabwe, Malawi, and Zambia. JAIDS Jour-
+ nal of Acquired Immune Deficiency Syndromes 2021; 87:S6. https://doi.org/10.1097/QAI.0000000000
+ 
+<section> 002710 PMID: 34166308
+ Gibson DG, Wosu AC, Pariyo GW, Ahmed S, Ali J, Labrique AB, et al. Effect of airtime incentives on
+ response and cooperation rates in non-communicable disease interactive voice response surveys: ran-
+ domised controlled trials in Bangladesh and Uganda. BMJ Global Health 2019; 4:e001604. https://doi.
+ org/10.1136/bmjgh-2019-001604 PMID: 31565406
+ Schumi J, Wittes JT. Through the looking glass: understanding non-inferiority. Trials 2011; 12:106.
+ https://doi.org/10.1186/1745-6215-12-106 PMID: 21539749
+ Galea S, Nandi A, Stuber J, Gold J, Acierno R, Best CL, et al. Participant reactions to survey research
+ in the general population after terrorist attacks. Journal of Traumatic Stress 2005; 18:461–5. https://doi.
+ 
+<section> org/10.1002/jts.20053 PMID: 16281243
+ Dunn DT, Copas AJ, Brocklehurst P. Superiority and non-inferiority: two sides of the same coin? Trials
+ 2018; 19:499. https://doi.org/10.1186/s13063-018-2885-z PMID: 30223881
+ Vollset SE. Confidence intervals for a binomial proportion. Statistics in Medicine 1993; 12:809–24.
+ https://doi.org/10.1002/sim.4780120902 PMID: 8327801
+ Ahmed S, Li Q, Scrafford C, Pullum TW. An assessment of DHS maternal mortality data and estimates.
+ 
+<section> Published Online First: 1 September 2014.https://dhsprogram.com/publications/publication-mr13-
+ methodological-reports.cfm (accessed 12 Jan 2022). 
+<section> Setel P, AbouZahr C, Atuheire EB, Bratschi M, Cercone E, Chinganya O, et al. Mortality surveillance
+ during the COVID-19 pandemic. Bull World Health Organ 2020; 98:374. https://doi.org/10.2471/BLT.
+ 
+<section> 20.263194 PMID: 32514207
+ Koum Besson ES, Norris A, Bin Ghouth AS, Freemantle T, Alhaffar M, Vazquez Y, et al. Excess mortal-
+ ity during the COVID-19 pandemic: a geospatial and statistical analysis in Aden governorate, Yemen.
+ 
+<section> BMJ Glob Health 2021; 6:e004564. https://doi.org/10.1136/bmjgh-2020-004564 PMID: 33758012
+ Warsame A, Bashiir F, Freemantle T, Williams C, Vazquez Y, Reeve C, et al. Excess mortality during
+ the COVID-19 pandemic: a geospatial and statistical analysis in Mogadishu, Somalia. International
+ Journal of Infectious Diseases 2021; 113:190–9. https://doi.org/10.1016/j.ijid.2021.09.049 PMID:
+ 
+<section> 34571148
+ Mwananyanda L, Gill CJ, MacLeod W, Kwenda G, Pieciak R, Mupila Z, et al. Covid-19 deaths in Africa:
+ prospective systematic postmortem surveillance study. BMJ 2021; 372:n334. https://doi.org/10.1136/
+ 
+<section> bmj.n334 PMID: 33597166
+ Turke S, Nehrling S, Adebayo SO, Akilimali P, Idiodi I, Mwangi A, et al. Remote Interviewer Training
+ COVID-19 Data Collection: Challenges and Lessons Learned From 3 Countries in Sub-Saharan Africa.
+ 
+<section> Global Health: Science and Practice 2021; 9:177–86. https://doi.org/10.9745/GHSP-D-20-00468
+ 
+<section> PMID: 33795368
+ Lyons-Amos M, Stones T. Trends in Demographic and Health Survey data quality: an analysis of age
+ heaping over time in 34 countries in Sub Saharan Africa between 1987 and 2015. BMC Research
+ Notes 2017; 10:760. https://doi.org/10.1186/s13104-017-3091-x PMID: 29262857
+ Duarte-Neto AN, Marinho M de F, Barroso LP, Saldiva de André CD, da Silva LFF, Dohlnikoff M, et al.
+ Rapid Mortality Surveillance of COVID-19 Using Verbal Autopsy. Int J Public Health 2021; 66:1604249.
+ https://doi.org/10.3389/ijph.2021.1604249 PMID: 34675760
+ Akuze J, Blencowe H, Waiswa P, Baschieri A, Gordeev VS, Kwesiga D, et al. Randomised comparison
+ of two household survey modules for measuring stillbirths and neonatal deaths in five countries: the
+ Every Newborn-INDEPTH study. The Lancet Global Health 2020; 8:e555–66. https://doi.org/10.1016/
+ 
+<section> S2214-109X(20)30044-9 PMID: 32199123
+ Labrique A, Blynn E, Ahmed S, Gibson D, Pariyo G, Hyder AA. Health Surveys Using Mobile Phones
+ Developing Countries: Automated Active Strata Monitoring and Other Statistical Considerations for
+ Improving Precision and Reducing Biases. Journal of Medical Internet Research. 2017 May 5; 19(5):
+ e7329. https://doi.org/10.2196/jmir.7329 PMID: 28476726
+ Hersh S, Nair D, Komaragiri PB, Adlakha RK. Patchy signals: capturing women’s voices in mobile
+ phone surveys of rural India. BMJ Glob Health. 2021 Sep; 6(Suppl 5):e005411. https://doi.org/10.1136/
+ 
+<section> bmjgh-2021-005411 PMID: 34475116

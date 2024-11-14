@@ -1,0 +1,1202 @@
+
+<section> To cite: Razzak JA, Agrawal P,
+ 
+<section> Chand Z, et al. Impact of
+ community education on
+ heat-­related health outcomes
+ 
+<section> and heat literacy among
+ low- i ncome communities
+ 
+<section> in Karachi, Pakistan: a
+ 
+<section> randomised controlled
+ 
+<section> trial. BMJ Global Health
+ 2022;7:e006845. doi:10.1136/
+ 
+<section> bmjgh-2021-006845
+ 
+<section> Handling editor Seye Abimbola
+ 
+<section> Received 8 July 2021
+ Accepted 3 January 2022
+ 
+<section> © Author(s) (or their
+ employer(s)) 2022. Re-­use
+ permitted under CC BY-­NC. No
+ commercial re-­use. See rights
+ and permissions. Published by
+ BMJ.
+ For numbered affiliations see
+ end of article.
+ 
+<section> Correspondence to
+ 
+<section> Dr Junaid Abdul Razzak;
+ ​junaid.​razzak@ m ed.​cornell. e du
+ 
+<section> Impact of community
+ 
+<section> heat-­related health outcomes
+ 
+<section> literacy among low-­income
+ 
+<section> communities in Karachi,
+ 
+<section> randomised controlled
+ 
+<section> Junaid Abdul Razzak, 1 Priyanka Agrawal
+ Abdul Ghaffar , 5 Adnan A Hyder
+ 
+<section> ABSTRACT
+ 
+<section> Background Extreme heat exposure is a growing public
+ health concern. In this trial, we tested the impact of a
+ community health worker (CHW) led heat education
+ programme on all-­cause mortality, unplanned hospital
+ visits and changes in knowledge and practices in Karachi,
+ Pakistan.
+ 
+<section> Methods The Heat Emergency Awareness and Treatment
+ trial was a community-­based, open-­label, two-­group,
+ unblinded cluster-­randomised controlled trial that
+ implemented a CHW-­led educational intervention between
+ March and May 2018 in Karachi, Pakistan. We randomly
+ assigned (1:1) 16 clusters, each with ~185 households
+ or 1000 population, to the intervention or usual care
+ (control group). We collected data on all-­cause mortality,
+ unplanned hospital visits, evidence of heat illness through
+ surveillance and a knowledge and practice survey during
+ the summer months of 2017 (preintervention) and 2018
+ (postintervention).
+ 
+<section> Findings We recruited 18 554 participants from 2991
+ households (9877 individuals (1593 households) in the
+ control group and 8668 individuals (1398 households)
+ in the intervention group). After controlling for temporal
+ trends, there was a 38% (adjusted OR 0.62, 95% CI 0.49
+ to 0.77) reduction in hospital visits for any cause in the
+ intervention group compared with the control group. In
+ addition, there was an improvement in many areas of
+ knowledge and practices, but there was no significant
+ difference in all-­cause mortality.
+ 
+<section> Interpretation A CHW-­led community intervention was
+ associated with decreased unscheduled hospital visits,
+ improved heat literacy and practices but did not impact
+ all-­cause mortality. CHWs could play an essential role in
+ preparing communities for extreme heat events.
+ 
+<section> Trial registration number NCT03513315.
+ 
+<section> INTRODUCTION
+ Heatwaves are prolonged periods of unusu-
+ ally high temperatures that noticeably affect
+ the health of the elderly, those with comorbid-
+ ities and the urban poor. 1 2 Driven by climate
+ 
+<section> education on
+ 
+<section> and heat
+ 
+<section> Pakistan: a
+ 
+<section> trial
+ 
+<section> , 2 Zaheer Chand, 3 Saadia Quraishy,
+ 
+<section> Key questions
+ 
+<section> What is already known?
+ 
+<section> ► Most studies studying the effectiveness of
+ community-­ based interventions to target heat-­
+ related illnesses are limited to high-­income coun-
+ tries that have developed public health management
+ strategies to respond to heatwaves. However, these
+ studies do not show conclusive evidence to highlight
+ the effectiveness of these approaches. There is a lag
+ in planning and response to heat-­related illnesses in
+ low-­income settings across countries, and the little
+ evidence on population-­based estimates was limited
+ to observational studies.
+ 
+<section> What are the new findings?
+ 
+<section> ► This study designed and tested a heat emergency
+ awareness and treatment (HEAT) intervention, devel-
+ oped using current evidence and relevance to low-­
+ resource settings. The HEAT intervention comprises
+ customised health messages coupled with infor-
+ mation, education and communication materials to
+ optimise the delivery of those messages, especially
+ for communities with limited access to resourc-
+ es such as water, electricity and air-­conditioning.
+ There was a 38% reduction in the primary outcome
+ of unscheduled hospital visits for any illness in the
+ postintervention phase. In addition, there was an im-
+ provement in knowledge of the symptoms, risk fac-
+ tors and emergency interventions required to save
+ the lives of victims with heatstroke. Also, the study
+ showed that an educational intervention through
+ community health workers could impact morbidity in
+ poor, urban communities. Longer-­term studies will
+ be needed to confirm our findings.
+ 
+<section> What do the new findings imply?
+ 
+<section> ► A community-­based approach to address the heat
+ mortality and morbidity among the most vulnerable
+ could help communities better prepare for heat-
+ waves and potentially reduce the heat-­related bur-
+ den of death and disability in low-­income settings. 
+<section> change, extreme heat exposure is a rapidly evolving
+ global public health issue. 1 During the past 20 years, there
+ has been a 50% increase in heat-­related mortality among
+ adults 65 and older. 3 In 2018 alone, 296 000 people died
+ due to extreme heat exposure globally. 1 Extreme heat
+ exposure leads to morbidity and mortality through direct
+ temperature dysregulation causing heat exhaustion and
+ heat stroke though most of the health impact is through
+ exacerbation of illnesses such as diabetes and hyperten-
+ sion resulting in a higher incidence of acute illnesses
+ such as myocardial infarction and stroke. 4 The economic
+ cost of extreme heat on a global level is estimated to
+ be 302 billion work hours lost in 2019. 5 Evidence from
+ primarily high-­income cities show that systematic policy
+ level changes to reduce exposure to extreme heat can
+ improve overall mortality and morbidity. 6
+ City dwellers are at a significantly greater risk for
+ extreme heat exposure. Due to the urban heat island
+ effect, cities have a 3.5°C–12°C higher temperature than
+ surrounding areas. 8 9 Over the years, cities in many high-­
+ income countries and a few low-­ income and middle-­
+ income countries (LMICs) have developed ‘heat action
+ plans’ comprising citywide interventions to reduce heat
+ exposure for those most at risk. 7 10 11 A recent system-
+ atic review on the impact of heat adaptation strategies
+ on heat-­related mortality and morbidity reported that
+ 90% of published research emanated from high-­income
+ countries. 12 These limitations highlight the growing need
+ to develop and test strategies to adapt and protect the
+ most vulnerable in low-­income settings from the negative
+ impacts of heat. 13
+ Within communities, neighbourhoods and indi-
+ vidual households have varying levels of vulnerability to
+ extreme heat and require targeted interventions based
+ on household-­level risk. 15 Community-­based, household-­
+ level heat interventions targeting the most vulnerable
+ urban communities have not been tested in LMICs
+ through a controlled trial. Additionally, little data exists
+ on the role of community health workers (CHWs), a crit-
+ ical frontline workforce in many settings in preparing
+ communities for heatwaves.
+ We hypothesised that in populations with extremely
+ limited resources, a contextually relevant, simple, educa-
+ tional intervention aimed at reducing heat exposure and
+ facilitating early treatment, delivered through CHWs,
+ can result in improved knowledge and practices as well
+ as a decrease in the incidence of all-­cause deaths and
+ hospitalisations. We called the educational intervention
+ the Heat Emergency Awareness and Treatment (HEAT)
+ intervention.
+ 
+<section> METHODS
+ Study design and participants
+ The HEAT trial was an open-­label, prospective, two-­armed,
+ unblinded, cluster-­ randomised, community-­ based trial
+ conducted in Ibrahim Hyderi, located in Korangi District
+ of the northern part of Karachi, Pakistan. Ibrahim Hyderi
+ is one of the oldest areas of Karachi and is home to many
+ different communities representing various cultural
+ and language groups. These ethnic groups included
+ Sindhis, Katchis, Bengalis, Pakhtuns, Balochis, Muhajirs
+ and Hazara and differed in the language, dietary habits,
+ education level, income level, mobility and predominant
+ occupation.
+ The Aman Foundation, our local partner, has had a pre-­
+ existing CHW programme in Ibrahim Hyderi, providing
+ services to improve maternal and child health through
+ screening and treatment of non-­communicable diseases
+ to about 100 000 people in the area. The Aman CHW
+ programme was supported by a telehealth programme
+ to disseminate health messages and provide a telephone-­
+ based 24/7 health helpline. The pre-­ existing CHW
+ programme had divided the area into 30 neighbour-
+ hoods (or ‘paras’) consisting of relatively homogenous
+ ethnic populations of about 3000 each, served by one
+ CHW, usually a female resident of the same community.
+ The health services available to the Ibrahim Hyderi
+ community included the Ibrahim Hyderi Sindh Govern-
+ ment Hospital (IHSGH) and many private and charity
+ clinics. The IHSGH was primarily used for outpatient
+ clinics and some basic inpatient care. For emergency
+ care, the population generally used either a charity
+ hospital about 5 km away or a larger government hospital
+ about 13 km away.
+ 
+<section> Randomisation and masking
+ We followed a two-­ step sampling strategy. First, we
+ randomly selected sixteen paras from 30 through a
+ random draw. To determine which of the paras were cases
+ and controls, we then stratified the paras by ethnicity, and
+ half of the paras from each ethnic group were assigned
+ to either the intervention or control arms using the
+ second random draw. The second draw was carried out
+ to minimise confounding caused by an unequal distribu-
+ tion of ethnic groups. The randomisation sequence was
+ not concealed or blinded. Data collectors were unaware
+ of the intervention and control distribution during the
+ preintervention phase. All paras and households in
+ Ibrahim Hyderi were eligible to be enrolled in the study.
+ We selected study households using the existing maps
+ of clusters located in the centre of each cluster, starting
+ approximately in the centre of para and enrolling houses
+ clustered around the centre. If a family refused to partic-
+ ipate in the study, we enrolled the adjoining house until
+ we reached a sample size of approximately 1200 persons
+ per cluster. There were no provisions for interim data
+ analysis, and there were no guidelines for early stopping
+ 
+<section> Sample size
+ 
+<section> To calculate the sample size, we assumed that the all-­cause
+ death rate of Korangi district was the same as for Pakistan,
+ that is, 7 per 1000 population. 16 To achieve 80% power
+ to detect a difference between the group proportions
+ of 20% in the primary outcome of all-­cause death from
+ the baseline at a significance level of 0.05, a minimum of 
+<section> 7120 people were required in each group, that is, at least
+ 890 subjects in each of the 16 clusters. To account for
+ lost to follow-­up, we planned to enrol 1200 individuals
+ per cluster (approximately 170 households) for a total
+ of 19 200 individuals. We excluded all other households
+ from each para once the sample size was reached.
+ 
+<section> The intervention
+ The HEAT intervention comprises customised and
+ contextual health messages for (1) the prevention of
+ and (2) early recognition of heat-­related illnesses. We
+ developed the intervention through a multistep, itera-
+ tive process in collaboration with the Aman Foundation.
+ First, we reviewed the literature on community-­ based
+ interventions for heat illnesses from India, Pakistan, the
+ USA, the UK, and those published by WHO. 4–6 11 17–19 We
+ have published the literature review results elsewhere.
+ Based on the literature, the Aman Community Health
+ Programme team and investigator jointly drafted health
+ messages which were reviewed by ten public health and
+ emergency care experts, four from the USA, one from
+ India and five from Pakistan. We conducted two meet-
+ ings with international experts (one in-­person) and three
+ meetings with local experts in Pakistan (all in-­person) to
+ review and finalise the draft messages. The six members
+ of the International Advisory Group represented exper-
+ tise in heat emergencies, public health, environmental
+ sciences, and earth and planetary sciences. There were
+ five members of the National Advisory Group consisting
+ of a professor of civil engineering department from a
+ local engineering university, a representative of an envi-
+ ronmental health advocacy group, head of the largest
+ emergency department in the city, director of the provin-
+ cial meteorology department and a journalist interested
+ in environment and health. After the initial review by the
+ International and National Advisory groups, we asked six
+ community health nurses (CHNs) working in Ibrahim
+ Hyderi to review and provide feedback regarding the local
+ applicability and acceptability of the key messages. We
+ conducted three focus group discussions and six in-­depth
+ interviews with community members, CHWs, and health-
+ care providers to further inform our intervention. 21 The
+ messages were translated into Urdu and Sindhi by the
+ local team from Aman Foundation. The intervention was
+ pilot tested in a non-­study community of Ibrahim Hyderi.
+ The feedback was to simplify the messaging further, using
+ concrete examples during the sessions and removing the
+ use of air conditioners and excessive use of bathing as
+ an intervention due to electric and water scarcity in the
+ community.
+ The final HEAT intervention included key messaging
+ on risk factors, symptoms associated with heat-­ related
+ illnesses, individual and household level preventative
+ measures, dietary modification, early recognition of heat
+ illness and steps to manage patients with possible heat
+ illness. (See attached brochure in online supplemental
+ material). Some of the key messages used in the commu-
+ nications were (1) wearing lightweight, light-­coloured,
+ loosely fitted clothes; (2) carrying a bottle of cold water
+ with you when you are out and about; (3) staying indoors
+ and, if possible, in a well-­ventilated place; (4) wearing a
+ hat or if possible or using an umbrella for shade and (5)
+ limiting outdoor activities to morning and evening hours
+ during extreme heat (online supplemental appendices
+ 
+<section> 1 and 2).
+ The intervention was delivered by a team of ten CHWs,
+ two community health supervisors (CHS), and two
+ CHNs. The team worked full time for the Aman Foun-
+ dation and did not receive any additional incentive or
+ remuneration besides their regular salary from the Foun-
+ dation. The investigators trained the CHWs, CHS, and
+ CHNs through a 2-­day workshop lasting approximately
+ 12 hours. Topics covered included an introduction to
+ climate change, the global trend of heatwaves, individual-­
+ based and community-­based risk factors for heat illnesses,
+ the diagnosis and management of heat illnesses at the
+ community and household level. Additionally, sessions
+ were held to demonstrate communication best practices,
+ and mock sessions were held for the household visit and
+ community meetings. The study team evaluated CHWs’
+ understanding of the content and their ability to commu-
+ nicate and answer any questions through a series of mock
+ scenarios. The study leadership held weekly sessions for
+ the implementation team during the intervention period
+ to answer any questions as the intervention was rolled out.
+ 
+<section> Procedures
+ 
+<section> We carried out HEAT intervention in March and April
+ of 2018 and divided it into two main activities, individual
+ household visits and neighbourhood meetings. During
+ the individual household visits, the CHWs used the
+ HEAT pamphlets and posters to discuss the risk factors,
+ symptoms, preventive measures, including dietary modi-
+ fications, recognition and early management of potential
+ health illnesses. Each session lasted about 20–25 min and
+ was attended by everyone available at home at the time
+ of the visit. CHWs answered any questions, discussed
+ potential barriers and solutions. During the 8 weeks of
+ intervention, each CHW visited each household in the
+ intervention clusters four times for a total of 5420 house-
+ hold visits. On average, each CHW visited 13 household
+ visits per day.
+ Additionally, CHWs conducted 80 neighbourhood
+ meetings to engage those not traditionally at home. The
+ sessions followed a pattern similar to the household visits
+ but lasted longer and were generally more interactive.
+ A total of 80 such sessions were conducted and were
+ attended by a total of 1628 individuals. We did not track
+ how many people attended more than one such session.
+ At the end of both sessions, community members were
+ given pamphlets printed in Urdu and Sindhi languages
+ summarising the discussion (online supplemental appen-
+ dices 1 and 2).
+ 
+<section> Activities in control clusters
+ Table 1 summarises activities in both intervention and
+ control clusters. Control clusters had a similar data 
+<insert> Timelines Intervention community Control community
+ Pre-­intervention    
+ Baseline household survey
+ May 2017–February
+ 2018
+ May 2017 One visit One visit
+ Community surveillance May–July 2017 Household visit every 2 weeks Household visit every 2 weeks
+ Baseline KAP Jan–February 2018 Household KAP Survey Household KAP Survey
+ Intervention March–April 2018    
+ Community group sessions   Eighty community awareness
+ sessions with 1628 people in
+ attendance.
+ No Heat intervention. Regular CHW
+ visits for maternal and child health
+ Household visits   5428 household visits with each
+ house visited four times
+ Post-­intervention May–November 2018    
+ Community surveillance May–July 2018 Household visit every 2 weeks Household visit every 2 weeks
+ Household KAP Survey
+ Intervention in the control
+ community
+ Sep–October 2018
+ November 2018
+ KAP survey of all households
+ No activity
+ KAP survey of all households
+ HEAT intervention in all households
+ in the control communities by the
+ same CHWs
+ CHW, community health worker; HEAT, Heat Emergency Awareness and Treatment; KAP, knowledge, attitude and practices.
+ Table 1 Study activities and timelines
+ Study phase 
+<iend>
+
+ collection strategy (described below) but did not receive
+ the heat intervention. However, after the postinterven-
+ tion data collection was completed, the control clusters
+ received the same intervention.
+ 
+<section> Data collection
+ Table 1 summarises the intervention and control commu-
+ nities’ study phases and field activities.
+ To measure deaths and illnesses requiring hospital
+ visits and monitor symptoms of heat illness, we estab-
+ lished a community-­ based surveillance system during
+ the three warmest months in Karachi (May, June, July
+ in 2017 and 2018). Trained data collectors visited each
+ study household in the intervention and control cluster
+ every other week for a total of five visits per household.
+ The data collectors were from the same community, were
+ employed by Aman Foundation for other health and
+ research-­related activities, and were trained in the data
+ collection by the study team. Data was collected through
+ a structured questionnaire, which was peer-­reviewed and
+ pretested before final implementation. All data were
+ collected electronically using android tablets. During
+ the first visit, the data collectors obtained detailed demo-
+ graphic and health information on each family member
+ and information about the size of the house, building
+ material, including the material used in the roof, avail-
+ ability of water, electricity, air-­conditioning, water cooler,
+ refrigerator and electricity generator. Most homes in
+ Ibrahim Hyderi were built on an 80 sq. yard (<720 square
+ feet) plot of land. The size of the home reflected the
+ socioeconomic status and the crowding in the house and
+ was therefore included as an independent variable.
+ Similarly, in Karachi, houses or apartments facing west
+ or having windows westward, locally called ‘west open,’
+ are considered desirable due to the cooling effect of the
+ eastward breeze. We, therefore, included ‘west open’
+ as an independent variable. Similarly, houses without
+ windows were also identified and included in the anal-
+ ysis. We asked about the water source but did not ask if
+ the water was potable.
+ In the subsequent four visits, the data collectors
+ obtained information on any illness, including signs,
+ symptoms, exposure to heat and whether hospital-­based
+ care was sought during the past 2 weeks. In case of death,
+ the cause of death was obtained from the head of the
+ household. To assess knowledge, attitude and practices
+ (KAP), we surveyed each household in the control and
+ intervention cluster and interviewed the head of the
+ household. In households where men worked as fish-
+ ermen and were not present at the time of the survey,
+ the female head of the household was interviewed. This
+ survey was conducted in Jan and February of 2018, before
+ the intervention, and in September and October of 2018,
+ after the postintervention data collection (table 1).
+ The questionnaire for the KAP survey was developed
+ by the research team based on the literature review and
+ feedback from the international and national advisory
+ groups. No prior example of heat KAP survey was avail-
+ able from our literature review. The questionnaire was
+ peer-­reviewed by the International and National Advisory
+ Committees and was pretested on 12 individuals from
+ clusters that were not part of the study. Formal validation
+ of the KAP questionnaire was not conducted. The KAP
+ survey was an android-­based questionnaire with 117 ques-
+ tions, of which 71 were knowledge questions, 41 were
+ practice questions and 5 were attitude questions (online
+ supplemental appendix 3). 
+<insert> Figure 1 Study design and sample size. 
+<iend>
+
+ For community surveillance and KAP data, several
+ data quality checks were included in the e-­questionnaire,
+ minimising the chances of entering incorrect or irrele-
+ vant data and maximising data integrity. Data underwent
+ two verification levels, and the data management team
+ cleaned the data and ensured its completion. 22 First, field
+ supervisors checked all the data to ensure their comple-
+ tion and accuracy. Second, the data management team
+ cleaned the data, identified any missing information and
+ ensured that the data on the household matched with
+ the Global Positioning System (GPS) location obtained
+ automatically at the time of data collection.
+ For May, June and July in 2017 and 2018, the team
+ maintained a log of publicly available average, maximum
+ and minimum temperature provided on the Pakistan
+ Meteorological Department website.
+ 
+<section> Outcomes
+ 
+<section> The study’s primary outcomes were a composite of all-­
+ cause mortality and all-­cause emergency hospital visits.
+ Many studies on heat interventions have used all-­cause
+ mortality and hospital visits as outcomes. 6 24–26 Since
+ our focus was on severe illnesses requiring visits to the
+ hospital emergency departments, we excluded visits to an
+ outpatient clinic or a primary care physician
+ The study’s secondary outcomes were any change in
+ KAP towards heat-­related illnesses within the commu-
+ nity. Only those messages that were part of the HEAT
+ intervention were included in the analysis. A more
+ specific measure of heat illness, such as the presence of
+ heat stroke or heat exhaustion, was not included as the
+ outcome measure because of the non-­specific nature of
+ symptoms and lack of reasonable certainty in making
+ these diagnoses at a population level based on available
+ information.
+ 
+<section> Statistical analysis
+ All data were analysed using STATA V.15.1 quantita-
+ tive statistical software. 27 Descriptive statistical analyses
+ reflected the distribution of socio-­demographic charac-
+ teristics of the sample population on the household level
+ across control and intervention groups in the form of
+ counts and proportions. Mortality rates were calculated
+ for the 3 months of the data collection and annualised
+ by multiplying with a factor of 4. χ 2 tests were applied
+ to test the association between pre-­and post-­intervention
+ outcomes for all-­cause mortality, admission to a health-
+ care facility due to an illness, and presence of any symp-
+ toms of heat-­related illnesses. 
+<insert> Total population Control Intervention P value
+ Sex* (n=16 203)
+  Male 8538 (52.69) 4426 (52.79) 4112 (52.59) 0.136
+  Female 7665 (47.31) 3958 (47.21) 3707 (47.41)
+ Age* (n=15 792)
+  <5 1814 (11.48) 921 (11.41) 893 (11.57)
+  5–18 4599 (29.12) 2350 (29.11) 2249 (29.14)
+ 0.331
+  19–45 7380 (46.73) 3751 (46.46) 3629 (47.01)
+  46–64 1770 (11.21) 918 (11.37) 852 (11.04)
+  >65 229 (1.45) 133 (1.65) 96 (1.24)
+  No 2250 (77.43) 1174 (77.80) 1076 (62.12)
+  Any 656 (22.57) 335 (22.20) 321 (37.88)
+ 903 (33.30) 503 (35.05) 400 (31.35)
+  Five to 6 members 781 (28.80) 418 (29.11) 363 (28.45)
+  More than six members 1028 (37.91) 515 (35.86) 513 (40.20)
+  Less than US$2 1127 (48.91) 498 (43.38) 628 (54.37)
+  US$2 or more 1177 (51.09) 650 (56.62) 537 (45.63)
+  Hut 31 (1.15) 18 (1.25) 13 (1.02)
+  House (<80 sq. yards) 1838 (67.87)
+  Houses (>80 sq. yards) 481 (17.76) 245 (17.06) 236 (18.57)
+  Flats/apartments 357 (13.19) 178 (12.40) 179 (14.08)
+  Any window in the house, yes 2448 (90.17) 1264 (51.63) 1184 (48.37) <0.001
+  Westward facing house, yes 1308 (48.18) 744 (56.88) 564 (43.12) <0.001
+ <0.001
+ Education level of the head of the household† (n=2906)
+ 0.251
+ Family size
+  Four members or less 0.045
+ Household income (US$, daily)† (n=2304)
+ <0.001
+ House description and size† (n=2707)
+ 995 69.29)
+ 0.327
+ 843 (66.33)
+ Roof type (n=2710)†‡
+  Non-­concrete 547 (20.18) 359 (25.02) 188 (14.75)
+  Concrete 2163 (79.82) 1076 (74.98) 1087 (85.25)
+  Outside home 1240 (45.94) 626 (43.84) 614 (48.31)
+  Inside home 1459 (54.06) 802 (56.16) 657 (51.69)
+  Electricity, yes 2416 (88.99) 1279 (52.94) 1137 (47.06) 0.938
+  Telephone, yes 30 (1.10) 18 (60.00) 12 (40.00) 0.438
+  Cellphone, yes 2139 (78.78) 1127 (52.69) 1012 (47.31) 0.578
+  Generator, yes 137 (5.05) 69 (50.36) 68 (49.64) 0.531
+  Room cooler¶, yes
+  Television, yes
+ 15 (0.52)
+ 1947 (71.71)
+ 6 (40.00)
+ 1059 (54.39)
+ 9 (60.00)
+ 888 (45.61)
+ 0.313
+ 0.018
+ Water source (n=2699)†§
+ 0.020
+ Other resources†
+ *Number of individuals.
+ †Number of households.
+ ‡Non-­concrete includes thatch/bamboo/wood/mud/cardboard/plastic/iron sheets/asbestos; concrete includes T-­iron/wood/brick/reinforced
+ brick cement/Reinforced cement concrete (RCC)/tile beam.
+ §Inside home—tap, hand pump, well, boring: outside home—community tap, community hand pump, tanker, others.
+ ¶Coolers that work on the evaporative cooling where evaporated water is used to cool the air.
+ Table 2 Baseline demographic and housing structure characteristics of the population, March 2017
+ Characteristics 
+<iend>
+ 
+<insert> Control, (%)
+ Variables Preintervention
+ Deaths from any 17 (2.29)
+ cause (rate per 1000
+ per year)
+ Unscheduled 231 (124.7)
+ hospital visit (rate per
+ 1000 per year)
+ Intervention, (%)
+ Postintervention Preintervention Postintervention
+ Adjusted OR
+ (95% CI)*
+ 16 (2.47) 21 (2.93) 17 (2.80) 0.86 (0.34 to 2.19)
+ 377 (233.0) 311 (173.6) 311 (204.8) 0.62 (0.49 to 0.77)
+ *Adjusted odds of the outcome in the intervention group compared with the control group in the postintervention group.
+ Table 3 Health outcomes across the preintervention and postintervention periods 
+<iend>
+
+ The data on knowledge, preventive measures and
+ actions during an emergency based on the key messages
+ from the intervention were retrieved from the more
+ extensive KAP data. Change in the proportion of house-
+ hold representatives who responded ‘yes’ to a variable
+ between the control and intervention groups preinter-
+ vention and postintervention was calculated to represent
+ secondary outcomes. Adjusted OR (aOR), accounting for
+ the change in positive responses in the postintervention
+ period for the intervention group compared with the
+ change in responses in the preintervention group for the
+ control group, were calculated to measure differences in
+ primary and secondary outcomes between the interven-
+ tion and the control groups.
+ We developed a logistic regression model to test for
+ association between the rates of an unscheduled hospital
+ visit and several household indicators such as the size of
+ family, size education of the head of household, water
+ source, electricity and television and building material
+ used in the house and the roof. 28 An interaction term
+ for the group (control/intervention) and time (prein-
+ tervention/postintervention) was also included in the
+ regression to test whether the change seen across each
+ outcome variable was actually due to the intervention.
+ Written consent was obtained from the heads of each
+ household for the households to be included in the
+ study. We used verbal consent where participants were
+ unable to read and write. The consent process occurred
+ at the household level, and the Aman foundation’s
+ research team was responsible for the consent process.
+ The consent process occurred before the community
+ surveillance began within the community.
+ 
+<section> Public involvement
+ We organised community meetings to discuss the project
+ before launching it. CHWs were from the Ibrahim
+ Hyderi community and were involved in the design of
+ the intervention and the study’s conduct as data collec-
+ tors. Community members were not directly involved
+ in the study design, recruitment or conduct of the
+ study. We conducted multiple session with the commu-
+ nity members in Karachi to inform them of the results.
+ A HEAT policy document was developed as part of the
+ study and disseminated to the city government and a
+ dissemination seminar was also organised in the federal
+ capital of Islamabad. There was no burden of interven-
+ tion on the study participants or larger community.
+ 
+<section> RESULTS
+ 
+<section> We enrolled 18 544 individuals from 2991 households
+ from the sixteen clusters (figure 1). Of these, 1593
+ households (9877 people) were from the control clus-
+ ters, and 1398 (8668 people) were from the interven-
+ tion clusters. Just over half (52.69%) of the population
+ were males, 87% were below 45 years, while only 1.5%
+ of the population was over the age of 65 years (table 2).
+ More than three-­fourth (76.13%) of the population had
+ no education, and the distribution was similar for heads
+ of households (77.4%). About half of the households
+ had an income of less than US$2 per day (US dollar to
+ Pakistani Rupees currency exchange rate of June 2018).
+ Twenty per ent of households had a non-­concrete roof
+ type, and about half had potable water inside their homes
+ (54%). Electric power was available to 89% of the house-
+ holds. Overall, the intervention and control populations
+ were similar except for the proportion with an income
+ level of <US$2 per day (56.6 vs 45.3, p<0.00) and the
+ percentage of homes with a non-­concrete roof (65.5%
+ and 34.4%, p<0.00). Less than 1% of households refused
+ to participate in the study.
+ 
+<section> Health outcomes
+ Complete follow-­up data were available for 2251 (75.25%
+ of the initial sample) households, of which 1194 were
+ from the control group (74.5% of the initial sample) and
+ 1057 (75.6% of the initial sample) from the intervention
+ group. In the preintervention phase, the annualised rate
+ of all-­cause mortality in the intervention group was 11.72
+ deaths per 1000 population (2.92 per 1000 population
+ over the 3 months), while in the control group, it was
+ 9.18 per 1000 population (2.29 per 1000 population over
+ the 3 months). In the postintervention phase, the annu-
+ alised all-­cause mortality rate in the intervention group
+ decreased to 11.2 per 1000 population (2.80 per 1000 over
+ the 3 months), while in the control group, it increased
+ to 9.88 per 1000 population (2.47 per 1000 population
+ over 3 months). The adjusted odds of death in the inter-
+ vention group decreased following the intervention (OR 
+<insert> Characteristics Hospital visits/deaths
+ Group
+  Control Reference
+  Intervention 1.20 (0.92–1.57)
+ Time
+  Preintervention Reference
+  Postintervention 0.99 (0.81–1.22)
+ Family size
+  Size of family (four or less) Reference
+  4–6 members 1.20 (0.89–1.60)
+  More than six members 1.31 (1.02–1.71)*
+ House type
+  House (<80 sq. yards) Reference
+  Hut 1.22 (0.49–3.06)
+  House (>80 sq. yards) 1.32 (1.01–1.73)*
+  Flats 1.28 (0.93–1.75)
+ Education of head of household
+  No Reference
+  Any education 1.19 (0.93–1.52)
+ Roof type†
+  Non-­concrete Reference
+  Concrete 1.24 (0.93–1.65)
+ Ventilation
+  No Reference
+  Yes 0.90 (0.63–1.29)
+ Open towards west
+  No Reference
+  Yes 1.05 (0.85–1.31)
+ Water source
+  Inside home Reference
+  Outside home 1.11 (0.89–1.38)
+ Electricity
+  No Reference
+  Yes 1.01 (0.72–1.42)
+ Television
+  No
+  Yes
+ Reference
+ 0.84 (0.66–1.06)
+ *P<0.05.
+ †Non-­concrete include thatch/bamboo/wood/mud, cardboard,
+ plastic, iron sheets, asbestos, t-­iron, wood, brick; concrete include
+ reinforced brick cement/Reinforced cement concrete, tile beam.
+ Table 4 Results of health outcomes following community-­
+ based educational intervention 
+<iend>
+
+ 
+<section> 0.86 95% CI 0.34 to 2.19) though the reduction was not
+ statistically significant.
+ For an illness requiring an unscheduled visit to a
+ hospital, we found an overall increase in the frequency
+ of hospital visits during the post-­ intervention phase
+ (n=542, 3.72% vs n=688, 5.48%; p<0.001) in both control
+ and intervention groups. The AOR for hospital visits in
+ the intervention group was 0.62 (95% CI 0.49 to 0.77)
+ (table 3).
+ The logistic regression model results for the associ-
+ ation between the unscheduled visit to a hospital and
+ various demographic and household variables showed
+ that except for a family size of more than six members,
+ there was no statistically significant difference between
+ the groups (table 4). There was no association between
+ the education level, house size, type of roof, water avail-
+ ability, electricity and ownership of a television, and risk
+ of an unscheduled hospital visit.
+ 
+<section> Knowledge and practice outcomes
+ In our preinterventionand postintervention KAP survey,
+ we found an improvement in the knowledge and prac-
+ tices in both control and intervention groups. However,
+ for the most critical messages delivered during the inter-
+ vention, we found greater improvement in knowledge
+ and practices among the intervention group than the
+ control. For example, households in the intervention
+ arm in the post-­intervention phase were 2.37 times more
+ likely to be aware of high temperature as a symptom of
+ heat illness than those in the control group in the pre-­
+ intervention phase. Similarly, there was higher recogni-
+ tion of symptoms such as weakness (OR: 1.72) and tach-
+ ycardia (OR: 1.31) as symptoms of heat illness. Taking a
+ shower to reduce body temperature (OR: 0.68); changing
+ lifestyle such as avoiding going outside in the afternoon
+ (OR: 2.78)) and modifying time to cook (1.94) were also
+ more acceptable in the postintervention phase in the
+ intervention group (table 5).
+ 
+<section> DISCUSSION
+ 
+<section> We found that a CHW-­ led, community-­ based educa-
+ tional intervention was associated with no reduction in
+ mortality and a 38% relative reduction in unscheduled
+ hospital visits in the intervention group compared with
+ the control group when adjusted for the differences at
+ baseline. We also found an improvement in the commu-
+ nity’s ability to recall many of the signs and symptoms of
+ heat exhaustion and heatstroke, identify risk and preven-
+ tive strategies, and recall steps to ensure life-­saving emer-
+ gency care. However, these results have to be considered
+ in the context that, despite the randomisation, interven-
+ tion and control populations had different baseline rates
+ of mortality and hospital visits, and in the postinterven-
+ tion period, there was an overall increase in hospital visits
+ not explained by temperature differences between the
+ two time periods.
+ Our study population likely represents some of the
+ most climate-­ vulnerable population groups worldwide
+ and highlights the challenges of developing and imple-
+ menting potential extreme heat interventions in popu-
+ lations with limited infrastructure. The most frequently
+ recommended heat mitigating interventions require
+ water and electric power. However, these utilities were 
+<insert> Control n (%) Intervention n (%)
+ Variables
+ Preintervention
+ (n, %)
+ Postintervention
+ (n, %)
+ Preintervention
+ (n, %)
+ Postintervention
+ (n, %)
+ Adjusted OR
+ (95% CI)
+ Age >65 is a risk factor 1172 (90.6)
+ High temperature is a symptom 361 (27.9)
+ 1119 (84) 851 (83.4) 1068 (89) 0.88 (0.79 to 1.04)
+ 622 (46.7) 345 (33.9) 674 (56.2)
+ Increased weakness is a symptom
+ 2.37 (2.10 to 2.67)*
+ 503 (38.9) 585 (43.9) 273 (26.9) 608 (50.7) 1.72 (1.53 to 1.93)*
+ Worsening mental status is a symptom 125 (9.7) 183 (13.7) 175 (17.2) 246 (20.5) 1.88 (1.62 to 2.21)*
+ Increased heart rate is a sign 210 (16.3) 292 (22) 92 (9.1) 266 (22.2) 1.31 (1.12 to 1.55)*
+ Working outside is a risk factor 256 (19.8) 144 (10.8) 260 (25.6) 152 (12.7) 0.47 (0.40 to 0.55)*
+ Avoid going outside between 11:00–
+ 15:00 hours
+ 80 (6.2) 199 (14.9) 87 (8.8) 256 (21.3) 2.78 (2.29 to 3.37)*
+ Reduce time in kitchen during afternoon 1051 (81.3) 931 (69.8) 745 (73.4) 808 (67.3) 1.94 (1.59 to 2.38)*
+ Victim should be moved to a cooler area 254 (19.6) 189 (14.2) 234 (23.1) 230 (19.2) 0.73 (0.63 to 0.85)*
+ Heavy clothing should be removed 175 (13.5) 146 (11) 142 (14) 148 (12.3) 0.82 (0.68 to 0.96)*
+ Helpline should be called 54 (4.2) 47 (0.1) 67 (6.6) 41 (3.4) 0.66 (0.49 to 0.88)*
+ Wet sponging should be considered 160 (12.3) 126 (9.4) 159 (15.7) 118 (9.8) 0.65 (0.54 to 0.78)*
+ Shower should be considered 1012 (78.3) 857 (64.3) 738 (72.7) 863 (72) 0.68 (0.61 to 0.78)*
+ *P<0.05.
+ Table 5 Change in knowledge, attitude and practice outcomes for heat illness preintervention and postintervention between
+ control and intervention groups 
+<iend>
+
+ not consistently available in many households in our
+ study site. The concept of vulnerability to extreme heat
+ needs to evolve with an improved understanding of the
+ epidemiology of heat illnesses and their physiological,
+ social, and environmental determinants. 24 29 We believe
+ traditional measures of heat exposure and risks, such
+ as temperature, humidity, and age, may overlook other,
+ more complex household-­level social and economic risks
+ such as the affordability and availability of water and elec-
+ tricity, number of people per household, the design of the
+ housing unit and access to emergency healthcare. 15 30
+ Similarly, age >65 is the focus of most interventions that
+ may not have the same impact in our study population,
+ where only 1.5% of the total population was in that age
+ group.
+ There is growing evidence supporting government-­run,
+ regional interventions for reducing the health impact of
+ extreme heat. 20 32 33 Analysis of the heat action plans from
+ multiple European cities showed a significant decrease
+ in deaths during heatwaves and improved communi-
+ ties’ KAP. 34–36 Further, targeted interventions focusing
+ on high-­risk groups such as the elderly and those with
+ known chronic medical conditions through door-­to-­door
+ checks, focused health messaging and close follow-­up with
+ primary physicians have also shown a significant reduc-
+ tion in mortality rates. 37 38 In Ahmedabad, India, the city-
+ wide implementation of a heat warning system coupled
+ with a widespread communication effort led to a decrease
+ in the number of heat-­related deaths reported to the
+ hospital. 39 A quasi-­experimental study from Chongqing,
+ China, tested a broader set of interventions, including a
+ heat-­specific healthcare network, early warning system
+ and preparation, a 24-­hour health helpline and doctors'
+ training on heat illnesses. The study found a significant
+ improvement in the incidence of heat-­related illnesses
+ in the subset of rural populations measured through two
+ surveys 1 year apart. 40 In another community-­based study
+ set in Jinan City, China, the elderly in two urban and two
+ rural settings were randomised to receive government-­
+ sanctioned subsidies during high-­ temperature periods
+ to keep workers home and flexible scheduling versus no
+ intervention. 41 The study found improved KAP scores in
+ the intervention group.
+ Our study, however, focused on enhancing the commu-
+ nity’s response through existing community resources,
+ independent of government-­ sanctioned reliefs and
+ interventions. Thus, we attempted to replicate circum-
+ stances that exist in many similar LMIC cities where
+ local governments, often strapped for resources, have
+ limited ability to enforce heat intervention plans. Yet, we
+ believe that a government-­run, heat-­health action plan
+ would likely have a much more significant impact, be
+ more cost-­effective and sustainable, and potentially, have
+ synergistic effects when combined with community-­based
+ household-­level interventions.
+ Our findings have several implications for future
+ preparedness for extreme heat exposures. We demon-
+ strated that CHWs could provide necessary community
+ education leading to a potential change in behaviour
+ and health outcomes. CHWs are recognised as critical
+ to many health systems, especially those in LMICs, and
+ are beginning to be recognised as agents of change for
+ planetary health. 42 The study served as a proxy to suggest
+ that with some additional training in heat prevention,
+ CHWs can create behaviour change within communities
+ to reduce heat exposure and blunt the effects of extreme
+ heat while other system-­ wide, resource-­ intensive inter-
+ ventions are implemented. 
+<section> Our study has several limitations. First, like most heat
+ intervention studies, we focused on all-­cause morbidity
+ and mortality as the primary outcome instead of specific
+ heat-­related mortality and morbidity. This was due to
+ the difficulty in diagnosing heat illnesses in commu-
+ nities, especially where febrile infectious illnesses are
+ common. 43–45 Second, our study did not collect informa-
+ tion on the prevalence of non-­communicable diseases
+ such as diabetes or hypertension for the population. We
+ only collected that information once someone the in
+ community reported the symptoms of heat illness. Third,
+ across assumed equal distribution of individual level
+ exposure to heat, and we did not measure changes in the
+ exposure between the 2 years. Personal heat exposure
+ data collection has been conducted in athletes and mili-
+ tary personnel but less in civilian settings. 5 46 We believe,
+ measuring individual-­level exposure to heat stress would
+ help standardise the exposure and is possible with the
+ available technology. 47 Fourth, while encouraging, our
+ results are based on only two-­point estimates and do not
+ prove with certainty the cause-­ and-­ effect relationship.
+ Further, our intervention lasted only 1 year, making it
+ difficult to study the effects of confounders between the
+ 2 years. For example, average maximum temperatures
+ during preintervention months were slightly higher than
+ post-­ intervention, while minimum temperatures were
+ the same (35.2 and 28.2 in the preintervention phase vs
+ 36.0 and 28.2 'C in the postintervention phase). 48 Simi-
+ larly, in the postintervention period, the city of Karachi
+ had a significant epidemic of chikungunya infection. It is
+ not clear how this affected our study area. 43 Finally, it is
+ also important to recognise that the KAP questionnaire
+ was designed specifically for the local context and needs
+ validation in other settings.
+ 
+<section> CONCLUSION
+ Our study identified a potentially promising role for
+ CHWs in improving the resilience of highly vulnerable
+ low-­income urban communities against extreme heat. If
+ proven through longer-­term studies in multiple settings,
+ the HEAT intervention developed through this study
+ could lead to significant public health benefits for the
+ most vulnerable populations globally.
+ 
+<section> Author affiliations
+ Department of Emergency Medicine, Weill Cornell Medicine, New York, New York,
+ 
+<section> USA
+ International Health, Johns Hopkins University Bloomberg School of Public Health,
+ 
+<section> Baltimore, Maryland, USA
+ MLE Department, Aman Foundation, Karachi, Pakistan
+ MLE Department, Aman Foundation/West London Heath Trust, London, UK
+ Alliance for Health Policy and Systems Research, World Health Organization,
+ 
+<section> Geneve, Switzerland
+ 6 MLE Department, George Washington University Milken Institute of Public Health,
+ Washington, District of Columbia, USA
+ 
+<section> Twitter Junaid Abdul Razzak @JunaidRazzakMD
+ 
+<section> Contributors JAR led the conceptualisation of study design and implementation
+ of the project as well as the data analytics and manuscript writing. PA assisted
+ in the data management and analysis as well as developed multiple drafts of the
+ manuscript. ZC and SQ were local partners who assisted in the implementation of
+ the study on the ground, were involved in data collection and management and
+ provided technical assistance in the development of the manuscript. AG and AAH
+ provided technical support and feedback in multiple drafts of the manuscript. JAR
+ is responsible for the overall content as guarantor and accepts full responsibility
+ for the finished work and the conduct of the study, had access to the data, and
+ controlled the decision to publish.
+ 
+<section> Funding This research project was funded by Elrha's Research for Health in
+ Humanitarian Crises (R2HC) Programme, Save the Children Fund ('SCUK'), which
+ aims to improve health outcomes by strengthening the evidence base for public
+ health interventions in humanitarian crises. R2HC is supported by the UK Foreign,
+ Commonwealth and Development Office (FCDO), the Wellcome Trust and the UK
+ National Institute for Health Research (NIHR).
+ 
+<section> Competing interests None declared.
+ 
+<section> Patient consent for publication Consent obtained directly from patient(s)
+ 
+<section> Ethics approval This study was approved by Institutional Review Boards of Johns
+ Hopkins University, USA (IRB00089663), and the Aga Khan University, Pakistan.
+ 
+<section> Provenance and peer review Not commissioned; externally peer reviewed.
+ 
+<section> Data availability statement No data are available. Not applicable.
+ 
+<section> Supplemental material This content has been supplied by the author(s). It has
+ not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been
+ peer-­reviewed. Any opinions or recommendations discussed are solely those
+ of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and
+ responsibility arising from any reliance placed on the content. Where the content
+ includes any translated material, BMJ does not warrant the accuracy and reliability
+ of the translations (including but not limited to local regulations, clinical guidelines,
+ terminology, drug names and drug dosages), and is not responsible for any error
+ and/or omissions arising from translation and adaptation or otherwise.
+ 
+<section> Open access This is an open access article distributed in accordance with the
+ Creative Commons Attribution Non Commercial (CC BY-­NC 4.0) license, which
+ permits others to distribute, remix, adapt, build upon this work non-­commercially,
+ and license their derivative works on different terms, provided the original work is
+ properly cited, appropriate credit is given, any changes made indicated, and the
+ use is non-­commercial. See: http://creativecommons.org/licenses/by-nc/4.0/.
+ 
+<section> ORCID iDs
+ 
+<section> Priyanka Agrawal http://orcid.org/0000-0003-1314-7143
+ Abdul Ghaffar http://orcid.org/0000-0002-8629-4526
+ 
+<section> REFERENCES
+ 1 Watts N, Amann M, Arnell N, et al. The 2020 report of the Lancet
+ countdown on health and climate change: responding to converging
+ crises. The Lancet 2021;397:129–70.
+ 2 Campbell S, Remenyi TA, White CJ, et al. Heatwave and health
+ impact research: a global review. Health Place 2018;53:210–8.
+ 3 Hales S, Kovats S, Lloyd S, et al. Qualitative risk assessment of
+ effects of climate change on selected causes of death, 2030s and
+ 2050s. Geneva, Switzerland: World Health Organization, 2014.
+ 4 Bobb JF, Obermeyer Z, Wang Y, et al. Cause-­Specific risk of
+ hospital admission related to extreme heat in older adults. JAMA
+ 2014;312:2659–67.
+ 5 Kjellstrom T, Freyberg C, Lemke B, et al. Estimating population heat
+ exposure and impacts on working people in conjunction with climate
+ change. Int J Biometeorol 2018;62:291–306.
+ 6 Koppe C, Kovats S, Jendritzky G. Heat-­waves: risks and responses.
+ World Health Organization. Regional Ofice for EuropeCopenhagen,
+ Denmark, 2004.
+ 7 McGregor GR, Bessemoulin P, Ebi K. Heatwaves and health:
+ guidance on warning-­system development. Geneva, Switzerland:
+ World Meterological Organization and World Health Organization,
+ 2015.
+ 8 Waite M, Cohen E, Torbey H, et al. Global trends in urban electricity
+ demands for cooling and heating. Energy 2017;127:786–802.
+ 9 Salamanca F, Georgescu M, Mahalov A, et al. Anthropogenic heating
+ of the urban environment due to air conditioning. J Geophys Res
+ 2014;119:5949–65.
+ 10 Lowe D, Ebi KL, Forsberg B. Heatwave early warning systems
+ and adaptation advice to reduce human health consequences of
+ heatwaves. Int J Environ Res Public Health 2011;8:4623–48. 
+<section> 11 Knowlton K, Kulkarni S, Azhar G, et al. Development and
+ Implementation of South Asia’s First Heat-­Health Action Plan
+ in Ahmedabad (Gujarat, India). Int J Environ Res Public Health
+ 2014;11:3473–92.
+ 12 Boeckmann M, Rohn I. Is planned adaptation to heat reducing
+ heat-­related mortality and illness? A systematic review. BMC Public
+ Health 2014;14:1–13.
+ 13 Horton RM, Mankin JS, Lesk C, et al. A review of recent advances in
+ research on extreme heat events. Current Climate Change Reports
+ 2016;2:242–59.
+ 14 Stocker TF, Qin D, Plattner GK. Climate change 2013. The physical
+ science basis. Working group I contribution to the fifth assessment
+ report of the Intergovernmental panel on climate Change-­Abstract
+ for decision-­makers; Changements climatiques 2013. les elements
+ scientifiques. contribution Du Groupe de travail I Au cinquieme
+ rapport d'evaluation Du Groupe d'experts intergouvernemental sur
+ l'evolution Du CLIMAT-­Resume a l'intention des decideurs. New
+ 
+<section> York, USA: Cambridge University Press, 2013.
+ 15 Nayak SG, Shrestha S, Kinney PL, et al. Development of
+ a heat vulnerability index for new York state. Public Health
+ 2018;161:127–37.
+ 16 Pakistan key indicators. Key country indicators. World Health
+ Organization, 2020.
+ 17 Extreme heat. Natural disasters and severe weather. Available:
+ https://www.cdc.gov/disasters/extremeheat/index.html [Accessed
+ Nov 2021].
+ 18 Heat and health. Available: https://www.who.int/news-room/fact-​
+ sheets/detail/climate-change-heat-and-health [Accessed 8 Nov 2021].
+ 19 Public Health England. Heatwave plan for England, in Public Health,
+ England. NHS England.
+ 20 Hasan F, Marsia S, Patel K, et al. Effective community-­based
+ interventions for the prevention and management of heat-­related
+ illnesses: a scoping review. Int J Environ Res Public Health
+ 2021;18:8362.
+ 21 Khan UR, Ahmed N, Naeem R, et al. Heat emergencies: perceptions
+ and practices of community members and emergency department
+ healthcare providers in Karachi, Pakistan: a qualitative study. Int J
+ Environ Res Public Health 2021;18:4736.
+ 22 Sidi F, Hassany P, Panah S. Data quality: A survey of data quality
+ dimensions. in 2012 International Conference on Information
+ 
+<section> Retrieval & Knowledge Management, 2012: 300–4.
+ 23 Pakistan Meteorological Department, Government of Pakistan.
+ 
+<section> Available: https://www.pmd.gov.pk/en/ [Accessed 8 Nov 2021].
+ 24 World Health Organization. Improving Public Health Responses to
+ Extreme Weather/Heat-­Waves. WHO Regional Office for Europe,
+ Copenhagen, Denmark, 2009.
+ 25 Sheffield PE, Herrera MT, Kinnee EJ, et al. Not so little differences:
+ variation in hot weather risk to young children in New York City.
+ 
+<section> Public Health 2018;161:119–26.
+ 26 Shindell D, Zhang Y, Scott M, et al. The effects of heat exposure
+ on human mortality throughout the United States. GeoHealth
+ 2020;4:e2019GH000234.
+ 27 StataCorp L. Stata data analysis and statistical software. Special
+ Edition Release 2007;10:733.
+ 28 Vittinghoff E, Glidden DV, Shiboski SC. Regression methods in
+ biostatistics: linear, logistic, survival, and repeated measures models.
+ Springer Science & Business Media, 2006.
+ 29 Gronlund CJ. Racial and socioeconomic disparities in heat-­related
+ health effects and their mechanisms: a review. Current Epidemiology
+ Reports 2014;1:165–73.
+ 30 Tran K, Azhar G, Nair R, et al. A cross-­sectional, randomized cluster
+ sample survey of household vulnerability to extreme heat among
+ slum dwellers in Ahmedabad, India. Int J Environ Res Public Health
+ 2013;10:2515–43.
+ Li J, Xu X, Wang J. Analysis of a community-­based intervention to
+ reduce heat-­related illness during heat waves in Licheng, China: a
+ quasi-­experimental study. Biomedical and environmental sciences
+ 2016;29:802–13.
+ Hess JJ, Lm S, Knowlton K, et al. Building resilience to climate
+ change: pilot evaluation of the impact of India’s first heat action plan
+ on all-­cause mortality. J Environ Public Health 2018;2018:1–8.
+ Matthies F, Bickler G, Marin NC. Heat-­health action plans: guidance.
+ 
+<section> Copenhagen, Denmark: World Health Organization Regional Office
+ for Europe, 2008.
+ Fouillet A, Rey G, Wagner V, et al. Has the impact of heat waves
+ on mortality changed in France since the European heat wave of
+ summer 2003? A study of the 2006 heat wave. Int J Epidemiol
+ 2008;37:309–17.
+ Morabito M, Profili F, Crisci A, et al. Heat-­Related mortality in
+ the Florentine area (Italy) before and after the exceptional 2003
+ heat wave in Europe: an improved public health response? Int J
+ Biometeorol 2012;56:801–10.
+ de’ Donato F, Leone M, Scortichini M, et al. Changes in the effect
+ of heat on mortality in the last 20 years in nine European cities.
+ results from the phase project. Int J Environ Res Public Health
+ 2015;12:15567–83.
+ Liotta G, Inzerilli M, Palombi L, et al. Social interventions to prevent
+ heat-­related mortality in the older adult in Rome, Italy: a quasi-­
+ experimental study. Int J Environ Res Public Health 2018;15:715.
+ Nitschke M, Krackowizer A, Hansen A, et al. Heat health messages:
+ a randomized controlled trial of a preventative messages tool in the
+ older population of South Australia. Int J Environ Res Public Health
+ 2017;14:992.
+ Nastar M. Message sent, now what? A critical analysis of the heat
+ action plan in Ahmedabad, India. Urban Science 2020;4:53.
+ McGregor GR, Vanos JK. Heat: a primer for public health
+ researchers. Public Health 2018;161:138–46.
+ Xu X, Li J, Gao J, et al. Effective analysis of a community-­based
+ intervention during heat waves to improve knowledge, attitude and
+ practice in a population in Licheng district, Jinan City, China. J
+ Public Health 2018;40:573–81.
+ Behera M, Behera D, Satpathy S. Planetary health and the role of
+ community health workers. Journal of Family Medicine and Primary
+ Care 2020;9:3183.
+ Rehman K. Potential Chikungunya epidemics in Pakistan: Act
+ before it’s too late. Journal of Ayub Medical College Abbottabad
+ 2019;31:474–5.
+ 
+<section> EPA U. Excessive heat events guidebook. Washington: EPA 430-­B-­
+ 06–005. US Environmental Protection Agency, 2006.
+ Yamamoto T, Fujita M, Oda Y. Evaluation of a novel classification of
+ heat-­related illnesses: a multicentre observational study (heat stroke
+ study 2012). International journal of environmental research and
+ public health 20181962;15.
+ Hass AL, Ellis KN. Using wearable sensors to assess how a
+ heatwave affects individual heat exposure, perceptions, and
+ adaption methods. Int J Biometeorol 2019;63:1585–95.
+ Kuras ER, Hondula DM, Brown-­Saracino J. Heterogeneity in
+ individually experienced temperatures (IETs) within an urban
+ neighborhood: insights from a new approach to measuring heat
+ exposure. Int J Biometeorol 2015;59:1363–72.
+ Synoptic/ Metars Data/ seismic report. Available: https://rmcpunjab.​
+ pmd.gov.pk/metData.php [Accessed 8 Nov 2021].

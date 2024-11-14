@@ -1,0 +1,856 @@
+
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> a1111111111
+ 
+<section> OPEN ACCESS
+ 
+<section> Citation: Indravudh PP, Terris-Prestholt F, Neuman
+ M, Kumwenda MK, Chilongosi R, Johnson CC, et
+ al. (2022) Understanding mechanisms of impact
+ from community-led delivery of HIV self-testing:
+ Mediation analysis of a cluster-randomised trial in
+ Malawi. PLOS Glob Public Health 2(10): e0001129.
+ https://doi.org/10.1371/journal.pgph.0001129
+ 
+<section> Editor: Hannah Hogan Leslie, University of
+ 
+<section> California San Francisco, UNITED STATES
+ 
+<section> Received: February 17, 2022
+ 
+<section> Accepted: September 8, 2022
+ 
+<section> Published: October 27, 2022
+ 
+<section> Copyright: © 2022 Indravudh et al. This is an open
+ access article distributed under the terms of the
+ Creative Commons Attribution License, which
+ permits unrestricted use, distribution, and
+ reproduction in any medium, provided the original
+ author and source are credited.
+ 
+<section> Data Availability Statement: Data are available at
+ https://doi.org/10.17037/DATA.00003116.
+ 
+<section> Funding: The study is funded by Unitaid, grant
+ number: PO#8477-0-600. ELC is also funded by
+ the Wellcome Trust (WT091769). The funders had
+ no role in study design, data collection and
+ analysis, decision to publish, or preparation of the
+ manuscript.
+ 
+<section> Competing interests: The authors have declared
+ that no competing interests exist.
+ 
+<section> RESEARCH ARTICLE
+ 
+<section> Understanding mechanisms of impact from
+ community-led delivery of HIV self-testing:
+ Mediation analysis of a cluster-randomised
+ 
+<section> trial in Malawi
+ 
+<section> Pitchaya P. Indravudh ID 1,2 *, Fern Terris-Prestholt ID 1,3 , Melissa Neuman ID , Moses
+ K. Kumwenda , Richard Chilongosi , Cheryl C. Johnson 6,7 , Karin Hatzold , Elizabeth
+ L. Corbett ID 2,7 , Katherine Fielding ID 4,9
+ 
+<section> 1 Department of Global Health and Development, London School of Hygiene & Tropical Medicine, London,
+ United Kingdom, 2 Malawi-Liverpool-Wellcome Trust Clinical Research Programme, Blantyre, Malawi,
+ 
+<section> 3 Joint United Nations Programme on HIV/AIDS, Geneva, Switzerland, 4 Department of Infectious Disease
+ Epidemiology, London School of Hygiene & Tropical Medicine, London, United Kingdom, 5 Population
+ Services International Malawi, Lilongwe, Malawi, 6 Global HIV, Hepatitis and Sexually Transmitted Infections
+ Programmes, World Health Organisation, Geneva, Switzerland, 7 Department of Clinical Research, London
+ School of Hygiene & Tropical Medicine, London, United Kingdom, 8 Population Services International,
+ Washington, District of Columbia, United States of America, 9 School of Public Health, University of the
+ Witwatersrand, Johannesburg, South Africa
+ 
+<section> * pitchaya.indravudh@lshtm.ac.uk
+ 
+<section> Abstract
+ 
+<section> Community HIV strategies are important for early diagnosis and treatment, with new self-
+ care technologies expanding the types of services that can be led by communities. We eval-
+ uated mechanisms underlying the impact of community-led delivery of HIV self-testing
+ (HIVST) using mediation analysis. We conducted a cluster-randomised trial allocating
+ group village heads and their catchment areas to the community-led HIVST intervention in
+ addition to the standard of care (SOC) or the SOC alone. The intervention used participatory
+ approaches to engage established community health groups to lead the design and imple-
+ mentation of HIVST campaigns. Potential mediators (individual perceptions of social cohe-
+ sion, shared HIV concern, critical consciousness, community HIV stigma) and the outcome
+ (HIV testing in the last 3 months) were measured through a post-intervention survey. Analy-
+ sis used regression-based models to test (i) intervention-mediator effects, (ii) mediator-out-
+ come effects, and (iii) direct and indirect effects. The survey included 972 and 924
+ participants in the community-led HIVST and SOC clusters, respectively. The community-
+ led HIVST intervention increased uptake of recent HIV testing, with no evidence of indirect
+ effects from changes in hypothesised mediators. However, standardised scores for commu-
+ nity cohesion (adjusted mean difference [MD] 0.15, 95% CI -0.03 to 0.32, p = 0.10) and
+ shared concern for HIV (adjusted MD 0.13, 95% CI -0.02 to 0.29, p = 0.09) were slightly
+ higher in the community-led HIVST arm than the SOC arm. Social cohesion, community
+ concern, and critical consciousness also apparently had a quadratic association with recent
+ testing in the community-led HIVST arm, with a positive relationship indicated at lower
+ ranges of each score. We found no evidence of intervention effects on community HIV 
+<section> stigma and its association with recent testing. We conclude that the intervention effect
+ mostly operated directly through community-driven service delivery of a novel HIV technol-
+ ogy rather than through intermediate effects on perceived community mobilisation and HIV
+ stigma.
+ 
+<section> Introduction
+ 
+<section> Knowledge of HIV status is critical for controlling HIV transmission, with 1.7 million people
+ newly infected with HIV in 2018 [1]. Effective HIV testing services (HTS) can enable early
+ diagnosis and linkage to treatment among HIV-positive individuals and linkage to prevention
+ among individuals at risk for HIV. Expanded HTS provision through health facilities has
+ improved awareness of HIV status in sub-Saharan Africa, which contributes the majority of
+ new HIV cases [1]. Community HIV strategies can facilitate early diagnosis and treatment [2,
+ 3] to reduce HIV-related morbidity and mortality and limit HIV transmission through treat-
+ ment and prevention [4]. Self-care products, including HIV self-testing (HIVST), are also gen-
+ erating opportunities beyond health facilities to reach underserved population sub-groups
+ 
+<section> [5, 6].
+ Community-led strategies for HIV prevention and management involve community
+ groups or organisations leading the design and implementation of HIV programmes [7],
+ with new self-care technologies expanding the types of interventions that can be led by com-
+ munities. Previous studies have reported improved identification of HIV-positive cases and
+ reduced HIV incidence when communities were involved in the provision of mobile HTS
+ [8, 9]. Community mobilisation approaches that address social and structural drivers of
+ HIV can also impact protective HIV behaviours, including improved condom use and
+ reduced concurrency of sexual partners [10]. Across disease areas, studies have demon-
+ strated the health impact of interventions involving community participation [11–13].
+ Understanding how community-led interventions affect outcomes is important for maxi-
+ mising the effect and cost-efficiency of community health programmes, though evidence
+ their pathways to impact is limited [7].
+ Mediation analysis involves evaluating how an intervention changes an outcome by testing
+ hypotheses about the potential causal mechanisms [14]. A mediator is an intermediate variable
+ that is affected by an exposure and subsequently affects an outcome, with statistical techniques
+ used to quantify the mediation effect [15]. Mediation analysis has been applied within rando-
+ mised trials to test hypothesised pathways underlying the intervention effect on an outcome
+ [14]. Findings from mediation analysis can therefore support explanation of cause-effect rela-
+ tionships and inform optimisation of interventions to influence key mechanisms.
+ In the current study, we assessed mediation within a cluster-randomised trial of commu-
+ nity-led delivery of HIVST in Malawi. Primary analysis from the trial previously reported an
+ increase in the proportion of the population who tested for HIV, including adolescents 15–19
+ years, older adults 40 years and above, and men [16]. We examined whether changes in the
+ hypothesised mediators, community mobilisation domains and community HIV stigma,
+ mediated the impact of the intervention on HIV testing, aiming to consider broader lessons
+ for community-led programmes. Specifically, we tested (i) the effect of the intervention on the
+ potential mediators, (ii) the effect of the potential mediators on recent HIV testing, and (iii)
+ the direct intervention effect on recent testing and the indirect effect from changing the poten-
+ tial mediators. 
+<section> Materials and methods
+ 
+<section> Ethics statement
+ 
+<section> The trial, which is registered with ClinicalTrials.gov (NCT03541382), was conducted as part
+ the Unitaid/PSI HIV Self-Testing Africa Initiative (STAR) [http://hivstar.lshtm.ac.uk/]. Ethical
+ approvals were received from the University of Malawi College of Medicine (P.01/18/2332),
+ London School of Hygiene & Tropical Medicine (14761), and WHO (STAR-comm led
+ CRT-Malawi).
+ 
+<section> Trial design, procedures, and data collection
+ 
+<section> We evaluated the role of community mobilisation domains and community HIV stigma as
+ mediators between community-led delivery of HIVST and recent HIV testing within a cluster-
+ randomised trial [17]. The trial was conducted in Mangochi district and randomised 30 group
+ village heads and their catchment areas 1:1 to the community-led HIVST intervention in addi-
+ tion to the standard of care (SOC) or the SOC alone. The community-led HIVST intervention
+ used participatory approaches to engage established community health groups to lead the
+ design and implementation of HIVST campaigns [18]. Community actors included commu-
+ nity health action groups and community volunteers, who respectively provide community
+ health services at group village head and village-level, and government community health
+ workers (CHW). The SOC included HIV testing by lay counsellors through government
+ health facilities and periodic community-based outreach. The study team included Population
+ Services International (PSI) Malawi, the Malawi-Liverpool-Wellcome Trust Clinical Research
+ Programme, and the Ministry of Health.
+ The intervention adapted participatory learning and action methods, with each cluster devel-
+ oping HIVST campaign strategies unique to their respective areas. Implementation was stag-
+ gered in groups of two-to-three clusters. The study team held two-day participatory workshops
+ attended by community health action groups and CHWs. In their respective clusters, partici-
+ pants defined determinants of HIV infection, mapped HIV services and barriers to access, and
+ identified priority sub-groups with low uptake of HIV services. Participants designed cluster-
+ specific HIVST campaigns and decided on how to distribute HIVST kits, provide support for
+ linkage to routine HIV care, and generate demand for HIVST. The study team then conducted
+ two-day trainings with community volunteers on supporting use and interpretation of HIVST
+ kits and linkage to HIV prevention and treatment, communicating HIV prevention messages,
+ managing social harms, handling and storing kits, and collecting data. Afterwards, community
+ health actions groups, community volunteers, and CHWs led a fixed seven-day campaign based
+ on strategies developed for each cluster. Cluster residents aged 15 years and older were eligible
+ to take an HIVST kit for themselves and for secondary distribution. The study team provided
+ the OraQuick HIV Self-Test (Orasure Technologies, Thailand), instructional materials, data
+ collection tools, and nationally standardised gratuity of MWK 7,000 (US$10) per volunteer.
+ Outcomes were measured through a post-intervention survey administered eight-to-12
+ weeks after the start of the intervention in community-led HIVST clusters or matched dates
+ SOC clusters. In each cluster, villages with at least 500 residents and located near the group
+ head village were randomly selected, with households recruited using a clockwise spiral from
+ defined location. The survey aimed to recruit at least 250 participants based on sample size cal-
+ culations for the trial, with cluster residents aged 15 years and older eligible. Cluster residents
+ provided written informed consent or assent with parent or guardian consent for adolescents
+ 15–17 years. Participants were interviewed on their sociodemographic background and prior
+ HIV-related experience. Process data were collected through the survey and HIVST registers. 
+<section> Fig 1. Diagram of mediation framework.
+ 
+<section> level. † Measured at the cluster level.
+ 
+<section> https://doi.org/10.1371/journal.pgph.0001129.g001
+ 
+<section> Mediation framework
+ 
+<section> The causal directed acyclic graph illustrating the mediation framework for the current study
+ presented in Fig 1. Potential mediators were identified based on a conceptual framework
+ drawn from the literature on community participation in health interventions. Community
+ participation can be conceptualised along a continuum of increasing empowerment [18],
+ defined as “a social action process by which individuals, communities, and organisations gain
+ mastery over their lives in the context of changing their social and political environment to
+ improve equity and quality of life” [19]. Most practice of community empowerment for health
+ is operationalised through participatory learning and action methods that engage community
+ groups and organisations in the design, implementation, and evaluation of health interven-
+ tions [18]. Localising decision-making and resource allocation is posited to enhance the cover-
+ age and efficiency of health interventions, while devolvement of power and control to
+ marginalised populations is proposed to enable more equitable healthcare distribution [20].
+ In the context of HIV prevention, Lippman (2013) proposed multiple domains of commu-
+ nity mobilisation that would need to be affected to improve HIV-related behaviours and out-
+ comes [21]. Building social cohesion, specifically through shared trust or a common sense of
+ identity, was regarded as a necessary antecedent for successful social mobilisation [21, 22].
+ Raising critical consciousness through collective dialogue and action was also considered an
+ important component of community mobilisation [21–23]. Additional domains included
+ shared concern for HIV as a priority health issue, participation in collective action, organisa-
+ tional structures and networks facilitating collective action, and leadership [21, 23].
+ Another hypothesised mechanism of action is by influencing HIV stigma, which has been
+ consistently noted as a barrier to engagement with HIV services [24, 25]. HIV stigma stems
+ from drivers such as fear of HIV infection and social judgement and can subsequently impede
+ access and utilisation of HIV services [26]. Community-led strategies could change norms
+ around care-seeking by activating community support for HIV prevention and treatment. A
+ separate hypothesis suggests the role of HIVST in reducing HIV stigma by empowering indi-
+ viduals and normalising HIV testing [27].
+ 
+<section> HIVST, HIV self-testing. Causal directed acrylic graph of the mediation framework. � Measured at the individual 
+<section> For the current study, we hypothesised that individual-level community mobilisation domains
+ and community HIV stigma acted as mediators between the community-led HIVST intervention
+ and the outcome of tested for HIV in the last 3 months. We collected data on hypothesised media-
+ tors in the post-intervention survey among a random sample (approximately 20%) of participants
+ receiving an extended questionnaire. Community constructs are commonly captured at the indi-
+ vidual level to represent individual perceptions within the community or aggregated at the com-
+ munity level to denote shared perceptions [28]. Given the brief implementation period, we
+ hypothesised that the intervention would likely impact individual perceptions of community mea-
+ sures rather than broader norms. To measure dimensions of community mobilisation, we used
+ subset of domains from previously validated scores [28]. Data were captured on perceived social
+ cohesion, a six-item scale for sense of community; perceived shared HIV concern, a 10-item scale
+ for concern related to HIV prevention; and perceived critical consciousness, an 11-item scale for
+ collective problem assessment and resolution (Table A in S1 Text) [28]. Community HIV stigma
+ included five items measuring perceptions of HIV stigma within the community, with responses
+ based on a three-point Likert scale (Table A in S1 Text) [29].
+ 
+<section> Statistical analysis
+ 
+<section> Analysis was restricted to participants providing complete data for the outcome and potential
+ mediators. We assessed implementation outcomes, including awareness and uptake of HIV
+ self-testing, and evaluated intervention and mediation effects. Our mediation model estimated
+ the effect of the cluster-level intervention (community-led HIVST) on the individual-level
+ mediators (social cohesion, shared HIV concern, critical consciousness, community HIV
+ stigma) and outcome (tested for HIV in the last 3 months). Individual-level scores for each
+ potential mediator were generated by summing the question items and standardising the raw
+ scores, with higher scores representing higher levels of each domain. To assess scale reliability,
+ we calculated Raykov’s rho from confirmatory factor analysis using a weighted least squares
+ approach [30]. Coefficients for social cohesion (0.86), shared concern (0.95), critical con-
+ sciousness (0.96), and community HIV stigma (0.77) showed acceptable reliability.
+ Mediation analysis was based on a counterfactual framework that extends the product-of-
+ coefficients approach to accommodate a common binary outcome and interaction between
+ the intervention and mediator [15, 31–33]. Effect estimates include natural direct and indirect
+ effects. The direct effect is the intervention effect on the outcome if the mediator was fixed at
+ the level it would have taken in the absence of the intervention. The indirect effect measures
+ the mediation effect; that is, the effect on the outcome caused by the intervention effect on the
+ mediator and the subsequent effect of the mediator on the outcome. Effects can be causally
+ interpreted assuming control is made for intervention-mediator, intervention-outcome, and
+ mediator-outcome confounding and mediator-outcome confounders are not affected by the
+ intervention [15]. Randomisation of the intervention can minimise confounding bias, though
+ further control may be needed to account for cluster randomisation [34]. Adjustment for
+ mediator-outcome confounding is also important given the strong assumptions required for
+ causal interpretation of direct and indirect effects.
+ We fitted a set of regression models for each potential mediator. To estimate intervention-
+ mediator effects, model 1 included linear regression of the potential mediator on the study
+ arm. The model also included a set of covariates that showed imbalance between study arms
+ (sex, age group, literacy, religion, ethnicity, health status), or was a potential mediator-out-
+ come confounder (social capital) as identified through Fig 1. Social capital, defined as mem-
+ bership in community groups, was selected since the measure represented a time-invariant
+ measure of social relationships and networks (Table A in S1 Text). A random effect for the 
+<section> cluster was used to account for the cluster-randomised design [34, 35]. To estimate mediator-
+ outcome effects, we used a Poisson model with robust standard errors to approximate risk
+ ratios, since the outcome was common [36]. Model 2, which was stratified by arm, used Pois-
+ son regression and included the outcome on the mediator, covariates, and the mediator-out-
+ come confounder. We investigated the relationship between the standardised score of the
+ mediator and the outcome by including linear and quadratic terms of the mediator. The
+ model also adjusted for clustering with a random effect.
+ To calculate direct and indirect effects, we used estimates from Model 1 and a third model
+ [15]. Model 3 included Poisson regression of the outcome on the study arm, the potential
+ mediator, an intervention-mediator interaction term, covariates, and the mediator-outcome
+ confounder, with a robust standard error and random effect for cluster. Mediators showing
+ non-linear relationship with the outcome were log-transformed in both models. To calculate
+ confidence intervals for direct and indirect effects, we used a bias-corrected bootstrap
+ approach with 1,000 replicates [37]. To explore heterogeneity in intervention and mediation
+ effects, we additionally stratified our analysis by sex and age group, with a focus on adolescents
+ 15–19 years and older adults 40 years and above due to more substantial gaps in undiagnosed
+ HIV. Stata version 14.0 was used for statistical analysis.
+ 
+<section> Results
+ 
+<section> Response rates for the post-intervention survey were 90.2% (3960/4388) and 89.2% (3920/
+ 4394) in the community-led HIVST and SOC arms, respectively (Fig A in S1 Text). Of eligible
+ participants, 24.8% (1955/7880) were selected for the extended module. Most participants
+ were included in the primary analysis, with 97.0% (970/1000) in the community-led HIVST
+ arm and 96.6% (923/955) in the SOC arm providing complete data. The majority of partici-
+ pants obtained primary-level education or below and were married (Table 1). Individual char-
+ acteristics were mainly balanced between arms.
+ 
+<section> Implementation
+ 
+<section> The community-led HIVST intervention was delivered in 15 eligible clusters from 5th Octo-
+ ber, 2018 to 17th January, 2019. HIVST campaigns were implemented by 157 community
+ health action group members (cluster mean 10.5) and 190 community volunteers (cluster
+ mean 12.7; Table B in S1 Text). Implementation strategies involved sensitisation and distribu-
+ tion of HIVST kits at village head-led community meetings, homes, and fixed locations and
+ social hotspots, including schools, churches and mosques, boreholes, fishing docks, sports
+ fields, and video shows. Strategies to support linkage to routine HIV services included active
+ post-test follow-up, phone referrals to health facilities, and material assistance such as trans-
+ portation funds. Overall, 24,316 HIVST kits (cluster mean 1621) were distributed.
+ Self-testing for HIV in the last 3 months was 72.6% (704/970) in the community-led HIVST
+ arm, ranging by cluster from 40.3% to 92.7%, and 5.4% (50/923) in the SOC arm (Table B in
+ S1 Text). In the community-led HIVST arm, HIVST uptake was lowest among women aged
+ 40 years and above (65.2%, 101/155) and highest among women aged 20 to 39 years (82.5%,
+ 241/292; Fig B in S1 Text). The proportion of participants who had heard of HIVST was 96.1%
+ (932/970) in the community-led HIVST arm, varying by cluster from 83.5% to 100.0%, and
+ 36.5% (337/923) in the SOC arm.
+ 
+<section> Effect of the intervention on potential mediators
+ 
+<section> Table 2 includes estimates of the intervention effect on standardised scores for the potential
+ mediators. Compared with the SOC arm, social cohesion (adjusted mean difference [MD] 
+<insert> Table 1. Comparison of population characteristics by study arm.
+ Community-led HIVST SOC
+ n (%) n (%)
+ Household characteristics (N = 834) (N = 822)
+ Adults (median/range) � 2 (1–8) 2 (0–10)
+ 1 (0–1) 1 (0–1)
+ Lowest 177 (22.8%) 174 (22.7%)
+ Second 157 (20.2%) 174 (22.7%)
+ Third 157 (20.2%) 150 (19.6%)
+ Fourth 131 (16.9%) 137 (17.9%)
+ Highest 154 (19.8%) 130 (17.0%)
+ Individual characteristics (N = 970) (N = 923)
+ Male 394 (40.6%) 363 (39.3%)
+ Age (median/range) 29 (15–96) 29 (15–90)
+ 15–19 years 214 (22.1%) 193 (20.9%)
+ 20–39 years 478 (49.3%) 476 (51.6%)
+ � 40 years 278 (28.7%) 254 (27.5%)
+ Married or living together 609 (62.8%) 581 (62.9%)
+ Separated, divorced or widowed 150 (15.5%) 125 (13.5%)
+ Never married 211 (21.8%) 217 (23.5%)
+ None 414 (42.7%) 396 (42.9%)
+ Primary 457 (47.1%) 442 (47.9%)
+ Secondary or higher 99 (10.2%) 85 (9.2%)
+ Literate 562 (57.9%) 515 (55.8%)
+ Muslim 699 (72.1%) 695 (75.3%)
+ Yao 688 (70.9%) 681 (73.8%)
+ Ngoni 122 (12.6%) 103 (11.2%)
+ Other 160 (16.5%) 139 (15.1%)
+ Very good 394 (40.6%) 318 (34.5%)
+ Good 403 (41.5%) 425 (46.0%)
+ Fair 80 (8.2%) 83 (9.0%)
+ Poor 93 (9.6%) 97 (10.5%)
+ Children (median/range) �
+ Household wealth index †
+ Age group
+ Marital status
+ Educational attainment
+ Ethnicity
+ Self-rated health status
+ HIVST, HIV self-testing; SOC, standard of care.
+ � 13 missing values in the HIVST arm and 6 missing values in the SOC arm.
+ † 58 missing values in the HIVST arm and 57 missing values in the SOC arm.
+ https://doi.org/10.1371/journal.pgph.0001129.t001 
+<iend>
+
+ 
+<section> 0.15, 95% CI -0.03 to 0.32, p = 0.10) and shared concern for HIV (adjusted MD 0.13, 95% CI
+ -0.02 to 0.29, p = 0.09) were slightly higher in the community-led HIVST arm, though evi-
+ dence of an intervention effect was weak. Evidence of differences between study arms was not
+ observed for community HIV stigma (adjusted MD -0.01, 95% CI -0.18 to 0.16, p = 0.91) and
+ critical consciousness (adjusted MD 0.11, 95% CI -0.08 to 0.31, p = 0.26). 
+<insert> Table 2. Effect of community-led HIV self-testing intervention and potential mediators.
+ (1) (2)
+ Effect of intervention on potential
+ mediator �
+ Effect of potential mediator on HIV testing in the last 3 months by study arm †
+ Adjusted mean difference (95% CI)
+ Community-led HIVST SOC
+ Adjusted risk ratio (95%
+ CI)
+ Adjusted risk ratio (95%
+ CI)
+ p-value p-value p-value
+ (A) Community HIV
+ stigma
+ -0.01 (-0.18, 0.16) 0.97 (0.93, 1.01) 0.91 (0.82, 1.02)
+ 0.91 0.12 0.10
+ (B) Social cohesion 0.15 (-0.03, 0.32) 0.92 (0.87, 0.98) 1.02 (0.96, 1.08)
+ 0.10 0.006 0.59
+ Social cohesion 0.95 (0.91, 0.99) 1.00 (0.94, 1.06)
+ (C) Shared concern for
+ HIV
+ 0.01 0.94
+ 0.13 (-0.02, 0.29) 0.91 (0.87, 0.97) 0.98 (0.92, 1.04)
+ 0.09 0.001 0.47
+ Shared concern for 0.94 (0.91, 0.98) 0.98 (0.94, 1.02)
+ HIV
+ (D) Critical consciousness
+ 0.006 0.42
+ 0.11 (-0.08, 0.31) 0.92 (0.86, 0.99) 1.02 (0.92, 1.13)
+ 0.26 0.02 0.69
+ 0.96 (0.92, 1.01) 1.01 (0.92, 1.10)
+ 0.10 0.88
+ Critical consciousness
+ p-value for interaction for study
+ arm ‡
+ 0.42
+ 0.12
+ 0.18
+ 0.09
+ C, control; HIVST, HIV self-testing; I, intervention; SOC, standard of care. N = 1893.
+ � Adjusted mean difference for the study arm (I-C). Model 1 is a linear regression model of the potential mediators on the study arm, with each mediator evaluated
+ separately as the outcome in Models A to D. Analysis adjusts for sex, age group, literacy, religion, ethnicity, health status, and social capital, with a random effect for
+ cluster.
+ † Adjusted RR for the linear term for the potential mediator. Model 2 is a Poisson regression model of recent HIV testing on the mediators, with each mediator
+ evaluated separately as the exposure in Models A to D. Models 2B to D include both a linear and quadratic term for the mediators. Analysis is stratified by study arm
+ and adjusts for sex, age group, literacy, religion, ethnicity, health status, and social capital, with a robust standard error and random effect for cluster.
+ ‡ Interaction p-value in Model 2A is for the study arm and the linear term for the potential mediator. Interaction p-values in Models 2B to D are for the study arm and
+ the linear and quadratic terms for the mediators
+ https://doi.org/10.1371/journal.pgph.0001129.t002
+ In sub-group analysis, there was some evidence of an intervention effect among women for
+ social cohesion (adjusted MD 0.17, 95% CI -0.01 to 0.35, p = 0.06), shared HIV concern
+ (adjusted MD 0.16, 95% CI 0.00 to 0.31, p = 0.05), and critical consciousness (adjusted MD
+ 0.18, 95% CI -0.02 to 0.37, p = 0.07). There was no evidence of an intervention effect among
+ men (Table C in S1 Text). In older adults, weak evidence of an intervention effect was observed
+ for social cohesion (adjusted MD 0.15, 95% CI -0.01 to 0.31, p = 0.06; Table E in S1 Text). Dif-
+ ferences between study arms were not detected in adolescents. 
+<iend>
+
+ 
+<section> Effect of the potential mediators on outcome
+ 
+<section> Estimates of causal associations between the standardised scores for the potential mediators
+ and the outcome by study arm are presented in Table 2, with the risk ratio [RR] denoting the
+ change in recent HIV testing (in the last 3 months) associated with a standard deviation
+ increase in the score for the potential mediator. As illustrated in Fig 2, social cohesion and
+ shared concern for HIV demonstrated a strong quadratic association with recent testing in the
+ community-led HIVST arm, with a positive relationship measured at lower levels of scores fol-
+ lowed by a waning effect at higher levels. Similarly, critical consciousness showed a positive 
+<section> Fig 2. Prediction plots of recent HIV testing
+ values obtained from Poisson regression
+ community-led HIV self-testing arm. Fitted
+ https://doi.org/10.1371/journal.pgph.0001129.g002
+ 
+<section> and potential mediators. aRR, adjusted risk ratio. Prediction plots with fitted values and 95% CIs. Prediction
+ of recent HIV testing on the linear and quadratic terms for the potential mediators, as standardised scores, in the
+ values obtained from a quadratic model of prediction values.
+ 
+<section> association with recent testing at lower ranges of scores and a negative association at higher
+ ranges. There was no evidence of an association between community HIV stigma and recent
+ testing. In the SOC arm, there was no evidence for a strong association between each potential
+ mediator and recent testing nor an interaction effect by study arm.
+ In sub-group analysis, community HIV stigma was strongly associated with recent HIV
+ testing among women in the community-led HIVST arm (adjusted RR: 0.95, 95% CI 0.90 to
+ 1.00, p = 0.05). Social cohesion also showed a strong quadratic relationship with recent testing
+ (Fig C1 in S1 Text). Among men, shared HIV concern and critical consciousness were found
+ to have a strong quadratic association with recent testing in the community-led HIVST arm
+ (Fig C2 in S1 Text). There was also evidence of a quadratic relationship between shared HIV
+ concern and recent testing among older adults in the community-led HIVST arm. No evi-
+ dence of an association was observed between potential mediators and recent testing in adoles-
+ cent counterparts (Fig D1 and D2 in S1 Text). Further, sub-group analysis did not detect a
+ strong association between nearly all potential mediators and recent testing in the SOC arm
+ well as an interaction effect by study arm (Tables C and E in S1 Text).
+ 
+<section> Direct and indirect effects of intervention on outcome
+ 
+<section> Analyses reported strong evidence for a direct effect of the community-led HIVST interven-
+ tion on recent HIV testing (Table 3). Indirect effects appeared to be limited across potential
+ mediators, overall and for most sub-groups (Tables D and F in S1 Text).
+ 
+<section> Discussion
+ 
+<section> This study used causal mediation approaches to assess whether measures of community mobi-
+ lisation and community HIV stigma mediated the effect of community-led delivery of HIVST
+ on recent HIV testing. We found that the community-led HIVST intervention increased
+ uptake of recent testing, with the effect appearing to be almost entirely direct. There was no
+ evidence of indirect effects from changes in perceived social cohesion, shared HIV concern,
+ critical consciousness, and community HIV stigma at the individual level. However, the 
+<insert> Table 3. Direct and indirect effect of community-led HIV self-testing intervention.
+ Effect
+ (A)
+ Direct effect
+ Adjusted risk ratio (bootstrap CI)
+ Community HIV stigma 1.85 (1.72, 2.01)
+ (B) Social cohesion � 1.75 (1.58, 1.99)
+ (C) Shared concern for HIV � 1.79 (1.62, 2.02)
+ (D) Critical consciousness � 1.75 (1.57, 1.97)
+ N = 1893. Estimates for direct and indirect effects are based on Models 1 and 3.
+ potential mediator evaluated separately as a covariate in Models A to D. An interaction
+ group, literacy, religion, ethnicity, health status, and social capital, with a robust
+ bias-corrected bootstrap approach.
+ � Model includes log transformation of the potential mediator.
+ https://doi.org/10.1371/journal.pgph.0001129.t003 
+<iend>
+
+ 
+<section> of intervention on HIV testing in the last 3 months
+ 
+<section> Indirect effect 
+<section> Total effect
+ Adjusted risk ratio (bootstrap CI) Adjusted risk ratio (bootstrap CI)
+ 1.00 (1.00, 1.01) 1.85 (1.72, 2.02)
+ 
+<section> 1.00 (0.99, 1.00) 
+<section> 1.74 (1.57, 1.98)
+ 1.00 (0.99, 1.00) 1.78 (1.61, 2.01)
+ 1.00 (0.99, 1.01) 1.75 (1.57, 1.97)
+ 
+<section> Model 3 is a Poisson regression model of recent HIV testing on the study arm, with each
+ term for the study arm and the mediator is included. Analysis adjusts for sex,
+ standard error and random effect for cluster. Confidence intervals are calculated using
+ 
+<section> intervention did slightly increase levels of perceived social cohesion and shared concern for
+ HIV. Higher perceived social cohesion, community concern for HIV, and critical conscious-
+ ness also apparently had a positive relationship with recent testing at lower levels of scores fol-
+ lowed by a diminishing effect in the community-led HIVST arm. We found no evidence of
+ intervention effects on perceptions of critical consciousness and community HIV stigma as
+ well as an association between community stigma and recent testing. Few studies have quanti-
+ tatively assessed mechanisms underlying the effect of community participation in health inter-
+ ventions. We conclude that the intervention effect mostly operated directly through
+ community-driven service delivery of a novel HIV technology rather than through intermedi-
+ ate effects on individual perceptions of community mobilisation and HIV stigma.
+ We reported that the effect of the community-led HIVST intervention on recent HIV test-
+ ing mostly occurred through direct pathways. Therefore, we mainly attribute the impact of the
+ intervention to community ownership in the design and implementation of the HIVST cam-
+ paign, which showed good coverage, rather than to changes in individual perceptions of social
+ cohesion, shared HIV concern, and critical consciousness [20, 38]. The absence of indirect
+ effects potentially stems from the intervention design. The intervention was developed for
+ communities to periodically lead provision of HIV programmes, with frequency dependent
+ contextual factors including prevalence of undiagnosed HIV. The short implementation
+ period had certain advantages, with the intervention yielding low unit costs for a community
+ HIV testing programme [39]. However, such a strategy is perhaps more conducive to commu-
+ nity participation in biomedical interventions in contrast with interventions aimed at impact-
+ ing social and structural determinants of HIV. Previous studies of community participation
+ HIV programmes involved multi-year implementation to build community empowerment [9,
+ 40, 41]. Longer implementation periods and more explicit intervention on dimensions of com-
+ munity empowerment may therefore be needed in order to influence downstream determi-
+ nants of HIV but would likely require additional economic investment.
+ Despite the lack of evidence for indirect effects, we found that the community-led HIVST
+ intervention may have led to changes in individual perceptions of shared HIV concern and
+ social cohesion, overall and among sub-groups including women. Of the potential mediators,
+ we posited that the intervention would most likely impact community HIV concern, which
+ captures the importance of HIV as a collective priority, since the measure was specific to HIV.
+ More generic scores included social cohesion, which captured community connectedness, and
+ critical consciousness, which measured collective problem resolution. In the community-led 
+<section> HIVST arm, individual perceptions of social cohesion, community concern for HIV, and criti-
+ cal consciousness demonstrated a positive association with recent HIV testing at lower ranges
+ of each score followed by a negative association at higher levels. The quadratic relationship
+ may indicate the limited effect of community mobilisation domains on the outcome, which
+ reaches a maximum point at low scores. A limited number of studies have quantitatively evalu-
+ ated the contribution of community participation towards improving HIV-related outcomes.
+ A multi-country study in southern Africa and Thailand reported that community mobilisation
+ delivered with mobile HTS increased positive social norms for HIV testing [9]. Success was
+ attributed to community engagement and relationship-building and context-specific, iterative
+ implementation [42]. In South Africa, community mobilisation domains were associated with
+ HIV testing following the implementation of a community mobilisation intervention [41],
+ with interpersonal and community-level respect, communication, and empathy concluded to
+ be integral components of change [43]. Our study adds to the literature by evaluating the role
+ of community participation and continues to highlight the potential of investing in commu-
+ nity health systems as a strategy for HIV prevention.
+ We hypothesised that the community-led HIVST intervention could reduce perceived
+ community HIV stigma at the individual level by mobilising community support for HIV pre-
+ vention or normalising HIV testing through HIVST. This study did not find strong evidence
+ for an intervention effect on community HIV stigma nor an effect of community stigma levels
+ on recent HIV testing. To reduce community HIV stigma, interventions would also likely
+ require a longer period of implementation that specifically targeted drivers of stigma [44]. Dis-
+ entangling the effects of HIV stigma can be challenging and is perhaps limited by our media-
+ tion framework. Community HIV stigma was posited to be on the causal pathway between the
+ intervention and outcome, but it is possible, for example, that changes in community concern
+ for HIV might first be necessary to reduce stigma. Further, community HIV stigma may have
+ a bidirectional relationship with the outcome, with reduced stigma increasing uptake of
+ HIVST and further normalising HIV testing and reducing stigma. In the context of a multiple
+ component intervention with simultaneous multilevel impacts, the challenge of establishing
+ causal effects could be addressed by prospectively measuring variables at sequential timepoints
+ [15].
+ A strength of our study is the use of recent mediation methods to evaluate mechanisms of
+ action underlying the effect of a complex intervention and their relative contribution to
+ changes in the outcome. We used statistical techniques that extend traditional mediation
+ approaches to allow for a binary outcome and intervention-mediator interaction. We also
+ assessed mediation effects within a cluster-randomised design. By randomising the interven-
+ tion, the study design minimises confounding and accounts for temporality assumptions
+ between the intervention and mediator and the intervention and outcome, satisfying certain
+ conditions important for causal interpretation [15]. Further, lessons from our study can poten-
+ tially be applied to self-care interventions that involve and empower community groups in
+ similar settings.
+ A limitation of our study is the use of a cross-sectional survey to measure the outcome,
+ potential mediators, and mediator-outcome confounders, meaning the assumption that the
+ mediator precedes the outcome was not automatically satisfied by the study design. For exam-
+ ple, it is possible that engaging in HIV testing might affect an individual’s perception of shared
+ HIV concern or community HIV stigma. To account for the direction of causality, we ideally
+ would have measured the potential mediators and outcome in temporal order. The assump-
+ tion that the intervention does not impact mediator-outcome confounders may also not be
+ completely satisfied, though we aimed to select variables that conceptually were less likely be
+ affected by the intervention. We also did not measure the potential mediators prior to the 
+<section> intervention and adjust for their levels at baseline, which may be a source of unmeasured
+ mediator-outcome confounding. Sensitivity analysis can account for the respective associa-
+ tions between unmeasured confounders and the mediator and outcome and their impact on
+ effect estimates [45]. We reported a lack of association between the potential mediators and
+ outcome in the SOC arm, which could function as a proxy for baseline estimates and indicates
+ that our conclusions would be unlikely to change.
+ Our mediation framework also assessed a single mediator variable at a time but did not
+ evaluate direct and indirect effects based on a combined set of mediators [46]. Given that we
+ did not find evidence of an indirect effect for each mediator, we would be unlikely to observe
+ combined effect. We also did not account for whether the potential mediators affected other
+ mediators of interest on the causal pathway [46], including the possibility that changes in com-
+ munity mobilisation domains might be requisite for changes in community HIV stigma. Final
+ limitations concern the measurement of outcomes and potential mediators. Measures for com-
+ munity mobilisation and community HIV stigma were based on perceived rather than experi-
+ enced constructs and represent individual perceptions within the community [28]. We also
+ only used a subset of domains of community mobilisation from a previously validated score
+ [28]. Finally, our data were self-reported, which may have resulted in overestimation of out-
+ comes and mediators in the community-led HIVST arm due to recall or social desirability
+ bias.
+ Community-led delivery of HIVST increased uptake of recent HIV testing, with the inter-
+ vention effect predominantly occurring through direct pathways rather than indirectly by
+ modifying individual perceptions of community mobilisation and community HIV stigma.
+ The community-led HIVST intervention apparently increased perceived shared concern for
+ HIV and social cohesion, which alongside perceived critical consciousness had a protective
+ effect on recent testing in the intervention arm but only at lower ranges of scores. By investi-
+ gating mediation effects, we were able to evaluate factors important for optimising commu-
+ nity-led HIV interventions. Our findings suggest that the impact of the community-led
+ HIVST intervention mainly stemmed from community-driven service delivery rather than by
+ modifying social and structural determinants of HIV. More frequent or active community par-
+ ticipation might be required to achieve changes in community mobilisation and other social
+ enablers as mechanisms for improving HIV-related outcomes. Trade-offs between immediate
+ economic costs and building more sustainable community responses for HIV prevention,
+ however, would need to be considered.
+ 
+<section> Supporting information
+ 
+<section> S1 Text.
+ 
+<section> (DOCX)
+ 
+<section> S2 Text. Inclusivity in global research.
+ 
+<section> (DOCX)
+ 
+<section> Acknowledgments
+ 
+<section> We acknowledge the study participants; community partners and the Mangochi District
+ Health Office for their involvement in the implementation of the study; the Department of
+ HIV and AIDS at the Ministry of Health for their involvement in the study design; the
+ Malawi-Liverpool-Wellcome Trust Clinical Research Programme and Population Services
+ International Malawi team for their contributions to the study design and implementation;
+ and the technical advisory group for their scientific input and guidance. 
+<section> Author Contributions
+ 
+<section> Conceptualization: Pitchaya P. Indravudh, Fern Terris-Prestholt, Melissa Neuman, Katherine
+ Fielding.
+ 
+<section> Data curation: Pitchaya P. Indravudh.
+ 
+<section> Formal analysis: Pitchaya P. Indravudh, Fern Terris-Prestholt, Katherine Fielding.
+ 
+<section> Funding acquisition: Karin Hatzold, Elizabeth L. Corbett.
+ 
+<section> Investigation: Pitchaya P. Indravudh, Fern Terris-Prestholt, Katherine Fielding.
+ 
+<section> Methodology: Pitchaya P. Indravudh, Fern Terris-Prestholt, Moses K. Kumwenda, Richard
+ Chilongosi, Elizabeth L. Corbett, Katherine Fielding.
+ 
+<section> Project administration: Pitchaya P. Indravudh, Moses K. Kumwenda, Richard Chilongosi.
+ 
+<section> Resources: Pitchaya P. Indravudh, Moses K. Kumwenda, Richard Chilongosi.
+ 
+<section> Software: Pitchaya P. Indravudh.
+ 
+<section> Supervision: Pitchaya P. Indravudh, Fern Terris-Prestholt, Melissa Neuman, Cheryl C. John-
+ son, Karin Hatzold, Elizabeth L. Corbett, Katherine Fielding.
+ 
+<section> Validation: Fern Terris-Prestholt, Katherine Fielding.
+ 
+<section> Visualization: Pitchaya P. Indravudh.
+ 
+<section> Writing – original draft: Pitchaya P. Indravudh, Cheryl C. Johnson.
+ 
+<section> Writing – review & editing: Fern Terris-Prestholt, Melissa Neuman, Moses K. Kumwenda,
+ Richard Chilongosi, Karin Hatzold, Elizabeth L. Corbett, Katherine Fielding.
+ 
+<section> References
+ 
+<section> UNAIDS. UNAIDS Data 2019. Geneva, Switzerland: Joint United Nations Programme on HIV/AIDS
+ 
+<section> (UNAIDS), 2019.
+ Sharma M, Ying R, Tarr G, Barnabas R. Systematic review and meta-analysis of community and facil-
+ ity-based HIV testing to address linkage to care gaps in sub-Saharan Africa. Nature. 2015; 528(7580):
+ S77–85. https://doi.org/10.1038/nature16044 PMID: 26633769.
+ Abdool Karim SS. HIV-1 Epidemic Control—Insights from Test-and-Treat Trials. N Engl J Med. 2019;
+ 381(3):286–8. Epub 2019/07/18. https://doi.org/10.1056/NEJMe1907279 PMID: 31314975.
+ Havlir D, Lockman S, Ayles H, Larmarange J, Chamie G, Gaolathe T, et al. What do the Universal Test
+ and Treat trials tell us about the path to HIV epidemic control? J Int AIDS Soc. 2020; 23(2):e25455.
+ Epub 2020/02/25. https://doi.org/10.1002/jia2.25455 PMID: 32091179.
+ WHO. Consolidated guidelines on HIV testing services for a changing epidemic. Geneva: World Health
+ Organization (WHO), 2019.
+ WHO. Consolidated guideline on self-care interventions for health: sexual and reproductive health and
+ rights. Geneva: World Health Organization, 2019.
+ Rifkin SB. Examining the links between community participation and health outcomes: a review of the
+ literature. Health Policy Plan. 2014;29 Suppl 2:ii98–106. Epub 2014/10/03. https://doi.org/10.1093/
+ heapol/czu076 PMID: 25274645.
+ Sweat M, Morin S, Celentano D, Mulawa M, Singh B, Mbwambo J, et al. Community-based intervention
+ to increase HIV testing and case detection in people aged 16–32 years in Tanzania, Zimbabwe, and
+ 
+<section> Thailand (NIMH Project Accept, HPTN 043): a randomised study. The Lancet Infectious diseases.
+ 2011; 11(7):525–32. Epub 2011/05/07. https://doi.org/10.1016/S1473-3099(11)70060-3 PMID:
+ 21546309; PubMed Central PMCID: PMC3156626.
+ Coates TJ, Kulich M, Celentano DD, Zelaya CE, Chariyalertsak S, Chingono A, et al. Effect of commu-
+ nity-based voluntary counselling and testing on HIV incidence and social and behavioural outcomes
+ (NIMH Project Accept; HPTN 043): a cluster-randomised trial. Lancet Glob Health. 2014; 2(5):e267–77.
+ Epub 2014/08/12. https://doi.org/10.1016/S2214-109X(14)70032-4 PMID: 25103167; PubMed Central
+ 
+<section> PMCID: PMC4131207. 
+<section> Kyegombe N, Abramsky T, Devries KM, Starmann E, Michau L, Nakuti J, et al. The impact of SASA!,
+ community mobilization intervention, on reported HIV-related risk behaviours and relationship dynamics
+ in Kampala, Uganda. J Int AIDS Soc. 2014; 17:19232. Epub 2014/11/08. https://doi.org/10.7448/IAS.
+ 17.1.19232 PMID: 25377588; PubMed Central PMCID: PMC4223282.
+ Andersson N, Nava-Aguilera E, Arostegui J, Morales-Perez A, Suazo-Laguna H, Legorreta-Soberanis
+ J, et al. Evidence based community mobilization for dengue prevention in Nicaragua and Mexico
+ (Camino Verde, the Green Way): cluster randomized controlled trial. BMJ. 2015; 351:h3267. Epub
+ 2015/07/15. https://doi.org/10.1136/bmj.h3267 PMID: 26156323.
+ Pickering AJ, Djebbari H, Lopez C, Coulibaly M, Alzua ML. Effect of a community-led sanitation inter-
+ vention on child diarrhoea and child growth in rural Mali: a cluster-randomised controlled trial. Lancet
+ Glob Health. 2015; 3(11):e701–11. Epub 2015/10/18. https://doi.org/10.1016/S2214-109X(15)00144-8
+ 
+<section> PMID: 26475017.
+ Prost A, Colbourn T, Seward N, Azad K, Coomarasamy A, Copas A, et al. Women’s groups practising
+ participatory learning and action to improve maternal and newborn health in low-resource settings: a
+ systematic review and meta-analysis. Lancet. 2013; 381(9879):1736–46. Epub 2013/05/21. https://doi.
+ org/10.1016/S0140-6736(13)60685-6 PMID: 23683640.
+ Lee H, Cashin AG, Lamb SE, Hopewell S, Vansteelandt S, VanderWeele TJ, et al. A guideline for
+ reporting mediation analyses of randomized trials and observational studies: The AGReMA statement.
+ JAMA. 2021; 326(11):1045–56. https://doi.org/10.1001/jama.2021.14075 PMID: 34546296
+ VanderWeele TJ. Explanation in Causal Inference: Methods for Mediation and Interaction. New York,
+ NY: Oxford University Press; 2015.
+ Indravudh PP, Fielding K, Kumwenda MK, Nzawa R, Chilongosi R, Desmond N, et al. Effect of commu-
+ nity-led delivery of HIV self-testing on HIV testing and antiretroviral therapy initiation in Malawi: A clus-
+ ter-randomised trial. PLoS Med. 2021; 18(5):e1003608. Epub 2021/05/12. https://doi.org/10.1371/
+ journal.pmed.1003608 PMID: 33974621; PubMed Central PMCID: PMC8112698.
+ Indravudh PP, Fielding K, Kumwenda MK, Nzawa R, Chilongosi R, Desmond N, et al. Community-led
+ delivery of HIV self-testing to improve HIV testing, ART initiation and broader social outcomes in rural
+ 
+<section> Malawi: study protocol for a cluster-randomised trial. BMC infectious diseases. 2019; 19(1):814. Epub
+ 2019/09/20. https://doi.org/10.1186/s12879-019-4430-4 PMID: 31533646.
+ Rifkin SB, Pridmore P. Partners in planning: information, participation and empowerment. London:
+ Macmillan Education Ltd.; 2001.
+ Wallerstein N. Powerlessness, empowerment, and health: implications for health promotion programs.
+ Am J Health Promot. 1992; 6(3):197–205. Epub 1991/12/10. https://doi.org/10.4278/0890-1171-6.3.
+ 197 PMID: 10146784.
+ Zakus JD, Lysack CL. Revisiting community participation. Health Policy Plan. 1998; 13(1):1–12. Epub
+ 1998/02/06. https://doi.org/10.1093/heapol/13.1.1 PMID: 10178181.
+ Lippman SA, Maman S, MacPhail C, Twine R, Peacock D, Kahn K, et al. Conceptualizing community
+ mobilization for HIV prevention: implications for HIV prevention programming in the African context.
+ PLoS One. 2013; 8(10):e78208. Epub 2013/10/23. https://doi.org/10.1371/journal.pone.0078208
+ 
+<section> PMID: 24147121; PubMed Central PMCID: PMC3795620.
+ Minkler M, Wallerstein NB. Improving Health Through Community Organization and Community Build-
+ ing. In: Glanz K, Rimer BK, Lewis FM, editors. Health Behavior and Health Education: Theory,
+ Research, and Practice. 5th ed. San Francisco, CA: Josey-Bass; 2015.
+ Laverack G, Wallerstein N. Measuring community empowerment: a fresh look at organizational
+ domains. Health Promot Int. 2001; 16(2):179–85. Epub 2001/05/18. https://doi.org/10.1093/heapro/16.
+ 2.179 PMID: 11356756.
+ Katz IT, Ryu AE, Onuegbu AG, Psaros C, Weiser SD, Bangsberg DR, et al. Impact of HIV-related
+ stigma on treatment adherence: systematic review and meta-synthesis. J Int AIDS Soc. 2013; 16(3
+ Suppl 2):18640. Epub 2013/11/28. https://doi.org/10.7448/IAS.16.3.18640 PMID: 24242258; PubMed
+ 
+<section> Central PMCID: PMC3833107.
+ Musheke M, Ntalasha H, Gari S, McKenzie O, Bond V, Martin-Hilber A, et al. A systematic review of
+ qualitative findings on factors enabling and deterring uptake of HIV testing in Sub-Saharan Africa. BMC
+ public health. 2013; 13(1):220. Epub 2013/03/19. https://doi.org/10.1186/1471-2458-13-220 PMID:
+ 23497196; PubMed Central PMCID: PMC3610106.
+ Stangl AL, Brady L, Fritz K. Technical brief: Measuring HIV stigma and discrimination. Washington,
+ C.: International Center for Research on Women, 2012.
+ Napierala Mavedzenge S, Baggaley R, Corbett EL. A review of self-testing for HIV: research and policy
+ priorities in a new era of HIV prevention. Clin Infect Dis. 2013; 57(1):126–38. Epub 2013/03/15. https://
+ doi.org/10.1093/cid/cit156 PMID: 23487385; PubMed Central PMCID: PMC3669524. 
+<section> Lippman SA, Neilands TB, Leslie HH, Maman S, MacPhail C, Twine R, et al. Development, validation,
+ and performance of a scale to measure community mobilization. Soc Sci Med. 2016; 157:127–37. Epub
+ 2016/04/17. https://doi.org/10.1016/j.socscimed.2016.04.002 PMID: 27085071; PubMed Central
+ 
+<section> PMCID: PMC4853196.
+ Stangl AL, Lilleston P, Mathema H, Pliakas T, Krishnaratne S, Sievwright K, et al. Development of paral-
+ lel measures to assess HIV stigma and discrimination among people living with HIV, community mem-
+ bers and health workers in the HPTN 071 (PopART) trial in Zambia and South Africa. J Int AIDS Soc.
+ 2019; 22(12):e25421. Epub 2019/12/17. https://doi.org/10.1002/jia2.25421 PMID: 31840400; PubMed
+ 
+<section> Central PMCID: PMC6912047.
+ Acock AC. Discovering Structural Equation Modeling Using Stata. College Station, TX: Stata Press;
+ 2013.
+ Baron RM, Kenny DA. The moderator-mediator variable distinction in social psychological research:
+ conceptual, strategic, and statistical considerations. J Pers Soc Psychol. 1986; 51(6):1173–82. Epub
+ 1986/12/01. https://doi.org/10.1037//0022-3514.51.6.1173 PMID: 3806354.
+ Pearl J. Direct and indirect effects. Proceedings of the Seventeenth conference on Uncertainty in artifi-
+ cial intelligence; Seattle, Washington: Morgan Kaufmann Publishers Inc.; 2001. p. 411–20.
+ Robins JM, Greenland S. Identifiability and exchangeability for direct and indirect effects. Epidemiology.
+ 1992; 3(2):143–55. Epub 1992/03/01. https://doi.org/10.1097/00001648-199203000-00013 PMID:
+ 1576220.
+ Hayes R.J., Moulton L.H. Cluster Randomised Trials. Portland, OR: Taylor & Francis Group, LLC;
+ 2017.
+ VanderWeele TJ. Direct and indirect effects for neighborhood-based clustered and longitudinal data.
+ Sociol Methods Res. 2010; 38(4):515–44. Epub 2010/05/01. https://doi.org/10.1177/
+ 0049124110366236 PMID: 25473138; PubMed Central PMCID: PMC4249710.
+ Cummings P. The relative merits of risk ratios and odds ratios. JAMA Pediatrics. 2009; 163(5):438–45.
+ https://doi.org/10.1001/archpediatrics.2009.31 PMID: 19414690
+ Mackinnon DP, Lockwood CM, Williams J. Confidence limits for the indirect effect: Distribution of the
+ product and resampling methods. Multivariate Behav Res. 2004; 39(1):99. Epub 2004/01/01. https://
+ doi.org/10.1207/s15327906mbr3901_4 PMID: 20157642; PubMed Central PMCID: PMC2821115.
+ Shiell A, Hawe P. Health promotion community development and the tyranny of individualism. Health
+ economics. 1996; 5(3):241–7. Epub 1996/05/01. https://doi.org/10.1002/(SICI)1099-1050(199605)
+ 5:3<241::AID-HEC197>3.0.CO;2-G PMID: 8817298.
+ Indravudh PP, Fielding K, Sande LA, Maheswaran H, Mphande S, Kumwenda MK, et al. Pragmatic
+ economic evaluation of community-led delivery of HIV self-testing in Malawi. BMJ Glob Health. 2021;
+ (Suppl 4). Epub 2021/07/20. https://doi.org/10.1136/bmjgh-2020-004593 PMID: 34275869.
+ Abramsky T, Devries K, Kiss L, Nakuti J, Kyegombe N, Starmann E, et al. Findings from the SASA!
+ 
+<section> Study: a cluster randomized controlled trial to assess the impact of a community mobilization interven-
+ tion to prevent violence against women and reduce HIV risk in Kampala, Uganda. BMC Med. 2014;
+ 12:122. Epub 20140731. https://doi.org/10.1186/s12916-014-0122-5 PMID: 25248996; PubMed Cen-
+ tral PMCID: PMC4243194.
+ Lippman SA, Neilands TB, MacPhail C, Peacock D, Maman S, Rebombo D, et al. Community mobiliza-
+ tion for HIV testing uptake: Results from a community randomized trial of a theory-based intervention
+ rural South Africa. J Acquir Immune Defic Syndr. 2017; 74 Suppl 1:S44–S51. Epub 2016/12/09. https://
+ doi.org/10.1097/QAI.0000000000001207 PMID: 27930611; PubMed Central PMCID: PMC5147031.
+ Tedrow VA, Zelaya CE, Kennedy CE, Morin SF, Khumalo-Sakutukwa G, Sweat MD, et al. No "magic
+ bullet": exploring community mobilization strategies used in a multi-site community based randomized
+ controlled trial: Project Accept (HPTN 043). AIDS Behav. 2012; 16(5):1217–26. Epub 2011/08/09.
+ https://doi.org/10.1007/s10461-011-0009-9 PMID: 21822627; PubMed Central PMCID: PMC3400971.
+ MacPhail C, Khoza N, Treves-Kagan S, Selin A, Gómez-Olivé X, Peacock D, et al. Process elements
+ contributing to community mobilization for HIV risk reduction and gender equality in rural South Africa.
+ PLoS One. 2019; 14(12):e0225694. Epub 2019/12/04. https://doi.org/10.1371/journal.pone.0225694
+ 
+<section> PMID: 31790483; PubMed Central PMCID: PMC6886772.
+ Stangl AL, Lloyd JK, Brady LM, Holland CE, Baral S. A systematic review of interventions to reduce
+ HIV-related stigma and discrimination from 2002 to 2013: how far have we come? J Int AIDS Soc. 2013;
+ 16(3 Suppl 2):18734. Epub 2013/11/28. https://doi.org/10.7448/IAS.16.3.18734 PMID: 24242268;
+ 
+<section> PubMed Central PMCID: PMC3833106.
+ Ding P, Vanderweele TJ. Sharp sensitivity bounds for mediation under unmeasured mediator-outcome
+ confounding. Biometrika. 2016; 103(2):483–90. Epub 2016/04/30. https://doi.org/10.1093/biomet/
+ asw012 PMID: 27279672. 
+<section> VanderWeele TJ, Vansteelandt S. Mediation analysis with multiple mediators. Epidemiol Methods.
+ 2014; 2(1):95–115. Epub 2015/01/13. https://doi.org/10.1515/em-2012-0010 PMID: 25580377;
+ 
+<section> PubMed Central PMCID: PMC4287269.
