@@ -66,7 +66,7 @@ demo_table_trialtype_save <-
   furniture::table1(analysis,country, recruitment_status, phase_recoded, sample_size,masking_recoded,allocation, time_to_registration, na.rm = F, splitby = "trial_type")
 
 
-# Timely publication 2 years
+# Timely publication
 
 # add days_to_publ and has_publ_or_summary
 analysis <- 
@@ -88,6 +88,13 @@ mean(analysis$has_publication) * 100
 table(analysis$is_prospective)
 mean(analysis$is_prospective) * 100
 
+
+# How many reported any results within 1 year
+reported_within_1_years <- 
+  analysis |>
+  filter(days_to_publ < 365 * 1, has_publ_or_summary) |>
+  summarise(count_within_1_years = n())
+
 # How many reported any results within 2 years
 reported_within_2_years <- 
   analysis |>
@@ -103,6 +110,12 @@ reported_within_4_years <-
 
 # What is median  reporting time
 summary(analysis$days_to_publ)
+
+# What is open access status of searched publication
+dois <- analysis$`DOI (format: e.g 10.1000/182)`
+open_access_result_roadoi <- roadoi::oadoi_fetch(dois = dois, email = "")
+open_access_result_unpaywall <- unpaywallR::dois_OA_colors(dois = dois, email = "samruddhi.yerunkar@charite.de")
+table(open_access_result_roadoi$oa_status)
 
 # Save analysis dataset ---
 colnames(analysis)
