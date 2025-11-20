@@ -7,10 +7,7 @@ library(dplyr)
 
 # Define publication search (PS) list path for rater 1 
 rater_1_ps_path <- 
-  fs::path_home("Charité - Universitätsmedizin Berlin",
-                "Clinical Patient Data (AG Strech) - PRODIGY - PRODIGY",
-                "02-data", 
-                "clinical trial registry - global health condition",
+  fs::path_home("insert path",
                 "NAH-final-publication-search-17-6-2024.xlsx")
 
 # Read funder list
@@ -22,10 +19,7 @@ rater_1_ps <-
 
 # Define publication search (PS) list path for rater 2
 rater_2_ps_path <- 
-  fs::path_home("Charité - Universitätsmedizin Berlin",
-                "Clinical Patient Data (AG Strech) - PRODIGY - PRODIGY",
-                "02-data", 
-                "clinical trial registry - global health condition",
+  fs::path_home("insert path",
                 "SSY-final-publication-search-17-6-2024.xlsx")
 
 # Read funder list
